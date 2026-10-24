@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 35, 31, 28;
+  --background-start-rgb: 251, 249, 245;
+  --background-end-rgb: 247, 243, 236;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: #FBF9F5;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  min-height: 100vh;
+}
+
+/* Stanza and verse layout styling */
+.bhajan-stanza {
+  margin-bottom: 2rem;
+  line-height: 2.1;
+}
+
+.bhajan-line {
+  margin-bottom: 0.35rem;
+}
+
+/* Smooth font rendering for Devanagari & Latin */
+.devanagari-text {
+  font-family: 'Noto Serif Devanagari', 'Mangal', 'Kokila', Georgia, serif;
+  letter-spacing: 0.01em;
+}
+
+/* Respect user's motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

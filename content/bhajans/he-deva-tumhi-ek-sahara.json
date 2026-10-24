@@ -1,0 +1,44 @@
+{
+  "id": "bhajan-pr-02",
+  "slug": "he-deva-tumhi-ek-sahara",
+  "categoryId": "prarthana",
+  "title": "हे देवा तुम्हीं एक सहारा",
+  "romanTitle": "He Deva Tumhi Ek Sahara",
+  "firstLine": "भव सागर में डगमग नैया, तुम्हीं खेवैया पार करो",
+  "lyrics": [
+    [
+      "भव सागर में डगमग नैया, तुम्हीं खेवैया पार करो,",
+      "तूफानों से घिरे हुए हैं, प्रभुजी अपनी दया करो।",
+      "ना कोई बल है ना कोई साधन, केवल तेरा नाम आधार,",
+      "डूब न जाए आस हमारी, थाम लो आकर पतवार।"
+    ],
+    [
+      "सारे जग के रिश्ते छूटे, तू ही एक सच्चा मीत,",
+      "अंतरमन में गूँज उठी है, तेरे पावन नाम की प्रीत।",
+      "हे देवा तुम्हीं एक सहारा, संकट सब हर लो प्रभु।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Bhav saagar mein dagmag naiya, tumhi khevaiya paar karo,",
+      "Toofaanon se ghire huye hain, prabhuji apni daya karo.",
+      "Na koi bal hai na koi saadhan, keval tera naam aadhaar,",
+      "Doob na jaaye aas hamaari, thaam lo aakar patwaar."
+    ],
+    [
+      "Saare jag ke rishte chhoote, tu hi ek saccha meet,",
+      "Antarman mein goonj uthi hai, tere paavan naam ki preet.",
+      "He deva tumhi ek sahara, sankat sab har lo prabhu."
+    ]
+  ],
+  "alternateSpellings": [
+    "He Dev Tumhi Ek Sahara",
+    "Bhav Sagar Mein Dagmag Naiya",
+    "Tumhi Khevaiya"
+  ],
+  "tags": ["prarthana", "sahara", "surrender", "asra", "sharan"],
+  "displayOrder": 2,
+  "isDemo": true,
+  "source": "Demo content — replace with verified Sindhi bhajan lyrics.",
+  "updatedAt": "2026-03-20"
+}

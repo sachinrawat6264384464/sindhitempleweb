@@ -1,0 +1,44 @@
+{
+  "id": "bhajan-ar-02",
+  "slug": "sundar-jyoti-aarti-vandana",
+  "categoryId": "aarti",
+  "title": "सुन्दर ज्योति आरती वंदना",
+  "romanTitle": "Sundar Jyoti Aarti Vandana",
+  "firstLine": "जगमग ज्योति जली दरबार, आरती उतारूँ बारम्बार",
+  "lyrics": [
+    [
+      "जगमग ज्योति जली दरबार, आरती उतारूँ बारम्बार,",
+      "रत्न सिंहासन प्रभु विराजे, शोभा अपरंपार।",
+      "फूलों की वर्षा बरसे गगन से, देव करें जयकार,",
+      "चरण शरण में जो कोई आवे, पावे भव से पार।"
+    ],
+    [
+      "तन मन धन सब अर्पण तुमको, तुम ही पालनहार,",
+      "हाथ जोड़ कर वंदना गाऊँ, सुनो दीन पुकार।",
+      "सुन्दर ज्योति आरती गाओ, जय जय जय जगदीश।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Jagmag jyoti jali darbaar, aarti utaaroon baarmbaar,",
+      "Ratna sinhaasan prabhu viraaje, shobha aparamapaar.",
+      "Phoolon ki varsha barse gagan se, dev karein jaykaar,",
+      "Charan sharan mein jo koi aave, paave bhav se paar."
+    ],
+    [
+      "Tan man dhan sab arpan tumko, tum hi paalanhaar,",
+      "Haath jod kar vandana gaaoon, suno deen pukaar.",
+      "Sundar jyoti aarti gaao, jay jay jay jagdeesh."
+    ]
+  ],
+  "alternateSpellings": [
+    "Sundar Jyoti Aarti",
+    "Jagmag Jyoti Jali Darbar",
+    "Aarti Vandana"
+  ],
+  "tags": ["aarti", "jyoti", "vandana", "darbar", "prakash"],
+  "displayOrder": 2,
+  "isDemo": true,
+  "source": "Demo content — replace with verified Sindhi bhajan lyrics.",
+  "updatedAt": "2026-04-01"
+}

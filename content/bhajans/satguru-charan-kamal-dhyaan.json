@@ -1,0 +1,46 @@
+{
+  "id": "bhajan-gb-01",
+  "slug": "satguru-charan-kamal-dhyaan",
+  "categoryId": "guru-bhakti",
+  "title": "सतगुरु चरण कमल ध्यान",
+  "romanTitle": "Satguru Charan Kamal Dhyaan",
+  "firstLine": "सतगुरु के पावन चरणों में मन लगाओ रे",
+  "lyrics": [
+    [
+      "सतगुरु के पावन चरणों में मन लगाओ रे,",
+      "भव सागर से पार उतरने का मार्ग पाओ रे।",
+      "अंधियारा मन का सब दूर हो जाएगा,",
+      "ज्ञान का दीपक अंतर्मन में जगमगाएगा।"
+    ],
+    [
+      "वाणी में प्रेम रस, नयनों में अमृत धार,",
+      "सच्चे गुरु की शरण में मिलता सुख अपार।",
+      "छोड़ अहंकार सब, शीश झुकाओ रे,",
+      "सतगुरु के पावन चरणों में मन लगाओ रे।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Satguru ke paavan charnon mein man lagao re,",
+      "Bhav saagar se paar utarne ka maarg pao re.",
+      "Andhiyaara man ka sab door ho jaayega,",
+      "Gyaan ka deepak antarman mein jagmagaayega."
+    ],
+    [
+      "Vaani mein prem ras, naynon mein amrit dhaar,",
+      "Sacche guru ki sharan mein milta sukh apaar.",
+      "Chhod ahankaar sab, sheesh jhukao re,",
+      "Satguru ke paavan charnon mein man lagao re."
+    ]
+  ],
+  "alternateSpellings": [
+    "Satguru Charan",
+    "Satgur Charan Kamal Dhyan",
+    "Satguru Ke Paavan Charnon Mein"
+  ],
+  "tags": ["guru", "bhakti", "dhyaan", "sharan", "peace"],
+  "displayOrder": 1,
+  "isDemo": true,
+  "source": "Demo content — replace with verified Sindhi bhajan lyrics.",
+  "updatedAt": "2026-03-15"
+}

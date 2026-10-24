@@ -1,0 +1,38 @@
+[
+  {
+    "id": "guru-bhakti",
+    "slug": "guru-bhakti",
+    "name": "गुरु भक्ति",
+    "romanName": "Guru Bhakti",
+    "description": "Devotional compositions honoring the spiritual teacher, gratitude, and inner guidance.",
+    "displayOrder": 1,
+    "updatedAt": "2026-03-15"
+  },
+  {
+    "id": "prarthana",
+    "slug": "prarthana",
+    "name": "प्रार्थना",
+    "romanName": "Prarthana",
+    "description": "Supplications, heartfelt prayers of surrender, humility, and peaceful refuge.",
+    "displayOrder": 2,
+    "updatedAt": "2026-03-18"
+  },
+  {
+    "id": "naam-smaran",
+    "slug": "naam-smaran",
+    "name": "नाम स्मरण",
+    "romanName": "Naam Smaran",
+    "description": "Repetition of the divine name, rhythmic chants, and meditative simran.",
+    "displayOrder": 3,
+    "updatedAt": "2026-03-22"
+  },
+  {
+    "id": "aarti",
+    "slug": "aarti",
+    "name": "आरती",
+    "romanName": "Aarti",
+    "description": "Ceremonial verses sung with oil lamps, offerings of light, and communal adoration.",
+    "displayOrder": 4,
+    "updatedAt": "2026-03-28"
+  }
+]

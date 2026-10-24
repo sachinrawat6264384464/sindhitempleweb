@@ -1,0 +1,229 @@
+"use client";
+
+import { useState } from "react";
+import Link from "next/link";
+import { BookOpen, Copy, Check, ArrowRight, Music2 } from "lucide-react";
+import { Bhajan } from "@/lib/types";
+
+interface HomeLyricsPreviewProps {
+  bhajans: Bhajan[];
+}
+
+export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
+  const [selectedIndex, setSelectedIndex] = useState<number>(0);
+  const [activeScript, setActiveScript] = useState<"hindi" | "roman">("hindi");
+  const [copied, setCopied] = useState<boolean>(false);
+
+  const selectedBhajan = bhajans[selectedIndex] || bhajans[0];
+
+  const handleCopy = async () => {
+    if (!selectedBhajan) return;
+    const text =
+      activeScript === "hindi"
+        ? selectedBhajan.lyrics.map((st) => st.join("\n")).join("\n\n")
+        : selectedBhajan.romanLyrics.map((st) => st.join("\n")).join("\n\n");
+
+    try {
+      await navigator.clipboard.writeText(
+        `${selectedBhajan.title} (${selectedBhajan.romanTitle})\n\n${text}`
+      );
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2500);
+    } catch (err) {
+      console.error("Copy failed", err);
+    }
+  };
+
+  return (
+    <section
+      aria-labelledby="live-lyrics-heading"
+      className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/90 shadow-sm space-y-6"
+    >
+      {/* Section Header */}
+      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 border-b border-stone-200 pb-5">
+        <div>
+          <div className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-amber-50 text-amber-900 border border-amber-200 mb-2">
+            <Music2 className="w-3.5 h-3.5 text-amber-700" aria-hidden="true" />
+            <span>लाइव लिरिक्स प्रीव्यू • Live Lyrics Preview</span>
+          </div>
+          <h2
+            id="live-lyrics-heading"
+            className="font-serif text-2xl sm:text-3xl font-bold text-stone-900"
+          >
+            संपूर्ण भजन पद व लिरिक्स (Instant Lyrics Reader)
+          </h2>
+          <p className="text-stone-600 text-xs sm:text-sm mt-1">
+            नीचे किसी भी भजन पर क्लिक करें और उसके सम्पूर्ण पद और पंक्तियाँ यहीं पढ़ें
+          </p>
+        </div>
+
+        {/* Script toggle */}
+        <div className="inline-flex items-center bg-stone-100 p-1 rounded-xl self-start sm:self-auto text-xs font-semibold">
+          <button
+            type="button"
+            onClick={() => setActiveScript("hindi")}
+            className={`px-3 py-1.5 rounded-lg transition-all ${
+              activeScript === "hindi"
+                ? "bg-amber-600 text-white shadow-sm"
+                : "text-stone-700 hover:text-stone-900"
+            }`}
+          >
+            हिंदी (Devanagari)
+          </button>
+          <button
+            type="button"
+            onClick={() => setActiveScript("roman")}
+            className={`px-3 py-1.5 rounded-lg transition-all ${
+              activeScript === "roman"
+                ? "bg-amber-600 text-white shadow-sm"
+                : "text-stone-700 hover:text-stone-900"
+            }`}
+          >
+            Roman Chanting
+          </button>
+        </div>
+      </div>
+
+      {/* Bhajan Selector Tabs / Pills */}
+      <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-thin">
+        {bhajans.map((bhajan, idx) => {
+          const isSelected = idx === selectedIndex;
+          return (
+            <button
+              key={bhajan.id}
+              type="button"
+              onClick={() => {
+                setSelectedIndex(idx);
+                setCopied(false);
+              }}
+              className={`shrink-0 px-4 py-2.5 rounded-xl text-left border transition-all ${
+                isSelected
+                  ? "bg-amber-50 border-amber-400 text-amber-950 font-semibold shadow-sm ring-1 ring-amber-300"
+                  : "bg-stone-50 border-stone-200 text-stone-700 hover:bg-stone-100"
+              }`}
+            >
+              <div className="text-xs sm:text-sm font-serif font-bold truncate max-w-[170px] sm:max-w-none">
+                {bhajan.title}
+              </div>
+              <div className="text-[11px] text-stone-500 truncate max-w-[170px] sm:max-w-none">
+                {bhajan.romanTitle}
+              </div>
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Selected Bhajan Lyrics Display Card */}
+      {selectedBhajan && (
+        <div className="bg-[#FAF8F5] rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-6">
+          {/* Header of selected bhajan */}
+          <div className="flex flex-wrap items-center justify-between gap-3 border-b border-stone-200/80 pb-4">
+            <div>
+              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-md bg-white border border-stone-200 text-amber-900 inline-block mb-1.5">
+                {selectedBhajan.categoryId.replace("-", " ").toUpperCase()}
+              </span>
+              <h3 className="font-serif text-2xl sm:text-3xl font-bold text-stone-900">
+                {selectedBhajan.title}
+              </h3>
+              <p className="text-stone-600 text-sm italic">
+                {selectedBhajan.romanTitle}
+              </p>
+            </div>
+
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={handleCopy}
+                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors border ${
+                  copied
+                    ? "bg-emerald-600 text-white border-emerald-600"
+                    : "bg-white text-stone-700 border-stone-200 hover:bg-stone-50"
+                }`}
+                title="Copy lyrics"
+              >
+                {copied ? (
+                  <>
+                    <Check className="w-3.5 h-3.5" />
+                    <span>Copied!</span>
+                  </>
+                ) : (
+                  <>
+                    <Copy className="w-3.5 h-3.5 text-stone-500" />
+                    <span>Copy</span>
+                  </>
+                )}
+              </button>
+
+              <Link
+                href={`/bhajans/${selectedBhajan.slug}`}
+                className="inline-flex items-center gap-1 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-amber-600 hover:bg-amber-700 text-white transition-colors shadow-sm"
+              >
+                <span>Full Page</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </Link>
+            </div>
+          </div>
+
+          {/* Actual Verses / Stanzas */}
+          <div className="space-y-6 max-w-2xl">
+            {activeScript === "hindi" ? (
+              selectedBhajan.lyrics.map((stanza, sIdx) => (
+                <div
+                  key={sIdx}
+                  className="bg-white/80 p-4 sm:p-5 rounded-xl border border-stone-200/70 shadow-2xs font-serif"
+                  lang="hi"
+                >
+                  <div className="text-[11px] font-sans font-bold text-amber-800 uppercase tracking-wider mb-2">
+                    पद {sIdx + 1}
+                  </div>
+                  {stanza.map((line, lIdx) => (
+                    <p
+                      key={lIdx}
+                      className="text-stone-900 text-base sm:text-lg leading-relaxed devanagari-text mb-1"
+                    >
+                      {line}
+                    </p>
+                  ))}
+                </div>
+              ))
+            ) : (
+              selectedBhajan.romanLyrics.map((stanza, sIdx) => (
+                <div
+                  key={sIdx}
+                  className="bg-white/80 p-4 sm:p-5 rounded-xl border border-stone-200/70 shadow-2xs font-serif"
+                  lang="en-IN"
+                >
+                  <div className="text-[11px] font-sans font-bold text-amber-800 uppercase tracking-wider mb-2">
+                    Stanza {sIdx + 1}
+                  </div>
+                  {stanza.map((line, lIdx) => (
+                    <p
+                      key={lIdx}
+                      className="text-stone-800 text-base sm:text-lg leading-relaxed mb-1"
+                    >
+                      {line}
+                    </p>
+                  ))}
+                </div>
+              ))
+            )}
+          </div>
+
+          {/* Quick link to read all */}
+          <div className="pt-2 text-xs text-stone-500 flex items-center justify-between">
+            <span>
+              Order #{selectedBhajan.displayOrder} • Demo content
+            </span>
+            <Link
+              href={`/bhajans/${selectedBhajan.slug}`}
+              className="text-amber-800 hover:text-amber-950 font-semibold underline underline-offset-2 inline-flex items-center gap-1"
+            >
+              <span>इस भजन का पूरा लिरिक्स पेज खोलें</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </Link>
+          </div>
+        </div>
+      )}
+    </section>
+  );
+}

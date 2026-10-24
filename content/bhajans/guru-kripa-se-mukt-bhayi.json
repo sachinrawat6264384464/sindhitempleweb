@@ -1,0 +1,46 @@
+{
+  "id": "bhajan-gb-02",
+  "slug": "guru-kripa-se-mukt-bhayi",
+  "categoryId": "guru-bhakti",
+  "title": "गुरु कृपा से मुक्त भई",
+  "romanTitle": "Guru Kripa Se Mukt Bhayi",
+  "firstLine": "गुरु कृपा निर्मल जल धार, शीतल भयो हिया हमार",
+  "lyrics": [
+    [
+      "गुरु कृपा निर्मल जल धार, शीतल भयो हिया हमार,",
+      "भ्रम के बादल छंट गए सारे, सूझा रूप अपार।",
+      "सत्य नाम की माला पहरी, टूटी मोह की डोर,",
+      "अंतर में अब भोर भई है, नाहीं कोई शोर।"
+    ],
+    [
+      "जिन चरणों में प्रीति लगाई, तिन पर सब बलिहारी,",
+      "सहज समाधि घट में लागी, मिटी तृष्णा भारी।",
+      "हर पल सुमिरन हर पल ध्यान,",
+      "गुरु कृपा से पाए परम कल्याण।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Guru kripa nirmal jal dhaar, sheetal bhayo hiya hamaar,",
+      "Bhram ke baadal chhant gaye saare, soojha roop apaar.",
+      "Satya naam ki maala pahri, tooti moh ki dor,",
+      "Antar mein ab bhor bhayi hai, naahi koi shor."
+    ],
+    [
+      "Jin charnon mein preeti lagaai, tin par sab balihaari,",
+      "Sahaj samaadhi ghat mein laagi, miti trishna bhaari.",
+      "Har pal sumiran har pal dhyaan,",
+      "Guru kripa se paaye param kalyaan."
+    ]
+  ],
+  "alternateSpellings": [
+    "Guru Kirpa",
+    "Guru Kripa Se Mukt Bhai",
+    "Nirmal Jal Dhaar"
+  ],
+  "tags": ["guru", "kripa", "mukt", "gyan", "shanti"],
+  "displayOrder": 2,
+  "isDemo": true,
+  "source": "Demo content — replace with verified Sindhi bhajan lyrics.",
+  "updatedAt": "2026-03-16"
+}

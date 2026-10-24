@@ -1,0 +1,44 @@
+{
+  "id": "bhajan-ns-02",
+  "slug": "om-namah-shivaya-dhun-amrit",
+  "categoryId": "naam-smaran",
+  "title": "ॐ नमः शिवाय धुन अमृत",
+  "romanTitle": "Om Namah Shivaya Dhun Amrit",
+  "firstLine": "ॐ नमः शिवाय मन जप ले निरंतर, दूर होवे भय संकट",
+  "lyrics": [
+    [
+      "ॐ नमः शिवाय मन जप ले निरंतर,",
+      "दूर होवे भय संकट सारा, शांति बसे अंतर।",
+      "डमरू बाजे अनहद नाद, गूँजे त्रिभुवन धाम,",
+      "भस्म रमाये बैठे शंकर, पावन जिनका नाम।"
+    ],
+    [
+      "शीश जटा में गंग विराजे, भाल पे चंद्र सुहाए,",
+      "जो जन शिव का ध्यान धरे, सो मनवांछित फल पाए।",
+      "हर हर महादेव की महिमा, गाये सकल संसार।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Om Namah Shivaya man jap le nirantar,",
+      "Door hove bhay sankat saara, shaanti base antar.",
+      "Damroo baaje anhad naad, goonje tribhuvan dhaam,",
+      "Bhasm ramaaye baithe shankar, paavan jinka naam."
+    ],
+    [
+      "Sheesh jata mein gang viraaje, bhaal pe chandra suhaaye,",
+      "Jo jan shiv ka dhyaan dhare, so manwaanchhit phal paaye.",
+      "Har Har Mahadev ki mahima, gaaye sakal sansaar."
+    ]
+  ],
+  "alternateSpellings": [
+    "Om Namah Shivay",
+    "Shiv Dhun Amrit",
+    "Har Har Mahadev"
+  ],
+  "tags": ["naam-smaran", "shiva", "dhun", "om", "peace"],
+  "displayOrder": 2,
+  "isDemo": true,
+  "source": "Demo content — replace with verified Sindhi bhajan lyrics.",
+  "updatedAt": "2026-03-25"
+}

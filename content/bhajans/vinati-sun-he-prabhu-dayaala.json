@@ -1,0 +1,44 @@
+{
+  "id": "bhajan-pr-01",
+  "slug": "vinati-sun-he-prabhu-dayaala",
+  "categoryId": "prarthana",
+  "title": "विनती सुन हे प्रभु दयाला",
+  "romanTitle": "Vinati Sun He Prabhu Dayaala",
+  "firstLine": "विनती सुन हे करुणा सिंधु, दीनबंधु रखवाली कर",
+  "lyrics": [
+    [
+      "विनती सुन हे करुणा सिंधु, दीनबंधु रखवाली कर,",
+      "भटके हुए इस मन को स्वामी, सन्मार्ग पर चालित कर।",
+      "अवगुण मोरे अनगिनत हैं, तेरी क्षमा अपार प्रभु,",
+      "अपने पावन कर-कमलों से, जीवन का उद्धार कर।"
+    ],
+    [
+      "दुःख में सुमिरन सुख में सुमिरन, ऐसी मति दे दाता मोहे,",
+      "तेरी रज़ा में राज़ी रहूँ मैं, जनम-जनम यह वर दे मोहे।",
+      "हाथ जोड़ कर द्वारे आया, खाली झोली भर दे प्रभु।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Vinati sun he karuna sindhu, deenbandhu rakhwaali kar,",
+      "Bhatke huye is man ko swaami, sanmaarg par chaalit kar.",
+      "Avagun more anganat hain, teri kshama apaar prabhu,",
+      "Apne paavan kar-kamlon se, jeevan ka uddhaar kar."
+    ],
+    [
+      "Dukh mein sumiran sukh mein sumiran, aisi mati de daata mohe,",
+      "Teri raza mein raazi rahoon main, janam-janam yeh var de mohe.",
+      "Haath jod kar dwaare aaya, khaali jholi bhar de prabhu."
+    ]
+  ],
+  "alternateSpellings": [
+    "Vinti Sun He Prabhu Dayal",
+    "Vinati Sun Prabhu Dayala",
+    "Karuna Sindhu"
+  ],
+  "tags": ["prarthana", "prayer", "vinati", "daya", "peace"],
+  "displayOrder": 1,
+  "isDemo": true,
+  "source": "Demo content — replace with verified Sindhi bhajan lyrics.",
+  "updatedAt": "2026-03-18"
+}
