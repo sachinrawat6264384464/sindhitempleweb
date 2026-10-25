@@ -189,7 +189,7 @@ export default function LyricsReaderClient({
             onClick={() => setActiveScript("hindi")}
             className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
               activeScript === "hindi"
-                ? "bg-amber-600 text-white shadow-sm"
+                ? "bg-[#f9d5a6] text-[#381c09] font-bold shadow-xs border border-[#e5be8d]"
                 : "text-stone-300 hover:text-white"
             }`}
             aria-pressed={activeScript === "hindi"}
@@ -201,7 +201,7 @@ export default function LyricsReaderClient({
             onClick={() => setActiveScript("roman")}
             className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
               activeScript === "roman"
-                ? "bg-amber-600 text-white shadow-sm"
+                ? "bg-[#f9d5a6] text-[#381c09] font-bold shadow-xs border border-[#e5be8d]"
                 : "text-stone-300 hover:text-white"
             }`}
             aria-pressed={activeScript === "roman"}
@@ -213,7 +213,7 @@ export default function LyricsReaderClient({
             onClick={() => setActiveScript("dual")}
             className={`hidden sm:inline-block px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
               activeScript === "dual"
-                ? "bg-amber-600 text-white shadow-sm"
+                ? "bg-[#f9d5a6] text-[#381c09] font-bold shadow-xs border border-[#e5be8d]"
                 : "text-stone-300 hover:text-white"
             }`}
             aria-pressed={activeScript === "dual"}
@@ -409,22 +409,21 @@ export default function LyricsReaderClient({
           </div>
         )}
 
-        {/* Source and Demo Disclaimer Box */}
+        {/* Authentic Book Provenance Box */}
         <aside
           aria-label="Editorial Provenance"
-          className="mt-12 p-5 rounded-2xl bg-amber-50/70 border border-amber-200 text-stone-700 text-xs sm:text-sm space-y-2"
+          className="mt-12 p-5 rounded-2xl bg-[#f9d5a6]/25 border border-[#e5be8d] text-stone-800 text-xs sm:text-sm space-y-2 shadow-2xs"
         >
-          <div className="flex items-center gap-2 font-bold text-amber-950">
-            <AlertTriangle className="w-4 h-4 text-amber-700" aria-hidden="true" />
-            <span>Editorial & Provenance Status</span>
+          <div className="flex items-center gap-2 font-bold text-[#3b1e06]">
+            <BookOpen className="w-4 h-4 text-[#8a4b12]" aria-hidden="true" />
+            <span>Shri Amarapur Vaani — Authentic Source Attribution</span>
           </div>
           <p>
-            <strong>Source Label:</strong> {bhajan.source}
+            <strong>Source:</strong> {bhajan.source}
           </p>
-          <p className="text-stone-600">
-            This demonstration text is composed for functional website evaluation. When preparing for
-            production launch, replace this file with authentic Sindhi devotional lyrics from verified
-            songbooks or community recordings.
+          <p className="text-stone-600 leading-relaxed">
+            Composed by <strong>Shri 1008 Sadguru Swami Teunram Ji Maharaj</strong>, Prem Prakash Mandal
+            (Trust), Amarapur Sthaan, Jaipur. Transcribed with original couplets, refrain lines (Tek), and Roman script.
           </p>
         </aside>
       </div>

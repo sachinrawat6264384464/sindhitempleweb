@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { AlertTriangle, BookOpen, CheckCircle2, ShieldCheck } from "lucide-react";
 import { SITE_CONFIG, getCanonicalUrl } from "@/lib/config";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -55,20 +56,55 @@ export default function AboutPage() {
       {/* Authentic Book Provenance Card */}
       <section
         aria-label="Book Provenance"
-        className="p-6 sm:p-8 rounded-3xl bg-amber-50 border border-amber-200 text-stone-800 space-y-4 shadow-sm"
+        className="p-6 sm:p-8 rounded-3xl bg-[#f9d5a6]/25 border border-[#e5be8d] text-stone-800 space-y-4 shadow-xs"
       >
-        <div className="flex items-center gap-3 text-amber-950">
-          <BookOpen className="w-6 h-6 text-amber-700 shrink-0" aria-hidden="true" />
-          <h2 className="font-serif text-xl sm:text-2xl font-bold">
-            Shri Amarapur Vaani — Sacred Book Provenance
-          </h2>
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-[#e5be8d]/50 pb-4">
+          <div className="flex items-center gap-3 text-amber-950">
+            <div className="relative w-14 h-14 rounded-full overflow-hidden border-2 border-[#e5be8d] bg-white shrink-0 shadow-xs">
+              <Image
+                src="/image.png"
+                alt="Amrapur Darbar Official Logo"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <div>
+              <h2 className="font-serif text-xl sm:text-2xl font-bold text-[#3b1e06]">
+                Shri Amarapur Vaani — Sacred Book Provenance
+              </h2>
+              <p className="text-xs text-[#5c3714] font-medium">
+                Amrapur Sthaan Jaipur • Prem Prakash Mandal
+              </p>
+            </div>
+          </div>
+
+          {/* Social Channels */}
+          <div className="flex items-center gap-2">
+            <a
+              href={SITE_CONFIG.socialLinks.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white border border-[#e5be8d] text-xs font-semibold text-stone-800 hover:text-pink-600 hover:border-pink-300 shadow-2xs transition-colors"
+            >
+              <span>Instagram</span>
+            </a>
+            <a
+              href={SITE_CONFIG.socialLinks.youtube}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white border border-[#e5be8d] text-xs font-semibold text-stone-800 hover:text-red-600 hover:border-red-300 shadow-2xs transition-colors"
+            >
+              <span>YouTube</span>
+            </a>
+          </div>
         </div>
+
         <p className="text-sm sm:text-base leading-relaxed text-stone-700">
           <strong>Authentic Sacred Collection:</strong> This website features the complete devotional
           compositions from <strong>Shri Amarapur Vaani</strong>, authored by <strong>Shri 1008 Sadguru
           Swami Teunram Ji Maharaj</strong> (Prem Prakash Mandal, Jaipur).
         </p>
-        <div className="p-4 bg-white/90 rounded-2xl border border-amber-200/80 text-xs sm:text-sm text-stone-800 space-y-1.5">
+        <div className="p-4 bg-white/95 rounded-2xl border border-[#e5be8d]/70 text-xs sm:text-sm text-stone-800 space-y-1.5">
           <p><strong>Rachyitaa:</strong> Shri 1008 Sadguru Swami Teunram Ji Maharaj</p>
           <p><strong>Prakaashak:</strong> Shriman 108 Sadguru Swami Bhagat Prakash Ji Maharaj &amp; Prem Prakash Mandal Trust, Amarapur Sthaan, Jaipur</p>
           <p><strong>Scope:</strong> 921 authentic bhajans categorized across 25 classical Indian musical Raags (Bhairav, Raamkali, Prabhaati, Aasaa, Vihaag, Bhairvi, Tilang, Jog, etc.)</p>

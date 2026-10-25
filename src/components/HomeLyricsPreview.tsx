@@ -40,11 +40,11 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
       className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/90 shadow-sm space-y-6"
     >
       {/* Section Header */}
-      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 border-b border-stone-200 pb-5">
+      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 border-b border-[#e5be8d]/40 pb-5">
         <div>
-          <div className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-amber-50 text-amber-900 border border-amber-200 mb-2">
-            <Music2 className="w-3.5 h-3.5 text-amber-700" aria-hidden="true" />
-            <span>लाइव लिरिक्स प्रीव्यू • Live Lyrics Preview</span>
+          <div className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-[#f9d5a6]/40 text-[#4a2a0d] border border-[#e5be8d] mb-2">
+            <Music2 className="w-3.5 h-3.5 text-[#8a4b12]" aria-hidden="true" />
+            <span>लाइव लिरिक्स रीडर • Live Lyrics Reader</span>
           </div>
           <h2
             id="live-lyrics-heading"
@@ -58,13 +58,13 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
         </div>
 
         {/* Script toggle */}
-        <div className="inline-flex items-center bg-stone-100 p-1 rounded-xl self-start sm:self-auto text-xs font-semibold">
+        <div className="inline-flex items-center bg-[#f9d5a6]/20 p-1 rounded-xl self-start sm:self-auto text-xs font-semibold border border-[#e5be8d]/40">
           <button
             type="button"
             onClick={() => setActiveScript("hindi")}
             className={`px-3 py-1.5 rounded-lg transition-all ${
               activeScript === "hindi"
-                ? "bg-amber-600 text-white shadow-sm"
+                ? "bg-[#f9d5a6] text-[#381c09] font-bold shadow-xs border border-[#e5be8d]"
                 : "text-stone-700 hover:text-stone-900"
             }`}
           >
@@ -75,7 +75,7 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
             onClick={() => setActiveScript("roman")}
             className={`px-3 py-1.5 rounded-lg transition-all ${
               activeScript === "roman"
-                ? "bg-amber-600 text-white shadow-sm"
+                ? "bg-[#f9d5a6] text-[#381c09] font-bold shadow-xs border border-[#e5be8d]"
                 : "text-stone-700 hover:text-stone-900"
             }`}
           >
@@ -98,8 +98,8 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
               }}
               className={`shrink-0 px-4 py-2.5 rounded-xl text-left border transition-all ${
                 isSelected
-                  ? "bg-amber-50 border-amber-400 text-amber-950 font-semibold shadow-sm ring-1 ring-amber-300"
-                  : "bg-stone-50 border-stone-200 text-stone-700 hover:bg-stone-100"
+                  ? "bg-[#f9d5a6]/40 border-[#e5be8d] text-[#381c09] font-bold shadow-xs ring-1 ring-[#f9d5a6]"
+                  : "bg-white border-stone-200 text-stone-700 hover:bg-[#f9d5a6]/15 hover:border-[#e5be8d]/60"
               }`}
             >
               <div className="text-xs sm:text-sm font-serif font-bold truncate max-w-[170px] sm:max-w-none">
@@ -115,11 +115,11 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
 
       {/* Selected Bhajan Lyrics Display Card */}
       {selectedBhajan && (
-        <div className="bg-[#FAF8F5] rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-6">
+        <div className="bg-[#FAF8F5] rounded-2xl p-6 sm:p-8 border border-[#e5be8d]/60 space-y-6">
           {/* Header of selected bhajan */}
-          <div className="flex flex-wrap items-center justify-between gap-3 border-b border-stone-200/80 pb-4">
+          <div className="flex flex-wrap items-center justify-between gap-3 border-b border-[#e5be8d]/50 pb-4">
             <div>
-              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-md bg-white border border-stone-200 text-amber-900 inline-block mb-1.5">
+              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-md bg-white border border-[#e5be8d] text-[#4a2a0d] inline-block mb-1.5">
                 {selectedBhajan.categoryId.replace("-", " ").toUpperCase()}
               </span>
               <h3 className="font-serif text-2xl sm:text-3xl font-bold text-stone-900">
@@ -137,7 +137,7 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
                 className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors border ${
                   copied
                     ? "bg-emerald-600 text-white border-emerald-600"
-                    : "bg-white text-stone-700 border-stone-200 hover:bg-stone-50"
+                    : "bg-white text-stone-700 border-[#e5be8d] hover:bg-[#f9d5a6]/20"
                 }`}
                 title="Copy lyrics"
               >
@@ -148,7 +148,7 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
                   </>
                 ) : (
                   <>
-                    <Copy className="w-3.5 h-3.5 text-stone-500" />
+                    <Copy className="w-3.5 h-3.5 text-[#8a4b12]" />
                     <span>Copy</span>
                   </>
                 )}
@@ -156,7 +156,7 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
 
               <Link
                 href={`/bhajans/${selectedBhajan.slug}`}
-                className="inline-flex items-center gap-1 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-amber-600 hover:bg-amber-700 text-white transition-colors shadow-sm"
+                className="inline-flex items-center gap-1 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-[#f9d5a6] hover:bg-[#f4be77] text-[#381c09] border border-[#e5be8d] transition-colors shadow-xs"
               >
                 <span>Full Page</span>
                 <ArrowRight className="w-3.5 h-3.5" />
