@@ -59,8 +59,9 @@ export default async function BhajansPage() {
           Devotional Bhajan Library
         </h1>
         <p className="text-stone-600 text-sm sm:text-base max-w-3xl">
-          Search across 8 demonstration bhajans using Hindi Devanagari or Roman phonetics. Filter
-          by category, devotional theme tags, and script availability.
+          Search across {searchIndex.length} authentic sacred bhajans from Shri Amarapur Vaani using
+          Hindi Devanagari or Roman phonetics. Filter by classical musical Raags, devotional tags, and
+          script availability.
         </p>
       </div>
 

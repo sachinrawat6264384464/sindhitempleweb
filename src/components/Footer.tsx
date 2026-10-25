@@ -21,9 +21,9 @@ export default function Footer() {
               side-by-side Hindi script, Roman transliteration, and fast client search.
             </p>
             <div className="p-3 rounded-lg bg-stone-800/80 border border-stone-700/60 text-xs text-amber-200/90 leading-relaxed max-w-lg">
-              <strong className="text-amber-300 font-semibold">Demo Notice:</strong> This version
-              contains 8 demonstration samples across 4 sample categories. Replace with verified
-              Sindhi devotional bhajans prior to production indexing.
+              <strong className="text-amber-300 font-semibold">Source:</strong> Shri Amarapur Vaani —
+              Composed by Shri 1008 Sadguru Swami Teunram Ji Maharaj (Prem Prakash Mandal, Jaipur).
+              Featuring 921 authentic sacred bhajans arranged across 25 classical Raags.
             </div>
           </div>
 
@@ -35,34 +35,42 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <Link
-                  href="/categories/guru-bhakti"
+                  href="/categories/raag-bhairav"
                   className="hover:text-amber-300 transition-colors"
                 >
-                  गुरु भक्ति (Guru Bhakti)
+                  राग भैरव (Raag Bhairav)
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/categories/prarthana"
+                  href="/categories/raag-raamkali"
                   className="hover:text-amber-300 transition-colors"
                 >
-                  प्रार्थना (Prarthana)
+                  राग रामकली (Raag Raamkali)
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/categories/naam-smaran"
+                  href="/categories/raag-prabhaati"
                   className="hover:text-amber-300 transition-colors"
                 >
-                  नाम स्मरण (Naam Smaran)
+                  राग प्रभाती (Raag Prabhaati)
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/categories/aarti"
+                  href="/categories/raag-aasaa"
                   className="hover:text-amber-300 transition-colors"
                 >
-                  आरती (Aarti)
+                  राग आसा (Raag Aasaa)
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/categories/raag-bhairvi"
+                  className="hover:text-amber-300 transition-colors"
+                >
+                  राग भैरवी (Raag Bhairvi)
                 </Link>
               </li>
             </ul>

@@ -52,28 +52,30 @@ export default function AboutPage() {
         </p>
       </header>
 
-      {/* Strict Demo Disclaimer Card */}
+      {/* Authentic Book Provenance Card */}
       <section
-        aria-label="Editorial Notice"
+        aria-label="Book Provenance"
         className="p-6 sm:p-8 rounded-3xl bg-amber-50 border border-amber-200 text-stone-800 space-y-4 shadow-sm"
       >
         <div className="flex items-center gap-3 text-amber-950">
-          <AlertTriangle className="w-6 h-6 text-amber-700 shrink-0" aria-hidden="true" />
+          <BookOpen className="w-6 h-6 text-amber-700 shrink-0" aria-hidden="true" />
           <h2 className="font-serif text-xl sm:text-2xl font-bold">
-            Demonstration Content Notice
+            Shri Amarapur Vaani — Sacred Book Provenance
           </h2>
         </div>
         <p className="text-sm sm:text-base leading-relaxed text-stone-700">
-          <strong>Important:</strong> All 8 bhajans and 4 categories currently in this codebase are
-          sample demonstration compositions. They are labeled clearly as:
+          <strong>Authentic Sacred Collection:</strong> This website features the complete devotional
+          compositions from <strong>Shri Amarapur Vaani</strong>, authored by <strong>Shri 1008 Sadguru
+          Swami Teunram Ji Maharaj</strong> (Prem Prakash Mandal, Jaipur).
         </p>
-        <blockquote className="p-3 bg-white/80 rounded-xl border-l-4 border-amber-600 font-mono text-xs sm:text-sm text-stone-900">
-          &ldquo;{SITE_CONFIG.demoNoticeText}&rdquo;
-        </blockquote>
+        <div className="p-4 bg-white/90 rounded-2xl border border-amber-200/80 text-xs sm:text-sm text-stone-800 space-y-1.5">
+          <p><strong>Rachyitaa:</strong> Shri 1008 Sadguru Swami Teunram Ji Maharaj</p>
+          <p><strong>Prakaashak:</strong> Shriman 108 Sadguru Swami Bhagat Prakash Ji Maharaj &amp; Prem Prakash Mandal Trust, Amarapur Sthaan, Jaipur</p>
+          <p><strong>Scope:</strong> 921 authentic bhajans categorized across 25 classical Indian musical Raags (Bhairav, Raamkali, Prabhaati, Aasaa, Vihaag, Bhairvi, Tilang, Jog, etc.)</p>
+        </div>
         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-          These samples are provided in Hindi script and Roman transliteration to demonstrate the
-          reader interface, search indexing, and typography. They do not constitute authentic Sindhi
-          translations, historical manuscripts, or canonical sectarian literature.
+          All 921 bhajans include authentic stanzas, couplets, refrain lines (Tek), and Teunram
+          poetic signatures, available in both Devanagari Hindi and Roman transliteration.
         </p>
       </section>
 

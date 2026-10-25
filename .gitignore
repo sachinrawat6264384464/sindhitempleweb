@@ -28,3 +28,12 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# temporary inspection files
+extracted_sample.txt
+parsed_summary.json
+start_bhajans.txt
+structure_analysis.txt
+bhajan_headers.txt
+__pycache__/
+*.pyc

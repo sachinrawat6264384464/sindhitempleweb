@@ -8,11 +8,11 @@ import { SITE_CONFIG } from "@/lib/config";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/bhajans", label: "Bhajan Library" },
-  { href: "/categories/guru-bhakti", label: "Guru Bhakti" },
-  { href: "/categories/prarthana", label: "Prarthana" },
-  { href: "/categories/naam-smaran", label: "Naam Smaran" },
-  { href: "/categories/aarti", label: "Aarti" },
+  { href: "/bhajans", label: "Bhajan Library (921)" },
+  { href: "/categories/raag-bhairav", label: "Raag Bhairav" },
+  { href: "/categories/raag-raamkali", label: "Raag Raamkali" },
+  { href: "/categories/raag-prabhaati", label: "Raag Prabhaati" },
+  { href: "/categories/raag-aasaa", label: "Raag Aasaa" },
   { href: "/about", label: "About" },
 ];
 

@@ -59,13 +59,13 @@ export default async function HomePage() {
             href="/bhajans"
             className="text-xs sm:text-sm font-semibold text-amber-800 hover:text-amber-950 inline-flex items-center gap-1"
           >
-            <span>View all 8 bhajans</span>
+            <span>View all {allBhajans.length} bhajans</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-          {categories.map((category) => {
+          {categories.slice(0, 8).map((category) => {
             const count = allBhajans.filter((b) => b.categoryId === category.id).length;
             return (
               <Link
