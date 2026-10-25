@@ -79,7 +79,8 @@ export function filterAndRankBhajans(
       const normFirstLine = normalizeSearchText(record.firstLine);
       const normAliases = record.alternateSpellings.map((a) => normalizeSearchText(a));
       const normTags = record.tags.map((t) => normalizeSearchText(t));
-      const normLyrics = normalizeSearchText(record.normalizedLyricsSnippet);
+      const fullLyrics = (record.fullLyricsText || "") + " " + (record.fullRomanLyricsText || "") + " " + (record.normalizedLyricsSnippet || "");
+      const normFullLyrics = normalizeSearchText(fullLyrics);
 
       // Exact title match gets highest score
       if (normTitle === normQuery || normRomanTitle === normQuery) {
@@ -96,6 +97,11 @@ export function filterAndRankBhajans(
       // Check alternate spellings/aliases (cross-script stored transliterations)
       if (normAliases.some((a) => a.includes(normQuery))) {
         score += 250;
+      }
+
+      // Check full lyrics match for whole phrase
+      if (normFullLyrics.includes(normQuery)) {
+        score += 180;
       }
 
       // Check tags
@@ -117,8 +123,8 @@ export function filterAndRankBhajans(
         if (normTags.some((t) => t.includes(token))) {
           score += 20;
         }
-        if (normLyrics.includes(token)) {
-          score += 10;
+        if (normFullLyrics.includes(token)) {
+          score += 15;
         }
       }
 
@@ -147,4 +153,40 @@ export function filterAndRankBhajans(
   });
 
   return results;
+}
+
+/**
+ * Extracts a matching snippet line from bhajan lyrics for query preview
+ */
+export function findMatchingSnippet(record: SearchRecord, query: string): string | null {
+  if (!query || query.trim().length === 0) return null;
+  const normQuery = normalizeSearchText(query);
+  if (!normQuery) return null;
+
+  // Split into lines from full lyrics
+  const combined = `${record.fullLyricsText || ""}\n${record.fullRomanLyricsText || ""}\n${record.firstLine || ""}`;
+  const lines = combined.split(/[\n\r]+/);
+
+  // 1. Exact phrase match in a line
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    if (normalizeSearchText(trimmed).includes(normQuery)) {
+      return trimmed;
+    }
+  }
+
+  // 2. Token match in a line
+  const tokens = normQuery.split(" ").filter((t) => t.length >= 3);
+  for (const token of tokens) {
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (!trimmed) continue;
+      if (normalizeSearchText(trimmed).includes(token)) {
+        return trimmed;
+      }
+    }
+  }
+
+  return null;
 }

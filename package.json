@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3005",
-    "prebuild": "node scripts/validate-content.mjs",
+    "prebuild": "node scripts/validate-content.mjs && node scripts/generate-search-index.mjs",
     "build": "next build",
     "start": "next start -p 3005",
     "lint": "next lint"

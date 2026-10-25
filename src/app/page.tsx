@@ -5,6 +5,7 @@ import { getAllCategories, getAllBhajans } from "@/lib/content";
 import { SITE_CONFIG, getCanonicalUrl } from "@/lib/config";
 import BhajanCard from "@/components/BhajanCard";
 import HomeLyricsPreview from "@/components/HomeLyricsPreview";
+import HeroBhajanSearch from "@/components/HeroBhajanSearch";
 import JsonLd from "@/components/JsonLd";
 
 export const revalidate = false; // SSG static build
@@ -33,7 +34,7 @@ export default async function HomePage() {
       <JsonLd data={websiteSchema} />
 
       {/* Hero Section */}
-      <section className="text-center max-w-3xl mx-auto pt-4 sm:pt-8 pb-2">
+      <section className="text-center max-w-4xl mx-auto pt-4 sm:pt-8 pb-4">
         <div className="inline-flex items-center gap-3 mb-5 p-1.5 pr-4 rounded-full bg-[#f9d5a6]/35 border border-[#e5be8d] shadow-xs">
           <div className="relative w-11 h-11 rounded-full overflow-hidden border border-[#e5be8d] bg-white shrink-0">
             <Image
@@ -60,6 +61,9 @@ export default async function HomePage() {
             Devotional Bhajan Lyrics &amp; Transliteration
           </span>
         </h1>
+
+        {/* Hero Full-Text Search with Category Filter */}
+        <HeroBhajanSearch categories={categories} totalBhajans={allBhajans.length} />
       </section>
 
       {/* Categories Grid */}
@@ -152,7 +156,7 @@ export default async function HomePage() {
       </section>
 
       {/* Interactive Live Lyrics Preview Section right before footer */}
-      <HomeLyricsPreview bhajans={allBhajans} />
+      <HomeLyricsPreview bhajans={allBhajans.slice(0, 15)} />
     </div>
   );
 }

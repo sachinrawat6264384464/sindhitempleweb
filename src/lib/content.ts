@@ -138,22 +138,24 @@ export async function getRelatedBhajans(currentBhajan: Bhajan, limit: number = 3
 export async function getSearchIndex(): Promise<SearchRecord[]> {
   const bhajans = await getAllBhajans();
   const categories = await getAllCategories();
-  const categoryMap = new Map<string, string>();
+  const categoryMap = new Map<string, { name: string; slug: string }>();
   for (const c of categories) {
-    categoryMap.set(c.id, c.name);
+    categoryMap.set(c.id, { name: c.name, slug: c.slug });
   }
 
   return bhajans.map((b) => {
-    // Flatten lyrics to a single searchable snippet
+    // Flatten lyrics to a searchable snippet
     const flattenedLyrics = b.lyrics.map((st) => st.join(" ")).join(" ");
     const flattenedRoman = b.romanLyrics.map((st) => st.join(" ")).join(" ");
-    const snippet = (flattenedLyrics + " " + flattenedRoman).slice(0, 300);
+    const snippet = (flattenedLyrics + " " + flattenedRoman).slice(0, 400);
+    const catInfo = categoryMap.get(b.categoryId);
 
     return {
       id: b.id,
       slug: b.slug,
       categoryId: b.categoryId,
-      categoryName: categoryMap.get(b.categoryId) || b.categoryId,
+      categoryName: catInfo?.name || b.categoryId,
+      categorySlug: catInfo?.slug || b.categoryId,
       title: b.title,
       romanTitle: b.romanTitle,
       firstLine: b.firstLine,

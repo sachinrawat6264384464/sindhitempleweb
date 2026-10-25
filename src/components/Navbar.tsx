@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { Search, Menu, X, Instagram, Youtube } from "lucide-react";
+import { Menu, X, Instagram, Youtube } from "lucide-react";
 import { SITE_CONFIG } from "@/lib/config";
 
 const navLinks = [
@@ -99,15 +99,6 @@ export default function Navbar() {
                 <Youtube className="w-4 h-4" />
               </a>
             </div>
-
-            <Link
-              href="/bhajans"
-              className="inline-flex items-center gap-2 px-3 py-1.5 text-xs sm:text-sm font-medium text-stone-700 bg-[#f9d5a6]/20 hover:bg-[#f9d5a6]/40 rounded-lg border border-[#e5be8d] transition-colors"
-              aria-label="Search Bhajans"
-            >
-              <Search className="w-4 h-4 text-stone-600" aria-hidden="true" />
-              <span className="hidden sm:inline">Search lyrics...</span>
-            </Link>
 
             <button
               type="button"

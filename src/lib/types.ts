@@ -30,12 +30,15 @@ export interface SearchRecord {
   slug: string;
   categoryId: string;
   categoryName: string;
+  categorySlug?: string;
   title: string;
   romanTitle: string;
   firstLine: string;
   alternateSpellings: string[];
   tags: string[];
   normalizedLyricsSnippet: string;
+  fullLyricsText?: string;
+  fullRomanLyricsText?: string;
   hasHindi: boolean;
   hasRoman: boolean;
   displayOrder: number;
