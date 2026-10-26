@@ -1,77 +1,111 @@
 {
-  "id": "bhajan-0703",
+  "id": "bhajan-0701",
   "slug": "santon-ke-dar-kaa-darbaan-ho-jaa",
   "categoryId": "raag-pahaari",
-  "title": "सनतोन के दर का दरबान हो जा",
-  "romanTitle": "Santon Ke Dar Kaa Darbaan Ho Jaa",
-  "firstLine": "Santon Ke Dar Kaa Darbaan Ho Jaa, Sevaa Bhaav Karke Nirmaan Ho Jaa (Tek).",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "सनतों के दर का दर्बान हो जा,",
+  "romanTitle": "Santon Ke Dar Kaa Darbaan Ho Jaa,",
+  "firstLine": "Santon Ke Dar Kaa Darbaan Ho Jaa,",
+  "heading": "।। राग पहाड़ी भजन ।। ५४ ।। ७०२॥।",
+  "tek": [
+    "सनतों के दर का दर्बान हो जा,",
+    "सेवा भाव करके निर्मान हो जा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Ke Dar Kaa Darbaan Ho Jaa,",
+    "Sevaa Bhaav Karke Nirmaan Ho Jaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्त हरी में भेद नहीं है, सन्त हरी का रूप सही है ।",
+        "वेद पुरानों का वाक्य यही है,",
+        "श्रद्धा से गुण पाए गुणवान हो जा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sant Hari Men Bhed Nahin Hai, Sant Hari Kaa Rup Sahi Hai.",
+        "Ved Puraanon Kaa Vaaky Yahi Hai,",
+        "Shraddhaa Se Gun Paae Gunvaan Ho Jaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्त ब्रह्म का ज्ञान बताते, सोये हुए जीवों को जगाते,",
+        "भेद भ्रम अज्ञान मिटाते,",
+        "तूं भी ज्ञान लेके ज्ञानवान हो जा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sant Brahm Kaa Gyaan Bataate, Soye Hue Jivon Ko Jagaate,",
+        "Bhed Bhram Ajnyaan Mitaate,",
+        "Tu Bhi Gyaan Leke Jnyaanvaan Ho Jaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त कृपा कर मो क्ष दिलाते, कहे टेऊँ बिछुड़े को मिलाते,",
+        "मूए्‌ दिलों को तुरत जिलाते,",
+        "सन्तों से मिलके तूं भगवान हो जा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Kripaa Kar Mo Ksh Dilaate, Kahe Teun Bichhure Ko Milaate,",
+        "Mue‌ Dilon Ko Turat Jilaate,",
+        "Santon Se Milke Tu Bhagvaan Ho Jaa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन के दर का दरबान हो जा,",
-      "सेवा भाव करके निरमान हो जा (टेक)."
+      "सन्त हरी में भेद नहीं है, सन्त हरी का रूप सही है ।",
+      "वेद पुरानों का वाक्य यही है,",
+      "श्रद्धा से गुण पाए गुणवान हो जा ॥१ ॥"
     ],
     [
-      "संत हरि मेन भेद नहिन है, संत हरि का रुप सहि है.",
-      "वेद पुरानोन का वाकय यहि है,"
+      "सन्त ब्रह्म का ज्ञान बताते, सोये हुए जीवों को जगाते,",
+      "भेद भ्रम अज्ञान मिटाते,",
+      "तूं भी ज्ञान लेके ज्ञानवान हो जा ॥२ ॥"
     ],
     [
-      "शरदधा से गुन पाे गुनवान हो जा || 1 ||"
-    ],
-    [
-      "संत बरहम का ज्ञान बताते, सोये हुे जिवोन को जगाते,",
-      "भेद भरम जनयान मिताते,"
-    ],
-    [
-      "तु भि ज्ञान लेके जनयानवान हो जा || 2 ||."
-    ],
-    [
-      "संत कृपा कर मो कश दिलाते, कहे तेऊँ बिचहुरे को मिलाते,",
-      "मुे‌ दिलोन को तुरत जिलाते,"
-    ],
-    [
-      "सनतोन से मिलके तु भगवान हो जा ||.3 ||"
+      "सन्त कृपा कर मो क्ष दिलाते, कहे टेऊँ बिछुड़े को मिलाते,",
+      "मूए्‌ दिलों को तुरत जिलाते,",
+      "सन्तों से मिलके तूं भगवान हो जा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Santon Ke Dar Kaa Darbaan Ho Jaa,",
-      "Sevaa Bhaav Karke Nirmaan Ho Jaa (Tek)."
-    ],
-    [
       "Sant Hari Men Bhed Nahin Hai, Sant Hari Kaa Rup Sahi Hai.",
-      "Ved Puraanon Kaa Vaaky Yahi Hai,"
-    ],
-    [
+      "Ved Puraanon Kaa Vaaky Yahi Hai,",
       "Shraddhaa Se Gun Paae Gunvaan Ho Jaa || 1 ||"
     ],
     [
-      "Sant Brahm Kaa Jnyaan Bataate, Soye Hue Jivon Ko Jagaate,",
-      "Bhed Bhram Ajnyaan Mitaate,"
-    ],
-    [
-      "Tu Bhi Jnyaan Leke Jnyaanvaan Ho Jaa || 2 ||."
+      "Sant Brahm Kaa Gyaan Bataate, Soye Hue Jivon Ko Jagaate,",
+      "Bhed Bhram Ajnyaan Mitaate,",
+      "Tu Bhi Gyaan Leke Jnyaanvaan Ho Jaa || 2 ||"
     ],
     [
       "Sant Kripaa Kar Mo Ksh Dilaate, Kahe Teun Bichhure Ko Milaate,",
-      "Mue‌ Dilon Ko Turat Jilaate,"
-    ],
-    [
-      "Santon Se Milke Tu Bhagvaan Ho Jaa ||.3 ||"
+      "Mue‌ Dilon Ko Turat Jilaate,",
+      "Santon Se Milke Tu Bhagvaan Ho Jaa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 54 || 702 ||.",
-    "Santon Ke Dar Kaa Darbaan Ho Jaa",
-    "सनतोन के दर का दरबान हो जा"
+    "सनतों के दर का दर्बान हो जा,",
+    "Santon Ke Dar Kaa Darbaan Ho Jaa,",
+    "राग पहाड़ी भजन 54",
+    "Raag Pahaari Bhajan 54"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 703,
+  "displayOrder": 54,
+  "overallOrder": 701,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 373",
+  "updatedAt": "2026-10-26"
 }

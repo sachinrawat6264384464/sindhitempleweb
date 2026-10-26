@@ -2,79 +2,110 @@
   "id": "bhajan-0145",
   "slug": "tum-saadh-sangti-jaakar-harinaam-ko-dhyaao-re",
   "categoryId": "raag-aasaa",
-  "title": "तुम साध सनगति जाकर, हरिनाम को धयाो रे",
-  "romanTitle": "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re",
-  "firstLine": "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re, Jivan Saphal Banaao Re (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "तुम साध संगति जाकर, हरिनाम को ध्याओ रे,",
+  "romanTitle": "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re,",
+  "firstLine": "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re,",
+  "heading": "।। राग आसा भजन ।। ८३ ।। १४५।।",
+  "tek": [
+    "तुम साध संगति जाकर, हरिनाम को ध्याओ रे,",
+    "जीवन सफल बनाओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re,",
+    "Jivan Saphal Banaao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्तों के वचन सुनकर मन में करो विचारा ।",
+        "वैराग उर में धारे जग से करो किनारा ।",
+        "विषयों से मन हटाके, हृदय हरी बसाओ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Ke Vachan Sunkar Man Men Karo Vichaaraa.",
+        "Vairaag Ur Men Dhaare Jag Se Karo Kinaaraa.",
+        "Vishyon Se Man Hataake, Hriday Hari Basaao Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पापों को छोड़ के तुम शुभ कर्म कर प्यारा ।",
+        "माया से दूर रहके अपना करो उद्धारा ।",
+        "गुरु शब्द की हृदय में, ज्योती अमर जगाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paapon Ko Chhor Ke Tum Shubh Karm Kar Pyaaraa.",
+        "Maayaa Se Dur Rahke Apnaa Karo Uddhaaraa.",
+        "Guru Shabd Ki Hriday Men, Jyoti Amar Jagaao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रद्धा धरे सन्तों की सेवा करो सदाई ।",
+        "कहे टेऊँ ज्ञान लेके दिल की हरो दुआई ।",
+        "संसा सकल मिटाके, सुख शान्ति में समा ओ रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Dhare Santon Ki Sevaa Karo Sadaai.",
+        "Kahe Teun Gyaan Leke Dil Ki Haro Duaai.",
+        "Sansaa Sakal Mitaake, Sukh Shaanti Men Samaa O Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम साध सनगति जाकर, हरिनाम को धयाो रे,",
-      "जिवन सफल बनाो रे (टेक)."
+      "सन्तों के वचन सुनकर मन में करो विचारा ।",
+      "वैराग उर में धारे जग से करो किनारा ।",
+      "विषयों से मन हटाके, हृदय हरी बसाओ रे ॥१ ॥"
     ],
     [
-      "सनतोन के वचन सुनकर मन मेन करो विचारा.",
-      "वैराग ुर मेन धारे जग से करो किनारा."
+      "पापों को छोड़ के तुम शुभ कर्म कर प्यारा ।",
+      "माया से दूर रहके अपना करो उद्धारा ।",
+      "गुरु शब्द की हृदय में, ज्योती अमर जगाओ रे ॥२ ॥"
     ],
     [
-      "विशयोन से मन हताके, हरिदय हरि बसाो रे. || 1 ||."
-    ],
-    [
-      "पापोन को चहोर के तुम शुभ करम कर पयारा.",
-      "माया से दुर रहके पना करो ुदधारा."
-    ],
-    [
-      "गुरु शबद कि हरिदय मेन, जयोति मर जगाो रे.2 ||",
-      "शरदधा धरे सनतोन कि सेवा करो सदाि."
-    ],
-    [
-      "कहे तेऊँ ज्ञान लेके दिल कि हरो दुाि.",
-      "सनसा सकल मिताके, सुख शांति मेन समा ो रे || 3 ||"
-    ],
-    [
-      "तल"
+      "श्रद्धा धरे सन्तों की सेवा करो सदाई ।",
+      "कहे टेऊँ ज्ञान लेके दिल की हरो दुआई ।",
+      "संसा सकल मिटाके, सुख शान्ति में समा ओ रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re,",
-      "Jivan Saphal Banaao Re (Tek)."
-    ],
-    [
       "Santon Ke Vachan Sunkar Man Men Karo Vichaaraa.",
-      "Vairaag Ur Men Dhaare Jag Se Karo Kinaaraa."
-    ],
-    [
-      "Vishyon Se Man Hataake, Hriday Hari Basaao Re. || 1 ||."
+      "Vairaag Ur Men Dhaare Jag Se Karo Kinaaraa.",
+      "Vishyon Se Man Hataake, Hriday Hari Basaao Re || 1 ||"
     ],
     [
       "Paapon Ko Chhor Ke Tum Shubh Karm Kar Pyaaraa.",
-      "Maayaa Se Dur Rahke Apnaa Karo Uddhaaraa."
+      "Maayaa Se Dur Rahke Apnaa Karo Uddhaaraa.",
+      "Guru Shabd Ki Hriday Men, Jyoti Amar Jagaao Re || 2 ||"
     ],
     [
-      "Guru Shabd Ki Hriday Men, Jyoti Amar Jagaao Re.2 ||",
-      "Shraddhaa Dhare Santon Ki Sevaa Karo Sadaai."
-    ],
-    [
-      "Kahe Teun Jnyaan Leke Dil Ki Haro Duaai.",
+      "Shraddhaa Dhare Santon Ki Sevaa Karo Sadaai.",
+      "Kahe Teun Gyaan Leke Dil Ki Haro Duaai.",
       "Sansaa Sakal Mitaake, Sukh Shaanti Men Samaa O Re || 3 ||"
-    ],
-    [
-      "Tal"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 83 || 145 ||",
-    "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re",
-    "तुम साध सनगति जाकर, हरिनाम को धयाो रे"
+    "तुम साध संगति जाकर, हरिनाम को ध्याओ रे,",
+    "Tum Saadh Sangti Jaakar, Harinaam Ko Dhyaao Re,",
+    "राग आसा भजन 83",
+    "Raag Aasaa Bhajan 83"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 145,
+  "displayOrder": 83,
+  "overallOrder": 145,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 101",
+  "updatedAt": "2026-10-26"
 }

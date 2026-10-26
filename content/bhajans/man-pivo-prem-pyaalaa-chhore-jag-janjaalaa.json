@@ -1,41 +1,87 @@
 {
   "id": "bhajan-0281",
   "slug": "man-pivo-prem-pyaalaa-chhore-jag-janjaalaa",
-  "categoryId": "raag-bhairav",
-  "title": "मन पिवो प्रेम पयाला, चहोरे जग जनजाला",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मन पीवो प्रेम प्याला, छोड़े जग जंजाला ॥",
   "romanTitle": "Man Pivo Prem Pyaalaa, Chhore Jag Janjaalaa",
   "firstLine": "Man Pivo Prem Pyaalaa, Chhore Jag Janjaalaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६६ ।। २८१।।",
+  "tek": [
+    "मन पीवो प्रेम प्याला, छोड़े जग जंजाला ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Man Pivo Prem Pyaalaa, Chhore Jag Janjaalaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इस प्याले को सुर नर मुनिजन, खोज खोज कर हारे ।",
+        "गुरु कृपा बिन किसे न मिलता, भावें हो भूपाला ॥१ ॥"
+      ],
+      "romanLines": [
+        "Is Pyaale Ko Sur Nar Munijan, Khoj Khoj Kar Haare.",
+        "Guru Kripaa Bin Kise Na Miltaa, Bhaaven Ho Bhupaalaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "और प्याला सर्व त्यागो, कालकूट सम जानी ।",
+        "प्रेम सुधारस अतिशय मीठा, पीकर होय निहाला ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aur Pyaalaa Sarv Tyaago, Kaalkut Sam Jaani.",
+        "Prem Sudhaaras Atishay Mithaa, Pikar Hoy Nihaalaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सर्व रसों को इकठा करके, सार खींच तिहं लीजे ।",
+        "प्रेम सुधा सम होय न तो भी, जैसे आक रसाला ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Sarv Rason Ko Ikthaa Karke, Saar Khinch Tihan Lije.",
+        "Prem Sudhaa Sam Hoy Na To Bhi, Jaise Aak Rasaalaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह प्रेम प्याला, पीवत को बड़भागी ।",
+        "जो पीवत सो राम रंग में, सदा रहत मतवाला ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Prem Pyaalaa, Pivat Ko Barbhaagi.",
+        "Jo Pivat So Raam Rang Men, Sadaa Rahat Matvaalaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन पिवो प्रेम पयाला, चहोरे जग जनजाला (टेक)."
+      "इस प्याले को सुर नर मुनिजन, खोज खोज कर हारे ।",
+      "गुरु कृपा बिन किसे न मिलता, भावें हो भूपाला ॥१ ॥"
     ],
     [
-      "िस पयाले को सुर नर मुनिजन, खोज खोज कर हारे.",
-      "गुरु कृपा बिन किसे न मिलता, भावेन हो भुपाला || 1. ||."
+      "और प्याला सर्व त्यागो, कालकूट सम जानी ।",
+      "प्रेम सुधारस अतिशय मीठा, पीकर होय निहाला ॥२ ॥"
     ],
     [
-      "ौर पयाला सर्व तयागो, कालकुत सम जानि.",
-      "प्रेम सुधारस तिशय मिथा, पिकर होय निहाला || 2 ||"
+      "सर्व रसों को इकठा करके, सार खींच तिहं लीजे ।",
+      "प्रेम सुधा सम होय न तो भी, जैसे आक रसाला ॥ ।३े ॥ ।"
     ],
     [
-      "सर्व रसोन को िकथा करके, सार खिनच तिहन लिजे.",
-      "प्रेम सुधा सम होय न तो भि, जैसे ाक रसाला ||.3े ||."
-    ],
-    [
-      "कहे तेऊँ यह प्रेम पयाला, पिवत को बरभागि.",
-      "जो पिवत सो राम रनग मेन, सदा रहत मतवाला ||.4. ||."
-    ],
-    [
-      "गे"
+      "कहे टेऊँ यह प्रेम प्याला, पीवत को बड़भागी ।",
+      "जो पीवत सो राम रंग में, सदा रहत मतवाला ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Pivo Prem Pyaalaa, Chhore Jag Janjaalaa (Tek)."
-    ],
-    [
       "Is Pyaale Ko Sur Nar Munijan, Khoj Khoj Kar Haare.",
-      "Guru Kripaa Bin Kise N Miltaa, Bhaaven Ho Bhupaalaa || 1. ||."
+      "Guru Kripaa Bin Kise Na Miltaa, Bhaaven Ho Bhupaalaa || 1 ||"
     ],
     [
       "Aur Pyaalaa Sarv Tyaago, Kaalkut Sam Jaani.",
@@ -43,29 +89,28 @@
     ],
     [
       "Sarv Rason Ko Ikthaa Karke, Saar Khinch Tihan Lije.",
-      "Prem Sudhaa Sam Hoy N To Bhi, Jaise Aak Rasaalaa ||.3E ||."
+      "Prem Sudhaa Sam Hoy Na To Bhi, Jaise Aak Rasaalaa || 3E ||"
     ],
     [
       "Kahe Teun Yah Prem Pyaalaa, Pivat Ko Barbhaagi.",
-      "Jo Pivat So Raam Rang Men, Sadaa Rahat Matvaalaa ||.4. ||."
-    ],
-    [
-      "Ge"
+      "Jo Pivat So Raam Rang Men, Sadaa Rahat Matvaalaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 66 || 281 ||",
+    "मन पीवो प्रेम प्याला, छोड़े जग जंजाला ॥",
     "Man Pivo Prem Pyaalaa, Chhore Jag Janjaalaa",
-    "मन पिवो प्रेम पयाला, चहोरे जग जनजाला"
+    "राग भैरवी भजन 66",
+    "Raag Bhairvi Bhajan 66"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 281,
+  "displayOrder": 66,
+  "overallOrder": 281,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 171",
+  "updatedAt": "2026-10-26"
 }

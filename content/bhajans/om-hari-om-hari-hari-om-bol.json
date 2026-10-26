@@ -2,39 +2,97 @@
   "id": "bhajan-0109",
   "slug": "om-hari-om-hari-hari-om-bol",
   "categoryId": "raag-aasaa",
-  "title": "ॐ हरि ॐ हरि, हरि ॐ बोल",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "ओम हरी ओम हरी, हरी ओम बोल",
   "romanTitle": "Om Hari Om Hari, Hari Om Bol",
-  "firstLine": "Om Hari Om Hari, Hari Om Bol. Om Binaa Aur N Bolo, Hari Om Bol (Tek).",
+  "firstLine": "Om Hari Om Hari, Hari Om Bol.",
+  "heading": "।। राग आसा भजन ।। ४७ ।। १०९।।",
+  "tek": [
+    "ओम हरी ओम हरी, हरी ओम बोल ।",
+    "ओम बिना और न बोलो, हरी ओम बोल ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Om Hari Om Hari, Hari Om Bol.",
+    "Om Binaa Aur Na Bolo, Hari Om Bol (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ओम मूल वेदों का मंत्र, ओम वश करने का जन्त्र ।",
+        "अन्तर बाहर ओम व्यापक हृदय माहीं तोल ॥१ ॥"
+      ],
+      "romanLines": [
+        "Om Mul Vedon Kaa Mantr, Om Vash Karne Kaa Jantr.",
+        "Antar Baahar Om Vyaapak Hriday Maahin Tol || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ओम गणपति सूर्य चन्द्र है, ओम शकक्‍ती हरि शंकर है ।",
+        "ओम निर्गुण सगुण रूप है देखो शास्त्र खोल ॥२ ॥"
+      ],
+      "romanLines": [
+        "Om Ganpati Sury Chandr Hai, Om Shakak‍Ti Hari Shankar Hai.",
+        "Om Nirgun Sagun Rup Hai Dekho Shaastr Khol || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ओम आतम ब्रह्म अनादी, एक जान कट भेद उपाधी ।",
+        "ज्ञान ध्यान विज्ञान स्वरूपा जानो ओम अमोल ॥३ ॥"
+      ],
+      "romanLines": [
+        "Om Aatam Brahm Anaadi, Ek Jaan Kat Bhed Upaadhi.",
+        "Gyaan Dhyaan Vijnyaan Svarupaa Jaano Om Amol || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ओम अक्षर को सुमरे जोई, मन वांछित फल पावे सोई ।",
+        "कहता टेऊँ ओम जाप से पाओ धाम अडोल ॥४ ॥"
+      ],
+      "romanLines": [
+        "Om Akshar Ko Sumre Joi, Man Vaanchhit Phal Paave Soi.",
+        "Kahtaa Teun Om Jaap Se Paao Dhaam Adol || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ह"
+      ],
+      "romanLines": [
+        "Thh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ॐ हरि ॐ हरि, हरि ॐ बोल.",
-      "ॐ बिना ौर न बोलो, हरि ॐ बोल (टेक)."
+      "ओम मूल वेदों का मंत्र, ओम वश करने का जन्त्र ।",
+      "अन्तर बाहर ओम व्यापक हृदय माहीं तोल ॥१ ॥"
     ],
     [
-      "ॐ मुल वेदोन का मनतर, ॐ वश करने का जनतर.",
-      "नतर बाहर ॐ वयापक हरिदय माहिन तोल || 1 ||"
+      "ओम गणपति सूर्य चन्द्र है, ओम शकक्‍ती हरि शंकर है ।",
+      "ओम निर्गुण सगुण रूप है देखो शास्त्र खोल ॥२ ॥"
     ],
     [
-      "ॐ गनपति सुरय चनदर है, ॐ शककति हरि शनकर है.",
-      "ॐ निरगुन सगुन रुप है देखो शासतर खोल || 2 ||"
+      "ओम आतम ब्रह्म अनादी, एक जान कट भेद उपाधी ।",
+      "ज्ञान ध्यान विज्ञान स्वरूपा जानो ओम अमोल ॥३ ॥"
     ],
     [
-      "ॐ ातम बरहम नादि, ेक जान कत भेद ुपाधि.",
-      "ज्ञान ध्यान विजनयान सवरुपा जानो ॐ मोल || 3 ||"
+      "ओम अक्षर को सुमरे जोई, मन वांछित फल पावे सोई ।",
+      "कहता टेऊँ ओम जाप से पाओ धाम अडोल ॥४ ॥"
     ],
     [
-      "ॐ कशर को सुमरे जोि, मन वानचहित फल पावे सोि.",
-      "कहता तेऊँ ॐ जाप से पाो धाम दोल. ||.4 ||"
-    ],
-    [
-      "थह"
+      "ठ्ह"
     ]
   ],
   "romanLyrics": [
-    [
-      "Om Hari Om Hari, Hari Om Bol.",
-      "Om Binaa Aur N Bolo, Hari Om Bol (Tek)."
-    ],
     [
       "Om Mul Vedon Kaa Mantr, Om Vash Karne Kaa Jantr.",
       "Antar Baahar Om Vyaapak Hriday Maahin Tol || 1 ||"
@@ -45,29 +103,31 @@
     ],
     [
       "Om Aatam Brahm Anaadi, Ek Jaan Kat Bhed Upaadhi.",
-      "Jnyaan Dhyaan Vijnyaan Svarupaa Jaano Om Amol || 3 ||"
+      "Gyaan Dhyaan Vijnyaan Svarupaa Jaano Om Amol || 3 ||"
     ],
     [
       "Om Akshar Ko Sumre Joi, Man Vaanchhit Phal Paave Soi.",
-      "Kahtaa Teun Om Jaap Se Paao Dhaam Adol. ||.4 ||"
+      "Kahtaa Teun Om Jaap Se Paao Dhaam Adol || 4 ||"
     ],
     [
       "Thh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 47 || 109 ||",
+    "ओम हरी ओम हरी, हरी ओम बोल",
     "Om Hari Om Hari, Hari Om Bol",
-    "ॐ हरि ॐ हरि, हरि ॐ बोल"
+    "राग आसा भजन 47",
+    "Raag Aasaa Bhajan 47"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 109,
+  "displayOrder": 47,
+  "overallOrder": 109,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 80",
+  "updatedAt": "2026-10-26"
 }

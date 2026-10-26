@@ -1,72 +1,120 @@
 {
-  "id": "bhajan-0620",
+  "id": "bhajan-0618",
   "slug": "sadguru-mere-ghar-men-aayaa-khuliyaa-bhaag-savaayaa",
   "categoryId": "raag-kalyaan",
-  "title": "सद्गुरु मेरे घर मेन ाया, खुलिया भाग सवाया",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "सद्‌गुरु मेरे घर में आया, खुलिया भाग सवाया",
   "romanTitle": "Sad‌Guru Mere Ghar Men Aayaa, Khuliyaa Bhaag Savaayaa",
   "firstLine": "Sad‌Guru Mere Ghar Men Aayaa, Khuliyaa Bhaag Savaayaa (Tek).",
+  "heading": "।॥। राग कल्याण भजन ।। १२ ।। ६१९।।",
+  "tek": [
+    "सद्‌गुरु मेरे घर में आया, खुलिया भाग सवाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Mere Ghar Men Aayaa, Khuliyaa Bhaag Savaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कर्म बीज जो पूर्व बोया, सोई फल अब प्रकट होया ।",
+        "जिसने आन मिलाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Karm Bij Jo Purv Boyaa, Soi Phal Ab Prakat Hoyaa.",
+        "Jisne Aan Milaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दर्शन से प्रमोद भया है, दूख दर्द सब शोक गया है ।",
+        "सकल पाप मिट जाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Darshan Se Pramod Bhayaa Hai, Dukh Dard Sab Shok Gayaa Hai.",
+        "Sakal Paap Mit Jaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ठ्ठ",
+        "कोटि यज्ञ का फल है जोई, आज सखी मैं पाया सोई ।",
+        "आनन्द उर में छाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Thth",
+        "Koti Yajny Kaa Phal Hai Joi, Aaj Sakhi Main Paayaa Soi.",
+        "Aanand Ur Men Chhaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँं सब कारज सरिया, भाव भक्ति से हृदय भरिया ।",
+        "सद्‌गुरु पद सिर नाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teunn Sab Kaaraj Sariyaa, Bhaav Bhakti Se Hriday Bhariyaa.",
+        "Sad‌Guru Pad Sir Naayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु मेरे घर मेन ाया, खुलिया भाग सवाया (टेक)."
+      "कर्म बीज जो पूर्व बोया, सोई फल अब प्रकट होया ।",
+      "जिसने आन मिलाया ॥१ ॥"
     ],
     [
-      "करम बिज जो पुरव बोया, सोि फल ब परकत होया.",
-      "जिसने ान मिलाया || 1 ||"
+      "दर्शन से प्रमोद भया है, दूख दर्द सब शोक गया है ।",
+      "सकल पाप मिट जाया ॥२ ॥"
     ],
     [
-      "दरशन से परमोद भया है, दुःख दरद सब शोक गया है.",
-      "सकल पाप मित जाया || 2 ||."
+      "ठ्ठ",
+      "कोटि यज्ञ का फल है जोई, आज सखी मैं पाया सोई ।",
+      "आनन्द उर में छाया ॥३ ॥"
     ],
     [
-      "थथ",
-      "कोति यजनय का फल है जोि, ाज सखि मैं पाया सोि."
-    ],
-    [
-      "आनंद ुर मेन चहाया || 3 ||."
-    ],
-    [
-      "कहे तेुनन सब कारज सरिया, भाव भक्ति से हरिदय भरिया.",
-      "सद्गुरु पद सिर नाया || 4. ||."
+      "कहे टेऊँं सब कारज सरिया, भाव भक्ति से हृदय भरिया ।",
+      "सद्‌गुरु पद सिर नाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sad‌Guru Mere Ghar Men Aayaa, Khuliyaa Bhaag Savaayaa (Tek)."
-    ],
     [
       "Karm Bij Jo Purv Boyaa, Soi Phal Ab Prakat Hoyaa.",
       "Jisne Aan Milaayaa || 1 ||"
     ],
     [
       "Darshan Se Pramod Bhayaa Hai, Dukh Dard Sab Shok Gayaa Hai.",
-      "Sakal Paap Mit Jaayaa || 2 ||."
+      "Sakal Paap Mit Jaayaa || 2 ||"
     ],
     [
       "Thth",
-      "Koti Yajny Kaa Phal Hai Joi, Aaj Sakhi Main Paayaa Soi."
-    ],
-    [
-      "Aanand Ur Men Chhaayaa || 3 ||."
+      "Koti Yajny Kaa Phal Hai Joi, Aaj Sakhi Main Paayaa Soi.",
+      "Aanand Ur Men Chhaayaa || 3 ||"
     ],
     [
       "Kahe Teunn Sab Kaaraj Sariyaa, Bhaav Bhakti Se Hriday Bhariyaa.",
-      "Sad‌Guru Pad Sir Naayaa || 4. ||."
+      "Sad‌Guru Pad Sir Naayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    ". ||. Raag Kalyaan Bhajan || 12 || 619 ||",
+    "सद्‌गुरु मेरे घर में आया, खुलिया भाग सवाया",
     "Sad‌Guru Mere Ghar Men Aayaa, Khuliyaa Bhaag Savaayaa",
-    "सद्गुरु मेरे घर मेन ाया, खुलिया भाग सवाया"
+    "राग कल्याण भजन 12",
+    "Raag Kalyaan Bhajan 12"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 620,
+  "displayOrder": 12,
+  "overallOrder": 618,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 331",
+  "updatedAt": "2026-10-26"
 }

@@ -1,66 +1,116 @@
 {
-  "id": "bhajan-0731",
+  "id": "bhajan-0729",
   "slug": "hari-naam-nahin-dhyaayaa-tum-vrithaa-janm-ganvaayaa",
   "categoryId": "raag-pilaa",
-  "title": "हरि नाम नहिन धयाया, तुम वरिथा जनम गनवाया",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "हरी नाम नहिं ध्याया, तुम वृथा जन्म गंवाया",
   "romanTitle": "Hari Naam Nahin Dhyaayaa, Tum Vrithaa Janm Ganvaayaa",
   "firstLine": "Hari Naam Nahin Dhyaayaa, Tum Vrithaa Janm Ganvaayaa (Tek).",
+  "heading": "।। राग पीला भजन ।। ९ ।। ७३१।॥।",
+  "tek": [
+    "हरी नाम नहिं ध्याया, तुम वृथा जन्म गंवाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Naam Nahin Dhyaayaa, Tum Vrithaa Janm Ganvaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात गर्भ में कर इकरारा, बाहर निकसा नाम बिसारा ।",
+        "मीठी लागी माया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Garbh Men Kar Ikraaraa, Baahar Niksaa Naam Bisaaraa.",
+        "Mithi Laagi Maayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बालापन खेलन में खोया, कबहूं हसिया कबहूं रोया ।",
+        "सोच बिना दुख पाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baalaapan Khelan Men Khoyaa, Kabhun Hasiyaa Kabhun Royaa.",
+        "Soch Binaa Dukh Paayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जोबन में प्रिय लागी नारी, तां हित पाप किया बहु भारी ।",
+        "कर्म न नेक कमाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Joban Men Priy Laagi Naari, Taan Hit Paap Kiyaa Bahu Bhaari.",
+        "Karm Na Nek Kamaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बूढ़ापन में होय अधीना, कहे टेऊँ हरि भजन न कीना ।",
+        "बहुता लोभ बढ़ाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Burhaapan Men Hoy Adhinaa, Kahe Teun Hari Bhajan Na Kinaa.",
+        "Bahutaa Lobh Barhaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि नाम नहिन धयाया, तुम वरिथा जनम गनवाया (टेक)."
+      "मात गर्भ में कर इकरारा, बाहर निकसा नाम बिसारा ।",
+      "मीठी लागी माया ॥१ ॥"
     ],
     [
-      "मात गरभ मेन कर िकरारा, बाहर निकसा नाम बिसारा.",
-      "मिथि लागि माया || 1. ||."
+      "बालापन खेलन में खोया, कबहूं हसिया कबहूं रोया ।",
+      "सोच बिना दुख पाया ॥२ ॥"
     ],
     [
-      "बालापन खेलन मेन खोया, कभुन हसिया कभुन रोया.",
-      "सोच बिना दुःख पाया || 2 ||."
+      "जोबन में प्रिय लागी नारी, तां हित पाप किया बहु भारी ।",
+      "कर्म न नेक कमाया ॥३ ॥"
     ],
     [
-      "जोबन मेन परिय लागि नारि, तान हित पाप किया बहु भारि.",
-      "करम न नेक कमाया || || 3 ||"
-    ],
-    [
-      "बुरहापन मेन होय धिना, कहे तेऊँ हरि भजन न किना.",
-      "बहुता लोभ बरहाया ||.4 ||."
+      "बूढ़ापन में होय अधीना, कहे टेऊँ हरि भजन न कीना ।",
+      "बहुता लोभ बढ़ाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Naam Nahin Dhyaayaa, Tum Vrithaa Janm Ganvaayaa (Tek)."
-    ],
-    [
       "Maat Garbh Men Kar Ikraaraa, Baahar Niksaa Naam Bisaaraa.",
-      "Mithi Laagi Maayaa || 1. ||."
+      "Mithi Laagi Maayaa || 1 ||"
     ],
     [
       "Baalaapan Khelan Men Khoyaa, Kabhun Hasiyaa Kabhun Royaa.",
-      "Soch Binaa Dukh Paayaa || 2 ||."
+      "Soch Binaa Dukh Paayaa || 2 ||"
     ],
     [
       "Joban Men Priy Laagi Naari, Taan Hit Paap Kiyaa Bahu Bhaari.",
-      "Karm N Nek Kamaayaa || || 3 ||"
+      "Karm Na Nek Kamaayaa || 3 ||"
     ],
     [
-      "Burhaapan Men Hoy Adhinaa, Kahe Teun Hari Bhajan N Kinaa.",
-      "Bahutaa Lobh Barhaayaa ||.4 ||."
+      "Burhaapan Men Hoy Adhinaa, Kahe Teun Hari Bhajan Na Kinaa.",
+      "Bahutaa Lobh Barhaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 9 || 731. ||.",
+    "हरी नाम नहिं ध्याया, तुम वृथा जन्म गंवाया",
     "Hari Naam Nahin Dhyaayaa, Tum Vrithaa Janm Ganvaayaa",
-    "हरि नाम नहिन धयाया, तुम वरिथा जनम गनवाया"
+    "राग पीला भजन 8",
+    "Raag Pilaa Bhajan 8"
   ],
   "tags": [
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 731,
+  "displayOrder": 8,
+  "overallOrder": 729,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 388",
+  "updatedAt": "2026-10-26"
 }

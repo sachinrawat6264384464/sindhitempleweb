@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0699",
+  "id": "bhajan-0697",
   "slug": "rah-shaanti-men-nij-kraanti-men",
   "categoryId": "raag-pahaari",
-  "title": "रह शांति मेन निज करानति मेन",
-  "romanTitle": "Rah Shaanti Men Nij Kraanti Men",
-  "firstLine": "Rah Shaanti Men Nij Kraanti Men, Sankalp Vikalp Chhor Manaa (Tek).",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "रह शान्ति में निज क्रान्ति में,",
+  "romanTitle": "Rah Shaanti Men Nij Kraanti Men,",
+  "firstLine": "Rah Shaanti Men Nij Kraanti Men,",
+  "heading": "।। राग पहाड़ी भजन ।। ५० ।। ६९८॥।",
+  "tek": [
+    "रह शान्ति में निज क्रान्ति में,",
+    "संकल्प विकल्प छोड़ मना ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Rah Shaanti Men Nij Kraanti Men,",
+    "Sankalp Vikalp Chhor Manaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शान्ती घर से आये हो, शान्ती माहिं समाये हो,",
+        "अब तुम क्यों घबराये हो, छोड़ बीच की कल्पना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shaanti Ghar Se Aaye Ho, Shaanti Maahin Samaaye Ho,",
+        "Ab Tum Kyon Ghabraaye Ho, Chhor Bich Ki Kalpanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लखले अपने आपको, जपले अजपा जाप को,",
+        "हरले तीनों ताप को, तजले संगति दुर्जना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Lakhle Apne Aapko, Japle Ajpaa Jaap Ko,",
+        "Harle Tinon Taap Ko, Tajle Sangti Durjanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काम क्रोध को त्याग ले, विषयों से वैराग ले,",
+        "आतम पद में जाग ले, मोह नींद को छोड़ना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Ko Tyaag Le, Vishyon Se Vairaag Le,",
+        "Aatam Pad Men Jaag Le, Moh Nind Ko Chhornaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ एकान्ति में, प्रेम करो गुरु पान्ति में,",
+        "लीन रहो निज शान्ति में, छोड़ श्रम में भ्रमना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ekaanti Men, Prem Karo Guru Paanti Men,",
+        "Lin Raho Nij Shaanti Men, Chhor Shram Men Bhramnaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रह शांति मेन निज करानति मेन,",
-      "सनकलप विकलप चहोर मना (टेक)."
+      "शान्ती घर से आये हो, शान्ती माहिं समाये हो,",
+      "अब तुम क्यों घबराये हो, छोड़ बीच की कल्पना ॥१ ॥"
     ],
     [
-      "शांति घर से ाये हो, शांति माहिन समाये हो,",
-      "ब तुम कयोन घबराये हो, चहोर बिच कि कलपना || 1 ||."
+      "लखले अपने आपको, जपले अजपा जाप को,",
+      "हरले तीनों ताप को, तजले संगति दुर्जना ॥२ ॥"
     ],
     [
-      "लखले पने ापको, जपले जपा जाप को,",
-      "हरले तिनोन ताप को, तजले सनगति दुरजना ||.2 ||."
+      "काम क्रोध को त्याग ले, विषयों से वैराग ले,",
+      "आतम पद में जाग ले, मोह नींद को छोड़ना ॥३ ॥"
     ],
     [
-      "काम करोध को तयाग ले, विशयोन से वैराग ले,",
-      "ातम पद मेन जाग ले, मोह निनद को चहोरना || 3े ||"
-    ],
-    [
-      "कहे तेऊँ ेकानति मेन, प्रेम करो गुरु पानति मेन,",
-      "लिन रहो निज शांति मेन, चहोर शरम मेन भरमना || 4 ||"
+      "कहे टेऊँ एकान्ति में, प्रेम करो गुरु पान्ति में,",
+      "लीन रहो निज शान्ति में, छोड़ श्रम में भ्रमना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Rah Shaanti Men Nij Kraanti Men,",
-      "Sankalp Vikalp Chhor Manaa (Tek)."
-    ],
-    [
       "Shaanti Ghar Se Aaye Ho, Shaanti Maahin Samaaye Ho,",
-      "Ab Tum Kyon Ghabraaye Ho, Chhor Bich Ki Kalpanaa || 1 ||."
+      "Ab Tum Kyon Ghabraaye Ho, Chhor Bich Ki Kalpanaa || 1 ||"
     ],
     [
       "Lakhle Apne Aapko, Japle Ajpaa Jaap Ko,",
-      "Harle Tinon Taap Ko, Tajle Sangti Durjanaa ||.2 ||."
+      "Harle Tinon Taap Ko, Tajle Sangti Durjanaa || 2 ||"
     ],
     [
       "Kaam Krodh Ko Tyaag Le, Vishyon Se Vairaag Le,",
-      "Aatam Pad Men Jaag Le, Moh Nind Ko Chhornaa || 3E ||"
+      "Aatam Pad Men Jaag Le, Moh Nind Ko Chhornaa || 3 ||"
     ],
     [
       "Kahe Teun Ekaanti Men, Prem Karo Guru Paanti Men,",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 50 || 698 ||.",
-    "Rah Shaanti Men Nij Kraanti Men",
-    "रह शांति मेन निज करानति मेन"
+    "रह शान्ति में निज क्रान्ति में,",
+    "Rah Shaanti Men Nij Kraanti Men,",
+    "राग पहाड़ी भजन 50",
+    "Raag Pahaari Bhajan 50"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 699,
+  "displayOrder": 50,
+  "overallOrder": 697,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 371",
+  "updatedAt": "2026-10-26"
 }

@@ -1,34 +1,72 @@
 {
-  "id": "bhajan-0882",
+  "id": "bhajan-0880",
   "slug": "raazi-hovat-tabhin-raam-prem-bhaav-jab-dekhat-jan-men",
   "categoryId": "raag-jog",
-  "title": "राzि होवत तभिन राम, प्रेम भाव जब देखत जन मेन",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "राज़ी होवत तबहीं राम, प्रेम भाव जब देखत जन में",
   "romanTitle": "Raazi Hovat Tabhin Raam, Prem Bhaav Jab Dekhat Jan Men",
   "firstLine": "Raazi Hovat Tabhin Raam, Prem Bhaav Jab Dekhat Jan Men (Tek).",
+  "heading": "।। राग जोग भजन ।। ५२ ।। ८८२",
+  "tek": [
+    "राज़ी होवत तबहीं राम, प्रेम भाव जब देखत जन में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raazi Hovat Tabhin Raam, Prem Bhaav Jab Dekhat Jan Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रेमी भक्त हरी को भावे, भगवत तांको नाहिं भुलावे,",
+        "याद करे तिहं आठों याम, राखत जनको अपने मन में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Premi Bhakt Hari Ko Bhaave, Bhagvat Taanko Naahin Bhulaave,",
+        "Yaad Kare Tihan Aathon Yaam, Raakhat Janko Apne Man Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जाति पाति हरि देखत नाहीं, प्रेम देख रीझत मन माहीं,",
+        "प्रेम लगे हरि को अभिराम, बन्ध जाता है प्रेम बंधन में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaati Paati Hari Dekhat Naahin, Prem Dekh Rijhat Man Maahin,",
+        "Prem Lage Hari Ko Abhiraam, Bandh Jaataa Hai Prem Bandhan Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम प्रभू से जिन जिन कीया, तिनको हरि ने दर्शन दीया,",
+        "कहे टेऊँ कर पूरन काम, दूख मिटाया हरि इक छिन में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Prabhu Se Jin Jin Kiyaa, Tinko Hari Ne Darshan Diyaa,",
+        "Kahe Teun Kar Puran Kaam, Dukh Mitaayaa Hari Ik Chhin Men || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राzि होवत तभिन राम, प्रेम भाव जब देखत जन मेन (टेक)."
+      "प्रेमी भक्त हरी को भावे, भगवत तांको नाहिं भुलावे,",
+      "याद करे तिहं आठों याम, राखत जनको अपने मन में ॥१ ॥"
     ],
     [
-      "परेमि भकत हरि को भावे, भगवत तानको नाहिन भुलावे,",
-      "याद करे तिहन ाथोन याम, राखत जनको पने मन मेन || 1 ||."
+      "जाति पाति हरि देखत नाहीं, प्रेम देख रीझत मन माहीं,",
+      "प्रेम लगे हरि को अभिराम, बन्ध जाता है प्रेम बंधन में ॥२ ॥"
     ],
     [
-      "जाति पाति हरि देखत नाहिन, प्रेम देख रिझत मन माहिन,",
-      "प्रेम लगे हरि को भिराम, बनध जाता है प्रेम बनधन मेन || 2 ||"
-    ],
-    [
-      "प्रेम प्रभु से जिन जिन किया, तिनको हरि ने दरशन दिया,",
-      "कहे तेऊँ कर पुरन काम, दुःख मिताया हरि िक चहिन मेन || 3 ||"
+      "प्रेम प्रभू से जिन जिन कीया, तिनको हरि ने दर्शन दीया,",
+      "कहे टेऊँ कर पूरन काम, दूख मिटाया हरि इक छिन में ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raazi Hovat Tabhin Raam, Prem Bhaav Jab Dekhat Jan Men (Tek)."
-    ],
-    [
       "Premi Bhakt Hari Ko Bhaave, Bhagvat Taanko Naahin Bhulaave,",
-      "Yaad Kare Tihan Aathon Yaam, Raakhat Janko Apne Man Men || 1 ||."
+      "Yaad Kare Tihan Aathon Yaam, Raakhat Janko Apne Man Men || 1 ||"
     ],
     [
       "Jaati Paati Hari Dekhat Naahin, Prem Dekh Rijhat Man Maahin,",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 52 || 882",
+    "राज़ी होवत तबहीं राम, प्रेम भाव जब देखत जन में",
     "Raazi Hovat Tabhin Raam, Prem Bhaav Jab Dekhat Jan Men",
-    "राzि होवत तभिन राम, प्रेम भाव जब देखत जन मेन"
+    "राग जोग भजन 52",
+    "Raag Jog Bhajan 52"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 882,
+  "displayOrder": 52,
+  "overallOrder": 880,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 465",
+  "updatedAt": "2026-10-26"
 }

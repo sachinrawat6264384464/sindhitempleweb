@@ -1,58 +1,97 @@
 {
-  "id": "bhajan-0692",
+  "id": "bhajan-0690",
   "slug": "o-mere-satguru-svaami-bhav-saagar-se-taaro",
   "categoryId": "raag-pahaari",
-  "title": "ो मेरे सतगुरु स्वामी, भव सागर से तारो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "ओ मेरे सत्‌गुरु स्वामी, भव सागर से तारो ॥",
   "romanTitle": "O Mere Sat‌Guru Svaami, Bhav Saagar Se Taaro",
   "firstLine": "O Mere Sat‌Guru Svaami, Bhav Saagar Se Taaro (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ४३ ।। ६९१॥।",
+  "tek": [
+    "ओ मेरे सत्‌गुरु स्वामी, भव सागर से तारो ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "O Mere Sat‌Guru Svaami, Bhav Saagar Se Taaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जैसा तैसा तेरा हूं मैं, तेरे दर पर आये,",
+        "तुझ बिन मेरा और न कोई, तुमहीं करो सहाये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaisaa Taisaa Teraa Hun Main, Tere Dar Par Aaye,",
+        "Tujh Bin Meraa Aur Na Koi, Tumhin Karo Sahaaye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पतित पावन है नाम तुम्हारा, मैं पापी हूं भारी,",
+        "दीन दुखी मैं दर का भिखारी, तुम दाता उपकारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Patit Paavan Hai Naam Tumhaaraa, Main Paapi Hun Bhaari,",
+        "Din Dukhi Main Dar Kaa Bhikhaari, Tum Daataa Upkaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बिरद तुम्हारा शरन पालक है, मैं हूं शरनी तेरी,",
+        "कहे टेऊँ मुझ पार उतारो, नाव पुरानी मेरी ॥ ।डे ॥ ।"
+      ],
+      "romanLines": [
+        "Birad Tumhaaraa Sharan Paalak Hai, Main Hun Sharni Teri,",
+        "Kahe Teun Mujh Paar Utaaro, Naav Puraani Meri || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ो मेरे सतगुरु स्वामी, भव सागर से तारो (टेक)."
+      "जैसा तैसा तेरा हूं मैं, तेरे दर पर आये,",
+      "तुझ बिन मेरा और न कोई, तुमहीं करो सहाये ॥१ ॥"
     ],
     [
-      "जैसा तैसा तेरा हुन मैं, तेरे दर पर ाये,",
-      "तुझ बिन मेरा ौर न कोि, तुमहिन करो सहाये || 1. ||."
+      "पतित पावन है नाम तुम्हारा, मैं पापी हूं भारी,",
+      "दीन दुखी मैं दर का भिखारी, तुम दाता उपकारी ॥२ ॥"
     ],
     [
-      "पतित पावन है नाम तुमहारा, मैं पापि हुन भारि,",
-      "दीन दुखि मैं दर का भिखारि, तुम दाता ुपकारि || 2 ||."
-    ],
-    [
-      "बिरद तुमहारा शरन पालक है, मैं हुन शरनि तेरि,",
-      "कहे तेऊँ मुझ पार ुतारो, नाव पुरानि मेरि ||.दे ||."
+      "बिरद तुम्हारा शरन पालक है, मैं हूं शरनी तेरी,",
+      "कहे टेऊँ मुझ पार उतारो, नाव पुरानी मेरी ॥ ।डे ॥ ।"
     ]
   ],
   "romanLyrics": [
     [
-      "O Mere Sat‌Guru Svaami, Bhav Saagar Se Taaro (Tek)."
-    ],
-    [
       "Jaisaa Taisaa Teraa Hun Main, Tere Dar Par Aaye,",
-      "Tujh Bin Meraa Aur N Koi, Tumhin Karo Sahaaye || 1. ||."
+      "Tujh Bin Meraa Aur Na Koi, Tumhin Karo Sahaaye || 1 ||"
     ],
     [
       "Patit Paavan Hai Naam Tumhaaraa, Main Paapi Hun Bhaari,",
-      "Din Dukhi Main Dar Kaa Bhikhaari, Tum Daataa Upkaari || 2 ||."
+      "Din Dukhi Main Dar Kaa Bhikhaari, Tum Daataa Upkaari || 2 ||"
     ],
     [
       "Birad Tumhaaraa Sharan Paalak Hai, Main Hun Sharni Teri,",
-      "Kahe Teun Mujh Paar Utaaro, Naav Puraani Meri ||.De ||."
+      "Kahe Teun Mujh Paar Utaaro, Naav Puraani Meri || De ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 43 || 691 ||.",
+    "ओ मेरे सत्‌गुरु स्वामी, भव सागर से तारो ॥",
     "O Mere Sat‌Guru Svaami, Bhav Saagar Se Taaro",
-    "ो मेरे सतगुरु स्वामी, भव सागर से तारो"
+    "राग पहाड़ी भजन 43",
+    "Raag Pahaari Bhajan 43"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 692,
+  "displayOrder": 43,
+  "overallOrder": 690,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 367",
+  "updatedAt": "2026-10-26"
 }

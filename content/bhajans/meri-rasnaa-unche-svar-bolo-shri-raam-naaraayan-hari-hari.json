@@ -1,90 +1,149 @@
 {
-  "id": "bhajan-0696",
+  "id": "bhajan-0694",
   "slug": "meri-rasnaa-unche-svar-bolo-shri-raam-naaraayan-hari-hari",
   "categoryId": "raag-pahaari",
-  "title": "मेरि रसना ुनचे सवर बोलो, श्री राम नारायन हरि हरि",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मेरी रसना ऊँचे स्वर बोलो, श्री राम नारायण हरी हरी",
   "romanTitle": "Meri Rasnaa Unche Svar Bolo, Shri Raam Naaraayan Hari Hari",
-  "firstLine": "Meri Rasnaa Unche Svar Bolo, Shri Raam Naaraayan Hari Hari. Shri Raam Naam Ras Mithe Ki, Tu Pile Amrit Zari Zari (Tek).",
+  "firstLine": "Meri Rasnaa Unche Svar Bolo, Shri Raam Naaraayan Hari Hari.",
+  "heading": "।। राग पहाड़ी भजन ।॥। ४७ ।। ६९५॥।",
+  "tek": [
+    "मेरी रसना ऊँचे स्वर बोलो, श्री राम नारायण हरी हरी ।",
+    "श्री राम नाम रस मीठे की, तूं पीले अमृत ज़री ज़री ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meri Rasnaa Unche Svar Bolo, Shri Raam Naaraayan Hari Hari.",
+    "Shri Raam Naam Ras Mithe Ki, Tu Pile Amrit Zari Zari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्री राम नाम तेरी लाली है, श्री राम बिना तूं काली है ।",
+        "श्री राम नाम तेरी माली है, श्री राम बिना तूं खाली है ।",
+        "श्री राम नाम तेरी शोभा है, तूं राम सुमर हर घड़ी घड़ी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shri Raam Naam Teri Laali Hai, Shri Raam Binaa Tu Kaali Hai.",
+        "Shri Raam Naam Teri Maali Hai, Shri Raam Binaa Tu Khaali Hai.",
+        "Shri Raam Naam Teri Shobhaa Hai, Tu Raam Sumar Har Ghari Ghari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रस विषयों के लेते लेते, तुम आयू बहुत गंवाई है ।",
+        "अफसोस मुझे ये आता है, कछु शान्ति न तूने पाई है ।",
+        "अब भोगों के रस छोड़ सभी, इक हरि रस में रह पड़ी पड़ी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ras Vishyon Ke Lete Lete, Tum Aayu Bahut Ganvaai Hai.",
+        "Aphsos Mujhe Ye Aataa Hai, Kachhu Shaanti Na Tune Paai Hai.",
+        "Ab Bhogon Ke Ras Chhor Sabhi, Ik Hari Ras Men Rah Pari Pari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "छोड़ निन्‍्दया चुगली कटु बचना, छोड़ तात पराई छल रचना ।",
+        "छोड़ झूठा बोलन पर हंसना, छोड़ गाली देना तूं रसना ।",
+        "छोड़ जगके झूठे बातों को , कर बात राम की खरी खरी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chhor Nin‍Dayaa Chugli Katu Bachnaa, Chhor Taat Paraai Chhal Rachnaa.",
+        "Chhor Jhuthaa Bolan Par Hansnaa, Chhor Gaali Denaa Tu Rasnaa.",
+        "Chhor Jagke Jhuthe Baaton Ko, Kar Baat Raam Ki Khari Khari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "श्री राम न सुमरे जा रसना, इक कौड़ी तिसका मुल्ह नाहीं ।",
+        "उस जिव्हा को तिल तिल कट दीजे, कूकर कौवों मुख माहीं ।",
+        "कहे टेऊँ ऐसे वेद कहे, तुम देखो पुस्तक पढ़ी पढ़ी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Shri Raam Na Sumre Jaa Rasnaa, Ik Kauri Tiskaa Mulh Naahin.",
+        "Us Jivhaa Ko Til Til Kat Dije, Kukar Kauvon Mukh Maahin.",
+        "Kahe Teun Aise Ved Kahe, Tum Dekho Pustak Parhi Parhi || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्दह"
+      ],
+      "romanLines": [
+        "Ddah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरि रसना ुनचे सवर बोलो, श्री राम नारायन हरि हरि.",
-      "श्री राम नाम रस मिथे कि, तु पिले अमृत zरि zरि (टेक)."
+      "श्री राम नाम तेरी लाली है, श्री राम बिना तूं काली है ।",
+      "श्री राम नाम तेरी माली है, श्री राम बिना तूं खाली है ।",
+      "श्री राम नाम तेरी शोभा है, तूं राम सुमर हर घड़ी घड़ी ॥१ ॥"
     ],
     [
-      "श्री राम नाम तेरि लालि है, श्री राम बिना तु कालि है.",
-      "श्री राम नाम तेरि मालि है, श्री राम बिना तु खालि है."
+      "रस विषयों के लेते लेते, तुम आयू बहुत गंवाई है ।",
+      "अफसोस मुझे ये आता है, कछु शान्ति न तूने पाई है ।",
+      "अब भोगों के रस छोड़ सभी, इक हरि रस में रह पड़ी पड़ी ॥२ ॥"
     ],
     [
-      "श्री राम नाम तेरि शोभा है, तु राम सुमर हर घरि घरि.1 ||",
-      "रस विशयोन के लेते लेते, तुम ायु बहुत गनवाि है."
+      "छोड़ निन्‍्दया चुगली कटु बचना, छोड़ तात पराई छल रचना ।",
+      "छोड़ झूठा बोलन पर हंसना, छोड़ गाली देना तूं रसना ।",
+      "छोड़ जगके झूठे बातों को , कर बात राम की खरी खरी ॥३ ॥"
     ],
     [
-      "फसोस मुझे ये ाता है, कचहु शांति न तुने पाि है.",
-      "ब भोगोन के रस चहोर सभि, िक हरि रस मेन रह परि परि || 2 ||"
+      "श्री राम न सुमरे जा रसना, इक कौड़ी तिसका मुल्ह नाहीं ।",
+      "उस जिव्हा को तिल तिल कट दीजे, कूकर कौवों मुख माहीं ।",
+      "कहे टेऊँ ऐसे वेद कहे, तुम देखो पुस्तक पढ़ी पढ़ी ॥४ ॥"
     ],
     [
-      "चहोर निनदया चुगलि कतु बचना, चहोर तात पराि चहल रचना.",
-      "चहोर झुथा बोलन पर हनसना, चहोर गालि देना तु रसना."
-    ],
-    [
-      "चहोर जगके झुथे बातोन को, कर बात राम कि खरि खरि ||.3 ||",
-      "श्री राम न सुमरे जा रसना, िक कौरि तिसका मुलह नाहिन."
-    ],
-    [
-      "ुस जिवहा को तिल तिल कत दिजे, कुकर कौवोन मुख माहिन.",
-      "कहे तेऊँ ैसे वेद कहे, तुम देखो पुसतक परहि परहि || 4 ||."
-    ],
-    [
-      "ददह"
+      "द्दह"
     ]
   ],
   "romanLyrics": [
     [
-      "Meri Rasnaa Unche Svar Bolo, Shri Raam Naaraayan Hari Hari.",
-      "Shri Raam Naam Ras Mithe Ki, Tu Pile Amrit Zari Zari (Tek)."
-    ],
-    [
       "Shri Raam Naam Teri Laali Hai, Shri Raam Binaa Tu Kaali Hai.",
-      "Shri Raam Naam Teri Maali Hai, Shri Raam Binaa Tu Khaali Hai."
+      "Shri Raam Naam Teri Maali Hai, Shri Raam Binaa Tu Khaali Hai.",
+      "Shri Raam Naam Teri Shobhaa Hai, Tu Raam Sumar Har Ghari Ghari || 1 ||"
     ],
     [
-      "Shri Raam Naam Teri Shobhaa Hai, Tu Raam Sumar Har Ghari Ghari.1 ||",
-      "Ras Vishyon Ke Lete Lete, Tum Aayu Bahut Ganvaai Hai."
-    ],
-    [
-      "Aphsos Mujhe Ye Aataa Hai, Kachhu Shaanti N Tune Paai Hai.",
+      "Ras Vishyon Ke Lete Lete, Tum Aayu Bahut Ganvaai Hai.",
+      "Aphsos Mujhe Ye Aataa Hai, Kachhu Shaanti Na Tune Paai Hai.",
       "Ab Bhogon Ke Ras Chhor Sabhi, Ik Hari Ras Men Rah Pari Pari || 2 ||"
     ],
     [
       "Chhor Nin‍Dayaa Chugli Katu Bachnaa, Chhor Taat Paraai Chhal Rachnaa.",
-      "Chhor Jhuthaa Bolan Par Hansnaa, Chhor Gaali Denaa Tu Rasnaa."
+      "Chhor Jhuthaa Bolan Par Hansnaa, Chhor Gaali Denaa Tu Rasnaa.",
+      "Chhor Jagke Jhuthe Baaton Ko, Kar Baat Raam Ki Khari Khari || 3 ||"
     ],
     [
-      "Chhor Jagke Jhuthe Baaton Ko, Kar Baat Raam Ki Khari Khari ||.3 ||",
-      "Shri Raam N Sumre Jaa Rasnaa, Ik Kauri Tiskaa Mulh Naahin."
-    ],
-    [
+      "Shri Raam Na Sumre Jaa Rasnaa, Ik Kauri Tiskaa Mulh Naahin.",
       "Us Jivhaa Ko Til Til Kat Dije, Kukar Kauvon Mukh Maahin.",
-      "Kahe Teun Aise Ved Kahe, Tum Dekho Pustak Parhi Parhi || 4 ||."
+      "Kahe Teun Aise Ved Kahe, Tum Dekho Pustak Parhi Parhi || 4 ||"
     ],
     [
       "Ddah"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan. ||. 47 || 695 ||.",
+    "मेरी रसना ऊँचे स्वर बोलो, श्री राम नारायण हरी हरी",
     "Meri Rasnaa Unche Svar Bolo, Shri Raam Naaraayan Hari Hari",
-    "मेरि रसना ुनचे सवर बोलो, श्री राम नारायन हरि हरि"
+    "राग पहाड़ी भजन 47",
+    "Raag Pahaari Bhajan 47"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 696,
+  "displayOrder": 47,
+  "overallOrder": 694,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 369",
+  "updatedAt": "2026-10-26"
 }

@@ -1,38 +1,96 @@
 {
-  "id": "bhajan-0775",
+  "id": "bhajan-0773",
   "slug": "satguru-mere-satguru-mere-satguru-mere-antaryaami",
   "categoryId": "raag-pilaa",
-  "title": "सतगुरु मेरे सतगुरु मेरे, सतगुरु मेरे नतरयामि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्‌गुरु मेरे सत्‌गुरु मेरे, सत्‌गुरु मेरे अन्तर्यामी",
   "romanTitle": "Sat‌Guru Mere Sat‌Guru Mere, Sat‌Guru Mere Antaryaami",
   "firstLine": "Sat‌Guru Mere Sat‌Guru Mere, Sat‌Guru Mere Antaryaami (Tek).",
+  "heading": "।। राग पीला भजन ॥। ५३ ॥। ७७५।।",
+  "tek": [
+    "सत्‌गुरु मेरे सत्‌गुरु मेरे, सत्‌गुरु मेरे अन्तर्यामी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Mere Sat‌Guru Mere, Sat‌Guru Mere Antaryaami (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तेरे दर पर मैं भीखारी, मांगूं प्रेमा भक्ति प्यारी ।",
+        "दर्शन पाऊँ हरि गुन गाऊँ, चरन ध्याऊँ करूं नमामी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tere Dar Par Main Bhikhaari, Maangun Premaa Bhakti Pyaari.",
+        "Darshan Paaun Hari Gun Gaaun, Charan Dhyaaun Karun Namaami || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हे गुरु ज्ञानी आत्म ध्यानी, सर्व गुणों की हो तुम खानी ।",
+        "बालक जानी कर महिरबानी , नाम निशानी दे सुखधामी ॥२ ॥"
+      ],
+      "romanLines": [
+        "He Guru Jnyaani Aatm Dhyaani, Sarv Gunon Ki Ho Tum Khaani.",
+        "Baalak Jaani Kar Mahirbaani, Naam Nishaani De Sukhdhaami || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम हो सत्‌गुरु नित अवतारी, जगत उद्धारी पर उपकारी ।",
+        "भवजल भारी तार मुरारी, विनय हमारी सुनले स्वामी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sat‌Guru Nit Avtaari, Jagat Uddhaari Par Upkaari.",
+        "Bhavjal Bhaari Taar Muraari, Vinay Hamaari Sunle Svaami || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु दीन दयाला, भर कर देवो प्रेम प्याला ।",
+        "अविद्या वाला तोड़े ताला, करो उजाला पार ग्रामी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Din Dayaalaa, Bhar Kar Devo Prem Pyaalaa.",
+        "Avidyaa Vaalaa Tore Taalaa, Karo Ujaalaa Paar Graami || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "नग्न"
+      ],
+      "romanLines": [
+        "Nagn"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु मेरे सतगुरु मेरे, सतगुरु मेरे नतरयामि (टेक)."
+      "तेरे दर पर मैं भीखारी, मांगूं प्रेमा भक्ति प्यारी ।",
+      "दर्शन पाऊँ हरि गुन गाऊँ, चरन ध्याऊँ करूं नमामी ॥१ ॥"
     ],
     [
-      "तेरे दर पर मैं भिखारि, मानगुन परेमा भक्ति पयारि.",
-      "दरशन पाुन हरि गुन गाुन, चरण धयाुन करुन नमामि || 1 ||"
+      "हे गुरु ज्ञानी आत्म ध्यानी, सर्व गुणों की हो तुम खानी ।",
+      "बालक जानी कर महिरबानी , नाम निशानी दे सुखधामी ॥२ ॥"
     ],
     [
-      "हे गुरु जनयानि ातम धयानि, सर्व गुनोन कि हो तुम खानि.",
-      "बालक जानि कर महिरबानि, नाम निशानि दे सुखधामि || 2 ||"
+      "तुम हो सत्‌गुरु नित अवतारी, जगत उद्धारी पर उपकारी ।",
+      "भवजल भारी तार मुरारी, विनय हमारी सुनले स्वामी ॥३ ॥"
     ],
     [
-      "तुम हो सतगुरु नित वतारि, जगत ुदधारि पर ुपकारि.",
-      "भवजल भारि तार मुरारि, विनय हमारि सुनले स्वामी || 3 ||"
+      "कहे टेऊँ गुरु दीन दयाला, भर कर देवो प्रेम प्याला ।",
+      "अविद्या वाला तोड़े ताला, करो उजाला पार ग्रामी ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु दीन दयाला, भर कर देवो प्रेम पयाला.",
-      "विदया वाला तोरे ताला, करो ुजाला पार गरामि || 4 ||"
-    ],
-    [
-      "नगन"
+      "नग्न"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sat‌Guru Mere Sat‌Guru Mere, Sat‌Guru Mere Antaryaami (Tek)."
-    ],
     [
       "Tere Dar Par Main Bhikhaari, Maangun Premaa Bhakti Pyaari.",
       "Darshan Paaun Hari Gun Gaaun, Charan Dhyaaun Karun Namaami || 1 ||"
@@ -54,19 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan ||. 53 ||. 775 ||",
+    "सत्‌गुरु मेरे सत्‌गुरु मेरे, सत्‌गुरु मेरे अन्तर्यामी",
     "Sat‌Guru Mere Sat‌Guru Mere, Sat‌Guru Mere Antaryaami",
-    "सतगुरु मेरे सतगुरु मेरे, सतगुरु मेरे नतरयामि"
+    "राग पीला भजन 52",
+    "Raag Pilaa Bhajan 52"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 775,
+  "displayOrder": 52,
+  "overallOrder": 773,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 409",
+  "updatedAt": "2026-10-26"
 }

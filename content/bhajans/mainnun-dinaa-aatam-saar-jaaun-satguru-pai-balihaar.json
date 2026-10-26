@@ -1,35 +1,84 @@
 {
-  "id": "bhajan-0556",
+  "id": "bhajan-0554",
   "slug": "mainnun-dinaa-aatam-saar-jaaun-satguru-pai-balihaar",
   "categoryId": "raag-khambhaat",
-  "title": "मैननुन दिना ातम सार, जाुन सतगुरु पै बलिहार",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "मैंनूं दीना आतम सार, जाऊँ सत्‌गुरु पै बलिहार",
   "romanTitle": "Mainnun Dinaa Aatam Saar, Jaaun Sat‌Guru Pai Balihaar",
   "firstLine": "Mainnun Dinaa Aatam Saar, Jaaun Sat‌Guru Pai Balihaar (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। ६ ।। ५५५।।",
+  "tek": [
+    "मैंनूं दीना आतम सार, जाऊँ सत्‌गुरु पै बलिहार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mainnun Dinaa Aatam Saar, Jaaun Sat‌Guru Pai Balihaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु अमृत बून्द पिलाई, जन्म मरन की चिन्त मिटाई ।",
+        "तन मन की सब सुध बिसराई, बिसर गया व्यवहार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Amrit Bund Pilaai, Janm Maran Ki Chint Mitaai.",
+        "Tan Man Ki Sab Sudh Bisraai, Bisar Gayaa Vyavhaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सद्‌गुरु साचे सैन लखाई, श्वास श्वास में सुन धुनि लाई ।",
+        "सार शब्द की बीन बजाई, खुल गया दसमा द्वार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Saache Sain Lakhaai, Shvaas Shvaas Men Sun Dhuni Laai.",
+        "Saar Shabd Ki Bin Bajaai, Khul Gayaa Dasmaa Dvaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्‌गुरु अनुभव ज्योति जगाई, मूरत में सूरत दिखलाई ।",
+        "भेद श्रान्ती रही न राई, पाया ब्रह्म विचार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Anubhav Jyoti Jagaai, Murat Men Surat Dikhlaai.",
+        "Bhed Shraanti Rahi Na Raai, Paayaa Brahm Vichaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान बताया, हृदय का अज्ञान मिटाया ।",
+        "पूरन परमानन्द मिलाया, होया मंगलाचार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Bataayaa, Hriday Kaa Ajnyaan Mitaayaa.",
+        "Puran Parmaanand Milaayaa, Hoyaa Manglaachaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैननुन दिना ातम सार, जाुन सतगुरु पै बलिहार (टेक)."
+      "सद्‌गुरु अमृत बून्द पिलाई, जन्म मरन की चिन्त मिटाई ।",
+      "तन मन की सब सुध बिसराई, बिसर गया व्यवहार ॥१ ॥"
     ],
     [
-      "सद्गुरु अमृत बुनद पिलाि, जनम मरन कि चिनत मिताि.",
-      "तन मन कि सब सुध बिसराि, बिसर गया वयवहार || 1 ||"
+      "सद्‌गुरु साचे सैन लखाई, श्वास श्वास में सुन धुनि लाई ।",
+      "सार शब्द की बीन बजाई, खुल गया दसमा द्वार ॥२ ॥"
     ],
     [
-      "सद्गुरु साचे सैन लखाि, शवास शवास मेन सुन धुनि लाि.",
-      "सार शबद कि बिन बजाि, खुल गया दसमा दवार || 2 ||"
+      "सद्‌गुरु अनुभव ज्योति जगाई, मूरत में सूरत दिखलाई ।",
+      "भेद श्रान्ती रही न राई, पाया ब्रह्म विचार ॥३ ॥"
     ],
     [
-      "सद्गुरु नुभव जयोति जगाि, मुरत मेन सुरत दिखलाि.",
-      "भेद शरानति रहि न राि, पाया बरहम विचार || 3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु ज्ञान बताया, हरिदय का जनयान मिताया.",
-      "पुरन परमाननद मिलाया, होया मनगलाचार || 4 ||"
+      "कहे टेऊँ गुरु ज्ञान बताया, हृदय का अज्ञान मिटाया ।",
+      "पूरन परमानन्द मिलाया, होया मंगलाचार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mainnun Dinaa Aatam Saar, Jaaun Sat‌Guru Pai Balihaar (Tek)."
-    ],
     [
       "Sad‌Guru Amrit Bund Pilaai, Janm Maran Ki Chint Mitaai.",
       "Tan Man Ki Sab Sudh Bisraai, Bisar Gayaa Vyavhaar || 1 ||"
@@ -40,27 +89,28 @@
     ],
     [
       "Sad‌Guru Anubhav Jyoti Jagaai, Murat Men Surat Dikhlaai.",
-      "Bhed Shraanti Rahi N Raai, Paayaa Brahm Vichaar || 3 ||"
+      "Bhed Shraanti Rahi Na Raai, Paayaa Brahm Vichaar || 3 ||"
     ],
     [
-      "Kahe Teun Guru Jnyaan Bataayaa, Hriday Kaa Ajnyaan Mitaayaa.",
+      "Kahe Teun Guru Gyaan Bataayaa, Hriday Kaa Ajnyaan Mitaayaa.",
       "Puran Parmaanand Milaayaa, Hoyaa Manglaachaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 6 || 555 ||",
+    "मैंनूं दीना आतम सार, जाऊँ सत्‌गुरु पै बलिहार",
     "Mainnun Dinaa Aatam Saar, Jaaun Sat‌Guru Pai Balihaar",
-    "मैननुन दिना ातम सार, जाुन सतगुरु पै बलिहार"
+    "राग खंभात भजन 6",
+    "Raag Khambhaat Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "khambhaat",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
     "bhajan"
   ],
-  "displayOrder": 556,
+  "displayOrder": 6,
+  "overallOrder": 554,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 303",
+  "updatedAt": "2026-10-26"
 }

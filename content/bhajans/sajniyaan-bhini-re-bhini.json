@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0884",
+  "id": "bhajan-0882",
   "slug": "sajniyaan-bhini-re-bhini",
   "categoryId": "raag-jog",
-  "title": "सजनियान भिनि रे भिनि",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सजनियां भीनी रे भीनी",
   "romanTitle": "Sajniyaan Bhini Re Bhini",
   "firstLine": "Sajniyaan Bhini Re Bhini (Tek).",
+  "heading": "।। राग जोग भजन ।। ५४ ।। ८८४।॥",
+  "tek": [
+    "सजनियां भीनी रे भीनी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sajniyaan Bhini Re Bhini (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सार शब्द में श्रुती भीनी, इष्ट रूप में नृती ।",
+        "ब्रह्म ज्ञान में वृत्ती भीनी, मगन भयी यह तीनी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saar Shabd Men Shruti Bhini, Isht Rup Men Nriti.",
+        "Brahm Gyaan Men Vritti Bhini, Magan Bhayi Yah Tini || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरिगुन गावत रसना भीनी, कर इन्द्रिय पद परसे ।",
+        "श्रवण इन्द्रिय सुनकर भीनी , बुद्धि चेतन को चीनी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Harigun Gaavat Rasnaa Bhini, Kar Indriy Pad Parse.",
+        "Shravan Indriy Sunkar Bhini, Buddhi Chetan Ko Chini || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पद इन्द्रिय सत्मार्ग भीनी, नासिक निर्गुण नामा ।",
+        "सब नाड़ी हरि सुमरण करके, राम सुधा रस पीनी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pad Indriy Satmaarg Bhini, Naasik Nirgun Naamaa.",
+        "Sab Naari Hari Sumran Karke, Raam Sudhaa Ras Pini || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु कृपा करके, सजनी सकल संवारी ।",
+        "ब्रह्मानन्द भया मन मेरे, विषय वासना खीनी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kripaa Karke, Sajni Sakal Sanvaari.",
+        "Brahmaanand Bhayaa Man Mere, Vishay Vaasnaa Khini || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सजनियान भिनि रे भिनि (टेक)."
+      "सार शब्द में श्रुती भीनी, इष्ट रूप में नृती ।",
+      "ब्रह्म ज्ञान में वृत्ती भीनी, मगन भयी यह तीनी ॥१ ॥"
     ],
     [
-      "सार शबद मेन शरुति भिनि, िशत रुप मेन नरिति.",
-      "बरहम ज्ञान मेन वरितति भिनि, मगन भयि यह तिनि ||.1 ||"
+      "हरिगुन गावत रसना भीनी, कर इन्द्रिय पद परसे ।",
+      "श्रवण इन्द्रिय सुनकर भीनी , बुद्धि चेतन को चीनी ॥२ ॥"
     ],
     [
-      "हरिगुन गावत रसना भिनि, कर िनदरिय पद परसे.",
-      "शरवन िनदरिय सुनकर भिनि, बुदधि चेतन को चिनि || 2 ||."
+      "पद इन्द्रिय सत्मार्ग भीनी, नासिक निर्गुण नामा ।",
+      "सब नाड़ी हरि सुमरण करके, राम सुधा रस पीनी ॥३ ॥"
     ],
     [
-      "पद िनदरिय सतमारग भिनि, नासिक निरगुन नामा.",
-      "सब नारि हरि सुमरन करके, राम सुधा रस पिनि ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु कृपा करके, सजनि सकल सनवारि.",
-      "बरहमाननद भया मन मेरे, विशय वासना खिनि || 4 ||"
+      "कहे टेऊँ गुरु कृपा करके, सजनी सकल संवारी ।",
+      "ब्रह्मानन्द भया मन मेरे, विषय वासना खीनी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sajniyaan Bhini Re Bhini (Tek)."
-    ],
-    [
       "Saar Shabd Men Shruti Bhini, Isht Rup Men Nriti.",
-      "Brahm Jnyaan Men Vritti Bhini, Magan Bhayi Yah Tini ||.1 ||"
+      "Brahm Gyaan Men Vritti Bhini, Magan Bhayi Yah Tini || 1 ||"
     ],
     [
       "Harigun Gaavat Rasnaa Bhini, Kar Indriy Pad Parse.",
-      "Shravan Indriy Sunkar Bhini, Buddhi Chetan Ko Chini || 2 ||."
+      "Shravan Indriy Sunkar Bhini, Buddhi Chetan Ko Chini || 2 ||"
     ],
     [
       "Pad Indriy Satmaarg Bhini, Naasik Nirgun Naamaa.",
-      "Sab Naari Hari Sumran Karke, Raam Sudhaa Ras Pini ||.3 ||"
+      "Sab Naari Hari Sumran Karke, Raam Sudhaa Ras Pini || 3 ||"
     ],
     [
       "Kahe Teun Guru Kripaa Karke, Sajni Sakal Sanvaari.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 54 || 884. ||",
+    "सजनियां भीनी रे भीनी",
     "Sajniyaan Bhini Re Bhini",
-    "सजनियान भिनि रे भिनि"
+    "राग जोग भजन 54",
+    "Raag Jog Bhajan 54"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 884,
+  "displayOrder": 54,
+  "overallOrder": 882,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 466",
+  "updatedAt": "2026-10-26"
 }

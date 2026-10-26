@@ -1,51 +1,102 @@
 {
-  "id": "bhajan-0508",
+  "id": "bhajan-0506",
   "slug": "antarmukh-ho-paae-jhaati",
   "categoryId": "raag-kohiyaari",
-  "title": "नतरमुख हो पाे झाति",
-  "romanTitle": "Antarmukh Ho Paae Jhaati",
-  "firstLine": "Antarmukh Ho Paae Jhaati, Aap Kiyaa Isbaati, Gayi Shraanti (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "अन्तर्मुख हो पाए झाती,",
+  "romanTitle": "Antarmukh Ho Paae Jhaati,",
+  "firstLine": "Antarmukh Ho Paae Jhaati,",
+  "heading": "।। राग कोह्मारी भजन ।। २७ ।। ५०७।।",
+  "tek": [
+    "अन्तर्मुख हो पाए झाती,",
+    "आप किया इस्बाती, गयी श्रान्ती ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Antarmukh Ho Paae Jhaati,",
+    "Aap Kiyaa Isbaati, Gayi Shraanti (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पीया प्याला वहदत वाला, नशा चढ़ा दिन राती ॥१ ॥"
+      ],
+      "romanLines": [
+        "Piyaa Pyaalaa Vahdat Vaalaa, Nashaa Charhaa Din Raati || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मगन भया अब मनुवा मेरा, बिरह लाई बरसाती ॥२ ॥"
+      ],
+      "romanLines": [
+        "Magan Bhayaa Ab Manuvaa Meraa, Birah Laai Barsaati || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब घट साहब साक्षी देखा, वृत्ती तां रंग राती ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sab Ghat Saahab Saakshi Dekhaa, Vritti Taan Rang Raati || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान बताया, पायी हृदय शान्ती ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Bataayaa, Paayi Hriday Shaanti || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "नतरमुख हो पाे झाति,",
-      "ाप किया िसबाति, गयि शरानति (टेक)."
+      "पीया प्याला वहदत वाला, नशा चढ़ा दिन राती ॥१ ॥"
     ],
     [
-      "पिया पयाला वहदत वाला, नशा चरहा दीन राति.1 ||.",
-      "मगन भया ब मनुवा मेरा, बिरह लाि बरसाति ||.2 ||."
+      "मगन भया अब मनुवा मेरा, बिरह लाई बरसाती ॥२ ॥"
     ],
     [
-      "सब घत साहब साक्षी देखा, वरितति तान रनग राति ||.3. ||.",
-      "कहे तेऊँ गुरु ज्ञान बताया, पायि हरिदय शांति || 4 ||."
+      "सब घट साहब साक्षी देखा, वृत्ती तां रंग राती ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु ज्ञान बताया, पायी हृदय शान्ती ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Antarmukh Ho Paae Jhaati,",
-      "Aap Kiyaa Isbaati, Gayi Shraanti (Tek)."
+      "Piyaa Pyaalaa Vahdat Vaalaa, Nashaa Charhaa Din Raati || 1 ||"
     ],
     [
-      "Piyaa Pyaalaa Vahdat Vaalaa, Nashaa Charhaa Din Raati.1 ||.",
-      "Magan Bhayaa Ab Manuvaa Meraa, Birah Laai Barsaati ||.2 ||."
+      "Magan Bhayaa Ab Manuvaa Meraa, Birah Laai Barsaati || 2 ||"
     ],
     [
-      "Sab Ghat Saahab Saakshi Dekhaa, Vritti Taan Rang Raati ||.3. ||.",
-      "Kahe Teun Guru Jnyaan Bataayaa, Paayi Hriday Shaanti || 4 ||."
+      "Sab Ghat Saahab Saakshi Dekhaa, Vritti Taan Rang Raati || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Gyaan Bataayaa, Paayi Hriday Shaanti || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohmaari Bhajan || 27 || 507 ||",
-    "Antarmukh Ho Paae Jhaati",
-    "नतरमुख हो पाे झाति"
+    "अन्तर्मुख हो पाए झाती,",
+    "Antarmukh Ho Paae Jhaati,",
+    "राग कोहियारी भजन 27",
+    "Raag Kohiyaari Bhajan 27"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 508,
+  "displayOrder": 27,
+  "overallOrder": 506,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 282",
+  "updatedAt": "2026-10-26"
 }

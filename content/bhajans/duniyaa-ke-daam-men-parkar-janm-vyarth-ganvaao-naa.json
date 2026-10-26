@@ -1,37 +1,86 @@
 {
-  "id": "bhajan-0546",
+  "id": "bhajan-0544",
   "slug": "duniyaa-ke-daam-men-parkar-janm-vyarth-ganvaao-naa",
   "categoryId": "raag-sorath",
-  "title": "दुनिया के दाम मेन परकर, जनम वयरथ गनवाो ना",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "दुनिया के दाम में पड़कर, जन्म व्यर्थ गँवाओ ना",
   "romanTitle": "Duniyaa Ke Daam Men Parkar, Janm Vyarth Ganvaao Naa",
-  "firstLine": "Duniyaa Ke Daam Men Parkar, Janm Vyarth Ganvaao Naa. Jagat Ke Khyaal Men Phans Kar, Samay Sundar Bitaao Naa (Tek).",
+  "firstLine": "Duniyaa Ke Daam Men Parkar, Janm Vyarth Ganvaao Naa.",
+  "heading": "।। राग सोरठ भजन ।। श४ ।। ५४५॥।",
+  "tek": [
+    "दुनिया के दाम में पड़कर, जन्म व्यर्थ गँवाओ ना ।",
+    "जगत के ख्याल में फंस कर, समय सुन्दर बिताओ ना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Duniyaa Ke Daam Men Parkar, Janm Vyarth Ganvaao Naa.",
+    "Jagat Ke Khyaal Men Phans Kar, Samay Sundar Bitaao Naa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अमोलक श्वास की खानी, दई जो ईश ने तुमको ।",
+        "वृथा बकवाद में पड़के, मुफ्त तांको लुटाओ ना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Amolak Shvaas Ki Khaani, Dai Jo Ish Ne Tumko.",
+        "Vrithaa Bakvaad Men Parke, Mupht Taanko Lutaao Naa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुन्दरता और यौवन यह, मिला हरि के भजन कारण ।",
+        "कुट्म्ब के मोह में पड़कर, उसी को तुम नसाओ ना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sundartaa Aur Yauvan Yah, Milaa Hari Ke Bhajan Kaaran.",
+        "Kutmb Ke Moh Men Parkar, Usi Ko Tum Nasaao Naa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मुक्ति का पन्थ है जग में, सचे गुरुदेव की सेवा ।",
+        "समझ कर तुम करो सेवा, कदम पीछे हटाओ ना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mukti Kaa Panth Hai Jag Men, Sache Gurudev Ki Sevaa.",
+        "Samajh Kar Tum Karo Sevaa, Kadam Pichhe Hataao Naa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरी सुमरे, सफल आयू करो अपनी ।",
+        "विषय भोगों की अग्नी में हृदय अपना जलाओ ना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Sumre, Saphal Aayu Karo Apni.",
+        "Vishay Bhogon Ki Agni Men Hriday Apnaa Jalaao Naa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दुनिया के दाम मेन परकर, जनम वयरथ गनवाो ना.",
-      "जगत के खयाल मेन फनस कर, समय सुनदर बिताो ना (टेक)."
+      "अमोलक श्वास की खानी, दई जो ईश ने तुमको ।",
+      "वृथा बकवाद में पड़के, मुफ्त तांको लुटाओ ना ॥१ ॥"
     ],
     [
-      "मोलक शवास कि खानि, दै जो िश ने तुमको.",
-      "वरिथा बकवाद मेन परके, मुफत तानको लुताो ना || 1 ||"
+      "सुन्दरता और यौवन यह, मिला हरि के भजन कारण ।",
+      "कुट्म्ब के मोह में पड़कर, उसी को तुम नसाओ ना ॥२ ॥"
     ],
     [
-      "सुनदरता ौर यौवन यह, मिला हरि के भजन कारन.",
-      "कुतमब के मोह मेन परकर, ुसि को तुम नसाो ना || 2 ||"
+      "मुक्ति का पन्थ है जग में, सचे गुरुदेव की सेवा ।",
+      "समझ कर तुम करो सेवा, कदम पीछे हटाओ ना ॥३ ॥"
     ],
     [
-      "मुक्ति का पनथ है जग मेन, सचे गुरुदेव कि सेवा.",
-      "समझ कर तुम करो सेवा, कदम पिचहे हताो ना ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि सुमरे, सफल ायु करो पनि.",
-      "विशय भोगोन कि गनि मेन हरिदय पना जलाो ना || 4. ||."
+      "कहे टेऊँ हरी सुमरे, सफल आयू करो अपनी ।",
+      "विषय भोगों की अग्नी में हृदय अपना जलाओ ना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Duniyaa Ke Daam Men Parkar, Janm Vyarth Ganvaao Naa.",
-      "Jagat Ke Khyaal Men Phans Kar, Samay Sundar Bitaao Naa (Tek)."
-    ],
     [
       "Amolak Shvaas Ki Khaani, Dai Jo Ish Ne Tumko.",
       "Vrithaa Bakvaad Men Parke, Mupht Taanko Lutaao Naa || 1 ||"
@@ -42,26 +91,28 @@
     ],
     [
       "Mukti Kaa Panth Hai Jag Men, Sache Gurudev Ki Sevaa.",
-      "Samajh Kar Tum Karo Sevaa, Kadam Pichhe Hataao Naa ||.3 ||"
+      "Samajh Kar Tum Karo Sevaa, Kadam Pichhe Hataao Naa || 3 ||"
     ],
     [
       "Kahe Teun Hari Sumre, Saphal Aayu Karo Apni.",
-      "Vishay Bhogon Ki Agni Men Hriday Apnaa Jalaao Naa || 4. ||."
+      "Vishay Bhogon Ki Agni Men Hriday Apnaa Jalaao Naa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Sorath Bhajan || Sh4 || 545 ||.",
+    "दुनिया के दाम में पड़कर, जन्म व्यर्थ गँवाओ ना",
     "Duniyaa Ke Daam Men Parkar, Janm Vyarth Ganvaao Naa",
-    "दुनिया के दाम मेन परकर, जनम वयरथ गनवाो ना"
+    "राग सोरठ भजन 14",
+    "Raag Sorath Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 546,
+  "displayOrder": 14,
+  "overallOrder": 544,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 298",
+  "updatedAt": "2026-10-26"
 }

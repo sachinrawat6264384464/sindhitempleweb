@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0619",
+  "id": "bhajan-0617",
   "slug": "saduguru-kaataa-bandhan-meraa-mohi-jagaayaa-saveraa",
   "categoryId": "raag-kalyaan",
-  "title": "सदुगुरु काता बनधन मेरा, मोहि जगाया सवेरा",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "सदूगुरु काटा बन्धन मेरा, मोहि जगाया सवेरा",
   "romanTitle": "Saduguru Kaataa Bandhan Meraa, Mohi Jagaayaa Saveraa",
   "firstLine": "Saduguru Kaataa Bandhan Meraa, Mohi Jagaayaa Saveraa (Tek).",
+  "heading": "।। राग कल्याण भजन ।। ११ ।। द१८।।",
+  "tek": [
+    "सदूगुरु काटा बन्धन मेरा, मोहि जगाया सवेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saduguru Kaataa Bandhan Meraa, Mohi Jagaayaa Saveraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हर्ष शोक अब द्रेष न जागत, ममता मत्सर मोह न लागत ।",
+        "मिट गया मेरा तेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Harsh Shok Ab Dresh Na Jaagat, Mamtaa Matsar Moh Na Laagat.",
+        "Mit Gayaa Meraa Teraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अनुभव भानु भया प्रकाशा, पाया पूरण पद अविनाशा ।",
+        "भागा श्रम अंधेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Anubhav Bhaanu Bhayaa Prakaashaa, Paayaa Puran Pad Avinaashaa.",
+        "Bhaagaa Shram Andheraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आतम घर मैं प्राप्त कीना, जीव इंश के भेद विहीना ।",
+        "चूका यम का फेरा ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Aatam Ghar Main Praapt Kinaa, Jiv Insh Ke Bhed Vihinaa.",
+        "Chukaa Yam Kaa Pheraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सहज समाया, घट घट में हरि दर्शन पाया ।",
+        "अमरापुर किया डेरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sahaj Samaayaa, Ghat Ghat Men Hari Darshan Paayaa.",
+        "Amarapur Kiyaa Deraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदुगुरु काता बनधन मेरा, मोहि जगाया सवेरा (टेक)."
+      "हर्ष शोक अब द्रेष न जागत, ममता मत्सर मोह न लागत ।",
+      "मिट गया मेरा तेरा ॥१ ॥"
     ],
     [
-      "हरश शोक ब दरेश न जागत, ममता मतसर मोह न लागत.",
-      "मित गया मेरा तेरा. || 1 ||."
+      "अनुभव भानु भया प्रकाशा, पाया पूरण पद अविनाशा ।",
+      "भागा श्रम अंधेरा ॥२ ॥"
     ],
     [
-      "नुभव भानु भया परकाशा, पाया पुरन पद विनाशा.",
-      "भागा शरम नधेरा || 2 ||"
+      "आतम घर मैं प्राप्त कीना, जीव इंश के भेद विहीना ।",
+      "चूका यम का फेरा ॥ ।३े ॥ ।"
     ],
     [
-      "ातम घर मैं परापत किना, जिव िनश के भेद विहिना.",
-      "चुका यम का फेरा ||.3े ||."
-    ],
-    [
-      "कहता तेऊँ सहज समाया, घत घत मेन हरि दरशन पाया.",
-      "अमरापुर किया देरा || 4. ||."
+      "कहता टेऊँ सहज समाया, घट घट में हरि दर्शन पाया ।",
+      "अमरापुर किया डेरा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saduguru Kaataa Bandhan Meraa, Mohi Jagaayaa Saveraa (Tek)."
-    ],
-    [
-      "Harsh Shok Ab Dresh N Jaagat, Mamtaa Matsar Moh N Laagat.",
-      "Mit Gayaa Meraa Teraa. || 1 ||."
+      "Harsh Shok Ab Dresh Na Jaagat, Mamtaa Matsar Moh Na Laagat.",
+      "Mit Gayaa Meraa Teraa || 1 ||"
     ],
     [
       "Anubhav Bhaanu Bhayaa Prakaashaa, Paayaa Puran Pad Avinaashaa.",
@@ -40,27 +89,28 @@
     ],
     [
       "Aatam Ghar Main Praapt Kinaa, Jiv Insh Ke Bhed Vihinaa.",
-      "Chukaa Yam Kaa Pheraa ||.3E ||."
+      "Chukaa Yam Kaa Pheraa || 3E ||"
     ],
     [
       "Kahtaa Teun Sahaj Samaayaa, Ghat Ghat Men Hari Darshan Paayaa.",
-      "Amarapur Kiyaa Deraa || 4. ||."
+      "Amarapur Kiyaa Deraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 11 || D18 ||",
+    "सदूगुरु काटा बन्धन मेरा, मोहि जगाया सवेरा",
     "Saduguru Kaataa Bandhan Meraa, Mohi Jagaayaa Saveraa",
-    "सदुगुरु काता बनधन मेरा, मोहि जगाया सवेरा"
+    "राग कल्याण भजन 11",
+    "Raag Kalyaan Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 619,
+  "displayOrder": 11,
+  "overallOrder": 617,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 331",
+  "updatedAt": "2026-10-26"
 }

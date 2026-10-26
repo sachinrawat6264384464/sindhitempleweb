@@ -2,40 +2,86 @@
   "id": "bhajan-0083",
   "slug": "sun-pandit-brahm-samaaji-tum-le-shikshaa-sadguru-ki",
   "categoryId": "raag-aasaa",
-  "title": "सुन पनदित बरहम समाजि, तुम ले शिकशा सद्गुरु कि",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सुन पण्डित ब्रह्म समाजी , तुम ले शिक्षा सद्गुरु की",
   "romanTitle": "Sun Pandit Brahm Samaaji, Tum Le Shikshaa Sadguru Ki",
   "firstLine": "Sun Pandit Brahm Samaaji, Tum Le Shikshaa Sadguru Ki (Tek).",
+  "heading": "।। राग आसा भजन ।। २१ ।। ८ ३।।",
+  "tek": [
+    "सुन पण्डित ब्रह्म समाजी , तुम ले शिक्षा सद्गुरु की ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sun Pandit Brahm Samaaji, Tum Le Shikshaa Sadguru Ki (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रत्यक्ष आतम को ना जानत, पाख्रह्म को दूर पछानत ।",
+        "बात न सूझत घर की ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pratyaksh Aatam Ko Naa Jaanat, Paakhrahm Ko Dur Pachhaanat.",
+        "Baat Na Sujhat Ghar Ki || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लहर तरंग चक्कर जल एका, मूर्ख मानत ताहिं अनेका ।",
+        "ज्ञानी को गम जर की ॥२ ॥"
+      ],
+      "romanLines": [
+        "Lahar Tarang Chakkar Jal Ekaa, Murkh Maanat Taahin Anekaa.",
+        "Jnyaani Ko Gam Jar Ki || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सिंह अजा संग आप भुलाया, और सिंह निज रूप लखाया ।",
+        "जाति भुली तिस पर की ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sinh Ajaa Sang Aap Bhulaayaa, Aur Sinh Nij Rup Lakhaayaa.",
+        "Jaati Bhuli Tis Par Ki || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिसको ब्रह्म मानत, सो तूं है यह वेद बखानत ।",
+        "छोड़ नज़र नारी नर की ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jisko Brahm Maanat, So Tu Hai Yah Ved Bakhaanat.",
+        "Chhor Nazar Naari Nar Ki || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुन पनदित बरहम समाजि, तुम ले शिकशा सद्गुरु कि (टेक)."
+      "प्रत्यक्ष आतम को ना जानत, पाख्रह्म को दूर पछानत ।",
+      "बात न सूझत घर की ॥१ ॥"
     ],
     [
-      "परतयकश ातम को ना जानत, पाखरहम को दुर पचहानत.",
-      "बात न सुझत घर कि ||.1 ||"
+      "लहर तरंग चक्कर जल एका, मूर्ख मानत ताहिं अनेका ।",
+      "ज्ञानी को गम जर की ॥२ ॥"
     ],
     [
-      "लहर तरनग चककर जल ेका, मुरख मानत ताहिन नेका.",
-      "जनयानि को गम जर कि || 2 ||"
+      "सिंह अजा संग आप भुलाया, और सिंह निज रूप लखाया ।",
+      "जाति भुली तिस पर की ॥३ ॥"
     ],
     [
-      "सिनह जा सनग ाप भुलाया, ौर सिनह निज रुप लखाया.",
-      "जाति भुलि तिस पर कि || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिसको बरहम मानत, सो तु है यह वेद बखानत.",
-      "चहोर नzर नारि नर कि || 4 ||"
-    ],
-    [
-      "पद"
+      "कहे टेऊँ जिसको ब्रह्म मानत, सो तूं है यह वेद बखानत ।",
+      "छोड़ नज़र नारी नर की ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sun Pandit Brahm Samaaji, Tum Le Shikshaa Sadguru Ki (Tek)."
-    ],
-    [
       "Pratyaksh Aatam Ko Naa Jaanat, Paakhrahm Ko Dur Pachhaanat.",
-      "Baat N Sujhat Ghar Ki ||.1 ||"
+      "Baat Na Sujhat Ghar Ki || 1 ||"
     ],
     [
       "Lahar Tarang Chakkar Jal Ekaa, Murkh Maanat Taahin Anekaa.",
@@ -43,30 +89,28 @@
     ],
     [
       "Sinh Ajaa Sang Aap Bhulaayaa, Aur Sinh Nij Rup Lakhaayaa.",
-      "Jaati Bhuli Tis Par Ki || 3 ||."
+      "Jaati Bhuli Tis Par Ki || 3 ||"
     ],
     [
       "Kahe Teun Jisko Brahm Maanat, So Tu Hai Yah Ved Bakhaanat.",
       "Chhor Nazar Naari Nar Ki || 4 ||"
-    ],
-    [
-      "Pad"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 21 || 8 3 ||",
+    "सुन पण्डित ब्रह्म समाजी , तुम ले शिक्षा सद्गुरु की",
     "Sun Pandit Brahm Samaaji, Tum Le Shikshaa Sadguru Ki",
-    "सुन पनदित बरहम समाजि, तुम ले शिकशा सद्गुरु कि"
+    "राग आसा भजन 21",
+    "Raag Aasaa Bhajan 21"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 83,
+  "displayOrder": 21,
+  "overallOrder": 83,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 67",
+  "updatedAt": "2026-10-26"
 }

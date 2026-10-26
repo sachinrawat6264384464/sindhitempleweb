@@ -1,43 +1,89 @@
 {
   "id": "bhajan-0220",
   "slug": "lagi-hai-jisiko-birah-ki-kataari",
-  "categoryId": "raag-bhairav",
-  "title": "लगि है जिसिको बिरह कि कतारि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "लगी है जिसीको बिरह की कटारी",
   "romanTitle": "Lagi Hai Jisiko Birah Ki Kataari",
-  "firstLine": "Lagi Hai Jisiko Birah Ki Kataari. Dai Kaat Tisne Mamat Moh Jaari (Tek).",
+  "firstLine": "Lagi Hai Jisiko Birah Ki Kataari.",
+  "heading": "।। राग भैरवी भजन ।। ५ ।। २२०॥।",
+  "tek": [
+    "लगी है जिसीको बिरह की कटारी ।",
+    "दई काट तिसने ममत मोह जारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Lagi Hai Jisiko Birah Ki Kataari.",
+    "Dai Kaat Tisne Mamat Moh Jaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरे भोग आसा, रहत सो उदासा ।",
+        "करे ब्रह्म वासा, पाए शान्ति भारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hare Bhog Aasaa, Rahat So Udaasaa.",
+        "Kare Brahm Vaasaa, Paae Shaanti Bhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तजे सर्व नाता, हरी रंग राता ।",
+        "मधुर गीत गाता, मगन खुद खुमारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taje Sarv Naataa, Hari Rang Raataa.",
+        "Madhur Git Gaataa, Magan Khud Khumaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कभी रोय हसता, कभी झँगल बसता ।",
+        "कहूँ नाहिं फसता, चले चाल न्यारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kabhi Roy Hastaa, Kabhi Jhangal Bastaa.",
+        "Kahun Naahin Phastaa, Chale Chaal Nyaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जगत झूठ जानी, तजे लाभ हानी ।",
+        "टेऊँ सो सैलानी, रहे उम्र सारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jagat Jhuth Jaani, Taje Laabh Haani.",
+        "Teun So Sailaani, Rahe Umr Saari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लगि है जिसिको बिरह कि कतारि.",
-      "दै कात तिसने ममत मोह जारि (टेक)."
+      "हरे भोग आसा, रहत सो उदासा ।",
+      "करे ब्रह्म वासा, पाए शान्ति भारी ॥१ ॥"
     ],
     [
-      "हरे भोग ासा, रहत सो ुदासा.",
-      "करे बरहम वासा, पाे शांति भारि.1 ||."
+      "तजे सर्व नाता, हरी रंग राता ।",
+      "मधुर गीत गाता, मगन खुद खुमारी ॥२ ॥"
     ],
     [
-      "तजे सर्व नाता, हरि रनग राता.",
-      "मधुर गित गाता, मगन खुद खुमारि || 2 ||"
+      "कभी रोय हसता, कभी झँगल बसता ।",
+      "कहूँ नाहिं फसता, चले चाल न्यारी ॥३ ॥"
     ],
     [
-      "कभि रोय हसता, कभि झनगल बसता.",
-      "कहुन नाहिन फसता, चले चाल नयारि || 3 ||."
-    ],
-    [
-      "जगत झुथ जानि, तजे लाभ हानि.",
-      "तेऊँ सो सैलानि, रहे ुमर सारि || 4 ||"
-    ],
-    [
-      "य"
+      "जगत झूठ जानी, तजे लाभ हानी ।",
+      "टेऊँ सो सैलानी, रहे उम्र सारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Lagi Hai Jisiko Birah Ki Kataari.",
-      "Dai Kaat Tisne Mamat Moh Jaari (Tek)."
-    ],
-    [
       "Hare Bhog Aasaa, Rahat So Udaasaa.",
-      "Kare Brahm Vaasaa, Paae Shaanti Bhaari.1 ||."
+      "Kare Brahm Vaasaa, Paae Shaanti Bhaari || 1 ||"
     ],
     [
       "Taje Sarv Naataa, Hari Rang Raataa.",
@@ -45,29 +91,28 @@
     ],
     [
       "Kabhi Roy Hastaa, Kabhi Jhangal Bastaa.",
-      "Kahun Naahin Phastaa, Chale Chaal Nyaari || 3 ||."
+      "Kahun Naahin Phastaa, Chale Chaal Nyaari || 3 ||"
     ],
     [
       "Jagat Jhuth Jaani, Taje Laabh Haani.",
       "Teun So Sailaani, Rahe Umr Saari || 4 ||"
-    ],
-    [
-      "Y"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 5 || 220 ||.",
+    "लगी है जिसीको बिरह की कटारी",
     "Lagi Hai Jisiko Birah Ki Kataari",
-    "लगि है जिसिको बिरह कि कतारि"
+    "राग भैरवी भजन 5",
+    "Raag Bhairvi Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 220,
+  "displayOrder": 5,
+  "overallOrder": 220,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 138",
+  "updatedAt": "2026-10-26"
 }

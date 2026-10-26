@@ -1,55 +1,91 @@
 {
-  "id": "bhajan-0608",
+  "id": "bhajan-0606",
   "slug": "manush-kaahe-ko-tu-aayaa-re",
   "categoryId": "raag-kaamol",
-  "title": "मनुश काहे को तु ाया रे",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "मनुष काहे को तूं आया रे",
   "romanTitle": "Manush Kaahe Ko Tu Aayaa Re",
-  "firstLine": "Manush Kaahe Ko Tu Aayaa Re. Jag Men Jisne Janm Diyaa Hai, Tisko Naahin Dhyaayaa Re (Tek).",
+  "firstLine": "Manush Kaahe Ko Tu Aayaa Re.",
+  "heading": "।। राग कामोल भजन ।। ९ ।। ६०७।।",
+  "tek": [
+    "मनुष काहे को तूं आया रे ।",
+    "जग में जिसने जन्म दिया है, तिसको नाहिं ध्याया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Manush Kaahe Ko Tu Aayaa Re.",
+    "Jag Men Jisne Janm Diyaa Hai, Tisko Naahin Dhyaayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात गर्भ में उलटे थे जब, हरि से बोल बंधाया रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Garbh Men Ulte The Jab, Hari Se Bol Bandhaayaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बाहर निकसे ताहिं बिसारा, मोह लिया तुझ माया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baahar Nikse Taahin Bisaaraa, Moh Liyaa Tujh Maayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच तत्त्व की देह देख के, निज स्वरूप भुलाया रे ॥डे ॥",
+        "कहे टेऊँ हरि भजन बिना तूं, यम के हाथ बिकाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tattv Ki Deh Dekh Ke, Nij Svarup Bhulaayaa Re || De ||",
+        "Kahe Teun Hari Bhajan Binaa Tu, Yam Ke Haath Bikaayaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मनुश काहे को तु ाया रे.",
-      "जग मेन जिसने जनम दिया है, तिसको नाहिन धयाया रे (टेक)."
+      "मात गर्भ में उलटे थे जब, हरि से बोल बंधाया रे ॥१ ॥"
     ],
     [
-      "मात गरभ मेन ुलते थे जब, हरि से बोल बनधाया रे. || 1 ||."
+      "बाहर निकसे ताहिं बिसारा, मोह लिया तुझ माया रे ॥२ ॥"
     ],
     [
-      "बाहर निकसे ताहिन बिसारा, मोह लिया तुझ माया रे || 2 ||"
-    ],
-    [
-      "पानच तततव कि देह देख के, निज सवरुप भुलाया रे || दे ||",
-      "कहे तेऊँ हरि भजन बिना तु, यम के हाथ बिकाया रे.4 ||"
+      "पांच तत्त्व की देह देख के, निज स्वरूप भुलाया रे ॥डे ॥",
+      "कहे टेऊँ हरि भजन बिना तूं, यम के हाथ बिकाया रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Manush Kaahe Ko Tu Aayaa Re.",
-      "Jag Men Jisne Janm Diyaa Hai, Tisko Naahin Dhyaayaa Re (Tek)."
-    ],
-    [
-      "Maat Garbh Men Ulte The Jab, Hari Se Bol Bandhaayaa Re. || 1 ||."
+      "Maat Garbh Men Ulte The Jab, Hari Se Bol Bandhaayaa Re || 1 ||"
     ],
     [
       "Baahar Nikse Taahin Bisaaraa, Moh Liyaa Tujh Maayaa Re || 2 ||"
     ],
     [
       "Paanch Tattv Ki Deh Dekh Ke, Nij Svarup Bhulaayaa Re || De ||",
-      "Kahe Teun Hari Bhajan Binaa Tu, Yam Ke Haath Bikaayaa Re.4 ||"
+      "Kahe Teun Hari Bhajan Binaa Tu, Yam Ke Haath Bikaayaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kaamol Bhajan || 9 || 607 ||",
+    "मनुष काहे को तूं आया रे",
     "Manush Kaahe Ko Tu Aayaa Re",
-    "मनुश काहे को तु ाया रे"
+    "राग कामोल भजन 9",
+    "Raag Kaamol Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kaamol"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
+    "bhajan"
   ],
-  "displayOrder": 608,
+  "displayOrder": 9,
+  "overallOrder": 606,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 327",
+  "updatedAt": "2026-10-26"
 }

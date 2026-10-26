@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0579",
+  "id": "bhajan-0577",
   "slug": "amarapur-nij-dhaam-ab-to-chaalo-hansaa",
   "categoryId": "raag-maaru",
-  "title": "अमरापुर निज धाम, ब तो चालो हनसा",
+  "categoryName": "राग मारू",
+  "romanCategoryName": "Raag Maaru",
+  "title": "अमरापुर निज धाम, अब तो चालो हंसा",
   "romanTitle": "Amarapur Nij Dhaam, Ab To Chaalo Hansaa",
   "firstLine": "Amarapur Nij Dhaam, Ab To Chaalo Hansaa (Tek).",
+  "heading": "।। राग मारू भजन ।। ७ ।। ५७८।॥",
+  "tek": [
+    "अमरापुर निज धाम, अब तो चालो हंसा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amarapur Nij Dhaam, Ab To Chaalo Hansaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अमरापुर को नाहिं भुलाओ , वहां जाय के आनन्द पाओ ।",
+        "छोड़ कल्पना काम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Amarapur Ko Naahin Bhulaao, Vahaan Jaay Ke Aanand Paao.",
+        "Chhor Kalpanaa Kaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अमरापुर में राग न रोषा, पाप ताप पुनि नाहिं कलेशा ।",
+        "तामें कर विश्राम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Amarapur Men Raag Na Roshaa, Paap Taap Puni Naahin Kaleshaa.",
+        "Taamen Kar Vishraam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सैर करन आये सैलानी, दो दिन है तेरी ज़िंदगानी ।",
+        "यहाँ न तेरा ठाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sair Karan Aaye Sailaani, Do Din Hai Teri Zindgaani.",
+        "Yahaan Na Teraa Thaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अमरापुर है घर अविनासी, कहे टेऊँ काटे यम फासी ।",
+        "स्मरे सद्गुरु नाम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Amarapur Hai Ghar Avinaasi, Kahe Teun Kaate Yam Phaasi.",
+        "Smare Sadguru Naam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमरापुर निज धाम, ब तो चालो हनसा (टेक)."
+      "अमरापुर को नाहिं भुलाओ , वहां जाय के आनन्द पाओ ।",
+      "छोड़ कल्पना काम ॥१ ॥"
     ],
     [
-      "अमरापुर को नाहिन भुलाो, वहान जाय के आनंद पाो.",
-      "चहोर कलपना काम ||.1 ||."
+      "अमरापुर में राग न रोषा, पाप ताप पुनि नाहिं कलेशा ।",
+      "तामें कर विश्राम ॥२ ॥"
     ],
     [
-      "अमरापुर मेन राग न रोशा, पाप ताप पुनि नाहिन कलेशा.",
-      "तामेन कर विशराम ||.2 ||"
+      "सैर करन आये सैलानी, दो दिन है तेरी ज़िंदगानी ।",
+      "यहाँ न तेरा ठाम ॥३ ॥"
     ],
     [
-      "सैर करन ाये सैलानि, दो दीन है तेरि zिनदगानि.",
-      "यहान न तेरा थाम || 3 ||."
-    ],
-    [
-      "अमरापुर है घर विनासि, कहे तेऊँ काते यम फासि.",
-      "समरे सद्गुरु नाम ||.4 ||"
+      "अमरापुर है घर अविनासी, कहे टेऊँ काटे यम फासी ।",
+      "स्मरे सद्गुरु नाम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amarapur Nij Dhaam, Ab To Chaalo Hansaa (Tek)."
-    ],
-    [
       "Amarapur Ko Naahin Bhulaao, Vahaan Jaay Ke Aanand Paao.",
-      "Chhor Kalpanaa Kaam ||.1 ||."
+      "Chhor Kalpanaa Kaam || 1 ||"
     ],
     [
-      "Amarapur Men Raag N Roshaa, Paap Taap Puni Naahin Kaleshaa.",
-      "Taamen Kar Vishraam ||.2 ||"
+      "Amarapur Men Raag Na Roshaa, Paap Taap Puni Naahin Kaleshaa.",
+      "Taamen Kar Vishraam || 2 ||"
     ],
     [
       "Sair Karan Aaye Sailaani, Do Din Hai Teri Zindgaani.",
-      "Yahaan N Teraa Thaam || 3 ||."
+      "Yahaan Na Teraa Thaam || 3 ||"
     ],
     [
       "Amarapur Hai Ghar Avinaasi, Kahe Teun Kaate Yam Phaasi.",
-      "Smare Sadguru Naam ||.4 ||"
+      "Smare Sadguru Naam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maaru Bhajan || 7 || 578. ||",
+    "अमरापुर निज धाम, अब तो चालो हंसा",
     "Amarapur Nij Dhaam, Ab To Chaalo Hansaa",
-    "अमरापुर निज धाम, ब तो चालो हनसा"
+    "राग मारू भजन 7",
+    "Raag Maaru Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "maaru",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maaru",
+    "bhajan"
   ],
-  "displayOrder": 579,
+  "displayOrder": 7,
+  "overallOrder": 577,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 314",
+  "updatedAt": "2026-10-26"
 }

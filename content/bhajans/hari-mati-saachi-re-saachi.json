@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0890",
+  "id": "bhajan-0888",
   "slug": "hari-mati-saachi-re-saachi",
   "categoryId": "raag-jog",
-  "title": "हरि मति साचि रे साचि",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हरी मति साची रे साची",
   "romanTitle": "Hari Mati Saachi Re Saachi",
   "firstLine": "Hari Mati Saachi Re Saachi (Tek).",
+  "heading": "।। राग जोग भजन ।। ६० ।। ८९०।।",
+  "tek": [
+    "हरी मति साची रे साची ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Mati Saachi Re Saachi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सनतों के संग हरि को सुमरे, सा मति सब से ऊंची ।",
+        "मूर्ख के संग माया चितवे, सा मति जानो काची ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Ke Sang Hari Ko Sumre, Saa Mati Sab Se Unchi.",
+        "Murkh Ke Sang Maayaa Chitve, Saa Mati Jaano Kaachi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाप नसावे धर्म बढ़ावे, सा मति सन्त सरावहिं ।",
+        "गुन को त्यागे अवगुन लेवे, सा मति नरके नाची ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paap Nasaave Dharm Barhaave, Saa Mati Sant Saraavhin.",
+        "Gun Ko Tyaage Avgun Leve, Saa Mati Narke Naachi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अहं ब्रह्म है जिहं मति भासे, सा मति ज्ञानिनि धारी ।",
+        "अहं और है ब्रह्मा और है, मूण्डनि यह मति माची ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ahan Brahm Hai Jihan Mati Bhaase, Saa Mati Jnyaanini Dhaari.",
+        "Ahan Aur Hai Brahmaa Aur Hai, Mundani Yah Mati Maachi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जितनी मति है जग के भीतर, ऊंची हरि मति तामें ।",
+        "कहे टेऊँ सा मिले न गुरु बिन, ली मैं गुरु से याची ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jitni Mati Hai Jag Ke Bhitar, Unchi Hari Mati Taamen.",
+        "Kahe Teun Saa Mile Na Guru Bin, Li Main Guru Se Yaachi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि मति साचि रे साचि (टेक)."
+      "सनतों के संग हरि को सुमरे, सा मति सब से ऊंची ।",
+      "मूर्ख के संग माया चितवे, सा मति जानो काची ॥१ ॥"
     ],
     [
-      "सनतोन के सनग हरि को सुमरे, सा मति सब से ुनचि.",
-      "मुरख के सनग माया चितवे, सा मति जानो काचि || 1. ||."
+      "पाप नसावे धर्म बढ़ावे, सा मति सन्त सरावहिं ।",
+      "गुन को त्यागे अवगुन लेवे, सा मति नरके नाची ॥२ ॥"
     ],
     [
-      "पाप नसावे धरम बरहावे, सा मति संत सरावहिन.",
-      "गुन को तयागे वगुन लेवे, सा मति नरके नाचि ||.2 ||"
+      "अहं ब्रह्म है जिहं मति भासे, सा मति ज्ञानिनि धारी ।",
+      "अहं और है ब्रह्मा और है, मूण्डनि यह मति माची ॥३ ॥"
     ],
     [
-      "हन बरहम है जिहन मति भासे, सा मति जनयानिनि धारि.",
-      "हन ौर है बरहम ौर है, मुनदनि यह मति माचि || 3 ||."
-    ],
-    [
-      "जितनि मति है जग के भितर, ुनचि हरि मति तामेन.",
-      "कहे तेऊँ सा मिले न गुरु बिन, लि मैं गुरु से याचि || 4. ||."
+      "जितनी मति है जग के भीतर, ऊंची हरि मति तामें ।",
+      "कहे टेऊँ सा मिले न गुरु बिन, ली मैं गुरु से याची ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Mati Saachi Re Saachi (Tek)."
-    ],
-    [
       "Santon Ke Sang Hari Ko Sumre, Saa Mati Sab Se Unchi.",
-      "Murkh Ke Sang Maayaa Chitve, Saa Mati Jaano Kaachi || 1. ||."
+      "Murkh Ke Sang Maayaa Chitve, Saa Mati Jaano Kaachi || 1 ||"
     ],
     [
       "Paap Nasaave Dharm Barhaave, Saa Mati Sant Saraavhin.",
-      "Gun Ko Tyaage Avgun Leve, Saa Mati Narke Naachi ||.2 ||"
+      "Gun Ko Tyaage Avgun Leve, Saa Mati Narke Naachi || 2 ||"
     ],
     [
       "Ahan Brahm Hai Jihan Mati Bhaase, Saa Mati Jnyaanini Dhaari.",
-      "Ahan Aur Hai Brahma Aur Hai, Mundani Yah Mati Maachi || 3 ||."
+      "Ahan Aur Hai Brahmaa Aur Hai, Mundani Yah Mati Maachi || 3 ||"
     ],
     [
       "Jitni Mati Hai Jag Ke Bhitar, Unchi Hari Mati Taamen.",
-      "Kahe Teun Saa Mile N Guru Bin, Li Main Guru Se Yaachi || 4. ||."
+      "Kahe Teun Saa Mile Na Guru Bin, Li Main Guru Se Yaachi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 60 || 890 ||",
+    "हरी मति साची रे साची",
     "Hari Mati Saachi Re Saachi",
-    "हरि मति साचि रे साचि"
+    "राग जोग भजन 60",
+    "Raag Jog Bhajan 60"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 890,
+  "displayOrder": 60,
+  "overallOrder": 888,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 469",
+  "updatedAt": "2026-10-26"
 }

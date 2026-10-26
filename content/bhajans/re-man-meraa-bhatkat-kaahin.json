@@ -1,47 +1,105 @@
 {
-  "id": "bhajan-0837",
+  "id": "bhajan-0835",
   "slug": "re-man-meraa-bhatkat-kaahin",
   "categoryId": "raag-jog",
-  "title": "रे मन मेरा भतकत काहिन",
-  "romanTitle": "Re Man Meraa Bhatkat Kaahin",
-  "firstLine": "Re Man Meraa Bhatkat Kaahin, Jo Sukh Chaahat So Tujh Maahin (Tek).",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "रे मन मेरा भटकत काहीं,",
+  "romanTitle": "Re Man Meraa Bhatkat Kaahin,",
+  "firstLine": "Re Man Meraa Bhatkat Kaahin,",
+  "heading": "।। राग जोग भजन ।। ७ ।। ८३७॥।",
+  "tek": [
+    "रे मन मेरा भटकत काहीं,",
+    "जो सुख चाहत सो तुझ माहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Meraa Bhatkat Kaahin,",
+    "Jo Sukh Chaahat So Tujh Maahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मृग के नाभी है कस्तूरी, अपने से वह जानत दूरी ।",
+        "खोजत बन में मिलत न ताहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mrig Ke Naabhi Hai Kasturi, Apne Se Vah Jaanat Duri.",
+        "Khojat Ban Men Milat Na Taahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अन्तर्मुख बिन शान्ति न आवत, वेद ज्ञाते मुनि यह गावत ।",
+        "सो परमानन्द नाहिं पराहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Antarmukh Bin Shaanti Na Aavat, Ved Jnyaate Muni Yah Gaavat.",
+        "So Parmaanand Naahin Paraahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मान वचन सत्‌ मेरा भैया, यह जग जानो भूल भुलैया ।",
+        "जो भूला सो निकसत नाहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maan Vachan Sat‌ Meraa Bhaiyaa, Yah Jag Jaano Bhul Bhulaiyaa.",
+        "Jo Bhulaa So Niksat Naahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ अबहीं जागो, अपने आतम में अनुरागो ।",
+        "जनम मरन दुख है नहिं जाहीं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Abhin Jaago, Apne Aatam Men Anuraago.",
+        "Janam Maran Dukh Hai Nahin Jaahin || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््गव"
+      ],
+      "romanLines": [
+        "Ggav"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरा भतकत काहिन,",
-      "जो सुख चाहत सो तुझ माहिन (टेक)."
+      "मृग के नाभी है कस्तूरी, अपने से वह जानत दूरी ।",
+      "खोजत बन में मिलत न ताहीं ॥१ ॥"
     ],
     [
-      "मरिग के नाभि है कसतुरि, पने से वह जानत दुरि.",
-      "खोजत बन मेन मिलत न ताहिन || 1. ||."
+      "अन्तर्मुख बिन शान्ति न आवत, वेद ज्ञाते मुनि यह गावत ।",
+      "सो परमानन्द नाहिं पराहीं ॥२ ॥"
     ],
     [
-      "नतरमुख बिन शांति न ावत, वेद जनयाते मुनि यह गावत.",
-      "सो परमाननद नाहिन पराहिन || 2 ||."
+      "मान वचन सत्‌ मेरा भैया, यह जग जानो भूल भुलैया ।",
+      "जो भूला सो निकसत नाहीं ॥३ ॥"
     ],
     [
-      "मान वचन सत‌ मेरा भैया, यह जग जानो भुल भुलैया.",
-      "जो भुला सो निकसत नाहिन || 3 ||"
+      "कहता टेऊँ अबहीं जागो, अपने आतम में अनुरागो ।",
+      "जनम मरन दुख है नहिं जाहीं ॥४ ॥"
     ],
     [
-      "कहता तेऊँ भिन जागो, पने ातम मेन नुरागो.",
-      "जनम मरन दुःख है नहिन जाहिन || 4. ||."
-    ],
-    [
-      "गगव"
+      "ग््गव"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Meraa Bhatkat Kaahin,",
-      "Jo Sukh Chaahat So Tujh Maahin (Tek)."
-    ],
-    [
       "Mrig Ke Naabhi Hai Kasturi, Apne Se Vah Jaanat Duri.",
-      "Khojat Ban Men Milat N Taahin || 1. ||."
+      "Khojat Ban Men Milat Na Taahin || 1 ||"
     ],
     [
-      "Antarmukh Bin Shaanti N Aavat, Ved Jnyaate Muni Yah Gaavat.",
-      "So Parmaanand Naahin Paraahin || 2 ||."
+      "Antarmukh Bin Shaanti Na Aavat, Ved Jnyaate Muni Yah Gaavat.",
+      "So Parmaanand Naahin Paraahin || 2 ||"
     ],
     [
       "Maan Vachan Sat‌ Meraa Bhaiyaa, Yah Jag Jaano Bhul Bhulaiyaa.",
@@ -49,25 +107,27 @@
     ],
     [
       "Kahtaa Teun Abhin Jaago, Apne Aatam Men Anuraago.",
-      "Janam Maran Dukh Hai Nahin Jaahin || 4. ||."
+      "Janam Maran Dukh Hai Nahin Jaahin || 4 ||"
     ],
     [
       "Ggav"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 7 || 837 ||.",
-    "Re Man Meraa Bhatkat Kaahin",
-    "रे मन मेरा भतकत काहिन"
+    "रे मन मेरा भटकत काहीं,",
+    "Re Man Meraa Bhatkat Kaahin,",
+    "राग जोग भजन 7",
+    "Raag Jog Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 837,
+  "displayOrder": 7,
+  "overallOrder": 835,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 443",
+  "updatedAt": "2026-10-26"
 }

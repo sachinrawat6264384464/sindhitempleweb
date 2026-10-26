@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0690",
+  "id": "bhajan-0688",
   "slug": "he-dinaa-naath-dayal-sharan-main-aayaa-teri",
   "categoryId": "raag-pahaari",
-  "title": "हे दिना नाथ दयाल, शरन मैं ाया तेरि",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "हे दीना नाथ दयाल, शरन मैं आया तेरी",
   "romanTitle": "He Dinaa Naath Dayal, Sharan Main Aayaa Teri",
-  "firstLine": "He Dinaa Naath Dayal, Sharan Main Aayaa Teri. Jaan Aapnaa Baal, Lajaa Hari Raakho Meri (Tek).",
+  "firstLine": "He Dinaa Naath Dayal, Sharan Main Aayaa Teri.",
+  "heading": "।। राग पहाड़ी भजन ।। ४१ ।। ६८९।॥।",
+  "tek": [
+    "हे दीना नाथ दयाल, शरन मैं आया तेरी ।",
+    "जान आपना बाल, लजा हरि राखो मेरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "He Dinaa Naath Dayal, Sharan Main Aayaa Teri.",
+    "Jaan Aapnaa Baal, Lajaa Hari Raakho Meri (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दुष्टों ने आ मुझको घेरा, काज बिगाड़त अब हरि मेरा ।",
+        "रक्षा करो रखपाल, दूर हो जावन वेरी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dushton Ne Aa Mujhko Gheraa, Kaaj Bigaarat Ab Hari Meraa.",
+        "Rakshaa Karo Rakhpaal, Dur Ho Jaavan Veri || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व कला तुम समर्थ स्वामी, आदि पुरुष हो अन्तर्यामी ।",
+        "बन कर काल कराल, कला हर दुश्मन केरी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Kalaa Tum Samarth Svaami, Aadi Purush Ho Antaryaami.",
+        "Ban Kar Kaal Karaal, Kalaa Har Dushman Keri || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शरनागत को शरनी दीजे, पूरण मेरा कारज कीजे ।",
+        "करुणानिधि कृपाल, दरस दे कर ना देरी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sharnaagat Ko Sharni Dije, Puran Meraa Kaaraj Kije.",
+        "Karunaanidhi Kripaal, Daras De Kar Naa Deri || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "दूख हरो मम दीन त्राता, शान्ती सुख दे हे सुख दाता ।",
+        "हरले विध्न विशाल, कहे टेऊँ सुन टेरी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Dukh Haro Mam Din Traataa, Shaanti Sukh De He Sukh Daataa.",
+        "Harle Vidhn Vishaal, Kahe Teun Sun Teri || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे दिना नाथ दयाल, शरन मैं ाया तेरि.",
-      "जान ापना बाल, लजा हरि राखो मेरि (टेक)."
+      "दुष्टों ने आ मुझको घेरा, काज बिगाड़त अब हरि मेरा ।",
+      "रक्षा करो रखपाल, दूर हो जावन वेरी ॥१ ॥"
     ],
     [
-      "दुशतोन ने ा मुझको घेरा, काज बिगारत ब हरि मेरा.",
-      "रकशा करो रखपाल, दुर हो जावन वेरि ||.1 ||."
+      "सर्व कला तुम समर्थ स्वामी, आदि पुरुष हो अन्तर्यामी ।",
+      "बन कर काल कराल, कला हर दुश्मन केरी ॥२ ॥"
     ],
     [
-      "सर्व कला तुम समरथ स्वामी, ादि पुरुश हो नतरयामि.",
-      "बन कर काल कराल, कला हर दुशमन केरि || 2 ||."
+      "शरनागत को शरनी दीजे, पूरण मेरा कारज कीजे ।",
+      "करुणानिधि कृपाल, दरस दे कर ना देरी ॥३ ॥"
     ],
     [
-      "शरनागत को शरनि दिजे, पुरन मेरा कारज किजे.",
-      "करुनानिधि करिपाल, दरस दे कर ना देरि ||.3 ||."
-    ],
-    [
-      "दुःख हरो मम दीन तराता, शांति सुख दे हे सुख दाता.",
-      "हरले विधन विशाल, कहे तेऊँ सुन तेरि || 4. ||."
+      "दूख हरो मम दीन त्राता, शान्ती सुख दे हे सुख दाता ।",
+      "हरले विध्न विशाल, कहे टेऊँ सुन टेरी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "He Dinaa Naath Dayal, Sharan Main Aayaa Teri.",
-      "Jaan Aapnaa Baal, Lajaa Hari Raakho Meri (Tek)."
-    ],
-    [
       "Dushton Ne Aa Mujhko Gheraa, Kaaj Bigaarat Ab Hari Meraa.",
-      "Rakshaa Karo Rakhpaal, Dur Ho Jaavan Veri ||.1 ||."
+      "Rakshaa Karo Rakhpaal, Dur Ho Jaavan Veri || 1 ||"
     ],
     [
       "Sarv Kalaa Tum Samarth Svaami, Aadi Purush Ho Antaryaami.",
-      "Ban Kar Kaal Karaal, Kalaa Har Dushman Keri || 2 ||."
+      "Ban Kar Kaal Karaal, Kalaa Har Dushman Keri || 2 ||"
     ],
     [
       "Sharnaagat Ko Sharni Dije, Puran Meraa Kaaraj Kije.",
-      "Karunaanidhi Kripaal, Daras De Kar Naa Deri ||.3 ||."
+      "Karunaanidhi Kripaal, Daras De Kar Naa Deri || 3 ||"
     ],
     [
       "Dukh Haro Mam Din Traataa, Shaanti Sukh De He Sukh Daataa.",
-      "Harle Vidhn Vishaal, Kahe Teun Sun Teri || 4. ||."
+      "Harle Vidhn Vishaal, Kahe Teun Sun Teri || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 41 || 689. ||.",
+    "हे दीना नाथ दयाल, शरन मैं आया तेरी",
     "He Dinaa Naath Dayal, Sharan Main Aayaa Teri",
-    "हे दिना नाथ दयाल, शरन मैं ाया तेरि"
+    "राग पहाड़ी भजन 41",
+    "Raag Pahaari Bhajan 41"
   ],
   "tags": [
-    "prarthana",
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 690,
+  "displayOrder": 41,
+  "overallOrder": 688,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 366",
+  "updatedAt": "2026-10-26"
 }

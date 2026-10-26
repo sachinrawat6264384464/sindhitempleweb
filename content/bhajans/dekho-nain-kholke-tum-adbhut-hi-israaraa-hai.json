@@ -1,44 +1,107 @@
 {
-  "id": "bhajan-0717",
+  "id": "bhajan-0715",
   "slug": "dekho-nain-kholke-tum-adbhut-hi-israaraa-hai",
   "categoryId": "raag-pahaari",
-  "title": "देखो नैन खोलके, तुम दभुत हि िसरारा है",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "देखो नैन खोलके, तुम अद्भुत ही इसरारा है",
   "romanTitle": "Dekho Nain Kholke, Tum Adbhut Hi Israaraa Hai",
   "firstLine": "Dekho Nain Kholke, Tum Adbhut Hi Israaraa Hai (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ६८ ।। ७१६।॥।",
+  "tek": [
+    "देखो नैन खोलके, तुम अद्भुत ही इसरारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dekho Nain Kholke, Tum Adbhut Hi Israaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांच तत्त्व का तन ना तेरा, ना अंग ना आकारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tattv Kaa Tan Naa Teraa, Naa Ang Naa Aakaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "छोटा लम्बा सीधा टेढ़ा, ना हल्का ना भारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chhotaa Lambaa Sidhaa Terhaa, Naa Halkaa Naa Bhaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन बुद्धि आदिक ना इन्द्रियगण, ना गोरा ना कारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man Buddhi Aadik Naa Indriygan, Naa Goraa Naa Kaaraa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नाम न धाम न ज़ाति वर्ण तव, ना कुल ना परिवारा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Naam Na Dhaam Na Zaati Varn Tav, Naa Kul Naa Parivaaraa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ तुम बाहर भीतर, ना मिलिया ना न्यारा है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Baahar Bhitar, Naa Miliyaa Naa Nyaaraa Hai || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "द्घ्ह"
+      ],
+      "romanLines": [
+        "Dghh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "देखो नैन खोलके, तुम दभुत हि िसरारा है (टेक)."
+      "पांच तत्त्व का तन ना तेरा, ना अंग ना आकारा है ॥१ ॥"
     ],
     [
-      "पानच तततव का तन ना तेरा, ना नग ना ाकारा है || 1 ||."
+      "छोटा लम्बा सीधा टेढ़ा, ना हल्का ना भारा है ॥२ ॥"
     ],
     [
-      "चहोता लमबा सिधा तेरहा, ना हलका ना भारा है || 2 ||."
+      "मन बुद्धि आदिक ना इन्द्रियगण, ना गोरा ना कारा है ॥३ ॥"
     ],
     [
-      "मन बुदधि ादिक ना िनदरियगन, ना गोरा ना कारा है.3 ||.",
-      "नाम न धाम न zाति वरन तव, ना कुल ना परिवारा है || 4 ||"
+      "नाम न धाम न ज़ाति वर्ण तव, ना कुल ना परिवारा है ॥४ ॥"
     ],
     [
-      "कहे तेऊँ तुम बाहर भितर, ना मिलिया ना नयारा है || 5 ||"
+      "कहे टेऊँ तुम बाहर भीतर, ना मिलिया ना न्यारा है ॥५ ॥"
     ],
     [
-      "दघह"
+      "द्घ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Dekho Nain Kholke, Tum Adbhut Hi Israaraa Hai (Tek)."
+      "Paanch Tattv Kaa Tan Naa Teraa, Naa Ang Naa Aakaaraa Hai || 1 ||"
     ],
     [
-      "Paanch Tattv Kaa Tan Naa Teraa, Naa Ang Naa Aakaaraa Hai || 1 ||."
+      "Chhotaa Lambaa Sidhaa Terhaa, Naa Halkaa Naa Bhaaraa Hai || 2 ||"
     ],
     [
-      "Chhotaa Lambaa Sidhaa Terhaa, Naa Halkaa Naa Bhaaraa Hai || 2 ||."
+      "Man Buddhi Aadik Naa Indriygan, Naa Goraa Naa Kaaraa Hai || 3 ||"
     ],
     [
-      "Man Buddhi Aadik Naa Indriygan, Naa Goraa Naa Kaaraa Hai.3 ||.",
-      "Naam N Dhaam N Zaati Varn Tav, Naa Kul Naa Parivaaraa Hai || 4 ||"
+      "Naam Na Dhaam Na Zaati Varn Tav, Naa Kul Naa Parivaaraa Hai || 4 ||"
     ],
     [
       "Kahe Teun Tum Baahar Bhitar, Naa Miliyaa Naa Nyaaraa Hai || 5 ||"
@@ -48,18 +111,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 68 || 716. ||.",
+    "देखो नैन खोलके, तुम अद्भुत ही इसरारा है",
     "Dekho Nain Kholke, Tum Adbhut Hi Israaraa Hai",
-    "देखो नैन खोलके, तुम दभुत हि िसरारा है"
+    "राग पहाड़ी भजन 68",
+    "Raag Pahaari Bhajan 68"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 717,
+  "displayOrder": 68,
+  "overallOrder": 715,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 379",
+  "updatedAt": "2026-10-26"
 }

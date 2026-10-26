@@ -1,65 +1,99 @@
 {
-  "id": "bhajan-0495",
+  "id": "bhajan-0494",
   "slug": "baazigar-ik-baazi-paai",
   "categoryId": "raag-kohiyaari",
-  "title": "बाzिगर िक बाzि पाि",
-  "romanTitle": "Baazigar Ik Baazi Paai",
-  "firstLine": "Baazigar Ik Baazi Paai, Ajab Rakhaa Israaraa, Bali Balihaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "बाज़ीगर इक बाज़ी पाई,",
+  "romanTitle": "Baazigar Ik Baazi Paai,",
+  "firstLine": "Baazigar Ik Baazi Paai,",
+  "heading": "।। राग कोद्यारी भजन ।। १५ ।। ४९५।।",
+  "tek": [
+    "बाज़ीगर इक बाज़ी पाई,",
+    "अजब रखा इसरारा, बलि बलिहारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Baazigar Ik Baazi Paai,",
+    "Ajab Rakhaa Israaraa, Bali Balihaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पड़दे अन्दर रंग रचाया, बहु विधि मृदंग ताल बजाया ।",
+        "खेले खेल अपारा ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Parde Andar Rang Rachaayaa, Bahu Vidhi Mridang Taal Bajaayaa.",
+        "Khele Khel Apaaraa || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रकट नाना खेल दिखावे, खेलन वाला नज़र न आवे ।",
+        "अचरज है यह भारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prakat Naanaa Khel Dikhaave, Khelan Vaalaa Nazar Na Aave.",
+        "Achraj Hai Yah Bhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिस पर गुरु की कृपा होवे, टेऊँ सो बाज़ीगर जोवे ।",
+        "बाज़ी से हो न्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jis Par Guru Ki Kripaa Hove, Teun So Baazigar Jove.",
+        "Baazi Se Ho Nyaaraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बाzिगर िक बाzि पाि,",
-      "जब रखा िसरारा, बलि बलिहारा (टेक)."
+      "पड़दे अन्दर रंग रचाया, बहु विधि मृदंग ताल बजाया ।",
+      "खेले खेल अपारा ॥8 ॥१ ॥"
     ],
     [
-      "परदे नदर रनग रचाया, बहु विधि मरिदनग ताल बजाया.",
-      "खेले खेल पारा || 8$ ||"
+      "प्रकट नाना खेल दिखावे, खेलन वाला नज़र न आवे ।",
+      "अचरज है यह भारा ॥२ ॥"
     ],
     [
-      "परकत नाना खेल दिखावे, खेलन वाला नzर न ावे.",
-      "चरज है यह भारा || 2 ||."
-    ],
-    [
-      "जिस पर गुरु कि कृपा होवे, तेऊँ सो बाzिगर जोवे.",
-      "बाzि से हो नयारा || 3 ||."
-    ],
-    [
-      "गन"
+      "जिस पर गुरु की कृपा होवे, टेऊँ सो बाज़ीगर जोवे ।",
+      "बाज़ी से हो न्यारा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Baazigar Ik Baazi Paai,",
-      "Ajab Rakhaa Israaraa, Bali Balihaaraa (Tek)."
-    ],
-    [
       "Parde Andar Rang Rachaayaa, Bahu Vidhi Mridang Taal Bajaayaa.",
-      "Khele Khel Apaaraa || 8$ ||"
+      "Khele Khel Apaaraa || 8 || 1 ||"
     ],
     [
-      "Prakat Naanaa Khel Dikhaave, Khelan Vaalaa Nazar N Aave.",
-      "Achraj Hai Yah Bhaaraa || 2 ||."
+      "Prakat Naanaa Khel Dikhaave, Khelan Vaalaa Nazar Na Aave.",
+      "Achraj Hai Yah Bhaaraa || 2 ||"
     ],
     [
       "Jis Par Guru Ki Kripaa Hove, Teun So Baazigar Jove.",
-      "Baazi Se Ho Nyaaraa || 3 ||."
-    ],
-    [
-      "Gan"
+      "Baazi Se Ho Nyaaraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kodyaari Bhajan || 15 || 495 ||",
-    "Baazigar Ik Baazi Paai",
-    "बाzिगर िक बाzि पाि"
+    "बाज़ीगर इक बाज़ी पाई,",
+    "Baazigar Ik Baazi Paai,",
+    "राग कोहियारी भजन 15",
+    "Raag Kohiyaari Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 495,
+  "displayOrder": 15,
+  "overallOrder": 494,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 276",
+  "updatedAt": "2026-10-26"
 }

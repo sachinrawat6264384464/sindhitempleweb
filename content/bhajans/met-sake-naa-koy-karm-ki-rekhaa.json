@@ -1,79 +1,135 @@
 {
-  "id": "bhajan-0585",
+  "id": "bhajan-0583",
   "slug": "met-sake-naa-koy-karm-ki-rekhaa",
   "categoryId": "raag-saarang",
-  "title": "मेत सके ना कोय, करम कि रेखा",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "मेट सके ना कोय, कर्म की रेखा",
   "romanTitle": "Met Sake Naa Koy, Karm Ki Rekhaa",
   "firstLine": "Met Sake Naa Koy, Karm Ki Rekhaa (Tek).",
+  "heading": "।। राग सारंग भजन ।। ६ ।। ५८४",
+  "tek": [
+    "मेट सके ना कोय, कर्म की रेखा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Met Sake Naa Koy, Karm Ki Rekhaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कर्म अधीन रहे जग सारा, कर्म बन्ध से ना को न्यारा ।",
+        "हस भोगे को रोय ॥8 ॥"
+      ],
+      "romanLines": [
+        "Karm Adhin Rahe Jag Saaraa, Karm Bandh Se Naa Ko Nyaaraa.",
+        "Has Bhoge Ko Roy || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्ञानी ध्यानी पण्डित धीरा, कर्मों की सब भोगत पीरा ।",
+        "देव सके ना खोय ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jnyaani Dhyaani Pandit Dhiraa, Karmon Ki Sab Bhogat Piraa.",
+        "Dev Sake Naa Khoy || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन अभिमानी जग में जेते, कर्मों का फल भोगत तेते ।",
+        "मल मल अखियाँ धोय ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Abhimaani Jag Men Jete, Karmon Kaa Phal Bhogat Tete.",
+        "Mal Mal Akhiyaan Dhoy || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सन्त गुरू हरि की कृपा ते, कर्म भोग कछु कछु हट जाते ।",
+        "गिरि से राई होय ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sant Guru Hari Ki Kripaa Te, Karm Bhog Kachhu Kachhu Hat Jaate.",
+        "Giri Se Raai Hoy || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ जिस ब्रह्मज्ञाना, कर्म भोग तिस होय न भाना ।",
+        "तन के मानत सोय ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jis Brahmajnyaanaa, Karm Bhog Tis Hoy Na Bhaanaa.",
+        "Tan Ke Maanat Soy || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेत सके ना कोय, करम कि रेखा (टेक)."
+      "कर्म अधीन रहे जग सारा, कर्म बन्ध से ना को न्यारा ।",
+      "हस भोगे को रोय ॥8 ॥"
     ],
     [
-      "करम धिन रहे जग सारा, करम बनध से ना को नयारा.",
-      "हस भोगे को रोय || 8 ||"
+      "ज्ञानी ध्यानी पण्डित धीरा, कर्मों की सब भोगत पीरा ।",
+      "देव सके ना खोय ॥२ ॥"
     ],
     [
-      "तर",
-      "जनयानि धयानि पनदित धिरा, करमोन कि सब भोगत पिरा."
+      "तन अभिमानी जग में जेते, कर्मों का फल भोगत तेते ।",
+      "मल मल अखियाँ धोय ॥३ ॥"
     ],
     [
-      "देव सके ना खोय || 2 ||"
+      "सन्त गुरू हरि की कृपा ते, कर्म भोग कछु कछु हट जाते ।",
+      "गिरि से राई होय ॥४ ॥"
     ],
     [
-      "तन भिमानि जग मेन जेते, करमोन का फल भोगत तेते.",
-      "मल मल खियान धोय ||.3 ||"
-    ],
-    [
-      "संत गुरु हरि कि कृपा ते, करम भोग कचहु कचहु हत जाते.",
-      "गिरि से राि होय. ||.4 ||"
-    ],
-    [
-      "कहे तेऊँ जिस बरहमजनयाना, करम भोग तिस होय न भाना.",
-      "तन के मानत सोय || 5 ||"
+      "कहे टेऊँ जिस ब्रह्मज्ञाना, कर्म भोग तिस होय न भाना ।",
+      "तन के मानत सोय ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Met Sake Naa Koy, Karm Ki Rekhaa (Tek)."
-    ],
     [
       "Karm Adhin Rahe Jag Saaraa, Karm Bandh Se Naa Ko Nyaaraa.",
       "Has Bhoge Ko Roy || 8 ||"
     ],
     [
-      "Tar",
-      "Jnyaani Dhyaani Pandit Dhiraa, Karmon Ki Sab Bhogat Piraa."
-    ],
-    [
+      "Jnyaani Dhyaani Pandit Dhiraa, Karmon Ki Sab Bhogat Piraa.",
       "Dev Sake Naa Khoy || 2 ||"
     ],
     [
       "Tan Abhimaani Jag Men Jete, Karmon Kaa Phal Bhogat Tete.",
-      "Mal Mal Akhiyaan Dhoy ||.3 ||"
+      "Mal Mal Akhiyaan Dhoy || 3 ||"
     ],
     [
       "Sant Guru Hari Ki Kripaa Te, Karm Bhog Kachhu Kachhu Hat Jaate.",
-      "Giri Se Raai Hoy. ||.4 ||"
+      "Giri Se Raai Hoy || 4 ||"
     ],
     [
-      "Kahe Teun Jis Brahmajnyaanaa, Karm Bhog Tis Hoy N Bhaanaa.",
+      "Kahe Teun Jis Brahmajnyaanaa, Karm Bhog Tis Hoy Na Bhaanaa.",
       "Tan Ke Maanat Soy || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 6 || 584",
+    "मेट सके ना कोय, कर्म की रेखा",
     "Met Sake Naa Koy, Karm Ki Rekhaa",
-    "मेत सके ना कोय, करम कि रेखा"
+    "राग सारंग भजन 6",
+    "Raag Saarang Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 585,
+  "displayOrder": 6,
+  "overallOrder": 583,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 316",
+  "updatedAt": "2026-10-26"
 }

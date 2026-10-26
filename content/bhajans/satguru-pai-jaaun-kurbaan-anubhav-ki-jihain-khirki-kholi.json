@@ -1,72 +1,109 @@
 {
-  "id": "bhajan-0878",
+  "id": "bhajan-0876",
   "slug": "satguru-pai-jaaun-kurbaan-anubhav-ki-jihain-khirki-kholi",
   "categoryId": "raag-jog",
-  "title": "सतगुरु पै जाुन कुरबान, नुभव कि जिहैन खिरकि खोलि",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सत्गुरु पै जाऊँ कुर्बान, अनुभव की जिहैँ खिड़की खोली",
   "romanTitle": "Satguru Pai Jaaun Kurbaan, Anubhav Ki Jihain Khirki Kholi",
   "firstLine": "Satguru Pai Jaaun Kurbaan, Anubhav Ki Jihain Khirki Kholi (Tek).",
+  "heading": "।। राग जोग भजन ।। ४८ ।। ८७८।॥।",
+  "tek": [
+    "सत्गुरु पै जाऊँ कुर्बान, अनुभव की जिहैँ खिड़की खोली ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satguru Pai Jaaun Kurbaan, Anubhav Ki Jihain Khirki Kholi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस अमृत हित देव प्यासी, राज छोड़ भये भूप उदासी,",
+        "सो अमृत गुरु कराया पान, तांके चरनों की मैं गोली ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Amrit Hit Dev Pyaasi, Raaj Chhor Bhaye Bhup Udaasi,",
+        "So Amrit Guru Karaayaa Paan, Taanke Charnon Ki Main Goli || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ग्््",
+        "हरदम गुरु दर पानी भरहूं, बर्तन मांजे ऊजल करूं,",
+        "तिह॑ं गुरु का होवूं दर्बान, आतम रंग रंगी जिहं चोली ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ga",
+        "Hardam Guru Dar Paani Bharhun, Bartan Maanje Ujal Karun,",
+        "Tihn Guru Kaa Hovun Darbaan, Aatam Rang Rangi Jihan Choli || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देखा खोज इसी जग माहीं, उस वस्तू के सम को नाहीं,",
+        "जो गुरु दीना मुझको दान,साफ सुनाई शिवो5हम्‌ बोली । । डे ॥",
+        "कहे टेऊँ त्रिलोक मंजझारी, सत्‌गुरु सम को ना उपकारी,",
+        "मेटे मोह ममत अज्ञान, दीनी आतम मणी अमोली ॥४ ॥"
+      ],
+      "romanLines": [
+        "Dekhaa Khoj Isi Jag Maahin, Us Vastu Ke Sam Ko Naahin,",
+        "Jo Guru Dinaa Mujhko Daan,Saaph Sunaai Shivo5Ham‌ Boli.. De ||",
+        "Kahe Teun Trilok Manjjhaari, Sat‌Guru Sam Ko Naa Upkaari,",
+        "Mete Moh Mamat Ajnyaan, Dini Aatam Mani Amoli || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु पै जाुन कुरबान, नुभव कि जिहैन खिरकि खोलि (टेक)."
+      "जिस अमृत हित देव प्यासी, राज छोड़ भये भूप उदासी,",
+      "सो अमृत गुरु कराया पान, तांके चरनों की मैं गोली ॥१ ॥"
     ],
     [
-      "जिस अमृत हित देव पयासि, राज चहोर भये भुप ुदासि,",
-      "सो अमृत गुरु कराया पान, तानके चरनोन कि मैं गोलि || 1. ||."
+      "ग्््",
+      "हरदम गुरु दर पानी भरहूं, बर्तन मांजे ऊजल करूं,",
+      "तिह॑ं गुरु का होवूं दर्बान, आतम रंग रंगी जिहं चोली ॥२ ॥"
     ],
     [
-      "ग",
-      "हरदम गुरु दर पानि भरहुन, बरतन मानजे ुजल करुन,"
-    ],
-    [
-      "तिहन गुरु का होवुन दरबान, ातम रनग रनगि जिहन चोलि || 2 ||"
-    ],
-    [
-      "देखा खोज िसि जग माहिन, ुस वसतु के सम को नाहिन,",
-      "जो गुरु दिना मुझको दानसाफ सुनाि शिवोहम‌ बोलि.. दे ||"
-    ],
-    [
-      "कहे तेऊँ तरिलोक मनजझारि, सतगुरु सम को ना ुपकारि,",
-      "मेते मोह ममत जनयान, दिनि ातम मनि मोलि || 4. ||."
+      "देखा खोज इसी जग माहीं, उस वस्तू के सम को नाहीं,",
+      "जो गुरु दीना मुझको दान,साफ सुनाई शिवो5हम्‌ बोली । । डे ॥",
+      "कहे टेऊँ त्रिलोक मंजझारी, सत्‌गुरु सम को ना उपकारी,",
+      "मेटे मोह ममत अज्ञान, दीनी आतम मणी अमोली ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Satguru Pai Jaaun Kurbaan, Anubhav Ki Jihain Khirki Kholi (Tek)."
-    ],
-    [
       "Jis Amrit Hit Dev Pyaasi, Raaj Chhor Bhaye Bhup Udaasi,",
-      "So Amrit Guru Karaayaa Paan, Taanke Charnon Ki Main Goli || 1. ||."
+      "So Amrit Guru Karaayaa Paan, Taanke Charnon Ki Main Goli || 1 ||"
     ],
     [
-      "G",
-      "Hardam Guru Dar Paani Bharhun, Bartan Maanje Ujal Karun,"
-    ],
-    [
+      "Ga",
+      "Hardam Guru Dar Paani Bharhun, Bartan Maanje Ujal Karun,",
       "Tihn Guru Kaa Hovun Darbaan, Aatam Rang Rangi Jihan Choli || 2 ||"
     ],
     [
       "Dekhaa Khoj Isi Jag Maahin, Us Vastu Ke Sam Ko Naahin,",
-      "Jo Guru Dinaa Mujhko Daan,Saaph Sunaai Shivo5Ham‌ Boli.. De ||"
-    ],
-    [
+      "Jo Guru Dinaa Mujhko Daan,Saaph Sunaai Shivo5Ham‌ Boli.. De ||",
       "Kahe Teun Trilok Manjjhaari, Sat‌Guru Sam Ko Naa Upkaari,",
-      "Mete Moh Mamat Ajnyaan, Dini Aatam Mani Amoli || 4. ||."
+      "Mete Moh Mamat Ajnyaan, Dini Aatam Mani Amoli || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 48 || 878. ||.",
+    "सत्गुरु पै जाऊँ कुर्बान, अनुभव की जिहैँ खिड़की खोली",
     "Satguru Pai Jaaun Kurbaan, Anubhav Ki Jihain Khirki Kholi",
-    "सतगुरु पै जाुन कुरबान, नुभव कि जिहैन खिरकि खोलि"
+    "राग जोग भजन 48",
+    "Raag Jog Bhajan 48"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 878,
+  "displayOrder": 48,
+  "overallOrder": 876,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 462",
+  "updatedAt": "2026-10-26"
 }

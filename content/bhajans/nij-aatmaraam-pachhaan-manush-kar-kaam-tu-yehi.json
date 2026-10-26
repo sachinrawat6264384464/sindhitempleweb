@@ -2,80 +2,105 @@
   "id": "bhajan-0096",
   "slug": "nij-aatmaraam-pachhaan-manush-kar-kaam-tu-yehi",
   "categoryId": "raag-aasaa",
-  "title": "निज ातमराम पचहान, मनुश कर काम तु येहि",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "निज आतमराम पछान, मनुष कर काम तूं येही",
   "romanTitle": "Nij Aatmaraam Pachhaan, Manush Kar Kaam Tu Yehi",
   "firstLine": "Nij Aatmaraam Pachhaan, Manush Kar Kaam Tu Yehi.",
+  "heading": "।। राग आसा भजन ।। ३४ ।। ९६॥।",
+  "tek": [
+    "निज आतमराम पछान, मनुष कर काम तूं येही ।",
+    "ले गुरु से आत्मज्ञान, पाओ पूरन पद निर्बान,",
+    "मनुष कर काम तूं येही ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Nij Aatmaraam Pachhaan, Manush Kar Kaam Tu Yehi.",
+    "Le Guru Se Aatmajnyaan, Paao Puran Pad Nirbaan,",
+    "Manush Kar Kaam Tu Yehi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दो दिन जग में तुम हो मुसाफिर, झूठा तज अभिमाना ।",
+        "अन्त समय कोई काम न आवे, जांका करत गुमाना ।",
+        "तज मोह ममत नादान, धरो तुम दिल में हरि का ध्यान ॥१ ॥",
+        "पांच तत्त्व की है यह देही, तामें पंछी प्राना ।",
+        "उड़ जावे जब प्रान इसी से, तबहीं जरत मसाना ।",
+        "तुम भजन करो भगवान, और दे हाथों से कछु दान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Do Din Jag Men Tum Ho Musaaphir, Jhuthaa Taj Abhimaanaa.",
+        "Ant Samay Koi Kaam Na Aave, Jaankaa Karat Gumaanaa.",
+        "Taj Moh Mamat Naadaan, Dharo Tum Dil Men Hari Kaa Dhyaan || 1 ||",
+        "Paanch Tattv Ki Hai Yah Dehi, Taamen Panchhi Praanaa.",
+        "Ur Jaave Jab Praan Isi Se, Tabhin Jarat Masaanaa.",
+        "Tum Bhajan Karo Bhagvaan, Aur De Haathon Se Kachhu Daan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गर्",
+        "कहे टेऊँ कर गुज़र गरीबी, त्यागे मान बड़ाई ।",
+        "दीन दुखियों की सेवा करले, किसकी कर न बुराई ।",
+        "यह वेदों का फरमान, धार ले हृदय माहिं सुजान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gar",
+        "Kahe Teun Kar Guzar Garibi, Tyaage Maan Baraai.",
+        "Din Dukhiyon Ki Sevaa Karle, Kiski Kar Na Buraai.",
+        "Yah Vedon Kaa Pharmaan, Dhaar Le Hriday Maahin Sujaan || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "निज ातमराम पचहान, मनुश कर काम तु येहि.",
-      "ले गुरु से ातमजनयान, पाो पुरन पद निरबान,"
+      "दो दिन जग में तुम हो मुसाफिर, झूठा तज अभिमाना ।",
+      "अन्त समय कोई काम न आवे, जांका करत गुमाना ।",
+      "तज मोह ममत नादान, धरो तुम दिल में हरि का ध्यान ॥१ ॥",
+      "पांच तत्त्व की है यह देही, तामें पंछी प्राना ।",
+      "उड़ जावे जब प्रान इसी से, तबहीं जरत मसाना ।",
+      "तुम भजन करो भगवान, और दे हाथों से कछु दान ॥२ ॥"
     ],
     [
-      "मनुश कर काम तु येहि (टेक)."
-    ],
-    [
-      "दो दीन जग मेन तुम हो मुसाफिर, झुथा तज भिमाना.",
-      "नत समय कोि काम न ावे, जानका करत गुमाना."
-    ],
-    [
-      "तज मोह ममत नादान, धरो तुम दिल मेन हरि का ध्यान || ₹. ||.",
-      "पानच तततव कि है यह देही, तामेन पनचहि पराना."
-    ],
-    [
-      "ुर जावे जब परान िसि से, तभिन जरत मसाना.",
-      "तुम भजन करो भगवान, ौर दे हाथोन से कचहु दान || 2 ||."
-    ],
-    [
-      "गर",
-      "कहे तेऊँ कर गुzर गरिबि, तयागे मान बराि."
-    ],
-    [
-      "दीन दुखियोन कि सेवा करले, किसकि कर न बुराि.",
-      "यह वेदोन का फरमान, धार ले हरिदय माहिन सुजान || 3. ||."
+      "गर्",
+      "कहे टेऊँ कर गुज़र गरीबी, त्यागे मान बड़ाई ।",
+      "दीन दुखियों की सेवा करले, किसकी कर न बुराई ।",
+      "यह वेदों का फरमान, धार ले हृदय माहिं सुजान ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Nij Aatmaraam Pachhaan, Manush Kar Kaam Tu Yehi.",
-      "Le Guru Se Aatmajnyaan, Paao Puran Pad Nirbaan,"
-    ],
-    [
-      "Manush Kar Kaam Tu Yehi (Tek)."
-    ],
-    [
       "Do Din Jag Men Tum Ho Musaaphir, Jhuthaa Taj Abhimaanaa.",
-      "Ant Samay Koi Kaam N Aave, Jaankaa Karat Gumaanaa."
-    ],
-    [
-      "Taj Moh Mamat Naadaan, Dharo Tum Dil Men Hari Kaa Dhyaan || ₹. ||.",
-      "Paanch Tattv Ki Hai Yah Dehi, Taamen Panchhi Praanaa."
-    ],
-    [
+      "Ant Samay Koi Kaam Na Aave, Jaankaa Karat Gumaanaa.",
+      "Taj Moh Mamat Naadaan, Dharo Tum Dil Men Hari Kaa Dhyaan || 1 ||",
+      "Paanch Tattv Ki Hai Yah Dehi, Taamen Panchhi Praanaa.",
       "Ur Jaave Jab Praan Isi Se, Tabhin Jarat Masaanaa.",
-      "Tum Bhajan Karo Bhagvaan, Aur De Haathon Se Kachhu Daan || 2 ||."
+      "Tum Bhajan Karo Bhagvaan, Aur De Haathon Se Kachhu Daan || 2 ||"
     ],
     [
       "Gar",
-      "Kahe Teun Kar Guzar Garibi, Tyaage Maan Baraai."
-    ],
-    [
-      "Din Dukhiyon Ki Sevaa Karle, Kiski Kar N Buraai.",
-      "Yah Vedon Kaa Pharmaan, Dhaar Le Hriday Maahin Sujaan || 3. ||."
+      "Kahe Teun Kar Guzar Garibi, Tyaage Maan Baraai.",
+      "Din Dukhiyon Ki Sevaa Karle, Kiski Kar Na Buraai.",
+      "Yah Vedon Kaa Pharmaan, Dhaar Le Hriday Maahin Sujaan || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 34 || 96 ||.",
+    "निज आतमराम पछान, मनुष कर काम तूं येही",
     "Nij Aatmaraam Pachhaan, Manush Kar Kaam Tu Yehi",
-    "निज ातमराम पचहान, मनुश कर काम तु येहि"
+    "राग आसा भजन 34",
+    "Raag Aasaa Bhajan 34"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 96,
+  "displayOrder": 34,
+  "overallOrder": 96,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 73",
+  "updatedAt": "2026-10-26"
 }

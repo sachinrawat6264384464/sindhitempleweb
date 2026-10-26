@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0745",
+  "id": "bhajan-0743",
   "slug": "tunhin-tu-tunhin-tu-tunhin-tu-tunhin-tu",
   "categoryId": "raag-pilaa",
-  "title": "तुनहिन तु, तुनहिन तु, तुनहिन तु, तुनहिन तु",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "तूंहीं तूं, तूंहीं तूं, तूंहीं तूं, तूंहीं तूं",
   "romanTitle": "Tunhin Tu, Tunhin Tu, Tunhin Tu, Tunhin Tu",
   "firstLine": "Tunhin Tu, Tunhin Tu, Tunhin Tu, Tunhin Tu (Tek).",
+  "heading": "।। राग पीला भजन ।। २३ ।। ७४५।।",
+  "tek": [
+    "तूंहीं तूं, तूंहीं तूं, तूंहीं तूं, तूंहीं तूं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tunhin Tu, Tunhin Tu, Tunhin Tu, Tunhin Tu (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तूंहीं अलख पुरुष अविनासी है, तूंहीं चेतन आनन्द रासी है ।",
+        "तूंहीं निज महिमा में वासी है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tunhin Alakh Purush Avinaasi Hai, Tunhin Chetan Aanand Raasi Hai.",
+        "Tunhin Nij Mahimaa Men Vaasi Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तूंहीं अक्षर ओड१म्‌कार हरी, तूंहीं निर्गुण निरआकार हरी ।",
+        "तूंहीं सगुण रूप साकार हरी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tunhin Akshar Od1M‌Kaar Hari, Tunhin Nirgun Niraakaar Hari.",
+        "Tunhin Sagun Rup Saakaar Hari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तूंहीं विष्णू अज त्रिपुरारी है, तूंहीं रामचन्द्र अवतारी है ।",
+        "तूंहीं नरसिंह कृष्ण मुरारी है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tunhin Vishnu Aj Tripuraari Hai, Tunhin Raamchandr Avtaari Hai.",
+        "Tunhin Narsinh Krishn Muraari Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तूंहीं कहे टेऊँ कर्तार सदा, तूंहीं साक्षी सर्व आधार सदा ।",
+        "तूंहीं अनुभव रूप अपार सदा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tunhin Kahe Teun Kartaar Sadaa, Tunhin Saakshi Sarv Aadhaar Sadaa.",
+        "Tunhin Anubhav Rup Apaar Sadaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुनहिन तु, तुनहिन तु, तुनहिन तु, तुनहिन तु (टेक)."
+      "तूंहीं अलख पुरुष अविनासी है, तूंहीं चेतन आनन्द रासी है ।",
+      "तूंहीं निज महिमा में वासी है ॥१ ॥"
     ],
     [
-      "तुनहिन लख पुरुश विनासि है, तुनहिन चेतन आनंद रासि है.",
-      "तुनहिन निज महिमा मेन वासि है || 1. ||."
+      "तूंहीं अक्षर ओड१म्‌कार हरी, तूंहीं निर्गुण निरआकार हरी ।",
+      "तूंहीं सगुण रूप साकार हरी ॥२ ॥"
     ],
     [
-      "तुनहिन कशर ोदमकार हरि, तुनहिन निरगुन निराकार हरि.",
-      "तुनहिन सगुन रुप साकार हरि. ||.2 ||."
+      "तूंहीं विष्णू अज त्रिपुरारी है, तूंहीं रामचन्द्र अवतारी है ।",
+      "तूंहीं नरसिंह कृष्ण मुरारी है ॥३ ॥"
     ],
     [
-      "तुनहिन विशनु ज तरिपुरारि है, तुनहिन रामचनदर वतारि है.",
-      "तुनहिन नरसिनह करिशन मुरारि है ||.3 ||."
-    ],
-    [
-      "तुनहिन कहे तेऊँ करतार सदा, तुनहिन साक्षी सर्व ाधार सदा.",
-      "तुनहिन नुभव रुप पार सदा ||.4. ||."
+      "तूंहीं कहे टेऊँ कर्तार सदा, तूंहीं साक्षी सर्व आधार सदा ।",
+      "तूंहीं अनुभव रूप अपार सदा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tunhin Tu, Tunhin Tu, Tunhin Tu, Tunhin Tu (Tek)."
-    ],
-    [
       "Tunhin Alakh Purush Avinaasi Hai, Tunhin Chetan Aanand Raasi Hai.",
-      "Tunhin Nij Mahimaa Men Vaasi Hai || 1. ||."
+      "Tunhin Nij Mahimaa Men Vaasi Hai || 1 ||"
     ],
     [
-      "Tunhin Akshar Od$M‌Kaar Hari, Tunhin Nirgun Niraakaar Hari.",
-      "Tunhin Sagun Rup Saakaar Hari. ||.2 ||."
+      "Tunhin Akshar Od1M‌Kaar Hari, Tunhin Nirgun Niraakaar Hari.",
+      "Tunhin Sagun Rup Saakaar Hari || 2 ||"
     ],
     [
       "Tunhin Vishnu Aj Tripuraari Hai, Tunhin Raamchandr Avtaari Hai.",
-      "Tunhin Narsinh Krishn Muraari Hai ||.3 ||."
+      "Tunhin Narsinh Krishn Muraari Hai || 3 ||"
     ],
     [
       "Tunhin Kahe Teun Kartaar Sadaa, Tunhin Saakshi Sarv Aadhaar Sadaa.",
-      "Tunhin Anubhav Rup Apaar Sadaa ||.4. ||."
+      "Tunhin Anubhav Rup Apaar Sadaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 23 || 745 ||",
+    "तूंहीं तूं, तूंहीं तूं, तूंहीं तूं, तूंहीं तूं",
     "Tunhin Tu, Tunhin Tu, Tunhin Tu, Tunhin Tu",
-    "तुनहिन तु, तुनहिन तु, तुनहिन तु, तुनहिन तु"
+    "राग पीला भजन 22",
+    "Raag Pilaa Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 745,
+  "displayOrder": 22,
+  "overallOrder": 743,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 394",
+  "updatedAt": "2026-10-26"
 }

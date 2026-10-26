@@ -1,79 +1,135 @@
 {
-  "id": "bhajan-0533",
+  "id": "bhajan-0531",
   "slug": "mohi-bhul-gayaa-sansaar-sundar-murli-sunke",
   "categoryId": "raag-sorath",
-  "title": "मोहि भुल गया सनसार, सुनदर मुरलि सुनके",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "मोहि भूल गया संसार, सुन्दर मुरली सुनके",
   "romanTitle": "Mohi Bhul Gayaa Sansaar, Sundar Murli Sunke",
   "firstLine": "Mohi Bhul Gayaa Sansaar, Sundar Murli Sunke (Tek).",
+  "heading": "।। राग सोरठ भजन ।। १ ।। ५३२।॥।",
+  "tek": [
+    "मोहि भूल गया संसार, सुन्दर मुरली सुनके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mohi Bhul Gayaa Sansaar, Sundar Murli Sunke (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चारण चड् बजाया जबहीं, राय दियाच दिया शिर तबहीं ।",
+        "सुनके सुरन्दे तार, छोड़ा सुख राजन के ॥8 ॥"
+      ],
+      "romanLines": [
+        "Chaaran Chad Bajaayaa Jabhin, Raay Diyaach Diyaa Shir Tabhin.",
+        "Sunke Surande Taar, Chhoraa Sukh Raajan Ke || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तक्षक तज बिल भूल रहा है, जोगी आगे झूल रहा है ।",
+        "मुरली सुन सुरदार, मन्त्र आज्ञा मनके ॥२ ॥"
+      ],
+      "romanLines": [
+        "Takshak Taj Bil Bhul Rahaa Hai, Jogi Aage Jhul Rahaa Hai.",
+        "Murli Sun Surdaar, Mantr Aajnyaa Manke || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मुरली सुनके मोहे हरिजन, सिद्ध साधक पुनि सुर नर मुनिजन ।",
+        "त्याग दई तन सार, मृग सुन नाद धुनके ॥३ ॥"
+      ],
+      "romanLines": [
+        "Murli Sunke Mohe Harijan, Siddh Saadhak Puni Sur Nar Munijan.",
+        "Tyaag Dai Tan Saar, Mrig Sun Naad Dhunke || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मधुर मुरली सुन के भूचर, चर अचर अरु मोहे नभचर ।",
+        "अमृत रस की धार, धरी मुख मोहन के ॥४ ॥"
+      ],
+      "romanLines": [
+        "Madhur Murli Sun Ke Bhuchar, Char Achar Aru Mohe Nabhchar.",
+        "Amrit Ras Ki Dhaar, Dhari Mukh Mohan Ke || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "शब्द मुरली वेद बखाने, कहे टेऊँ को सन्त पछाने ।",
+        "पाए गम गुरुद्वार, अगम अनहद झुनके ॥५ ॥"
+      ],
+      "romanLines": [
+        "Shabd Murli Ved Bakhaane, Kahe Teun Ko Sant Pachhaane.",
+        "Paae Gam Gurudvaar, Agam Anhad Jhunke || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोहि भुल गया सनसार, सुनदर मुरलि सुनके (टेक)."
+      "चारण चड् बजाया जबहीं, राय दियाच दिया शिर तबहीं ।",
+      "सुनके सुरन्दे तार, छोड़ा सुख राजन के ॥8 ॥"
     ],
     [
-      "चारन चद बजाया जभिन, राय दियाच दिया शिर तभिन.",
-      "सुनके सुरनदे तार, चहोरा सुख राजन के || 8 ||"
+      "तक्षक तज बिल भूल रहा है, जोगी आगे झूल रहा है ।",
+      "मुरली सुन सुरदार, मन्त्र आज्ञा मनके ॥२ ॥"
     ],
     [
-      "तकशक तज बिल भुल रहा है, जोगि ागे झुल रहा है.",
-      "मुरलि सुन सुरदार, मनतर ाजनया मनके || 2 ||."
+      "मुरली सुनके मोहे हरिजन, सिद्ध साधक पुनि सुर नर मुनिजन ।",
+      "त्याग दई तन सार, मृग सुन नाद धुनके ॥३ ॥"
     ],
     [
-      "मुरलि सुनके मोहे हरिजन, सिदध साधक पुनि सुर नर मुनिजन.",
-      "तयाग दै तन सार, मरिग सुन नाद धुनके || 3 ||."
+      "मधुर मुरली सुन के भूचर, चर अचर अरु मोहे नभचर ।",
+      "अमृत रस की धार, धरी मुख मोहन के ॥४ ॥"
     ],
     [
-      "मधुर मुरलि सुन के भुचर, चर चर रु मोहे नभचर.",
-      "अमृत रस कि धार, धरि मुख मोहन के || 4. ||."
-    ],
-    [
-      "शबद मुरलि वेद बखाने, कहे तेऊँ को संत पचहाने.",
-      "पाे गम गुरुदवार, गम नहद झुनके || 5 ||."
-    ],
-    [
-      "तह"
+      "शब्द मुरली वेद बखाने, कहे टेऊँ को सन्त पछाने ।",
+      "पाए गम गुरुद्वार, अगम अनहद झुनके ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mohi Bhul Gayaa Sansaar, Sundar Murli Sunke (Tek)."
-    ],
     [
       "Chaaran Chad Bajaayaa Jabhin, Raay Diyaach Diyaa Shir Tabhin.",
       "Sunke Surande Taar, Chhoraa Sukh Raajan Ke || 8 ||"
     ],
     [
       "Takshak Taj Bil Bhul Rahaa Hai, Jogi Aage Jhul Rahaa Hai.",
-      "Murli Sun Surdaar, Mantr Aajnyaa Manke || 2 ||."
+      "Murli Sun Surdaar, Mantr Aajnyaa Manke || 2 ||"
     ],
     [
       "Murli Sunke Mohe Harijan, Siddh Saadhak Puni Sur Nar Munijan.",
-      "Tyaag Dai Tan Saar, Mrig Sun Naad Dhunke || 3 ||."
+      "Tyaag Dai Tan Saar, Mrig Sun Naad Dhunke || 3 ||"
     ],
     [
       "Madhur Murli Sun Ke Bhuchar, Char Achar Aru Mohe Nabhchar.",
-      "Amrit Ras Ki Dhaar, Dhari Mukh Mohan Ke || 4. ||."
+      "Amrit Ras Ki Dhaar, Dhari Mukh Mohan Ke || 4 ||"
     ],
     [
       "Shabd Murli Ved Bakhaane, Kahe Teun Ko Sant Pachhaane.",
-      "Paae Gam Gurudvaar, Agam Anhad Jhunke || 5 ||."
-    ],
-    [
-      "Tah"
+      "Paae Gam Gurudvaar, Agam Anhad Jhunke || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 1 || 532. ||.",
+    "मोहि भूल गया संसार, सुन्दर मुरली सुनके",
     "Mohi Bhul Gayaa Sansaar, Sundar Murli Sunke",
-    "मोहि भुल गया सनसार, सुनदर मुरलि सुनके"
+    "राग सोरठ भजन 1",
+    "Raag Sorath Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 533,
+  "displayOrder": 1,
+  "overallOrder": 531,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 292",
+  "updatedAt": "2026-10-26"
 }

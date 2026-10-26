@@ -2,72 +2,117 @@
   "id": "bhajan-0079",
   "slug": "bande-hari-gun-kyon-nahin-gaate",
   "categoryId": "raag-aasaa",
-  "title": "बनदे हरि गुन कयोन नहिन गाते",
-  "romanTitle": "Bande Hari Gun Kyon Nahin Gaate",
-  "firstLine": "Bande Hari Gun Kyon Nahin Gaate, Ikraar Kiyaa Ikraar Kiyaa (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "बन्दे हरि गुण क्यों नहिं गाते,",
+  "romanTitle": "Bande Hari Gun Kyon Nahin Gaate,",
+  "firstLine": "Bande Hari Gun Kyon Nahin Gaate,",
+  "heading": "।। राग आसा भजन ।। १७ ।। ७९।।",
+  "tek": [
+    "बन्दे हरि गुण क्यों नहिं गाते,",
+    "इकरार कीया इकरार कीया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bande Hari Gun Kyon Nahin Gaate,",
+    "Ikraar Kiyaa Ikraar Kiyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिहँ तुमको पैदा कीना, नित देवत खाना पीना ।",
+        "क्यों तांसे प्रेम न पाते ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jihan Tumko Paidaa Kinaa, Nit Devat Khaanaa Pinaa.",
+        "Kyon Taanse Prem Na Paate || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिहँँ देखन लीये नैना, दीये बोलन हित बैना ।",
+        "क्यों तांसे नेह न लाते ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jihann Dekhan Liye Nainaa, Diye Bolan Hit Bainaa.",
+        "Kyon Taanse Neh Na Laate || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिहैँ दीना जीव प्राना, मन बुद्धि में ज्ञान विज्ञाना ।",
+        "क्यों तांके रंग न राते ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jihain Dinaa Jiv Praanaa, Man Buddhi Men Gyaan Vijnyaanaa.",
+        "Kyon Taanke Rang Na Raate || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ निश्चय मानो, सब दाति हरी की जानो ।",
+        "क्यों सुरति न ताहिं समाते ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nishchay Maano, Sab Daati Hari Ki Jaano.",
+        "Kyon Surti Na Taahin Samaate || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदे हरि गुन कयोन नहिन गाते,",
-      "िकरार किया िकरार किया (टेक)."
+      "जिहँ तुमको पैदा कीना, नित देवत खाना पीना ।",
+      "क्यों तांसे प्रेम न पाते ॥१ ॥"
     ],
     [
-      "जिहन तुमको पैदा किना, नित देवत खाना पिना.",
-      "कयोन तानसे प्रेम न पाते || 1 ||"
+      "जिहँँ देखन लीये नैना, दीये बोलन हित बैना ।",
+      "क्यों तांसे नेह न लाते ॥२ ॥"
     ],
     [
-      "जिहनन देखन लिये नैना, दिये बोलन हित बैना.",
-      "कयोन तानसे नेह न लाते || 2 ||."
+      "जिहैँ दीना जीव प्राना, मन बुद्धि में ज्ञान विज्ञाना ।",
+      "क्यों तांके रंग न राते ॥३ ॥"
     ],
     [
-      "ग",
-      "जिहैन दिना जिव पराना, मन बुदधि मेन ज्ञान विजनयाना."
-    ],
-    [
-      "कयोन तानके रनग न राते.3 ||.",
-      "कहे तेऊँ निशचय मानो, सब दाति हरि कि जानो."
-    ],
-    [
-      "कयोन सुरति न ताहिन समाते || 4. ||."
+      "कहे टेऊँ निश्चय मानो, सब दाति हरी की जानो ।",
+      "क्यों सुरति न ताहिं समाते ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bande Hari Gun Kyon Nahin Gaate,",
-      "Ikraar Kiyaa Ikraar Kiyaa (Tek)."
-    ],
-    [
       "Jihan Tumko Paidaa Kinaa, Nit Devat Khaanaa Pinaa.",
-      "Kyon Taanse Prem N Paate || 1 ||"
+      "Kyon Taanse Prem Na Paate || 1 ||"
     ],
     [
       "Jihann Dekhan Liye Nainaa, Diye Bolan Hit Bainaa.",
-      "Kyon Taanse Neh N Laate || 2 ||."
+      "Kyon Taanse Neh Na Laate || 2 ||"
     ],
     [
-      "G",
-      "Jihain Dinaa Jiv Praanaa, Man Buddhi Men Jnyaan Vijnyaanaa."
+      "Jihain Dinaa Jiv Praanaa, Man Buddhi Men Gyaan Vijnyaanaa.",
+      "Kyon Taanke Rang Na Raate || 3 ||"
     ],
     [
-      "Kyon Taanke Rang N Raate.3 ||.",
-      "Kahe Teun Nishchay Maano, Sab Daati Hari Ki Jaano."
-    ],
-    [
-      "Kyon Surti N Taahin Samaate || 4. ||."
+      "Kahe Teun Nishchay Maano, Sab Daati Hari Ki Jaano.",
+      "Kyon Surti Na Taahin Samaate || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 17 || 79 ||",
-    "Bande Hari Gun Kyon Nahin Gaate",
-    "बनदे हरि गुन कयोन नहिन गाते"
+    "बन्दे हरि गुण क्यों नहिं गाते,",
+    "Bande Hari Gun Kyon Nahin Gaate,",
+    "राग आसा भजन 17",
+    "Raag Aasaa Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 79,
+  "displayOrder": 17,
+  "overallOrder": 79,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 65",
+  "updatedAt": "2026-10-26"
 }

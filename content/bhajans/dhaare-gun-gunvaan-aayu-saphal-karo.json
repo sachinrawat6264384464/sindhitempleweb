@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0763",
+  "id": "bhajan-0761",
   "slug": "dhaare-gun-gunvaan-aayu-saphal-karo",
   "categoryId": "raag-pilaa",
-  "title": "धारे गुन गुनवान, ायु सफल करो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "धारे गुण गुणवान, आयू सफल करो",
   "romanTitle": "Dhaare Gun Gunvaan, Aayu Saphal Karo",
   "firstLine": "Dhaare Gun Gunvaan, Aayu Saphal Karo (Tek).",
+  "heading": "।। राग पीला भजन ।। ४१ ।। ७६३।॥।",
+  "tek": [
+    "धारे गुण गुणवान, आयू सफल करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dhaare Gun Gunvaan, Aayu Saphal Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जप तप कर तीर्थ स्नाना, दीन जनों को देके दाना,",
+        "सेव करे निर्मान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jap Tap Kar Tirth Snaanaa, Din Janon Ko Deke Daanaa,",
+        "Sev Kare Nirmaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "श्रद्धा से नित सत्संग करके, सन्त वचन को हृदय धरके,",
+        "पाए आतम ज्ञान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Nit Satsang Karke, Sant Vachan Ko Hriday Dharke,",
+        "Paae Aatam Gyaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि चरनों में चीत लगाओ, जन्म जन्म के पाप मिटाओ,",
+        "सुमरे श्री भगवान ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Hari Charnon Men Chit Lagaao, Janm Janm Ke Paap Mitaao,",
+        "Sumre Shri Bhagvaan || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शब्द उचारे, मन के फुरने सर्व निवारे,",
+        "पाए सूख महान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Shabd Uchaare, Man Ke Phurne Sarv Nivaare,",
+        "Paae Sukh Mahaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्त्ठ"
+      ],
+      "romanLines": [
+        "Dtth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धारे गुन गुनवान, ायु सफल करो (टेक)."
+      "जप तप कर तीर्थ स्नाना, दीन जनों को देके दाना,",
+      "सेव करे निर्मान ॥१ ॥"
     ],
     [
-      "जप तप कर तिरथ सनाना, दीन जनोन को देके दाना,",
-      "सेव करे निरमान || 1 ||."
+      "श्रद्धा से नित सत्संग करके, सन्त वचन को हृदय धरके,",
+      "पाए आतम ज्ञान ॥२ ॥"
     ],
     [
-      "शरदधा से नित सत्संग करके, संत वचन को हरिदय धरके,",
-      "पाे ातम ज्ञान. ||.2 ||"
+      "हरि चरनों में चीत लगाओ, जन्म जन्म के पाप मिटाओ,",
+      "सुमरे श्री भगवान ॥ ।३े ॥"
     ],
     [
-      "हरि चरनोन मेन चित लगाो, जनम जनम के पाप मिताो,",
-      "सुमरे श्री भगवान ||.3े ||"
+      "कहे टेऊँ गुरु शब्द उचारे, मन के फुरने सर्व निवारे,",
+      "पाए सूख महान ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु शबद ुचारे, मन के फुरने सर्व निवारे,",
-      "पाे सुख महान || 4. ||."
-    ],
-    [
-      "दतथ"
+      "द्त्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Dhaare Gun Gunvaan, Aayu Saphal Karo (Tek)."
-    ],
-    [
       "Jap Tap Kar Tirth Snaanaa, Din Janon Ko Deke Daanaa,",
-      "Sev Kare Nirmaan || 1 ||."
+      "Sev Kare Nirmaan || 1 ||"
     ],
     [
       "Shraddhaa Se Nit Satsang Karke, Sant Vachan Ko Hriday Dharke,",
-      "Paae Aatam Jnyaan. ||.2 ||"
+      "Paae Aatam Gyaan || 2 ||"
     ],
     [
       "Hari Charnon Men Chit Lagaao, Janm Janm Ke Paap Mitaao,",
-      "Sumre Shri Bhagvaan ||.3E ||"
+      "Sumre Shri Bhagvaan || 3E ||"
     ],
     [
       "Kahe Teun Guru Shabd Uchaare, Man Ke Phurne Sarv Nivaare,",
-      "Paae Sukh Mahaan || 4. ||."
+      "Paae Sukh Mahaan || 4 ||"
     ],
     [
       "Dtth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 41 || 763. ||.",
+    "धारे गुण गुणवान, आयू सफल करो",
     "Dhaare Gun Gunvaan, Aayu Saphal Karo",
-    "धारे गुन गुनवान, ायु सफल करो"
+    "राग पीला भजन 40",
+    "Raag Pilaa Bhajan 40"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 763,
+  "displayOrder": 40,
+  "overallOrder": 761,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 403",
+  "updatedAt": "2026-10-26"
 }

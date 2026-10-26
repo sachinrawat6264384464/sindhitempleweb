@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0549",
+  "id": "bhajan-0547",
   "slug": "levo-satguru-ki-tum-ot-pritam-pyaariyaan-re",
   "categoryId": "raag-sorath",
-  "title": "लेवो सतगुरु कि तुम ोत, परितम पयारियान रे",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "लेवो सत्‌गुरु की तुम ओट, प्रीतम प्यारियां रे",
   "romanTitle": "Levo Sat‌Guru Ki Tum Ot, Pritam Pyaariyaan Re",
   "firstLine": "Levo Sat‌Guru Ki Tum Ot, Pritam Pyaariyaan Re (Tek).",
+  "heading": "।। राग सोरठ भजन ॥।। १७ ।। ५४८।।",
+  "tek": [
+    "लेवो सत्‌गुरु की तुम ओट, प्रीतम प्यारियां रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Levo Sat‌Guru Ki Tum Ot, Pritam Pyaariyaan Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु बिन ज्ञान कभी नहीं होता, गुरु बिन जन्म जन्म नर रोता ।",
+        "घोर नर्क में जात, जहाँ अन्धारियां रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Gyaan Kabhi Nahin Hotaa, Guru Bin Janm Janm Nar Rotaa.",
+        "Ghor Nark Men Jaat, Jahaan Andhaariyaan Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु बिन प्रेम नेम नहिं पावे, गुरु बिन योग युक्ति नहिं आवे ।",
+        "गुरु बिन दुख बहु पात, मूण्ढ गँँवारियां रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Prem Nem Nahin Paave, Guru Bin Yog Yukti Nahin Aave.",
+        "Guru Bin Dukh Bahu Paat, Mundh Gannvaariyaan Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु बिन कर्म धर्म नहिं सूझे, गुरु बिन भाव भक्ति नहिं बूझे ।",
+        "गुरु बिन गम ना पाय, रहत अनारियां रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Karm Dharm Nahin Sujhe, Guru Bin Bhaav Bhakti Nahin Bujhe.",
+        "Guru Bin Gam Naa Paay, Rahat Anaariyaan Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरु बिन को भव सिन्धु न तरता, कहे टेऊँ नित जमता मरता ।",
+        "गुरु बिन होय न जीत, बाजी हारियां रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Ko Bhav Sindhu Na Tartaa, Kahe Teun Nit Jamtaa Martaa.",
+        "Guru Bin Hoy Na Jit, Baaji Haariyaan Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लेवो सतगुरु कि तुम ोत, परितम पयारियान रे (टेक)."
+      "गुरु बिन ज्ञान कभी नहीं होता, गुरु बिन जन्म जन्म नर रोता ।",
+      "घोर नर्क में जात, जहाँ अन्धारियां रे ॥१ ॥"
     ],
     [
-      "गुरु बिन ज्ञान कभि नहिन होता, गुरु बिन जनम जनम नर रोता.",
-      "घोर नरक मेन जात, जहान नधारियान रे.1 ||."
+      "गुरु बिन प्रेम नेम नहिं पावे, गुरु बिन योग युक्ति नहिं आवे ।",
+      "गुरु बिन दुख बहु पात, मूण्ढ गँँवारियां रे ॥२ ॥"
     ],
     [
-      "गुरु बिन प्रेम नेम नहिन पावे, गुरु बिन योग युकति नहिन ावे.",
-      "गुरु बिन दुःख बहु पात, मुनध गननवारियान रे || 2 ||"
+      "गुरु बिन कर्म धर्म नहिं सूझे, गुरु बिन भाव भक्ति नहिं बूझे ।",
+      "गुरु बिन गम ना पाय, रहत अनारियां रे ॥३ ॥"
     ],
     [
-      "गुरु बिन करम धरम नहिन सुझे, गुरु बिन भाव भक्ति नहिन बुझे.",
-      "गुरु बिन गम ना पाय, रहत नारियान रे || 3 ||."
-    ],
-    [
-      "गुरु बिन को भव सिनधु न तरता, कहे तेऊँ नित जमता मरता.",
-      "गुरु बिन होय न जित, बाजि हारियान रे || 4 ||."
+      "गुरु बिन को भव सिन्धु न तरता, कहे टेऊँ नित जमता मरता ।",
+      "गुरु बिन होय न जीत, बाजी हारियां रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Levo Sat‌Guru Ki Tum Ot, Pritam Pyaariyaan Re (Tek)."
-    ],
-    [
-      "Guru Bin Jnyaan Kabhi Nahin Hotaa, Guru Bin Janm Janm Nar Rotaa.",
-      "Ghor Nark Men Jaat, Jahaan Andhaariyaan Re.1 ||."
+      "Guru Bin Gyaan Kabhi Nahin Hotaa, Guru Bin Janm Janm Nar Rotaa.",
+      "Ghor Nark Men Jaat, Jahaan Andhaariyaan Re || 1 ||"
     ],
     [
       "Guru Bin Prem Nem Nahin Paave, Guru Bin Yog Yukti Nahin Aave.",
@@ -40,27 +89,28 @@
     ],
     [
       "Guru Bin Karm Dharm Nahin Sujhe, Guru Bin Bhaav Bhakti Nahin Bujhe.",
-      "Guru Bin Gam Naa Paay, Rahat Anaariyaan Re || 3 ||."
+      "Guru Bin Gam Naa Paay, Rahat Anaariyaan Re || 3 ||"
     ],
     [
-      "Guru Bin Ko Bhav Sindhu N Tartaa, Kahe Teun Nit Jamtaa Martaa.",
-      "Guru Bin Hoy N Jit, Baaji Haariyaan Re || 4 ||."
+      "Guru Bin Ko Bhav Sindhu Na Tartaa, Kahe Teun Nit Jamtaa Martaa.",
+      "Guru Bin Hoy Na Jit, Baaji Haariyaan Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || || 17 || 548 ||",
+    "लेवो सत्‌गुरु की तुम ओट, प्रीतम प्यारियां रे",
     "Levo Sat‌Guru Ki Tum Ot, Pritam Pyaariyaan Re",
-    "लेवो सतगुरु कि तुम ोत, परितम पयारियान रे"
+    "राग सोरठ भजन 17",
+    "Raag Sorath Bhajan 17"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "sorath",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
     "bhajan"
   ],
-  "displayOrder": 549,
+  "displayOrder": 17,
+  "overallOrder": 547,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 299",
+  "updatedAt": "2026-10-26"
 }

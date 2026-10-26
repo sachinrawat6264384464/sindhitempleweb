@@ -1,45 +1,103 @@
 {
-  "id": "bhajan-0868",
+  "id": "bhajan-0866",
   "slug": "ek-taraph-panthi-ho-jaau-idhar-udhar-naa-man-bhramaao",
   "categoryId": "raag-jog",
-  "title": "ेक तरफ पनथि हो जाु, िधर ुधर ना मन भरमाो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "एक तरफ पन्थी हो जाउ, इधर उधर ना मन भ्रमाओ",
   "romanTitle": "Ek Taraph Panthi Ho Jaau, Idhar Udhar Naa Man Bhramaao",
   "firstLine": "Ek Taraph Panthi Ho Jaau, Idhar Udhar Naa Man Bhramaao (Tek).",
+  "heading": "।। राग जोग भजन ।। ३८ ।। ८६८।।",
+  "tek": [
+    "एक तरफ पन्थी हो जाउ, इधर उधर ना मन भ्रमाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ek Taraph Panthi Ho Jaau, Idhar Udhar Naa Man Bhramaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राह बीच जो खड़े रहोगे, ठोकर लगते दूख सहोगे ।",
+        "वृूथा ठोकर ना तुम खाउ,यह शिक्षा मन माहिं हण्डाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raah Bich Jo Khare Rahoge, Thokar Lagte Dukh Sahoge.",
+        "Vriuthaa Thokar Naa Tum Khaau,Yah Shikshaa Man Maahin Handaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सरिता के हैं उभय किनारे, एक तीर पर चलिये प्यारे ।",
+        "बीच धार है अति दुखदाउ, तामें पड़कर ना दुख पाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saritaa Ke Hain Ubhay Kinaare, Ek Tir Par Chaliye Pyaare.",
+        "Bich Dhaar Hai Ati Dukhdaau, Taamen Parkar Naa Dukh Paao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दो किश्ती पर जो पग धरता, निश्चय जानो सो डुब मरता ।",
+        "इक किश्ती पर धरके पांउ, जल्द पार हो जान बचाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Do Kishti Par Jo Pag Dhartaa, Nishchay Jaano So Dub Martaa.",
+        "Ik Kishti Par Dharke Paanu, Jald Paar Ho Jaan Bachaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "दो नारी का कन्त दुखारी, दो गज बीच पड़े दुख भारी ।",
+        "कहे टेऊँ मन धर इक भाउ,विषय भोग तज जोग कमाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Do Naari Kaa Kant Dukhaari, Do Gaj Bich Pare Dukh Bhaari.",
+        "Kahe Teun Man Dhar Ik Bhaau,Vishay Bhog Taj Jog Kamaao || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््दठ"
+      ],
+      "romanLines": [
+        "Gdath"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ेक तरफ पनथि हो जाु, िधर ुधर ना मन भरमाो (टेक)."
+      "राह बीच जो खड़े रहोगे, ठोकर लगते दूख सहोगे ।",
+      "वृूथा ठोकर ना तुम खाउ,यह शिक्षा मन माहिं हण्डाओ ॥१ ॥"
     ],
     [
-      "राह बिच जो खरे रहोगे, थोकर लगते दुःख सहोगे.",
-      "वरिुथा थोकर ना तुम खाुयह शिकशा मन माहिन हनदाो || 1 ||"
+      "सरिता के हैं उभय किनारे, एक तीर पर चलिये प्यारे ।",
+      "बीच धार है अति दुखदाउ, तामें पड़कर ना दुख पाओ ॥२ ॥"
     ],
     [
-      "सरिता के हैन ुभय किनारे, ेक तिर पर चलिये पयारे.",
-      "बिच धार है ति दुखदाु, तामेन परकर ना दुःख पाो || 2 ||."
+      "दो किश्ती पर जो पग धरता, निश्चय जानो सो डुब मरता ।",
+      "इक किश्ती पर धरके पांउ, जल्द पार हो जान बचाओ ॥३ ॥"
     ],
     [
-      "दो किशति पर जो पग धरता, निशचय जानो सो दुब मरता.",
-      "िक किशति पर धरके पानु, जलद पार हो जान बचाो || 3 ||"
+      "दो नारी का कन्त दुखारी, दो गज बीच पड़े दुख भारी ।",
+      "कहे टेऊँ मन धर इक भाउ,विषय भोग तज जोग कमाओ ॥४ ॥"
     ],
     [
-      "दो नारि का कनत दुखारि, दो गज बिच परे दुःख भारि.",
-      "कहे तेऊँ मन धर िक भाुविशय भोग तज जोग कमाो || 4 ||"
-    ],
-    [
-      "गदथ"
+      "ग््दठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Ek Taraph Panthi Ho Jaau, Idhar Udhar Naa Man Bhramaao (Tek)."
-    ],
     [
       "Raah Bich Jo Khare Rahoge, Thokar Lagte Dukh Sahoge.",
       "Vriuthaa Thokar Naa Tum Khaau,Yah Shikshaa Man Maahin Handaao || 1 ||"
     ],
     [
       "Saritaa Ke Hain Ubhay Kinaare, Ek Tir Par Chaliye Pyaare.",
-      "Bich Dhaar Hai Ati Dukhdaau, Taamen Parkar Naa Dukh Paao || 2 ||."
+      "Bich Dhaar Hai Ati Dukhdaau, Taamen Parkar Naa Dukh Paao || 2 ||"
     ],
     [
       "Do Kishti Par Jo Pag Dhartaa, Nishchay Jaano So Dub Martaa.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 38 || 868 ||",
+    "एक तरफ पन्थी हो जाउ, इधर उधर ना मन भ्रमाओ",
     "Ek Taraph Panthi Ho Jaau, Idhar Udhar Naa Man Bhramaao",
-    "ेक तरफ पनथि हो जाु, िधर ुधर ना मन भरमाो"
+    "राग जोग भजन 38",
+    "Raag Jog Bhajan 38"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 868,
+  "displayOrder": 38,
+  "overallOrder": 866,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 457",
+  "updatedAt": "2026-10-26"
 }

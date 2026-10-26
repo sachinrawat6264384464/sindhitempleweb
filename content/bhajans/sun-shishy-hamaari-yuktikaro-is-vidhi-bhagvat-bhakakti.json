@@ -2,64 +2,115 @@
   "id": "bhajan-0084",
   "slug": "sun-shishy-hamaari-yuktikaro-is-vidhi-bhagvat-bhakakti",
   "categoryId": "raag-aasaa",
-  "title": "सुन शिशय हमारि युकतिकरो िस विधि भगवत भककति",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सुन शिष्य हमारी युक्ती ,करो इस विधि भगवत भकक्‍्ती",
   "romanTitle": "Sun Shishy Hamaari Yukti,Karo Is Vidhi Bhagvat Bhakak‍Ti",
   "firstLine": "Sun Shishy Hamaari Yukti,Karo Is Vidhi Bhagvat Bhakak‍Ti (Tek).",
+  "heading": "।। राग आसा भजन ।। २२ ।। ८४।॥",
+  "tek": [
+    "सुन शिष्य हमारी युक्ती ,करो इस विधि भगवत भकक्‍्ती ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sun Shishy Hamaari Yukti,Karo Is Vidhi Bhagvat Bhakak‍Ti (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्‌ कर्मों का साबुन लाओ, पाप कर्म की मैल मिटाओ ।",
+        "ऊजल अन्त:करण बनाओ, गुरु पद लाओ नृती ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sat‌ Karmon Kaa Saabun Laao, Paap Karm Ki Mail Mitaao.",
+        "Ujal Antahkaran Banaao, Guru Pad Laao Nriti || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "थिर कर बैठो आसन मारे, धारणा ध्यान समाधी धारे ।",
+        "मन का क्षेप विक्षेप निवारे, शब्द में लाओ श्रुती ॥२ ॥"
+      ],
+      "romanLines": [
+        "Thir Kar Baitho Aasan Maare, Dhaarnaa Dhyaan Samaadhi Dhaare.",
+        "Man Kaa Kshep Vikshep Nivaare, Shabd Men Laao Shruti || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज्ञान डण्डे का मारे सटका, तोड़ो भेद भ्रम का मटका ।",
+        "मिट जावे सब जम का खटका, लाओ आतम वृती ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Dande Kaa Maare Satkaa, Toro Bhed Bhram Kaa Matkaa.",
+        "Mit Jaave Sab Jam Kaa Khatkaa, Laao Aatam Vriti || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो जन करते यह अभ्यासा, अमरापुर सो पावत वासा ।",
+        "कहे टेऊँ कर सब दुःख नासा, पावो जीवन मुकती ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jo Jan Karte Yah Abhyaasaa, Amarapur So Paavat Vaasaa.",
+        "Kahe Teun Kar Sab Duhkh Naasaa, Paavo Jivan Mukti || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुन शिशय हमारि युकतिकरो िस विधि भगवत भककति (टेक)."
+      "सत्‌ कर्मों का साबुन लाओ, पाप कर्म की मैल मिटाओ ।",
+      "ऊजल अन्त:करण बनाओ, गुरु पद लाओ नृती ॥१ ॥"
     ],
     [
-      "सत‌ करमोन का साबुन लाो, पाप करम कि मैल मिताो.",
-      "ुजल नतकरन बनाो, गुरु पद लाो नरिति || 1 ||."
+      "थिर कर बैठो आसन मारे, धारणा ध्यान समाधी धारे ।",
+      "मन का क्षेप विक्षेप निवारे, शब्द में लाओ श्रुती ॥२ ॥"
     ],
     [
-      "थिर कर बैथो ासन मारे, धारना ध्यान समाधि धारे.",
-      "मन का कशेप विकशेप निवारे, शबद मेन लाो शरुति.2 ||."
+      "ज्ञान डण्डे का मारे सटका, तोड़ो भेद भ्रम का मटका ।",
+      "मिट जावे सब जम का खटका, लाओ आतम वृती ॥३ ॥"
     ],
     [
-      "ज्ञान दनदे का मारे सतका, तोरो भेद भरम का मतका.",
-      "मित जावे सब जम का खतका, लाो ातम वरिति || 3. ||."
-    ],
-    [
-      "जो जन करते यह भयासा, अमरापुर सो पावत वासा.",
-      "कहे तेऊँ कर सब दुःख नासा, पावो जिवन मुक्ति || 4. ||."
+      "जो जन करते यह अभ्यासा, अमरापुर सो पावत वासा ।",
+      "कहे टेऊँ कर सब दुःख नासा, पावो जीवन मुकती ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sun Shishy Hamaari Yukti,Karo Is Vidhi Bhagvat Bhakak‍Ti (Tek)."
-    ],
-    [
       "Sat‌ Karmon Kaa Saabun Laao, Paap Karm Ki Mail Mitaao.",
-      "Ujal Ant:Karan Banaao, Guru Pad Laao Nriti || 1 ||."
+      "Ujal Antahkaran Banaao, Guru Pad Laao Nriti || 1 ||"
     ],
     [
       "Thir Kar Baitho Aasan Maare, Dhaarnaa Dhyaan Samaadhi Dhaare.",
-      "Man Kaa Kshep Vikshep Nivaare, Shabd Men Laao Shruti.2 ||."
+      "Man Kaa Kshep Vikshep Nivaare, Shabd Men Laao Shruti || 2 ||"
     ],
     [
-      "Jnyaan Dande Kaa Maare Satkaa, Toro Bhed Bhram Kaa Matkaa.",
-      "Mit Jaave Sab Jam Kaa Khatkaa, Laao Aatam Vriti || 3. ||."
+      "Gyaan Dande Kaa Maare Satkaa, Toro Bhed Bhram Kaa Matkaa.",
+      "Mit Jaave Sab Jam Kaa Khatkaa, Laao Aatam Vriti || 3 ||"
     ],
     [
       "Jo Jan Karte Yah Abhyaasaa, Amarapur So Paavat Vaasaa.",
-      "Kahe Teun Kar Sab Duhkh Naasaa, Paavo Jivan Mukti || 4. ||."
+      "Kahe Teun Kar Sab Duhkh Naasaa, Paavo Jivan Mukti || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 22 || 84. ||",
+    "सुन शिष्य हमारी युक्ती ,करो इस विधि भगवत भकक्‍्ती",
     "Sun Shishy Hamaari Yukti,Karo Is Vidhi Bhagvat Bhakak‍Ti",
-    "सुन शिशय हमारि युकतिकरो िस विधि भगवत भककति"
+    "राग आसा भजन 22",
+    "Raag Aasaa Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 84,
+  "displayOrder": 22,
+  "overallOrder": 84,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 68",
+  "updatedAt": "2026-10-26"
 }

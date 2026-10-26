@@ -1,73 +1,118 @@
 {
-  "id": "bhajan-0654",
+  "id": "bhajan-0652",
   "slug": "tumho-chetan-jaannahaaraa",
   "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
   "title": "तुमहो चेतन जाननहारा",
   "romanTitle": "Tumho Chetan Jaannahaaraa",
-  "firstLine": "Tumho Chetan Jaannahaaraa. Yah Tan Jar To Jaan Sake Nahin, Aap Isise Nyaaraa (Tek).",
+  "firstLine": "Tumho Chetan Jaannahaaraa.",
+  "heading": "।। राग पहाड़ी भजन ।। ५ ।। ६५३।।",
+  "tek": [
+    "तुमहो चेतन जाननहारा ।",
+    "यह तन जड़ तो जान सके नहिं, आप इसीसे न्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tumho Chetan Jaannahaaraa.",
+    "Yah Tan Jar To Jaan Sake Nahin, Aap Isise Nyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांच तत्त्व का यह तन पुतला, मिथ्या मलिन असारा ।",
+        "इस तन का है दृष्टा जोई, सोई तुमहो प्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tattv Kaa Yah Tan Putlaa, Mithyaa Malin Asaaraa.",
+        "Is Tan Kaa Hai Drishtaa Joi, Soi Tumho Pyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जाग्रत स्वप्न सुषोपति का तुम, साक्षी है निर्धारा ।",
+        "तीन अवस्था पल पल पलटे, तूं नहिं पलटन हारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapn Sushopti Kaa Tum, Saakshi Hai Nirdhaaraa.",
+        "Tin Avasthaa Pal Pal Palte, Tu Nahin Paltan Haaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन को अपना रूप लखे जो, सो चण्डाल चमारा ।",
+        "ब्रह्म रूप जो निज को जाने, सो है पुरुष उदारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Ko Apnaa Rup Lakhe Jo, So Chandaal Chamaaraa.",
+        "Brahm Rup Jo Nij Ko Jaane, So Hai Purush Udaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "वेद कहत है सन्त कहत है, पुनि गुरुदेव पुकारा ।",
+        "कहे टेऊँ तूं सत्‌ चित आनन्द, सब जग का आधारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ved Kahat Hai Sant Kahat Hai, Puni Gurudev Pukaaraa.",
+        "Kahe Teun Tu Sat‌ Chit Aanand, Sab Jag Kaa Aadhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुमहो चेतन जाननहारा.",
-      "यह तन जर तो जान सके नहिन, ाप िसिसे नयारा (टेक)."
+      "पांच तत्त्व का यह तन पुतला, मिथ्या मलिन असारा ।",
+      "इस तन का है दृष्टा जोई, सोई तुमहो प्यारा ॥१ ॥"
     ],
     [
-      "पानच तततव का यह तन पुतला, मिथया मलिन सारा.",
-      "िस तन का है दरिशता जोि, सोि तुमहो पयारा.1 ||."
+      "जाग्रत स्वप्न सुषोपति का तुम, साक्षी है निर्धारा ।",
+      "तीन अवस्था पल पल पलटे, तूं नहिं पलटन हारा ॥२ ॥"
     ],
     [
-      "जागरत सवपन सुशोपति का तुम, साक्षी है निरधारा.",
-      "तिन वसथा पल पल पलते, तु नहिन पलतन हारा || 2 ||."
+      "तन को अपना रूप लखे जो, सो चण्डाल चमारा ।",
+      "ब्रह्म रूप जो निज को जाने, सो है पुरुष उदारा ॥३ ॥"
     ],
     [
-      "तन को पना रुप लखे जो, सो चनदाल चमारा.",
-      "बरहम रुप जो निज को जाने, सो है पुरुश ुदारा ||.3 ||."
-    ],
-    [
-      "वेद कहत है संत कहत है, पुनि गुरुदेव पुकारा.",
-      "कहे तेऊँ तु सत‌ चित आनंद, सब जग का ाधारा || 4. ||."
-    ],
-    [
-      "तर"
+      "वेद कहत है सन्त कहत है, पुनि गुरुदेव पुकारा ।",
+      "कहे टेऊँ तूं सत्‌ चित आनन्द, सब जग का आधारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tumho Chetan Jaannahaaraa.",
-      "Yah Tan Jar To Jaan Sake Nahin, Aap Isise Nyaaraa (Tek)."
-    ],
-    [
       "Paanch Tattv Kaa Yah Tan Putlaa, Mithyaa Malin Asaaraa.",
-      "Is Tan Kaa Hai Drishtaa Joi, Soi Tumho Pyaaraa.1 ||."
+      "Is Tan Kaa Hai Drishtaa Joi, Soi Tumho Pyaaraa || 1 ||"
     ],
     [
       "Jaagrat Svapn Sushopti Kaa Tum, Saakshi Hai Nirdhaaraa.",
-      "Tin Avasthaa Pal Pal Palte, Tu Nahin Paltan Haaraa || 2 ||."
+      "Tin Avasthaa Pal Pal Palte, Tu Nahin Paltan Haaraa || 2 ||"
     ],
     [
       "Tan Ko Apnaa Rup Lakhe Jo, So Chandaal Chamaaraa.",
-      "Brahm Rup Jo Nij Ko Jaane, So Hai Purush Udaaraa ||.3 ||."
+      "Brahm Rup Jo Nij Ko Jaane, So Hai Purush Udaaraa || 3 ||"
     ],
     [
       "Ved Kahat Hai Sant Kahat Hai, Puni Gurudev Pukaaraa.",
-      "Kahe Teun Tu Sat‌ Chit Aanand, Sab Jag Kaa Aadhaaraa || 4. ||."
-    ],
-    [
-      "Tar"
+      "Kahe Teun Tu Sat‌ Chit Aanand, Sab Jag Kaa Aadhaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 5 || 653 ||",
+    "तुमहो चेतन जाननहारा",
     "Tumho Chetan Jaannahaaraa",
-    "तुमहो चेतन जाननहारा"
+    "राग पहाड़ी भजन 5",
+    "Raag Pahaari Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 654,
+  "displayOrder": 5,
+  "overallOrder": 652,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 348",
+  "updatedAt": "2026-10-26"
 }

@@ -1,34 +1,72 @@
 {
-  "id": "bhajan-0783",
+  "id": "bhajan-0781",
   "slug": "man-meraa-jo-mukti-chaaho-paao-aatam-jnyaanaa-re",
   "categoryId": "raag-pilaa",
-  "title": "मन मेरा जो मुक्ति चाहो, पाो ातम जनयाना रे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मन मेरा जो मुक्ती चाहो, पाओ आतम ज्ञाना रे",
   "romanTitle": "Man Meraa Jo Mukti Chaaho, Paao Aatam Jnyaanaa Re",
   "firstLine": "Man Meraa Jo Mukti Chaaho, Paao Aatam Jnyaanaa Re (Tek).",
+  "heading": "।। राग पीला भजन ।। ६१ ।। ७८३॥।",
+  "tek": [
+    "मन मेरा जो मुक्ती चाहो, पाओ आतम ज्ञाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Meraa Jo Mukti Chaaho, Paao Aatam Jnyaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्ञान बिना नहिं मुक्ती होवे, वेद करत वख्याना रे ।",
+        "गुरु बिन ज्ञान कभी ना होवे, पढ़कर देख पुराना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Binaa Nahin Mukti Hove, Ved Karat Vakhyaanaa Re.",
+        "Guru Bin Gyaan Kabhi Naa Hove, Parhkar Dekh Puraanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन से गुरु की सेवा कीजे, मन से ध्यान लगाना रे ।",
+        "वाणी से कर गुरु की महिमा, धन की भेट चढ़ाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Se Guru Ki Sevaa Kije, Man Se Dhyaan Lagaanaa Re.",
+        "Vaani Se Kar Guru Ki Mahimaa, Dhan Ki Bhet Charhaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु शरणी पड़कर, अपना काज बनाना रे ।",
+        "पूरन सत्‌गुरु की कृपा से, पाओ पद निर्बाना रे ॥डे ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharni Parkar, Apnaa Kaaj Banaanaa Re.",
+        "Puran Sat‌Guru Ki Kripaa Se, Paao Pad Nirbaanaa Re || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन मेरा जो मुक्ति चाहो, पाो ातम जनयाना रे (टेक)."
+      "ज्ञान बिना नहिं मुक्ती होवे, वेद करत वख्याना रे ।",
+      "गुरु बिन ज्ञान कभी ना होवे, पढ़कर देख पुराना रे ॥१ ॥"
     ],
     [
-      "ज्ञान बिना नहिन मुक्ति होवे, वेद करत वखयाना रे.",
-      "गुरु बिन ज्ञान कभि ना होवे, परहकर देख पुराना रे || 1 ||"
+      "तन से गुरु की सेवा कीजे, मन से ध्यान लगाना रे ।",
+      "वाणी से कर गुरु की महिमा, धन की भेट चढ़ाना रे ॥२ ॥"
     ],
     [
-      "तन से गुरु कि सेवा किजे, मन से ध्यान लगाना रे.",
-      "वाणी से कर गुरु कि महिमा, धन कि भेत चरहाना रे || 2 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु शरनि परकर, पना काज बनाना रे.",
-      "पुरन सतगुरु कि कृपा से, पाो पद निरबाना रे || दे ||"
+      "कहे टेऊँ गुरु शरणी पड़कर, अपना काज बनाना रे ।",
+      "पूरन सत्‌गुरु की कृपा से, पाओ पद निर्बाना रे ॥डे ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Meraa Jo Mukti Chaaho, Paao Aatam Jnyaanaa Re (Tek)."
-    ],
-    [
-      "Jnyaan Binaa Nahin Mukti Hove, Ved Karat Vakhyaanaa Re.",
-      "Guru Bin Jnyaan Kabhi Naa Hove, Parhkar Dekh Puraanaa Re || 1 ||"
+      "Gyaan Binaa Nahin Mukti Hove, Ved Karat Vakhyaanaa Re.",
+      "Guru Bin Gyaan Kabhi Naa Hove, Parhkar Dekh Puraanaa Re || 1 ||"
     ],
     [
       "Tan Se Guru Ki Sevaa Kije, Man Se Dhyaan Lagaanaa Re.",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 61 || 783 ||.",
+    "मन मेरा जो मुक्ती चाहो, पाओ आतम ज्ञाना रे",
     "Man Meraa Jo Mukti Chaaho, Paao Aatam Jnyaanaa Re",
-    "मन मेरा जो मुक्ति चाहो, पाो ातम जनयाना रे"
+    "राग पीला भजन 60",
+    "Raag Pilaa Bhajan 60"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 783,
+  "displayOrder": 60,
+  "overallOrder": 781,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 413",
+  "updatedAt": "2026-10-26"
 }

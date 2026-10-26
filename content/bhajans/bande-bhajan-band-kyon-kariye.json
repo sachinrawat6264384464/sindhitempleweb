@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0574",
+  "id": "bhajan-0572",
   "slug": "bande-bhajan-band-kyon-kariye",
   "categoryId": "raag-maaru",
-  "title": "बनदे भजन बनद कयोन करिये",
+  "categoryName": "राग मारू",
+  "romanCategoryName": "Raag Maaru",
+  "title": "बन्दे भजन बन्द क्यों करिये",
   "romanTitle": "Bande Bhajan Band Kyon Kariye",
   "firstLine": "Bande Bhajan Band Kyon Kariye (Tek).",
+  "heading": "।। राग मारू भजन ।। २ ।। ५७३।॥।",
+  "tek": [
+    "बन्दे भजन बन्द क्यों करिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bande Bhajan Band Kyon Kariye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बन्द किया हरणाकश राजा राम प्रहलाद सुमरिये ।",
+        "लाज प्रहलाद की नरसिंह राखी हरणाकशिपु बिदरिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Band Kiyaa Harnaakash Raajaa Raam Prahlaad Sumriye.",
+        "Laaj Prahlaad Ki Narsinh Raakhi Harnaakshipu Bidriye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बैर राम से राखा रावण गर्व कुट्म्ब पर धरिये ।",
+        "तिस रावण घर दीप न बाती कूकां कर कर मरिये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bair Raam Se Raakhaa Raavan Garv Kutmb Par Dhariye.",
+        "Tis Raavan Ghar Dip Na Baati Kukaan Kar Kar Mariye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि से बेमुख कौरव कंसा पापों में जे पड़िये ।",
+        "पल में नष्ट होय गये सारे करिये का फल भरिये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Se Bemukh Kaurav Kansaa Paapon Men Je Pariye.",
+        "Pal Men Nasht Hoy Gaye Saare Kariye Kaa Phal Bhariye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आदि अन्त सत्‌नाम संगी है तांते ताहिं उच्चरिये ।",
+        "कहे टेऊँ चढ़ नाम की नौका भवसागर से तरिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aadi Ant Sat‌Naam Sangi Hai Taante Taahin Uchchariye.",
+        "Kahe Teun Charh Naam Ki Naukaa Bhavsaagar Se Tariye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदे भजन बनद कयोन करिये (टेक)."
+      "बन्द किया हरणाकश राजा राम प्रहलाद सुमरिये ।",
+      "लाज प्रहलाद की नरसिंह राखी हरणाकशिपु बिदरिये ॥१ ॥"
     ],
     [
-      "बनद किया हरनाकश राजा राम परहलाद सुमरिये.",
-      "लाज परहलाद कि नरसिनह राखि हरनाकशिपु बिदरिये || 1 ||."
+      "बैर राम से राखा रावण गर्व कुट्म्ब पर धरिये ।",
+      "तिस रावण घर दीप न बाती कूकां कर कर मरिये ॥२ ॥"
     ],
     [
-      "बैर राम से राखा रावन गरव कुतमब पर धरिये.",
-      "तिस रावन घर दिप न बाति कुकान कर कर मरिये || 2 ||"
+      "हरि से बेमुख कौरव कंसा पापों में जे पड़िये ।",
+      "पल में नष्ट होय गये सारे करिये का फल भरिये ॥३ ॥"
     ],
     [
-      "हरि से बेमुख कौरव कनसा पापोन मेन जे परिये.",
-      "पल मेन नशत होय गये सारे करिये का फल भरिये || 3 ||."
-    ],
-    [
-      "ादि नत सतनाम सनगि है तानते ताहिन ुचचरिये.",
-      "कहे तेऊँ चरह नाम कि नौका भवसागर से तरिये || 4 ||."
+      "आदि अन्त सत्‌नाम संगी है तांते ताहिं उच्चरिये ।",
+      "कहे टेऊँ चढ़ नाम की नौका भवसागर से तरिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bande Bhajan Band Kyon Kariye (Tek)."
-    ],
-    [
       "Band Kiyaa Harnaakash Raajaa Raam Prahlaad Sumriye.",
-      "Laaj Prahlaad Ki Narsinh Raakhi Harnaakshipu Bidriye || 1 ||."
+      "Laaj Prahlaad Ki Narsinh Raakhi Harnaakshipu Bidriye || 1 ||"
     ],
     [
       "Bair Raam Se Raakhaa Raavan Garv Kutmb Par Dhariye.",
-      "Tis Raavan Ghar Dip N Baati Kukaan Kar Kar Mariye || 2 ||"
+      "Tis Raavan Ghar Dip Na Baati Kukaan Kar Kar Mariye || 2 ||"
     ],
     [
       "Hari Se Bemukh Kaurav Kansaa Paapon Men Je Pariye.",
-      "Pal Men Nasht Hoy Gaye Saare Kariye Kaa Phal Bhariye || 3 ||."
+      "Pal Men Nasht Hoy Gaye Saare Kariye Kaa Phal Bhariye || 3 ||"
     ],
     [
       "Aadi Ant Sat‌Naam Sangi Hai Taante Taahin Uchchariye.",
-      "Kahe Teun Charh Naam Ki Naukaa Bhavsaagar Se Tariye || 4 ||."
+      "Kahe Teun Charh Naam Ki Naukaa Bhavsaagar Se Tariye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maaru Bhajan || 2 || 573. ||.",
+    "बन्दे भजन बन्द क्यों करिये",
     "Bande Bhajan Band Kyon Kariye",
-    "बनदे भजन बनद कयोन करिये"
+    "राग मारू भजन 2",
+    "Raag Maaru Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "maaru",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maaru",
+    "bhajan"
   ],
-  "displayOrder": 574,
+  "displayOrder": 2,
+  "overallOrder": 572,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 312",
+  "updatedAt": "2026-10-26"
 }

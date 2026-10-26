@@ -1,41 +1,99 @@
 {
   "id": "bhajan-0235",
   "slug": "karidguru-aayaa-shabd-sunaayaa-hriday-andar-dip-jalaayaa",
-  "categoryId": "raag-bhairav",
-  "title": "करिदगुरु ाया शबद सुनाया, हरिदय नदर, दिप जलाया",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "कऋदगुरु आया शब्द सुनाया, हृदय अन्दर, दीप जलाया",
   "romanTitle": "Karidguru Aayaa Shabd Sunaayaa, Hriday Andar, Dip Jalaayaa",
   "firstLine": "Karidguru Aayaa Shabd Sunaayaa, Hriday Andar, Dip Jalaayaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। २० ।। २३५।।",
+  "tek": [
+    "कऋदगुरु आया शब्द सुनाया, हृदय अन्दर, दीप जलाया ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Karidguru Aayaa Shabd Sunaayaa, Hriday Andar, Dip Jalaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरुदेव दीया, प्रेम जाम पीया,",
+        "अंग संग राम रंग, हरी गुण गाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gurudev Diyaa, Prem Jaam Piyaa,",
+        "Ang Sang Raam Rang, Hari Gun Gaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शब्द पढ़ाया, गुहज भेव पाया,",
+        "एक ही अनेक होय, रंग को रचाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shabd Parhaayaa, Guhaj Bhev Paayaa,",
+        "Ek Hi Anek Hoy, Rang Ko Rachaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आनन्द स्वरूपा, लखाया अनूपा,",
+        "पाप ताप दाप शाप, सकल रोग जाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aanand Svarupaa, Lakhaayaa Anupaa,",
+        "Paap Taap Daap Shaap, Sakal Rog Jaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु, कृपा कीनी,",
+        "भ्रम कर्म भेद छेद, सहज घर समाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru, Kripaa Kini,",
+        "Bhram Karm Bhed Chhed, Sahaj Ghar Samaayaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग्द्द्"
+      ],
+      "romanLines": [
+        "Gdd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करिदगुरु ाया शबद सुनाया, हरिदय नदर, दिप जलाया (टेक)."
+      "गुरुदेव दीया, प्रेम जाम पीया,",
+      "अंग संग राम रंग, हरी गुण गाया ॥१ ॥"
     ],
     [
-      "गुरुदेव दिया, प्रेम जाम पिया,",
-      "नग सनग राम रनग, हरि गुन गाया || 1 ||."
+      "शब्द पढ़ाया, गुहज भेव पाया,",
+      "एक ही अनेक होय, रंग को रचाया ॥२ ॥"
     ],
     [
-      "शबद परहाया, गुहज भेव पाया,",
-      "ेक हि नेक होय, रनग को रचाया || 2 ||"
+      "आनन्द स्वरूपा, लखाया अनूपा,",
+      "पाप ताप दाप शाप, सकल रोग जाया ॥३ ॥"
     ],
     [
-      "आनंद सवरुपा, लखाया नुपा,",
-      "पाप ताप दाप शाप, सकल रोग जाया || 3 ||."
+      "कहे टेऊँ गुरु, कृपा कीनी,",
+      "भ्रम कर्म भेद छेद, सहज घर समाया ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु, कृपा किनि,",
-      "भरम करम भेद चहेद, सहज घर समाया || 4 ||."
-    ],
-    [
-      "गदद"
+      "ग्द्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Karidguru Aayaa Shabd Sunaayaa, Hriday Andar, Dip Jalaayaa (Tek)."
-    ],
-    [
       "Gurudev Diyaa, Prem Jaam Piyaa,",
-      "Ang Sang Raam Rang, Hari Gun Gaayaa || 1 ||."
+      "Ang Sang Raam Rang, Hari Gun Gaayaa || 1 ||"
     ],
     [
       "Shabd Parhaayaa, Guhaj Bhev Paayaa,",
@@ -43,30 +101,31 @@
     ],
     [
       "Aanand Svarupaa, Lakhaayaa Anupaa,",
-      "Paap Taap Daap Shaap, Sakal Rog Jaayaa || 3 ||."
+      "Paap Taap Daap Shaap, Sakal Rog Jaayaa || 3 ||"
     ],
     [
       "Kahe Teun Guru, Kripaa Kini,",
-      "Bhram Karm Bhed Chhed, Sahaj Ghar Samaayaa || 4 ||."
+      "Bhram Karm Bhed Chhed, Sahaj Ghar Samaayaa || 4 ||"
     ],
     [
       "Gdd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 20 || 235 ||",
+    "कऋदगुरु आया शब्द सुनाया, हृदय अन्दर, दीप जलाया",
     "Karidguru Aayaa Shabd Sunaayaa, Hriday Andar, Dip Jalaayaa",
-    "करिदगुरु ाया शबद सुनाया, हरिदय नदर, दिप जलाया"
+    "राग भैरवी भजन 20",
+    "Raag Bhairvi Bhajan 20"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 235,
+  "displayOrder": 20,
+  "overallOrder": 235,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 146",
+  "updatedAt": "2026-10-26"
 }

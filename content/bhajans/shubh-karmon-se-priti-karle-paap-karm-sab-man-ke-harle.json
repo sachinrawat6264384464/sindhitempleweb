@@ -2,70 +2,108 @@
   "id": "bhajan-0101",
   "slug": "shubh-karmon-se-priti-karle-paap-karm-sab-man-ke-harle",
   "categoryId": "raag-aasaa",
-  "title": "शुभ करमोन से परिति करले, पाप करम सब मन के हरले",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "शुभ कर्मों से प्रीती करले , पाप कर्म सब मन के हरले",
   "romanTitle": "Shubh Karmon Se Priti Karle, Paap Karm Sab Man Ke Harle",
   "firstLine": "Shubh Karmon Se Priti Karle, Paap Karm Sab Man Ke Harle (Tek).",
+  "heading": "।। राग आसा भजन ।। ३९ ।। १०१।।",
+  "tek": [
+    "शुभ कर्मों से प्रीती करले , पाप कर्म सब मन के हरले ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Shubh Karmon Se Priti Karle, Paap Karm Sab Man Ke Harle (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शुभ कर्मों का फल सुखदाई, पाप कर्म का फल दुखदाई ।",
+        "जो तुम पूर्ण सुख को चाहो, पुण्य कर्म से चीत लगाओ ।",
+        "ध्यान धर्म का दिल में धरले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shubh Karmon Kaa Phal Sukhdaai, Paap Karm Kaa Phal Dukhdaai.",
+        "Jo Tum Purn Sukh Ko Chaaho, Puny Karm Se Chit Lagaao.",
+        "Dhyaan Dharm Kaa Dil Men Dharle || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पापी पाप प्यार से करता, करने से वह नाहीं डरता ।",
+        "जब उसके फल को पावत है, दुखी होय के पछतावत है ।",
+        "तांते पापों से तुम डरले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paapi Paap Pyaar Se Kartaa, Karne Se Vah Naahin Dartaa.",
+        "Jab Uske Phal Ko Paavat Hai, Dukhi Hoy Ke Pachhtaavat Hai.",
+        "Taante Paapon Se Tum Darle || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शुभ कर्मों से शुद्ध मन होवे, शुद्ध मन से हरि दर्शन होवे ।",
+        "हरि दर्शन बिन शान्ति न आवे, कहे टेऊँ यह सन्त बतावे ।",
+        "नेक कर्म कर भव से तरले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shubh Karmon Se Shuddh Man Hove, Shuddh Man Se Hari Darshan Hove.",
+        "Hari Darshan Bin Shaanti Na Aave, Kahe Teun Yah Sant Bataave.",
+        "Nek Karm Kar Bhav Se Tarle || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शुभ करमोन से परिति करले, पाप करम सब मन के हरले (टेक)."
+      "शुभ कर्मों का फल सुखदाई, पाप कर्म का फल दुखदाई ।",
+      "जो तुम पूर्ण सुख को चाहो, पुण्य कर्म से चीत लगाओ ।",
+      "ध्यान धर्म का दिल में धरले ॥१ ॥"
     ],
     [
-      "शुभ करमोन का फल सुखदाि, पाप करम का फल दुखदाि.",
-      "जो तुम पुरन सुख को चाहो, पुनय करम से चित लगाो."
+      "पापी पाप प्यार से करता, करने से वह नाहीं डरता ।",
+      "जब उसके फल को पावत है, दुखी होय के पछतावत है ।",
+      "तांते पापों से तुम डरले ॥२ ॥"
     ],
     [
-      "ध्यान धरम का दिल मेन धरले.1. ||.",
-      "पापि पाप पयार से करता, करने से वह नाहिन दरता."
-    ],
-    [
-      "जब ुसके फल को पावत है, दुखि होय के पचहतावत है.",
-      "तानते पापोन से तुम दरले || 2 ||."
-    ],
-    [
-      "शुभ करमोन से शुदध मन होवे, शुदध मन से हरि दरशन होवे.",
-      "हरि दरशन बिन शांति न ावे, कहे तेऊँ यह संत बतावे."
-    ],
-    [
-      "नेक करम कर भव से तरले ||.3 ||"
+      "शुभ कर्मों से शुद्ध मन होवे, शुद्ध मन से हरि दर्शन होवे ।",
+      "हरि दर्शन बिन शान्ति न आवे, कहे टेऊँ यह सन्त बतावे ।",
+      "नेक कर्म कर भव से तरले ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shubh Karmon Se Priti Karle, Paap Karm Sab Man Ke Harle (Tek)."
-    ],
-    [
       "Shubh Karmon Kaa Phal Sukhdaai, Paap Karm Kaa Phal Dukhdaai.",
-      "Jo Tum Purn Sukh Ko Chaaho, Puny Karm Se Chit Lagaao."
+      "Jo Tum Purn Sukh Ko Chaaho, Puny Karm Se Chit Lagaao.",
+      "Dhyaan Dharm Kaa Dil Men Dharle || 1 ||"
     ],
     [
-      "Dhyaan Dharm Kaa Dil Men Dharle.1. ||.",
-      "Paapi Paap Pyaar Se Kartaa, Karne Se Vah Naahin Dartaa."
-    ],
-    [
+      "Paapi Paap Pyaar Se Kartaa, Karne Se Vah Naahin Dartaa.",
       "Jab Uske Phal Ko Paavat Hai, Dukhi Hoy Ke Pachhtaavat Hai.",
-      "Taante Paapon Se Tum Darle || 2 ||."
+      "Taante Paapon Se Tum Darle || 2 ||"
     ],
     [
       "Shubh Karmon Se Shuddh Man Hove, Shuddh Man Se Hari Darshan Hove.",
-      "Hari Darshan Bin Shaanti N Aave, Kahe Teun Yah Sant Bataave."
-    ],
-    [
-      "Nek Karm Kar Bhav Se Tarle ||.3 ||"
+      "Hari Darshan Bin Shaanti Na Aave, Kahe Teun Yah Sant Bataave.",
+      "Nek Karm Kar Bhav Se Tarle || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 39 || 101 ||",
+    "शुभ कर्मों से प्रीती करले , पाप कर्म सब मन के हरले",
     "Shubh Karmon Se Priti Karle, Paap Karm Sab Man Ke Harle",
-    "शुभ करमोन से परिति करले, पाप करम सब मन के हरले"
+    "राग आसा भजन 39",
+    "Raag Aasaa Bhajan 39"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 101,
+  "displayOrder": 39,
+  "overallOrder": 101,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 76",
+  "updatedAt": "2026-10-26"
 }

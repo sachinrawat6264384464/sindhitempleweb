@@ -2,78 +2,114 @@
   "id": "bhajan-0102",
   "slug": "utho-musaaphir-jaago-do-din-rahnaa-re",
   "categoryId": "raag-aasaa",
-  "title": "ुथो मुसाफिर जागो दो दीन रहना रे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "ऊठो मुसाफिर जागो दो दिन रहना रे",
   "romanTitle": "Utho Musaaphir Jaago Do Din Rahnaa Re",
-  "firstLine": "Utho Musaaphir Jaago Do Din Rahnaa Re. Gaphlat Nind Tyaage Kholo Tum Nainaa Re (Tek).",
+  "firstLine": "Utho Musaaphir Jaago Do Din Rahnaa Re.",
+  "heading": "।। राग आसा भजन ।। ४० ।। १०२।।",
+  "tek": [
+    "ऊठो मुसाफिर जागो दो दिन रहना रे ।",
+    "गफ्लत नींद त्यागे खोलो तुम नैना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Utho Musaaphir Jaago Do Din Rahnaa Re.",
+    "Gaphlat Nind Tyaage Kholo Tum Nainaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ट्द",
+        "थोड़े दिन का पाहुन हो क्यों इतना किया पसारा है ।",
+        "प्रान पंछी जब चले साथ तब कुछ नहिं चलने हारा है ।",
+        "मोह बढ़ाके दुख क्यों पाओ दिन रैना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Td",
+        "Thore Din Kaa Paahun Ho Kyon Itnaa Kiyaa Pasaaraa Hai.",
+        "Praan Panchhi Jab Chale Saath Tab Kuchh Nahin Chalne Haaraa Hai.",
+        "Moh Barhaake Dukh Kyon Paao Din Rainaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बड़े बड़े राजा महाराजा छोड़के सब सामान गये ।",
+        "रावण बाणासुर हरणाकश कुम्भकर्ण बलवान गये ।",
+        "माया बढ़ाके पाया चित्त में न चैना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bare Bare Raajaa Mahaaraajaa Chhorke Sab Saamaan Gaye.",
+        "Raavan Baanaasur Harnaakash Kumbhakarn Balvaan Gaye.",
+        "Maayaa Barhaake Paayaa Chitt Men Na Chainaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दूर देश औ राह कठिन है इसका तुम वीचार करो ।",
+        "कहे टेऊँ शुभ कर्म धर्म का समर ले तुरत तयार करो ।",
+        "वेद पुराणों का यह मानो तुम कहना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dur Desh Au Raah Kathin Hai Iskaa Tum Vichaar Karo.",
+        "Kahe Teun Shubh Karm Dharm Kaa Samar Le Turat Tayaar Karo.",
+        "Ved Puraanon Kaa Yah Maano Tum Kahnaa Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथो मुसाफिर जागो दो दीन रहना रे.",
-      "गफलत निनद तयागे खोलो तुम नैना रे (टेक)."
+      "ट्द",
+      "थोड़े दिन का पाहुन हो क्यों इतना किया पसारा है ।",
+      "प्रान पंछी जब चले साथ तब कुछ नहिं चलने हारा है ।",
+      "मोह बढ़ाके दुख क्यों पाओ दिन रैना रे ॥१ ॥"
     ],
     [
-      "तद",
-      "थोरे दीन का पाहुन हो कयोन ितना किया पसारा है."
+      "बड़े बड़े राजा महाराजा छोड़के सब सामान गये ।",
+      "रावण बाणासुर हरणाकश कुम्भकर्ण बलवान गये ।",
+      "माया बढ़ाके पाया चित्त में न चैना रे ॥२ ॥"
     ],
     [
-      "परान पनचहि जब चले साथ तब कुचह नहिन चलने हारा है.",
-      "मोह बरहाके दुःख कयोन पाो दीन रैना रे || 1 ||."
-    ],
-    [
-      "बरे बरे राजा महाराजा चहोरके सब सामान गये.",
-      "रावन बानासुर हरनाकश कुमभकरन बलवान गये."
-    ],
-    [
-      "माया बरहाके पाया चितत मेन न चैना रे || 2 ||"
-    ],
-    [
-      "दुर देश ौ राह कथिन है िसका तुम विचार करो.",
-      "कहे तेऊँ शुभ करम धरम का समर ले तुरत तयार करो."
-    ],
-    [
-      "वेद पुरानोन का यह मानो तुम कहना रे || 3. ||."
+      "दूर देश औ राह कठिन है इसका तुम वीचार करो ।",
+      "कहे टेऊँ शुभ कर्म धर्म का समर ले तुरत तयार करो ।",
+      "वेद पुराणों का यह मानो तुम कहना रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Utho Musaaphir Jaago Do Din Rahnaa Re.",
-      "Gaphlat Nind Tyaage Kholo Tum Nainaa Re (Tek)."
-    ],
-    [
       "Td",
-      "Thore Din Kaa Paahun Ho Kyon Itnaa Kiyaa Pasaaraa Hai."
-    ],
-    [
+      "Thore Din Kaa Paahun Ho Kyon Itnaa Kiyaa Pasaaraa Hai.",
       "Praan Panchhi Jab Chale Saath Tab Kuchh Nahin Chalne Haaraa Hai.",
-      "Moh Barhaake Dukh Kyon Paao Din Rainaa Re || 1 ||."
+      "Moh Barhaake Dukh Kyon Paao Din Rainaa Re || 1 ||"
     ],
     [
       "Bare Bare Raajaa Mahaaraajaa Chhorke Sab Saamaan Gaye.",
-      "Raavan Baanaasur Harnaakash Kumbhakarn Balvaan Gaye."
-    ],
-    [
-      "Maayaa Barhaake Paayaa Chitt Men N Chainaa Re || 2 ||"
+      "Raavan Baanaasur Harnaakash Kumbhakarn Balvaan Gaye.",
+      "Maayaa Barhaake Paayaa Chitt Men Na Chainaa Re || 2 ||"
     ],
     [
       "Dur Desh Au Raah Kathin Hai Iskaa Tum Vichaar Karo.",
-      "Kahe Teun Shubh Karm Dharm Kaa Samar Le Turat Tayaar Karo."
-    ],
-    [
-      "Ved Puraanon Kaa Yah Maano Tum Kahnaa Re || 3. ||."
+      "Kahe Teun Shubh Karm Dharm Kaa Samar Le Turat Tayaar Karo.",
+      "Ved Puraanon Kaa Yah Maano Tum Kahnaa Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 40 || 102 ||",
+    "ऊठो मुसाफिर जागो दो दिन रहना रे",
     "Utho Musaaphir Jaago Do Din Rahnaa Re",
-    "ुथो मुसाफिर जागो दो दीन रहना रे"
+    "राग आसा भजन 40",
+    "Raag Aasaa Bhajan 40"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 102,
+  "displayOrder": 40,
+  "overallOrder": 102,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 76",
+  "updatedAt": "2026-10-26"
 }

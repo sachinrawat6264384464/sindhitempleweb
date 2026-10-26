@@ -2,39 +2,88 @@
   "id": "bhajan-0172",
   "slug": "e-pyaaraa-naahin-teraa-ko-sangi-sansaar-men",
   "categoryId": "raag-vihaag",
-  "title": "े पयारा नाहिन तेरा को सनगि सनसार मेन",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "ए प्यारा नाहिं तेरा को संगी संसार में",
   "romanTitle": "E Pyaaraa Naahin Teraa Ko Sangi Sansaar Men",
-  "firstLine": "E Pyaaraa Naahin Teraa Ko Sangi Sansaar Men. Janm Vrithaa Kyon Ganvaate Moh Maayaa Jaar Men (Tek).",
+  "firstLine": "E Pyaaraa Naahin Teraa Ko Sangi Sansaar Men.",
+  "heading": "।। राग विहाग भजन ।। १४ ।। १७२।।",
+  "tek": [
+    "ए प्यारा नाहिं तेरा को संगी संसार में ।",
+    "जन्म वृथा क्यों गंवाते मोह माया जार में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "E Pyaaraa Naahin Teraa Ko Sangi Sansaar Men.",
+    "Janm Vrithaa Kyon Ganvaate Moh Maayaa Jaar Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धन कमावन हेत जो तुम दूर देशन जात हो ।",
+        "सो जहाँ का तहं रहे ना चलत चलती बार में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhan Kamaavan Het Jo Tum Dur Deshan Jaat Ho.",
+        "So Jahaan Kaa Tahan Rahe Naa Chalat Chalti Baar Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रैन दिन जिस नारि को तुम प्यार करते बहुत हो ।",
+        "मरन पीछे ना चले संग बैठ रोवत द्वार में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Rain Din Jis Naari Ko Tum Pyaar Karte Bahut Ho.",
+        "Maran Pichhe Naa Chale Sang Baith Rovat Dvaar Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मोह कर जिस कुट्म्ब को तुम जन्म सारा पालते ।",
+        "मरन पीछे आग दे वो छोड़ देत उजार में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Moh Kar Jis Kutmb Ko Tum Janm Saaraa Paalte.",
+        "Maran Pichhe Aag De Vo Chhor Det Ujaar Men || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ सोच देखो कछु चले ना साथ तो ।",
+        "धर्म धर हरि नाम जप जो नाव हो भव धार में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Soch Dekho Kachhu Chale Naa Saath To.",
+        "Dharm Dhar Hari Naam Jap Jo Naav Ho Bhav Dhaar Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "े पयारा नाहिन तेरा को सनगि सनसार मेन.",
-      "जनम वरिथा कयोन गनवाते मोह माया जार मेन (टेक)."
+      "धन कमावन हेत जो तुम दूर देशन जात हो ।",
+      "सो जहाँ का तहं रहे ना चलत चलती बार में ॥१ ॥"
     ],
     [
-      "धन कमावन हेत जो तुम दुर देशन जात हो.",
-      "सो जहान का तहन रहे ना चलत चलति बार मेन || $ ||."
+      "रैन दिन जिस नारि को तुम प्यार करते बहुत हो ।",
+      "मरन पीछे ना चले संग बैठ रोवत द्वार में ॥२ ॥"
     ],
     [
-      "रैन दीन जिस नारि को तुम पयार करते बहुत हो.",
-      "मरन पिचहे ना चले सनग बैथ रोवत दवार मेन || 2 ||"
+      "मोह कर जिस कुट्म्ब को तुम जन्म सारा पालते ।",
+      "मरन पीछे आग दे वो छोड़ देत उजार में ॥३ ॥"
     ],
     [
-      "मोह कर जिस कुतमब को तुम जनम सारा पालते.",
-      "मरन पिचहे ाग दे वो चहोर देत ुजार मेन || 3 ||."
-    ],
-    [
-      "कहत तेऊँ सोच देखो कचहु चले ना साथ तो.",
-      "धरम धर हरि नाम जप जो नाव हो भव धार मेन || 4 ||"
+      "कहत टेऊँ सोच देखो कछु चले ना साथ तो ।",
+      "धर्म धर हरि नाम जप जो नाव हो भव धार में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "E Pyaaraa Naahin Teraa Ko Sangi Sansaar Men.",
-      "Janm Vrithaa Kyon Ganvaate Moh Maayaa Jaar Men (Tek)."
-    ],
-    [
       "Dhan Kamaavan Het Jo Tum Dur Deshan Jaat Ho.",
-      "So Jahaan Kaa Tahan Rahe Naa Chalat Chalti Baar Men || $ ||."
+      "So Jahaan Kaa Tahan Rahe Naa Chalat Chalti Baar Men || 1 ||"
     ],
     [
       "Rain Din Jis Naari Ko Tum Pyaar Karte Bahut Ho.",
@@ -42,7 +91,7 @@
     ],
     [
       "Moh Kar Jis Kutmb Ko Tum Janm Saaraa Paalte.",
-      "Maran Pichhe Aag De Vo Chhor Det Ujaar Men || 3 ||."
+      "Maran Pichhe Aag De Vo Chhor Det Ujaar Men || 3 ||"
     ],
     [
       "Kahat Teun Soch Dekho Kachhu Chale Naa Saath To.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 14 || 172 ||",
+    "ए प्यारा नाहिं तेरा को संगी संसार में",
     "E Pyaaraa Naahin Teraa Ko Sangi Sansaar Men",
-    "े पयारा नाहिन तेरा को सनगि सनसार मेन"
+    "राग विहाग भजन 14",
+    "Raag Vihaag Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 172,
+  "displayOrder": 14,
+  "overallOrder": 172,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 115",
+  "updatedAt": "2026-10-26"
 }

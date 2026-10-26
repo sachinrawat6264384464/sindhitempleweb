@@ -1,65 +1,116 @@
 {
   "id": "bhajan-0279",
   "slug": "yah-jhuthaa-jagat-vilaasaa-kahte-aave-haasaa",
-  "categoryId": "raag-bhairav",
-  "title": "यह झुथा जगत विलासा, कहते ावे हासा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "यह झूठा जगत विलासा, कहते आवे हासा",
   "romanTitle": "Yah Jhuthaa Jagat Vilaasaa, Kahte Aave Haasaa",
   "firstLine": "Yah Jhuthaa Jagat Vilaasaa, Kahte Aave Haasaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६४ ।। २७९।।",
+  "tek": [
+    "यह झूठा जगत विलासा, कहते आवे हासा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Jhuthaa Jagat Vilaasaa, Kahte Aave Haasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ससे सींग का धनुष उठाके, पूत नपूंसक चलिया ।",
+        "बांझ पूत से झगड़ा करके, लीना राज अकासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sase Sing Kaa Dhanush Uthaake, Put Napunsak Chaliyaa.",
+        "Baanjh Put Se Jhagraa Karke, Linaa Raaj Akaasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बादल केरी मधुर मिठाई, पड़ी गगन के कोठे ।",
+        "खाने कारण चींटी चाली, शिर पर ले कैलासा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baadal Keri Madhur Mithaai, Pari Gagan Ke Kothe.",
+        "Khaane Kaaran Chinti Chaali, Shir Par Le Kailaasaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मुड़दों की इक मण्डली सुन्दर, अर्ध गगन में नाचे ।",
+        "देख देख तिहँ अन्धा हर्षे, मूक कहत इतिहासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Murdon Ki Ik Mandali Sundar, Ardh Gagan Men Naache.",
+        "Dekh Dekh Tihan Andhaa Harshe, Muk Kahat Itihaasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरुदेव लखाया, रूप जगत का ऐसा ।",
+        "ज्ञान दृष्टि से ब्रह्म प्रकाशे, अविद्या से जग भासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Gurudev Lakhaayaa, Rup Jagat Kaa Aisaa.",
+        "Gyaan Drishti Se Brahm Prakaashe, Avidyaa Se Jag Bhaasaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह झुथा जगत विलासा, कहते ावे हासा (टेक)."
+      "ससे सींग का धनुष उठाके, पूत नपूंसक चलिया ।",
+      "बांझ पूत से झगड़ा करके, लीना राज अकासा ॥१ ॥"
     ],
     [
-      "ससे सिनग का धनुश ुथाके, पुत नपुनसक चलिया.",
-      "बानझ पुत से झगरा करके, लिना राज कासा ||.1 ||."
+      "बादल केरी मधुर मिठाई, पड़ी गगन के कोठे ।",
+      "खाने कारण चींटी चाली, शिर पर ले कैलासा ॥२ ॥"
     ],
     [
-      "बादल केरि मधुर मिथाि, परि गगन के कोथे.",
-      "खाने कारन चिनति चालि, शिर पर ले कैलासा ||.2 ||."
+      "मुड़दों की इक मण्डली सुन्दर, अर्ध गगन में नाचे ।",
+      "देख देख तिहँ अन्धा हर्षे, मूक कहत इतिहासा ॥३ ॥"
     ],
     [
-      "मुरदोन कि िक मनदलि सुनदर, रध गगन मेन नाचे.",
-      "देख देख तिहन नधा हरशे, मुक कहत ितिहासा ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरुदेव लखाया, रुप जगत का ैसा.",
-      "ज्ञान दरिशति से बरहम परकाशे, विदया से जग भासा ||.4. ||."
+      "कहे टेऊँ गुरुदेव लखाया, रूप जगत का ऐसा ।",
+      "ज्ञान दृष्टि से ब्रह्म प्रकाशे, अविद्या से जग भासा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Jhuthaa Jagat Vilaasaa, Kahte Aave Haasaa (Tek)."
-    ],
-    [
       "Sase Sing Kaa Dhanush Uthaake, Put Napunsak Chaliyaa.",
-      "Baanjh Put Se Jhagraa Karke, Linaa Raaj Akaasaa ||.1 ||."
+      "Baanjh Put Se Jhagraa Karke, Linaa Raaj Akaasaa || 1 ||"
     ],
     [
       "Baadal Keri Madhur Mithaai, Pari Gagan Ke Kothe.",
-      "Khaane Kaaran Chinti Chaali, Shir Par Le Kailaasaa ||.2 ||."
+      "Khaane Kaaran Chinti Chaali, Shir Par Le Kailaasaa || 2 ||"
     ],
     [
       "Murdon Ki Ik Mandali Sundar, Ardh Gagan Men Naache.",
-      "Dekh Dekh Tihan Andhaa Harshe, Muk Kahat Itihaasaa ||.3 ||."
+      "Dekh Dekh Tihan Andhaa Harshe, Muk Kahat Itihaasaa || 3 ||"
     ],
     [
       "Kahe Teun Gurudev Lakhaayaa, Rup Jagat Kaa Aisaa.",
-      "Jnyaan Drishti Se Brahm Prakaashe, Avidyaa Se Jag Bhaasaa ||.4. ||."
+      "Gyaan Drishti Se Brahm Prakaashe, Avidyaa Se Jag Bhaasaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 64 || 279 ||",
+    "यह झूठा जगत विलासा, कहते आवे हासा",
     "Yah Jhuthaa Jagat Vilaasaa, Kahte Aave Haasaa",
-    "यह झुथा जगत विलासा, कहते ावे हासा"
+    "राग भैरवी भजन 64",
+    "Raag Bhairvi Bhajan 64"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 279,
+  "displayOrder": 64,
+  "overallOrder": 279,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 170",
+  "updatedAt": "2026-10-26"
 }

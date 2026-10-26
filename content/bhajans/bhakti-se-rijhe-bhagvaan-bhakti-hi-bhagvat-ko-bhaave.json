@@ -1,51 +1,100 @@
 {
-  "id": "bhajan-0870",
+  "id": "bhajan-0868",
   "slug": "bhakti-se-rijhe-bhagvaan-bhakti-hi-bhagvat-ko-bhaave",
   "categoryId": "raag-jog",
-  "title": "भक्ति से रिझे भगवान, भक्ति हि भगवत को भावे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "भक्ती से रीझे भगवान, भकती ही भगवत को भावे",
   "romanTitle": "Bhakti Se Rijhe Bhagvaan, Bhakti Hi Bhagvat Ko Bhaave",
   "firstLine": "Bhakti Se Rijhe Bhagvaan, Bhakti Hi Bhagvat Ko Bhaave (Tek).",
+  "heading": "।। राग जोग भजन ।। ४० ।। ८७०॥।",
+  "tek": [
+    "भक्ती से रीझे भगवान, भकती ही भगवत को भावे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhakti Se Rijhe Bhagvaan, Bhakti Hi Bhagvat Ko Bhaave (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ना हरि रीझे कर्म करन से, ना हरि रीझे पाठ पढ़न से ।",
+        "ना हरि रीझे देते दान, भावें बहु विधि यज्ञ रचावे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naa Hari Rijhe Karm Karan Se, Naa Hari Rijhe Paath Parhan Se.",
+        "Naa Hari Rijhe Dete Daan, Bhaaven Bahu Vidhi Yajny Rachaave || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ना हरि रीझे तीर्थ नाते, ना हरि रीझे फल के खाते ।",
+        "ना हरि रीझे बन स्थान, भावें पांचों अग्नि तपावे ॥? ॥२ ॥",
+        "ना हरि रीझे देव अराधे, ना हरि रीझे मंत्र साधे ।",
+        "ना हरि रीझे योग ध्यान, भावें ऋद्धि सिद्धि बहुत दिखावे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naa Hari Rijhe Tirth Naate, Naa Hari Rijhe Phal Ke Khaate.",
+        "Naa Hari Rijhe Ban Sthaan, Bhaaven Paanchon Agni Tapaave || ? || 2 ||",
+        "Naa Hari Rijhe Dev Araadhe, Naa Hari Rijhe Mantr Saadhe.",
+        "Naa Hari Rijhe Yog Dhyaan, Bhaaven Riddhi Siddhi Bahut Dikhaave || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ना हरि रीझे केस बढ़ाए, ना हरि रीझे मूण्ड मुण्डाए ।",
+        "ना हरि रीझे करत वख्यान , भावें लाखों लोक रिझावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Naa Hari Rijhe Kes Barhaae, Naa Hari Rijhe Mund Mundaae.",
+        "Naa Hari Rijhe Karat Vakhyaan, Bhaaven Laakhon Lok Rijhaave || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गद्य",
+        "भक्ति बिना सब साधन फीके , भक्ति सहित लागत हरि नीके ।",
+        "टेऊँ कहते वेद पुरान, धन धन सो जो भक्ति कमावे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Gady",
+        "Bhakti Binaa Sab Saadhan Phike, Bhakti Sahit Laagat Hari Nike.",
+        "Teun Kahte Ved Puraan, Dhan Dhan So Jo Bhakti Kamaave || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भक्ति से रिझे भगवान, भक्ति हि भगवत को भावे (टेक)."
+      "ना हरि रीझे कर्म करन से, ना हरि रीझे पाठ पढ़न से ।",
+      "ना हरि रीझे देते दान, भावें बहु विधि यज्ञ रचावे ॥१ ॥"
     ],
     [
-      "ना हरि रिझे करम करन से, ना हरि रिझे पाथ परहन से.",
-      "ना हरि रिझे देते दान, भावेन बहु विधि यजनय रचावे || 1. ||."
+      "ना हरि रीझे तीर्थ नाते, ना हरि रीझे फल के खाते ।",
+      "ना हरि रीझे बन स्थान, भावें पांचों अग्नि तपावे ॥? ॥२ ॥",
+      "ना हरि रीझे देव अराधे, ना हरि रीझे मंत्र साधे ।",
+      "ना हरि रीझे योग ध्यान, भावें ऋद्धि सिद्धि बहुत दिखावे ॥३ ॥"
     ],
     [
-      "ना हरि रिझे तिरथ नाते, ना हरि रिझे फल के खाते.",
-      "ना हरि रिझे बन सथान, भावेन पानचोन गनि तपावे ||?2 ||"
+      "ना हरि रीझे केस बढ़ाए, ना हरि रीझे मूण्ड मुण्डाए ।",
+      "ना हरि रीझे करत वख्यान , भावें लाखों लोक रिझावे ॥४ ॥"
     ],
     [
-      "ना हरि रिझे देव राधे, ना हरि रिझे मनतर साधे.",
-      "ना हरि रिझे योग ध्यान, भावेन रिदधि सिदधि बहुत दिखावे || 3 ||"
-    ],
-    [
-      "ना हरि रिझे केस बरहाे, ना हरि रिझे मुनद मुनदाे.",
-      "ना हरि रिझे करत वखयान, भावेन लाखोन लोक रिझावे || 4 ||"
-    ],
-    [
-      "गदय",
-      "भक्ति बिना सब साधन फिके, भक्ति सहित लागत हरि निके."
-    ],
-    [
-      "तेऊँ कहते वेद पुरान, धन धन सो जो भक्ति कमावे || 5 ||."
+      "गद्य",
+      "भक्ति बिना सब साधन फीके , भक्ति सहित लागत हरि नीके ।",
+      "टेऊँ कहते वेद पुरान, धन धन सो जो भक्ति कमावे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhakti Se Rijhe Bhagvaan, Bhakti Hi Bhagvat Ko Bhaave (Tek)."
-    ],
-    [
       "Naa Hari Rijhe Karm Karan Se, Naa Hari Rijhe Paath Parhan Se.",
-      "Naa Hari Rijhe Dete Daan, Bhaaven Bahu Vidhi Yajny Rachaave || 1. ||."
+      "Naa Hari Rijhe Dete Daan, Bhaaven Bahu Vidhi Yajny Rachaave || 1 ||"
     ],
     [
       "Naa Hari Rijhe Tirth Naate, Naa Hari Rijhe Phal Ke Khaate.",
-      "Naa Hari Rijhe Ban Sthaan, Bhaaven Paanchon Agni Tapaave ||?2 ||"
-    ],
-    [
+      "Naa Hari Rijhe Ban Sthaan, Bhaaven Paanchon Agni Tapaave || ? || 2 ||",
       "Naa Hari Rijhe Dev Araadhe, Naa Hari Rijhe Mantr Saadhe.",
       "Naa Hari Rijhe Yog Dhyaan, Bhaaven Riddhi Siddhi Bahut Dikhaave || 3 ||"
     ],
@@ -55,25 +104,25 @@
     ],
     [
       "Gady",
-      "Bhakti Binaa Sab Saadhan Phike, Bhakti Sahit Laagat Hari Nike."
-    ],
-    [
-      "Teun Kahte Ved Puraan, Dhan Dhan So Jo Bhakti Kamaave || 5 ||."
+      "Bhakti Binaa Sab Saadhan Phike, Bhakti Sahit Laagat Hari Nike.",
+      "Teun Kahte Ved Puraan, Dhan Dhan So Jo Bhakti Kamaave || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 40 || 870 ||.",
+    "भक्ती से रीझे भगवान, भकती ही भगवत को भावे",
     "Bhakti Se Rijhe Bhagvaan, Bhakti Hi Bhagvat Ko Bhaave",
-    "भक्ति से रिझे भगवान, भक्ति हि भगवत को भावे"
+    "राग जोग भजन 40",
+    "Raag Jog Bhajan 40"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 870,
+  "displayOrder": 40,
+  "overallOrder": 868,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 458",
+  "updatedAt": "2026-10-26"
 }

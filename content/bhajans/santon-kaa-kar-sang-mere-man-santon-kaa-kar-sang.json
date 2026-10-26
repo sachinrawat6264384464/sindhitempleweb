@@ -2,37 +2,83 @@
   "id": "bhajan-0185",
   "slug": "santon-kaa-kar-sang-mere-man-santon-kaa-kar-sang",
   "categoryId": "raag-dhanaashri",
-  "title": "सनतोन का कर सनग मेरे मन, सनतोन का कर सनग",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "सन्तों का कर संग मेरे मन, सन्तों का कर संग",
   "romanTitle": "Santon Kaa Kar Sang Mere Man, Santon Kaa Kar Sang",
   "firstLine": "Santon Kaa Kar Sang Mere Man, Santon Kaa Kar Sang (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। ५ ।। १८५।।",
+  "tek": [
+    "सन्तों का कर संग मेरे मन, सन्तों का कर संग ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Kaa Kar Sang Mere Man, Santon Kaa Kar Sang (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "संतों के संग कर वीचारा, जान जगत का झूठ पसारा ।",
+        "आतम ब्रह्म अभंग मेरे मन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Ke Sang Kar Vichaaraa, Jaan Jagat Kaa Jhuth Pasaaraa.",
+        "Aatam Brahm Abhang Mere Man || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सनतों संग पी प्रेम प्याला, आठों याम रहो मतिवाला ।",
+        "निर्भय होय निसंग मेरे मन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santon Sang Pi Prem Pyaalaa, Aathon Yaam Raho Mativaalaa.",
+        "Nirbhay Hoy Nisang Mere Man || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्तों संग हरि नाम उच्चारो, पाप ताप सन्ताप निवारो ।",
+        "लगे न यम का डंग मेरे मन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santon Sang Hari Naam Uchchaaro, Paap Taap Santaap Nivaaro.",
+        "Lage Na Yam Kaa Dang Mere Man || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सनतों से ले ज्ञान विज्ञाना, कहे टेऊँ कट भ्रम अज्ञाना ।",
+        "लावो आत्म रंग मेरे मन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Santon Se Le Gyaan Vijnyaanaa, Kahe Teun Kat Bhram Ajnyaanaa.",
+        "Laavo Aatm Rang Mere Man || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन का कर सनग मेरे मन, सनतोन का कर सनग (टेक)."
+      "संतों के संग कर वीचारा, जान जगत का झूठ पसारा ।",
+      "आतम ब्रह्म अभंग मेरे मन ॥१ ॥"
     ],
     [
-      "सनतोन के सनग कर विचारा, जान जगत का झुथ पसारा.",
-      "ातम बरहम भनग मेरे मन || 1 ||"
+      "सनतों संग पी प्रेम प्याला, आठों याम रहो मतिवाला ।",
+      "निर्भय होय निसंग मेरे मन ॥२ ॥"
     ],
     [
-      "सनतोन सनग पि प्रेम पयाला, ाथोन याम रहो मतिवाला.",
-      "निरभय होय निसनग मेरे मन || 2 ||"
+      "सन्तों संग हरि नाम उच्चारो, पाप ताप सन्ताप निवारो ।",
+      "लगे न यम का डंग मेरे मन ॥३ ॥"
     ],
     [
-      "सनतोन सनग हरि नाम ुचचारो, पाप ताप सनताप निवारो.",
-      "लगे न यम का दनग मेरे मन || 3 ||"
-    ],
-    [
-      "सनतोन से ले ज्ञान विजनयाना, कहे तेऊँ कत भरम जनयाना.",
-      "लावो ातम रनग मेरे मन.4 ||"
-    ],
-    [
-      "थ"
+      "सनतों से ले ज्ञान विज्ञाना, कहे टेऊँ कट भ्रम अज्ञाना ।",
+      "लावो आत्म रंग मेरे मन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Santon Kaa Kar Sang Mere Man, Santon Kaa Kar Sang (Tek)."
-    ],
     [
       "Santon Ke Sang Kar Vichaaraa, Jaan Jagat Kaa Jhuth Pasaaraa.",
       "Aatam Brahm Abhang Mere Man || 1 ||"
@@ -43,29 +89,28 @@
     ],
     [
       "Santon Sang Hari Naam Uchchaaro, Paap Taap Santaap Nivaaro.",
-      "Lage N Yam Kaa Dang Mere Man || 3 ||"
+      "Lage Na Yam Kaa Dang Mere Man || 3 ||"
     ],
     [
-      "Santon Se Le Jnyaan Vijnyaanaa, Kahe Teun Kat Bhram Ajnyaanaa.",
-      "Laavo Aatm Rang Mere Man.4 ||"
-    ],
-    [
-      "Th"
+      "Santon Se Le Gyaan Vijnyaanaa, Kahe Teun Kat Bhram Ajnyaanaa.",
+      "Laavo Aatm Rang Mere Man || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 5 || 185 ||",
+    "सन्तों का कर संग मेरे मन, सन्तों का कर संग",
     "Santon Kaa Kar Sang Mere Man, Santon Kaa Kar Sang",
-    "सनतोन का कर सनग मेरे मन, सनतोन का कर सनग"
+    "राग धनाश्री भजन 5",
+    "Raag Dhanaashri Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 185,
+  "displayOrder": 5,
+  "overallOrder": 185,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 121",
+  "updatedAt": "2026-10-26"
 }

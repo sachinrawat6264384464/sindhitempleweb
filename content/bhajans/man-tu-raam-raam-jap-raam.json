@@ -1,73 +1,118 @@
 {
-  "id": "bhajan-0461",
+  "id": "bhajan-0460",
   "slug": "man-tu-raam-raam-jap-raam",
   "categoryId": "raag-tilang",
-  "title": "मन तु राम राम जप राम",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मन तूं राम राम जप राम",
   "romanTitle": "Man Tu Raam Raam Jap Raam",
-  "firstLine": "Man Tu Raam Raam Jap Raam. Raam Japan Se Tere Saare, Honge Purn Kaam (Tek).",
+  "firstLine": "Man Tu Raam Raam Jap Raam.",
+  "heading": "।। राग तिलंग भजन ।। ९७ ।। ४६१।।",
+  "tek": [
+    "मन तूं राम राम जप राम ।",
+    "राम जपन से तेरे सारे, होंगे पूर्ण काम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Tu Raam Raam Jap Raam.",
+    "Raam Japan Se Tere Saare, Honge Purn Kaam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कहूं लाख की बात सु नीकी, राम बिना है बानी फीकी ।",
+        "नमक बिना ज्यों ताम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kahun Laakh Ki Baat Su Niki, Raam Binaa Hai Baani Phiki.",
+        "Namak Binaa Jyon Taam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वेद वचन मैं कहूं यथार्थ, राम बिना है जन्म अक्यार्थ ।",
+        "मूज़ी का ज्यों दाम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ved Vachan Main Kahun Yathaarth, Raam Binaa Hai Janm Akyaarth.",
+        "Muzi Kaa Jyon Daam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब सनतों का निर्णय ये ही, राम बिना है सूनी देही ।",
+        "दीपक बिन ज्यों धाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sab Santon Kaa Nirnay Ye Hi, Raam Binaa Hai Suni Dehi.",
+        "Dipak Bin Jyon Dhaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जग सारा सपना, राम भजन बिन कोय न अपना ।",
+        "स्मरण कर निष्काम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jag Saaraa Sapnaa, Raam Bhajan Bin Koy Na Apnaa.",
+        "Smaran Kar Nishkaam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन तु राम राम जप राम.",
-      "राम जपन से तेरे सारे, होनगे पुरन काम (टेक)."
+      "कहूं लाख की बात सु नीकी, राम बिना है बानी फीकी ।",
+      "नमक बिना ज्यों ताम ॥१ ॥"
     ],
     [
-      "कहुन लाख कि बात सु निकि, राम बिना है बानी फिकि.",
-      "नमक बिना जयोन ताम || || 1 ||."
+      "वेद वचन मैं कहूं यथार्थ, राम बिना है जन्म अक्यार्थ ।",
+      "मूज़ी का ज्यों दाम ॥२ ॥"
     ],
     [
-      "तय",
-      "वेद वचन मैं कहुन यथारथ, राम बिना है जनम कयारथ."
+      "सब सनतों का निर्णय ये ही, राम बिना है सूनी देही ।",
+      "दीपक बिन ज्यों धाम ॥३ ॥"
     ],
     [
-      "मुzि का जयोन दाम || 2 ||."
-    ],
-    [
-      "सब सनतोन का निरनय ये हि, राम बिना है सुनि देही.",
-      "दिपक बिन जयोन धाम ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ जग सारा सपना, राम भजन बिन कोय न पना.",
-      "समरन कर निशकाम ||.4 ||."
+      "कहे टेऊँ जग सारा सपना, राम भजन बिन कोय न अपना ।",
+      "स्मरण कर निष्काम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Tu Raam Raam Jap Raam.",
-      "Raam Japan Se Tere Saare, Honge Purn Kaam (Tek)."
-    ],
-    [
       "Kahun Laakh Ki Baat Su Niki, Raam Binaa Hai Baani Phiki.",
-      "Namak Binaa Jyon Taam || || 1 ||."
+      "Namak Binaa Jyon Taam || 1 ||"
     ],
     [
-      "Tay",
-      "Ved Vachan Main Kahun Yathaarth, Raam Binaa Hai Janm Akyaarth."
-    ],
-    [
-      "Muzi Kaa Jyon Daam || 2 ||."
+      "Ved Vachan Main Kahun Yathaarth, Raam Binaa Hai Janm Akyaarth.",
+      "Muzi Kaa Jyon Daam || 2 ||"
     ],
     [
       "Sab Santon Kaa Nirnay Ye Hi, Raam Binaa Hai Suni Dehi.",
-      "Dipak Bin Jyon Dhaam ||.3 ||."
+      "Dipak Bin Jyon Dhaam || 3 ||"
     ],
     [
-      "Kahe Teun Jag Saaraa Sapnaa, Raam Bhajan Bin Koy N Apnaa.",
-      "Smaran Kar Nishkaam ||.4 ||."
+      "Kahe Teun Jag Saaraa Sapnaa, Raam Bhajan Bin Koy Na Apnaa.",
+      "Smaran Kar Nishkaam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 97 || 461 ||",
+    "मन तूं राम राम जप राम",
     "Man Tu Raam Raam Jap Raam",
-    "मन तु राम राम जप राम"
+    "राग तिलंग भजन 97",
+    "Raag Tilang Bhajan 97"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 461,
+  "displayOrder": 97,
+  "overallOrder": 460,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 258",
+  "updatedAt": "2026-10-26"
 }

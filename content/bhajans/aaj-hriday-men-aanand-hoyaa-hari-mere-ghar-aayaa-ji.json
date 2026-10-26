@@ -2,70 +2,115 @@
   "id": "bhajan-0020",
   "slug": "aaj-hriday-men-aanand-hoyaa-hari-mere-ghar-aayaa-ji",
   "categoryId": "raag-raamkali",
-  "title": "ाज हरिदय मेन आनंद होया हरि मेरे घर ाया जी",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "आज हृदय में आनन्द होया हरि मेरे घर आया जी",
   "romanTitle": "Aaj Hriday Men Aanand Hoyaa Hari Mere Ghar Aayaa Ji",
   "firstLine": "Aaj Hriday Men Aanand Hoyaa Hari Mere Ghar Aayaa Ji (Tek).",
+  "heading": "।। राग रामकली भजन ।। ८।। २०।।",
+  "tek": [
+    "आज हृदय में आनन्द होया हरि मेरे घर आया जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Hriday Men Aanand Hoyaa Hari Mere Ghar Aayaa Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चारों तरफ करे चिटसाली हीरा लाल जड़ाया जी ।",
+        "अगर चन्दन पुनि कुंगू केसर अतर अंबीर लगाया जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chaaron Taraph Kare Chitsaali Hiraa Laal Jaraayaa Ji.",
+        "Agar Chandan Puni Kungu Kesar Atar Anbir Lagaayaa Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नरसिंह नौबत मृदंग भेरी बाजा बिगल बजाया जी ।",
+        "सात सखी से मिलकर मैंने मंगलाचार मनाया जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Narsinh Naubat Mridang Bheri Baajaa Bigal Bajaayaa Ji.",
+        "Saat Sakhi Se Milkar Mainne Manglaachaar Manaayaa Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आज दिवस कृतार्थ होया सफल भई यह काया जी ।",
+        "मन मन्दिर में जय जय होयी दूख दर्द सब जाया जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aaj Divas Kritaarth Hoyaa Saphal Bhai Yah Kaayaa Ji.",
+        "Man Mandir Men Jay Jay Hoyi Dukh Dard Sab Jaayaa Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ दर्शन परसन से संसा शोक मिटाया जी ।",
+        "दिवस मैं रिल मिल तांसे परमानन्द को पाया जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Darshan Parsan Se Sansaa Shok Mitaayaa Ji.",
+        "Divas Main Ril Mil Taanse Parmaanand Ko Paayaa Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज हरिदय मेन आनंद होया हरि मेरे घर ाया जी (टेक)."
+      "चारों तरफ करे चिटसाली हीरा लाल जड़ाया जी ।",
+      "अगर चन्दन पुनि कुंगू केसर अतर अंबीर लगाया जी ॥१ ॥"
     ],
     [
-      "चारोन तरफ करे चितसालि हिरा लाल जराया जी.",
-      "गर चनदन पुनि कुनगु केसर तर नबिर लगाया जी.1 ||."
+      "नरसिंह नौबत मृदंग भेरी बाजा बिगल बजाया जी ।",
+      "सात सखी से मिलकर मैंने मंगलाचार मनाया जी ॥२ ॥"
     ],
     [
-      "नरसिनह नौबत मरिदनग भेरि बाजा बिगल बजाया जी.",
-      "सात सखि से मिलकर मैनने मनगलाचार मनाया जी || 2 ||."
+      "आज दिवस कृतार्थ होया सफल भई यह काया जी ।",
+      "मन मन्दिर में जय जय होयी दूख दर्द सब जाया जी ॥३ ॥"
     ],
     [
-      "ाज दिवस करितारथ होया सफल भै यह काया जी.",
-      "मन मनदिर मेन जय जय होयि दुःख दरद सब जाया जी || 3 ||."
-    ],
-    [
-      "कहे तेऊँ दरशन परसन से सनसा शोक मिताया जी.",
-      "दिवस मैं रिल मिल तानसे परमाननद को पाया जी ||.4 ||"
-    ],
-    [
-      "गे"
+      "कहे टेऊँ दर्शन परसन से संसा शोक मिटाया जी ।",
+      "दिवस मैं रिल मिल तांसे परमानन्द को पाया जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaj Hriday Men Aanand Hoyaa Hari Mere Ghar Aayaa Ji (Tek)."
-    ],
-    [
       "Chaaron Taraph Kare Chitsaali Hiraa Laal Jaraayaa Ji.",
-      "Agar Chandan Puni Kungu Kesar Atar Anbir Lagaayaa Ji.1 ||."
+      "Agar Chandan Puni Kungu Kesar Atar Anbir Lagaayaa Ji || 1 ||"
     ],
     [
       "Narsinh Naubat Mridang Bheri Baajaa Bigal Bajaayaa Ji.",
-      "Saat Sakhi Se Milkar Mainne Manglaachaar Manaayaa Ji || 2 ||."
+      "Saat Sakhi Se Milkar Mainne Manglaachaar Manaayaa Ji || 2 ||"
     ],
     [
       "Aaj Divas Kritaarth Hoyaa Saphal Bhai Yah Kaayaa Ji.",
-      "Man Mandir Men Jay Jay Hoyi Dukh Dard Sab Jaayaa Ji || 3 ||."
+      "Man Mandir Men Jay Jay Hoyi Dukh Dard Sab Jaayaa Ji || 3 ||"
     ],
     [
       "Kahe Teun Darshan Parsan Se Sansaa Shok Mitaayaa Ji.",
-      "Divas Main Ril Mil Taanse Parmaanand Ko Paayaa Ji ||.4 ||"
-    ],
-    [
-      "Ge"
+      "Divas Main Ril Mil Taanse Parmaanand Ko Paayaa Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Raamkali Bhajan || 8 || 20 ||",
+    "आज हृदय में आनन्द होया हरि मेरे घर आया जी",
     "Aaj Hriday Men Aanand Hoyaa Hari Mere Ghar Aayaa Ji",
-    "ाज हरिदय मेन आनंद होया हरि मेरे घर ाया जी"
+    "राग रामकली भजन 8",
+    "Raag Raamkali Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 20,
+  "displayOrder": 8,
+  "overallOrder": 20,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 35",
+  "updatedAt": "2026-10-26"
 }

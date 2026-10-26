@@ -1,75 +1,111 @@
 {
   "id": "bhajan-0249",
   "slug": "pritam-pyaare-jag-men-apnaa-chaaho-je-kalyaanaa",
-  "categoryId": "raag-bhairav",
-  "title": "परितम पयारे जग मेन पना चाहो जे कलयाना",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "प्रीतम प्यारे जग में अपना चाहो जे कल्याना",
   "romanTitle": "Pritam Pyaare Jag Men Apnaa Chaaho Je Kalyaanaa",
-  "firstLine": "Pritam Pyaare Jag Men Apnaa Chaaho Je Kalyaanaa. Saadh Sangti Se Priti Karle Sumro Shri Bhagvaanaa (Tek).",
+  "firstLine": "Pritam Pyaare Jag Men Apnaa Chaaho Je Kalyaanaa.",
+  "heading": "।। राग भैरवी भजन ।। ३४ ।। २४९।।",
+  "tek": [
+    "प्रीतम प्यारे जग में अपना चाहो जे कल्याना ।",
+    "साध संगति से प्रीती करले सुमरो श्री भगवाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pritam Pyaare Jag Men Apnaa Chaaho Je Kalyaanaa.",
+    "Saadh Sangti Se Priti Karle Sumro Shri Bhagvaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बहुत जनम के पीछे तुम ने मानुष चोला पाया है ।",
+        "ऐसा बेला फेर न आवे क्यों तुम मुफ़्त गंवाया है ।",
+        "सोवत जागत सर्वकाल में धरो प्रभू का ध्याना ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janam Ke Pichhe Tum Ne Maanush Cholaa Paayaa Hai.",
+        "Aisaa Belaa Pher Na Aave Kyon Tum Muft Ganvaayaa Hai.",
+        "Sovat Jaagat Sarvakaal Men Dharo Prabhu Kaa Dhyaanaa || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मतलब के सब मीत जानले सुख में सब मिल आते हैं ।",
+        "दुख में कोई साथ न देता पीछे सब हट जाते हैं ।",
+        "सुख दुख में है साहिब साथी यों कह वेद पुराना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Matlab Ke Sab Mit Jaanle Sukh Men Sab Mil Aate Hain.",
+        "Dukh Men Koi Saath Na Detaa Pichhe Sab Hat Jaate Hain.",
+        "Sukh Dukh Men Hai Saahib Saathi Yon Kah Ved Puraanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सुमरन जैसा साधन कोई कलूकाल में नाहीं ।",
+        "तांते मिलकर हरि गुन गावो साध संगति के माहीं ।",
+        "कहे टेऊँ जग जाल काटके पावो पद निर्बाना ॥३े ।"
+      ],
+      "romanLines": [
+        "Sumran Jaisaa Saadhan Koi Kalukaal Men Naahin.",
+        "Taante Milkar Hari Gun Gaavo Saadh Sangti Ke Maahin.",
+        "Kahe Teun Jag Jaal Kaatke Paavo Pad Nirbaanaa || 3E."
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परितम पयारे जग मेन पना चाहो जे कलयाना.",
-      "साध सनगति से परिति करले सुमरो श्री भगवाना (टेक)."
+      "बहुत जनम के पीछे तुम ने मानुष चोला पाया है ।",
+      "ऐसा बेला फेर न आवे क्यों तुम मुफ़्त गंवाया है ।",
+      "सोवत जागत सर्वकाल में धरो प्रभू का ध्याना ॥8 ॥१ ॥"
     ],
     [
-      "बहुत जनम के पिचहे तुम ने मानुश चोला पाया है.",
-      "ैसा बेला फेर न ावे कयोन तुम मुfत गनवाया है."
+      "मतलब के सब मीत जानले सुख में सब मिल आते हैं ।",
+      "दुख में कोई साथ न देता पीछे सब हट जाते हैं ।",
+      "सुख दुख में है साहिब साथी यों कह वेद पुराना ॥२ ॥"
     ],
     [
-      "सोवत जागत सरवकाल मेन धरो प्रभु का धयाना || 8₹. ||.",
-      "मतलब के सब मित जानले सुख मेन सब मिल ाते हैन."
-    ],
-    [
-      "दुःख मेन कोि साथ न देता पिचहे सब हत जाते हैन.",
-      "सुख दुःख मेन है साहिब साथि योन कह वेद पुराना || 2 ||."
-    ],
-    [
-      "सुमरन जैसा साधन कोि कलुकाल मेन नाहिन.",
-      "तानते मिलकर हरि गुन गावो साध सनगति के माहिन."
-    ],
-    [
-      "कहे तेऊँ जग जाल कातके पावो पद निरबाना || 3े.",
-      "थ"
+      "सुमरन जैसा साधन कोई कलूकाल में नाहीं ।",
+      "तांते मिलकर हरि गुन गावो साध संगति के माहीं ।",
+      "कहे टेऊँ जग जाल काटके पावो पद निर्बाना ॥३े ।"
     ]
   ],
   "romanLyrics": [
     [
-      "Pritam Pyaare Jag Men Apnaa Chaaho Je Kalyaanaa.",
-      "Saadh Sangti Se Priti Karle Sumro Shri Bhagvaanaa (Tek)."
-    ],
-    [
       "Bahut Janam Ke Pichhe Tum Ne Maanush Cholaa Paayaa Hai.",
-      "Aisaa Belaa Pher N Aave Kyon Tum Muft Ganvaayaa Hai."
+      "Aisaa Belaa Pher Na Aave Kyon Tum Muft Ganvaayaa Hai.",
+      "Sovat Jaagat Sarvakaal Men Dharo Prabhu Kaa Dhyaanaa || 8 || 1 ||"
     ],
     [
-      "Sovat Jaagat Sarvakaal Men Dharo Prabhu Kaa Dhyaanaa || 8₹. ||.",
-      "Matlab Ke Sab Mit Jaanle Sukh Men Sab Mil Aate Hain."
-    ],
-    [
-      "Dukh Men Koi Saath N Detaa Pichhe Sab Hat Jaate Hain.",
-      "Sukh Dukh Men Hai Saahib Saathi Yon Kah Ved Puraanaa || 2 ||."
+      "Matlab Ke Sab Mit Jaanle Sukh Men Sab Mil Aate Hain.",
+      "Dukh Men Koi Saath Na Detaa Pichhe Sab Hat Jaate Hain.",
+      "Sukh Dukh Men Hai Saahib Saathi Yon Kah Ved Puraanaa || 2 ||"
     ],
     [
       "Sumran Jaisaa Saadhan Koi Kalukaal Men Naahin.",
-      "Taante Milkar Hari Gun Gaavo Saadh Sangti Ke Maahin."
-    ],
-    [
-      "Kahe Teun Jag Jaal Kaatke Paavo Pad Nirbaanaa || 3E.",
-      "Th"
+      "Taante Milkar Hari Gun Gaavo Saadh Sangti Ke Maahin.",
+      "Kahe Teun Jag Jaal Kaatke Paavo Pad Nirbaanaa || 3E."
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 34 || 249 ||",
+    "प्रीतम प्यारे जग में अपना चाहो जे कल्याना",
     "Pritam Pyaare Jag Men Apnaa Chaaho Je Kalyaanaa",
-    "परितम पयारे जग मेन पना चाहो जे कलयाना"
+    "राग भैरवी भजन 34",
+    "Raag Bhairvi Bhajan 34"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 249,
+  "displayOrder": 34,
+  "overallOrder": 249,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 155",
+  "updatedAt": "2026-10-26"
 }

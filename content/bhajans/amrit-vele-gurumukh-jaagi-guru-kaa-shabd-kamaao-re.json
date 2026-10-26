@@ -2,71 +2,104 @@
   "id": "bhajan-0036",
   "slug": "amrit-vele-gurumukh-jaagi-guru-kaa-shabd-kamaao-re",
   "categoryId": "raag-prabhaati",
-  "title": "अमृत वेले गुरुमुख जागि, गुरु का शबद कमाो रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "अमृत वेले गुरुमुख जागी , गुरु का शब्द कमाओ रे",
   "romanTitle": "Amrit Vele Gurumukh Jaagi, Guru Kaa Shabd Kamaao Re",
   "firstLine": "Amrit Vele Gurumukh Jaagi, Guru Kaa Shabd Kamaao Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ४ ।। ३६।॥।",
+  "tek": [
+    "अमृत वेले गुरुमुख जागी , गुरु का शब्द कमाओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amrit Vele Gurumukh Jaagi, Guru Kaa Shabd Kamaao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पहला पद पूरक से मेले, दूजा मेलो रेचक से ।",
+        "कुम्भक से फिर हृदय अन्तर, सारा शब्द चलाओ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pahlaa Pad Purak Se Mele, Dujaa Melo Rechak Se.",
+        "Kumbhak Se Phir Hriday Antar, Saaraa Shabd Chalaao Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पहला पद तुम ब्रह्म पछानो, दूजा मानो आतम को ।",
+        "उलट सुलट कर सुमरन तांका, पाँचों भेद मिटाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pahlaa Pad Tum Brahm Pachhaano, Dujaa Maano Aatam Ko.",
+        "Ulat Sulat Kar Sumran Taankaa, Paanchon Bhed Mitaao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शब्द गुरू का सीप समाना, दो पद दो पुड़ जान तिसे ।",
+        "अभेद रूपी मोती तामें, अपनी वृत्ति लगाओ रे ॥ डे ॥",
+        "कहता टेऊँ पूरण गुरु से, सुमरण की विधि ले करके ।",
+        "अजपा जाप जपे निशवासर, निर्भय नगर बसाओ रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Shabd Guru Kaa Sip Samaanaa, Do Pad Do Pur Jaan Tise.",
+        "Abhed Rupi Moti Taamen, Apni Vritti Lagaao Re || De ||",
+        "Kahtaa Teun Puran Guru Se, Sumran Ki Vidhi Le Karke.",
+        "Ajpaa Jaap Jape Nishvaasar, Nirbhay Nagar Basaao Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमृत वेले गुरुमुख जागि, गुरु का शबद कमाो रे (टेक)."
+      "पहला पद पूरक से मेले, दूजा मेलो रेचक से ।",
+      "कुम्भक से फिर हृदय अन्तर, सारा शब्द चलाओ रे ॥१ ॥"
     ],
     [
-      "पहला पद पुरक से मेले, दुजा मेलो रेचक से.",
-      "कुमभक से फिर हरिदय नतर, सारा शबद चलाो रे || 1 ||."
+      "पहला पद तुम ब्रह्म पछानो, दूजा मानो आतम को ।",
+      "उलट सुलट कर सुमरन तांका, पाँचों भेद मिटाओ रे ॥२ ॥"
     ],
     [
-      "पहला पद तुम बरहम पचहानो, दुजा मानो ातम को.",
-      "ुलत सुलत कर सुमरन तानका, पानचोन भेद मिताो रे || 2 ||."
-    ],
-    [
-      "शबद गुरु का सिप समाना, दो पद दो पुर जान तिसे.",
-      "भेद रुपि मोति तामेन, पनि वरितति लगाो रे || दे ||"
-    ],
-    [
-      "कहता तेऊँ पुरन गुरु से, सुमरन कि विधि ले करके.",
-      "जपा जाप जपे निशवासर, निरभय नगर बसाो रे || 4 ||."
-    ],
-    [
-      "गन"
+      "शब्द गुरू का सीप समाना, दो पद दो पुड़ जान तिसे ।",
+      "अभेद रूपी मोती तामें, अपनी वृत्ति लगाओ रे ॥ डे ॥",
+      "कहता टेऊँ पूरण गुरु से, सुमरण की विधि ले करके ।",
+      "अजपा जाप जपे निशवासर, निर्भय नगर बसाओ रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amrit Vele Gurumukh Jaagi, Guru Kaa Shabd Kamaao Re (Tek)."
-    ],
-    [
       "Pahlaa Pad Purak Se Mele, Dujaa Melo Rechak Se.",
-      "Kumbhak Se Phir Hriday Antar, Saaraa Shabd Chalaao Re || 1 ||."
+      "Kumbhak Se Phir Hriday Antar, Saaraa Shabd Chalaao Re || 1 ||"
     ],
     [
       "Pahlaa Pad Tum Brahm Pachhaano, Dujaa Maano Aatam Ko.",
-      "Ulat Sulat Kar Sumran Taankaa, Paanchon Bhed Mitaao Re || 2 ||."
+      "Ulat Sulat Kar Sumran Taankaa, Paanchon Bhed Mitaao Re || 2 ||"
     ],
     [
       "Shabd Guru Kaa Sip Samaanaa, Do Pad Do Pur Jaan Tise.",
-      "Abhed Rupi Moti Taamen, Apni Vritti Lagaao Re || De ||"
-    ],
-    [
+      "Abhed Rupi Moti Taamen, Apni Vritti Lagaao Re || De ||",
       "Kahtaa Teun Puran Guru Se, Sumran Ki Vidhi Le Karke.",
-      "Ajpaa Jaap Jape Nishvaasar, Nirbhay Nagar Basaao Re || 4 ||."
-    ],
-    [
-      "Gan"
+      "Ajpaa Jaap Jape Nishvaasar, Nirbhay Nagar Basaao Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 4 || 36. ||.",
+    "अमृत वेले गुरुमुख जागी , गुरु का शब्द कमाओ रे",
     "Amrit Vele Gurumukh Jaagi, Guru Kaa Shabd Kamaao Re",
-    "अमृत वेले गुरुमुख जागि, गुरु का शबद कमाो रे"
+    "राग प्रभाती भजन 4",
+    "Raag Prabhaati Bhajan 4"
   ],
   "tags": [
-    "teunram",
-    "prabhaati",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
     "bhajan"
   ],
-  "displayOrder": 36,
+  "displayOrder": 4,
+  "overallOrder": 36,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 43",
+  "updatedAt": "2026-10-26"
 }

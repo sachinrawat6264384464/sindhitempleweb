@@ -1,54 +1,100 @@
 {
-  "id": "bhajan-0594",
+  "id": "bhajan-0592",
   "slug": "puran-sadguru-mohi-pilaai-bhar-kar-prem-pyaali-re",
   "categoryId": "raag-purab",
-  "title": "पुरन सद्गुरु मोहि पिलाि, भर कर प्रेम पयालि रे",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "पूरण सद्‌गुरु मोहि पिलाई, भर कर प्रेम प्याली रे",
   "romanTitle": "Puran Sad‌Guru Mohi Pilaai, Bhar Kar Prem Pyaali Re",
   "firstLine": "Puran Sad‌Guru Mohi Pilaai, Bhar Kar Prem Pyaali Re (Tek).",
+  "heading": "।। राग पूरब भजन ।। २ ।। ५९३।।",
+  "tek": [
+    "पूरण सद्‌गुरु मोहि पिलाई, भर कर प्रेम प्याली रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Puran Sad‌Guru Mohi Pilaai, Bhar Kar Prem Pyaali Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पीवत नाम नशा मोहि चढ़िया, खुल गई दिल की ताली रे ।4 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pivat Naam Nashaa Mohi Charhiyaa, Khul Gai Dil Ki Taali Re.4 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ऊज्ञा अनुभव भानु अन्दर में, मिट गई अविद्या काली रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ujnyaa Anubhav Bhaanu Andar Men, Mit Gai Avidyaa Kaali Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन मन धन की सुधि सब भूली , देख लाल की लाली रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Dhan Ki Sudhi Sab Bhuli, Dekh Laal Ki Laali Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु कृपा करके, काटी जम की जाली रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kripaa Karke, Kaati Jam Ki Jaali Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पुरन सद्गुरु मोहि पिलाि, भर कर प्रेम पयालि रे (टेक)."
+      "पीवत नाम नशा मोहि चढ़िया, खुल गई दिल की ताली रे ।4 ॥१ ॥"
     ],
     [
-      "पिवत नाम नशा मोहि चरहिया, खुल गै दिल कि तालि रे.41 ||.",
-      "ुजनया नुभव भानु नदर मेन, मित गै विदया कालि रे.2 ||."
+      "ऊज्ञा अनुभव भानु अन्दर में, मिट गई अविद्या काली रे ॥२ ॥"
     ],
     [
-      "तन मन धन कि सुधि सब भुलि, देख लाल कि लालि रे || 3 ||."
+      "तन मन धन की सुधि सब भूली , देख लाल की लाली रे ॥३ ॥"
     ],
     [
-      "कहे तेऊँ गुरु कृपा करके, काति जम कि जालि रे || 4 ||."
+      "कहे टेऊँ गुरु कृपा करके, काटी जम की जाली रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Puran Sad‌Guru Mohi Pilaai, Bhar Kar Prem Pyaali Re (Tek)."
+      "Pivat Naam Nashaa Mohi Charhiyaa, Khul Gai Dil Ki Taali Re.4 || 1 ||"
     ],
     [
-      "Pivat Naam Nashaa Mohi Charhiyaa, Khul Gai Dil Ki Taali Re.41 ||.",
-      "Ujnyaa Anubhav Bhaanu Andar Men, Mit Gai Avidyaa Kaali Re.2 ||."
+      "Ujnyaa Anubhav Bhaanu Andar Men, Mit Gai Avidyaa Kaali Re || 2 ||"
     ],
     [
-      "Tan Man Dhan Ki Sudhi Sab Bhuli, Dekh Laal Ki Laali Re || 3 ||."
+      "Tan Man Dhan Ki Sudhi Sab Bhuli, Dekh Laal Ki Laali Re || 3 ||"
     ],
     [
-      "Kahe Teun Guru Kripaa Karke, Kaati Jam Ki Jaali Re || 4 ||."
+      "Kahe Teun Guru Kripaa Karke, Kaati Jam Ki Jaali Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Purab Bhajan || 2 || 593 ||",
+    "पूरण सद्‌गुरु मोहि पिलाई, भर कर प्रेम प्याली रे",
     "Puran Sad‌Guru Mohi Pilaai, Bhar Kar Prem Pyaali Re",
-    "पुरन सद्गुरु मोहि पिलाि, भर कर प्रेम पयालि रे"
+    "राग पूरब भजन 2",
+    "Raag Purab Bhajan 2"
   ],
   "tags": [
-    "teunram",
-    "purab",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 594,
+  "displayOrder": 2,
+  "overallOrder": 592,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 322",
+  "updatedAt": "2026-10-26"
 }

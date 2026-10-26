@@ -1,65 +1,117 @@
 {
-  "id": "bhajan-0500",
+  "id": "bhajan-0499",
   "slug": "dar-dar-phirtaa-kaahin-divaanaa",
   "categoryId": "raag-kohiyaari",
-  "title": "दर दर फिरता काहिन दिवाना",
-  "romanTitle": "Dar Dar Phirtaa Kaahin Divaanaa",
-  "firstLine": "Dar Dar Phirtaa Kaahin Divaanaa, Antar Hai Israaraa, Kar Didaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "दर दर फिरता काहिं दिवाना,",
+  "romanTitle": "Dar Dar Phirtaa Kaahin Divaanaa,",
+  "firstLine": "Dar Dar Phirtaa Kaahin Divaanaa,",
+  "heading": "।। राग कोह्मयारी भजन ।। २० ॥। ५००॥।॥",
+  "tek": [
+    "दर दर फिरता काहिं दिवाना,",
+    "अन्तर है इसरारा, कर दीदारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dar Dar Phirtaa Kaahin Divaanaa,",
+    "Antar Hai Israaraa, Kar Didaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अन्तर सूर्य अन्तर चन्दा, अन्तर लाखों तारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Antar Sury Antar Chandaa, Antar Laakhon Taaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अन्तर अठसठ तीर्थ सारे, अन्तर हरि का द्वारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Antar Athsath Tirth Saare, Antar Hari Kaa Dvaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन्तर बाजा बीन सितारा, अन्तर है चौतारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Antar Baajaa Bin Sitaaraa, Antar Hai Chautaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अन्तर ब्रह्मा विष्णु महेशा, अन्तर ओडउड्डारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Antar Brahmaa Vishnu Maheshaa, Antar Oduddaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ शिर को सोझो, शिर में सिरजणहारा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Shir Ko Sojho, Shir Men Sirjanhaaraa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दर दर फिरता काहिन दिवाना,",
-      "नतर है िसरारा, कर दिदारा (टेक)."
+      "अन्तर सूर्य अन्तर चन्दा, अन्तर लाखों तारा ॥१ ॥"
     ],
     [
-      "नतर सुरय नतर चनदा, नतर लाखोन तारा || 1 ||."
+      "अन्तर अठसठ तीर्थ सारे, अन्तर हरि का द्वारा ॥२ ॥"
     ],
     [
-      "नतर थसथ तिरथ सारे, नतर हरि का दवारा || 2 ||."
+      "अन्तर बाजा बीन सितारा, अन्तर है चौतारा ॥३ ॥"
     ],
     [
-      "नतर बाजा बिन सितारा, नतर है चौतारा || 3 ||."
+      "अन्तर ब्रह्मा विष्णु महेशा, अन्तर ओडउड्डारा ॥४ ॥"
     ],
     [
-      "नतर बरहम विशनु महेशा, नतर ोदुददारा || 4 ||."
-    ],
-    [
-      "कहता तेऊँ शिर को सोझो, शिर मेन सिरजनहारा || 5 ||."
+      "कहता टेऊँ शिर को सोझो, शिर में सिरजणहारा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dar Dar Phirtaa Kaahin Divaanaa,",
-      "Antar Hai Israaraa, Kar Didaaraa (Tek)."
+      "Antar Sury Antar Chandaa, Antar Laakhon Taaraa || 1 ||"
     ],
     [
-      "Antar Sury Antar Chandaa, Antar Laakhon Taaraa || 1 ||."
+      "Antar Athsath Tirth Saare, Antar Hari Kaa Dvaaraa || 2 ||"
     ],
     [
-      "Antar Athsath Tirth Saare, Antar Hari Kaa Dvaaraa || 2 ||."
+      "Antar Baajaa Bin Sitaaraa, Antar Hai Chautaaraa || 3 ||"
     ],
     [
-      "Antar Baajaa Bin Sitaaraa, Antar Hai Chautaaraa || 3 ||."
+      "Antar Brahmaa Vishnu Maheshaa, Antar Oduddaaraa || 4 ||"
     ],
     [
-      "Antar Brahma Vishnu Maheshaa, Antar Oduddaaraa || 4 ||."
-    ],
-    [
-      "Kahtaa Teun Shir Ko Sojho, Shir Men Sirjanhaaraa || 5 ||."
+      "Kahtaa Teun Shir Ko Sojho, Shir Men Sirjanhaaraa || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmayaari Bhajan || 20 ||. 500 ||. ||",
-    "Dar Dar Phirtaa Kaahin Divaanaa",
-    "दर दर फिरता काहिन दिवाना"
+    "दर दर फिरता काहिं दिवाना,",
+    "Dar Dar Phirtaa Kaahin Divaanaa,",
+    "राग कोहियारी भजन 20",
+    "Raag Kohiyaari Bhajan 20"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 500,
+  "displayOrder": 20,
+  "overallOrder": 499,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 279",
+  "updatedAt": "2026-10-26"
 }

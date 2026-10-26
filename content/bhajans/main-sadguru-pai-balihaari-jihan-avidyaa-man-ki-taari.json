@@ -1,72 +1,131 @@
 {
   "id": "bhajan-0275",
   "slug": "main-sadguru-pai-balihaari-jihan-avidyaa-man-ki-taari",
-  "categoryId": "raag-bhairav",
-  "title": "मैं सद्गुरु पै बलिहारि, जिहन विदया मन कि तारि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मैं सद्गुरु पै बलिहारी , जिहँ अविद्या मन की टारी",
   "romanTitle": "Main Sadguru Pai Balihaari, Jihan Avidyaa Man Ki Taari",
   "firstLine": "Main Sadguru Pai Balihaari, Jihan Avidyaa Man Ki Taari (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६० ।। २७५।।",
+  "tek": [
+    "मैं सद्गुरु पै बलिहारी , जिहँ अविद्या मन की टारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Sadguru Pai Balihaari, Jihan Avidyaa Man Ki Taari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस ठाकुर के दर्शन कारन, बहु तीर्थ मैं परसे ।",
+        "सो ठाकुर गुरुदेव दिखाया, अपने घटहिं मँझारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Thaakur Ke Darshan Kaaran, Bahu Tirth Main Parse.",
+        "So Thaakur Gurudev Dikhaayaa, Apne Ghathin Manjhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मन बुद्धि वाणी लखे न जांको, वेद पार ना पावे ।",
+        "घट घट माहिं लखाया सो गुरु, करके ज्ञान उज्यारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Man Buddhi Vaani Lakhe Na Jaanko, Ved Paar Naa Paave.",
+        "Ghat Ghat Maahin Lakhaayaa So Guru, Karke Gyaan Ujyaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बहुत जन्म में कर्म कमाया, जम का लेख न चूका ।",
+        "सत्गुरु दे बैराग विवेका, जम की चिन्त निवारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Men Karm Kamaayaa, Jam Kaa Lekh Na Chukaa.",
+        "Satguru De Bairaag Vivekaa, Jam Ki Chint Nivaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ तीन लोक में, सत्गुरु सम ना कोई ।",
+        "जिसने कृपा करके मेरी, जग में पैज सँवारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tin Lok Men, Satguru Sam Naa Koi.",
+        "Jisne Kripaa Karke Meri, Jag Men Paij Sanvaari || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््य"
+      ],
+      "romanLines": [
+        "Gy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं सद्गुरु पै बलिहारि, जिहन विदया मन कि तारि (टेक)."
+      "जिस ठाकुर के दर्शन कारन, बहु तीर्थ मैं परसे ।",
+      "सो ठाकुर गुरुदेव दिखाया, अपने घटहिं मँझारी ॥१ ॥"
     ],
     [
-      "जिस थाकुर के दरशन कारन, बहु तिरथ मैं परसे.",
-      "सो थाकुर गुरुदेव दिखाया, पने घथिन मनझारि || 1. ||."
+      "मन बुद्धि वाणी लखे न जांको, वेद पार ना पावे ।",
+      "घट घट माहिं लखाया सो गुरु, करके ज्ञान उज्यारी ॥२ ॥"
     ],
     [
-      "मन बुदधि वाणी लखे न जानको, वेद पार ना पावे.",
-      "घत घत माहिन लखाया सो गुरु, करके ज्ञान ुजयारि || 2 ||."
+      "बहुत जन्म में कर्म कमाया, जम का लेख न चूका ।",
+      "सत्गुरु दे बैराग विवेका, जम की चिन्त निवारी ॥३ ॥"
     ],
     [
-      "बहुत जनम मेन करम कमाया, जम का लेख न चुका.",
-      "सतगुरु दे बैराग विवेका, जम कि चिनत निवारि || 3 ||."
+      "कहता टेऊँ तीन लोक में, सत्गुरु सम ना कोई ।",
+      "जिसने कृपा करके मेरी, जग में पैज सँवारी ॥४ ॥"
     ],
     [
-      "कहता तेऊँ तिन लोक मेन, सतगुरु सम ना कोि.",
-      "जिसने कृपा करके मेरि, जग मेन पैज सनवारि || 4. ||."
-    ],
-    [
-      "गय"
+      "ग््य"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Sadguru Pai Balihaari, Jihan Avidyaa Man Ki Taari (Tek)."
-    ],
-    [
       "Jis Thaakur Ke Darshan Kaaran, Bahu Tirth Main Parse.",
-      "So Thaakur Gurudev Dikhaayaa, Apne Ghathin Manjhaari || 1. ||."
+      "So Thaakur Gurudev Dikhaayaa, Apne Ghathin Manjhaari || 1 ||"
     ],
     [
-      "Man Buddhi Vaani Lakhe N Jaanko, Ved Paar Naa Paave.",
-      "Ghat Ghat Maahin Lakhaayaa So Guru, Karke Jnyaan Ujyaari || 2 ||."
+      "Man Buddhi Vaani Lakhe Na Jaanko, Ved Paar Naa Paave.",
+      "Ghat Ghat Maahin Lakhaayaa So Guru, Karke Gyaan Ujyaari || 2 ||"
     ],
     [
-      "Bahut Janm Men Karm Kamaayaa, Jam Kaa Lekh N Chukaa.",
-      "Satguru De Bairaag Vivekaa, Jam Ki Chint Nivaari || 3 ||."
+      "Bahut Janm Men Karm Kamaayaa, Jam Kaa Lekh Na Chukaa.",
+      "Satguru De Bairaag Vivekaa, Jam Ki Chint Nivaari || 3 ||"
     ],
     [
       "Kahtaa Teun Tin Lok Men, Satguru Sam Naa Koi.",
-      "Jisne Kripaa Karke Meri, Jag Men Paij Sanvaari || 4. ||."
+      "Jisne Kripaa Karke Meri, Jag Men Paij Sanvaari || 4 ||"
     ],
     [
       "Gy"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 60 || 275 ||",
+    "मैं सद्गुरु पै बलिहारी , जिहँ अविद्या मन की टारी",
     "Main Sadguru Pai Balihaari, Jihan Avidyaa Man Ki Taari",
-    "मैं सद्गुरु पै बलिहारि, जिहन विदया मन कि तारि"
+    "राग भैरवी भजन 60",
+    "Raag Bhairvi Bhajan 60"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 275,
+  "displayOrder": 60,
+  "overallOrder": 275,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 168",
+  "updatedAt": "2026-10-26"
 }

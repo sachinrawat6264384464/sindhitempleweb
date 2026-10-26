@@ -2,88 +2,133 @@
   "id": "bhajan-0405",
   "slug": "kyon-jag-se-priti-lagaate",
   "categoryId": "raag-tilang",
-  "title": "कयोन जग से परिति लगाते",
-  "romanTitle": "Kyon Jag Se Priti Lagaate",
-  "firstLine": "Kyon Jag Se Priti Lagaate, O Bande! Sab Tujhe Chhor Jaavenge (Tek).",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "क्यों जग से प्रीति लगाते,",
+  "romanTitle": "Kyon Jag Se Priti Lagaate,",
+  "firstLine": "Kyon Jag Se Priti Lagaate,",
+  "heading": "।। राग तिलंग भजन ॥। रे ।। ४०६।॥।",
+  "tek": [
+    "क्यों जग से प्रीति लगाते,",
+    "ओ बन्दे! सब तुझे छोड़ जावेंगे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kyon Jag Se Priti Lagaate,",
+    "O Bande! Sab Tujhe Chhor Jaavenge (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "माया इकठी करने कारन पाप करत बहु भाई ।",
+        "भोग रसन को भोगत भोगत ज़रा लाज नहिं आई ।",
+        "क्यों वृथा जन्म गँवाते ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Ikthi Karne Kaaran Paap Karat Bahu Bhaai.",
+        "Bhog Rasan Ko Bhogat Bhogat Zaraa Laaj Nahin Aai.",
+        "Kyon Vrithaa Janm Ganvaate || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देख देख जिस सुन्दर तन को करते हो श्यृंगारा ।",
+        "हाड़ मांस का तेरा तन वो होगा इक दिन छारा ।",
+        "क्यों झूठी देह सजाते ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dekh Dekh Jis Sundar Tan Ko Karte Ho Shyringaaraa.",
+        "Haar Maans Kaa Teraa Tan Vo Hogaa Ik Din Chhaaraa.",
+        "Kyon Jhuthi Deh Sajaate || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जगत पदार्थ झूठे हैं सब जिनहिं देख हर्षाया ।",
+        "झूठे हैं सब साक सम्बन्धी जिनसे नेह लगाया ।",
+        "ये किससे नाहिं निभाते ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jagat Padaarth Jhuthe Hain Sab Jinhin Dekh Harshaayaa.",
+        "Jhuthe Hain Sab Saak Sambandhi Jinse Neh Lagaayaa.",
+        "Ye Kisse Naahin Nibhaate || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम भूल न जाना मेरा यह उपदेशा ।",
+        "राम भजन तुम अबहीं करले जांसे मिट॒हिं कलेशा ।",
+        "यह संत वेद बतलाते ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Bhul Na Jaanaa Meraa Yah Updeshaa.",
+        "Raam Bhajan Tum Abhin Karle Jaanse Mithin Kaleshaa.",
+        "Yah Sant Ved Batlaate || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कयोन जग से परिति लगाते,",
-      "ो बनदे! सब तुझे चहोर जावेनगे (टेक)."
+      "माया इकठी करने कारन पाप करत बहु भाई ।",
+      "भोग रसन को भोगत भोगत ज़रा लाज नहिं आई ।",
+      "क्यों वृथा जन्म गँवाते ॥१ ॥"
     ],
     [
-      "माया िकथि करने कारन पाप करत बहु भाि.",
-      "भोग रसन को भोगत भोगत zरा लाज नहिन ाि."
+      "देख देख जिस सुन्दर तन को करते हो श्यृंगारा ।",
+      "हाड़ मांस का तेरा तन वो होगा इक दिन छारा ।",
+      "क्यों झूठी देह सजाते ॥२ ॥"
     ],
     [
-      "कयोन वरिथा जनम गनवाते || 1 ||."
+      "जगत पदार्थ झूठे हैं सब जिनहिं देख हर्षाया ।",
+      "झूठे हैं सब साक सम्बन्धी जिनसे नेह लगाया ।",
+      "ये किससे नाहिं निभाते ॥३ ॥"
     ],
     [
-      "देख देख जिस सुनदर तन को करते हो शयरिनगारा.",
-      "हार मानस का तेरा तन वो होगा िक दीन चहारा."
-    ],
-    [
-      "कयोन झुथि देह सजाते ||.2 ||.",
-      "जगत पदारथ झुथे हैन सब जिनहिन देख हरशाया."
-    ],
-    [
-      "झुथे हैन सब साक समबनधि जिनसे नेह लगाया.",
-      "ये किससे नाहिन निभाते ||.3. ||."
-    ],
-    [
-      "रा",
-      "कहे तेऊँ तुम भुल न जाना मेरा यह ुपदेशा."
-    ],
-    [
-      "राम भजन तुम भिन करले जानसे मिथिन कलेशा.",
-      "यह संत वेद बतलाते || 4 ||"
+      "कहे टेऊँ तुम भूल न जाना मेरा यह उपदेशा ।",
+      "राम भजन तुम अबहीं करले जांसे मिट॒हिं कलेशा ।",
+      "यह संत वेद बतलाते ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kyon Jag Se Priti Lagaate,",
-      "O Bande! Sab Tujhe Chhor Jaavenge (Tek)."
-    ],
-    [
       "Maayaa Ikthi Karne Kaaran Paap Karat Bahu Bhaai.",
-      "Bhog Rasan Ko Bhogat Bhogat Zaraa Laaj Nahin Aai."
-    ],
-    [
-      "Kyon Vrithaa Janm Ganvaate || 1 ||."
+      "Bhog Rasan Ko Bhogat Bhogat Zaraa Laaj Nahin Aai.",
+      "Kyon Vrithaa Janm Ganvaate || 1 ||"
     ],
     [
       "Dekh Dekh Jis Sundar Tan Ko Karte Ho Shyringaaraa.",
-      "Haar Maans Kaa Teraa Tan Vo Hogaa Ik Din Chhaaraa."
+      "Haar Maans Kaa Teraa Tan Vo Hogaa Ik Din Chhaaraa.",
+      "Kyon Jhuthi Deh Sajaate || 2 ||"
     ],
     [
-      "Kyon Jhuthi Deh Sajaate ||.2 ||.",
-      "Jagat Padaarth Jhuthe Hain Sab Jinhin Dekh Harshaayaa."
-    ],
-    [
+      "Jagat Padaarth Jhuthe Hain Sab Jinhin Dekh Harshaayaa.",
       "Jhuthe Hain Sab Saak Sambandhi Jinse Neh Lagaayaa.",
-      "Ye Kisse Naahin Nibhaate ||.3. ||."
+      "Ye Kisse Naahin Nibhaate || 3 ||"
     ],
     [
-      "Raa",
-      "Kahe Teun Tum Bhul N Jaanaa Meraa Yah Updeshaa."
-    ],
-    [
+      "Kahe Teun Tum Bhul Na Jaanaa Meraa Yah Updeshaa.",
       "Raam Bhajan Tum Abhin Karle Jaanse Mithin Kaleshaa.",
       "Yah Sant Ved Batlaate || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan ||. Re || 406. ||.",
-    "Kyon Jag Se Priti Lagaate",
-    "कयोन जग से परिति लगाते"
+    "क्यों जग से प्रीति लगाते,",
+    "Kyon Jag Se Priti Lagaate,",
+    "राग तिलंग भजन 42",
+    "Raag Tilang Bhajan 42"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 405,
+  "displayOrder": 42,
+  "overallOrder": 405,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 236",
+  "updatedAt": "2026-10-26"
 }

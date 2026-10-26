@@ -2,65 +2,100 @@
   "id": "bhajan-0385",
   "slug": "guru-kaa-shabd-jaan-sukhdaai",
   "categoryId": "raag-tilang",
-  "title": "गुरु का शबद जान सुखदाि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "गुरु का शब्द जान सुखदाई",
   "romanTitle": "Guru Kaa Shabd Jaan Sukhdaai",
   "firstLine": "Guru Kaa Shabd Jaan Sukhdaai.",
+  "heading": "।। राग तिलंग भजन ।। २२ ।। ३८६।॥।",
+  "tek": [
+    "गुरु का शब्द जान सुखदाई ।",
+    "जो जन गुरु का शब्द कमावे, जहाँ तहाँ सो सुख को पावे ।",
+    "सहजे निज स्वरूप समावे, सन्तनि साख सुनाई ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Kaa Shabd Jaan Sukhdaai.",
+    "Jo Jan Guru Kaa Shabd Kamaave, Jahaan Tahaan So Sukh Ko Paave.",
+    "Sahje Nij Svarup Samaave, Santani Saakh Sunaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु का शब्द करे प्रकाशा, अविद्या तम का करत विनाशा ।",
+        "भेद भ्रम का होवत नाशा, संशय रहे न राई ॥8 ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Shabd Kare Prakaashaa, Avidyaa Tam Kaa Karat Vinaashaa.",
+        "Bhed Bhram Kaa Hovat Naashaa, Sanshay Rahe Na Raai || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु शब्दे तांका मन लागे, जांके पूरब के पुण्य जागे ।",
+        "विषय वासना सो सब त्यागे, साची करत कमाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Shabde Taankaa Man Laage, Jaanke Purab Ke Puny Jaage.",
+        "Vishay Vaasnaa So Sab Tyaage, Saachi Karat Kamaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ जो श्रद्धा धारे, स्वास स्वास गुरु शब्द उच्चारे ।",
+        "धर्मराज भय को सो टारे, निर्भय रहे सदाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Shraddhaa Dhaare, Svaas Svaas Guru Shabd Uchchaare.",
+        "Dharmaraaj Bhay Ko So Taare, Nirbhay Rahe Sadaai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु का शबद जान सुखदाि.",
-      "जो जन गुरु का शबद कमावे, जहान तहान सो सुख को पावे."
+      "गुरु का शब्द करे प्रकाशा, अविद्या तम का करत विनाशा ।",
+      "भेद भ्रम का होवत नाशा, संशय रहे न राई ॥8 ॥"
     ],
     [
-      "सहजे निज सवरुप समावे, सनतनि साख सुनाि (टेक)."
+      "गुरु शब्दे तांका मन लागे, जांके पूरब के पुण्य जागे ।",
+      "विषय वासना सो सब त्यागे, साची करत कमाई ॥२ ॥"
     ],
     [
-      "गुरु का शबद करे परकाशा, विदया तम का करत विनाशा.",
-      "भेद भरम का होवत नाशा, सनशय रहे न राि || 8 ||"
-    ],
-    [
-      "गुरु शबदे तानका मन लागे, जानके पुरब के पुनय जागे.",
-      "विशय वासना सो सब तयागे, साचि करत कमाि || 2 ||."
-    ],
-    [
-      "कहे तेऊँ जो शरदधा धारे, सवास सवास गुरु शबद ुचचारे.",
-      "धरमराज भय को सो तारे, निरभय रहे सदाि ||.3 ||"
+      "कहे टेऊँ जो श्रद्धा धारे, स्वास स्वास गुरु शब्द उच्चारे ।",
+      "धर्मराज भय को सो टारे, निर्भय रहे सदाई ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Kaa Shabd Jaan Sukhdaai.",
-      "Jo Jan Guru Kaa Shabd Kamaave, Jahaan Tahaan So Sukh Ko Paave."
-    ],
-    [
-      "Sahje Nij Svarup Samaave, Santani Saakh Sunaai (Tek)."
-    ],
-    [
       "Guru Kaa Shabd Kare Prakaashaa, Avidyaa Tam Kaa Karat Vinaashaa.",
-      "Bhed Bhram Kaa Hovat Naashaa, Sanshay Rahe N Raai || 8 ||"
+      "Bhed Bhram Kaa Hovat Naashaa, Sanshay Rahe Na Raai || 8 ||"
     ],
     [
       "Guru Shabde Taankaa Man Laage, Jaanke Purab Ke Puny Jaage.",
-      "Vishay Vaasnaa So Sab Tyaage, Saachi Karat Kamaai || 2 ||."
+      "Vishay Vaasnaa So Sab Tyaage, Saachi Karat Kamaai || 2 ||"
     ],
     [
       "Kahe Teun Jo Shraddhaa Dhaare, Svaas Svaas Guru Shabd Uchchaare.",
-      "Dharmaraaj Bhay Ko So Taare, Nirbhay Rahe Sadaai ||.3 ||"
+      "Dharmaraaj Bhay Ko So Taare, Nirbhay Rahe Sadaai || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 22 || 386. ||.",
+    "गुरु का शब्द जान सुखदाई",
     "Guru Kaa Shabd Jaan Sukhdaai",
-    "गुरु का शबद जान सुखदाि"
+    "राग तिलंग भजन 22",
+    "Raag Tilang Bhajan 22"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 385,
+  "displayOrder": 22,
+  "overallOrder": 385,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 226",
+  "updatedAt": "2026-10-26"
 }

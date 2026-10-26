@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0703",
+  "slug": "brahm-gyaan-kaa-daan-satguru-devat-hai",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "ब्रह्म ज्ञान का दान सत्‌गुरु देवत है",
+  "romanTitle": "Brahm Gyaan Kaa Daan Sat‌Guru Devat Hai",
+  "firstLine": "Brahm Gyaan Kaa Daan Sat‌Guru Devat Hai (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ५६ ।। ७०४।।",
+  "tek": [
+    "ब्रह्म ज्ञान का दान सत्‌गुरु देवत है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Brahm Gyaan Kaa Daan Sat‌Guru Devat Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मोक्ष इच्छा को हृदय धारे, जो जन जावत गुरु के द्वारे ।",
+        "तांको आतम ध्यान, सत्‌गुरु देवत है ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Moksh Ichchhaa Ko Hriday Dhaare, Jo Jan Jaavat Guru Ke Dvaare.",
+        "Taanko Aatam Dhyaan, Sat‌Guru Devat Hai || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन मन धन जो भेट चढ़ाएं, अहंता ममता मान मिटाए ।",
+        "तांको निर्भय ज्ञान, सत्‌गुरु देवत है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Dhan Jo Bhet Charhaaen, Ahantaa Mamtaa Maan Mitaae.",
+        "Taanko Nirbhay Gyaan, Sat‌Guru Devat Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जांका चित हरि चरनों लागे, विष सम जान विषय रस त्यागे ।",
+        "तांको सूख महान, सत्‌गुरु देवत है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaankaa Chit Hari Charnon Laage, Vish Sam Jaan Vishay Ras Tyaage.",
+        "Taanko Sukh Mahaan, Sat‌Guru Devat Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु नाम जपे जो, काम क्रोध में नाहिं तपे जो ।",
+        "तांको पद निर्बान, सत्‌गुरु देवत है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Naam Jape Jo, Kaam Krodh Men Naahin Tape Jo.",
+        "Taanko Pad Nirbaan, Sat‌Guru Devat Hai || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मोक्ष इच्छा को हृदय धारे, जो जन जावत गुरु के द्वारे ।",
+      "तांको आतम ध्यान, सत्‌गुरु देवत है ॥१ ॥१ ॥"
+    ],
+    [
+      "तन मन धन जो भेट चढ़ाएं, अहंता ममता मान मिटाए ।",
+      "तांको निर्भय ज्ञान, सत्‌गुरु देवत है ॥२ ॥"
+    ],
+    [
+      "जांका चित हरि चरनों लागे, विष सम जान विषय रस त्यागे ।",
+      "तांको सूख महान, सत्‌गुरु देवत है ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु नाम जपे जो, काम क्रोध में नाहिं तपे जो ।",
+      "तांको पद निर्बान, सत्‌गुरु देवत है ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Moksh Ichchhaa Ko Hriday Dhaare, Jo Jan Jaavat Guru Ke Dvaare.",
+      "Taanko Aatam Dhyaan, Sat‌Guru Devat Hai || 1 || 1 ||"
+    ],
+    [
+      "Tan Man Dhan Jo Bhet Charhaaen, Ahantaa Mamtaa Maan Mitaae.",
+      "Taanko Nirbhay Gyaan, Sat‌Guru Devat Hai || 2 ||"
+    ],
+    [
+      "Jaankaa Chit Hari Charnon Laage, Vish Sam Jaan Vishay Ras Tyaage.",
+      "Taanko Sukh Mahaan, Sat‌Guru Devat Hai || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Naam Jape Jo, Kaam Krodh Men Naahin Tape Jo.",
+      "Taanko Pad Nirbaan, Sat‌Guru Devat Hai || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "ब्रह्म ज्ञान का दान सत्‌गुरु देवत है",
+    "Brahm Gyaan Kaa Daan Sat‌Guru Devat Hai",
+    "राग पहाड़ी भजन 56",
+    "Raag Pahaari Bhajan 56"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 56,
+  "overallOrder": 703,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 374",
+  "updatedAt": "2026-10-26"
+}

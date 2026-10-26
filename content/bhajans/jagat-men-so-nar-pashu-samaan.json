@@ -2,58 +2,98 @@
   "id": "bhajan-0204",
   "slug": "jagat-men-so-nar-pashu-samaan",
   "categoryId": "raag-tori",
-  "title": "जगत मेन सो नर पशु समान",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "जगत में सो नर पशू समान",
   "romanTitle": "Jagat Men So Nar Pashu Samaan",
-  "firstLine": "Jagat Men So Nar Pashu Samaan. Vrithaa Khovat Manush Janm Jo Karke Tan Abhimaan (Tek).",
+  "firstLine": "Jagat Men So Nar Pashu Samaan.",
+  "heading": "।। राग टोड़ी भजन ।। १२ ।। २०४।॥।",
+  "tek": [
+    "जगत में सो नर पशू समान ।",
+    "वृथा खोवत मनुष जन्म जो करके तन अभिमान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jagat Men So Nar Pashu Samaan.",
+    "Vrithaa Khovat Manush Janm Jo Karke Tan Abhimaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "व्यर्थ वाद विवाद करे जो सुने कथा नहिं कान ।",
+        "साध संगति से मिल कर कबहूं करे न हरिगुन गान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vyarth Vaad Vivaad Kare Jo Sune Kathaa Nahin Kaan.",
+        "Saadh Sangti Se Mil Kar Kabhun Kare Na Harigun Gaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निशदिन पेट भरन के हित जो करता पाप महान ।",
+        "मोह ममत में फस कर जोई करे और की हान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nishdin Pet Bharan Ke Hit Jo Kartaa Paap Mahaan.",
+        "Moh Mamat Men Phas Kar Joi Kare Aur Ki Haan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "परमेश्वर का दिल में जोई धरत न कबहूं ध्यान ।",
+        "कहे टेऊँ गुरु शरनी पड़ कर करत न निज कल्यान ॥ । डे ॥"
+      ],
+      "romanLines": [
+        "Parmeshvar Kaa Dil Men Joi Dharat Na Kabhun Dhyaan.",
+        "Kahe Teun Guru Sharni Par Kar Karat Na Nij Kalyaan || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जगत मेन सो नर पशु समान.",
-      "वरिथा खोवत मनुश जनम जो करके तन भिमान (टेक)."
+      "व्यर्थ वाद विवाद करे जो सुने कथा नहिं कान ।",
+      "साध संगति से मिल कर कबहूं करे न हरिगुन गान ॥१ ॥"
     ],
     [
-      "वयरथ वाद विवाद करे जो सुने कथा नहिन कान.",
-      "साध सनगति से मिल कर कभुन करे न हरिगुन गान || 1 ||"
+      "निशदिन पेट भरन के हित जो करता पाप महान ।",
+      "मोह ममत में फस कर जोई करे और की हान ॥२ ॥"
     ],
     [
-      "निशदिन पेत भरन के हित जो करता पाप महान.",
-      "मोह ममत मेन फस कर जोि करे ौर कि हान || 2 ||."
-    ],
-    [
-      "परमेशवर का दिल मेन जोि धरत न कभुन ध्यान.",
-      "कहे तेऊँ गुरु शरनि पर कर करत न निज कलयान ||. दे ||"
+      "परमेश्वर का दिल में जोई धरत न कबहूं ध्यान ।",
+      "कहे टेऊँ गुरु शरनी पड़ कर करत न निज कल्यान ॥ । डे ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jagat Men So Nar Pashu Samaan.",
-      "Vrithaa Khovat Manush Janm Jo Karke Tan Abhimaan (Tek)."
-    ],
-    [
       "Vyarth Vaad Vivaad Kare Jo Sune Kathaa Nahin Kaan.",
-      "Saadh Sangti Se Mil Kar Kabhun Kare N Harigun Gaan || 1 ||"
+      "Saadh Sangti Se Mil Kar Kabhun Kare Na Harigun Gaan || 1 ||"
     ],
     [
       "Nishdin Pet Bharan Ke Hit Jo Kartaa Paap Mahaan.",
-      "Moh Mamat Men Phas Kar Joi Kare Aur Ki Haan || 2 ||."
+      "Moh Mamat Men Phas Kar Joi Kare Aur Ki Haan || 2 ||"
     ],
     [
-      "Parmeshvar Kaa Dil Men Joi Dharat N Kabhun Dhyaan.",
-      "Kahe Teun Guru Sharni Par Kar Karat N Nij Kalyaan ||. De ||"
+      "Parmeshvar Kaa Dil Men Joi Dharat Na Kabhun Dhyaan.",
+      "Kahe Teun Guru Sharni Par Kar Karat Na Nij Kalyaan || De ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 12 || 204. ||.",
+    "जगत में सो नर पशू समान",
     "Jagat Men So Nar Pashu Samaan",
-    "जगत मेन सो नर पशु समान"
+    "राग तोड़ी भजन 12",
+    "Raag Tori Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 204,
+  "displayOrder": 12,
+  "overallOrder": 204,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 130",
+  "updatedAt": "2026-10-26"
 }

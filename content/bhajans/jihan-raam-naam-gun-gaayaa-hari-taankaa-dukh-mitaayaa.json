@@ -2,71 +2,104 @@
   "id": "bhajan-0094",
   "slug": "jihan-raam-naam-gun-gaayaa-hari-taankaa-dukh-mitaayaa",
   "categoryId": "raag-aasaa",
-  "title": "जिहन राम नाम गुन गाया, हरि तानका दुःख मिताया",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "जिहं राम नाम गुण गाया, हरि तांका दूख मिटाया",
   "romanTitle": "Jihan Raam Naam Gun Gaayaa, Hari Taankaa Dukh Mitaayaa",
   "firstLine": "Jihan Raam Naam Gun Gaayaa, Hari Taankaa Dukh Mitaayaa (Tek).",
+  "heading": "।। राग आसा भजन ।। ३२ ।। ९४॥।",
+  "tek": [
+    "जिहं राम नाम गुण गाया, हरि तांका दूख मिटाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jihan Raam Naam Gun Gaayaa, Hari Taankaa Dukh Mitaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम प्रहलाद सुमरिया, ध्यान हरी का ध्रुव ने धरिया ।",
+        "हरि तिनको दरस दिखाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Prahlaad Sumriyaa, Dhyaan Hari Kaa Dhruv Ne Dhariyaa.",
+        "Hari Tinko Daras Dikhaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अन्त अजामिल राम उचारा, गज ने आधा राम पुकारा ।",
+        "हरि तांको मुक्ति कराया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ant Ajaamil Raam Uchaaraa, Gaj Ne Aadhaa Raam Pukaaraa.",
+        "Hari Taanko Mukti Karaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम शबरी ने लीना, प्रेम जटायू हरि से कीना ।",
+        "हरि तिनको धाम पठाया ॥डे ॥",
+        "कहे टेऊँ तुम भी हरि ध्यावो, हरि सुमरण से सब सुख पावो ।",
+        "यह करले सफली काया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Shabri Ne Linaa, Prem Jataayu Hari Se Kinaa.",
+        "Hari Tinko Dhaam Pathaayaa || De ||",
+        "Kahe Teun Tum Bhi Hari Dhyaavo, Hari Sumran Se Sab Sukh Paavo.",
+        "Yah Karle Saphli Kaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिहन राम नाम गुन गाया, हरि तानका दुःख मिताया (टेक)."
+      "राम नाम प्रहलाद सुमरिया, ध्यान हरी का ध्रुव ने धरिया ।",
+      "हरि तिनको दरस दिखाया ॥१ ॥"
     ],
     [
-      "राम नाम परहलाद सुमरिया, ध्यान हरि का धरुव ने धरिया.",
-      "हरि तिनको दरस दिखाया || 1. ||."
+      "अन्त अजामिल राम उचारा, गज ने आधा राम पुकारा ।",
+      "हरि तांको मुक्ति कराया ॥२ ॥"
     ],
     [
-      "नत जामिल राम ुचारा, गज ने ाधा राम पुकारा.",
-      "हरि तानको मुक्ति कराया || 2 ||."
-    ],
-    [
-      "राम नाम शबरि ने लिना, प्रेम जतायु हरि से किना.",
-      "हरि तिनको धाम पथाया || दे ||"
-    ],
-    [
-      "कहे तेऊँ तुम भि हरि धयावो, हरि सुमरन से सब सुख पावो.",
-      "यह करले सफलि काया || 4. ||."
-    ],
-    [
-      "तर"
+      "राम नाम शबरी ने लीना, प्रेम जटायू हरि से कीना ।",
+      "हरि तिनको धाम पठाया ॥डे ॥",
+      "कहे टेऊँ तुम भी हरि ध्यावो, हरि सुमरण से सब सुख पावो ।",
+      "यह करले सफली काया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jihan Raam Naam Gun Gaayaa, Hari Taankaa Dukh Mitaayaa (Tek)."
-    ],
-    [
       "Raam Naam Prahlaad Sumriyaa, Dhyaan Hari Kaa Dhruv Ne Dhariyaa.",
-      "Hari Tinko Daras Dikhaayaa || 1. ||."
+      "Hari Tinko Daras Dikhaayaa || 1 ||"
     ],
     [
       "Ant Ajaamil Raam Uchaaraa, Gaj Ne Aadhaa Raam Pukaaraa.",
-      "Hari Taanko Mukti Karaayaa || 2 ||."
+      "Hari Taanko Mukti Karaayaa || 2 ||"
     ],
     [
       "Raam Naam Shabri Ne Linaa, Prem Jataayu Hari Se Kinaa.",
-      "Hari Tinko Dhaam Pathaayaa || De ||"
-    ],
-    [
+      "Hari Tinko Dhaam Pathaayaa || De ||",
       "Kahe Teun Tum Bhi Hari Dhyaavo, Hari Sumran Se Sab Sukh Paavo.",
-      "Yah Karle Saphli Kaayaa || 4. ||."
-    ],
-    [
-      "Tar"
+      "Yah Karle Saphli Kaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 32 || 94 ||.",
+    "जिहं राम नाम गुण गाया, हरि तांका दूख मिटाया",
     "Jihan Raam Naam Gun Gaayaa, Hari Taankaa Dukh Mitaayaa",
-    "जिहन राम नाम गुन गाया, हरि तानका दुःख मिताया"
+    "राग आसा भजन 32",
+    "Raag Aasaa Bhajan 32"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 94,
+  "displayOrder": 32,
+  "overallOrder": 94,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 72",
+  "updatedAt": "2026-10-26"
 }

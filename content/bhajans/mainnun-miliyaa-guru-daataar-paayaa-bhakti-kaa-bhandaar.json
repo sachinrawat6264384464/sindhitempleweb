@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0554",
+  "id": "bhajan-0552",
   "slug": "mainnun-miliyaa-guru-daataar-paayaa-bhakti-kaa-bhandaar",
   "categoryId": "raag-khambhaat",
-  "title": "मैननुन मिलिया गुरु दातार, पाया भक्ति का भनदार",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "मैंनूं मिलिया गुरु दातार, पाया भक्ती का भण्डार",
   "romanTitle": "Mainnun Miliyaa Guru Daataar, Paayaa Bhakti Kaa Bhandaar",
   "firstLine": "Mainnun Miliyaa Guru Daataar, Paayaa Bhakti Kaa Bhandaar (Tek).",
+  "heading": "।। राग खम्भाट भजन ॥। ४ ।। ५५३॥।",
+  "tek": [
+    "मैंनूं मिलिया गुरु दातार, पाया भक्ती का भण्डार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mainnun Miliyaa Guru Daataar, Paayaa Bhakti Kaa Bhandaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सतगुरु मिलिया पड़दा खुलिया, दर्शन देखत तन मन फुलिया ।",
+        "हरदम प्रेम हिंडोले झुलिया, होया अनन्द अपार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satguru Miliyaa Pardaa Khuliyaa, Darshan Dekhat Tan Man Phuliyaa.",
+        "Hardam Prem Hindole Jhuliyaa, Hoyaa Anand Apaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पुरकर पीया प्रेम प्याला, खुलिया अनुभव घर का ताला ।",
+        "आठों पहर भया मतिवाला, भूल गया संसार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Purkar Piyaa Prem Pyaalaa, Khuliyaa Anubhav Ghar Kaa Taalaa.",
+        "Aathon Pahar Bhayaa Mativaalaa, Bhul Gayaa Sansaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अपने अन्तर झाती पाई, मिलिया मन मोहन सुखदाई ।",
+        "सुरति निरति तां माहिं समाई , मिट गया ममता जार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Apne Antar Jhaati Paai, Miliyaa Man Mohan Sukhdaai.",
+        "Surti Nirti Taan Maahin Samaai, Mit Gayaa Mamtaa Jaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिस जोगी ध्यावहिं,तपस्वी तपस्या कठिन कमावहिं ।",
+        "शेष महेश आदि गुन गावहिं, देखा तिहँँ दीदार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jis Jogi Dhyaavhin,Tapasvi Tapasyaa Kathin Kamaavhin.",
+        "Shesh Mahesh Aadi Gun Gaavhin, Dekhaa Tihann Didaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैननुन मिलिया गुरु दातार, पाया भक्ति का भनदार (टेक)."
+      "सतगुरु मिलिया पड़दा खुलिया, दर्शन देखत तन मन फुलिया ।",
+      "हरदम प्रेम हिंडोले झुलिया, होया अनन्द अपार ॥१ ॥"
     ],
     [
-      "सतगुरु मिलिया परदा खुलिया, दरशन देखत तन मन फुलिया.",
-      "हरदम प्रेम हिनदोले झुलिया, होया आनंद पार || 1 ||."
+      "पुरकर पीया प्रेम प्याला, खुलिया अनुभव घर का ताला ।",
+      "आठों पहर भया मतिवाला, भूल गया संसार ॥२ ॥"
     ],
     [
-      "पुरकर पिया प्रेम पयाला, खुलिया नुभव घर का ताला.",
-      "ाथोन पहर भया मतिवाला, भुल गया सनसार ||.2 ||."
+      "अपने अन्तर झाती पाई, मिलिया मन मोहन सुखदाई ।",
+      "सुरति निरति तां माहिं समाई , मिट गया ममता जार ॥३ ॥"
     ],
     [
-      "पने नतर झाति पाि, मिलिया मन मोहन सुखदाि.",
-      "सुरति निरति तान माहिन समाि, मित गया ममता जार || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिस जोगि धयावहिनतपसवि तपसया कथिन कमावहिन.",
-      "शेश महेश ादि गुन गावहिन, देखा तिहनन दिदार || 4 ||"
+      "कहे टेऊँ जिस जोगी ध्यावहिं,तपस्वी तपस्या कठिन कमावहिं ।",
+      "शेष महेश आदि गुन गावहिं, देखा तिहँँ दीदार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mainnun Miliyaa Guru Daataar, Paayaa Bhakti Kaa Bhandaar (Tek)."
-    ],
-    [
       "Satguru Miliyaa Pardaa Khuliyaa, Darshan Dekhat Tan Man Phuliyaa.",
-      "Hardam Prem Hindole Jhuliyaa, Hoyaa Anand Apaar || 1 ||."
+      "Hardam Prem Hindole Jhuliyaa, Hoyaa Anand Apaar || 1 ||"
     ],
     [
       "Purkar Piyaa Prem Pyaalaa, Khuliyaa Anubhav Ghar Kaa Taalaa.",
-      "Aathon Pahar Bhayaa Mativaalaa, Bhul Gayaa Sansaar ||.2 ||."
+      "Aathon Pahar Bhayaa Mativaalaa, Bhul Gayaa Sansaar || 2 ||"
     ],
     [
       "Apne Antar Jhaati Paai, Miliyaa Man Mohan Sukhdaai.",
-      "Surti Nirti Taan Maahin Samaai, Mit Gayaa Mamtaa Jaar || 3 ||."
+      "Surti Nirti Taan Maahin Samaai, Mit Gayaa Mamtaa Jaar || 3 ||"
     ],
     [
       "Kahe Teun Jis Jogi Dhyaavhin,Tapasvi Tapasyaa Kathin Kamaavhin.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan ||. 4 || 553 ||.",
+    "मैंनूं मिलिया गुरु दातार, पाया भक्ती का भण्डार",
     "Mainnun Miliyaa Guru Daataar, Paayaa Bhakti Kaa Bhandaar",
-    "मैननुन मिलिया गुरु दातार, पाया भक्ति का भनदार"
+    "राग खंभात भजन 4",
+    "Raag Khambhaat Bhajan 4"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "khambhaat",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
     "bhajan"
   ],
-  "displayOrder": 554,
+  "displayOrder": 4,
+  "overallOrder": 552,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 302",
+  "updatedAt": "2026-10-26"
 }

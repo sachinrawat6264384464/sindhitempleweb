@@ -2,64 +2,115 @@
   "id": "bhajan-0039",
   "slug": "amrit-vele-uth-jijnyaasu-aatam-kaa-nit-dhyaan-dharo",
   "categoryId": "raag-prabhaati",
-  "title": "अमृत वेले ुथ जिजनयासु, ातम का नित ध्यान धरो",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "अमृत वेले ऊठ जिज्ञासू, आतम का नित ध्यान धरो",
   "romanTitle": "Amrit Vele Uth Jijnyaasu, Aatam Kaa Nit Dhyaan Dharo",
   "firstLine": "Amrit Vele Uth Jijnyaasu, Aatam Kaa Nit Dhyaan Dharo (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ७ ।। ३९।।",
+  "tek": [
+    "अमृत वेले ऊठ जिज्ञासू, आतम का नित ध्यान धरो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amrit Vele Uth Jijnyaasu, Aatam Kaa Nit Dhyaan Dharo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गंगा यमुना काशी आदिक, जग में तीर्थ जेते हैं ।",
+        "आतम सम ना तीर्थ कोई, तामें नित स्नान करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gangaa Yamunaa Kaashi Aadik, Jag Men Tirth Jete Hain.",
+        "Aatam Sam Naa Tirth Koi, Taamen Nit Snaan Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इन्द्रलोक रवि चन्द्रलोक लौं, लोक ब्रह्मादी जेते हैं ।",
+        "आतम जैसा लोक न कोई, तामें नित स्थान करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Indralok Ravi Chandralok Laun, Lok Brahmaadi Jete Hain.",
+        "Aatam Jaisaa Lok Na Koi, Taamen Nit Sthaan Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शब्द रूप रस स्पर्श आदी, विषयों के रस जेते हैं ।",
+        "आतम के सम रस ना कोई, तांका नित ही पान करो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shabd Rup Ras Sparsh Aadi, Vishyon Ke Ras Jete Hain.",
+        "Aatam Ke Sam Ras Naa Koi, Taankaa Nit Hi Paan Karo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ब्रह्मा शिव विष्णू, आदि देवता जेते हैं ।",
+        "आतम जैसा देव न कोई, तांका नित गुन गान करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Brahmaa Shiv Vishnu, Aadi Devtaa Jete Hain.",
+        "Aatam Jaisaa Dev Na Koi, Taankaa Nit Gun Gaan Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमृत वेले ुथ जिजनयासु, ातम का नित ध्यान धरो (टेक)."
+      "गंगा यमुना काशी आदिक, जग में तीर्थ जेते हैं ।",
+      "आतम सम ना तीर्थ कोई, तामें नित स्नान करो ॥१ ॥"
     ],
     [
-      "गनगा यमुना काशि ादिक, जग मेन तिरथ जेते हैन.",
-      "ातम सम ना तिरथ कोि, तामेन नित सनान करो || 1 ||"
+      "इन्द्रलोक रवि चन्द्रलोक लौं, लोक ब्रह्मादी जेते हैं ।",
+      "आतम जैसा लोक न कोई, तामें नित स्थान करो ॥२ ॥"
     ],
     [
-      "िनदरलोक रवि चनदरलोक लौन, लोक बरहमादि जेते हैन.",
-      "ातम जैसा लोक न कोि, तामेन नित सथान करो || 2 ||"
+      "शब्द रूप रस स्पर्श आदी, विषयों के रस जेते हैं ।",
+      "आतम के सम रस ना कोई, तांका नित ही पान करो ॥३ ॥"
     ],
     [
-      "शबद रुप रस सपरश ादि, विशयोन के रस जेते हैन.",
-      "ातम के सम रस ना कोि, तानका नित हि पान करो || 3 ||"
-    ],
-    [
-      "कहे तेऊँ बरहम शिव विशनु, ादि देवता जेते हैन.",
-      "ातम जैसा देव न कोि, तानका नित गुन गान करो || 4 ||"
+      "कहे टेऊँ ब्रह्मा शिव विष्णू, आदि देवता जेते हैं ।",
+      "आतम जैसा देव न कोई, तांका नित गुन गान करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Amrit Vele Uth Jijnyaasu, Aatam Kaa Nit Dhyaan Dharo (Tek)."
-    ],
     [
       "Gangaa Yamunaa Kaashi Aadik, Jag Men Tirth Jete Hain.",
       "Aatam Sam Naa Tirth Koi, Taamen Nit Snaan Karo || 1 ||"
     ],
     [
       "Indralok Ravi Chandralok Laun, Lok Brahmaadi Jete Hain.",
-      "Aatam Jaisaa Lok N Koi, Taamen Nit Sthaan Karo || 2 ||"
+      "Aatam Jaisaa Lok Na Koi, Taamen Nit Sthaan Karo || 2 ||"
     ],
     [
       "Shabd Rup Ras Sparsh Aadi, Vishyon Ke Ras Jete Hain.",
       "Aatam Ke Sam Ras Naa Koi, Taankaa Nit Hi Paan Karo || 3 ||"
     ],
     [
-      "Kahe Teun Brahma Shiv Vishnu, Aadi Devtaa Jete Hain.",
-      "Aatam Jaisaa Dev N Koi, Taankaa Nit Gun Gaan Karo || 4 ||"
+      "Kahe Teun Brahmaa Shiv Vishnu, Aadi Devtaa Jete Hain.",
+      "Aatam Jaisaa Dev Na Koi, Taankaa Nit Gun Gaan Karo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 7 || 39 ||",
+    "अमृत वेले ऊठ जिज्ञासू, आतम का नित ध्यान धरो",
     "Amrit Vele Uth Jijnyaasu, Aatam Kaa Nit Dhyaan Dharo",
-    "अमृत वेले ुथ जिजनयासु, ातम का नित ध्यान धरो"
+    "राग प्रभाती भजन 7",
+    "Raag Prabhaati Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 39,
+  "displayOrder": 7,
+  "overallOrder": 39,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 45",
+  "updatedAt": "2026-10-26"
 }

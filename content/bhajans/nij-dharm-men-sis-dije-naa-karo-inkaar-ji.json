@@ -2,39 +2,88 @@
   "id": "bhajan-0169",
   "slug": "nij-dharm-men-sis-dije-naa-karo-inkaar-ji",
   "categoryId": "raag-vihaag",
-  "title": "निज धरम मेन सिस दिजे ना करो िनकार जी",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "निज धर्म में सीस दीजे ना करो इन्कार जी",
   "romanTitle": "Nij Dharm Men Sis Dije Naa Karo Inkaar Ji",
-  "firstLine": "Nij Dharm Men Sis Dije Naa Karo Inkaar Ji. Dharm Ke Yuddh Men Sadaa Tum Vir Ho Hushiyaar Ji (Tek).",
+  "firstLine": "Nij Dharm Men Sis Dije Naa Karo Inkaar Ji.",
+  "heading": "।। राग विहाग भजन ।। ११ ।। १६९।।",
+  "tek": [
+    "निज धर्म में सीस दीजे ना करो इन्कार जी ।",
+    "धर्म के युद्ध में सदा तुम वीर हो हुशियार जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Nij Dharm Men Sis Dije Naa Karo Inkaar Ji.",
+    "Dharm Ke Yuddh Men Sadaa Tum Vir Ho Hushiyaar Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जल्द जाओ वीर उठकर धर्म के आवाज़ पर ।",
+        "शीश तन मन आपना कर धर्म पर बलिहार जी ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jald Jaao Vir Uthkar Dharm Ke Aavaaz Par.",
+        "Shish Tan Man Aapnaa Kar Dharm Par Balihaar Ji || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देख संकट धर्म से तुम पांव पीछे ना हटो ।",
+        "धर्म रक्षा हेत अपना पतंग ज्यों सिर वार जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dekh Sankat Dharm Se Tum Paanv Pichhe Naa Hato.",
+        "Dharm Rakshaa Het Apnaa Patang Jyon Sir Vaar Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धर्म हित देखो हरिश्चन्द बेचा निज परिवार को ।",
+        "शिवि दधीची ज्यों धर्म हित देह अपनी डार जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dharm Hit Dekho Harishchand Bechaa Nij Parivaar Ko.",
+        "Shivi Dadhichi Jyon Dharm Hit Deh Apni Daar Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ धर्म का प्रचार घर घर में करो ।",
+        "लोक औ परलोक पाओ शान सुख सत्कार जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Dharm Kaa Prachaar Ghar Ghar Men Karo.",
+        "Lok Au Parlok Paao Shaan Sukh Satkaar Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "निज धरम मेन सिस दिजे ना करो िनकार जी.",
-      "धरम के युदध मेन सदा तुम विर हो हुशियार जी (टेक)."
+      "जल्द जाओ वीर उठकर धर्म के आवाज़ पर ।",
+      "शीश तन मन आपना कर धर्म पर बलिहार जी ॥१ ॥१ ॥"
     ],
     [
-      "जलद जाो विर ुथकर धरम के ावाz पर.",
-      "शिश तन मन ापना कर धरम पर बलिहार जी || 1$ ||"
+      "देख संकट धर्म से तुम पांव पीछे ना हटो ।",
+      "धर्म रक्षा हेत अपना पतंग ज्यों सिर वार जी ॥२ ॥"
     ],
     [
-      "देख सनकत धरम से तुम पानव पिचहे ना हतो.",
-      "धरम रकशा हेत पना पतनग जयोन सिर वार जी || 2 ||"
+      "धर्म हित देखो हरिश्चन्द बेचा निज परिवार को ।",
+      "शिवि दधीची ज्यों धर्म हित देह अपनी डार जी ॥३ ॥"
     ],
     [
-      "धरम हित देखो हरिशचनद बेचा निज परिवार को.",
-      "शिवि दधिचि जयोन धरम हित देह पनि दार जी || 3 ||."
-    ],
-    [
-      "कहत तेऊँ धरम का परचार घर घर मेन करो.",
-      "लोक ौ परलोक पाो शान सुख सतकार जी || 4 ||"
+      "कहत टेऊँ धर्म का प्रचार घर घर में करो ।",
+      "लोक औ परलोक पाओ शान सुख सत्कार जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Nij Dharm Men Sis Dije Naa Karo Inkaar Ji.",
-      "Dharm Ke Yuddh Men Sadaa Tum Vir Ho Hushiyaar Ji (Tek)."
-    ],
-    [
       "Jald Jaao Vir Uthkar Dharm Ke Aavaaz Par.",
-      "Shish Tan Man Aapnaa Kar Dharm Par Balihaar Ji || 1$ ||"
+      "Shish Tan Man Aapnaa Kar Dharm Par Balihaar Ji || 1 || 1 ||"
     ],
     [
       "Dekh Sankat Dharm Se Tum Paanv Pichhe Naa Hato.",
@@ -42,7 +91,7 @@
     ],
     [
       "Dharm Hit Dekho Harishchand Bechaa Nij Parivaar Ko.",
-      "Shivi Dadhichi Jyon Dharm Hit Deh Apni Daar Ji || 3 ||."
+      "Shivi Dadhichi Jyon Dharm Hit Deh Apni Daar Ji || 3 ||"
     ],
     [
       "Kahat Teun Dharm Kaa Prachaar Ghar Ghar Men Karo.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 11 || 169 ||",
+    "निज धर्म में सीस दीजे ना करो इन्कार जी",
     "Nij Dharm Men Sis Dije Naa Karo Inkaar Ji",
-    "निज धरम मेन सिस दिजे ना करो िनकार जी"
+    "राग विहाग भजन 11",
+    "Raag Vihaag Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 169,
+  "displayOrder": 11,
+  "overallOrder": 169,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 114",
+  "updatedAt": "2026-10-26"
 }

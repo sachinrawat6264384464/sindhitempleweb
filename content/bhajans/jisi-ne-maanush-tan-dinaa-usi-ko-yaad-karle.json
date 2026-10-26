@@ -1,74 +1,111 @@
 {
-  "id": "bhajan-0694",
+  "id": "bhajan-0692",
   "slug": "jisi-ne-maanush-tan-dinaa-usi-ko-yaad-karle",
   "categoryId": "raag-pahaari",
-  "title": "जिसि ने मानुश तन दिना, ुसि को याद करले",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "जिसी ने मानुष तन दीना, उसी को याद करले",
   "romanTitle": "Jisi Ne Maanush Tan Dinaa, Usi Ko Yaad Karle",
-  "firstLine": "Jisi Ne Maanush Tan Dinaa, Usi Ko Yaad Karle. Jisi Ne Buddhi Bal Dhan Dinaa, Usi Kaa Naam Sumrale (Tek).",
+  "firstLine": "Jisi Ne Maanush Tan Dinaa, Usi Ko Yaad Karle.",
+  "heading": "।। राग पहाड़ी भजन ॥। ४५ ।। ६९३॥।",
+  "tek": [
+    "जिसी ने मानुष तन दीना, उसी को याद करले ।",
+    "जिसी ने बुद्धि बल धन दीना, उसी का नाम सुमरले ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jisi Ne Maanush Tan Dinaa, Usi Ko Yaad Karle.",
+    "Jisi Ne Buddhi Bal Dhan Dinaa, Usi Kaa Naam Sumrale (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भजन बिन भगवान के यह जीवन वृथा जान तूं,",
+        "सन्त शास्त्र कहत हैं सब निश्चय करके मान तूं,",
+        "सफल जीवन बनाने को, हरी का ध्यान धरले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhajan Bin Bhagvaan Ke Yah Jivan Vrithaa Jaan Tu,",
+        "Sant Shaastr Kahat Hain Sab Nishchay Karke Maan Tu,",
+        "Saphal Jivan Banaane Ko, Hari Kaa Dhyaan Dharle || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पहन को वस्त्र दिया जिस खान को भोजन दिया,",
+        "धरनि पानी अगि पवन नभ चन्द्र रवि रोशन दिया,",
+        "उसी प्रभू के गुन गाके, भव सिन्धु पार तरले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pahan Ko Vastr Diyaa Jis Khaan Ko Bhojan Diyaa,",
+        "Dharni Paani Agi Pavan Nabh Chandr Ravi Roshan Diyaa,",
+        "Usi Prabhu Ke Gun Gaake, Bhav Sindhu Paar Tarle || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिसकी कृपा से सदा तुम, कहे टेऊँ सुख पात हो,",
+        "बैठ महलों में हमेशा फूले नाहिं समात हो,",
+        "उसी हरि की शरन लेके, सर्व दुख द्न्द्व हरले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jiski Kripaa Se Sadaa Tum, Kahe Teun Sukh Paat Ho,",
+        "Baith Mahlon Men Hameshaa Phule Naahin Samaat Ho,",
+        "Usi Hari Ki Sharan Leke, Sarv Dukh Dndv Harle || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिसि ने मानुश तन दिना, ुसि को याद करले.",
-      "जिसि ने बुदधि बल धन दिना, ुसि का नाम सुमरले (टेक)."
+      "भजन बिन भगवान के यह जीवन वृथा जान तूं,",
+      "सन्त शास्त्र कहत हैं सब निश्चय करके मान तूं,",
+      "सफल जीवन बनाने को, हरी का ध्यान धरले ॥१ ॥"
     ],
     [
-      "भजन बिन भगवान के यह जिवन वरिथा जान तु,",
-      "संत शासतर कहत हैन सब निशचय करके मान तु,"
+      "पहन को वस्त्र दिया जिस खान को भोजन दिया,",
+      "धरनि पानी अगि पवन नभ चन्द्र रवि रोशन दिया,",
+      "उसी प्रभू के गुन गाके, भव सिन्धु पार तरले ॥२ ॥"
     ],
     [
-      "सफल जिवन बनाने को, हरि का ध्यान धरले ||.1 ||.",
-      "पहन को वसतर दिया जिस खान को भोजन दिया,"
-    ],
-    [
-      "धरनि पानि गि पवन नभ चनदर रवि रोशन दिया,",
-      "ुसि प्रभु के गुन गाके, भव सिनधु पार तरले ||.2 ||."
-    ],
-    [
-      "जिसकि कृपा से सदा तुम, कहे तेऊँ सुख पात हो,",
-      "बैथ महलोन मेन हमेशा फुले नाहिन समात हो,"
-    ],
-    [
-      "ुसि हरि कि शरन लेके, सर्व दुःख दनदव हरले ||.3 ||"
+      "जिसकी कृपा से सदा तुम, कहे टेऊँ सुख पात हो,",
+      "बैठ महलों में हमेशा फूले नाहिं समात हो,",
+      "उसी हरि की शरन लेके, सर्व दुख द्न्द्व हरले ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jisi Ne Maanush Tan Dinaa, Usi Ko Yaad Karle.",
-      "Jisi Ne Buddhi Bal Dhan Dinaa, Usi Kaa Naam Sumrale (Tek)."
-    ],
-    [
       "Bhajan Bin Bhagvaan Ke Yah Jivan Vrithaa Jaan Tu,",
-      "Sant Shaastr Kahat Hain Sab Nishchay Karke Maan Tu,"
+      "Sant Shaastr Kahat Hain Sab Nishchay Karke Maan Tu,",
+      "Saphal Jivan Banaane Ko, Hari Kaa Dhyaan Dharle || 1 ||"
     ],
     [
-      "Saphal Jivan Banaane Ko, Hari Kaa Dhyaan Dharle ||.1 ||.",
-      "Pahan Ko Vastr Diyaa Jis Khaan Ko Bhojan Diyaa,"
-    ],
-    [
+      "Pahan Ko Vastr Diyaa Jis Khaan Ko Bhojan Diyaa,",
       "Dharni Paani Agi Pavan Nabh Chandr Ravi Roshan Diyaa,",
-      "Usi Prabhu Ke Gun Gaake, Bhav Sindhu Paar Tarle ||.2 ||."
+      "Usi Prabhu Ke Gun Gaake, Bhav Sindhu Paar Tarle || 2 ||"
     ],
     [
       "Jiski Kripaa Se Sadaa Tum, Kahe Teun Sukh Paat Ho,",
-      "Baith Mahlon Men Hameshaa Phule Naahin Samaat Ho,"
-    ],
-    [
-      "Usi Hari Ki Sharan Leke, Sarv Dukh Dndv Harle ||.3 ||"
+      "Baith Mahlon Men Hameshaa Phule Naahin Samaat Ho,",
+      "Usi Hari Ki Sharan Leke, Sarv Dukh Dndv Harle || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan ||. 45 || 693 ||.",
+    "जिसी ने मानुष तन दीना, उसी को याद करले",
     "Jisi Ne Maanush Tan Dinaa, Usi Ko Yaad Karle",
-    "जिसि ने मानुश तन दिना, ुसि को याद करले"
+    "राग पहाड़ी भजन 45",
+    "Raag Pahaari Bhajan 45"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 694,
+  "displayOrder": 45,
+  "overallOrder": 692,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 368",
+  "updatedAt": "2026-10-26"
 }

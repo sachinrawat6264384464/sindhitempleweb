@@ -2,66 +2,117 @@
   "id": "bhajan-0326",
   "slug": "jis-kaaj-liye-yah-janm-dharaa",
   "categoryId": "raag-zilaa",
-  "title": "जिस काज लिये यह जनम धरा",
-  "romanTitle": "Jis Kaaj Liye Yah Janm Dharaa",
-  "firstLine": "Jis Kaaj Liye Yah Janm Dharaa, So Kaaraj Ab Tak Naahin Kiyaa (Tek).",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "जिस काज लिये यह जन्म धरा,",
+  "romanTitle": "Jis Kaaj Liye Yah Janm Dharaa,",
+  "firstLine": "Jis Kaaj Liye Yah Janm Dharaa,",
+  "heading": "।। राग ज़िला भजन ।। १३ ।। ३२६।॥।",
+  "tek": [
+    "जिस काज लिये यह जन्म धरा,",
+    "सो कारज अब तक नाहिं कीया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jis Kaaj Liye Yah Janm Dharaa,",
+    "So Kaaraj Ab Tak Naahin Kiyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भोगों पीछे निशदिन धाया, साध सड्गति में ना कब आया ।",
+        "प्रेम सुधारस नाहिं पीया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhogon Pichhe Nishdin Dhaayaa, Saadh Sadgati Men Naa Kab Aayaa.",
+        "Prem Sudhaaras Naahin Piyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पापों में मन कीन मलीना, जप तप संयम कर्म न कीना ।",
+        "हाथों से ना दान दीया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paapon Men Man Kin Malinaa, Jap Tap Sanyam Karm Na Kinaa.",
+        "Haathon Se Naa Daan Diyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मूर्ख तोहि भया अभिमाना, सन्त वचन नहिं सुनिया काना ।",
+        "नाम हरी का नाहिं लीया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Murkh Tohi Bhayaa Abhimaanaa, Sant Vachan Nahin Suniyaa Kaanaa.",
+        "Naam Hari Kaa Naahin Liyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तो लाज न आई, दुर्लभ मानुष देह गंवाई ।",
+        "पाया आतम नाहिं पीया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun To Laaj Na Aai, Durlabh Maanush Deh Ganvaai.",
+        "Paayaa Aatam Naahin Piyaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिस काज लिये यह जनम धरा,",
-      "सो कारज ब तक नाहिन किया (टेक)."
+      "भोगों पीछे निशदिन धाया, साध सड्गति में ना कब आया ।",
+      "प्रेम सुधारस नाहिं पीया ॥१ ॥"
     ],
     [
-      "भोगोन पिचहे निशदिन धाया, साध सदगति मेन ना कब ाया.",
-      "प्रेम सुधारस नाहिन पिया || 1. ||."
+      "पापों में मन कीन मलीना, जप तप संयम कर्म न कीना ।",
+      "हाथों से ना दान दीया ॥२ ॥"
     ],
     [
-      "पापोन मेन मन किन मलिना, जप तप सनयम करम न किना.",
-      "हाथोन से ना दान दिया || 2 ||"
+      "मूर्ख तोहि भया अभिमाना, सन्त वचन नहिं सुनिया काना ।",
+      "नाम हरी का नाहिं लीया ॥३ ॥"
     ],
     [
-      "मुरख तोहि भया भिमाना, संत वचन नहिन सुनिया काना.",
-      "नाम हरि का नाहिन लिया || 3 ||."
-    ],
-    [
-      "कहे तेऊँ तो लाज न ाि, दुरलभ मानुश देह गनवाि.",
-      "पाया ातम नाहिन पिया ||.4 ||"
+      "कहे टेऊँ तो लाज न आई, दुर्लभ मानुष देह गंवाई ।",
+      "पाया आतम नाहिं पीया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jis Kaaj Liye Yah Janm Dharaa,",
-      "So Kaaraj Ab Tak Naahin Kiyaa (Tek)."
-    ],
-    [
       "Bhogon Pichhe Nishdin Dhaayaa, Saadh Sadgati Men Naa Kab Aayaa.",
-      "Prem Sudhaaras Naahin Piyaa || 1. ||."
+      "Prem Sudhaaras Naahin Piyaa || 1 ||"
     ],
     [
-      "Paapon Men Man Kin Malinaa, Jap Tap Sanyam Karm N Kinaa.",
+      "Paapon Men Man Kin Malinaa, Jap Tap Sanyam Karm Na Kinaa.",
       "Haathon Se Naa Daan Diyaa || 2 ||"
     ],
     [
       "Murkh Tohi Bhayaa Abhimaanaa, Sant Vachan Nahin Suniyaa Kaanaa.",
-      "Naam Hari Kaa Naahin Liyaa || 3 ||."
+      "Naam Hari Kaa Naahin Liyaa || 3 ||"
     ],
     [
-      "Kahe Teun To Laaj N Aai, Durlabh Maanush Deh Ganvaai.",
-      "Paayaa Aatam Naahin Piyaa ||.4 ||"
+      "Kahe Teun To Laaj Na Aai, Durlabh Maanush Deh Ganvaai.",
+      "Paayaa Aatam Naahin Piyaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 13 || 326. ||.",
-    "Jis Kaaj Liye Yah Janm Dharaa",
-    "जिस काज लिये यह जनम धरा"
+    "जिस काज लिये यह जन्म धरा,",
+    "Jis Kaaj Liye Yah Janm Dharaa,",
+    "राग ज़िला भजन 13",
+    "Raag Zilaa Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 326,
+  "displayOrder": 13,
+  "overallOrder": 326,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 195",
+  "updatedAt": "2026-10-26"
 }

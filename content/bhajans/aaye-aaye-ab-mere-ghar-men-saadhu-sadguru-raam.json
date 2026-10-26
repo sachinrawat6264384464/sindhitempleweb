@@ -1,58 +1,97 @@
 {
   "id": "bhajan-0267",
   "slug": "aaye-aaye-ab-mere-ghar-men-saadhu-sadguru-raam",
-  "categoryId": "raag-bhairav",
-  "title": "ाये ाये ब मेरे घर मेन साधु सद्गुरु राम",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "आये आये अब मेरे घर में साधू सद्गुरु राम",
   "romanTitle": "Aaye Aaye Ab Mere Ghar Men Saadhu Sadguru Raam",
   "firstLine": "Aaye Aaye Ab Mere Ghar Men Saadhu Sadguru Raam (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५२ ।। २६७।।",
+  "tek": [
+    "आये आये अब मेरे घर में साधू सद्गुरु राम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaye Aaye Ab Mere Ghar Men Saadhu Sadguru Raam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्तों से मैं सद्गुरु पाया सद्‌गुरु से श्रीराम ।",
+        "राम दरस से मुक्ती पाई तीनों को प्रणाम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Se Main Sadguru Paayaa Sad‌Guru Se Shriiraam.",
+        "Raam Daras Se Mukti Paai Tinon Ko Pranaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दर्शन करके प्रसन्न होया दर्द भये सब दूर ।",
+        "तन मन शीतल भया हमारा पाया मन आराम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Darshan Karke Prasann Hoyaa Dard Bhaye Sab Dur.",
+        "Tan Man Shital Bhayaa Hamaaraa Paayaa Man Aaraam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त वचन सुन पाप गये सब उपजा आतम ज्ञान ।",
+        "कहे टेऊँ सब संसा मेटे पाया पूरण धाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Vachan Sun Paap Gaye Sab Upjaa Aatam Gyaan.",
+        "Kahe Teun Sab Sansaa Mete Paayaa Puran Dhaam || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाये ाये ब मेरे घर मेन साधु सद्गुरु राम (टेक)."
+      "सन्तों से मैं सद्गुरु पाया सद्‌गुरु से श्रीराम ।",
+      "राम दरस से मुक्ती पाई तीनों को प्रणाम ॥१ ॥"
     ],
     [
-      "सनतोन से मैं सद्गुरु पाया सद्गुरु से शरीराम.",
-      "राम दरस से मुक्ति पाि तिनोन को परनाम ||.1. ||."
+      "दर्शन करके प्रसन्न होया दर्द भये सब दूर ।",
+      "तन मन शीतल भया हमारा पाया मन आराम ॥२ ॥"
     ],
     [
-      "दरशन करके परसनन होया दरद भये सब दुर.",
-      "तन मन शितल भया हमारा पाया मन ाराम || 2 ||."
-    ],
-    [
-      "संत वचन सुन पाप गये सब ुपजा ातम ज्ञान.",
-      "कहे तेऊँ सब सनसा मेते पाया पुरन धाम ||.3. ||."
+      "सन्त वचन सुन पाप गये सब उपजा आतम ज्ञान ।",
+      "कहे टेऊँ सब संसा मेटे पाया पूरण धाम ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaye Aaye Ab Mere Ghar Men Saadhu Sadguru Raam (Tek)."
-    ],
-    [
       "Santon Se Main Sadguru Paayaa Sad‌Guru Se Shriiraam.",
-      "Raam Daras Se Mukti Paai Tinon Ko Pranaam ||.1. ||."
+      "Raam Daras Se Mukti Paai Tinon Ko Pranaam || 1 ||"
     ],
     [
       "Darshan Karke Prasann Hoyaa Dard Bhaye Sab Dur.",
-      "Tan Man Shital Bhayaa Hamaaraa Paayaa Man Aaraam || 2 ||."
+      "Tan Man Shital Bhayaa Hamaaraa Paayaa Man Aaraam || 2 ||"
     ],
     [
-      "Sant Vachan Sun Paap Gaye Sab Upjaa Aatam Jnyaan.",
-      "Kahe Teun Sab Sansaa Mete Paayaa Puran Dhaam ||.3. ||."
+      "Sant Vachan Sun Paap Gaye Sab Upjaa Aatam Gyaan.",
+      "Kahe Teun Sab Sansaa Mete Paayaa Puran Dhaam || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 52 || 267 ||",
+    "आये आये अब मेरे घर में साधू सद्गुरु राम",
     "Aaye Aaye Ab Mere Ghar Men Saadhu Sadguru Raam",
-    "ाये ाये ब मेरे घर मेन साधु सद्गुरु राम"
+    "राग भैरवी भजन 52",
+    "Raag Bhairvi Bhajan 52"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 267,
+  "displayOrder": 52,
+  "overallOrder": 267,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 164",
+  "updatedAt": "2026-10-26"
 }

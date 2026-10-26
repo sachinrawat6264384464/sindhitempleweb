@@ -1,72 +1,131 @@
 {
-  "id": "bhajan-0895",
+  "id": "bhajan-0893",
   "slug": "guru-mag-chaalo-re-chaalo",
   "categoryId": "raag-jog",
-  "title": "गुरु मग चालो रे चालो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "गुरू मग चालो रे चालो",
   "romanTitle": "Guru Mag Chaalo Re Chaalo",
   "firstLine": "Guru Mag Chaalo Re Chaalo (Tek).",
+  "heading": "।। राग जोग भजन ।। ६५ ।। ८९५७ ।।",
+  "tek": [
+    "गुरू मग चालो रे चालो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Mag Chaalo Re Chaalo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस मार्ग में गुरू चलावे, तिस मार्ग में चलिये ।",
+        "सोच समझ के पांव धरो तुम, इधर उधर ना डालो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Maarg Men Guru Chalaave, Tis Maarg Men Chaliye.",
+        "Soch Samajh Ke Paanv Dharo Tum, Idhar Udhar Naa Daalo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जेते मार्ग और जगत में, तिन में जम का झगड़ा ।",
+        "गुरु का मार्ग हरि से मेले, निर्भय करे निरालो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jete Maarg Aur Jagat Men, Tin Men Jam Kaa Jhagraa.",
+        "Guru Kaa Maarg Hari Se Mele, Nirbhay Kare Niraalo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गोपीचन्द भर्थरी राजा, गोरख इस मग चलिया ।",
+        "पीपा छीपा कबीर चलिया, पीकर प्रेम प्यालो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gopichand Bharthari Raajaa, Gorakh Is Mag Chaliyaa.",
+        "Pipaa Chhipaa Kabir Chaliyaa, Pikar Prem Pyaalo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "इस मार्ग में जो जन चलहीं, सो जन है बड़भागी ।",
+        "कहे टेऊँ सो हरि से मिलता, पाए ज्ञान उजालो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Is Maarg Men Jo Jan Chalhin, So Jan Hai Barbhaagi.",
+        "Kahe Teun So Hari Se Miltaa, Paae Gyaan Ujaalo || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गर्ग"
+      ],
+      "romanLines": [
+        "Garg"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु मग चालो रे चालो (टेक)."
+      "जिस मार्ग में गुरू चलावे, तिस मार्ग में चलिये ।",
+      "सोच समझ के पांव धरो तुम, इधर उधर ना डालो ॥१ ॥"
     ],
     [
-      "जिस मारग मेन गुरु चलावे, तिस मारग मेन चलिये.",
-      "सोच समझ के पानव धरो तुम, िधर ुधर ना दालो || 1 ||."
+      "जेते मार्ग और जगत में, तिन में जम का झगड़ा ।",
+      "गुरु का मार्ग हरि से मेले, निर्भय करे निरालो ॥२ ॥"
     ],
     [
-      "जेते मारग ौर जगत मेन, तिन मेन जम का झगरा.",
-      "गुरु का मारग हरि से मेले, निरभय करे निरालो || 2 ||."
+      "गोपीचन्द भर्थरी राजा, गोरख इस मग चलिया ।",
+      "पीपा छीपा कबीर चलिया, पीकर प्रेम प्यालो ॥३ ॥"
     ],
     [
-      "गोपिचनद भरथरि राजा, गोरख िस मग चलिया.",
-      "पिपा चहिपा कबिर चलिया, पिकर प्रेम पयालो ||.3 ||."
+      "इस मार्ग में जो जन चलहीं, सो जन है बड़भागी ।",
+      "कहे टेऊँ सो हरि से मिलता, पाए ज्ञान उजालो ॥४ ॥"
     ],
     [
-      "िस मारग मेन जो जन चलहिन, सो जन है बरभागि.",
-      "कहे तेऊँ सो हरि से मिलता, पाे ज्ञान ुजालो.4 ||"
-    ],
-    [
-      "गरग"
+      "गर्ग"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Mag Chaalo Re Chaalo (Tek)."
-    ],
-    [
       "Jis Maarg Men Guru Chalaave, Tis Maarg Men Chaliye.",
-      "Soch Samajh Ke Paanv Dharo Tum, Idhar Udhar Naa Daalo || 1 ||."
+      "Soch Samajh Ke Paanv Dharo Tum, Idhar Udhar Naa Daalo || 1 ||"
     ],
     [
       "Jete Maarg Aur Jagat Men, Tin Men Jam Kaa Jhagraa.",
-      "Guru Kaa Maarg Hari Se Mele, Nirbhay Kare Niraalo || 2 ||."
+      "Guru Kaa Maarg Hari Se Mele, Nirbhay Kare Niraalo || 2 ||"
     ],
     [
       "Gopichand Bharthari Raajaa, Gorakh Is Mag Chaliyaa.",
-      "Pipaa Chhipaa Kabir Chaliyaa, Pikar Prem Pyaalo ||.3 ||."
+      "Pipaa Chhipaa Kabir Chaliyaa, Pikar Prem Pyaalo || 3 ||"
     ],
     [
       "Is Maarg Men Jo Jan Chalhin, So Jan Hai Barbhaagi.",
-      "Kahe Teun So Hari Se Miltaa, Paae Jnyaan Ujaalo.4 ||"
+      "Kahe Teun So Hari Se Miltaa, Paae Gyaan Ujaalo || 4 ||"
     ],
     [
       "Garg"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 65 || 8957 ||",
+    "गुरू मग चालो रे चालो",
     "Guru Mag Chaalo Re Chaalo",
-    "गुरु मग चालो रे चालो"
+    "राग जोग भजन 65",
+    "Raag Jog Bhajan 65"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 895,
+  "displayOrder": 65,
+  "overallOrder": 893,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 471",
+  "updatedAt": "2026-10-26"
 }

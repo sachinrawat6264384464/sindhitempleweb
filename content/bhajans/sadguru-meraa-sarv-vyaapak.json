@@ -1,60 +1,99 @@
 {
-  "id": "bhajan-0486",
+  "id": "bhajan-0485",
   "slug": "sadguru-meraa-sarv-vyaapak",
   "categoryId": "raag-kohiyaari",
-  "title": "सद्गुरु मेरा सर्व वयापक",
-  "romanTitle": "Sad‌Guru Meraa Sarv Vyaapak",
-  "firstLine": "Sad‌Guru Meraa Sarv Vyaapak, Sat‌Chit‌ Aanand Saaraa, Hai Kartaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सद्‌गुरु मेरा सर्व व्यापक,",
+  "romanTitle": "Sad‌Guru Meraa Sarv Vyaapak,",
+  "firstLine": "Sad‌Guru Meraa Sarv Vyaapak,",
+  "heading": "।। राग कोह्लारी भजन ।। ६ ।। ४ं८६।॥।",
+  "tek": [
+    "सद्‌गुरु मेरा सर्व व्यापक,",
+    "सत्‌चित्‌ आनन्द सारा, है कर्तारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Meraa Sarv Vyaapak,",
+    "Sat‌Chit‌ Aanand Saaraa, Hai Kartaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सब रंगों में सोई रंगी,",
+        "रूप रंग ते न्यारा, है निर्धारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sab Rangon Men Soi Rangi,",
+        "Rup Rang Te Nyaaraa, Hai Nirdhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निर्गुण से सो सर्गुण बनके,",
+        "करत जगत जयकारा, धर अवतारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nirgun Se So Sargun Banke,",
+        "Karat Jagat Jaykaaraa, Dhar Avtaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ तीन लोक में,",
+        "खेले खेल अपारा, अजब निज़ारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tin Lok Men,",
+        "Khele Khel Apaaraa, Ajab Nizaaraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु मेरा सर्व वयापक,",
-      "सतचित‌ आनंद सारा, है करतारा (टेक)."
+      "सब रंगों में सोई रंगी,",
+      "रूप रंग ते न्यारा, है निर्धारा ॥१ ॥"
     ],
     [
-      "सब रनगोन मेन सोि रनगि,",
-      "रुप रनग ते नयारा, है निरधारा.1. ||."
+      "निर्गुण से सो सर्गुण बनके,",
+      "करत जगत जयकारा, धर अवतारा ॥२ ॥"
     ],
     [
-      "निरगुन से सो सरगुन बनके,",
-      "करत जगत जयकारा, धर वतारा || 2. ||."
-    ],
-    [
-      "कहता तेऊँ तिन लोक मेन,",
-      "खेले खेल पारा, जब निzारा || 3 ||."
+      "कहता टेऊँ तीन लोक में,",
+      "खेले खेल अपारा, अजब निज़ारा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Meraa Sarv Vyaapak,",
-      "Sat‌Chit‌ Aanand Saaraa, Hai Kartaaraa (Tek)."
-    ],
-    [
       "Sab Rangon Men Soi Rangi,",
-      "Rup Rang Te Nyaaraa, Hai Nirdhaaraa.1. ||."
+      "Rup Rang Te Nyaaraa, Hai Nirdhaaraa || 1 ||"
     ],
     [
       "Nirgun Se So Sargun Banke,",
-      "Karat Jagat Jaykaaraa, Dhar Avtaaraa || 2. ||."
+      "Karat Jagat Jaykaaraa, Dhar Avtaaraa || 2 ||"
     ],
     [
       "Kahtaa Teun Tin Lok Men,",
-      "Khele Khel Apaaraa, Ajab Nizaaraa || 3 ||."
+      "Khele Khel Apaaraa, Ajab Nizaaraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohlaari Bhajan || 6 || 4N86. ||.",
-    "Sad‌Guru Meraa Sarv Vyaapak",
-    "सद्गुरु मेरा सर्व वयापक"
+    "सद्‌गुरु मेरा सर्व व्यापक,",
+    "Sad‌Guru Meraa Sarv Vyaapak,",
+    "राग कोहियारी भजन 6",
+    "Raag Kohiyaari Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 486,
+  "displayOrder": 6,
+  "overallOrder": 485,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 272",
+  "updatedAt": "2026-10-26"
 }

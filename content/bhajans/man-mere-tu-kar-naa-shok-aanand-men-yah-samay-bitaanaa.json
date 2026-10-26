@@ -1,71 +1,120 @@
 {
-  "id": "bhajan-0880",
+  "id": "bhajan-0878",
   "slug": "man-mere-tu-kar-naa-shok-aanand-men-yah-samay-bitaanaa",
   "categoryId": "raag-jog",
-  "title": "मन मेरे तु कर ना शोक, आनंद मेन यह समय बिताना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मन मेरे तूं कर ना शोक, आनन्द में यह समय बिताना",
   "romanTitle": "Man Mere Tu Kar Naa Shok, Aanand Men Yah Samay Bitaanaa",
   "firstLine": "Man Mere Tu Kar Naa Shok, Aanand Men Yah Samay Bitaanaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ५० ।। ८८०॥॥",
+  "tek": [
+    "मन मेरे तूं कर ना शोक, आनन्द में यह समय बिताना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Mere Tu Kar Naa Shok, Aanand Men Yah Samay Bitaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आनन्द से तुम होत न न्यारा, निश्चय आनन्द रूप तुम्हारा ।",
+        "आनन्द ही है तेरा ओक, मोह जनित दुख दर्द हटाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aanand Se Tum Hot Na Nyaaraa, Nishchay Aanand Rup Tumhaaraa.",
+        "Aanand Hi Hai Teraa Ok, Moh Janit Dukh Dard Hataanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ग््द्व",
+        "आनन्द से यह सृष्टी होई, आनन्द कर अब स्थित सोई ।",
+        "लय होसी फिर तामें लोक, कार्य कारण रूप सुजाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gdv",
+        "Aanand Se Yah Srishti Hoi, Aanand Kar Ab Sthit Soi.",
+        "Lay Hosi Phir Taamen Lok, Kaary Kaaran Rup Sujaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तीन काल में जो दुख नाहीं, सो तूं मानत क्यों निज माहीं ।",
+        "अपने को सुख रूप विलोक, भ्रम दूर कर ले गुरु ज्ञाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tin Kaal Men Jo Dukh Naahin, So Tu Maanat Kyon Nij Maahin.",
+        "Apne Ko Sukh Rup Vilok, Bhram Dur Kar Le Guru Jnyaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम छोड़ो चिन्ता, सुमरो आतम रूप अनन्ता ।",
+        "आतम आनन्द का है थोक, सो तो तेरा रूप महाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Chhoro Chintaa, Sumro Aatam Rup Anantaa.",
+        "Aatam Aanand Kaa Hai Thok, So To Teraa Rup Mahaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन मेरे तु कर ना शोक, आनंद मेन यह समय बिताना (टेक)."
+      "आनन्द से तुम होत न न्यारा, निश्चय आनन्द रूप तुम्हारा ।",
+      "आनन्द ही है तेरा ओक, मोह जनित दुख दर्द हटाना ॥१ ॥"
     ],
     [
-      "आनंद से तुम होत न नयारा, निशचय आनंद रुप तुमहारा.",
-      "आनंद हि है तेरा ोक, मोह जनित दुःख दरद हताना || $."
+      "ग््द्व",
+      "आनन्द से यह सृष्टी होई, आनन्द कर अब स्थित सोई ।",
+      "लय होसी फिर तामें लोक, कार्य कारण रूप सुजाना ॥२ ॥"
     ],
     [
-      "गदव",
-      "आनंद से यह सरिशति होि, आनंद कर ब सथित सोि."
+      "तीन काल में जो दुख नाहीं, सो तूं मानत क्यों निज माहीं ।",
+      "अपने को सुख रूप विलोक, भ्रम दूर कर ले गुरु ज्ञाना ॥३ ॥"
     ],
     [
-      "लय होसि फिर तामेन लोक, कारय कारन रुप सुजाना || 2 ||."
-    ],
-    [
-      "तिन काल मेन जो दुःख नाहिन, सो तु मानत कयोन निज माहिन.",
-      "पने को सुख रुप विलोक, भरम दुर कर ले गुरु जनयाना || 3 ||."
-    ],
-    [
-      "कहे तेऊँ तुम चहोरो चिनता, सुमरो ातम रुप ननता.",
-      "ातम आनंद का है थोक, सो तो तेरा रुप महाना || 4. ||."
+      "कहे टेऊँ तुम छोड़ो चिन्ता, सुमरो आतम रूप अनन्ता ।",
+      "आतम आनन्द का है थोक, सो तो तेरा रूप महाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Mere Tu Kar Naa Shok, Aanand Men Yah Samay Bitaanaa (Tek)."
-    ],
-    [
-      "Aanand Se Tum Hot N Nyaaraa, Nishchay Aanand Rup Tumhaaraa.",
-      "Aanand Hi Hai Teraa Ok, Moh Janit Dukh Dard Hataanaa || $."
+      "Aanand Se Tum Hot Na Nyaaraa, Nishchay Aanand Rup Tumhaaraa.",
+      "Aanand Hi Hai Teraa Ok, Moh Janit Dukh Dard Hataanaa || 1 ||"
     ],
     [
       "Gdv",
-      "Aanand Se Yah Srishti Hoi, Aanand Kar Ab Sthit Soi."
-    ],
-    [
-      "Lay Hosi Phir Taamen Lok, Kaary Kaaran Rup Sujaanaa || 2 ||."
+      "Aanand Se Yah Srishti Hoi, Aanand Kar Ab Sthit Soi.",
+      "Lay Hosi Phir Taamen Lok, Kaary Kaaran Rup Sujaanaa || 2 ||"
     ],
     [
       "Tin Kaal Men Jo Dukh Naahin, So Tu Maanat Kyon Nij Maahin.",
-      "Apne Ko Sukh Rup Vilok, Bhram Dur Kar Le Guru Jnyaanaa || 3 ||."
+      "Apne Ko Sukh Rup Vilok, Bhram Dur Kar Le Guru Jnyaanaa || 3 ||"
     ],
     [
       "Kahe Teun Tum Chhoro Chintaa, Sumro Aatam Rup Anantaa.",
-      "Aatam Aanand Kaa Hai Thok, So To Teraa Rup Mahaanaa || 4. ||."
+      "Aatam Aanand Kaa Hai Thok, So To Teraa Rup Mahaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 50 || 880 || ||",
+    "मन मेरे तूं कर ना शोक, आनन्द में यह समय बिताना",
     "Man Mere Tu Kar Naa Shok, Aanand Men Yah Samay Bitaanaa",
-    "मन मेरे तु कर ना शोक, आनंद मेन यह समय बिताना"
+    "राग जोग भजन 50",
+    "Raag Jog Bhajan 50"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 880,
+  "displayOrder": 50,
+  "overallOrder": 878,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 463",
+  "updatedAt": "2026-10-26"
 }

@@ -1,52 +1,102 @@
 {
-  "id": "bhajan-0479",
+  "id": "bhajan-0478",
   "slug": "satguru-kaato-yam-ki-phaasi",
   "categoryId": "raag-huseni",
-  "title": "सतगुरु कातो यम कि फासि",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "सत्‌गुरु काटो यम की फासी",
   "romanTitle": "Sat‌Guru Kaato Yam Ki Phaasi",
-  "firstLine": "Sat‌Guru Kaato Yam Ki Phaasi. Apni Kripaa Mujh Par Kije, Dije Pad Avinaashi (Tek).",
+  "firstLine": "Sat‌Guru Kaato Yam Ki Phaasi.",
+  "heading": "।। राग हुसेनी भजन ।। १७ ।। ४७९।।",
+  "tek": [
+    "सत्‌गुरु काटो यम की फासी ।",
+    "अपनी कृपा मुझ पर कीजे, दीजे पद अविनाशी ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Kaato Yam Ki Phaasi.",
+    "Apni Kripaa Mujh Par Kije, Dije Pad Avinaashi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं हूं पापी पाप हरो गुरु, तुम हो तीर्थ काशी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Paapi Paap Haro Guru, Tum Ho Tirth Kaashi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दया करे निज नाम सुनाओ, सर्व सुखों की राशी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dayaa Kare Nij Naam Sunaao, Sarv Sukhon Ki Raashi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बहुत जन्म का बिछुड़ा हूँ मैं, हरि मिलने का प्यासी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Kaa Bichhuraa Hun Main, Hari Milne Kaa Pyaasi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि मोहि मिलाओ, अमरापुर का वासी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Mohi Milaao, Amarapur Kaa Vaasi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु कातो यम कि फासि.",
-      "पनि कृपा मुझ पर किजे, दिजे पद अविनाशी (टेक)."
+      "मैं हूं पापी पाप हरो गुरु, तुम हो तीर्थ काशी ॥१ ॥"
     ],
     [
-      "मैं हुन पापि पाप हरो गुरु, तुम हो तिरथ काशि ||.8 ||.",
-      "दया करे निज नाम सुनाो, सर्व सुखोन कि राशि || || 2 ||."
+      "दया करे निज नाम सुनाओ, सर्व सुखों की राशी ॥२ ॥"
     ],
     [
-      "बहुत जनम का बिचहुरा हुन मैं, हरि मिलने का पयासि ||.3 ||",
-      "कहे तेऊँ हरि मोहि मिलाो, अमरापुर का वासि ||.4. ||."
+      "बहुत जन्म का बिछुड़ा हूँ मैं, हरि मिलने का प्यासी ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ हरि मोहि मिलाओ, अमरापुर का वासी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Kaato Yam Ki Phaasi.",
-      "Apni Kripaa Mujh Par Kije, Dije Pad Avinaashi (Tek)."
+      "Main Hun Paapi Paap Haro Guru, Tum Ho Tirth Kaashi || 1 ||"
     ],
     [
-      "Main Hun Paapi Paap Haro Guru, Tum Ho Tirth Kaashi ||.8 ||.",
-      "Dayaa Kare Nij Naam Sunaao, Sarv Sukhon Ki Raashi || || 2 ||."
+      "Dayaa Kare Nij Naam Sunaao, Sarv Sukhon Ki Raashi || 2 ||"
     ],
     [
-      "Bahut Janm Kaa Bichhuraa Hun Main, Hari Milne Kaa Pyaasi ||.3 ||",
-      "Kahe Teun Hari Mohi Milaao, Amarapur Kaa Vaasi ||.4. ||."
+      "Bahut Janm Kaa Bichhuraa Hun Main, Hari Milne Kaa Pyaasi || 3 ||"
+    ],
+    [
+      "Kahe Teun Hari Mohi Milaao, Amarapur Kaa Vaasi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 17 || 479 ||",
+    "सत्‌गुरु काटो यम की फासी",
     "Sat‌Guru Kaato Yam Ki Phaasi",
-    "सतगुरु कातो यम कि फासि"
+    "राग हुसैनी भजन 17",
+    "Raag Huseni Bhajan 17"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 479,
+  "displayOrder": 17,
+  "overallOrder": 478,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 268",
+  "updatedAt": "2026-10-26"
 }

@@ -1,0 +1,109 @@
+{
+  "id": "bhajan-0100",
+  "slug": "naam-hari-kaa-bhulaa-na-denaa-jivan-apnaa-rulaa-na-denaa",
+  "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "नाम हरी का भुला न देना, जीवन अपना रुला न देना",
+  "romanTitle": "Naam Hari Kaa Bhulaa Na Denaa, Jivan Apnaa Rulaa Na Denaa",
+  "firstLine": "Naam Hari Kaa Bhulaa Na Denaa, Jivan Apnaa Rulaa Na Denaa (Tek).",
+  "heading": "।। राग आसा भजन ।। ३८ ।। १००॥।",
+  "tek": [
+    "नाम हरी का भुला न देना, जीवन अपना रुला न देना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Naam Hari Kaa Bhulaa Na Denaa, Jivan Apnaa Rulaa Na Denaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष चोला दुर्लभ पाया, राम भजन बिन वृथा जाया ।",
+        "ऐसा बेला हाथ न आवे, क्यों तुम मूर्ख पाप कमावे ।",
+        "पाप करे तन गंवा न देना ॥8 ॥"
+      ],
+      "romanLines": [
+        "Maanush Cholaa Durlabh Paayaa, Raam Bhajan Bin Vrithaa Jaayaa.",
+        "Aisaa Belaa Haath Na Aave, Kyon Tum Murkh Paap Kamaave.",
+        "Paap Kare Tan Ganvaa Na Denaa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम बिन कोय न तेरा, क्यों कहते हो मेरा मेरा ।",
+        "प्रेम से प्रभू के गुण गाओ, जन्म मरण में फेर न आओ ।",
+        "प्रेम लगा कर हटा न देना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Bin Koy Na Teraa, Kyon Kahte Ho Meraa Meraa.",
+        "Prem Se Prabhu Ke Gun Gaao, Janm Maran Men Pher Na Aao.",
+        "Prem Lagaa Kar Hataa Na Denaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हलत पलत तेरा हरि साथी, झूठे तन धन घोड़े हाथी ।",
+        "राम नाम का जाप जपीजे, कहे टेऊँ भव सिन्धु तरीजे ।",
+        "भव में चित्त को डुला न देना ॥ ।डे ॥ ।"
+      ],
+      "romanLines": [
+        "Halat Palat Teraa Hari Saathi, Jhuthe Tan Dhan Ghore Haathi.",
+        "Raam Naam Kaa Jaap Japije, Kahe Teun Bhav Sindhu Tarije.",
+        "Bhav Men Chitt Ko Dulaa Na Denaa || De ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मानुष चोला दुर्लभ पाया, राम भजन बिन वृथा जाया ।",
+      "ऐसा बेला हाथ न आवे, क्यों तुम मूर्ख पाप कमावे ।",
+      "पाप करे तन गंवा न देना ॥8 ॥"
+    ],
+    [
+      "राम नाम बिन कोय न तेरा, क्यों कहते हो मेरा मेरा ।",
+      "प्रेम से प्रभू के गुण गाओ, जन्म मरण में फेर न आओ ।",
+      "प्रेम लगा कर हटा न देना ॥२ ॥"
+    ],
+    [
+      "हलत पलत तेरा हरि साथी, झूठे तन धन घोड़े हाथी ।",
+      "राम नाम का जाप जपीजे, कहे टेऊँ भव सिन्धु तरीजे ।",
+      "भव में चित्त को डुला न देना ॥ ।डे ॥ ।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Maanush Cholaa Durlabh Paayaa, Raam Bhajan Bin Vrithaa Jaayaa.",
+      "Aisaa Belaa Haath Na Aave, Kyon Tum Murkh Paap Kamaave.",
+      "Paap Kare Tan Ganvaa Na Denaa || 8 ||"
+    ],
+    [
+      "Raam Naam Bin Koy Na Teraa, Kyon Kahte Ho Meraa Meraa.",
+      "Prem Se Prabhu Ke Gun Gaao, Janm Maran Men Pher Na Aao.",
+      "Prem Lagaa Kar Hataa Na Denaa || 2 ||"
+    ],
+    [
+      "Halat Palat Teraa Hari Saathi, Jhuthe Tan Dhan Ghore Haathi.",
+      "Raam Naam Kaa Jaap Japije, Kahe Teun Bhav Sindhu Tarije.",
+      "Bhav Men Chitt Ko Dulaa Na Denaa || De ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "नाम हरी का भुला न देना, जीवन अपना रुला न देना",
+    "Naam Hari Kaa Bhulaa Na Denaa, Jivan Apnaa Rulaa Na Denaa",
+    "राग आसा भजन 38",
+    "Raag Aasaa Bhajan 38"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
+  ],
+  "displayOrder": 38,
+  "overallOrder": 100,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 75",
+  "updatedAt": "2026-10-26"
+}

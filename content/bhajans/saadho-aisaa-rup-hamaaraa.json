@@ -1,67 +1,118 @@
 {
-  "id": "bhajan-0465",
+  "id": "bhajan-0464",
   "slug": "saadho-aisaa-rup-hamaaraa",
   "categoryId": "raag-huseni",
-  "title": "साधो ैसा रुप हमारा",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "साधो ऐसा रूप हमारा",
   "romanTitle": "Saadho Aisaa Rup Hamaaraa",
-  "firstLine": "Saadho Aisaa Rup Hamaaraa. Jaagrat Svapn Sushopti Kaa Jo Saakshi Sirjanhaaraa (Tek).",
+  "firstLine": "Saadho Aisaa Rup Hamaaraa.",
+  "heading": "।। राग हुसेनी भजन ।। ३ ।। ४६५।।",
+  "tek": [
+    "साधो ऐसा रूप हमारा ।",
+    "जाग्रत स्वप्न सुषोप्ति का जो साक्षी सिरजणहारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho Aisaa Rup Hamaaraa.",
+    "Jaagrat Svapn Sushopti Kaa Jo Saakshi Sirjanhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धोला पीला नाहीं नीला लाल नहीं है कारा ।",
+        "रंग रूप नहिं धूप न छाया ना को अड्ड अकारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dholaa Pilaa Naahin Nilaa Laal Nahin Hai Kaaraa.",
+        "Rang Rup Nahin Dhup Na Chhaayaa Naa Ko Add Akaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चार वेद तिहँ जानत नाहीं ना पुनि पुराण अठारा ।",
+        "योगी पण्डित पार न पावत है सो अगम अपारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chaar Ved Tihan Jaanat Naahin Naa Puni Puraan Athaaraa.",
+        "Yogi Pandit Paar Na Paavat Hai So Agam Apaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ऊँच नीच नहिं छोटा लंबा हलका नाहीं भारा ।",
+        "भेष पन्थ नहिं वर्ण न ज़ाती तीन गुणों से न्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Unch Nich Nahin Chhotaa Lambaa Halkaa Naahin Bhaaraa.",
+        "Bhesh Panth Nahin Varn Na Zaati Tin Gunon Se Nyaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँं अज अविनाशी निर्गुण निरहंकारा ।",
+        "चींटी कुंचर माहिं व्यापक सतूचित्‌ आनन्द सारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teunn Aj Avinaashi Nirgun Nirhankaaraa.",
+        "Chinti Kunchar Maahin Vyaapak Satuchit‌ Aanand Saaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधो ैसा रुप हमारा.",
-      "जागरत सवपन सुशोपति का जो साक्षी सिरजनहारा (टेक)."
+      "धोला पीला नाहीं नीला लाल नहीं है कारा ।",
+      "रंग रूप नहिं धूप न छाया ना को अड्ड अकारा ॥१ ॥"
     ],
     [
-      "धोला पिला नाहिन निला लाल नहिन है कारा.",
-      "रनग रुप नहिन धुप न चहाया ना को दद कारा.1 ||."
+      "चार वेद तिहँ जानत नाहीं ना पुनि पुराण अठारा ।",
+      "योगी पण्डित पार न पावत है सो अगम अपारा ॥२ ॥"
     ],
     [
-      "चार वेद तिहन जानत नाहिन ना पुनि पुरान थारा.",
-      "योगि पनदित पार न पावत है सो गम पारा || 2 ||."
+      "ऊँच नीच नहिं छोटा लंबा हलका नाहीं भारा ।",
+      "भेष पन्थ नहिं वर्ण न ज़ाती तीन गुणों से न्यारा ॥३ ॥"
     ],
     [
-      "ुनच निच नहिन चहोता लमबा हलका नाहिन भारा.",
-      "भेश पनथ नहिन वरन न zाति तिन गुनोन से नयारा || 3 ||"
-    ],
-    [
-      "कहता तेुनन ज अविनाशी निरगुन निरहनकारा.",
-      "चिनति कुनचर माहिन वयापक सतुचित‌ आनंद सारा.4 ||."
+      "कहता टेऊँं अज अविनाशी निर्गुण निरहंकारा ।",
+      "चींटी कुंचर माहिं व्यापक सतूचित्‌ आनन्द सारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadho Aisaa Rup Hamaaraa.",
-      "Jaagrat Svapn Sushopti Kaa Jo Saakshi Sirjanhaaraa (Tek)."
-    ],
-    [
       "Dholaa Pilaa Naahin Nilaa Laal Nahin Hai Kaaraa.",
-      "Rang Rup Nahin Dhup N Chhaayaa Naa Ko Add Akaaraa.1 ||."
+      "Rang Rup Nahin Dhup Na Chhaayaa Naa Ko Add Akaaraa || 1 ||"
     ],
     [
       "Chaar Ved Tihan Jaanat Naahin Naa Puni Puraan Athaaraa.",
-      "Yogi Pandit Paar N Paavat Hai So Agam Apaaraa || 2 ||."
+      "Yogi Pandit Paar Na Paavat Hai So Agam Apaaraa || 2 ||"
     ],
     [
       "Unch Nich Nahin Chhotaa Lambaa Halkaa Naahin Bhaaraa.",
-      "Bhesh Panth Nahin Varn N Zaati Tin Gunon Se Nyaaraa || 3 ||"
+      "Bhesh Panth Nahin Varn Na Zaati Tin Gunon Se Nyaaraa || 3 ||"
     ],
     [
       "Kahtaa Teunn Aj Avinaashi Nirgun Nirhankaaraa.",
-      "Chinti Kunchar Maahin Vyaapak Satuchit‌ Aanand Saaraa.4 ||."
+      "Chinti Kunchar Maahin Vyaapak Satuchit‌ Aanand Saaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 3 || 465 ||",
+    "साधो ऐसा रूप हमारा",
     "Saadho Aisaa Rup Hamaaraa",
-    "साधो ैसा रुप हमारा"
+    "राग हुसैनी भजन 3",
+    "Raag Huseni Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 465,
+  "displayOrder": 3,
+  "overallOrder": 464,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 261",
+  "updatedAt": "2026-10-26"
 }

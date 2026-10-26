@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0546",
+  "slug": "levo-satguru-se-nij-gyaan-samajh-man-saajnaa-re",
+  "categoryId": "raag-sorath",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "लेवो सत्‌गुरु से निज ज्ञान, समझ मन साजना रे",
+  "romanTitle": "Levo Sat‌Guru Se Nij Gyaan, Samajh Man Saajnaa Re",
+  "firstLine": "Levo Sat‌Guru Se Nij Gyaan, Samajh Man Saajnaa Re (Tek).",
+  "heading": "।। राग सोरठ भजन ।। १६ ।। ५४७।।",
+  "tek": [
+    "लेवो सत्‌गुरु से निज ज्ञान, समझ मन साजना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Levo Sat‌Guru Se Nij Gyaan, Samajh Man Saajnaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कर्म उपासन अहनिश करके, मल विक्षेप द्न्‍न्द्र को हरके ।",
+        "तजो देह अभिमान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Karm Upaasan Ahnish Karke, Mal Vikshep Dn‍Ndr Ko Harke.",
+        "Tajo Deh Abhimaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपने उर में झाती पाए, अनुभव की तुम ज्योति जगाए ।",
+        "आत्म लाल पछान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Apne Ur Men Jhaati Paae, Anubhav Ki Tum Jyoti Jagaae.",
+        "Aatm Laal Pachhaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आत्म सत्‌ जग मिश्या जानो, जीव ब्रह्म इक रूप पछानो ।",
+        "हरो भेद अज्ञान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aatm Sat‌ Jag Mishyaa Jaano, Jiv Brahm Ik Rup Pachhaano.",
+        "Haro Bhed Ajnyaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सुनिये प्यारा, हर्ष शोक से होय न्यारा ।",
+        "पाओ पद निर्बान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Suniye Pyaaraa, Harsh Shok Se Hoy Nyaaraa.",
+        "Paao Pad Nirbaan || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "कर्म उपासन अहनिश करके, मल विक्षेप द्न्‍न्द्र को हरके ।",
+      "तजो देह अभिमान ॥१ ॥"
+    ],
+    [
+      "अपने उर में झाती पाए, अनुभव की तुम ज्योति जगाए ।",
+      "आत्म लाल पछान ॥२ ॥"
+    ],
+    [
+      "आत्म सत्‌ जग मिश्या जानो, जीव ब्रह्म इक रूप पछानो ।",
+      "हरो भेद अज्ञान ॥३ ॥"
+    ],
+    [
+      "कहता टेऊँ सुनिये प्यारा, हर्ष शोक से होय न्यारा ।",
+      "पाओ पद निर्बान ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Karm Upaasan Ahnish Karke, Mal Vikshep Dn‍Ndr Ko Harke.",
+      "Tajo Deh Abhimaan || 1 ||"
+    ],
+    [
+      "Apne Ur Men Jhaati Paae, Anubhav Ki Tum Jyoti Jagaae.",
+      "Aatm Laal Pachhaan || 2 ||"
+    ],
+    [
+      "Aatm Sat‌ Jag Mishyaa Jaano, Jiv Brahm Ik Rup Pachhaano.",
+      "Haro Bhed Ajnyaan || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Suniye Pyaaraa, Harsh Shok Se Hoy Nyaaraa.",
+      "Paao Pad Nirbaan || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "लेवो सत्‌गुरु से निज ज्ञान, समझ मन साजना रे",
+    "Levo Sat‌Guru Se Nij Gyaan, Samajh Man Saajnaa Re",
+    "राग सोरठ भजन 16",
+    "Raag Sorath Bhajan 16"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
+  ],
+  "displayOrder": 16,
+  "overallOrder": 546,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 299",
+  "updatedAt": "2026-10-26"
+}

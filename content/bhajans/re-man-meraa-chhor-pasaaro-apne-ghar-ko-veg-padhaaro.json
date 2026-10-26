@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0532",
+  "id": "bhajan-0530",
   "slug": "re-man-meraa-chhor-pasaaro-apne-ghar-ko-veg-padhaaro",
   "categoryId": "raag-kohiyaari",
-  "title": "रे मन मेरा चहोर पसारो, पने घर को वेग पधारो",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "रे मन मेरा छोड़ पसारो, अपने घर को वेग पधारो",
   "romanTitle": "Re Man Meraa Chhor Pasaaro, Apne Ghar Ko Veg Padhaaro",
   "firstLine": "Re Man Meraa Chhor Pasaaro, Apne Ghar Ko Veg Padhaaro (Tek).",
+  "heading": "।। राग कोह्यारी भजन ।। ५१ ।। ५३१।॥।",
+  "tek": [
+    "रे मन मेरा छोड़ पसारो, अपने घर को वेग पधारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Meraa Chhor Pasaaro, Apne Ghar Ko Veg Padhaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अपना घर है गोविन्द का घर, अपना दर है दाता का दर ।",
+        "अपने घर में सुख है सारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Apnaa Ghar Hai Govind Kaa Ghar, Apnaa Dar Hai Daataa Kaa Dar.",
+        "Apne Ghar Men Sukh Hai Saaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसा सुख अपने चौबारे, तैसा सुख ना कहां प्यारे ।",
+        "थोड़े से ही करले गुज़ारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaisaa Sukh Apne Chaubaare, Taisaa Sukh Naa Kahaan Pyaare.",
+        "Thore Se Hi Karle Guzaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अग्नि बढ़े तो धाम जलावे, नीर बढ़े तो गाम डुबावे ।",
+        "बढ़ना सब विधि दुखनि भण्डारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Agni Barhe To Dhaam Jalaave, Nir Barhe To Gaam Dubaave.",
+        "Barhnaa Sab Vidhi Dukhni Bhandaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "छोड़ बखेरा बाहर वाला, अन्तर्मुख सुख पाय विशाला ।",
+        "कहे टेऊँ यह शिक्षा धारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Chhor Bakheraa Baahar Vaalaa, Antarmukh Sukh Paay Vishaalaa.",
+        "Kahe Teun Yah Shikshaa Dhaaro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरा चहोर पसारो, पने घर को वेग पधारो (टेक)."
+      "अपना घर है गोविन्द का घर, अपना दर है दाता का दर ।",
+      "अपने घर में सुख है सारो ॥१ ॥"
     ],
     [
-      "पना घर है गोविंद का घर, पना दर है दाता का दर.",
-      "पने घर मेन सुख है सारो || 1 ||."
+      "जैसा सुख अपने चौबारे, तैसा सुख ना कहां प्यारे ।",
+      "थोड़े से ही करले गुज़ारो ॥२ ॥"
     ],
     [
-      "जैसा सुख पने चौबारे, तैसा सुख ना कहान पयारे.",
-      "थोरे से हि करले गुzारो.2 ||."
+      "अग्नि बढ़े तो धाम जलावे, नीर बढ़े तो गाम डुबावे ।",
+      "बढ़ना सब विधि दुखनि भण्डारो ॥३ ॥"
     ],
     [
-      "गनि बरहे तो धाम जलावे, निर बरहे तो गाम दुबावे.",
-      "बरहना सब विधि दुखनि भनदारो || 3 ||"
-    ],
-    [
-      "चहोर बखेरा बाहर वाला, नतरमुख सुख पाय विशाला.",
-      "कहे तेऊँ यह शिकशा धारो || 4. ||."
+      "छोड़ बखेरा बाहर वाला, अन्तर्मुख सुख पाय विशाला ।",
+      "कहे टेऊँ यह शिक्षा धारो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Meraa Chhor Pasaaro, Apne Ghar Ko Veg Padhaaro (Tek)."
-    ],
-    [
       "Apnaa Ghar Hai Govind Kaa Ghar, Apnaa Dar Hai Daataa Kaa Dar.",
-      "Apne Ghar Men Sukh Hai Saaro || 1 ||."
+      "Apne Ghar Men Sukh Hai Saaro || 1 ||"
     ],
     [
       "Jaisaa Sukh Apne Chaubaare, Taisaa Sukh Naa Kahaan Pyaare.",
-      "Thore Se Hi Karle Guzaaro.2 ||."
+      "Thore Se Hi Karle Guzaaro || 2 ||"
     ],
     [
       "Agni Barhe To Dhaam Jalaave, Nir Barhe To Gaam Dubaave.",
@@ -44,22 +93,24 @@
     ],
     [
       "Chhor Bakheraa Baahar Vaalaa, Antarmukh Sukh Paay Vishaalaa.",
-      "Kahe Teun Yah Shikshaa Dhaaro || 4. ||."
+      "Kahe Teun Yah Shikshaa Dhaaro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohyaari Bhajan || 51 || 531. ||.",
+    "रे मन मेरा छोड़ पसारो, अपने घर को वेग पधारो",
     "Re Man Meraa Chhor Pasaaro, Apne Ghar Ko Veg Padhaaro",
-    "रे मन मेरा चहोर पसारो, पने घर को वेग पधारो"
+    "राग कोहियारी भजन 51",
+    "Raag Kohiyaari Bhajan 51"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 532,
+  "displayOrder": 51,
+  "overallOrder": 530,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 292",
+  "updatedAt": "2026-10-26"
 }

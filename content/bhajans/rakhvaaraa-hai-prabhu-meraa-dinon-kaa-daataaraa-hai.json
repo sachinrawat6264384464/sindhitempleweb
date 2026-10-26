@@ -1,58 +1,97 @@
 {
   "id": "bhajan-0292",
   "slug": "rakhvaaraa-hai-prabhu-meraa-dinon-kaa-daataaraa-hai",
-  "categoryId": "raag-bhairav",
-  "title": "रखवारा है, प्रभु मेरा दिनोन का दातारा है",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "रखवारा है, प्रभू मेरा दीनों का दातारा है",
   "romanTitle": "Rakhvaaraa Hai, Prabhu Meraa Dinon Kaa Daataaraa Hai",
   "firstLine": "Rakhvaaraa Hai, Prabhu Meraa Dinon Kaa Daataaraa Hai (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७७ ।। २९२।।",
+  "tek": [
+    "रखवारा है, प्रभू मेरा दीनों का दातारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Rakhvaaraa Hai, Prabhu Meraa Dinon Kaa Daataaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दुख दूर करे, सब पाप हरे, जो मन में हरि का ध्यान धरे ।",
+        "ऐसा योग क्षेम अरु मोक्ष का भण्डारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dukh Dur Kare, Sab Paap Hare, Jo Man Men Hari Kaa Dhyaan Dhare.",
+        "Aisaa Yog Kshem Aru Moksh Kaa Bhandaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दे शान्त सुमति, गुण ज्ञान शक्ति, जो राखे मन में भाव भक्ति ।",
+        "वो शरनि आये को निर्भय करने हारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "De Shaant Sumti, Gun Gyaan Shakti, Jo Raakhe Man Men Bhaav Bhakti.",
+        "Vo Sharni Aaye Ko Nirbhay Karne Haaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धन धान देत, सुख शान देत, अरु सर्व पदार्थ दान देत ।",
+        "कहे टेऊँ बह सर्व जगत आधारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhan Dhaan Det, Sukh Shaan Det, Aru Sarv Padaarth Daan Det.",
+        "Kahe Teun Bah Sarv Jagat Aadhaaraa Hai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रखवारा है, प्रभु मेरा दिनोन का दातारा है (टेक)."
+      "दुख दूर करे, सब पाप हरे, जो मन में हरि का ध्यान धरे ।",
+      "ऐसा योग क्षेम अरु मोक्ष का भण्डारा है ॥१ ॥"
     ],
     [
-      "दुःख दुर करे, सब पाप हरे, जो मन मेन हरि का ध्यान धरे.",
-      "ैसा योग कशेम रु मोक्ष का भनदारा है.1 ||"
+      "दे शान्त सुमति, गुण ज्ञान शक्ति, जो राखे मन में भाव भक्ति ।",
+      "वो शरनि आये को निर्भय करने हारा है ॥२ ॥"
     ],
     [
-      "दे शानत सुमति, गुन ज्ञान शकति, जो राखे मन मेन भाव भक्ति.",
-      "वो शरनि ाये को निरभय करने हारा है || 2. ||."
-    ],
-    [
-      "धन धान देत, सुख शान देत, रु सर्व पदारथ दान देत.",
-      "कहे तेऊँ बह सर्व जगत ाधारा है ||.3. ||."
+      "धन धान देत, सुख शान देत, अरु सर्व पदार्थ दान देत ।",
+      "कहे टेऊँ बह सर्व जगत आधारा है ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Rakhvaaraa Hai, Prabhu Meraa Dinon Kaa Daataaraa Hai (Tek)."
-    ],
-    [
       "Dukh Dur Kare, Sab Paap Hare, Jo Man Men Hari Kaa Dhyaan Dhare.",
-      "Aisaa Yog Kshem Aru Moksh Kaa Bhandaaraa Hai.1 ||"
+      "Aisaa Yog Kshem Aru Moksh Kaa Bhandaaraa Hai || 1 ||"
     ],
     [
-      "De Shaant Sumti, Gun Jnyaan Shakti, Jo Raakhe Man Men Bhaav Bhakti.",
-      "Vo Sharni Aaye Ko Nirbhay Karne Haaraa Hai || 2. ||."
+      "De Shaant Sumti, Gun Gyaan Shakti, Jo Raakhe Man Men Bhaav Bhakti.",
+      "Vo Sharni Aaye Ko Nirbhay Karne Haaraa Hai || 2 ||"
     ],
     [
       "Dhan Dhaan Det, Sukh Shaan Det, Aru Sarv Padaarth Daan Det.",
-      "Kahe Teun Bah Sarv Jagat Aadhaaraa Hai ||.3. ||."
+      "Kahe Teun Bah Sarv Jagat Aadhaaraa Hai || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 77 || 292 ||",
+    "रखवारा है, प्रभू मेरा दीनों का दातारा है",
     "Rakhvaaraa Hai, Prabhu Meraa Dinon Kaa Daataaraa Hai",
-    "रखवारा है, प्रभु मेरा दिनोन का दातारा है"
+    "राग भैरवी भजन 77",
+    "Raag Bhairvi Bhajan 77"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 292,
+  "displayOrder": 77,
+  "overallOrder": 292,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 177",
+  "updatedAt": "2026-10-26"
 }

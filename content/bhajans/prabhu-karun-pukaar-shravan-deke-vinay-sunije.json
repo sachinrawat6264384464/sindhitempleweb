@@ -2,51 +2,109 @@
   "id": "bhajan-0433",
   "slug": "prabhu-karun-pukaar-shravan-deke-vinay-sunije",
   "categoryId": "raag-tilang",
-  "title": "प्रभु करुन पुकार, शरवन देके विनय सुनिजे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "प्रभू करूँ पुकार, श्रवण देके विनय सुनीजे ॥",
   "romanTitle": "Prabhu Karun Pukaar, Shravan Deke Vinay Sunije",
   "firstLine": "Prabhu Karun Pukaar, Shravan Deke Vinay Sunije (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ७० ।। ४ं३४।।",
+  "tek": [
+    "प्रभू करूँ पुकार, श्रवण देके विनय सुनीजे ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Karun Pukaar, Shravan Deke Vinay Sunije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भवसागर है दुस्तर भारी, डूब रहा हूँ ताहिं मंजझारी ।",
+        "नाम नाव आधार, देके मुझको पार करीजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhavsaagar Hai Dustar Bhaari, Dub Rahaa Hun Taahin Manjjhaari.",
+        "Naam Naav Aadhaar, Deke Mujhko Paar Karije || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मच्छ कच्छ काम क्रोध सताता, लोभ लहर में गोता खाता ।",
+        "पावत दूख अपार, कृपा कर मुझ उबार लीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Machchh Kachchh Kaam Krodh Sataataa, Lobh Lahar Men Gotaa Khaataa.",
+        "Paavat Dukh Apaar, Kripaa Kar Mujh Ubaar Lije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भोग वासना विषय वकक्‍्कर में, भ्रम रहा हूँ मोह चक्कर में ।",
+        "तांसे तुरत निकार, करुणा का सिर हाथ धरीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhog Vaasnaa Vishay Vakak‍Kar Men, Bhram Rahaa Hun Moh Chakkar Men.",
+        "Taanse Turat Nikaar, Karunaa Kaa Sir Haath Dharije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ दो कर जोड़े, और न कोय सहायक मोरे ।",
+        "मैं हूँ शरण तुम्हार, दीन बन्धू निज मुक्ती दीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Do Kar Jore, Aur Na Koy Sahaayak More.",
+        "Main Hun Sharan Tumhaar, Din Bandhu Nij Mukti Dije || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्र्द्द"
+      ],
+      "romanLines": [
+        "Trdd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु करुन पुकार, शरवन देके विनय सुनिजे (टेक)."
+      "भवसागर है दुस्तर भारी, डूब रहा हूँ ताहिं मंजझारी ।",
+      "नाम नाव आधार, देके मुझको पार करीजे ॥१ ॥"
     ],
     [
-      "भवसागर है दुसतर भारि, दुब रहा हुन ताहिन मनजझारि.",
-      "नाम नाव ाधार, देके मुझको पार करिजे || 1 ||."
+      "मच्छ कच्छ काम क्रोध सताता, लोभ लहर में गोता खाता ।",
+      "पावत दूख अपार, कृपा कर मुझ उबार लीजे ॥२ ॥"
     ],
     [
-      "मचचह कचचह काम करोध सताता, लोभ लहर मेन गोता खाता.",
-      "पावत दुःख पार, कृपा कर मुझ ुबार लिजे || 2 ||."
+      "भोग वासना विषय वकक्‍्कर में, भ्रम रहा हूँ मोह चक्कर में ।",
+      "तांसे तुरत निकार, करुणा का सिर हाथ धरीजे ॥३ ॥"
     ],
     [
-      "भोग वासना विशय वकककर मेन, भरम रहा हुन मोह चककर मेन.",
-      "तानसे तुरत निकार, करुना का सिर हाथ धरिजे || 3 ||."
+      "कहता टेऊँ दो कर जोड़े, और न कोय सहायक मोरे ।",
+      "मैं हूँ शरण तुम्हार, दीन बन्धू निज मुक्ती दीजे ॥४ ॥"
     ],
     [
-      "कहता तेऊँ दो कर जोरे, ौर न कोय सहायक मोरे.",
-      "मैं हुन शरन तुमहार, दीन बनधु निज मुक्ति दिजे || 4 ||"
-    ],
-    [
-      "तरदद"
+      "त्र्द्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Karun Pukaar, Shravan Deke Vinay Sunije (Tek)."
-    ],
-    [
       "Bhavsaagar Hai Dustar Bhaari, Dub Rahaa Hun Taahin Manjjhaari.",
-      "Naam Naav Aadhaar, Deke Mujhko Paar Karije || 1 ||."
+      "Naam Naav Aadhaar, Deke Mujhko Paar Karije || 1 ||"
     ],
     [
       "Machchh Kachchh Kaam Krodh Sataataa, Lobh Lahar Men Gotaa Khaataa.",
-      "Paavat Dukh Apaar, Kripaa Kar Mujh Ubaar Lije || 2 ||."
+      "Paavat Dukh Apaar, Kripaa Kar Mujh Ubaar Lije || 2 ||"
     ],
     [
       "Bhog Vaasnaa Vishay Vakak‍Kar Men, Bhram Rahaa Hun Moh Chakkar Men.",
-      "Taanse Turat Nikaar, Karunaa Kaa Sir Haath Dharije || 3 ||."
+      "Taanse Turat Nikaar, Karunaa Kaa Sir Haath Dharije || 3 ||"
     ],
     [
-      "Kahtaa Teun Do Kar Jore, Aur N Koy Sahaayak More.",
+      "Kahtaa Teun Do Kar Jore, Aur Na Koy Sahaayak More.",
       "Main Hun Sharan Tumhaar, Din Bandhu Nij Mukti Dije || 4 ||"
     ],
     [
@@ -54,19 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 70 || 4N34 ||",
+    "प्रभू करूँ पुकार, श्रवण देके विनय सुनीजे ॥",
     "Prabhu Karun Pukaar, Shravan Deke Vinay Sunije",
-    "प्रभु करुन पुकार, शरवन देके विनय सुनिजे"
+    "राग तिलंग भजन 70",
+    "Raag Tilang Bhajan 70"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 433,
+  "displayOrder": 70,
+  "overallOrder": 433,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 246",
+  "updatedAt": "2026-10-26"
 }

@@ -1,49 +1,103 @@
 {
-  "id": "bhajan-0667",
+  "id": "bhajan-0665",
   "slug": "sharan-levo-sharan-levo-siyaaraam-ki",
   "categoryId": "raag-pahaari",
-  "title": "शरन लेवो शरन लेवो सियाराम कि",
-  "romanTitle": "Sharan Levo Sharan Levo Siyaaraam Ki",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "शरन लेवो शरन लेवो सीयाराम की ,",
+  "romanTitle": "Sharan Levo Sharan Levo Siyaaraam Ki,",
   "firstLine": "Sharan Levo Sharan Levo Siyaaraam Ki,",
+  "heading": "।। राग पहाड़ी भजन ।। १८ ।। ६६६।।",
+  "tek": [
+    "शरन लेवो शरन लेवो सीयाराम की ,",
+    "ओट लेवो ओट लेवो राधेश्याम की ,",
+    "वे दोनों करत सहाए ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sharan Levo Sharan Levo Siyaaraam Ki,",
+    "Ot Levo Ot Levo Raadheshyaam Ki,",
+    "Ve Donon Karat Sahaae (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "विभीषण सब कुटुम्ब त्यागे, आकर राम शरन जब लागे ।",
+        "तब लंकेश बनाये, ओ प्रीतम वचन निभाए ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vibhishan Sab Kutumb Tyaage, Aakar Raam Sharan Jab Laage.",
+        "Tab Lankesh Banaaye, O Pritam Vachan Nibhaae || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ग्राह से लड़ते गज ने हारा, फूल देहि उस करी पुकारा ।",
+        "गरुड़ छोड़ हरि आये, ओ प्रीतम गज को छुड़ाए ॥२ ॥"
+      ],
+      "romanLines": [
+        "Graah Se Larte Gaj Ne Haaraa, Phul Dehi Us Kari Pukaaraa.",
+        "Garur Chhor Hari Aaye, O Pritam Gaj Ko Chhuraae || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्रोपदा ने शरण गही जब, वसन रूप धर श्याम आये तब ।",
+        "सभा में चीर बढ़ाये, ओ प्रीतम लाज बचाए ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dropdaa Ne Sharan Gahi Jab, Vasan Rup Dhar Shyaam Aaye Tab.",
+        "Sabhaa Men Chir Barhaaye, O Pritam Laaj Bachaae || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गीता में यह गाया कृष्न, मम शरनी जो आवे अर्जुन ।",
+        "टेऊँ सो सुख को पाये, ओ प्रीतम पाप मिटाए ॥४ ॥"
+      ],
+      "romanLines": [
+        "Gitaa Men Yah Gaayaa Krishn, Mam Sharni Jo Aave Arjun.",
+        "Teun So Sukh Ko Paaye, O Pritam Paap Mitaae || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्दठ"
+      ],
+      "romanLines": [
+        "Ddath"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शरन लेवो शरन लेवो सियाराम कि,",
-      "ोत लेवो ोत लेवो राधेशयाम कि,"
+      "विभीषण सब कुटुम्ब त्यागे, आकर राम शरन जब लागे ।",
+      "तब लंकेश बनाये, ओ प्रीतम वचन निभाए ॥१ ॥"
     ],
     [
-      "वे दोनोन करत सहाे (टेक)."
+      "ग्राह से लड़ते गज ने हारा, फूल देहि उस करी पुकारा ।",
+      "गरुड़ छोड़ हरि आये, ओ प्रीतम गज को छुड़ाए ॥२ ॥"
     ],
     [
-      "विभिशन सब कुतुमब तयागे, ाकर राम शरन जब लागे.",
-      "तब लनकेश बनाये, ो परितम वचन निभाे.1. ||."
+      "द्रोपदा ने शरण गही जब, वसन रूप धर श्याम आये तब ।",
+      "सभा में चीर बढ़ाये, ओ प्रीतम लाज बचाए ॥३ ॥"
     ],
     [
-      "गराह से लरते गज ने हारा, फुल देही ुस करि पुकारा.",
-      "गरुर चहोर हरि ाये, ो परितम गज को चहुराे || 2 ||"
+      "गीता में यह गाया कृष्न, मम शरनी जो आवे अर्जुन ।",
+      "टेऊँ सो सुख को पाये, ओ प्रीतम पाप मिटाए ॥४ ॥"
     ],
     [
-      "दरोपदा ने शरन गहि जब, वसन रुप धर शयाम ाये तब.",
-      "सभा मेन चिर बरहाये, ो परितम लाज बचाे ||.3 ||"
-    ],
-    [
-      "गिता मेन यह गाया करिशन, मम शरनि जो ावे रजुन.",
-      "तेऊँ सो सुख को पाये, ो परितम पाप मिताे || 4. ||."
-    ],
-    [
-      "ददथ"
+      "द्दठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Sharan Levo Sharan Levo Siyaaraam Ki,",
-      "Ot Levo Ot Levo Raadheshyaam Ki,"
-    ],
-    [
-      "Ve Donon Karat Sahaae (Tek)."
-    ],
-    [
       "Vibhishan Sab Kutumb Tyaage, Aakar Raam Sharan Jab Laage.",
-      "Tab Lankesh Banaaye, O Pritam Vachan Nibhaae.1. ||."
+      "Tab Lankesh Banaaye, O Pritam Vachan Nibhaae || 1 ||"
     ],
     [
       "Graah Se Larte Gaj Ne Haaraa, Phul Dehi Us Kari Pukaaraa.",
@@ -51,29 +105,31 @@
     ],
     [
       "Dropdaa Ne Sharan Gahi Jab, Vasan Rup Dhar Shyaam Aaye Tab.",
-      "Sabhaa Men Chir Barhaaye, O Pritam Laaj Bachaae ||.3 ||"
+      "Sabhaa Men Chir Barhaaye, O Pritam Laaj Bachaae || 3 ||"
     ],
     [
       "Gitaa Men Yah Gaayaa Krishn, Mam Sharni Jo Aave Arjun.",
-      "Teun So Sukh Ko Paaye, O Pritam Paap Mitaae || 4. ||."
+      "Teun So Sukh Ko Paaye, O Pritam Paap Mitaae || 4 ||"
     ],
     [
       "Ddath"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 18 || 666 ||",
-    "Sharan Levo Sharan Levo Siyaaraam Ki",
-    "शरन लेवो शरन लेवो सियाराम कि"
+    "शरन लेवो शरन लेवो सीयाराम की ,",
+    "Sharan Levo Sharan Levo Siyaaraam Ki,",
+    "राग पहाड़ी भजन 18",
+    "Raag Pahaari Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 667,
+  "displayOrder": 18,
+  "overallOrder": 665,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 354",
+  "updatedAt": "2026-10-26"
 }

@@ -2,64 +2,113 @@
   "id": "bhajan-0174",
   "slug": "chhor-jag-ke-kaam-jhuthe-dhar-hari-kaa-dhyaan-ji",
   "categoryId": "raag-vihaag",
-  "title": "चहोर जग के काम झुथे धर हरि का ध्यान जी",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "छोड़ जग के काम झूठे धर हरी का ध्यान जी",
   "romanTitle": "Chhor Jag Ke Kaam Jhuthe Dhar Hari Kaa Dhyaan Ji",
-  "firstLine": "Chhor Jag Ke Kaam Jhuthe Dhar Hari Kaa Dhyaan Ji. Prem Amrit Kaa Pyaalaa Pi Karo Gun Gaan Ji (Tek).",
+  "firstLine": "Chhor Jag Ke Kaam Jhuthe Dhar Hari Kaa Dhyaan Ji.",
+  "heading": "।। राग विहाग भजन ।। १६ ।। १७४।।",
+  "tek": [
+    "छोड़ जग के काम झूठे धर हरी का ध्यान जी ।",
+    "प्रेम अमृत का प्याला पी करो गुन गान जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chhor Jag Ke Kaam Jhuthe Dhar Hari Kaa Dhyaan Ji.",
+    "Prem Amrit Kaa Pyaalaa Pi Karo Gun Gaan Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांच तत्व के देह का तुम छोड़दे अभिमान जी ।",
+        "इस जगत में आपको तुम जानले महिमान जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tatv Ke Deh Kaa Tum Chhorde Abhimaan Ji.",
+        "Is Jagat Men Aapko Tum Jaanle Mahimaan Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राज मन्दिर बाग सुन्दर तख़्त अर तूलान जी ।",
+        "कोटि लश्कर सर्व शस्त्र छोड़ गये सुल्तान जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raaj Mandir Baag Sundar Takht Ar Tulaan Ji.",
+        "Koti Lashkar Sarv Shastr Chhor Gaye Sultaan Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहत टेऊँ मुक्ति चाहो सीख मेरी मान जी ।",
+        "साध संगति बैठ के नित जप श्री भगवान जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Mukti Chaaho Sikh Meri Maan Ji.",
+        "Saadh Sangti Baith Ke Nit Jap Shri Bhagvaan Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द्द"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चहोर जग के काम झुथे धर हरि का ध्यान जी.",
-      "प्रेम अमृत का पयाला पि करो गुन गान जी (टेक)."
+      "पांच तत्व के देह का तुम छोड़दे अभिमान जी ।",
+      "इस जगत में आपको तुम जानले महिमान जी ॥१ ॥"
     ],
     [
-      "पानच ततव के देह का तुम चहोरदे भिमान जी.",
-      "िस जगत मेन ापको तुम जानले महिमान जी ||.1 ||."
+      "राज मन्दिर बाग सुन्दर तख़्त अर तूलान जी ।",
+      "कोटि लश्कर सर्व शस्त्र छोड़ गये सुल्तान जी ॥२ ॥"
     ],
     [
-      "राज मनदिर बाग सुनदर तखत र तुलान जी.",
-      "कोति लशकर सर्व शसतर चहोर गये सुलतान जी ||.2 ||."
+      "कहत टेऊँ मुक्ति चाहो सीख मेरी मान जी ।",
+      "साध संगति बैठ के नित जप श्री भगवान जी ॥३ ॥"
     ],
     [
-      "कहत तेऊँ मुक्ति चाहो सिख मेरि मान जी.",
-      "साध सनगति बैथ के नित जप श्री भगवान जी ||.3 ||."
-    ],
-    [
-      "दद"
+      "द्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Chhor Jag Ke Kaam Jhuthe Dhar Hari Kaa Dhyaan Ji.",
-      "Prem Amrit Kaa Pyaalaa Pi Karo Gun Gaan Ji (Tek)."
-    ],
-    [
       "Paanch Tatv Ke Deh Kaa Tum Chhorde Abhimaan Ji.",
-      "Is Jagat Men Aapko Tum Jaanle Mahimaan Ji ||.1 ||."
+      "Is Jagat Men Aapko Tum Jaanle Mahimaan Ji || 1 ||"
     ],
     [
       "Raaj Mandir Baag Sundar Takht Ar Tulaan Ji.",
-      "Koti Lashkar Sarv Shastr Chhor Gaye Sultaan Ji ||.2 ||."
+      "Koti Lashkar Sarv Shastr Chhor Gaye Sultaan Ji || 2 ||"
     ],
     [
       "Kahat Teun Mukti Chaaho Sikh Meri Maan Ji.",
-      "Saadh Sangti Baith Ke Nit Jap Shri Bhagvaan Ji ||.3 ||."
+      "Saadh Sangti Baith Ke Nit Jap Shri Bhagvaan Ji || 3 ||"
     ],
     [
       "Dd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 16 || 174 ||",
+    "छोड़ जग के काम झूठे धर हरी का ध्यान जी",
     "Chhor Jag Ke Kaam Jhuthe Dhar Hari Kaa Dhyaan Ji",
-    "चहोर जग के काम झुथे धर हरि का ध्यान जी"
+    "राग विहाग भजन 16",
+    "Raag Vihaag Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 174,
+  "displayOrder": 16,
+  "overallOrder": 174,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 116",
+  "updatedAt": "2026-10-26"
 }

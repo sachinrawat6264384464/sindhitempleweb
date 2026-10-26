@@ -1,59 +1,115 @@
 {
-  "id": "bhajan-0904",
+  "id": "bhajan-0902",
   "slug": "aatam-dhan-hai-achal-hamaaraa-jaanki-mahimaa-apar-apaaraa",
   "categoryId": "raag-jog",
-  "title": "ातम धन है चल हमारा, जानकि महिमा पर पारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "आतम धन है अचल हमारा, जांकी महिमा अपर अपारा",
   "romanTitle": "Aatam Dhan Hai Achal Hamaaraa, Jaanki Mahimaa Apar Apaaraa",
   "firstLine": "Aatam Dhan Hai Achal Hamaaraa, Jaanki Mahimaa Apar Apaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ७४ ।। ९०४ ॥।",
+  "tek": [
+    "आतम धन है अचल हमारा, जांकी महिमा अपर अपारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatam Dhan Hai Achal Hamaaraa, Jaanki Mahimaa Apar Apaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जांको अग्नी जार सके नहिं, ना तिहं शस्त्र छेदनहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaanko Agni Jaar Sake Nahin, Naa Tihan Shastr Chhednahaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जांको वायू शोषत नाहीं, डुबा सके ना जल की धारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaanko Vaayu Shoshat Naahin, Dubaa Sake Naa Jal Ki Dhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जांको तस्कर लूट सके ना, लागत ना को जाहिं विकारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaanko Taskar Lut Sake Naa, Laagat Naa Ko Jaahin Vikaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ वह कबहुं न खूटे, खावे खर्चे जे जुग चारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Vah Kabhun Na Khute, Khaave Kharche Je Jug Chaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््छ"
+      ],
+      "romanLines": [
+        "Gchh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ातम धन है चल हमारा, जानकि महिमा पर पारा (टेक)."
+      "जांको अग्नी जार सके नहिं, ना तिहं शस्त्र छेदनहारा ॥१ ॥"
     ],
     [
-      "जानको गनि जार सके नहिन, ना तिहन शसतर चहेदनहारा || 1 ||."
+      "जांको वायू शोषत नाहीं, डुबा सके ना जल की धारा ॥२ ॥"
     ],
     [
-      "जानको वायु शोशत नाहिन, दुबा सके ना जल कि धारा || 2 ||."
+      "जांको तस्कर लूट सके ना, लागत ना को जाहिं विकारा ॥३ ॥"
     ],
     [
-      "जानको तसकर लुत सके ना, लागत ना को जाहिन विकारा ||.3 ||",
-      "कहे तेऊँ वह कभुन न खुते, खावे खरचे जे जुग चारा || 4. ||."
+      "कहे टेऊँ वह कबहुं न खूटे, खावे खर्चे जे जुग चारा ॥४ ॥"
     ],
     [
-      "गचह"
+      "ग््छ"
     ]
   ],
   "romanLyrics": [
     [
-      "Aatam Dhan Hai Achal Hamaaraa, Jaanki Mahimaa Apar Apaaraa (Tek)."
+      "Jaanko Agni Jaar Sake Nahin, Naa Tihan Shastr Chhednahaaraa || 1 ||"
     ],
     [
-      "Jaanko Agni Jaar Sake Nahin, Naa Tihan Shastr Chhednahaaraa || 1 ||."
+      "Jaanko Vaayu Shoshat Naahin, Dubaa Sake Naa Jal Ki Dhaaraa || 2 ||"
     ],
     [
-      "Jaanko Vaayu Shoshat Naahin, Dubaa Sake Naa Jal Ki Dhaaraa || 2 ||."
+      "Jaanko Taskar Lut Sake Naa, Laagat Naa Ko Jaahin Vikaaraa || 3 ||"
     ],
     [
-      "Jaanko Taskar Lut Sake Naa, Laagat Naa Ko Jaahin Vikaaraa ||.3 ||",
-      "Kahe Teun Vah Kabhun N Khute, Khaave Kharche Je Jug Chaaraa || 4. ||."
+      "Kahe Teun Vah Kabhun Na Khute, Khaave Kharche Je Jug Chaaraa || 4 ||"
     ],
     [
       "Gchh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 74 || 904 ||.",
+    "आतम धन है अचल हमारा, जांकी महिमा अपर अपारा",
     "Aatam Dhan Hai Achal Hamaaraa, Jaanki Mahimaa Apar Apaaraa",
-    "ातम धन है चल हमारा, जानकि महिमा पर पारा"
+    "राग जोग भजन 74",
+    "Raag Jog Bhajan 74"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 904,
+  "displayOrder": 74,
+  "overallOrder": 902,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 475",
+  "updatedAt": "2026-10-26"
 }

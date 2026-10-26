@@ -2,77 +2,127 @@
   "id": "bhajan-0158",
   "slug": "praat-samay-men-sunle-svaami-arz-hamaaraa",
   "categoryId": "raag-aasaa",
-  "title": "परात समय मेन सुनले स्वामी रz हमारा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "प्रात समय में सुनले स्वामी अर्ज़ हमारा",
   "romanTitle": "Praat Samay Men Sunle Svaami Arz Hamaaraa",
-  "firstLine": "Praat Samay Men Sunle Svaami Arz Hamaaraa. Janm Maran Ke Bandhan Kaato Prabhu Pyaaraa (Tek).",
+  "firstLine": "Praat Samay Men Sunle Svaami Arz Hamaaraa.",
+  "heading": "।। राग आसा भजन ।। ९६ ।। १५८।।",
+  "tek": [
+    "प्रात समय में सुनले स्वामी अर्ज़ हमारा ।",
+    "जन्म मरण के बन्धन काटो प्रभू प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Praat Samay Men Sunle Svaami Arz Hamaaraa.",
+    "Janm Maran Ke Bandhan Kaato Prabhu Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कर्म जाल में फस कर मैंने कोटि जन्म पाये ।",
+        "अन्डज जेरज स्वेतज उत्भुज जूणिन में आये ।",
+        "भ्रमत श्रमत तामें देखे कष्ट करारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Karm Jaal Men Phas Kar Mainne Koti Janm Paaye.",
+        "Andaj Jeraj Svetaj Utbhuj Junin Men Aaye.",
+        "Bhramat Shramat Taamen Dekhe Kasht Karaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "याद करे उन कष्टों को मन कम्पत है मेरा ।",
+        "और भरोसा छोड़ आसरा लीया हरि तेरा ।",
+        "चौरासी से मोहि बचाओ करुणा भण्डारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yaad Kare Un Kashton Ko Man Kampat Hai Meraa.",
+        "Aur Bharosaa Chhor Aasraa Liyaa Hari Teraa.",
+        "Chauraasi Se Mohi Bachaao Karunaa Bhandaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अपने बल से छूट सकूं ना कर्मों के फंद से ।",
+        "कृपा करके बन्धन काटे मेलो निज पद से ।",
+        "तुम हो सर्वज्ञ समर्थ साहब आनन्द अगारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Apne Bal Se Chhut Sakun Naa Karmon Ke Phand Se.",
+        "Kripaa Karke Bandhan Kaate Melo Nij Pad Se.",
+        "Tum Ho Sarvajny Samarth Saahab Aanand Agaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं और कहूं क्या मालुम सब तुझको ।",
+        "कर्मों रूपी सागर से तुम पार करो मुझको ।",
+        "दीन दयालू दया करे दे मुझको सहारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Aur Kahun Kyaa Maalum Sab Tujhko.",
+        "Karmon Rupi Saagar Se Tum Paar Karo Mujhko.",
+        "Din Dayaalu Dayaa Kare De Mujhko Sahaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्य"
+      ],
+      "romanLines": [
+        "Dy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परात समय मेन सुनले स्वामी रz हमारा.",
-      "जनम मरन के बनधन कातो प्रभु पयारा (टेक)."
+      "कर्म जाल में फस कर मैंने कोटि जन्म पाये ।",
+      "अन्डज जेरज स्वेतज उत्भुज जूणिन में आये ।",
+      "भ्रमत श्रमत तामें देखे कष्ट करारा ॥१ ॥"
     ],
     [
-      "करम जाल मेन फस कर मैनने कोति जनम पाये.",
-      "नदज जेरज सवेतज ुतभुज जुनिन मेन ाये."
+      "याद करे उन कष्टों को मन कम्पत है मेरा ।",
+      "और भरोसा छोड़ आसरा लीया हरि तेरा ।",
+      "चौरासी से मोहि बचाओ करुणा भण्डारा ॥२ ॥"
     ],
     [
-      "भरमत शरमत तामेन देखे कशत करारा || 1. ||."
+      "अपने बल से छूट सकूं ना कर्मों के फंद से ।",
+      "कृपा करके बन्धन काटे मेलो निज पद से ।",
+      "तुम हो सर्वज्ञ समर्थ साहब आनन्द अगारा ॥३ ॥"
     ],
     [
-      "याद करे ुन कशतोन को मन कमपत है मेरा.",
-      "ौर भरोसा चहोर ासरा लिया हरि तेरा."
+      "कहे टेऊँ मैं और कहूं क्या मालुम सब तुझको ।",
+      "कर्मों रूपी सागर से तुम पार करो मुझको ।",
+      "दीन दयालू दया करे दे मुझको सहारा ॥४ ॥"
     ],
     [
-      "चौरासि से मोहि बचाो करुना भनदारा || 2 ||."
-    ],
-    [
-      "पने बल से चहुत सकुन ना करमोन के फनद से.",
-      "कृपा करके बनधन काते मेलो निज पद से."
-    ],
-    [
-      "तुम हो सरवजनय समरथ साहब आनंद गारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ मैं ौर कहुन कया मालुम सब तुझको.",
-      "करमोन रुपि सागर से तुम पार करो मुझको."
-    ],
-    [
-      "दीन दयालु दया करे दे मुझको सहारा || 4 ||"
-    ],
-    [
-      "दय"
+      "द्य"
     ]
   ],
   "romanLyrics": [
     [
-      "Praat Samay Men Sunle Svaami Arz Hamaaraa.",
-      "Janm Maran Ke Bandhan Kaato Prabhu Pyaaraa (Tek)."
-    ],
-    [
       "Karm Jaal Men Phas Kar Mainne Koti Janm Paaye.",
-      "Andaj Jeraj Svetaj Utbhuj Junin Men Aaye."
-    ],
-    [
-      "Bhramat Shramat Taamen Dekhe Kasht Karaaraa || 1. ||."
+      "Andaj Jeraj Svetaj Utbhuj Junin Men Aaye.",
+      "Bhramat Shramat Taamen Dekhe Kasht Karaaraa || 1 ||"
     ],
     [
       "Yaad Kare Un Kashton Ko Man Kampat Hai Meraa.",
-      "Aur Bharosaa Chhor Aasraa Liyaa Hari Teraa."
-    ],
-    [
-      "Chauraasi Se Mohi Bachaao Karunaa Bhandaaraa || 2 ||."
+      "Aur Bharosaa Chhor Aasraa Liyaa Hari Teraa.",
+      "Chauraasi Se Mohi Bachaao Karunaa Bhandaaraa || 2 ||"
     ],
     [
       "Apne Bal Se Chhut Sakun Naa Karmon Ke Phand Se.",
-      "Kripaa Karke Bandhan Kaate Melo Nij Pad Se."
-    ],
-    [
+      "Kripaa Karke Bandhan Kaate Melo Nij Pad Se.",
       "Tum Ho Sarvajny Samarth Saahab Aanand Agaaraa || 3 ||"
     ],
     [
       "Kahe Teun Main Aur Kahun Kyaa Maalum Sab Tujhko.",
-      "Karmon Rupi Saagar Se Tum Paar Karo Mujhko."
-    ],
-    [
+      "Karmon Rupi Saagar Se Tum Paar Karo Mujhko.",
       "Din Dayaalu Dayaa Kare De Mujhko Sahaaraa || 4 ||"
     ],
     [
@@ -80,19 +130,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 96 || 158 ||",
+    "प्रात समय में सुनले स्वामी अर्ज़ हमारा",
     "Praat Samay Men Sunle Svaami Arz Hamaaraa",
-    "परात समय मेन सुनले स्वामी रz हमारा"
+    "राग आसा भजन 96",
+    "Raag Aasaa Bhajan 96"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 158,
+  "displayOrder": 96,
+  "overallOrder": 158,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 108",
+  "updatedAt": "2026-10-26"
 }

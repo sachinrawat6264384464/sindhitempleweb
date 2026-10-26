@@ -1,75 +1,137 @@
 {
-  "id": "bhajan-0621",
+  "id": "bhajan-0619",
   "slug": "bandaa-apnaa-kaaj-banaay",
   "categoryId": "raag-kalyaan",
-  "title": "बनदा पना काज बनाय",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "बंदा अपना काज बनाय",
   "romanTitle": "Bandaa Apnaa Kaaj Banaay",
-  "firstLine": "Bandaa Apnaa Kaaj Banaay. Kaaj Banaane Kaa Yah Velaa Gaflat Men N Ganvaayaa (Tek).",
+  "firstLine": "Bandaa Apnaa Kaaj Banaay.",
+  "heading": "।। राग कल्याण भजन ।। १३ ।। ६२०",
+  "tek": [
+    "बंदा अपना काज बनाय ।",
+    "काज बनाने का यह वेला गफ़्लत में न गंवाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa Apnaa Kaaj Banaay.",
+    "Kaaj Banaane Kaa Yah Velaa Gaflat Men Na Ganvaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भागों से यह पाया वेला, फेर मिले यह मुश्किल मेला ।",
+        "गुरु मिल जीव जगाय ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhaagon Se Yah Paayaa Velaa, Pher Mile Yah Mushkil Melaa.",
+        "Guru Mil Jiv Jagaay || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भ्रम अरी ने तोहि भुलाया, जीव बनाकर बहुत रुलाया ।",
+        "गुरु मिल भ्रम मिटाय ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhram Ari Ne Tohi Bhulaayaa, Jiv Banaakar Bahut Rulaayaa.",
+        "Guru Mil Bhram Mitaay || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बहु युग होया घर से निकले, अब लौं ना तुम पाया कमले ।",
+        "गुरु मिल निज घर जाय ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bahu Yug Hoyaa Ghar Se Nikle, Ab Laun Naa Tum Paayaa Kamle.",
+        "Guru Mil Nij Ghar Jaay || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "काल बली ने तोहि सताया, जन्म जन्म सिर डण्ड लगाया ।",
+        "गुरु मिल काल नसाय ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kaal Bali Ne Tohi Sataayaa, Janm Janm Sir Dand Lagaayaa.",
+        "Guru Mil Kaal Nasaay || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "सद्‌गुरु बिनु यह काज न सरहीं, कहे टेऊँ बहु यत्न जु करहीं ।",
+        "गुरु की सेव कमाय ॥५ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Binu Yah Kaaj Na Sarhin, Kahe Teun Bahu Yatn Ju Karhin.",
+        "Guru Ki Sev Kamaay || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदा पना काज बनाय.",
-      "काज बनाने का यह वेला गfलत मेन न गनवाया (टेक)."
+      "भागों से यह पाया वेला, फेर मिले यह मुश्किल मेला ।",
+      "गुरु मिल जीव जगाय ॥१ ॥"
     ],
     [
-      "भागोन से यह पाया वेला, फेर मिले यह मुशकिल मेला.",
-      "गुरु मिल जिव जगाय ||.1 ||."
+      "भ्रम अरी ने तोहि भुलाया, जीव बनाकर बहुत रुलाया ।",
+      "गुरु मिल भ्रम मिटाय ॥२ ॥"
     ],
     [
-      "भरम रि ने तोहि भुलाया, जिव बनाकर बहुत रुलाया.",
-      "गुरु मिल भरम मिताय || 2 ||."
+      "बहु युग होया घर से निकले, अब लौं ना तुम पाया कमले ।",
+      "गुरु मिल निज घर जाय ॥३ ॥"
     ],
     [
-      "बहु युग होया घर से निकले, ब लौन ना तुम पाया कमले.",
-      "गुरु मिल निज घर जाय || 3 ||."
+      "काल बली ने तोहि सताया, जन्म जन्म सिर डण्ड लगाया ।",
+      "गुरु मिल काल नसाय ॥४ ॥"
     ],
     [
-      "काल बलि ने तोहि सताया, जनम जनम सिर दनद लगाया.",
-      "गुरु मिल काल नसाय ||.4. ||."
-    ],
-    [
-      "सद्गुरु बिनु यह काज न सरहिन, कहे तेऊँ बहु यतन जु करहिन.",
-      "गुरु कि सेव कमाय ||.5. ||."
+      "सद्‌गुरु बिनु यह काज न सरहीं, कहे टेऊँ बहु यत्न जु करहीं ।",
+      "गुरु की सेव कमाय ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandaa Apnaa Kaaj Banaay.",
-      "Kaaj Banaane Kaa Yah Velaa Gaflat Men N Ganvaayaa (Tek)."
-    ],
-    [
       "Bhaagon Se Yah Paayaa Velaa, Pher Mile Yah Mushkil Melaa.",
-      "Guru Mil Jiv Jagaay ||.1 ||."
+      "Guru Mil Jiv Jagaay || 1 ||"
     ],
     [
       "Bhram Ari Ne Tohi Bhulaayaa, Jiv Banaakar Bahut Rulaayaa.",
-      "Guru Mil Bhram Mitaay || 2 ||."
+      "Guru Mil Bhram Mitaay || 2 ||"
     ],
     [
       "Bahu Yug Hoyaa Ghar Se Nikle, Ab Laun Naa Tum Paayaa Kamle.",
-      "Guru Mil Nij Ghar Jaay || 3 ||."
+      "Guru Mil Nij Ghar Jaay || 3 ||"
     ],
     [
       "Kaal Bali Ne Tohi Sataayaa, Janm Janm Sir Dand Lagaayaa.",
-      "Guru Mil Kaal Nasaay ||.4. ||."
+      "Guru Mil Kaal Nasaay || 4 ||"
     ],
     [
-      "Sad‌Guru Binu Yah Kaaj N Sarhin, Kahe Teun Bahu Yatn Ju Karhin.",
-      "Guru Ki Sev Kamaay ||.5. ||."
+      "Sad‌Guru Binu Yah Kaaj Na Sarhin, Kahe Teun Bahu Yatn Ju Karhin.",
+      "Guru Ki Sev Kamaay || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 13 || 620",
+    "बंदा अपना काज बनाय",
     "Bandaa Apnaa Kaaj Banaay",
-    "बनदा पना काज बनाय"
+    "राग कल्याण भजन 13",
+    "Raag Kalyaan Bhajan 13"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 621,
+  "displayOrder": 13,
+  "overallOrder": 619,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 332",
+  "updatedAt": "2026-10-26"
 }

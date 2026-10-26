@@ -1,71 +1,131 @@
 {
   "id": "bhajan-0285",
   "slug": "tum-man-se-ultaa-chalnaa-raam-rang-men-ralnaa",
-  "categoryId": "raag-bhairav",
-  "title": "तुम मन से ुलता चलना, राम रनग मेन रलना",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "तुम मन से उल्टा चलना, राम रँग में रलना",
   "romanTitle": "Tum Man Se Ultaa Chalnaa, Raam Rang Men Ralnaa",
   "firstLine": "Tum Man Se Ultaa Chalnaa, Raam Rang Men Ralnaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७० ।। २८५।॥",
+  "tek": [
+    "तुम मन से उल्टा चलना, राम रँग में रलना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Man Se Ultaa Chalnaa, Raam Rang Men Ralnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मन का कहना कभी न मानो, दुर्मति उसकी दलना ।",
+        "पूरन आत्म पद को पाए, काटो मन की कलना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Man Kaa Kahnaa Kabhi Na Maano, Durmati Uski Dalnaa.",
+        "Puran Aatm Pad Ko Paae, Kaato Man Ki Kalnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मन तो चाहत झूठ कपट पुनि, छल से सबको छलना ।",
+        "तुम तो साचा सरल भाव धर, पापों से तिहँ पलिना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Man To Chaahat Jhuth Kapat Puni, Chhal Se Sabko Chhalnaa.",
+        "Tum To Saachaa Saral Bhaav Dhar, Paapon Se Tihan Palinaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन तो चाहत राजमहल सुख, सुन्दर सेजा पलना ।",
+        "तुम तो झंगल करे निवासा, आसा उसकी मलना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man To Chaahat Raajmahal Sukh, Sundar Sejaa Palnaa.",
+        "Tum To Jhangal Kare Nivaasaa, Aasaa Uski Malnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मन चाहत है नित, जगत अग्नि में जलना ।",
+        "ब्रह्म सिन्धु में ताहिं डुबाके, तप्त तिसी की टलना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Man Chaahat Hai Nit, Jagat Agni Men Jalnaa.",
+        "Brahm Sindhu Men Taahin Dubaake, Tapt Tisi Ki Talnaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द"
+      ],
+      "romanLines": [
+        "Gd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम मन से ुलता चलना, राम रनग मेन रलना (टेक)."
+      "मन का कहना कभी न मानो, दुर्मति उसकी दलना ।",
+      "पूरन आत्म पद को पाए, काटो मन की कलना ॥१ ॥"
     ],
     [
-      "मन का कहना कभि न मानो, दुरमति ुसकि दलना.",
-      "पुरन ातम पद को पाे, कातो मन कि कलना ||.1 ||."
+      "मन तो चाहत झूठ कपट पुनि, छल से सबको छलना ।",
+      "तुम तो साचा सरल भाव धर, पापों से तिहँ पलिना ॥२ ॥"
     ],
     [
-      "मन तो चाहत झुथ कपत पुनि, चहल से सबको चहलना.",
-      "तुम तो साचा सरल भाव धर, पापोन से तिहन पलिना || 2 ||."
+      "मन तो चाहत राजमहल सुख, सुन्दर सेजा पलना ।",
+      "तुम तो झंगल करे निवासा, आसा उसकी मलना ॥३ ॥"
     ],
     [
-      "मन तो चाहत राजमहल सुख, सुनदर सेजा पलना.",
-      "तुम तो झनगल करे निवासा, ासा ुसकि मलना ||.3. ||."
+      "कहे टेऊँ मन चाहत है नित, जगत अग्नि में जलना ।",
+      "ब्रह्म सिन्धु में ताहिं डुबाके, तप्त तिसी की टलना ॥४ ॥"
     ],
     [
-      "कहे तेऊँ मन चाहत है नित, जगत गनि मेन जलना.",
-      "बरहम सिनधु मेन ताहिन दुबाके, तपत तिसि कि तलना || 4. ||."
-    ],
-    [
-      "गद"
+      "ग््द"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Man Se Ultaa Chalnaa, Raam Rang Men Ralnaa (Tek)."
-    ],
-    [
-      "Man Kaa Kahnaa Kabhi N Maano, Durmati Uski Dalnaa.",
-      "Puran Aatm Pad Ko Paae, Kaato Man Ki Kalnaa ||.1 ||."
+      "Man Kaa Kahnaa Kabhi Na Maano, Durmati Uski Dalnaa.",
+      "Puran Aatm Pad Ko Paae, Kaato Man Ki Kalnaa || 1 ||"
     ],
     [
       "Man To Chaahat Jhuth Kapat Puni, Chhal Se Sabko Chhalnaa.",
-      "Tum To Saachaa Saral Bhaav Dhar, Paapon Se Tihan Palinaa || 2 ||."
+      "Tum To Saachaa Saral Bhaav Dhar, Paapon Se Tihan Palinaa || 2 ||"
     ],
     [
       "Man To Chaahat Raajmahal Sukh, Sundar Sejaa Palnaa.",
-      "Tum To Jhangal Kare Nivaasaa, Aasaa Uski Malnaa ||.3. ||."
+      "Tum To Jhangal Kare Nivaasaa, Aasaa Uski Malnaa || 3 ||"
     ],
     [
       "Kahe Teun Man Chaahat Hai Nit, Jagat Agni Men Jalnaa.",
-      "Brahm Sindhu Men Taahin Dubaake, Tapt Tisi Ki Talnaa || 4. ||."
+      "Brahm Sindhu Men Taahin Dubaake, Tapt Tisi Ki Talnaa || 4 ||"
     ],
     [
       "Gd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 70 || 285. ||",
+    "तुम मन से उल्टा चलना, राम रँग में रलना",
     "Tum Man Se Ultaa Chalnaa, Raam Rang Men Ralnaa",
-    "तुम मन से ुलता चलना, राम रनग मेन रलना"
+    "राग भैरवी भजन 70",
+    "Raag Bhairvi Bhajan 70"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 285,
+  "displayOrder": 70,
+  "overallOrder": 285,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 173",
+  "updatedAt": "2026-10-26"
 }

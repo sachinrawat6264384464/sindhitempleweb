@@ -1,71 +1,120 @@
 {
-  "id": "bhajan-0907",
+  "id": "bhajan-0905",
   "slug": "amarapur-nij-dhaam-hamaaraa-tin-lok-se-hai-so-nyaaraa",
   "categoryId": "raag-jog",
-  "title": "अमरापुर निज धाम हमारा, तिन लोक से है सो नयारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "अमरापुर निज धाम हमारा, तीन लोक से है सो न्यारा",
   "romanTitle": "Amarapur Nij Dhaam Hamaaraa, Tin Lok Se Hai So Nyaaraa",
   "firstLine": "Amarapur Nij Dhaam Hamaaraa, Tin Lok Se Hai So Nyaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ७७ ।। ९०७ ॥।",
+  "tek": [
+    "अमरापुर निज धाम हमारा, तीन लोक से है सो न्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amarapur Nij Dhaam Hamaaraa, Tin Lok Se Hai So Nyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिसमें कोई वर्ण न जाती, भेष पंथ की नहिं उत्पाती ।",
+        "नीच ऊँच का नहिं व्यवहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jismen Koi Varn Na Jaati, Bhesh Panth Ki Nahin Utpaati.",
+        "Nich Unch Kaa Nahin Vyavhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ग्र्द्ट",
+        "जहां न धरनी पवन अकाशा, सूर्य चन्द्र का नहिं प्रकाशा ।",
+        "रैन दिवस ना तम उजियारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Grdt",
+        "Jahaan Na Dharni Pavan Akaashaa, Sury Chandr Kaa Nahin Prakaashaa.",
+        "Rain Divas Naa Tam Ujiyaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देश काल की जहं गम नाहीं, जन्म मरण का दूख न वाहीं ।",
+        "पाप पुण्य का नहिं वीचारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Desh Kaal Ki Jahan Gam Naahin, Janm Maran Kaa Dukh Na Vaahin.",
+        "Paap Puny Kaa Nahin Vichaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तहं जो जन जावत, सो जन वापस कबहुं न आवत ।",
+        "पहुंचत वां को गुरु का प्यारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tahan Jo Jan Jaavat, So Jan Vaapas Kabhun Na Aavat.",
+        "Pahunchat Vaan Ko Guru Kaa Pyaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमरापुर निज धाम हमारा, तिन लोक से है सो नयारा (टेक)."
+      "जिसमें कोई वर्ण न जाती, भेष पंथ की नहिं उत्पाती ।",
+      "नीच ऊँच का नहिं व्यवहारा ॥१ ॥"
     ],
     [
-      "जिसमेन कोि वरन न जाति, भेश पनथ कि नहिन ुतपाति.",
-      "निच ुनच का नहिन वयवहारा || 1 ||."
+      "ग्र्द्ट",
+      "जहां न धरनी पवन अकाशा, सूर्य चन्द्र का नहिं प्रकाशा ।",
+      "रैन दिवस ना तम उजियारा ॥२ ॥"
     ],
     [
-      "गरदत",
-      "जहान न धरनि पवन काशा, सुरय चनदर का नहिन परकाशा."
+      "देश काल की जहं गम नाहीं, जन्म मरण का दूख न वाहीं ।",
+      "पाप पुण्य का नहिं वीचारा ॥३ ॥"
     ],
     [
-      "रैन दिवस ना तम ुजियारा || 2 ||"
-    ],
-    [
-      "देश काल कि जहन गम नाहिन, जनम मरन का दुःख न वाहिन.",
-      "पाप पुनय का नहिन विचारा || 3. ||."
-    ],
-    [
-      "कहे तेऊँ तहन जो जन जावत, सो जन वापस कभुन न ावत.",
-      "पहुनचत वान को गुरु का पयारा || 4 ||."
+      "कहे टेऊँ तहं जो जन जावत, सो जन वापस कबहुं न आवत ।",
+      "पहुंचत वां को गुरु का प्यारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amarapur Nij Dhaam Hamaaraa, Tin Lok Se Hai So Nyaaraa (Tek)."
-    ],
-    [
-      "Jismen Koi Varn N Jaati, Bhesh Panth Ki Nahin Utpaati.",
-      "Nich Unch Kaa Nahin Vyavhaaraa || 1 ||."
+      "Jismen Koi Varn Na Jaati, Bhesh Panth Ki Nahin Utpaati.",
+      "Nich Unch Kaa Nahin Vyavhaaraa || 1 ||"
     ],
     [
       "Grdt",
-      "Jahaan N Dharni Pavan Akaashaa, Sury Chandr Kaa Nahin Prakaashaa."
-    ],
-    [
+      "Jahaan Na Dharni Pavan Akaashaa, Sury Chandr Kaa Nahin Prakaashaa.",
       "Rain Divas Naa Tam Ujiyaaraa || 2 ||"
     ],
     [
-      "Desh Kaal Ki Jahan Gam Naahin, Janm Maran Kaa Dukh N Vaahin.",
-      "Paap Puny Kaa Nahin Vichaaraa || 3. ||."
+      "Desh Kaal Ki Jahan Gam Naahin, Janm Maran Kaa Dukh Na Vaahin.",
+      "Paap Puny Kaa Nahin Vichaaraa || 3 ||"
     ],
     [
-      "Kahe Teun Tahan Jo Jan Jaavat, So Jan Vaapas Kabhun N Aavat.",
-      "Pahunchat Vaan Ko Guru Kaa Pyaaraa || 4 ||."
+      "Kahe Teun Tahan Jo Jan Jaavat, So Jan Vaapas Kabhun Na Aavat.",
+      "Pahunchat Vaan Ko Guru Kaa Pyaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 77 || 907 ||.",
+    "अमरापुर निज धाम हमारा, तीन लोक से है सो न्यारा",
     "Amarapur Nij Dhaam Hamaaraa, Tin Lok Se Hai So Nyaaraa",
-    "अमरापुर निज धाम हमारा, तिन लोक से है सो नयारा"
+    "राग जोग भजन 77",
+    "Raag Jog Bhajan 77"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 907,
+  "displayOrder": 77,
+  "overallOrder": 905,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 476",
+  "updatedAt": "2026-10-26"
 }

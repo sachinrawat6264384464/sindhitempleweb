@@ -2,56 +2,96 @@
   "id": "bhajan-0112",
   "slug": "apnaa-aap-pachhaan-bande-apnaa-aap-pachhaan",
   "categoryId": "raag-aasaa",
-  "title": "पना ाप पचहान बनदे पना ाप पचहान",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "अपना आप पछान बन्दे अपना आप पछान",
   "romanTitle": "Apnaa Aap Pachhaan Bande Apnaa Aap Pachhaan",
   "firstLine": "Apnaa Aap Pachhaan Bande Apnaa Aap Pachhaan (Tek).",
+  "heading": "।। राग आसा भजन ।। ५० ।। ११२।।",
+  "tek": [
+    "अपना आप पछान बन्दे अपना आप पछान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Apnaa Aap Pachhaan Bande Apnaa Aap Pachhaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अपने आप पछाने बाझौं कबहुं न हो कल्यान ।",
+        "आप पछाने से पावेगा पूर्ण पद निर्बान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Apne Aap Pachhaane Baajhaun Kabhun Na Ho Kalyaan.",
+        "Aap Pachhaane Se Paavegaa Purn Pad Nirbaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्म नेष्ठी श्रोत्री गुरु से पूछो आत्म ज्ञान ।",
+        "महा वाक्य ले मनन करे तुम निश्चय करो सुजान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahm Neshthi Shrotri Guru Se Puchho Aatm Gyaan.",
+        "Mahaa Vaaky Le Manan Kare Tum Nishchay Karo Sujaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्गुरु बिन निज ज्ञान न होवे कहे टेऊँ सत्‌ मान ।",
+        "ज्ञान बिना नहिं मुक्ती होवे कहते वेद पुरान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadguru Bin Nij Gyaan Na Hove Kahe Teun Sat‌ Maan.",
+        "Gyaan Binaa Nahin Mukti Hove Kahte Ved Puraan || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पना ाप पचहान बनदे पना ाप पचहान (टेक)."
+      "अपने आप पछाने बाझौं कबहुं न हो कल्यान ।",
+      "आप पछाने से पावेगा पूर्ण पद निर्बान ॥१ ॥"
     ],
     [
-      "पने ाप पचहाने बाझौन कभुन न हो कलयान.",
-      "ाप पचहाने से पावेगा पुरन पद निरबान || 1 ||."
+      "ब्रह्म नेष्ठी श्रोत्री गुरु से पूछो आत्म ज्ञान ।",
+      "महा वाक्य ले मनन करे तुम निश्चय करो सुजान ॥२ ॥"
     ],
     [
-      "बरहम नेशथि शरोतरि गुरु से पुचहो ातम ज्ञान.",
-      "महा वाकय ले मनन करे तुम निशचय करो सुजान || 2 ||."
-    ],
-    [
-      "सद्गुरु बिन निज ज्ञान न होवे कहे तेऊँ सत‌ मान.",
-      "ज्ञान बिना नहिन मुक्ति होवे कहते वेद पुरान || 3 ||."
+      "सद्गुरु बिन निज ज्ञान न होवे कहे टेऊँ सत्‌ मान ।",
+      "ज्ञान बिना नहिं मुक्ती होवे कहते वेद पुरान ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Apnaa Aap Pachhaan Bande Apnaa Aap Pachhaan (Tek)."
+      "Apne Aap Pachhaane Baajhaun Kabhun Na Ho Kalyaan.",
+      "Aap Pachhaane Se Paavegaa Purn Pad Nirbaan || 1 ||"
     ],
     [
-      "Apne Aap Pachhaane Baajhaun Kabhun N Ho Kalyaan.",
-      "Aap Pachhaane Se Paavegaa Purn Pad Nirbaan || 1 ||."
+      "Brahm Neshthi Shrotri Guru Se Puchho Aatm Gyaan.",
+      "Mahaa Vaaky Le Manan Kare Tum Nishchay Karo Sujaan || 2 ||"
     ],
     [
-      "Brahm Neshthi Shrotri Guru Se Puchho Aatm Jnyaan.",
-      "Mahaa Vaaky Le Manan Kare Tum Nishchay Karo Sujaan || 2 ||."
-    ],
-    [
-      "Sadguru Bin Nij Jnyaan N Hove Kahe Teun Sat‌ Maan.",
-      "Jnyaan Binaa Nahin Mukti Hove Kahte Ved Puraan || 3 ||."
+      "Sadguru Bin Nij Gyaan Na Hove Kahe Teun Sat‌ Maan.",
+      "Gyaan Binaa Nahin Mukti Hove Kahte Ved Puraan || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 50 || 112 ||",
+    "अपना आप पछान बन्दे अपना आप पछान",
     "Apnaa Aap Pachhaan Bande Apnaa Aap Pachhaan",
-    "पना ाप पचहान बनदे पना ाप पचहान"
+    "राग आसा भजन 50",
+    "Raag Aasaa Bhajan 50"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 112,
+  "displayOrder": 50,
+  "overallOrder": 112,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 82",
+  "updatedAt": "2026-10-26"
 }

@@ -2,36 +2,85 @@
   "id": "bhajan-0137",
   "slug": "prem-lagaanaa-prabhu-se-tum-je-chaaho-kalyaanaa",
   "categoryId": "raag-aasaa",
-  "title": "प्रेम लगाना प्रभु से तुम जे चाहो कलयाना",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "प्रेम लगाना प्रभू से तुम जे चाहो कल्याना",
   "romanTitle": "Prem Lagaanaa Prabhu Se Tum Je Chaaho Kalyaanaa",
-  "firstLine": "Prem Lagaanaa Prabhu Se Tum Je Chaaho Kalyaanaa. Duniyaa Ke Jhanjhat Ko Tajke Gobind Ke Gun Gaanaa (Tek).",
+  "firstLine": "Prem Lagaanaa Prabhu Se Tum Je Chaaho Kalyaanaa.",
+  "heading": "।। राग आसा भजन ।। ७५ ।। १ ३७।।",
+  "tek": [
+    "प्रेम लगाना प्रभू से तुम जे चाहो कल्याना ।",
+    "दुनिया के झंझट को तजके गोबिन्द के गुन गाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Lagaanaa Prabhu Se Tum Je Chaaho Kalyaanaa.",
+    "Duniyaa Ke Jhanjhat Ko Tajke Gobind Ke Gun Gaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और नशे सब झूठे ही जानो, प्रेम नशे को सत्‌ पहिचानो ।",
+        "प्रेम जाम को पीकर जग में, हो जाओ मस्ताना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Nashe Sab Jhuthe Hi Jaano, Prem Nashe Ko Sat‌ Pahichaano.",
+        "Prem Jaam Ko Pikar Jag Men, Ho Jaao Mastaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम मार्ग में जिस पग दीया, उसने जन्म सफल कर लीया ।",
+        "प्रेम शमा पर तन अर्पन कर, ज्यों करता परवाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Maarg Men Jis Pag Diyaa, Usne Janm Saphal Kar Liyaa.",
+        "Prem Shamaa Par Tan Arpan Kar, Jyon Kartaa Parvaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम पदार्थ हरि को भावे, प्रेम से मन वश में हो जावे ।",
+        "प्रभू पाने के लीये तुम, हो जा प्रेम दिवाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Padaarth Hari Ko Bhaave, Prem Se Man Vash Men Ho Jaave.",
+        "Prabhu Paane Ke Liye Tum, Ho Jaa Prem Divaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "प्रेम से जो हरि के गुन गावे, तिस जन को प्रभू अपनावे ।",
+        "कहे टेऊँ तुम मन मन्दिर में , प्रेम की ज्योति जगाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Prem Se Jo Hari Ke Gun Gaave, Tis Jan Ko Prabhu Apnaave.",
+        "Kahe Teun Tum Man Mandir Men, Prem Ki Jyoti Jagaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम लगाना प्रभु से तुम जे चाहो कलयाना.",
-      "दुनिया के झनझत को तजके गोबिनद के गुन गाना (टेक)."
+      "और नशे सब झूठे ही जानो, प्रेम नशे को सत्‌ पहिचानो ।",
+      "प्रेम जाम को पीकर जग में, हो जाओ मस्ताना ॥१ ॥"
     ],
     [
-      "ौर नशे सब झुथे हि जानो, प्रेम नशे को सत‌ पहिचानो.",
-      "प्रेम जाम को पिकर जग मेन, हो जाो मसताना || 1 ||"
+      "प्रेम मार्ग में जिस पग दीया, उसने जन्म सफल कर लीया ।",
+      "प्रेम शमा पर तन अर्पन कर, ज्यों करता परवाना ॥२ ॥"
     ],
     [
-      "प्रेम मारग मेन जिस पग दिया, ुसने जनम सफल कर लिया.",
-      "प्रेम शमा पर तन रपन कर, जयोन करता परवाना || 2 ||"
+      "प्रेम पदार्थ हरि को भावे, प्रेम से मन वश में हो जावे ।",
+      "प्रभू पाने के लीये तुम, हो जा प्रेम दिवाना ॥३ ॥"
     ],
     [
-      "प्रेम पदारथ हरि को भावे, प्रेम से मन वश मेन हो जावे.",
-      "प्रभु पाने के लिये तुम, हो जा प्रेम दिवाना || 3 ||"
-    ],
-    [
-      "प्रेम से जो हरि के गुन गावे, तिस जन को प्रभु पनावे.",
-      "कहे तेऊँ तुम मन मनदिर मेन, प्रेम कि जयोति जगाना || 4 ||"
+      "प्रेम से जो हरि के गुन गावे, तिस जन को प्रभू अपनावे ।",
+      "कहे टेऊँ तुम मन मन्दिर में , प्रेम की ज्योति जगाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Prem Lagaanaa Prabhu Se Tum Je Chaaho Kalyaanaa.",
-      "Duniyaa Ke Jhanjhat Ko Tajke Gobind Ke Gun Gaanaa (Tek)."
-    ],
     [
       "Aur Nashe Sab Jhuthe Hi Jaano, Prem Nashe Ko Sat‌ Pahichaano.",
       "Prem Jaam Ko Pikar Jag Men, Ho Jaao Mastaanaa || 1 ||"
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 75 || 1 37 ||",
+    "प्रेम लगाना प्रभू से तुम जे चाहो कल्याना",
     "Prem Lagaanaa Prabhu Se Tum Je Chaaho Kalyaanaa",
-    "प्रेम लगाना प्रभु से तुम जे चाहो कलयाना"
+    "राग आसा भजन 75",
+    "Raag Aasaa Bhajan 75"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 137,
+  "displayOrder": 75,
+  "overallOrder": 137,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 95",
+  "updatedAt": "2026-10-26"
 }

@@ -1,59 +1,99 @@
 {
-  "id": "bhajan-0831",
+  "id": "bhajan-0829",
   "slug": "jab-se-apnaa-aap-bhulaayaa",
   "categoryId": "raag-jog",
-  "title": "जब से पना ाप भुलाया",
-  "romanTitle": "Jab Se Apnaa Aap Bhulaayaa",
-  "firstLine": "Jab Se Apnaa Aap Bhulaayaa, Tab Se Tumne Bahu Dukh Paayaa (Tek).",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "जब से अपना आप भुलाया,",
+  "romanTitle": "Jab Se Apnaa Aap Bhulaayaa,",
+  "firstLine": "Jab Se Apnaa Aap Bhulaayaa,",
+  "heading": "।। राग जोग भजन ।। १ ।। ८ ३१।।",
+  "tek": [
+    "जब से अपना आप भुलाया,",
+    "तब से तुमने बहु दुख पाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jab Se Apnaa Aap Bhulaayaa,",
+    "Tab Se Tumne Bahu Dukh Paayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अब तक मूरख तुम नहिं जागे, भोग विषय में अहनिश लागे ।",
+        "मोह लिया तुमको हरि माया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ab Tak Murakh Tum Nahin Jaage, Bhog Vishay Men Ahnish Laage.",
+        "Moh Liyaa Tumko Hari Maayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पांच तत्त्व का पहरे चोला, देख इसी को पड़ गया भोला ।",
+        "निज स्वरूपा नज़र न आया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tattv Kaa Pahre Cholaa, Dekh Isi Ko Par Gayaa Bholaa.",
+        "Nij Svarupaa Nazar Na Aayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ कर तेरा मेरा, मन में डाला ट्रैत अन्धेरा ।",
+        "अनुभव दीपक नाहिं जगाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Teraa Meraa, Man Men Daalaa Trait Andheraa.",
+        "Anubhav Dipak Naahin Jagaayaa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब से पना ाप भुलाया,",
-      "तब से तुमने बहु दुःख पाया (टेक)."
+      "अब तक मूरख तुम नहिं जागे, भोग विषय में अहनिश लागे ।",
+      "मोह लिया तुमको हरि माया ॥१ ॥"
     ],
     [
-      "ब तक मुरख तुम नहिन जागे, भोग विशय मेन हनिश लागे.",
-      "मोह लिया तुमको हरि माया.1. ||."
+      "पांच तत्त्व का पहरे चोला, देख इसी को पड़ गया भोला ।",
+      "निज स्वरूपा नज़र न आया ॥२ ॥"
     ],
     [
-      "पानच तततव का पहरे चोला, देख िसि को पर गया भोला.",
-      "निज सवरुपा नzर न ाया ||.2 ||"
-    ],
-    [
-      "कहे तेऊँ कर तेरा मेरा, मन मेन दाला तरैत नधेरा.",
-      "नुभव दिपक नाहिन जगाया || 3 ||."
+      "कहे टेऊँ कर तेरा मेरा, मन में डाला ट्रैत अन्धेरा ।",
+      "अनुभव दीपक नाहिं जगाया ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jab Se Apnaa Aap Bhulaayaa,",
-      "Tab Se Tumne Bahu Dukh Paayaa (Tek)."
-    ],
-    [
       "Ab Tak Murakh Tum Nahin Jaage, Bhog Vishay Men Ahnish Laage.",
-      "Moh Liyaa Tumko Hari Maayaa.1. ||."
+      "Moh Liyaa Tumko Hari Maayaa || 1 ||"
     ],
     [
       "Paanch Tattv Kaa Pahre Cholaa, Dekh Isi Ko Par Gayaa Bholaa.",
-      "Nij Svarupaa Nazar N Aayaa ||.2 ||"
+      "Nij Svarupaa Nazar Na Aayaa || 2 ||"
     ],
     [
       "Kahe Teun Kar Teraa Meraa, Man Men Daalaa Trait Andheraa.",
-      "Anubhav Dipak Naahin Jagaayaa || 3 ||."
+      "Anubhav Dipak Naahin Jagaayaa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 1 || 8 31 ||",
-    "Jab Se Apnaa Aap Bhulaayaa",
-    "जब से पना ाप भुलाया"
+    "जब से अपना आप भुलाया,",
+    "Jab Se Apnaa Aap Bhulaayaa,",
+    "राग जोग भजन 1",
+    "Raag Jog Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 831,
+  "displayOrder": 1,
+  "overallOrder": 829,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 440",
+  "updatedAt": "2026-10-26"
 }

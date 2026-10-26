@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0740",
+  "id": "bhajan-0738",
   "slug": "satnaam-saakshi-sarv-adhaar-jo-sumre-so-utre-paar",
   "categoryId": "raag-pilaa",
-  "title": "सतनाम साक्षी सर्व धार, जो सुमरे सो ुतरे पार",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्‌नाम साक्षी सर्व अधार, जो सुमरे सो उतरे पार",
   "romanTitle": "Sat‌Naam Saakshi Sarv Adhaar, Jo Sumre So Utre Paar",
   "firstLine": "Sat‌Naam Saakshi Sarv Adhaar, Jo Sumre So Utre Paar (Tek).",
+  "heading": "।। राग पीला भजन ।। १८ ।। ७४०",
+  "tek": [
+    "सत्‌नाम साक्षी सर्व अधार, जो सुमरे सो उतरे पार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Naam Saakshi Sarv Adhaar, Jo Sumre So Utre Paar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्‌नाम साक्षी मोहनी मंतर, तांका सुमरन करो निरन्तर ।",
+        "सब साधन का जो है सार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Mohni Mantar, Taankaa Sumran Karo Nirantar.",
+        "Sab Saadhan Kaa Jo Hai Saar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌नाम साक्षी काज संवारे, तन मन के सब रोग निवारे ।",
+        "सर्व सुखों का है भण्डार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Kaaj Sanvaare, Tan Man Ke Sab Rog Nivaare.",
+        "Sarv Sukhon Kaa Hai Bhandaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌नाम साक्षी सब घट बोले, जो सुमरे तिस भाग्य खोले ।",
+        "देवे परम पदार्थ चार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Sab Ghat Bole, Jo Sumre Tis Bhaagy Khole.",
+        "Deve Param Padaarth Chaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सत्‌नाम साक्षी है अविनासी, कहे टेऊँ काटे जम फासी ।",
+        "देता है सो मोक्ष द्वार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Hai Avinaasi, Kahe Teun Kaate Jam Phaasi.",
+        "Detaa Hai So Moksh Dvaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतनाम साक्षी सर्व धार, जो सुमरे सो ुतरे पार (टेक)."
+      "सत्‌नाम साक्षी मोहनी मंतर, तांका सुमरन करो निरन्तर ।",
+      "सब साधन का जो है सार ॥१ ॥"
     ],
     [
-      "सतनाम साक्षी मोहनि मनतर, तानका सुमरन करो निरनतर.",
-      "सब साधन का जो है सार.1 ||."
+      "सत्‌नाम साक्षी काज संवारे, तन मन के सब रोग निवारे ।",
+      "सर्व सुखों का है भण्डार ॥२ ॥"
     ],
     [
-      "सतनाम साक्षी काज सनवारे, तन मन के सब रोग निवारे.",
-      "सर्व सुखोन का है भनदार || 2 ||"
+      "सत्‌नाम साक्षी सब घट बोले, जो सुमरे तिस भाग्य खोले ।",
+      "देवे परम पदार्थ चार ॥३ ॥"
     ],
     [
-      "सतनाम साक्षी सब घत बोले, जो सुमरे तिस भागय खोले.",
-      "देवे परम पदारथ चार. ||.3 ||."
-    ],
-    [
-      "सतनाम साक्षी है विनासि, कहे तेऊँ काते जम फासि.",
-      "देता है सो मोक्ष दवार || 4 ||."
+      "सत्‌नाम साक्षी है अविनासी, कहे टेऊँ काटे जम फासी ।",
+      "देता है सो मोक्ष द्वार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Naam Saakshi Sarv Adhaar, Jo Sumre So Utre Paar (Tek)."
-    ],
-    [
       "Sat‌Naam Saakshi Mohni Mantar, Taankaa Sumran Karo Nirantar.",
-      "Sab Saadhan Kaa Jo Hai Saar.1 ||."
+      "Sab Saadhan Kaa Jo Hai Saar || 1 ||"
     ],
     [
       "Sat‌Naam Saakshi Kaaj Sanvaare, Tan Man Ke Sab Rog Nivaare.",
@@ -40,27 +89,28 @@
     ],
     [
       "Sat‌Naam Saakshi Sab Ghat Bole, Jo Sumre Tis Bhaagy Khole.",
-      "Deve Param Padaarth Chaar. ||.3 ||."
+      "Deve Param Padaarth Chaar || 3 ||"
     ],
     [
       "Sat‌Naam Saakshi Hai Avinaasi, Kahe Teun Kaate Jam Phaasi.",
-      "Detaa Hai So Moksh Dvaar || 4 ||."
+      "Detaa Hai So Moksh Dvaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 18 || 740",
+    "सत्‌नाम साक्षी सर्व अधार, जो सुमरे सो उतरे पार",
     "Sat‌Naam Saakshi Sarv Adhaar, Jo Sumre So Utre Paar",
-    "सतनाम साक्षी सर्व धार, जो सुमरे सो ुतरे पार"
+    "राग पीला भजन 17",
+    "Raag Pilaa Bhajan 17"
   ],
   "tags": [
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 740,
+  "displayOrder": 17,
+  "overallOrder": 738,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 392",
+  "updatedAt": "2026-10-26"
 }

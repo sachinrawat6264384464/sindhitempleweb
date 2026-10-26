@@ -2,73 +2,132 @@
   "id": "bhajan-0065",
   "slug": "prabhu-milan-kaa-yah-velaa-re-tum-jaago-chelaa",
   "categoryId": "raag-aasaa",
-  "title": "प्रभु मिलन का यह वेला, रे तुम जागो चेला",
-  "romanTitle": "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa",
-  "firstLine": "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa, Jag Hai Khelaa, Do Din Melaa (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "प्रभू मिलन का यह वेला, रे तुम जागो चेला,",
+  "romanTitle": "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa,",
+  "firstLine": "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa,",
+  "heading": "।। राग आसा भजन ।। ३ ।। ६५।॥।",
+  "tek": [
+    "प्रभू मिलन का यह वेला, रे तुम जागो चेला,",
+    "जग है खेला, दो दिन मेला ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa,",
+    "Jag Hai Khelaa, Do Din Melaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुत दारा बान्धव परिवारा, अन्त समय को दे न सहारा ।",
+        "जायेंगे आप अकेला ॥8 ॥"
+      ],
+      "romanLines": [
+        "Sut Daaraa Baandhav Parivaaraa, Ant Samay Ko De Na Sahaaraa.",
+        "Jaayenge Aap Akelaa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मिथ्या है सब माल खज़ाना, तामें ममता कर न दिवाना ।",
+        "साथ न चलहिं अधेला ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mithyaa Hai Sab Maal Khazaanaa, Taamen Mamtaa Kar Na Divaanaa.",
+        "Saath Na Chalhin Adhelaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साधसंगति में बैठ सुजाना, नाम जपे कर निज कल्याना ।",
+        "काल न देवे ठेला ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saadhsangti Men Baith Sujaanaa, Naam Jape Kar Nij Kalyaanaa.",
+        "Kaal Na Deve Thelaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अब कर हुशियारी, फेर मिले ना ऐसी वारी ।",
+        "सद्‌गुरु के चल गेला ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Kar Hushiyaari, Pher Mile Naa Aisi Vaari.",
+        "Sad‌Guru Ke Chal Gelaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्ठ"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु मिलन का यह वेला, रे तुम जागो चेला,",
-      "जग है खेला, दो दीन मेला (टेक)."
+      "सुत दारा बान्धव परिवारा, अन्त समय को दे न सहारा ।",
+      "जायेंगे आप अकेला ॥8 ॥"
     ],
     [
-      "सुत दारा बानधव परिवारा, नत समय को दे न सहारा.",
-      "जायेनगे ाप केला ||.8 ||"
+      "मिथ्या है सब माल खज़ाना, तामें ममता कर न दिवाना ।",
+      "साथ न चलहिं अधेला ॥२ ॥"
     ],
     [
-      "मिथया है सब माल खzाना, तामेन ममता कर न दिवाना.",
-      "साथ न चलहिन धेला || 2 ||."
+      "साधसंगति में बैठ सुजाना, नाम जपे कर निज कल्याना ।",
+      "काल न देवे ठेला ॥३ ॥"
     ],
     [
-      "साधसनगति मेन बैथ सुजाना, नाम जपे कर निज कलयाना.",
-      "काल न देवे थेला ||.3 ||."
+      "कहे टेऊँ अब कर हुशियारी, फेर मिले ना ऐसी वारी ।",
+      "सद्‌गुरु के चल गेला ॥४ ॥"
     ],
     [
-      "कहे तेऊँ ब कर हुशियारि, फेर मिले ना ैसि वारि.",
-      "सद्गुरु के चल गेला ||.4. ||."
-    ],
-    [
-      "दथ"
+      "द्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa,",
-      "Jag Hai Khelaa, Do Din Melaa (Tek)."
+      "Sut Daaraa Baandhav Parivaaraa, Ant Samay Ko De Na Sahaaraa.",
+      "Jaayenge Aap Akelaa || 8 ||"
     ],
     [
-      "Sut Daaraa Baandhav Parivaaraa, Ant Samay Ko De N Sahaaraa.",
-      "Jaayenge Aap Akelaa ||.8 ||"
-    ],
-    [
-      "Mithyaa Hai Sab Maal Khazaanaa, Taamen Mamtaa Kar N Divaanaa.",
-      "Saath N Chalhin Adhelaa || 2 ||."
+      "Mithyaa Hai Sab Maal Khazaanaa, Taamen Mamtaa Kar Na Divaanaa.",
+      "Saath Na Chalhin Adhelaa || 2 ||"
     ],
     [
       "Saadhsangti Men Baith Sujaanaa, Naam Jape Kar Nij Kalyaanaa.",
-      "Kaal N Deve Thelaa ||.3 ||."
+      "Kaal Na Deve Thelaa || 3 ||"
     ],
     [
       "Kahe Teun Ab Kar Hushiyaari, Pher Mile Naa Aisi Vaari.",
-      "Sad‌Guru Ke Chal Gelaa ||.4. ||."
+      "Sad‌Guru Ke Chal Gelaa || 4 ||"
     ],
     [
       "Dth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 3 || 65. ||.",
-    "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa",
-    "प्रभु मिलन का यह वेला, रे तुम जागो चेला"
+    "प्रभू मिलन का यह वेला, रे तुम जागो चेला,",
+    "Prabhu Milan Kaa Yah Velaa, Re Tum Jaago Chelaa,",
+    "राग आसा भजन 3",
+    "Raag Aasaa Bhajan 3"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 65,
+  "displayOrder": 3,
+  "overallOrder": 65,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 57",
+  "updatedAt": "2026-10-26"
 }

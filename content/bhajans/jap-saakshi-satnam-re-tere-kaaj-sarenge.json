@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0539",
+  "id": "bhajan-0537",
   "slug": "jap-saakshi-satnam-re-tere-kaaj-sarenge",
   "categoryId": "raag-sorath",
-  "title": "जप साक्षी सतनाम, रे तेरे काज सरेनगे",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "जप साक्षी सत्नाम, रे तेरे काज सरेंगे",
   "romanTitle": "Jap Saakshi Satnam, Re Tere Kaaj Sarenge",
   "firstLine": "Jap Saakshi Satnam, Re Tere Kaaj Sarenge (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ७ ।। ५३८॥।",
+  "tek": [
+    "जप साक्षी सत्नाम, रे तेरे काज सरेंगे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jap Saakshi Satnam, Re Tere Kaaj Sarenge (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्‌नाम साक्षी मन्त्र धुर का, करता वासी अमरापुर का ।",
+        "सुमरो आठों याम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Mantr Dhur Kaa, Kartaa Vaasi Amarapur Kaa.",
+        "Sumro Aathon Yaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌नाम साक्षी भूषण जन का, वशीकरण है मन्त्र मन का ।",
+        "तांको जप निष्काम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Bhushan Jan Kaa, Vashikran Hai Mantr Man Kaa.",
+        "Taanko Jap Nishkaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌नाम साक्षी साचा संगी, अपने जन को देत न तंगी ।",
+        "सुमर पाय विश्राम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Saachaa Sangi, Apne Jan Ko Det Na Tangi.",
+        "Sumar Paay Vishraam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सत्‌नाम साक्षी सुमरन करिये, कहे टेऊँ भवसागर तरिये ।",
+        "पाओ मुक्ती धाम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Naam Saakshi Sumran Kariye, Kahe Teun Bhavsaagar Tariye.",
+        "Paao Mukti Dhaam || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "तर्क"
+      ],
+      "romanLines": [
+        "Tark"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जप साक्षी सतनाम, रे तेरे काज सरेनगे (टेक)."
+      "सत्‌नाम साक्षी मन्त्र धुर का, करता वासी अमरापुर का ।",
+      "सुमरो आठों याम ॥१ ॥"
     ],
     [
-      "सतनाम साक्षी मनतर धुर का, करता वासि अमरापुर का.",
-      "सुमरो ाथोन याम || 1 ||."
+      "सत्‌नाम साक्षी भूषण जन का, वशीकरण है मन्त्र मन का ।",
+      "तांको जप निष्काम ॥२ ॥"
     ],
     [
-      "सतनाम साक्षी भुशन जन का, वशिकरन है मनतर मन का.",
-      "तानको जप निशकाम. ||.2 ||"
+      "सत्‌नाम साक्षी साचा संगी, अपने जन को देत न तंगी ।",
+      "सुमर पाय विश्राम ॥३ ॥"
     ],
     [
-      "सतनाम साक्षी साचा सनगि, पने जन को देत न तनगि.",
-      "सुमर पाय विशराम ||.3. ||."
+      "सत्‌नाम साक्षी सुमरन करिये, कहे टेऊँ भवसागर तरिये ।",
+      "पाओ मुक्ती धाम ॥४ ॥"
     ],
     [
-      "सतनाम साक्षी सुमरन करिये, कहे तेऊँ भवसागर तरिये.",
-      "पाो मुक्ति धाम || 4. ||."
-    ],
-    [
-      "तरक"
+      "तर्क"
     ]
   ],
   "romanLyrics": [
     [
-      "Jap Saakshi Satnam, Re Tere Kaaj Sarenge (Tek)."
-    ],
-    [
       "Sat‌Naam Saakshi Mantr Dhur Kaa, Kartaa Vaasi Amarapur Kaa.",
-      "Sumro Aathon Yaam || 1 ||."
+      "Sumro Aathon Yaam || 1 ||"
     ],
     [
       "Sat‌Naam Saakshi Bhushan Jan Kaa, Vashikran Hai Mantr Man Kaa.",
-      "Taanko Jap Nishkaam. ||.2 ||"
+      "Taanko Jap Nishkaam || 2 ||"
     ],
     [
-      "Sat‌Naam Saakshi Saachaa Sangi, Apne Jan Ko Det N Tangi.",
-      "Sumar Paay Vishraam ||.3. ||."
+      "Sat‌Naam Saakshi Saachaa Sangi, Apne Jan Ko Det Na Tangi.",
+      "Sumar Paay Vishraam || 3 ||"
     ],
     [
       "Sat‌Naam Saakshi Sumran Kariye, Kahe Teun Bhavsaagar Tariye.",
-      "Paao Mukti Dhaam || 4. ||."
+      "Paao Mukti Dhaam || 4 ||"
     ],
     [
       "Tark"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 7 || 538 ||.",
+    "जप साक्षी सत्नाम, रे तेरे काज सरेंगे",
     "Jap Saakshi Satnam, Re Tere Kaaj Sarenge",
-    "जप साक्षी सतनाम, रे तेरे काज सरेनगे"
+    "राग सोरठ भजन 7",
+    "Raag Sorath Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 539,
+  "displayOrder": 7,
+  "overallOrder": 537,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 294",
+  "updatedAt": "2026-10-26"
 }

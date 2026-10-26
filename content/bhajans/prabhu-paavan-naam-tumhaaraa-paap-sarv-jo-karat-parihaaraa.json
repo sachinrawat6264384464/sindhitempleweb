@@ -2,60 +2,103 @@
   "id": "bhajan-0379",
   "slug": "prabhu-paavan-naam-tumhaaraa-paap-sarv-jo-karat-parihaaraa",
   "categoryId": "raag-tilang",
-  "title": "प्रभु पावन नाम तुमहारा, पाप सर्व जो करत परिहारा",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "प्रभू पावन नाम तुम्हारा, पाप सर्व जो करत परिहारा",
   "romanTitle": "Prabhu Paavan Naam Tumhaaraa, Paap Sarv Jo Karat Parihaaraa",
   "firstLine": "Prabhu Paavan Naam Tumhaaraa, Paap Sarv Jo Karat Parihaaraa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १६ ।। ३८०॥।",
+  "tek": [
+    "प्रभू पावन नाम तुम्हारा, पाप सर्व जो करत परिहारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Paavan Naam Tumhaaraa, Paap Sarv Jo Karat Parihaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम जपे नर केते तरिया, गनिका अजामिल पार उतरिया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Jape Nar Kete Tariyaa, Ganikaa Ajaamil Paar Utriyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाम अमी रस जिन जिन पीया, काल कटे से जुग जुग जीया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naam Ami Ras Jin Jin Piyaa, Kaal Kate Se Jug Jug Jiyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिसी नाम की महिमा भारी, शेष गणेश अनन्त उच्चारी ॥ डे ॥",
+        "कहे टेऊँ हरि कृपा कीजे, ऐसा नाम दान मोहि दीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jisi Naam Ki Mahimaa Bhaari, Shesh Ganesh Anant Uchchaari || De ||",
+        "Kahe Teun Hari Kripaa Kije, Aisaa Naam Daan Mohi Dije || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गठ्द"
+      ],
+      "romanLines": [
+        "Gathd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु पावन नाम तुमहारा, पाप सर्व जो करत परिहारा (टेक)."
+      "नाम जपे नर केते तरिया, गनिका अजामिल पार उतरिया ॥१ ॥"
     ],
     [
-      "नाम जपे नर केते तरिया, गनिका जामिल पार ुतरिया || 1 ||."
+      "नाम अमी रस जिन जिन पीया, काल कटे से जुग जुग जीया ॥२ ॥"
     ],
     [
-      "नाम मि रस जिन जिन पिया, काल कते से जुग जुग जिया || 2 ||"
+      "जिसी नाम की महिमा भारी, शेष गणेश अनन्त उच्चारी ॥ डे ॥",
+      "कहे टेऊँ हरि कृपा कीजे, ऐसा नाम दान मोहि दीजे ॥४ ॥"
     ],
     [
-      "जिसि नाम कि महिमा भारि, शेश गनेश ननत ुचचारि || दे ||",
-      "कहे तेऊँ हरि कृपा किजे, ैसा नाम दान मोहि दिजे || 4. ||."
-    ],
-    [
-      "गथद"
+      "गठ्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Paavan Naam Tumhaaraa, Paap Sarv Jo Karat Parihaaraa (Tek)."
-    ],
-    [
-      "Naam Jape Nar Kete Tariyaa, Ganikaa Ajaamil Paar Utriyaa || 1 ||."
+      "Naam Jape Nar Kete Tariyaa, Ganikaa Ajaamil Paar Utriyaa || 1 ||"
     ],
     [
       "Naam Ami Ras Jin Jin Piyaa, Kaal Kate Se Jug Jug Jiyaa || 2 ||"
     ],
     [
       "Jisi Naam Ki Mahimaa Bhaari, Shesh Ganesh Anant Uchchaari || De ||",
-      "Kahe Teun Hari Kripaa Kije, Aisaa Naam Daan Mohi Dije || 4. ||."
+      "Kahe Teun Hari Kripaa Kije, Aisaa Naam Daan Mohi Dije || 4 ||"
     ],
     [
       "Gathd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 16 || 380 ||.",
+    "प्रभू पावन नाम तुम्हारा, पाप सर्व जो करत परिहारा",
     "Prabhu Paavan Naam Tumhaaraa, Paap Sarv Jo Karat Parihaaraa",
-    "प्रभु पावन नाम तुमहारा, पाप सर्व जो करत परिहारा"
+    "राग तिलंग भजन 16",
+    "Raag Tilang Bhajan 16"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 379,
+  "displayOrder": 16,
+  "overallOrder": 379,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 223",
+  "updatedAt": "2026-10-26"
 }

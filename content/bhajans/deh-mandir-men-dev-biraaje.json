@@ -1,59 +1,102 @@
 {
-  "id": "bhajan-0502",
+  "id": "bhajan-0501",
   "slug": "deh-mandir-men-dev-biraaje",
   "categoryId": "raag-kohiyaari",
-  "title": "देह मनदिर मेन देव बिराजे",
-  "romanTitle": "Deh Mandir Men Dev Biraaje",
-  "firstLine": "Deh Mandir Men Dev Biraaje, Saakshi Sirjanhaaraa, Sat‌ Kartaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "देह मन्दिर में देव बिराजे,",
+  "romanTitle": "Deh Mandir Men Dev Biraaje,",
+  "firstLine": "Deh Mandir Men Dev Biraaje,",
+  "heading": "।। राग कोह्लारी भजन ।। २२ ।। ५०२।॥।",
+  "tek": [
+    "देह मन्दिर में देव बिराजे,",
+    "साक्षी सिरजणहारा, सत्‌ कर्तारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Deh Mandir Men Dev Biraaje,",
+    "Saakshi Sirjanhaaraa, Sat‌ Kartaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तीन अवस्था तीन देह से, रहता है नित न्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tin Avasthaa Tin Deh Se, Rahtaa Hai Nit Nyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जाग्रत स्वप्न सुषोप्ति माहीं, खेलत खेल अपारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapn Sushopti Maahin, Khelat Khel Apaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "रूप रेख कछु रंग न उसका, पांच कोष से पारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Rup Rekh Kachhu Rang Na Uskaa, Paanch Kosh Se Paaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं गुरु प्रसादी, देखा तिहँ दीदारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Guru Prasaadi, Dekhaa Tihan Didaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "देह मनदिर मेन देव बिराजे,",
-      "साक्षी सिरजनहारा, सत‌ करतारा (टेक)."
+      "तीन अवस्था तीन देह से, रहता है नित न्यारा ॥१ ॥"
     ],
     [
-      "तिन वसथा तिन देह से, रहता है नित नयारा || 1 ||."
+      "जाग्रत स्वप्न सुषोप्ति माहीं, खेलत खेल अपारा ॥२ ॥"
     ],
     [
-      "जागरत सवपन सुशोपति माहिन, खेलत खेल पारा || 2 ||."
+      "रूप रेख कछु रंग न उसका, पांच कोष से पारा ॥३ ॥"
     ],
     [
-      "रुप रेख कचहु रनग न ुसका, पानच कोश से पारा || 3 ||."
-    ],
-    [
-      "कहे तेऊँ मैं गुरु परसादि, देखा तिहन दिदारा. ||.4 ||."
+      "कहे टेऊँ मैं गुरु प्रसादी, देखा तिहँ दीदारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Deh Mandir Men Dev Biraaje,",
-      "Saakshi Sirjanhaaraa, Sat‌ Kartaaraa (Tek)."
+      "Tin Avasthaa Tin Deh Se, Rahtaa Hai Nit Nyaaraa || 1 ||"
     ],
     [
-      "Tin Avasthaa Tin Deh Se, Rahtaa Hai Nit Nyaaraa || 1 ||."
+      "Jaagrat Svapn Sushopti Maahin, Khelat Khel Apaaraa || 2 ||"
     ],
     [
-      "Jaagrat Svapn Sushopti Maahin, Khelat Khel Apaaraa || 2 ||."
+      "Rup Rekh Kachhu Rang Na Uskaa, Paanch Kosh Se Paaraa || 3 ||"
     ],
     [
-      "Rup Rekh Kachhu Rang N Uskaa, Paanch Kosh Se Paaraa || 3 ||."
-    ],
-    [
-      "Kahe Teun Main Guru Prasaadi, Dekhaa Tihan Didaaraa. ||.4 ||."
+      "Kahe Teun Main Guru Prasaadi, Dekhaa Tihan Didaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohlaari Bhajan || 22 || 502. ||.",
-    "Deh Mandir Men Dev Biraaje",
-    "देह मनदिर मेन देव बिराजे"
+    "देह मन्दिर में देव बिराजे,",
+    "Deh Mandir Men Dev Biraaje,",
+    "राग कोहियारी भजन 22",
+    "Raag Kohiyaari Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 502,
+  "displayOrder": 22,
+  "overallOrder": 501,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 280",
+  "updatedAt": "2026-10-26"
 }

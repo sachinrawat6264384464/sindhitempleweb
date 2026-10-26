@@ -2,49 +2,99 @@
   "id": "bhajan-0409",
   "slug": "maanush-deh-amolak-paai-hari-kaa-naam-uchchaaro-re",
   "categoryId": "raag-tilang",
-  "title": "मानुश देह मोलक पाि, हरि का नाम ुचचारो रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मानुष देह अमोलक पाई, हरि का नाम उच्चारो रे",
   "romanTitle": "Maanush Deh Amolak Paai, Hari Kaa Naam Uchchaaro Re",
   "firstLine": "Maanush Deh Amolak Paai, Hari Kaa Naam Uchchaaro Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ४ ।। ४१०॥।",
+  "tek": [
+    "मानुष देह अमोलक पाई, हरि का नाम उच्चारो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Deh Amolak Paai, Hari Kaa Naam Uchchaaro Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साध संगत की सेवा करके, अपना जन्म सुधारों रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangat Ki Sevaa Karke, Apnaa Janm Sudhaaron Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काम क्रोध मद लोभ निवारे, गुरु का वचन विचारों रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Mad Lobh Nivaare, Guru Kaa Vachan Vichaaron Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌गुरु का सत्‌ ज्ञान पिराये, संसा भ्रम निवारो रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Kaa Sat‌ Gyaan Piraaye, Sansaa Bhram Nivaaro Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ग़फ्लत को त्यागे, अपना आप सम्भारो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ghaphlat Ko Tyaage, Apnaa Aap Sambhaaro Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश देह मोलक पाि, हरि का नाम ुचचारो रे (टेक)."
+      "साध संगत की सेवा करके, अपना जन्म सुधारों रे ॥१ ॥"
     ],
     [
-      "साध सनगत कि सेवा करके, पना जनम सुधारोन रे.1 ||.",
-      "काम करोध मद लोभ निवारे, गुरु का वचन विचारोन रे || 2 ||."
+      "काम क्रोध मद लोभ निवारे, गुरु का वचन विचारों रे ॥२ ॥"
     ],
     [
-      "सतगुरु का सत‌ ज्ञान पिराये, सनसा भरम निवारो रे.3 ||.",
-      "कहे तेऊँ घफलत को तयागे, पना ाप समभारो रे 4"
+      "सत्‌गुरु का सत्‌ ज्ञान पिराये, संसा भ्रम निवारो रे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ ग़फ्लत को त्यागे, अपना आप सम्भारो रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Maanush Deh Amolak Paai, Hari Kaa Naam Uchchaaro Re (Tek)."
+      "Saadh Sangat Ki Sevaa Karke, Apnaa Janm Sudhaaron Re || 1 ||"
     ],
     [
-      "Saadh Sangat Ki Sevaa Karke, Apnaa Janm Sudhaaron Re.1 ||.",
-      "Kaam Krodh Mad Lobh Nivaare, Guru Kaa Vachan Vichaaron Re || 2 ||."
+      "Kaam Krodh Mad Lobh Nivaare, Guru Kaa Vachan Vichaaron Re || 2 ||"
     ],
     [
-      "Sat‌Guru Kaa Sat‌ Jnyaan Piraaye, Sansaa Bhram Nivaaro Re.3 ||.",
-      "Kahe Teun Ghaphlat Ko Tyaage, Apnaa Aap Sambhaaro Re 4"
+      "Sat‌Guru Kaa Sat‌ Gyaan Piraaye, Sansaa Bhram Nivaaro Re || 3 ||"
+    ],
+    [
+      "Kahe Teun Ghaphlat Ko Tyaage, Apnaa Aap Sambhaaro Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 4 || 410 ||.",
+    "मानुष देह अमोलक पाई, हरि का नाम उच्चारो रे",
     "Maanush Deh Amolak Paai, Hari Kaa Naam Uchchaaro Re",
-    "मानुश देह मोलक पाि, हरि का नाम ुचचारो रे"
+    "राग तिलंग भजन 46",
+    "Raag Tilang Bhajan 46"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 409,
+  "displayOrder": 46,
+  "overallOrder": 409,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 238",
+  "updatedAt": "2026-10-26"
 }

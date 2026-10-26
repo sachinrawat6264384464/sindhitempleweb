@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0584",
+  "id": "bhajan-0582",
   "slug": "sachaa-sangi-hai-raam-samajh-man-meraa",
   "categoryId": "raag-saarang",
-  "title": "सचा सनगि है राम, समझ मन मेरा",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "सचा संगी है राम, समझ मन मेरा",
   "romanTitle": "Sachaa Sangi Hai Raam, Samajh Man Meraa",
   "firstLine": "Sachaa Sangi Hai Raam, Samajh Man Meraa (Tek).",
+  "heading": "।। राग सारंग भजन ।। ५ ।। ५८ ३॥।",
+  "tek": [
+    "सचा संगी है राम, समझ मन मेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sachaa Sangi Hai Raam, Samajh Man Meraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात संगी ना तात संगी ना, बहिन संगी ना भ्रात संगी ना ।",
+        "संगी ना सुत वाम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Sangi Naa Taat Sangi Naa, Bahin Sangi Naa Bhraat Sangi Naa.",
+        "Sangi Naa Sut Vaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धरनि संगी ना धाम संगी ना, देह संगी ना दाम संगी ना ।",
+        "संगी ना को गाम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dharni Sangi Naa Dhaam Sangi Naa, Deh Sangi Naa Daam Sangi Naa.",
+        "Sangi Naa Ko Gaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "संगी जगत के हैं सब काचे, सन्त राम हैं संगी साचे ।",
+        "देते मुक्ती धाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sangi Jagat Ke Hain Sab Kaache, Sant Raam Hain Sangi Saache.",
+        "Dete Mukti Dhaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँं तज झूठे संगी, ममता इनकी दे बहु तंगी ।",
+        "सुमर साक्षी सतूनाम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teunn Taj Jhuthe Sangi, Mamtaa Inki De Bahu Tangi.",
+        "Sumar Saakshi Satunaam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सचा सनगि है राम, समझ मन मेरा (टेक)."
+      "मात संगी ना तात संगी ना, बहिन संगी ना भ्रात संगी ना ।",
+      "संगी ना सुत वाम ॥१ ॥"
     ],
     [
-      "मात सनगि ना तात सनगि ना, बहिन सनगि ना भरात सनगि ना.",
-      "सनगि ना सुत वाम || 1 ||"
+      "धरनि संगी ना धाम संगी ना, देह संगी ना दाम संगी ना ।",
+      "संगी ना को गाम ॥२ ॥"
     ],
     [
-      "धरनि सनगि ना धाम सनगि ना, देह सनगि ना दाम सनगि ना.",
-      "सनगि ना को गाम || || 2 ||."
+      "संगी जगत के हैं सब काचे, सन्त राम हैं संगी साचे ।",
+      "देते मुक्ती धाम ॥३ ॥"
     ],
     [
-      "सनगि जगत के हैन सब काचे, संत राम हैन सनगि साचे.",
-      "देते मुक्ति धाम ||.3 ||."
-    ],
-    [
-      "कहे तेुनन तज झुथे सनगि, ममता िनकि दे बहु तनगि.",
-      "सुमर साक्षी सतुनाम || 4 ||"
+      "कहे टेऊँं तज झूठे संगी, ममता इनकी दे बहु तंगी ।",
+      "सुमर साक्षी सतूनाम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sachaa Sangi Hai Raam, Samajh Man Meraa (Tek)."
-    ],
     [
       "Maat Sangi Naa Taat Sangi Naa, Bahin Sangi Naa Bhraat Sangi Naa.",
       "Sangi Naa Sut Vaam || 1 ||"
     ],
     [
       "Dharni Sangi Naa Dhaam Sangi Naa, Deh Sangi Naa Daam Sangi Naa.",
-      "Sangi Naa Ko Gaam || || 2 ||."
+      "Sangi Naa Ko Gaam || 2 ||"
     ],
     [
       "Sangi Jagat Ke Hain Sab Kaache, Sant Raam Hain Sangi Saache.",
-      "Dete Mukti Dhaam ||.3 ||."
+      "Dete Mukti Dhaam || 3 ||"
     ],
     [
       "Kahe Teunn Taj Jhuthe Sangi, Mamtaa Inki De Bahu Tangi.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 5 || 58 3 ||.",
+    "सचा संगी है राम, समझ मन मेरा",
     "Sachaa Sangi Hai Raam, Samajh Man Meraa",
-    "सचा सनगि है राम, समझ मन मेरा"
+    "राग सारंग भजन 5",
+    "Raag Saarang Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 584,
+  "displayOrder": 5,
+  "overallOrder": 582,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 316",
+  "updatedAt": "2026-10-26"
 }

@@ -2,71 +2,115 @@
   "id": "bhajan-0010",
   "slug": "satguru-svaami-antaryaami-devo-charnani-dhyaan",
   "categoryId": "raag-bhairav",
-  "title": "सतगुरु स्वामी, नतरयामि, देवो चरननि ध्यान",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "सत्‌गुरु स्वामी, अन्तर्यामी, देवो चरणनि ध्यान",
   "romanTitle": "Sat‌Guru Svaami, Antaryaami, Devo Charnani Dhyaan",
   "firstLine": "Sat‌Guru Svaami, Antaryaami, Devo Charnani Dhyaan (Tek).",
+  "heading": "।। राग भैरव भजन ।। १० ॥।",
+  "tek": [
+    "सत्‌गुरु स्वामी, अन्तर्यामी, देवो चरणनि ध्यान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Svaami, Antaryaami, Devo Charnani Dhyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं पापी हूँ अति भारा, पावन तुमहो गुरु प्यारा ।",
+        "सब पाप करो परिहारा, देके दर्शन दान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Paapi Hun Ati Bhaaraa, Paavan Tumho Guru Pyaaraa.",
+        "Sab Paap Karo Parihaaraa, Deke Darshan Daan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "यह भवसागर है भारी, तामें डूबत हरवारी ।",
+        "अब काढो गुरु उपकारी, मुझ पर कर अहसान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yah Bhavsaagar Hai Bhaari, Taamen Dubat Harvaari.",
+        "Ab Kaadho Guru Upkaari, Mujh Par Kar Ahsaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम स्थिर हो अविनाशी, मैं तो भटकत चौरासी ।",
+        "गुरु काटो यम की फासी, देके आतम ज्ञान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Sthir Ho Avinaashi, Main To Bhatkat Chauraasi.",
+        "Guru Kaato Yam Ki Phaasi, Deke Aatam Gyaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं हूं चेरा, सत्‌गुरु स्वामी तूं मेरा ।",
+        "मुझको आसरा है तेरा, कृपा कर भगवान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Hun Cheraa, Sat‌Guru Svaami Tu Meraa.",
+        "Mujhko Aasraa Hai Teraa, Kripaa Kar Bhagvaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु स्वामी, नतरयामि, देवो चरननि ध्यान (टेक)."
+      "मैं पापी हूँ अति भारा, पावन तुमहो गुरु प्यारा ।",
+      "सब पाप करो परिहारा, देके दर्शन दान ॥१ ॥"
     ],
     [
-      "मैं पापि हुन ति भारा, पावन तुमहो गुरु पयारा.",
-      "सब पाप करो परिहारा, देके दरशन दान ||.1. ||."
+      "यह भवसागर है भारी, तामें डूबत हरवारी ।",
+      "अब काढो गुरु उपकारी, मुझ पर कर अहसान ॥२ ॥"
     ],
     [
-      "यह भवसागर है भारि, तामेन दुबत हरवारि.",
-      "ब काधो गुरु ुपकारि, मुझ पर कर हसान || 2 ||."
+      "तुम स्थिर हो अविनाशी, मैं तो भटकत चौरासी ।",
+      "गुरु काटो यम की फासी, देके आतम ज्ञान ॥३ ॥"
     ],
     [
-      "तुम सथिर हो अविनाशी, मैं तो भतकत चौरासि.",
-      "गुरु कातो यम कि फासि, देके ातम ज्ञान || 3 ||."
-    ],
-    [
-      "कहे तेऊँ मैं हुन चेरा, सतगुरु स्वामी तु मेरा.",
-      "मुझको ासरा है तेरा, कृपा कर भगवान || 4. ||."
-    ],
-    [
-      "हि"
+      "कहे टेऊँ मैं हूं चेरा, सत्‌गुरु स्वामी तूं मेरा ।",
+      "मुझको आसरा है तेरा, कृपा कर भगवान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Svaami, Antaryaami, Devo Charnani Dhyaan (Tek)."
-    ],
-    [
       "Main Paapi Hun Ati Bhaaraa, Paavan Tumho Guru Pyaaraa.",
-      "Sab Paap Karo Parihaaraa, Deke Darshan Daan ||.1. ||."
+      "Sab Paap Karo Parihaaraa, Deke Darshan Daan || 1 ||"
     ],
     [
       "Yah Bhavsaagar Hai Bhaari, Taamen Dubat Harvaari.",
-      "Ab Kaadho Guru Upkaari, Mujh Par Kar Ahsaan || 2 ||."
+      "Ab Kaadho Guru Upkaari, Mujh Par Kar Ahsaan || 2 ||"
     ],
     [
       "Tum Sthir Ho Avinaashi, Main To Bhatkat Chauraasi.",
-      "Guru Kaato Yam Ki Phaasi, Deke Aatam Jnyaan || 3 ||."
+      "Guru Kaato Yam Ki Phaasi, Deke Aatam Gyaan || 3 ||"
     ],
     [
       "Kahe Teun Main Hun Cheraa, Sat‌Guru Svaami Tu Meraa.",
-      "Mujhko Aasraa Hai Teraa, Kripaa Kar Bhagvaan || 4. ||."
-    ],
-    [
-      "Hi"
+      "Mujhko Aasraa Hai Teraa, Kripaa Kar Bhagvaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairav Bhajan || 10 ||.",
+    "सत्‌गुरु स्वामी, अन्तर्यामी, देवो चरणनि ध्यान",
     "Sat‌Guru Svaami, Antaryaami, Devo Charnani Dhyaan",
-    "सतगुरु स्वामी, नतरयामि, देवो चरननि ध्यान"
+    "राग भैरव भजन 10",
+    "Raag Bhairav Bhajan 10"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 10,
+  "overallOrder": 10,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 30",
+  "updatedAt": "2026-10-26"
 }

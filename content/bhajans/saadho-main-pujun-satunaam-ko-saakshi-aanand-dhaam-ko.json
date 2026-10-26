@@ -1,66 +1,116 @@
 {
-  "id": "bhajan-0677",
+  "id": "bhajan-0675",
   "slug": "saadho-main-pujun-satunaam-ko-saakshi-aanand-dhaam-ko",
   "categoryId": "raag-pahaari",
-  "title": "साधो मैं पुजुन सतुनाम को, साक्षी आनंद धाम को",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "साधो मैं पूजूं सतुनाम को, साक्षी आनंद धाम को",
   "romanTitle": "Saadho Main Pujun Satunaam Ko, Saakshi Aanand Dhaam Ko",
   "firstLine": "Saadho Main Pujun Satunaam Ko, Saakshi Aanand Dhaam Ko (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। २८ ।। ६७६।।",
+  "tek": [
+    "साधो मैं पूजूं सतुनाम को, साक्षी आनंद धाम को ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho Main Pujun Satunaam Ko, Saakshi Aanand Dhaam Ko (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कोई पूजत विष्णू शंकर, कोई शक्ति गणेशा ।",
+        "कोई पूजत इन्द्र चन्द्र रवि, को पूजत घनश्याम को ॥१ ॥"
+      ],
+      "romanLines": [
+        "Koi Pujat Vishnu Shankar, Koi Shakti Ganeshaa.",
+        "Koi Pujat Indr Chandr Ravi, Ko Pujat Ghanashyaam Ko || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कोई पूजत दशरथ नन्दन, कोई धरनि अकासा ।",
+        "कोई पूजत वायू अग्नी, को पूजत जलधाम को ॥२ ॥"
+      ],
+      "romanLines": [
+        "Koi Pujat Dashrath Nandan, Koi Dharni Akaasaa.",
+        "Koi Pujat Vaayu Agni, Ko Pujat Jaldhaam Ko || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिसके जाने से सब जाने, जिस माने सब माने ।",
+        "जिसके पूजे सबहीं पूजत, पूजूं तिहें अलिकाम को ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jiske Jaane Se Sab Jaane, Jis Maane Sab Maane.",
+        "Jiske Puje Sabhin Pujat, Pujun Tihen Alikaam Ko || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जिस से हो जग उत्पति स्थित, जामें लय पुनि होवे ।",
+        "नेति नेति जिहं वेद बतावे, इष्ट वही टेऊँराम को ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jis Se Ho Jag Utpati Sthit, Jaamen Lay Puni Hove.",
+        "Neti Neti Jihan Ved Bataave, Isht Vahi Teunram Ko || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधो मैं पुजुन सतुनाम को, साक्षी आनंद धाम को (टेक)."
+      "कोई पूजत विष्णू शंकर, कोई शक्ति गणेशा ।",
+      "कोई पूजत इन्द्र चन्द्र रवि, को पूजत घनश्याम को ॥१ ॥"
     ],
     [
-      "कोि पुजत विशनु शनकर, कोि शकति गनेशा.",
-      "कोि पुजत िनदर चनदर रवि, को पुजत घनशयाम को || 1 ||."
+      "कोई पूजत दशरथ नन्दन, कोई धरनि अकासा ।",
+      "कोई पूजत वायू अग्नी, को पूजत जलधाम को ॥२ ॥"
     ],
     [
-      "कोि पुजत दशरथ ननदन, कोि धरनि कासा.",
-      "कोि पुजत वायु गनि, को पुजत जलधाम को ||.2 ||."
+      "जिसके जाने से सब जाने, जिस माने सब माने ।",
+      "जिसके पूजे सबहीं पूजत, पूजूं तिहें अलिकाम को ॥३ ॥"
     ],
     [
-      "जिसके जाने से सब जाने, जिस माने सब माने.",
-      "जिसके पुजे सभिन पुजत, पुजुन तिहेन लिकाम को ||.3 ||."
-    ],
-    [
-      "जिस से हो जग ुतपति सथित, जामेन लय पुनि होवे.",
-      "नेति नेति जिहन वेद बतावे, िशत वहि तेऊँराम को || 4 ||."
+      "जिस से हो जग उत्पति स्थित, जामें लय पुनि होवे ।",
+      "नेति नेति जिहं वेद बतावे, इष्ट वही टेऊँराम को ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadho Main Pujun Satunaam Ko, Saakshi Aanand Dhaam Ko (Tek)."
-    ],
-    [
       "Koi Pujat Vishnu Shankar, Koi Shakti Ganeshaa.",
-      "Koi Pujat Indr Chandr Ravi, Ko Pujat Ghanashyaam Ko || 1 ||."
+      "Koi Pujat Indr Chandr Ravi, Ko Pujat Ghanashyaam Ko || 1 ||"
     ],
     [
       "Koi Pujat Dashrath Nandan, Koi Dharni Akaasaa.",
-      "Koi Pujat Vaayu Agni, Ko Pujat Jaldhaam Ko ||.2 ||."
+      "Koi Pujat Vaayu Agni, Ko Pujat Jaldhaam Ko || 2 ||"
     ],
     [
       "Jiske Jaane Se Sab Jaane, Jis Maane Sab Maane.",
-      "Jiske Puje Sabhin Pujat, Pujun Tihen Alikaam Ko ||.3 ||."
+      "Jiske Puje Sabhin Pujat, Pujun Tihen Alikaam Ko || 3 ||"
     ],
     [
       "Jis Se Ho Jag Utpati Sthit, Jaamen Lay Puni Hove.",
-      "Neti Neti Jihan Ved Bataave, Isht Vahi Teunram Ko || 4 ||."
+      "Neti Neti Jihan Ved Bataave, Isht Vahi Teunram Ko || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 28 || 676 ||",
+    "साधो मैं पूजूं सतुनाम को, साक्षी आनंद धाम को",
     "Saadho Main Pujun Satunaam Ko, Saakshi Aanand Dhaam Ko",
-    "साधो मैं पुजुन सतुनाम को, साक्षी आनंद धाम को"
+    "राग पहाड़ी भजन 28",
+    "Raag Pahaari Bhajan 28"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 677,
+  "displayOrder": 28,
+  "overallOrder": 675,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 359",
+  "updatedAt": "2026-10-26"
 }

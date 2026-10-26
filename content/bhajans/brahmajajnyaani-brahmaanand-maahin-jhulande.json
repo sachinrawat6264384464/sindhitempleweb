@@ -2,84 +2,131 @@
   "id": "bhajan-0070",
   "slug": "brahmajajnyaani-brahmaanand-maahin-jhulande",
   "categoryId": "raag-aasaa",
-  "title": "बरहमजजनयानि बरहमाननद माहिन झुलनदे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "ब्रह्मजज्ञानी ब्रह्मानन्द माहिं झूलन्दे",
   "romanTitle": "Brahmajajnyaani Brahmaanand Maahin Jhulande",
   "firstLine": "Brahmajajnyaani Brahmaanand Maahin Jhulande (Tek).",
+  "heading": "।। राग आसा भजन ।। ८ ।। ७०॥।",
+  "tek": [
+    "ब्रह्मजज्ञानी ब्रह्मानन्द माहिं झूलन्दे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Brahmajajnyaani Brahmaanand Maahin Jhulande (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम रूप मिथ्या सत्‌ ब्रह्म जानदा,",
+        "आपना स्वरूप एक ब्रह्मा मानदा ।",
+        "जगत माहिं स्वयं रूप देख फूलन्दे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup Mithyaa Sat‌ Brahm Jaandaa,",
+        "Aapnaa Svarup Ek Brahmaa Maandaa.",
+        "Jagat Maahin Svayan Rup Dekh Phulande || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शेर ज्यों जगत माहिं अभय डोलते,",
+        "अहंब्रहा अहंब्रह्मा बात बोलते ।",
+        "ब्रह्मा भाव की न कभी राह भूलन्दे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sher Jyon Jagat Maahin Abhay Dolte,",
+        "Ahambrahaa Ahambrahmaa Baat Bolte.",
+        "Brahmaa Bhaav Ki Na Kabhi Raah Bhulande || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कमल फूल ज्यों जगत बीच रहत है,",
+        "सदा तोष माहिं मगन कुछ न चहत है ।",
+        "ज्ञान नशे माहिं मस्त होय घूलन्दे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kamal Phul Jyon Jagat Bich Rahat Hai,",
+        "Sadaa Tosh Maahin Magan Kuchh Na Chahat Hai.",
+        "Gyaan Nashe Maahin Mast Hoy Ghulande || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भेद भ्रम छेद कर्म मेट वासना,",
+        "कहत टेऊँ धार सदा ब्रह्म भावना ।",
+        "राग द्वेष माहिं कभी नाहिं छूलन्दे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhed Bhram Chhed Karm Met Vaasnaa,",
+        "Kahat Teun Dhaar Sadaa Brahm Bhaavnaa.",
+        "Raag Dvesh Maahin Kabhi Naahin Chhulande || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बरहमजजनयानि बरहमाननद माहिन झुलनदे (टेक)."
+      "नाम रूप मिथ्या सत्‌ ब्रह्म जानदा,",
+      "आपना स्वरूप एक ब्रह्मा मानदा ।",
+      "जगत माहिं स्वयं रूप देख फूलन्दे ॥१ ॥"
     ],
     [
-      "नाम रुप मिथया सत‌ बरहम जानदा,",
-      "ापना सवरुप ेक बरहम मानदा."
+      "शेर ज्यों जगत माहिं अभय डोलते,",
+      "अहंब्रहा अहंब्रह्मा बात बोलते ।",
+      "ब्रह्मा भाव की न कभी राह भूलन्दे ॥२ ॥"
     ],
     [
-      "जगत माहिन सवयन रुप देख फुलनदे || 1 ||."
+      "कमल फूल ज्यों जगत बीच रहत है,",
+      "सदा तोष माहिं मगन कुछ न चहत है ।",
+      "ज्ञान नशे माहिं मस्त होय घूलन्दे ॥३ ॥"
     ],
     [
-      "शेर जयोन जगत माहिन भय दोलते,",
-      "हमबरहा हमबरहमा बात बोलते."
-    ],
-    [
-      "बरहम भाव कि न कभि राह भुलनदे.2 ||.",
-      "कमल फुल जयोन जगत बिच रहत है,"
-    ],
-    [
-      "सदा तोश माहिन मगन कुचह न चहत है.",
-      "ज्ञान नशे माहिन मसत होय घुलनदे || 3 ||"
-    ],
-    [
-      "भेद भरम चहेद करम मेत वासना,",
-      "कहत तेऊँ धार सदा बरहम भावना."
-    ],
-    [
-      "राग दवेश माहिन कभि नाहिन चहुलनदे || 4 ||"
+      "भेद भ्रम छेद कर्म मेट वासना,",
+      "कहत टेऊँ धार सदा ब्रह्म भावना ।",
+      "राग द्वेष माहिं कभी नाहिं छूलन्दे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Brahmajajnyaani Brahmaanand Maahin Jhulande (Tek)."
-    ],
-    [
       "Naam Rup Mithyaa Sat‌ Brahm Jaandaa,",
-      "Aapnaa Svarup Ek Brahma Maandaa."
-    ],
-    [
-      "Jagat Maahin Svayan Rup Dekh Phulande || 1 ||."
+      "Aapnaa Svarup Ek Brahmaa Maandaa.",
+      "Jagat Maahin Svayan Rup Dekh Phulande || 1 ||"
     ],
     [
       "Sher Jyon Jagat Maahin Abhay Dolte,",
-      "Ahambrahaa Ahambrahmaa Baat Bolte."
+      "Ahambrahaa Ahambrahmaa Baat Bolte.",
+      "Brahmaa Bhaav Ki Na Kabhi Raah Bhulande || 2 ||"
     ],
     [
-      "Brahma Bhaav Ki N Kabhi Raah Bhulande.2 ||.",
-      "Kamal Phul Jyon Jagat Bich Rahat Hai,"
-    ],
-    [
-      "Sadaa Tosh Maahin Magan Kuchh N Chahat Hai.",
-      "Jnyaan Nashe Maahin Mast Hoy Ghulande || 3 ||"
+      "Kamal Phul Jyon Jagat Bich Rahat Hai,",
+      "Sadaa Tosh Maahin Magan Kuchh Na Chahat Hai.",
+      "Gyaan Nashe Maahin Mast Hoy Ghulande || 3 ||"
     ],
     [
       "Bhed Bhram Chhed Karm Met Vaasnaa,",
-      "Kahat Teun Dhaar Sadaa Brahm Bhaavnaa."
-    ],
-    [
+      "Kahat Teun Dhaar Sadaa Brahm Bhaavnaa.",
       "Raag Dvesh Maahin Kabhi Naahin Chhulande || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 8 || 70 ||.",
+    "ब्रह्मजज्ञानी ब्रह्मानन्द माहिं झूलन्दे",
     "Brahmajajnyaani Brahmaanand Maahin Jhulande",
-    "बरहमजजनयानि बरहमाननद माहिन झुलनदे"
+    "राग आसा भजन 8",
+    "Raag Aasaa Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 70,
+  "displayOrder": 8,
+  "overallOrder": 70,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 60",
+  "updatedAt": "2026-10-26"
 }

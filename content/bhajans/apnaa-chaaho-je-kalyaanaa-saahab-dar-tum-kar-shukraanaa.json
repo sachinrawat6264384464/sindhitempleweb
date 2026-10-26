@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0521",
+  "id": "bhajan-0519",
   "slug": "apnaa-chaaho-je-kalyaanaa-saahab-dar-tum-kar-shukraanaa",
   "categoryId": "raag-kohiyaari",
-  "title": "पना चाहो जे कलयाना, साहब दर तुम कर शुकराना",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "अपना चाहो जे कल्याना, साहब दर तुम कर शुकराना",
   "romanTitle": "Apnaa Chaaho Je Kalyaanaa, Saahab Dar Tum Kar Shukraanaa",
   "firstLine": "Apnaa Chaaho Je Kalyaanaa, Saahab Dar Tum Kar Shukraanaa (Tek).",
+  "heading": "।। राग कोदह्यारी भजन ।। ४० ।। ५२०॥।",
+  "tek": [
+    "अपना चाहो जे कल्याना, साहब दर तुम कर शुकराना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Apnaa Chaaho Je Kalyaanaa, Saahab Dar Tum Kar Shukraanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "किस्म किस्म के वस्त्र नवीने, ओढ़न हित हरि तुमको दीने ।",
+        "नगन फिरे पशु पँछी नाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kism Kism Ke Vastr Navine, Orhan Hit Hari Tumko Dine.",
+        "Nagan Phire Pashu Panchhi Naanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रहने कारण हरि ने सुन्दर, दीने तुमको महला मन्दिर ।",
+        "और जोनि गिर जल थल थाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Rahne Kaaran Hari Ne Sundar, Dine Tumko Mahlaa Mandir.",
+        "Aur Joni Gir Jal Thal Thaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "षट्रस नाना भान्ति अहारे, दीने तुमको सत्‌कतरि ।",
+        "और जोनि तृण फल मल खाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shatras Naanaa Bhaanti Ahaare, Dine Tumko Sat‌Katri.",
+        "Aur Joni Trin Phal Mal Khaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "उन्नती करने हित बुद्धि शक्ती, कहे टेऊँ दी हरि तोहि भक्ती ।",
+        "और जोनि नहिं भक्ती ज्ञाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Unnati Karne Hit Buddhi Shakti, Kahe Teun Di Hari Tohi Bhakti.",
+        "Aur Joni Nahin Bhakti Jnyaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पना चाहो जे कलयाना, साहब दर तुम कर शुकराना (टेक)."
+      "किस्म किस्म के वस्त्र नवीने, ओढ़न हित हरि तुमको दीने ।",
+      "नगन फिरे पशु पँछी नाना ॥१ ॥"
     ],
     [
-      "किसम किसम के वसतर नविने, ोरहन हित हरि तुमको दिने.",
-      "नगन फिरे पशु पनचहि नाना.1 ||."
+      "रहने कारण हरि ने सुन्दर, दीने तुमको महला मन्दिर ।",
+      "और जोनि गिर जल थल थाना ॥२ ॥"
     ],
     [
-      "रहने कारन हरि ने सुनदर, दिने तुमको महला मनदिर.",
-      "ौर जोनि गिर जल थल थाना || 2 ||."
+      "षट्रस नाना भान्ति अहारे, दीने तुमको सत्‌कतरि ।",
+      "और जोनि तृण फल मल खाना ॥३ ॥"
     ],
     [
-      "शतरस नाना भानति हारे, दिने तुमको सतकतरि.",
-      "ौर जोनि तरिन फल मल खाना || 3 ||."
-    ],
-    [
-      "ुननति करने हित बुदधि शकति, कहे तेऊँ दि हरि तोहि भक्ति.",
-      "ौर जोनि नहिन भक्ति जनयाना || 4 ||."
+      "उन्नती करने हित बुद्धि शक्ती, कहे टेऊँ दी हरि तोहि भक्ती ।",
+      "और जोनि नहिं भक्ती ज्ञाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Apnaa Chaaho Je Kalyaanaa, Saahab Dar Tum Kar Shukraanaa (Tek)."
-    ],
-    [
       "Kism Kism Ke Vastr Navine, Orhan Hit Hari Tumko Dine.",
-      "Nagan Phire Pashu Panchhi Naanaa.1 ||."
+      "Nagan Phire Pashu Panchhi Naanaa || 1 ||"
     ],
     [
       "Rahne Kaaran Hari Ne Sundar, Dine Tumko Mahlaa Mandir.",
-      "Aur Joni Gir Jal Thal Thaanaa || 2 ||."
+      "Aur Joni Gir Jal Thal Thaanaa || 2 ||"
     ],
     [
       "Shatras Naanaa Bhaanti Ahaare, Dine Tumko Sat‌Katri.",
-      "Aur Joni Trin Phal Mal Khaanaa || 3 ||."
+      "Aur Joni Trin Phal Mal Khaanaa || 3 ||"
     ],
     [
       "Unnati Karne Hit Buddhi Shakti, Kahe Teun Di Hari Tohi Bhakti.",
-      "Aur Joni Nahin Bhakti Jnyaanaa || 4 ||."
+      "Aur Joni Nahin Bhakti Jnyaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kodahyaari Bhajan || 40 || 520 ||.",
+    "अपना चाहो जे कल्याना, साहब दर तुम कर शुकराना",
     "Apnaa Chaaho Je Kalyaanaa, Saahab Dar Tum Kar Shukraanaa",
-    "पना चाहो जे कलयाना, साहब दर तुम कर शुकराना"
+    "राग कोहियारी भजन 40",
+    "Raag Kohiyaari Bhajan 40"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 521,
+  "displayOrder": 40,
+  "overallOrder": 519,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 287",
+  "updatedAt": "2026-10-26"
 }

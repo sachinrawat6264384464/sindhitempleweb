@@ -2,41 +2,90 @@
   "id": "bhajan-0373",
   "slug": "tumhaaraa-rup-hai-chetan-badan-se-tu-nyaaraa-hai",
   "categoryId": "raag-tilang",
-  "title": "तुमहारा रुप है चेतन, बदन से तु नयारा है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "तुम्हारा रूप है चेतन, बदन से तूं न्यारा है",
   "romanTitle": "Tumhaaraa Rup Hai Chetan, Badan Se Tu Nyaaraa Hai",
   "firstLine": "Tumhaaraa Rup Hai Chetan, Badan Se Tu Nyaaraa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १० ।। ३७४।।",
+  "tek": [
+    "तुम्हारा रूप है चेतन, बदन से तूं न्यारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tumhaaraa Rup Hai Chetan, Badan Se Tu Nyaaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बदन है पांच भूतों का, अनातम रूप सो जानो ।",
+        "अवस्था तीन का साक्षी, सदा तूं निर्विकारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Badan Hai Paanch Bhuton Kaa, Anaatam Rup So Jaano.",
+        "Avasthaa Tin Kaa Saakshi, Sadaa Tu Nirvikaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बुद्धी मन इन्द्रिय पुनि प्राना, चपल जड़ जान ये सारे ।",
+        "अचल चित्‌ एक रस आतम, सर्व का तूं सहारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Buddhi Man Indriy Puni Praanaa, Chapal Jar Jaan Ye Saare.",
+        "Achal Chit‌ Ek Ras Aatam, Sarv Kaa Tu Sahaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बदन सुन्दर मन्दिर माहीं, बिराजे देव इक आतम ।",
+        "वही स्वरूप है तेरा, निगम का. ये इशारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Badan Sundar Mandir Maahin, Biraaje Dev Ik Aatam.",
+        "Vahi Svarup Hai Teraa, Nigam Kaa. Ye Ishaaraa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जगत सारा, असत्‌ जड़ दूख मय जानो ।",
+        "ब्रह्म साक्षी परम आनन्द, जगत का तूं अधारा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jagat Saaraa, Asat‌ Jar Dukh May Jaano.",
+        "Brahm Saakshi Param Aanand, Jagat Kaa Tu Adhaaraa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुमहारा रुप है चेतन, बदन से तु नयारा है (टेक)."
+      "बदन है पांच भूतों का, अनातम रूप सो जानो ।",
+      "अवस्था तीन का साक्षी, सदा तूं निर्विकारा है ॥१ ॥"
     ],
     [
-      "बदन है पानच भुतोन का, नातम रुप सो जानो.",
-      "वसथा तिन का साक्षी, सदा तु निरविकारा है.1. ||."
+      "बुद्धी मन इन्द्रिय पुनि प्राना, चपल जड़ जान ये सारे ।",
+      "अचल चित्‌ एक रस आतम, सर्व का तूं सहारा है ॥२ ॥"
     ],
     [
-      "बुदधि मन िनदरिय पुनि पराना, चपल जर जान ये सारे.",
-      "चल चित‌ ेक रस ातम, सर्व का तु सहारा है || 2 ||."
+      "बदन सुन्दर मन्दिर माहीं, बिराजे देव इक आतम ।",
+      "वही स्वरूप है तेरा, निगम का. ये इशारा है ॥३ ॥"
     ],
     [
-      "बदन सुनदर मनदिर माहिन, बिराजे देव िक ातम.",
-      "वहि सवरुप है तेरा, निगम का. ये िशारा है || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जगत सारा, सत‌ जर दुःख मय जानो.",
-      "बरहम साक्षी परम आनंद, जगत का तु धारा है || 4 ||"
+      "कहे टेऊँ जगत सारा, असत्‌ जड़ दूख मय जानो ।",
+      "ब्रह्म साक्षी परम आनन्द, जगत का तूं अधारा है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tumhaaraa Rup Hai Chetan, Badan Se Tu Nyaaraa Hai (Tek)."
-    ],
-    [
       "Badan Hai Paanch Bhuton Kaa, Anaatam Rup So Jaano.",
-      "Avasthaa Tin Kaa Saakshi, Sadaa Tu Nirvikaaraa Hai.1. ||."
+      "Avasthaa Tin Kaa Saakshi, Sadaa Tu Nirvikaaraa Hai || 1 ||"
     ],
     [
       "Buddhi Man Indriy Puni Praanaa, Chapal Jar Jaan Ye Saare.",
-      "Achal Chit‌ Ek Ras Aatam, Sarv Kaa Tu Sahaaraa Hai || 2 ||."
+      "Achal Chit‌ Ek Ras Aatam, Sarv Kaa Tu Sahaaraa Hai || 2 ||"
     ],
     [
       "Badan Sundar Mandir Maahin, Biraaje Dev Ik Aatam.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 10 || 374 ||",
+    "तुम्हारा रूप है चेतन, बदन से तूं न्यारा है",
     "Tumhaaraa Rup Hai Chetan, Badan Se Tu Nyaaraa Hai",
-    "तुमहारा रुप है चेतन, बदन से तु नयारा है"
+    "राग तिलंग भजन 10",
+    "Raag Tilang Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 373,
+  "displayOrder": 10,
+  "overallOrder": 373,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 221",
+  "updatedAt": "2026-10-26"
 }

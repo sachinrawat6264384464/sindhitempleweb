@@ -2,64 +2,115 @@
   "id": "bhajan-0116",
   "slug": "maayaa-se-bhagvaan-bachaao-maayaa-se-bhagvaan",
   "categoryId": "raag-aasaa",
-  "title": "माया से भगवान बचाो, माया से भगवान",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "माया से भगवान बचाओ, माया से भगवान",
   "romanTitle": "Maayaa Se Bhagvaan Bachaao, Maayaa Se Bhagvaan",
   "firstLine": "Maayaa Se Bhagvaan Bachaao, Maayaa Se Bhagvaan (Tek).",
+  "heading": "।। राग आसा भजन ।। ५४ ।। ११६।॥।",
+  "tek": [
+    "माया से भगवान बचाओ, माया से भगवान ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Maayaa Se Bhagvaan Bachaao, Maayaa Se Bhagvaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रभू तेरी प्रबल माया, मोहे जिसने सुर नरराया ।",
+        "अर्जुन जैसे भक्त भुलाया, और बड़े बलवान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prabhu Teri Prabal Maayaa, Mohe Jisne Sur Narraayaa.",
+        "Arjun Jaise Bhakt Bhulaayaa, Aur Bare Balvaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया भारी जाल बिछाया, जामें सारे जीव फसाया ।",
+        "नारद का मुख विकट बनाया, मोहे बहु विद्वान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Bhaari Jaal Bichhaayaa, Jaamen Saare Jiv Phasaayaa.",
+        "Naarad Kaa Mukh Vikat Banaayaa, Mohe Bahu Vidvaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तेरी शरण हरी जो आवे, माया से सोई तर जावे ।",
+        "कबहूं तिसको नाहिं भुलावे, गीता का प्रमान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Teri Sharan Hari Jo Aave, Maayaa Se Soi Tar Jaave.",
+        "Kabhun Tisko Naahin Bhulaave, Gitaa Kaa Pramaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ पुकारे, मैं भी आया शरण तुम्हारे ।",
+        "रक्षा कर हरि करुणा धारे, लगे न माया बान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Pukaare, Main Bhi Aayaa Sharan Tumhaare.",
+        "Rakshaa Kar Hari Karunaa Dhaare, Lage Na Maayaa Baan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "माया से भगवान बचाो, माया से भगवान (टेक)."
+      "प्रभू तेरी प्रबल माया, मोहे जिसने सुर नरराया ।",
+      "अर्जुन जैसे भक्त भुलाया, और बड़े बलवान ॥१ ॥"
     ],
     [
-      "प्रभु तेरि परबल माया, मोहे जिसने सुर नरराया.",
-      "रजुन जैसे भकत भुलाया, ौर बरे बलवान ||.1. ||."
+      "माया भारी जाल बिछाया, जामें सारे जीव फसाया ।",
+      "नारद का मुख विकट बनाया, मोहे बहु विद्वान ॥२ ॥"
     ],
     [
-      "माया भारि जाल बिचहाया, जामेन सारे जिव फसाया.",
-      "नारद का मुख विकत बनाया, मोहे बहु विदवान || 2 ||."
+      "तेरी शरण हरी जो आवे, माया से सोई तर जावे ।",
+      "कबहूं तिसको नाहिं भुलावे, गीता का प्रमान ॥३ ॥"
     ],
     [
-      "तेरि शरन हरि जो ावे, माया से सोि तर जावे.",
-      "कभुन तिसको नाहिन भुलावे, गिता का परमान ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ कर जोर पुकारे, मैं भि ाया शरन तुमहारे.",
-      "रकशा कर हरि करुना धारे, लगे न माया बान ||.4. ||."
+      "कहे टेऊँ कर जोड़ पुकारे, मैं भी आया शरण तुम्हारे ।",
+      "रक्षा कर हरि करुणा धारे, लगे न माया बान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Maayaa Se Bhagvaan Bachaao, Maayaa Se Bhagvaan (Tek)."
-    ],
-    [
       "Prabhu Teri Prabal Maayaa, Mohe Jisne Sur Narraayaa.",
-      "Arjun Jaise Bhakt Bhulaayaa, Aur Bare Balvaan ||.1. ||."
+      "Arjun Jaise Bhakt Bhulaayaa, Aur Bare Balvaan || 1 ||"
     ],
     [
       "Maayaa Bhaari Jaal Bichhaayaa, Jaamen Saare Jiv Phasaayaa.",
-      "Naarad Kaa Mukh Vikat Banaayaa, Mohe Bahu Vidvaan || 2 ||."
+      "Naarad Kaa Mukh Vikat Banaayaa, Mohe Bahu Vidvaan || 2 ||"
     ],
     [
       "Teri Sharan Hari Jo Aave, Maayaa Se Soi Tar Jaave.",
-      "Kabhun Tisko Naahin Bhulaave, Gitaa Kaa Pramaan ||.3 ||."
+      "Kabhun Tisko Naahin Bhulaave, Gitaa Kaa Pramaan || 3 ||"
     ],
     [
       "Kahe Teun Kar Jor Pukaare, Main Bhi Aayaa Sharan Tumhaare.",
-      "Rakshaa Kar Hari Karunaa Dhaare, Lage N Maayaa Baan ||.4. ||."
+      "Rakshaa Kar Hari Karunaa Dhaare, Lage Na Maayaa Baan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 54 || 116. ||.",
+    "माया से भगवान बचाओ, माया से भगवान",
     "Maayaa Se Bhagvaan Bachaao, Maayaa Se Bhagvaan",
-    "माया से भगवान बचाो, माया से भगवान"
+    "राग आसा भजन 54",
+    "Raag Aasaa Bhajan 54"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 116,
+  "displayOrder": 54,
+  "overallOrder": 116,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 84",
+  "updatedAt": "2026-10-26"
 }

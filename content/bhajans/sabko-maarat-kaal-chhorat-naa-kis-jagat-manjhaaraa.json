@@ -2,70 +2,130 @@
   "id": "bhajan-0435",
   "slug": "sabko-maarat-kaal-chhorat-naa-kis-jagat-manjhaaraa",
   "categoryId": "raag-tilang",
-  "title": "सबको मारत काल, चहोरत ना किस जगत मनझारा",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सबको मारत काल, छोड़त ना किस जगत मंझारा",
   "romanTitle": "Sabko Maarat Kaal, Chhorat Naa Kis Jagat Manjhaaraa",
   "firstLine": "Sabko Maarat Kaal, Chhorat Naa Kis Jagat Manjhaaraa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ७२ ।। ४३६।।",
+  "tek": [
+    "सबको मारत काल, छोड़त ना किस जगत मंझारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sabko Maarat Kaal, Chhorat Naa Kis Jagat Manjhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बीसों वर ब्रह्मा से लीना, वर को पाय गर्व जिहें कीना ।",
+        "ऐसा वीर विशाल, हिरणाकशप भी तांसे हारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bison Var Brahmaa Se Linaa, Var Ko Paay Garv Jihen Kinaa.",
+        "Aisaa Vir Vishaal, Hirnaakshap Bhi Taanse Haaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बीस भुजायें बीसहु नैना, दश शिर जांको बहुती सेना ।",
+        "बांधा काल कराल, तिस रावण को भी संहारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bis Bhujaayen Bishu Nainaa, Dash Shir Jaanko Bahuti Senaa.",
+        "Baandhaa Kaal Karaal, Tis Raavan Ko Bhi Sanhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देह कठोर सुमेरु समाना, जांके सम नहिं को बलवाना ।",
+        "भारी जिसका भाल, ऐसा कुम्भकर्ण भी मारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Deh Kathor Sumeru Samaanaa, Jaanke Sam Nahin Ko Balvaanaa.",
+        "Bhaari Jiskaa Bhaal, Aisaa Kumbhakarn Bhi Maaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले काल कटारी, मार गिरावत सृष्टी सारी ।",
+        "तांते सुमर अकाल, जांते भागे काल करारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Kaal Kataari, Maar Giraavat Srishti Saari.",
+        "Taante Sumar Akaal, Jaante Bhaage Kaal Karaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्र्द्"
+      ],
+      "romanLines": [
+        "Trd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सबको मारत काल, चहोरत ना किस जगत मनझारा (टेक)."
+      "बीसों वर ब्रह्मा से लीना, वर को पाय गर्व जिहें कीना ।",
+      "ऐसा वीर विशाल, हिरणाकशप भी तांसे हारा ॥१ ॥"
     ],
     [
-      "बिसोन वर बरहम से लिना, वर को पाय गरव जिहेन किना.",
-      "ैसा विर विशाल, हिरनाकशप भि तानसे हारा || 1 ||."
+      "बीस भुजायें बीसहु नैना, दश शिर जांको बहुती सेना ।",
+      "बांधा काल कराल, तिस रावण को भी संहारा ॥२ ॥"
     ],
     [
-      "बिस भुजायेन बिशु नैना, दश शिर जानको बहुति सेना.",
-      "बानधा काल कराल, तिस रावन को भि सनहारा || 2 ||."
+      "देह कठोर सुमेरु समाना, जांके सम नहिं को बलवाना ।",
+      "भारी जिसका भाल, ऐसा कुम्भकर्ण भी मारा ॥३ ॥"
     ],
     [
-      "देह कथोर सुमेरु समाना, जानके सम नहिन को बलवाना.",
-      "भारि जिसका भाल, ैसा कुमभकरन भि मारा || 3 ||."
+      "कहे टेऊँ ले काल कटारी, मार गिरावत सृष्टी सारी ।",
+      "तांते सुमर अकाल, जांते भागे काल करारा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ ले काल कतारि, मार गिरावत सरिशति सारि.",
-      "तानते सुमर अकाल, जानते भागे काल करारा ||.4. ||."
-    ],
-    [
-      "तरद"
+      "त्र्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Sabko Maarat Kaal, Chhorat Naa Kis Jagat Manjhaaraa (Tek)."
-    ],
-    [
-      "Bison Var Brahma Se Linaa, Var Ko Paay Garv Jihen Kinaa.",
-      "Aisaa Vir Vishaal, Hirnaakshap Bhi Taanse Haaraa || 1 ||."
+      "Bison Var Brahmaa Se Linaa, Var Ko Paay Garv Jihen Kinaa.",
+      "Aisaa Vir Vishaal, Hirnaakshap Bhi Taanse Haaraa || 1 ||"
     ],
     [
       "Bis Bhujaayen Bishu Nainaa, Dash Shir Jaanko Bahuti Senaa.",
-      "Baandhaa Kaal Karaal, Tis Raavan Ko Bhi Sanhaaraa || 2 ||."
+      "Baandhaa Kaal Karaal, Tis Raavan Ko Bhi Sanhaaraa || 2 ||"
     ],
     [
       "Deh Kathor Sumeru Samaanaa, Jaanke Sam Nahin Ko Balvaanaa.",
-      "Bhaari Jiskaa Bhaal, Aisaa Kumbhakarn Bhi Maaraa || 3 ||."
+      "Bhaari Jiskaa Bhaal, Aisaa Kumbhakarn Bhi Maaraa || 3 ||"
     ],
     [
       "Kahe Teun Le Kaal Kataari, Maar Giraavat Srishti Saari.",
-      "Taante Sumar Akaal, Jaante Bhaage Kaal Karaaraa ||.4. ||."
+      "Taante Sumar Akaal, Jaante Bhaage Kaal Karaaraa || 4 ||"
     ],
     [
       "Trd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 72 || 436 ||",
+    "सबको मारत काल, छोड़त ना किस जगत मंझारा",
     "Sabko Maarat Kaal, Chhorat Naa Kis Jagat Manjhaaraa",
-    "सबको मारत काल, चहोरत ना किस जगत मनझारा"
+    "राग तिलंग भजन 72",
+    "Raag Tilang Bhajan 72"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 435,
+  "displayOrder": 72,
+  "overallOrder": 435,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 247",
+  "updatedAt": "2026-10-26"
 }

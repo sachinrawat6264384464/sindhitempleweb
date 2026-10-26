@@ -2,64 +2,130 @@
   "id": "bhajan-0016",
   "slug": "amrit-vele-uth-jijnyaasu-pher-shvaas-ki-maalaa-re",
   "categoryId": "raag-raamkali",
-  "title": "अमृत वेले ुथ जिजनयासु, फेर शवास कि माला रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "अमृत वेले ऊठ जिज्ञासू, फेर श्वास की माला रे",
   "romanTitle": "Amrit Vele Uth Jijnyaasu, Pher Shvaas Ki Maalaa Re",
   "firstLine": "Amrit Vele Uth Jijnyaasu, Pher Shvaas Ki Maalaa Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। ४ ।। १६॥।",
+  "tek": [
+    "अमृत वेले ऊठ जिज्ञासू, फेर श्वास की माला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amrit Vele Uth Jijnyaasu, Pher Shvaas Ki Maalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु के मूरत का मन में धरिये ध्यान विशाला रे ।",
+        "गुरु मन्त्र में सुरति समाओ जग से होय निराला रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ke Murat Kaa Man Men Dhariye Dhyaan Vishaalaa Re.",
+        "Guru Mantr Men Surti Samaao Jag Se Hoy Niraalaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाभ कमल से प्राण उठाये दसम द्वार कर आला रे ।",
+        "नाद अनाहत बाजत ताहीं सुनिये शब्द रसाला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naabh Kamal Se Praan Uthaaye Dasam Dvaar Kar Aalaa Re.",
+        "Naad Anaahat Baajat Taahin Suniye Shabd Rasaalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाड़ि कुण्डलिनी को जागाए खोलो अनुभव ताला रे ।",
+        "कोटि रवी शशि आदि ज्योति का तहें प्रचण्ड उजियाला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naari Kundalini Ko Jaagaae Kholo Anubhav Taalaa Re.",
+        "Koti Ravi Shashi Aadi Jyoti Kaa Tahen Prachand Ujiyaalaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पाप ताप नहिं हर्ष शोक पुनि जहाँ न काल कराला रे ।",
+        "कहे टेऊँ तहँ चलकर देखो आत्म पुरुष अकाला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paap Taap Nahin Harsh Shok Puni Jahaan Na Kaal Karaalaa Re.",
+        "Kahe Teun Tahan Chalkar Dekho Aatm Purush Akaalaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "[9]"
+      ],
+      "romanLines": [
+        "[9]"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमृत वेले ुथ जिजनयासु, फेर शवास कि माला रे (टेक)."
+      "सद्‌गुरु के मूरत का मन में धरिये ध्यान विशाला रे ।",
+      "गुरु मन्त्र में सुरति समाओ जग से होय निराला रे ॥१ ॥"
     ],
     [
-      "सद्गुरु के मुरत का मन मेन धरिये ध्यान विशाला रे.",
-      "गुरु मनतर मेन सुरति समाो जग से होय निराला रे || 1 ||."
+      "नाभ कमल से प्राण उठाये दसम द्वार कर आला रे ।",
+      "नाद अनाहत बाजत ताहीं सुनिये शब्द रसाला रे ॥२ ॥"
     ],
     [
-      "नाभ कमल से परान ुथाये दसम दवार कर ाला रे.",
-      "नाद नाहत बाजत ताहिन सुनिये शबद रसाला रे || 2 ||."
+      "नाड़ि कुण्डलिनी को जागाए खोलो अनुभव ताला रे ।",
+      "कोटि रवी शशि आदि ज्योति का तहें प्रचण्ड उजियाला रे ॥३ ॥"
     ],
     [
-      "नारि कुनदलिनि को जागाे खोलो नुभव ताला रे.",
-      "कोति रवि शशि ादि जयोति का तहेन परचनद ुजियाला रे || 3 ||"
+      "पाप ताप नहिं हर्ष शोक पुनि जहाँ न काल कराला रे ।",
+      "कहे टेऊँ तहँ चलकर देखो आत्म पुरुष अकाला रे ॥४ ॥"
     ],
     [
-      "पाप ताप नहिन हरश शोक पुनि जहान न काल कराला रे.",
-      "कहे तेऊँ तहन चलकर देखो ातम पुरुश काला रे || 4 ||."
+      "[9]"
     ]
   ],
   "romanLyrics": [
     [
-      "Amrit Vele Uth Jijnyaasu, Pher Shvaas Ki Maalaa Re (Tek)."
-    ],
-    [
       "Sad‌Guru Ke Murat Kaa Man Men Dhariye Dhyaan Vishaalaa Re.",
-      "Guru Mantr Men Surti Samaao Jag Se Hoy Niraalaa Re || 1 ||."
+      "Guru Mantr Men Surti Samaao Jag Se Hoy Niraalaa Re || 1 ||"
     ],
     [
       "Naabh Kamal Se Praan Uthaaye Dasam Dvaar Kar Aalaa Re.",
-      "Naad Anaahat Baajat Taahin Suniye Shabd Rasaalaa Re || 2 ||."
+      "Naad Anaahat Baajat Taahin Suniye Shabd Rasaalaa Re || 2 ||"
     ],
     [
       "Naari Kundalini Ko Jaagaae Kholo Anubhav Taalaa Re.",
       "Koti Ravi Shashi Aadi Jyoti Kaa Tahen Prachand Ujiyaalaa Re || 3 ||"
     ],
     [
-      "Paap Taap Nahin Harsh Shok Puni Jahaan N Kaal Karaalaa Re.",
-      "Kahe Teun Tahan Chalkar Dekho Aatm Purush Akaalaa Re || 4 ||."
+      "Paap Taap Nahin Harsh Shok Puni Jahaan Na Kaal Karaalaa Re.",
+      "Kahe Teun Tahan Chalkar Dekho Aatm Purush Akaalaa Re || 4 ||"
+    ],
+    [
+      "[9]"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Raamkali Bhajan || 4 || 16 ||.",
+    "अमृत वेले ऊठ जिज्ञासू, फेर श्वास की माला रे",
     "Amrit Vele Uth Jijnyaasu, Pher Shvaas Ki Maalaa Re",
-    "अमृत वेले ुथ जिजनयासु, फेर शवास कि माला रे"
+    "राग रामकली भजन 4",
+    "Raag Raamkali Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 16,
+  "displayOrder": 4,
+  "overallOrder": 16,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 33",
+  "updatedAt": "2026-10-26"
 }

@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0736",
+  "id": "bhajan-0734",
   "slug": "yahi-japan-ki-veraa-tum-raam-japo-man-meraa",
   "categoryId": "raag-pilaa",
-  "title": "यहि जपन कि वेरा, तुम राम जपो मन मेरा",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "यही जपन की वेरा, तुम राम जपो मन मेरा",
   "romanTitle": "Yahi Japan Ki Veraa, Tum Raam Japo Man Meraa",
   "firstLine": "Yahi Japan Ki Veraa, Tum Raam Japo Man Meraa (Tek).",
+  "heading": "।। राग पीला भजन ।। १४ ।। ७३६।॥।",
+  "tek": [
+    "यही जपन की वेरा, तुम राम जपो मन मेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yahi Japan Ki Veraa, Tum Raam Japo Man Meraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "निशदिन गोविन्द के गुन गावो, जीवन मुक्ती जग में पावो ।",
+        "काल करे नहिं घेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nishdin Govind Ke Gun Gaavo, Jivan Mukti Jag Men Paavo.",
+        "Kaal Kare Nahin Gheraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष जन्म भया प्रकाशा, अबहीं करलो ब्रह्म निवासा ।",
+        "होगा फेर अन्धेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Janm Bhayaa Prakaashaa, Abhin Karlo Brahm Nivaasaa.",
+        "Hogaa Pher Andheraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मात पिता सुत त्रिया भाई, जिनहों से तुम प्रीति लगाई ।",
+        "होय संगी नहिं तेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Triyaa Bhaai, Jinhon Se Tum Priti Lagaai.",
+        "Hoy Sangi Nahin Teraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ करो सुजागी, भजन करे नित हो बड़भागी ।",
+        "पाओ निर्भय डेरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Karo Sujaagi, Bhajan Kare Nit Ho Barbhaagi.",
+        "Paao Nirbhay Deraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यहि जपन कि वेरा, तुम राम जपो मन मेरा (टेक)."
+      "निशदिन गोविन्द के गुन गावो, जीवन मुक्ती जग में पावो ।",
+      "काल करे नहिं घेरा ॥१ ॥"
     ],
     [
-      "निशदिन गोविंद के गुन गावो, जिवन मुक्ति जग मेन पावो.",
-      "काल करे नहिन घेरा || 1 ||."
+      "मानुष जन्म भया प्रकाशा, अबहीं करलो ब्रह्म निवासा ।",
+      "होगा फेर अन्धेरा ॥२ ॥"
     ],
     [
-      "मानुश जनम भया परकाशा, भिन करलो बरहम निवासा.",
-      "होगा फेर नधेरा ||.2 ||"
+      "मात पिता सुत त्रिया भाई, जिनहों से तुम प्रीति लगाई ।",
+      "होय संगी नहिं तेरा ॥३ ॥"
     ],
     [
-      "मात पिता सुत तरिया भाि, जिनहोन से तुम परिति लगाि.",
-      "होय सनगि नहिन तेरा || 3 ||"
-    ],
-    [
-      "कहता तेऊँ करो सुजागि, भजन करे नित हो बरभागि.",
-      "पाो निरभय देरा || 4. ||."
+      "कहता टेऊँ करो सुजागी, भजन करे नित हो बड़भागी ।",
+      "पाओ निर्भय डेरा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yahi Japan Ki Veraa, Tum Raam Japo Man Meraa (Tek)."
-    ],
-    [
       "Nishdin Govind Ke Gun Gaavo, Jivan Mukti Jag Men Paavo.",
-      "Kaal Kare Nahin Gheraa || 1 ||."
+      "Kaal Kare Nahin Gheraa || 1 ||"
     ],
     [
       "Maanush Janm Bhayaa Prakaashaa, Abhin Karlo Brahm Nivaasaa.",
-      "Hogaa Pher Andheraa ||.2 ||"
+      "Hogaa Pher Andheraa || 2 ||"
     ],
     [
       "Maat Pitaa Sut Triyaa Bhaai, Jinhon Se Tum Priti Lagaai.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahtaa Teun Karo Sujaagi, Bhajan Kare Nit Ho Barbhaagi.",
-      "Paao Nirbhay Deraa || 4. ||."
+      "Paao Nirbhay Deraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 14 || 736. ||.",
+    "यही जपन की वेरा, तुम राम जपो मन मेरा",
     "Yahi Japan Ki Veraa, Tum Raam Japo Man Meraa",
-    "यहि जपन कि वेरा, तुम राम जपो मन मेरा"
+    "राग पीला भजन 13",
+    "Raag Pilaa Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 736,
+  "displayOrder": 13,
+  "overallOrder": 734,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 390",
+  "updatedAt": "2026-10-26"
 }

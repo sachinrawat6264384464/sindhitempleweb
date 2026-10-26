@@ -2,46 +2,104 @@
   "id": "bhajan-0134",
   "slug": "is-jag-men-praani-re-tum-do-din-hai-mahimaan",
   "categoryId": "raag-aasaa",
-  "title": "िस जग मेन परानि रे, तुम दो दीन है महिमान",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "इस जग में प्रानी रे, तुम दो दिन है महिमान",
   "romanTitle": "Is Jag Men Praani Re, Tum Do Din Hai Mahimaan",
-  "firstLine": "Is Jag Men Praani Re, Tum Do Din Hai Mahimaan. Ik Din Jaanaa Hai Duniyaa Se, Nishchay Karke Jaan (Tek).",
+  "firstLine": "Is Jag Men Praani Re, Tum Do Din Hai Mahimaan.",
+  "heading": "।। राग आसा भजन ।। ७२ ।। १३४।॥।",
+  "tek": [
+    "इस जग में प्रानी रे, तुम दो दिन है महिमान ।",
+    "इक दिन जाना है दुनिया से, निश्चय करके जान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Is Jag Men Praani Re, Tum Do Din Hai Mahimaan.",
+    "Ik Din Jaanaa Hai Duniyaa Se, Nishchay Karke Jaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह दुनिया है मुसाफिरखाना , इसमें किसका नाहिं ठिकाना रे ।",
+        "चल चल गये पुनि चल चल जाते, रहे न को इन्सान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Duniyaa Hai Musaaphirkhaanaa, Ismen Kiskaa Naahin Thikaanaa Re.",
+        "Chal Chal Gaye Puni Chal Chal Jaate, Rahe Na Ko Insaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नदी नाव का यह जग मेला, जान मदारी का यह खेला रे ।",
+        "आया किनारा टूटा तमाशा, करे न को पहिचान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nadi Naav Kaa Yah Jag Melaa, Jaan Madaari Kaa Yah Khelaa Re.",
+        "Aayaa Kinaaraa Tutaa Tamaashaa, Kare Na Ko Pahichaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "एक पेड़ पै पंछी आके, रात को बैठे रिमझिम लाके रे ।",
+        "भया सवेरा सब उड़ जावे, त्यों जग का प्रमान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ek Per Pai Panchhi Aake, Raat Ko Baithe Rimjhim Laake Re.",
+        "Bhayaa Saveraa Sab Ur Jaave, Tyon Jag Kaa Pramaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "इस जग से ना नेह लगाओ, छोड़ो ममता हरि गुण गाओ रे ।",
+        "कहे टेऊँ है साचा साथी, तेरा इक भगवान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Is Jag Se Naa Neh Lagaao, Chhoro Mamtaa Hari Gun Gaao Re.",
+        "Kahe Teun Hai Saachaa Saathi, Teraa Ik Bhagvaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ठ"
+      ],
+      "romanLines": [
+        "Thth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िस जग मेन परानि रे, तुम दो दीन है महिमान.",
-      "िक दीन जाना है दुनिया से, निशचय करके जान (टेक)."
+      "यह दुनिया है मुसाफिरखाना , इसमें किसका नाहिं ठिकाना रे ।",
+      "चल चल गये पुनि चल चल जाते, रहे न को इन्सान ॥१ ॥"
     ],
     [
-      "यह दुनिया है मुसाफिरखाना, िसमेन किसका नाहिन थिकाना रे.",
-      "चल चल गये पुनि चल चल जाते, रहे न को िनसान || $."
+      "नदी नाव का यह जग मेला, जान मदारी का यह खेला रे ।",
+      "आया किनारा टूटा तमाशा, करे न को पहिचान ॥२ ॥"
     ],
     [
-      "नदि नाव का यह जग मेला, जान मदारि का यह खेला रे.",
-      "ाया किनारा तुता तमाशा, करे न को पहिचान ||.2 ||"
+      "एक पेड़ पै पंछी आके, रात को बैठे रिमझिम लाके रे ।",
+      "भया सवेरा सब उड़ जावे, त्यों जग का प्रमान ॥३ ॥"
     ],
     [
-      "ेक पेर पै पनचहि ाके, रात को बैथे रिमझिम लाके रे.",
-      "भया सवेरा सब ुर जावे, तयोन जग का परमान || 3 ||"
+      "इस जग से ना नेह लगाओ, छोड़ो ममता हरि गुण गाओ रे ।",
+      "कहे टेऊँ है साचा साथी, तेरा इक भगवान ॥४ ॥"
     ],
     [
-      "िस जग से ना नेह लगाो, चहोरो ममता हरि गुन गाो रे.",
-      "कहे तेऊँ है साचा साथि, तेरा िक भगवान ||.4 ||"
-    ],
-    [
-      "थथ"
+      "ठ्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Is Jag Men Praani Re, Tum Do Din Hai Mahimaan.",
-      "Ik Din Jaanaa Hai Duniyaa Se, Nishchay Karke Jaan (Tek)."
-    ],
-    [
       "Yah Duniyaa Hai Musaaphirkhaanaa, Ismen Kiskaa Naahin Thikaanaa Re.",
-      "Chal Chal Gaye Puni Chal Chal Jaate, Rahe N Ko Insaan || $."
+      "Chal Chal Gaye Puni Chal Chal Jaate, Rahe Na Ko Insaan || 1 ||"
     ],
     [
       "Nadi Naav Kaa Yah Jag Melaa, Jaan Madaari Kaa Yah Khelaa Re.",
-      "Aayaa Kinaaraa Tutaa Tamaashaa, Kare N Ko Pahichaan ||.2 ||"
+      "Aayaa Kinaaraa Tutaa Tamaashaa, Kare Na Ko Pahichaan || 2 ||"
     ],
     [
       "Ek Per Pai Panchhi Aake, Raat Ko Baithe Rimjhim Laake Re.",
@@ -49,25 +107,27 @@
     ],
     [
       "Is Jag Se Naa Neh Lagaao, Chhoro Mamtaa Hari Gun Gaao Re.",
-      "Kahe Teun Hai Saachaa Saathi, Teraa Ik Bhagvaan ||.4 ||"
+      "Kahe Teun Hai Saachaa Saathi, Teraa Ik Bhagvaan || 4 ||"
     ],
     [
       "Thth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 72 || 134. ||.",
+    "इस जग में प्रानी रे, तुम दो दिन है महिमान",
     "Is Jag Men Praani Re, Tum Do Din Hai Mahimaan",
-    "िस जग मेन परानि रे, तुम दो दीन है महिमान"
+    "राग आसा भजन 72",
+    "Raag Aasaa Bhajan 72"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 134,
+  "displayOrder": 72,
+  "overallOrder": 134,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 93",
+  "updatedAt": "2026-10-26"
 }

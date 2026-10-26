@@ -1,65 +1,99 @@
 {
-  "id": "bhajan-0698",
+  "id": "bhajan-0696",
   "slug": "jab-gobind-ke-gun-gaaoge-tab-bhagvat-ke-man-bhaaoge",
   "categoryId": "raag-pahaari",
-  "title": "जब गोबिनद के गुन गाोगे, तब भगवत के मन भाोगे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "जब गोबिन्द के गुन गाओगे, तब भगवत के मन भाओगे",
   "romanTitle": "Jab Gobind Ke Gun Gaaoge, Tab Bhagvat Ke Man Bhaaoge",
-  "firstLine": "Jab Gobind Ke Gun Gaaoge, Tab Bhagvat Ke Man Bhaaoge. Jab Hriday Hari Basaaoge, Tab Jam Ki Chot N Khaaoge (Tek).",
+  "firstLine": "Jab Gobind Ke Gun Gaaoge, Tab Bhagvat Ke Man Bhaaoge.",
+  "heading": "।। राग पहाड़ी भजन ।। ४९ ।। ६९७।।",
+  "tek": [
+    "जब गोबिन्द के गुन गाओगे, तब भगवत के मन भाओगे ।",
+    "जब हृदय हरी बसाओगे, तब जम की चोट न खाओगे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jab Gobind Ke Gun Gaaoge, Tab Bhagvat Ke Man Bhaaoge.",
+    "Jab Hriday Hari Basaaoge, Tab Jam Ki Chot Na Khaaoge (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो राम नाम गुन गाता है, सो भव सागर तर जाता है ।",
+        "जब लगन हरी से लाओगे, तब जीवन सफल बना ओगे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Raam Naam Gun Gaataa Hai, So Bhav Saagar Tar Jaataa Hai.",
+        "Jab Lagan Hari Se Laaoge, Tab Jivan Saphal Banaa Oge || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जो अहनिश राम को रटता है, वो जम की फासी कटता है ।",
+        "जब हरि में सुरति समाओगे, तब सकले पाप मिटा ओगे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jo Ahnish Raam Ko Rattaa Hai, Vo Jam Ki Phaasi Kattaa Hai.",
+        "Jab Hari Men Surti Samaaoge, Tab Sakle Paap Mitaa Oge || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ जो हरि जपता है, सो तीन ताप नहिं तपता है ।",
+        "जब परमेश्वर को ध्याओगे, तब सर्व सुखों को पाओगे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Hari Japtaa Hai, So Tin Taap Nahin Taptaa Hai.",
+        "Jab Parmeshvar Ko Dhyaaoge, Tab Sarv Sukhon Ko Paaoge || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब गोबिनद के गुन गाोगे, तब भगवत के मन भाोगे.",
-      "जब हरिदय हरि बसाोगे, तब जम कि चोत न खाोगे (टेक)."
+      "जो राम नाम गुन गाता है, सो भव सागर तर जाता है ।",
+      "जब लगन हरी से लाओगे, तब जीवन सफल बना ओगे ॥१ ॥"
     ],
     [
-      "जो राम नाम गुन गाता है, सो भव सागर तर जाता है.",
-      "जब लगन हरि से लाोगे, तब जिवन सफल बना ोगे || 1 ||"
+      "जो अहनिश राम को रटता है, वो जम की फासी कटता है ।",
+      "जब हरि में सुरति समाओगे, तब सकले पाप मिटा ओगे ॥२ ॥"
     ],
     [
-      "जो हनिश राम को रतता है, वो जम कि फासि कतता है.",
-      "जब हरि मेन सुरति समाोगे, तब सकले पाप मिता ोगे || 2 ||."
-    ],
-    [
-      "कहे तेऊँ जो हरि जपता है, सो तिन ताप नहिन तपता है.",
-      "जब परमेशवर को धयाोगे, तब सर्व सुखोन को पाोगे || 3 ||."
-    ],
-    [
-      "यह"
+      "कहे टेऊँ जो हरि जपता है, सो तीन ताप नहिं तपता है ।",
+      "जब परमेश्वर को ध्याओगे, तब सर्व सुखों को पाओगे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jab Gobind Ke Gun Gaaoge, Tab Bhagvat Ke Man Bhaaoge.",
-      "Jab Hriday Hari Basaaoge, Tab Jam Ki Chot N Khaaoge (Tek)."
-    ],
     [
       "Jo Raam Naam Gun Gaataa Hai, So Bhav Saagar Tar Jaataa Hai.",
       "Jab Lagan Hari Se Laaoge, Tab Jivan Saphal Banaa Oge || 1 ||"
     ],
     [
       "Jo Ahnish Raam Ko Rattaa Hai, Vo Jam Ki Phaasi Kattaa Hai.",
-      "Jab Hari Men Surti Samaaoge, Tab Sakle Paap Mitaa Oge || 2 ||."
+      "Jab Hari Men Surti Samaaoge, Tab Sakle Paap Mitaa Oge || 2 ||"
     ],
     [
       "Kahe Teun Jo Hari Japtaa Hai, So Tin Taap Nahin Taptaa Hai.",
-      "Jab Parmeshvar Ko Dhyaaoge, Tab Sarv Sukhon Ko Paaoge || 3 ||."
-    ],
-    [
-      "Yah"
+      "Jab Parmeshvar Ko Dhyaaoge, Tab Sarv Sukhon Ko Paaoge || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 49 || 697 ||",
+    "जब गोबिन्द के गुन गाओगे, तब भगवत के मन भाओगे",
     "Jab Gobind Ke Gun Gaaoge, Tab Bhagvat Ke Man Bhaaoge",
-    "जब गोबिनद के गुन गाोगे, तब भगवत के मन भाोगे"
+    "राग पहाड़ी भजन 49",
+    "Raag Pahaari Bhajan 49"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 698,
+  "displayOrder": 49,
+  "overallOrder": 696,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 370",
+  "updatedAt": "2026-10-26"
 }

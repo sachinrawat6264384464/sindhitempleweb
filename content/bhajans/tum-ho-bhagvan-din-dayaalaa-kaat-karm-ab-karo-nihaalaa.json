@@ -2,36 +2,97 @@
   "id": "bhajan-0377",
   "slug": "tum-ho-bhagvan-din-dayaalaa-kaat-karm-ab-karo-nihaalaa",
   "categoryId": "raag-tilang",
-  "title": "तुम हो भगवन दीन दयाला, कात करम ब करो निहाला",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "तुम हो भगवन दीन दयाला, काट कर्म अब करो निहाला",
   "romanTitle": "Tum Ho Bhagvan Din Dayaalaa, Kaat Karm Ab Karo Nihaalaa",
   "firstLine": "Tum Ho Bhagvan Din Dayaalaa, Kaat Karm Ab Karo Nihaalaa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १४ ।। ३७८।॥।",
+  "tek": [
+    "तुम हो भगवन दीन दयाला, काट कर्म अब करो निहाला ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Ho Bhagvan Din Dayaalaa, Kaat Karm Ab Karo Nihaalaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साईना तारा सधन कसाई, नामे की तुम धेनु जिवाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saainaa Taaraa Sadhan Kasaai, Naame Ki Tum Dhenu Jivaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दान द्रोपदा क्या तुझ दीना, शरम सभा में तुम रख लीना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Daan Dropdaa Kyaa Tujh Dinaa, Sharam Sabhaa Men Tum Rakh Linaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गनिका अजामिल पाप कमाया , कर्म कटे तिहं मुक्ति कराया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ganikaa Ajaamil Paap Kamaayaa, Karm Kate Tihan Mukti Karaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भेट सुधामा क्या ले आया, काट कंगाली महल बनाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhet Sudhaamaa Kyaa Le Aayaa, Kaat Kangaali Mahal Banaayaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "आदि जुगां जुग आकर स्वामी, तारे पापी क्रोधी कामी ॥५ ॥"
+      ],
+      "romanLines": [
+        "Aadi Jugaan Jug Aakar Svaami, Taare Paapi Krodhi Kaami || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "मेरी भी हरि विनय सुनीजे, कहे टेऊँ निज दर्शन दीजे ॥६ ॥"
+      ],
+      "romanLines": [
+        "Meri Bhi Hari Vinay Sunije, Kahe Teun Nij Darshan Dije || 6 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम हो भगवन दीन दयाला, कात करम ब करो निहाला (टेक)."
+      "साईना तारा सधन कसाई, नामे की तुम धेनु जिवाई ॥१ ॥"
     ],
     [
-      "सािना तारा सधन कसाि, नामे कि तुम धेनु जिवाि || 1 ||."
+      "दान द्रोपदा क्या तुझ दीना, शरम सभा में तुम रख लीना ॥२ ॥"
     ],
     [
-      "दान दरोपदा कया तुझ दिना, शरम सभा मेन तुम रख लिना || 2 ||"
+      "गनिका अजामिल पाप कमाया , कर्म कटे तिहं मुक्ति कराया ॥३ ॥"
     ],
     [
-      "गनिका जामिल पाप कमाया, करम कते तिहन मुक्ति कराया || 3 ||"
+      "भेट सुधामा क्या ले आया, काट कंगाली महल बनाया ॥४ ॥"
     ],
     [
-      "भेत सुधामा कया ले ाया, कात कनगालि महल बनाया ||.4. ||.",
-      "ादि जुगान जुग ाकर स्वामी, तारे पापि करोधि कामि || 5 ||"
+      "आदि जुगां जुग आकर स्वामी, तारे पापी क्रोधी कामी ॥५ ॥"
     ],
     [
-      "मेरि भि हरि विनय सुनिजे, कहे तेऊँ निज दरशन दिजे || 6 ||"
+      "मेरी भी हरि विनय सुनीजे, कहे टेऊँ निज दर्शन दीजे ॥६ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Ho Bhagvan Din Dayaalaa, Kaat Karm Ab Karo Nihaalaa (Tek)."
-    ],
-    [
-      "Saainaa Taaraa Sadhan Kasaai, Naame Ki Tum Dhenu Jivaai || 1 ||."
+      "Saainaa Taaraa Sadhan Kasaai, Naame Ki Tum Dhenu Jivaai || 1 ||"
     ],
     [
       "Daan Dropdaa Kyaa Tujh Dinaa, Sharam Sabhaa Men Tum Rakh Linaa || 2 ||"
@@ -40,7 +101,9 @@
       "Ganikaa Ajaamil Paap Kamaayaa, Karm Kate Tihan Mukti Karaayaa || 3 ||"
     ],
     [
-      "Bhet Sudhaamaa Kyaa Le Aayaa, Kaat Kangaali Mahal Banaayaa ||.4. ||.",
+      "Bhet Sudhaamaa Kyaa Le Aayaa, Kaat Kangaali Mahal Banaayaa || 4 ||"
+    ],
+    [
       "Aadi Jugaan Jug Aakar Svaami, Taare Paapi Krodhi Kaami || 5 ||"
     ],
     [
@@ -48,18 +111,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 14 || 378. ||.",
+    "तुम हो भगवन दीन दयाला, काट कर्म अब करो निहाला",
     "Tum Ho Bhagvan Din Dayaalaa, Kaat Karm Ab Karo Nihaalaa",
-    "तुम हो भगवन दीन दयाला, कात करम ब करो निहाला"
+    "राग तिलंग भजन 14",
+    "Raag Tilang Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 377,
+  "displayOrder": 14,
+  "overallOrder": 377,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 223",
+  "updatedAt": "2026-10-26"
 }

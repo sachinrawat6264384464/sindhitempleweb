@@ -2,51 +2,94 @@
   "id": "bhajan-0315",
   "slug": "gurumukh-manmukh-donon-kere-lakshan-nyaare-nyaare-hain",
   "categoryId": "raag-zilaa",
-  "title": "गुरुमुख मनमुख दोनोन केरे, लकशन नयारे नयारे हैन",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "गुरुमुख मनमुख दोनों केरे, लक्षण न्यारे न्यारे हैं",
   "romanTitle": "Gurumukh Manmukh Donon Kere, Lakshan Nyaare Nyaare Hain",
   "firstLine": "Gurumukh Manmukh Donon Kere, Lakshan Nyaare Nyaare Hain (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २ ।। ३१५।।",
+  "tek": [
+    "गुरुमुख मनमुख दोनों केरे, लक्षण न्यारे न्यारे हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gurumukh Manmukh Donon Kere, Lakshan Nyaare Nyaare Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरुमुख गुरु संग हरिगुन गाके, मानुष जन्म सुधारे हैं ।",
+        "मनमुख माया का चिन्तन कर, दोनों लोक बिगारे हैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gurumukh Guru Sang Harigun Gaake, Maanush Janm Sudhaare Hain.",
+        "Manmukh Maayaa Kaa Chintan Kar, Donon Lok Bigaare Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरुमुख मन को निर्मल करके, हरि का नाम पुकारे हैं ।",
+        "मनमुख मन मैले से निशदिन, फीके वचन उचारे हैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gurumukh Man Ko Nirmal Karke, Hari Kaa Naam Pukaare Hain.",
+        "Manmukh Man Maile Se Nishdin, Phike Vachan Uchaare Hain || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरुमुख जग से मुक्ता होके, ब्रह्मानन्द गुज़ारे हैं ।",
+        "मनमुख जग बन्धन में बांधा, भोगत कष्ट अपारे हैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gurumukh Jag Se Muktaa Hoke, Brahmaanand Guzaare Hain.",
+        "Manmukh Jag Bandhan Men Baandhaa, Bhogat Kasht Apaare Hain || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरुमुख गुरु की आज्ञा माने, मनमुख मन मति धारे हैं ।",
+        "कहे टेऊँ गुरुमुख का संग कर, जो भव सिन्धु से तारे हैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Gurumukh Guru Ki Aajnyaa Maane, Manmukh Man Mati Dhaare Hain.",
+        "Kahe Teun Gurumukh Kaa Sang Kar, Jo Bhav Sindhu Se Taare Hain || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुमुख मनमुख दोनोन केरे, लकशन नयारे नयारे हैन (टेक)."
+      "गुरुमुख गुरु संग हरिगुन गाके, मानुष जन्म सुधारे हैं ।",
+      "मनमुख माया का चिन्तन कर, दोनों लोक बिगारे हैं ॥१ ॥"
     ],
     [
-      "गुरुमुख गुरु सनग हरिगुन गाके, मानुश जनम सुधारे हैन.",
-      "मनमुख माया का चिनतन कर, दोनोन लोक बिगारे हैन || 1 ||."
+      "गुरुमुख मन को निर्मल करके, हरि का नाम पुकारे हैं ।",
+      "मनमुख मन मैले से निशदिन, फीके वचन उचारे हैं ॥२ ॥"
     ],
     [
-      "गुरुमुख मन को निर्मल करके, हरि का नाम पुकारे हैन.",
-      "मनमुख मन मैले से निशदिन, फिके वचन ुचारे हैन || 2 ||."
+      "गुरुमुख जग से मुक्ता होके, ब्रह्मानन्द गुज़ारे हैं ।",
+      "मनमुख जग बन्धन में बांधा, भोगत कष्ट अपारे हैं ॥३ ॥"
     ],
     [
-      "तह",
-      "गुरुमुख जग से मुकता होके, बरहमाननद गुzारे हैन."
-    ],
-    [
-      "मनमुख जग बनधन मेन बानधा, भोगत कशत पारे हैन || 3 ||."
-    ],
-    [
-      "गुरुमुख गुरु कि ाजनया माने, मनमुख मन मति धारे हैन.",
-      "कहे तेऊँ गुरुमुख का सनग कर, जो भव सिनधु से तारे हैन || 4 ||"
+      "गुरुमुख गुरु की आज्ञा माने, मनमुख मन मति धारे हैं ।",
+      "कहे टेऊँ गुरुमुख का संग कर, जो भव सिन्धु से तारे हैं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gurumukh Manmukh Donon Kere, Lakshan Nyaare Nyaare Hain (Tek)."
-    ],
-    [
       "Gurumukh Guru Sang Harigun Gaake, Maanush Janm Sudhaare Hain.",
-      "Manmukh Maayaa Kaa Chintan Kar, Donon Lok Bigaare Hain || 1 ||."
+      "Manmukh Maayaa Kaa Chintan Kar, Donon Lok Bigaare Hain || 1 ||"
     ],
     [
       "Gurumukh Man Ko Nirmal Karke, Hari Kaa Naam Pukaare Hain.",
-      "Manmukh Man Maile Se Nishdin, Phike Vachan Uchaare Hain || 2 ||."
+      "Manmukh Man Maile Se Nishdin, Phike Vachan Uchaare Hain || 2 ||"
     ],
     [
-      "Tah",
-      "Gurumukh Jag Se Muktaa Hoke, Brahmaanand Guzaare Hain."
-    ],
-    [
-      "Manmukh Jag Bandhan Men Baandhaa, Bhogat Kasht Apaare Hain || 3 ||."
+      "Gurumukh Jag Se Muktaa Hoke, Brahmaanand Guzaare Hain.",
+      "Manmukh Jag Bandhan Men Baandhaa, Bhogat Kasht Apaare Hain || 3 ||"
     ],
     [
       "Gurumukh Guru Ki Aajnyaa Maane, Manmukh Man Mati Dhaare Hain.",
@@ -54,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 2 || 315 ||",
+    "गुरुमुख मनमुख दोनों केरे, लक्षण न्यारे न्यारे हैं",
     "Gurumukh Manmukh Donon Kere, Lakshan Nyaare Nyaare Hain",
-    "गुरुमुख मनमुख दोनोन केरे, लकशन नयारे नयारे हैन"
+    "राग ज़िला भजन 2",
+    "Raag Zilaa Bhajan 2"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "zilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
     "bhajan"
   ],
-  "displayOrder": 315,
+  "displayOrder": 2,
+  "overallOrder": 315,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 189",
+  "updatedAt": "2026-10-26"
 }

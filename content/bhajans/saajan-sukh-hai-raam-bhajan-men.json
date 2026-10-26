@@ -2,44 +2,78 @@
   "id": "bhajan-0383",
   "slug": "saajan-sukh-hai-raam-bhajan-men",
   "categoryId": "raag-tilang",
-  "title": "साजन सुख है राम भजन मेन",
-  "romanTitle": "Saajan Sukh Hai Raam Bhajan Men",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "साजन सुख है राम भजन में,",
+  "romanTitle": "Saajan Sukh Hai Raam Bhajan Men,",
   "firstLine": "Saajan Sukh Hai Raam Bhajan Men,",
+  "heading": "।। राग तिलंग भजन ।। २० ।। ३८४।।",
+  "tek": [
+    "साजन सुख है राम भजन में,",
+    "ना सुख सुन्दर मन्दिरों माहीं, ना सुख त्रिया पुत्रों माहीं ।",
+    "ना सुख माया मित्रों माहीं, ना सुख राग रतन में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saajan Sukh Hai Raam Bhajan Men,",
+    "Naa Sukh Sundar Mandiron Maahin, Naa Sukh Triyaa Putron Maahin.",
+    "Naa Sukh Maayaa Mitron Maahin, Naa Sukh Raag Ratan Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ना सुख शाहन शाही अन्दर, ना सुख मान बड़ाई अन्दर ।",
+        "ना सुख पढ़न पढ़ाई अन्दर, ना सुख देस रटन में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naa Sukh Shaahan Shaahi Andar, Naa Sukh Maan Baraai Andar.",
+        "Naa Sukh Parhan Parhaai Andar, Naa Sukh Des Ratan Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्मा विष्णू शंकर लोका, तामें रंचक सुख न विलोका ।",
+        "तीन भवन में भरिया शोका , ना सुख चिरजीवन में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Vishnu Shankar Lokaa, Taamen Ranchak Sukh Na Vilokaa.",
+        "Tin Bhavan Men Bhariyaa Shokaa, Naa Sukh Chirjivan Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सर्व त्याग गुरु शरणी आवे, मन थिर कर जो हरि गुन गावे ।",
+        "कहे टेऊँ सो सुख को पावे, पढ़ देखो वेदन में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sarv Tyaag Guru Sharni Aave, Man Thir Kar Jo Hari Gun Gaave.",
+        "Kahe Teun So Sukh Ko Paave, Parh Dekho Vedan Men || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साजन सुख है राम भजन मेन,",
-      "ना सुख सुनदर मनदिरोन माहिन, ना सुख तरिया पुतरोन माहिन."
+      "ना सुख शाहन शाही अन्दर, ना सुख मान बड़ाई अन्दर ।",
+      "ना सुख पढ़न पढ़ाई अन्दर, ना सुख देस रटन में ॥१ ॥"
     ],
     [
-      "ना सुख माया मितरोन माहिन, ना सुख राग रतन मेन (टेक)."
+      "ब्रह्मा विष्णू शंकर लोका, तामें रंचक सुख न विलोका ।",
+      "तीन भवन में भरिया शोका , ना सुख चिरजीवन में ॥२ ॥"
     ],
     [
-      "ना सुख शाहन शाहि नदर, ना सुख मान बराि नदर.",
-      "ना सुख परहन परहाि नदर, ना सुख देस रतन मेन || 1 ||."
-    ],
-    [
-      "बरहम विशनु शनकर लोका, तामेन रनचक सुख न विलोका.",
-      "तिन भवन मेन भरिया शोका, ना सुख चिरजिवन मेन || 2 ||"
-    ],
-    [
-      "सर्व तयाग गुरु शरनि ावे, मन थिर कर जो हरि गुन गावे.",
-      "कहे तेऊँ सो सुख को पावे, परह देखो वेदन मेन || 3 ||"
+      "सर्व त्याग गुरु शरणी आवे, मन थिर कर जो हरि गुन गावे ।",
+      "कहे टेऊँ सो सुख को पावे, पढ़ देखो वेदन में ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saajan Sukh Hai Raam Bhajan Men,",
-      "Naa Sukh Sundar Mandiron Maahin, Naa Sukh Triyaa Putron Maahin."
-    ],
-    [
-      "Naa Sukh Maayaa Mitron Maahin, Naa Sukh Raag Ratan Men (Tek)."
-    ],
-    [
       "Naa Sukh Shaahan Shaahi Andar, Naa Sukh Maan Baraai Andar.",
-      "Naa Sukh Parhan Parhaai Andar, Naa Sukh Des Ratan Men || 1 ||."
+      "Naa Sukh Parhan Parhaai Andar, Naa Sukh Des Ratan Men || 1 ||"
     ],
     [
-      "Brahma Vishnu Shankar Lokaa, Taamen Ranchak Sukh N Vilokaa.",
+      "Brahmaa Vishnu Shankar Lokaa, Taamen Ranchak Sukh Na Vilokaa.",
       "Tin Bhavan Men Bhariyaa Shokaa, Naa Sukh Chirjivan Men || 2 ||"
     ],
     [
@@ -48,18 +82,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 20 || 384 ||",
-    "Saajan Sukh Hai Raam Bhajan Men",
-    "साजन सुख है राम भजन मेन"
+    "साजन सुख है राम भजन में,",
+    "Saajan Sukh Hai Raam Bhajan Men,",
+    "राग तिलंग भजन 20",
+    "Raag Tilang Bhajan 20"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 383,
+  "displayOrder": 20,
+  "overallOrder": 383,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 225",
+  "updatedAt": "2026-10-26"
 }

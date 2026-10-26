@@ -2,70 +2,115 @@
   "id": "bhajan-0048",
   "slug": "jaago-jaago-mere-manuvaa-moh-nind-se-jaago-re",
   "categoryId": "raag-prabhaati",
-  "title": "जागो जागो मेरे मनुवा, मोह निनद से जागो रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "जागो जागो मेरे मनुवा, मोह नींद से जागो रे",
   "romanTitle": "Jaago Jaago Mere Manuvaa, Moh Nind Se Jaago Re",
   "firstLine": "Jaago Jaago Mere Manuvaa, Moh Nind Se Jaago Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। १६ ।। ४८ ।।",
+  "tek": [
+    "जागो जागो मेरे मनुवा, मोह नींद से जागो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaago Jaago Mere Manuvaa, Moh Nind Se Jaago Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जमिना नीका फेर जमो ना, मरना नीका फेर मरो ना ।",
+        "फिर फिर जमिना फिर फिर मरना , पुनरुक्ती को त्यागो रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaminaa Nikaa Pher Jamo Naa, Marnaa Nikaa Pher Maro Naa.",
+        "Phir Phir Jaminaa Phir Phir Marnaa, Punrukti Ko Tyaago Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "खाना नीका फिर ना खाना, पीना नीका फिर ना पीना ।",
+        "फिर फिर खाना फिर फिर पीना, पुनरुक्ती नहिं लागो रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Khaanaa Nikaa Phir Naa Khaanaa, Pinaa Nikaa Phir Naa Pinaa.",
+        "Phir Phir Khaanaa Phir Phir Pinaa, Punrukti Nahin Laago Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जागन नीका फिर ना जगना, सोना नीका फिर ना सोना ।",
+        "फिर फिर जगना फिर फिर सोना, पुनरुक्ती से भागों रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaagan Nikaa Phir Naa Jagnaa, Sonaa Nikaa Phir Naa Sonaa.",
+        "Phir Phir Jagnaa Phir Phir Sonaa, Punrukti Se Bhaagon Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जागत को ना तस्कर लूटे, सोते को ही लूटत है ।",
+        "कहे टेऊँ तुम निद्रा त्यागे, हरि चरने अनुरागो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jaagat Ko Naa Taskar Lute, Sote Ko Hi Lutat Hai.",
+        "Kahe Teun Tum Nidraa Tyaage, Hari Charne Anuraago Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जागो जागो मेरे मनुवा, मोह निनद से जागो रे (टेक)."
+      "जमिना नीका फेर जमो ना, मरना नीका फेर मरो ना ।",
+      "फिर फिर जमिना फिर फिर मरना , पुनरुक्ती को त्यागो रे ॥१ ॥"
     ],
     [
-      "जमिना निका फेर जमो ना, मरना निका फेर मरो ना.",
-      "फिर फिर जमिना फिर फिर मरना, पुनरुकति को तयागो रे || 1 ||"
+      "खाना नीका फिर ना खाना, पीना नीका फिर ना पीना ।",
+      "फिर फिर खाना फिर फिर पीना, पुनरुक्ती नहिं लागो रे ॥२ ॥"
     ],
     [
-      "खाना निका फिर ना खाना, पिना निका फिर ना पिना.",
-      "फिर फिर खाना फिर फिर पिना, पुनरुकति नहिन लागो रे || 2 ||."
+      "जागन नीका फिर ना जगना, सोना नीका फिर ना सोना ।",
+      "फिर फिर जगना फिर फिर सोना, पुनरुक्ती से भागों रे ॥३ ॥"
     ],
     [
-      "जागन निका फिर ना जगना, सोना निका फिर ना सोना.",
-      "फिर फिर जगना फिर फिर सोना, पुनरुकति से भागोन रे.3 ||."
-    ],
-    [
-      "जागत को ना तसकर लुते, सोते को हि लुतत है.",
-      "कहे तेऊँ तुम निदरा तयागे, हरि चरने नुरागो रे. ||.4. ||."
-    ],
-    [
-      "द"
+      "जागत को ना तस्कर लूटे, सोते को ही लूटत है ।",
+      "कहे टेऊँ तुम निद्रा त्यागे, हरि चरने अनुरागो रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jaago Jaago Mere Manuvaa, Moh Nind Se Jaago Re (Tek)."
-    ],
     [
       "Jaminaa Nikaa Pher Jamo Naa, Marnaa Nikaa Pher Maro Naa.",
       "Phir Phir Jaminaa Phir Phir Marnaa, Punrukti Ko Tyaago Re || 1 ||"
     ],
     [
       "Khaanaa Nikaa Phir Naa Khaanaa, Pinaa Nikaa Phir Naa Pinaa.",
-      "Phir Phir Khaanaa Phir Phir Pinaa, Punrukti Nahin Laago Re || 2 ||."
+      "Phir Phir Khaanaa Phir Phir Pinaa, Punrukti Nahin Laago Re || 2 ||"
     ],
     [
       "Jaagan Nikaa Phir Naa Jagnaa, Sonaa Nikaa Phir Naa Sonaa.",
-      "Phir Phir Jagnaa Phir Phir Sonaa, Punrukti Se Bhaagon Re.3 ||."
+      "Phir Phir Jagnaa Phir Phir Sonaa, Punrukti Se Bhaagon Re || 3 ||"
     ],
     [
       "Jaagat Ko Naa Taskar Lute, Sote Ko Hi Lutat Hai.",
-      "Kahe Teun Tum Nidraa Tyaage, Hari Charne Anuraago Re. ||.4. ||."
-    ],
-    [
-      "D"
+      "Kahe Teun Tum Nidraa Tyaage, Hari Charne Anuraago Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 16 || 48 ||",
+    "जागो जागो मेरे मनुवा, मोह नींद से जागो रे",
     "Jaago Jaago Mere Manuvaa, Moh Nind Se Jaago Re",
-    "जागो जागो मेरे मनुवा, मोह निनद से जागो रे"
+    "राग प्रभाती भजन 16",
+    "Raag Prabhaati Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 48,
+  "displayOrder": 16,
+  "overallOrder": 48,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 49",
+  "updatedAt": "2026-10-26"
 }

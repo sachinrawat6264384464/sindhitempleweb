@@ -1,0 +1,97 @@
+{
+  "id": "bhajan-0691",
+  "slug": "taaro-he-sadguru-taaro-mujhe-bhav-se-ubaaro-dukh-dard-nivaaro",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "तारो हे सद्गुरु तारो, मुझे भव से उबारो, दुख दर्द निवारो",
+  "romanTitle": "Taaro He Sadguru Taaro, Mujhe Bhav Se Ubaaro, Dukh Dard Nivaaro",
+  "firstLine": "Taaro He Sadguru Taaro, Mujhe Bhav Se Ubaaro, Dukh Dard Nivaaro (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ४४ ।। ६९२।॥।",
+  "tek": [
+    "तारो हे सद्गुरु तारो, मुझे भव से उबारो, दुख दर्द निवारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Taaro He Sadguru Taaro, Mujhe Bhav Se Ubaaro, Dukh Dard Nivaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भव सिन्धु में हम डूब रहे हैं, मच्छ कच्छ के बहु दूख सहे हैं,",
+        "भुजा पकड़ के निकारो, हे सद्‌गुरु तारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhav Sindhu Men Ham Dub Rahe Hain, Machchh Kachchh Ke Bahu Dukh Sahe Hain,",
+        "Bhujaa Pakar Ke Nikaaro, He Sad‌Guru Taaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌गुरु तेरी शरण मैं आया, भव जल धारा मोहि डराया,",
+        "दया की दृष्टी धारो, हे सद्गुरु तारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Teri Sharan Main Aayaa, Bhav Jal Dhaaraa Mohi Daraayaa,",
+        "Dayaa Ki Drishti Dhaaro, He Sadguru Taaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिस पर सद्गुरु दया तुम्हारी, टेऊँ तरहैं सो भव भारी,",
+        "मुझ को नाहिं बिसारो, हे सद्गुरु तारो ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Jis Par Sadguru Dayaa Tumhaari, Teun Tarhain So Bhav Bhaari,",
+        "Mujh Ko Naahin Bisaaro, He Sadguru Taaro || 3E ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "भव सिन्धु में हम डूब रहे हैं, मच्छ कच्छ के बहु दूख सहे हैं,",
+      "भुजा पकड़ के निकारो, हे सद्‌गुरु तारो ॥१ ॥"
+    ],
+    [
+      "सत्‌गुरु तेरी शरण मैं आया, भव जल धारा मोहि डराया,",
+      "दया की दृष्टी धारो, हे सद्गुरु तारो ॥२ ॥"
+    ],
+    [
+      "जिस पर सद्गुरु दया तुम्हारी, टेऊँ तरहैं सो भव भारी,",
+      "मुझ को नाहिं बिसारो, हे सद्गुरु तारो ॥ ।३े ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Bhav Sindhu Men Ham Dub Rahe Hain, Machchh Kachchh Ke Bahu Dukh Sahe Hain,",
+      "Bhujaa Pakar Ke Nikaaro, He Sad‌Guru Taaro || 1 ||"
+    ],
+    [
+      "Sat‌Guru Teri Sharan Main Aayaa, Bhav Jal Dhaaraa Mohi Daraayaa,",
+      "Dayaa Ki Drishti Dhaaro, He Sadguru Taaro || 2 ||"
+    ],
+    [
+      "Jis Par Sadguru Dayaa Tumhaari, Teun Tarhain So Bhav Bhaari,",
+      "Mujh Ko Naahin Bisaaro, He Sadguru Taaro || 3E ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "तारो हे सद्गुरु तारो, मुझे भव से उबारो, दुख दर्द निवारो",
+    "Taaro He Sadguru Taaro, Mujhe Bhav Se Ubaaro, Dukh Dard Nivaaro",
+    "राग पहाड़ी भजन 44",
+    "Raag Pahaari Bhajan 44"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 44,
+  "overallOrder": 691,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 367",
+  "updatedAt": "2026-10-26"
+}

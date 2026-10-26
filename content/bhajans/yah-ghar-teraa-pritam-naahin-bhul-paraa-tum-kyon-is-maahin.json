@@ -1,53 +1,89 @@
 {
-  "id": "bhajan-0901",
+  "id": "bhajan-0899",
   "slug": "yah-ghar-teraa-pritam-naahin-bhul-paraa-tum-kyon-is-maahin",
   "categoryId": "raag-jog",
-  "title": "यह घर तेरा परितम नाहिन, भुल परा तुम कयोन िस माहिन",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "यह घर तेरा प्रीतम नाहीं , भूल पड़ा तुम क्यों इस माहीं",
   "romanTitle": "Yah Ghar Teraa Pritam Naahin, Bhul Paraa Tum Kyon Is Maahin",
   "firstLine": "Yah Ghar Teraa Pritam Naahin, Bhul Paraa Tum Kyon Is Maahin (Tek).",
+  "heading": "।। राग जोग भजन ।। ७१ ।। ९०१ ॥।",
+  "tek": [
+    "यह घर तेरा प्रीतम नाहीं , भूल पड़ा तुम क्यों इस माहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Ghar Teraa Pritam Naahin, Bhul Paraa Tum Kyon Is Maahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इस घर से जाना ही होगा, भावें कितना रहना चाहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Is Ghar Se Jaanaa Hi Hogaa, Bhaaven Kitnaa Rahnaa Chaahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तेरा तो है घर अविनाशी, जन्म मरण का दूख न जाहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Teraa To Hai Ghar Avinaashi, Janm Maran Kaa Dukh Na Jaahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "निज घर चलने की कर तैयारी, भव में भटकत हो तुम काहीं ॥ डे ॥",
+        "कहे टेऊँं चल आतम घर में, पूरे गुरु की पकड़े बाहीं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nij Ghar Chalne Ki Kar Taiyaari, Bhav Men Bhatkat Ho Tum Kaahin || De ||",
+        "Kahe Teunn Chal Aatam Ghar Men, Pure Guru Ki Pakre Baahin || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह घर तेरा परितम नाहिन, भुल परा तुम कयोन िस माहिन (टेक)."
+      "इस घर से जाना ही होगा, भावें कितना रहना चाहीं ॥१ ॥"
     ],
     [
-      "िस घर से जाना हि होगा, भावेन कितना रहना चाहिन || 1 ||"
+      "तेरा तो है घर अविनाशी, जन्म मरण का दूख न जाहीं ॥२ ॥"
     ],
     [
-      "तेरा तो है घर अविनाशी, जनम मरन का दुःख न जाहिन || 2 ||."
-    ],
-    [
-      "निज घर चलने कि कर तैयारि, भव मेन भतकत हो तुम काहिन || दे ||",
-      "कहे तेुनन चल ातम घर मेन, पुरे गुरु कि पकरे बाहिन || 4 ||."
+      "निज घर चलने की कर तैयारी, भव में भटकत हो तुम काहीं ॥ डे ॥",
+      "कहे टेऊँं चल आतम घर में, पूरे गुरु की पकड़े बाहीं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Ghar Teraa Pritam Naahin, Bhul Paraa Tum Kyon Is Maahin (Tek)."
-    ],
-    [
       "Is Ghar Se Jaanaa Hi Hogaa, Bhaaven Kitnaa Rahnaa Chaahin || 1 ||"
     ],
     [
-      "Teraa To Hai Ghar Avinaashi, Janm Maran Kaa Dukh N Jaahin || 2 ||."
+      "Teraa To Hai Ghar Avinaashi, Janm Maran Kaa Dukh Na Jaahin || 2 ||"
     ],
     [
       "Nij Ghar Chalne Ki Kar Taiyaari, Bhav Men Bhatkat Ho Tum Kaahin || De ||",
-      "Kahe Teunn Chal Aatam Ghar Men, Pure Guru Ki Pakre Baahin || 4 ||."
+      "Kahe Teunn Chal Aatam Ghar Men, Pure Guru Ki Pakre Baahin || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 71 || 901 ||.",
+    "यह घर तेरा प्रीतम नाहीं , भूल पड़ा तुम क्यों इस माहीं",
     "Yah Ghar Teraa Pritam Naahin, Bhul Paraa Tum Kyon Is Maahin",
-    "यह घर तेरा परितम नाहिन, भुल परा तुम कयोन िस माहिन"
+    "राग जोग भजन 71",
+    "Raag Jog Bhajan 71"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 901,
+  "displayOrder": 71,
+  "overallOrder": 899,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 474",
+  "updatedAt": "2026-10-26"
 }

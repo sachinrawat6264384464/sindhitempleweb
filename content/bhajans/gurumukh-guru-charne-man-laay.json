@@ -1,69 +1,107 @@
 {
-  "id": "bhajan-0627",
+  "id": "bhajan-0625",
   "slug": "gurumukh-guru-charne-man-laay",
   "categoryId": "raag-kalyaan",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
   "title": "गुरुमुख गुरु चरने मन लाय",
   "romanTitle": "Gurumukh Guru Charne Man Laay",
-  "firstLine": "Gurumukh Guru Charne Man Laay. Lekar Guru Se Naam Hari Kaa, Hriday Maahin Dhyaay (Tek).",
+  "firstLine": "Gurumukh Guru Charne Man Laay.",
+  "heading": "।। राग कल्याण भजन ।। १९ ।। ६२६।॥।",
+  "tek": [
+    "गुरुमुख गुरु चरने मन लाय ।",
+    "लेकर गुरु से नाम हरी का, हृदय माहिं ध्याय ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gurumukh Guru Charne Man Laay.",
+    "Lekar Guru Se Naam Hari Kaa, Hriday Maahin Dhyaay (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "निष्कामी हो सेव कमाओ, निर्मल अपना चीत बनाओ ।",
+        "पापनि मैल मिटाय ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nishkaami Ho Sev Kamaao, Nirmal Apnaa Chit Banaao.",
+        "Paapni Mail Mitaay || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सफल करो ये मानुष चोला, सुमरे गुरु का शब्द अमोला ।",
+        "मन को शान्त बनाय । ॥? ॥२ ॥",
+        "गुरु भक्ती को हृदय धारो, आज्ञा गुरु की कबहुं न टारो ।",
+        "गुरु के गुण नित गाय । ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Saphal Karo Ye Maanush Cholaa, Sumre Guru Kaa Shabd Amolaa.",
+        "Man Ko Shaant Banaay || ? || 2 ||",
+        "Guru Bhakti Ko Hriday Dhaaro, Aajnyaa Guru Ki Kabhun Na Taaro.",
+        "Guru Ke Gun Nit Gaay || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ ले गुरु से ज्ञाना, पाओ आतम सूख महाना ।",
+        "भव सिन्धु से तर जाय ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Guru Se Jnyaanaa, Paao Aatam Sukh Mahaanaa.",
+        "Bhav Sindhu Se Tar Jaay || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुमुख गुरु चरने मन लाय.",
-      "लेकर गुरु से नाम हरि का, हरिदय माहिन धयाय (टेक)."
+      "निष्कामी हो सेव कमाओ, निर्मल अपना चीत बनाओ ।",
+      "पापनि मैल मिटाय ॥१ ॥"
     ],
     [
-      "निशकामि हो सेव कमाो, निर्मल पना चित बनाो.",
-      "पापनि मैल मिताय ||.1 ||."
+      "सफल करो ये मानुष चोला, सुमरे गुरु का शब्द अमोला ।",
+      "मन को शान्त बनाय । ॥? ॥२ ॥",
+      "गुरु भक्ती को हृदय धारो, आज्ञा गुरु की कबहुं न टारो ।",
+      "गुरु के गुण नित गाय । ॥ ।३े ॥"
     ],
     [
-      "सफल करो ये मानुश चोला, सुमरे गुरु का शबद मोला.",
-      "मन को शानत बनाय. ||?2 ||."
-    ],
-    [
-      "गुरु भक्ति को हरिदय धारो, ाजनया गुरु कि कभुन न तारो.",
-      "गुरु के गुन नित गाय. ||.3े ||"
-    ],
-    [
-      "कहे तेऊँ ले गुरु से जनयाना, पाो ातम सुख महाना.",
-      "भव सिनधु से तर जाय ||.4. ||."
+      "कहे टेऊँ ले गुरु से ज्ञाना, पाओ आतम सूख महाना ।",
+      "भव सिन्धु से तर जाय ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gurumukh Guru Charne Man Laay.",
-      "Lekar Guru Se Naam Hari Kaa, Hriday Maahin Dhyaay (Tek)."
-    ],
-    [
       "Nishkaami Ho Sev Kamaao, Nirmal Apnaa Chit Banaao.",
-      "Paapni Mail Mitaay ||.1 ||."
+      "Paapni Mail Mitaay || 1 ||"
     ],
     [
       "Saphal Karo Ye Maanush Cholaa, Sumre Guru Kaa Shabd Amolaa.",
-      "Man Ko Shaant Banaay. ||?2 ||."
-    ],
-    [
-      "Guru Bhakti Ko Hriday Dhaaro, Aajnyaa Guru Ki Kabhun N Taaro.",
-      "Guru Ke Gun Nit Gaay. ||.3E ||"
+      "Man Ko Shaant Banaay || ? || 2 ||",
+      "Guru Bhakti Ko Hriday Dhaaro, Aajnyaa Guru Ki Kabhun Na Taaro.",
+      "Guru Ke Gun Nit Gaay || 3E ||"
     ],
     [
       "Kahe Teun Le Guru Se Jnyaanaa, Paao Aatam Sukh Mahaanaa.",
-      "Bhav Sindhu Se Tar Jaay ||.4. ||."
+      "Bhav Sindhu Se Tar Jaay || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 19 || 626. ||.",
+    "गुरुमुख गुरु चरने मन लाय",
     "Gurumukh Guru Charne Man Laay",
-    "गुरुमुख गुरु चरने मन लाय"
+    "राग कल्याण भजन 19",
+    "Raag Kalyaan Bhajan 19"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "kalyaan",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 627,
+  "displayOrder": 19,
+  "overallOrder": 625,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 335",
+  "updatedAt": "2026-10-26"
 }

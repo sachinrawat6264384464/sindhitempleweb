@@ -2,64 +2,115 @@
   "id": "bhajan-0333",
   "slug": "re-man-pyaaraa-kar-vichaaraa-chhor-jagat-ki-jhuthi-aasaa",
   "categoryId": "raag-zilaa",
-  "title": "रे मन पयारा कर विचारा, चहोर जगत कि झुथि ासा",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "रे मन प्यारा कर वीचारा, छोड़ जगत की झूठी आसा",
   "romanTitle": "Re Man Pyaaraa Kar Vichaaraa, Chhor Jagat Ki Jhuthi Aasaa",
   "firstLine": "Re Man Pyaaraa Kar Vichaaraa, Chhor Jagat Ki Jhuthi Aasaa (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २० ।। ३३३।॥।",
+  "tek": [
+    "रे मन प्यारा कर वीचारा, छोड़ जगत की झूठी आसा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Pyaaraa Kar Vichaaraa, Chhor Jagat Ki Jhuthi Aasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "समल वृक्ष के फल को जोवे, जैसे सूआ मोहित होवे ।",
+        "पुनि पुनि आवत प्रेम बढ़ावत, फूटे फल तब जाय निरासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Samal Vriksh Ke Phal Ko Jove, Jaise Suaa Mohit Hove.",
+        "Puni Puni Aavat Prem Barhaavat, Phute Phal Tab Jaay Niraasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तैसे जग का देख निज़ारा, मोहित होवे मूण्ड गंवारा ।",
+        "खाली जावत बहु पछुतावत, झूठा जग का जान तमाशा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taise Jag Kaa Dekh Nizaaraa, Mohit Hove Mund Ganvaaraa.",
+        "Khaali Jaavat Bahu Pachhutaavat, Jhuthaa Jag Kaa Jaan Tamaashaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मात पिता सुत धन परिवारा, अन्त काल को दे न सहारा ।",
+        "तांको त्यागो अबहीं जागो, प्रभू मिलन की राखो प्यासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Dhan Parivaaraa, Ant Kaal Ko De Na Sahaaraa.",
+        "Taanko Tyaago Abhin Jaago, Prabhu Milan Ki Raakho Pyaasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम श्रद्धा धारे, जाओ पूरण गुरु के द्वारे ।",
+        "आत्म ध्याए शान्ती पाए, अगम देश में करले वासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Shraddhaa Dhaare, Jaao Puran Guru Ke Dvaare.",
+        "Aatm Dhyaae Shaanti Paae, Agam Desh Men Karle Vaasaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन पयारा कर विचारा, चहोर जगत कि झुथि ासा (टेक)."
+      "समल वृक्ष के फल को जोवे, जैसे सूआ मोहित होवे ।",
+      "पुनि पुनि आवत प्रेम बढ़ावत, फूटे फल तब जाय निरासा ॥१ ॥"
     ],
     [
-      "समल वरिकश के फल को जोवे, जैसे सुा मोहित होवे.",
-      "पुनि पुनि ावत प्रेम बरहावत, फुते फल तब जाय निरासा || 1 ||"
+      "तैसे जग का देख निज़ारा, मोहित होवे मूण्ड गंवारा ।",
+      "खाली जावत बहु पछुतावत, झूठा जग का जान तमाशा ॥२ ॥"
     ],
     [
-      "तैसे जग का देख निzारा, मोहित होवे मुनद गनवारा.",
-      "खालि जावत बहु पचहुतावत, झुथा जग का जान तमाशा.. 2 ||"
+      "मात पिता सुत धन परिवारा, अन्त काल को दे न सहारा ।",
+      "तांको त्यागो अबहीं जागो, प्रभू मिलन की राखो प्यासा ॥३ ॥"
     ],
     [
-      "मात पिता सुत धन परिवारा, नत काल को दे न सहारा.",
-      "तानको तयागो भिन जागो, प्रभु मिलन कि राखो पयासा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ तुम शरदधा धारे, जाो पुरन गुरु के दवारे.",
-      "ातम धयाे शांति पाे, गम देश मेन करले वासा || 4 ||."
+      "कहे टेऊँ तुम श्रद्धा धारे, जाओ पूरण गुरु के द्वारे ।",
+      "आत्म ध्याए शान्ती पाए, अगम देश में करले वासा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Re Man Pyaaraa Kar Vichaaraa, Chhor Jagat Ki Jhuthi Aasaa (Tek)."
-    ],
     [
       "Samal Vriksh Ke Phal Ko Jove, Jaise Suaa Mohit Hove.",
       "Puni Puni Aavat Prem Barhaavat, Phute Phal Tab Jaay Niraasaa || 1 ||"
     ],
     [
       "Taise Jag Kaa Dekh Nizaaraa, Mohit Hove Mund Ganvaaraa.",
-      "Khaali Jaavat Bahu Pachhutaavat, Jhuthaa Jag Kaa Jaan Tamaashaa.. 2 ||"
+      "Khaali Jaavat Bahu Pachhutaavat, Jhuthaa Jag Kaa Jaan Tamaashaa || 2 ||"
     ],
     [
-      "Maat Pitaa Sut Dhan Parivaaraa, Ant Kaal Ko De N Sahaaraa.",
+      "Maat Pitaa Sut Dhan Parivaaraa, Ant Kaal Ko De Na Sahaaraa.",
       "Taanko Tyaago Abhin Jaago, Prabhu Milan Ki Raakho Pyaasaa || 3 ||"
     ],
     [
       "Kahe Teun Tum Shraddhaa Dhaare, Jaao Puran Guru Ke Dvaare.",
-      "Aatm Dhyaae Shaanti Paae, Agam Desh Men Karle Vaasaa || 4 ||."
+      "Aatm Dhyaae Shaanti Paae, Agam Desh Men Karle Vaasaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 20 || 333. ||.",
+    "रे मन प्यारा कर वीचारा, छोड़ जगत की झूठी आसा",
     "Re Man Pyaaraa Kar Vichaaraa, Chhor Jagat Ki Jhuthi Aasaa",
-    "रे मन पयारा कर विचारा, चहोर जगत कि झुथि ासा"
+    "राग ज़िला भजन 20",
+    "Raag Zilaa Bhajan 20"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 333,
+  "displayOrder": 20,
+  "overallOrder": 333,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 199",
+  "updatedAt": "2026-10-26"
 }

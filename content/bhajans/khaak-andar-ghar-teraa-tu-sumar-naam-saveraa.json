@@ -1,80 +1,124 @@
 {
-  "id": "bhajan-0573",
+  "id": "bhajan-0571",
   "slug": "khaak-andar-ghar-teraa-tu-sumar-naam-saveraa",
   "categoryId": "raag-maaru",
-  "title": "खाक नदर घर तेरा, तु सुमर नाम सवेरा",
+  "categoryName": "राग मारू",
+  "romanCategoryName": "Raag Maaru",
+  "title": "खाक अन्दर घर तेरा, तूं सुमर नाम सवेरा",
   "romanTitle": "Khaak Andar Ghar Teraa, Tu Sumar Naam Saveraa",
   "firstLine": "Khaak Andar Ghar Teraa, Tu Sumar Naam Saveraa (Tek).",
+  "heading": "।। राग मारू भजन ।। १ ।। ५७२।।",
+  "tek": [
+    "खाक अन्दर घर तेरा, तूं सुमर नाम सवेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Khaak Andar Ghar Teraa, Tu Sumar Naam Saveraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता सुत खाक पछानो , खाक रूप सब धन्धा जानो ।",
+        "खाक कुट्म्ब कुल डेरा ॥१ ॥",
+        "काया माया गृही भोगी, पण्डित जोशी झंगम योगी ।",
+        "खाक में पावन फेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Khaak Pachhaano, Khaak Rup Sab Dhandhaa Jaano.",
+        "Khaak Kutmb Kul Deraa || 1 ||",
+        "Kaayaa Maayaa Grihi Bhogi, Pandit Joshi Jhangam Yogi.",
+        "Khaak Men Paavan Pheraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "खाक मौलवी हाफ़िज हाजी, खाक पीर पैग्रम्बर काजी ।",
+        "खाक सर्व को घेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Khaak Maulvi Haafij Haaji, Khaak Pir Paigrambar Kaaji.",
+        "Khaak Sarv Ko Gheraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "खाक देवता दानव सारे, राजा प्रजा खाक प्यारे ।",
+        "खाक है तेरा मेरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Khaak Devtaa Daanav Saare, Raajaa Prajaa Khaak Pyaare.",
+        "Khaak Hai Teraa Meraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब खाक पसारा, खाक माहिं गुरु करत उज्यारा ।",
+        "नासे भ्रम अन्धेरा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Khaak Pasaaraa, Khaak Maahin Guru Karat Ujyaaraa.",
+        "Naase Bhram Andheraa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "खाक नदर घर तेरा, तु सुमर नाम सवेरा (टेक)."
+      "मात पिता सुत खाक पछानो , खाक रूप सब धन्धा जानो ।",
+      "खाक कुट्म्ब कुल डेरा ॥१ ॥",
+      "काया माया गृही भोगी, पण्डित जोशी झंगम योगी ।",
+      "खाक में पावन फेरा ॥२ ॥"
     ],
     [
-      "मात पिता सुत खाक पचहानो, खाक रुप सब धनधा जानो.",
-      "खाक कुतमब कुल देरा 1"
+      "खाक मौलवी हाफ़िज हाजी, खाक पीर पैग्रम्बर काजी ।",
+      "खाक सर्व को घेरा ॥३ ॥"
     ],
     [
-      "काया माया गरिहि भोगि, पनदित जोशि झनगम योगि.",
-      "खाक मेन पावन फेरा || 2 ||"
+      "खाक देवता दानव सारे, राजा प्रजा खाक प्यारे ।",
+      "खाक है तेरा मेरा ॥४ ॥"
     ],
     [
-      "खाक मौलवि हाfिज हाजि, खाक पिर पैगरमबर काजि.",
-      "खाक सर्व को घेरा ||.3 ||."
-    ],
-    [
-      "खाक देवता दानव सारे, राजा परजा खाक पयारे.",
-      "खाक है तेरा मेरा ||.4 ||."
-    ],
-    [
-      "कहे तेऊँ सब खाक पसारा, खाक माहिन गुरु करत ुजयारा.",
-      "नासे भरम नधेरा ||.5. ||."
-    ],
-    [
-      "तह"
+      "कहे टेऊँ सब खाक पसारा, खाक माहिं गुरु करत उज्यारा ।",
+      "नासे भ्रम अन्धेरा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Khaak Andar Ghar Teraa, Tu Sumar Naam Saveraa (Tek)."
-    ],
-    [
       "Maat Pitaa Sut Khaak Pachhaano, Khaak Rup Sab Dhandhaa Jaano.",
-      "Khaak Kutmb Kul Deraa 1"
-    ],
-    [
+      "Khaak Kutmb Kul Deraa || 1 ||",
       "Kaayaa Maayaa Grihi Bhogi, Pandit Joshi Jhangam Yogi.",
       "Khaak Men Paavan Pheraa || 2 ||"
     ],
     [
       "Khaak Maulvi Haafij Haaji, Khaak Pir Paigrambar Kaaji.",
-      "Khaak Sarv Ko Gheraa ||.3 ||."
+      "Khaak Sarv Ko Gheraa || 3 ||"
     ],
     [
       "Khaak Devtaa Daanav Saare, Raajaa Prajaa Khaak Pyaare.",
-      "Khaak Hai Teraa Meraa ||.4 ||."
+      "Khaak Hai Teraa Meraa || 4 ||"
     ],
     [
       "Kahe Teun Sab Khaak Pasaaraa, Khaak Maahin Guru Karat Ujyaaraa.",
-      "Naase Bhram Andheraa ||.5. ||."
-    ],
-    [
-      "Tah"
+      "Naase Bhram Andheraa || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Maaru Bhajan || 1 || 572 ||",
+    "खाक अन्दर घर तेरा, तूं सुमर नाम सवेरा",
     "Khaak Andar Ghar Teraa, Tu Sumar Naam Saveraa",
-    "खाक नदर घर तेरा, तु सुमर नाम सवेरा"
+    "राग मारू भजन 1",
+    "Raag Maaru Bhajan 1"
   ],
   "tags": [
-    "teunram",
-    "maaru",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maaru",
+    "bhajan"
   ],
-  "displayOrder": 573,
+  "displayOrder": 1,
+  "overallOrder": 571,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 311",
+  "updatedAt": "2026-10-26"
 }

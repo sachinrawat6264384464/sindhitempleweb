@@ -2,39 +2,77 @@
   "id": "bhajan-0007",
   "slug": "kyon-karte-ho-meraa-meraa-jag-men-koi-nahin-hai-teraa",
   "categoryId": "raag-bhairav",
-  "title": "कयोन करते हो मेरा मेरा, जग मेन कोि नहिन है तेरा",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "क्यों करते हो मेरा मेरा, जग में कोई नहीं है तेरा",
   "romanTitle": "Kyon Karte Ho Meraa Meraa, Jag Men Koi Nahin Hai Teraa",
   "firstLine": "Kyon Karte Ho Meraa Meraa, Jag Men Koi Nahin Hai Teraa (Tek).",
+  "heading": "।। राग भैरव भजन ।। ७ ॥।",
+  "tek": [
+    "क्यों करते हो मेरा मेरा, जग में कोई नहीं है तेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kyon Karte Ho Meraa Meraa, Jag Men Koi Nahin Hai Teraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सब झूठे जगत के हैं नाते, क्यों तां पर तुम इतराते ।",
+        "जानो पंछी ज्यों वृक्ष बसेरा ॥१ ॥",
+        "जांको अपना कहत हो प्यारे, अन्त छोड़ जायेंगे सारे ।",
+        "जब काल ने आयके घेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sab Jhuthe Jagat Ke Hain Naate, Kyon Taan Par Tum Itraate.",
+        "Jaano Panchhi Jyon Vriksh Baseraa || 1 ||",
+        "Jaanko Apnaa Kahat Ho Pyaare, Ant Chhor Jaayenge Saare.",
+        "Jab Kaal Ne Aayke Gheraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं मेरा जिसीने है कीना, जम फास तिसे गल दीना ।",
+        "यह सन्त जनों ने टेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Meraa Jisine Hai Kinaa, Jam Phaas Tise Gal Dinaa.",
+        "Yah Sant Janon Ne Teraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ अभी भी संभालो, मैं मेरे को मन से निकालो ।",
+        "मिटे जनम मरण का फेरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Abhi Bhi Sambhaalo, Main Mere Ko Man Se Nikaalo.",
+        "Mite Janam Maran Kaa Pheraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कयोन करते हो मेरा मेरा, जग मेन कोि नहिन है तेरा (टेक)."
+      "सब झूठे जगत के हैं नाते, क्यों तां पर तुम इतराते ।",
+      "जानो पंछी ज्यों वृक्ष बसेरा ॥१ ॥",
+      "जांको अपना कहत हो प्यारे, अन्त छोड़ जायेंगे सारे ।",
+      "जब काल ने आयके घेरा ॥२ ॥"
     ],
     [
-      "सब झुथे जगत के हैन नाते, कयोन तान पर तुम ितराते.",
-      "जानो पनचहि जयोन वरिकश बसेरा 1"
+      "मैं मेरा जिसीने है कीना, जम फास तिसे गल दीना ।",
+      "यह सन्त जनों ने टेरा ॥३ ॥"
     ],
     [
-      "जानको पना कहत हो पयारे, नत चहोर जायेनगे सारे.",
-      "जब काल ने ायके घेरा || 2 ||"
-    ],
-    [
-      "मैं मेरा जिसिने है किना, जम फास तिसे गल दिना.",
-      "यह संत जनोन ने तेरा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ भि भि समभालो, मैं मेरे को मन से निकालो.",
-      "मिते जनम मरन का फेरा || 4 ||"
+      "कहे टेऊँ अभी भी संभालो, मैं मेरे को मन से निकालो ।",
+      "मिटे जनम मरण का फेरा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kyon Karte Ho Meraa Meraa, Jag Men Koi Nahin Hai Teraa (Tek)."
-    ],
-    [
       "Sab Jhuthe Jagat Ke Hain Naate, Kyon Taan Par Tum Itraate.",
-      "Jaano Panchhi Jyon Vriksh Baseraa 1"
-    ],
-    [
+      "Jaano Panchhi Jyon Vriksh Baseraa || 1 ||",
       "Jaanko Apnaa Kahat Ho Pyaare, Ant Chhor Jaayenge Saare.",
       "Jab Kaal Ne Aayke Gheraa || 2 ||"
     ],
@@ -48,18 +86,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairav Bhajan || 7 ||.",
+    "क्यों करते हो मेरा मेरा, जग में कोई नहीं है तेरा",
     "Kyon Karte Ho Meraa Meraa, Jag Men Koi Nahin Hai Teraa",
-    "कयोन करते हो मेरा मेरा, जग मेन कोि नहिन है तेरा"
+    "राग भैरव भजन 7",
+    "Raag Bhairav Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 7,
+  "overallOrder": 7,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 29",
+  "updatedAt": "2026-10-26"
 }

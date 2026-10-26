@@ -1,75 +1,111 @@
 {
   "id": "bhajan-0243",
   "slug": "kripaa-kar-yah-mohi-sunaao-saduguru-dev-svaami",
-  "categoryId": "raag-bhairav",
-  "title": "कृपा कर यह मोहि सुनाो, सदुगुरु देव स्वामी",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "कृपा कर यह मोहि सुनाओ, सदूगुरु देव स्वामी",
   "romanTitle": "Kripaa Kar Yah Mohi Sunaao, Saduguru Dev Svaami",
-  "firstLine": "Kripaa Kar Yah Mohi Sunaao, Saduguru Dev Svaami. Kahan Rahtaa Hai Kaise Miltaa, Prabhu Antaryaami (Tek).",
+  "firstLine": "Kripaa Kar Yah Mohi Sunaao, Saduguru Dev Svaami.",
+  "heading": "।। राग भैरवी भजन ।। २८ ।। २४३।।",
+  "tek": [
+    "कृपा कर यह मोहि सुनाओ, सदूगुरु देव स्वामी ।",
+    "कहं रहता है कैसे मिलता, प्रभू अन्तर्यामी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kripaa Kar Yah Mohi Sunaao, Saduguru Dev Svaami.",
+    "Kahan Rahtaa Hai Kaise Miltaa, Prabhu Antaryaami (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "उत्तर इसी का सावधान हो सुन हे शिष्य सुचाली ।",
+        "ज्यों मेंदी के पात पात में रहती है नित लाली ।",
+        "तेल तिलों में घृत दूध में मीठा इंख रसाली ।",
+        "त्यों घट घट में रम रहिया है पूरण पारग्रामी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Uttar Isi Kaa Saavdhaan Ho Sun He Shishy Suchaali.",
+        "Jyon Mendi Ke Paat Paat Men Rahti Hai Nit Laali.",
+        "Tel Tilon Men Ghrit Dudh Men Mithaa Inkh Rasaali.",
+        "Tyon Ghat Ghat Men Ram Rahiyaa Hai Puran Paaragraami || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कहे टेऊँ जो प्रेम सचे से जहँ जहँ सुमरन करता ।",
+        "तहूँ तहँँ प्रकट हो कर तिसको दर्शन दे दुख हरता ।",
+        "भाव भक्ति का भगवत भूखा और न मन में धरता ।",
+        "तांते प्रेम करो तुम हरि से जग की छोड़ गुलामी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Prem Sache Se Jahan Jahan Sumran Kartaa.",
+        "Tahun Tahann Prakat Ho Kar Tisko Darshan De Dukh Hartaa.",
+        "Bhaav Bhakti Kaa Bhagvat Bhukhaa Aur Na Man Men Dhartaa.",
+        "Taante Prem Karo Tum Hari Se Jag Ki Chhor Gulaami || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ग़्"
+      ],
+      "romanLines": [
+        "Gh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कृपा कर यह मोहि सुनाो, सदुगुरु देव स्वामी.",
-      "कहन रहता है कैसे मिलता, प्रभु नतरयामि (टेक)."
+      "उत्तर इसी का सावधान हो सुन हे शिष्य सुचाली ।",
+      "ज्यों मेंदी के पात पात में रहती है नित लाली ।",
+      "तेल तिलों में घृत दूध में मीठा इंख रसाली ।",
+      "त्यों घट घट में रम रहिया है पूरण पारग्रामी ॥१ ॥"
     ],
     [
-      "ुततर िसि का सावधान हो सुन हे शिशय सुचालि.",
-      "जयोन मेनदि के पात पात मेन रहति है नित लालि."
+      "कहे टेऊँ जो प्रेम सचे से जहँ जहँ सुमरन करता ।",
+      "तहूँ तहँँ प्रकट हो कर तिसको दर्शन दे दुख हरता ।",
+      "भाव भक्ति का भगवत भूखा और न मन में धरता ।",
+      "तांते प्रेम करो तुम हरि से जग की छोड़ गुलामी ॥२ ॥"
     ],
     [
-      "तेल तिलोन मेन घरित दुध मेन मिथा िनख रसालि.",
-      "तयोन घत घत मेन राम रहिया है पुरन पारगरामि || 1. ||."
-    ],
-    [
-      "कहे तेऊँ जो प्रेम सचे से जहन जहन सुमरन करता.",
-      "तहुन तहनन परकत हो कर तिसको दरशन दे दुःख हरता."
-    ],
-    [
-      "भाव भक्ति का भगवत भुखा ौर न मन मेन धरता.",
-      "तानते प्रेम करो तुम हरि से जग कि चहोर गुलामि || 2. ||."
-    ],
-    [
-      "घ"
+      "ग़्"
     ]
   ],
   "romanLyrics": [
     [
-      "Kripaa Kar Yah Mohi Sunaao, Saduguru Dev Svaami.",
-      "Kahan Rahtaa Hai Kaise Miltaa, Prabhu Antaryaami (Tek)."
-    ],
-    [
       "Uttar Isi Kaa Saavdhaan Ho Sun He Shishy Suchaali.",
-      "Jyon Mendi Ke Paat Paat Men Rahti Hai Nit Laali."
-    ],
-    [
+      "Jyon Mendi Ke Paat Paat Men Rahti Hai Nit Laali.",
       "Tel Tilon Men Ghrit Dudh Men Mithaa Inkh Rasaali.",
-      "Tyon Ghat Ghat Men Ram Rahiyaa Hai Puran Paaragraami || 1. ||."
+      "Tyon Ghat Ghat Men Ram Rahiyaa Hai Puran Paaragraami || 1 ||"
     ],
     [
       "Kahe Teun Jo Prem Sache Se Jahan Jahan Sumran Kartaa.",
-      "Tahun Tahann Prakat Ho Kar Tisko Darshan De Dukh Hartaa."
-    ],
-    [
-      "Bhaav Bhakti Kaa Bhagvat Bhukhaa Aur N Man Men Dhartaa.",
-      "Taante Prem Karo Tum Hari Se Jag Ki Chhor Gulaami || 2. ||."
+      "Tahun Tahann Prakat Ho Kar Tisko Darshan De Dukh Hartaa.",
+      "Bhaav Bhakti Kaa Bhagvat Bhukhaa Aur Na Man Men Dhartaa.",
+      "Taante Prem Karo Tum Hari Se Jag Ki Chhor Gulaami || 2 ||"
     ],
     [
       "Gh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 28 || 243 ||",
+    "कृपा कर यह मोहि सुनाओ, सदूगुरु देव स्वामी",
     "Kripaa Kar Yah Mohi Sunaao, Saduguru Dev Svaami",
-    "कृपा कर यह मोहि सुनाो, सदुगुरु देव स्वामी"
+    "राग भैरवी भजन 28",
+    "Raag Bhairvi Bhajan 28"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 243,
+  "displayOrder": 28,
+  "overallOrder": 243,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 150",
+  "updatedAt": "2026-10-26"
 }

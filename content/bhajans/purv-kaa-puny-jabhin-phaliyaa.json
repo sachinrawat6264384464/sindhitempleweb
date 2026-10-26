@@ -1,56 +1,102 @@
 {
-  "id": "bhajan-0528",
+  "id": "bhajan-0526",
   "slug": "purv-kaa-puny-jabhin-phaliyaa",
   "categoryId": "raag-kohiyaari",
-  "title": "पुरव का पुनय जभिन फलिया",
-  "romanTitle": "Purv Kaa Puny Jabhin Phaliyaa",
-  "firstLine": "Purv Kaa Puny Jabhin Phaliyaa, Sat‌Guru Milaa Jnyaani, Antar Dhyaani (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "पूर्व का पुण्य जबहीं फलिया,",
+  "romanTitle": "Purv Kaa Puny Jabhin Phaliyaa,",
+  "firstLine": "Purv Kaa Puny Jabhin Phaliyaa,",
+  "heading": "।। राग कोह्मारी भजन ।। ४७ ।। ५२७।।",
+  "tek": [
+    "पूर्व का पुण्य जबहीं फलिया,",
+    "सत्‌गुरु मिला ज्ञानी , अन्तर ध्यानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Purv Kaa Puny Jabhin Phaliyaa,",
+    "Sat‌Guru Milaa Jnyaani, Antar Dhyaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कृपा सागर दीन दयालू, सर्व गुणों की खानी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kripaa Saagar Din Dayaalu, Sarv Gunon Ki Khaani || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पर उपकारी पर दुखहारी, अभय दान के दानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Par Upkaari Par Dukhhaari, Abhay Daan Ke Daani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म नेष्ठी ब्रह्म श्रोत्री, बोलत ब्रह्मा की बानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm Neshthi Brahm Shrotri, Bolat Brahmaa Ki Baani || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हैं ब्रह्म स्वरूपा, निष्कामी निर्मानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hain Brahm Svarupaa, Nishkaami Nirmaani || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पुरव का पुनय जभिन फलिया,",
-      "सतगुरु मिला जनयानि, नतर धयानि (टेक)."
+      "कृपा सागर दीन दयालू, सर्व गुणों की खानी ॥१ ॥"
     ],
     [
-      "कृपा सागर दीन दयालु, सर्व गुनोन कि खानि || || 1 ||."
+      "पर उपकारी पर दुखहारी, अभय दान के दानी ॥२ ॥"
     ],
     [
-      "पर ुपकारि पर दुखहारि, भय दान के दानि ||.2 ||.",
-      "बरहम नेशथि बरहम शरोतरि, बोलत बरहम कि बानी ||.3. ||."
+      "ब्रह्म नेष्ठी ब्रह्म श्रोत्री, बोलत ब्रह्मा की बानी ॥३ ॥"
     ],
     [
-      "कहे तेऊँ हैन बरहम सवरुपा, निशकामि निरमानि || 4 ||"
+      "कहे टेऊँ हैं ब्रह्म स्वरूपा, निष्कामी निर्मानी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Purv Kaa Puny Jabhin Phaliyaa,",
-      "Sat‌Guru Milaa Jnyaani, Antar Dhyaani (Tek)."
+      "Kripaa Saagar Din Dayaalu, Sarv Gunon Ki Khaani || 1 ||"
     ],
     [
-      "Kripaa Saagar Din Dayaalu, Sarv Gunon Ki Khaani || || 1 ||."
+      "Par Upkaari Par Dukhhaari, Abhay Daan Ke Daani || 2 ||"
     ],
     [
-      "Par Upkaari Par Dukhhaari, Abhay Daan Ke Daani ||.2 ||.",
-      "Brahm Neshthi Brahm Shrotri, Bolat Brahma Ki Baani ||.3. ||."
+      "Brahm Neshthi Brahm Shrotri, Bolat Brahmaa Ki Baani || 3 ||"
     ],
     [
       "Kahe Teun Hain Brahm Svarupaa, Nishkaami Nirmaani || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 47 || 527 ||",
-    "Purv Kaa Puny Jabhin Phaliyaa",
-    "पुरव का पुनय जभिन फलिया"
+    "पूर्व का पुण्य जबहीं फलिया,",
+    "Purv Kaa Puny Jabhin Phaliyaa,",
+    "राग कोहियारी भजन 47",
+    "Raag Kohiyaari Bhajan 47"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 528,
+  "displayOrder": 47,
+  "overallOrder": 526,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 290",
+  "updatedAt": "2026-10-26"
 }

@@ -20,12 +20,10 @@ const index = [];
 
 for (const file of files) {
   const data = JSON.parse(fs.readFileSync(path.join(bhajansDir, file), "utf-8"));
-  const lText = Array.isArray(data.lyrics)
-    ? data.lyrics.map((st) => st.join(" ")).join(" ")
-    : "";
-  const rText = Array.isArray(data.romanLyrics)
-    ? data.romanLyrics.map((st) => st.join(" ")).join(" ")
-    : "";
+  const tekText = Array.isArray(data.tek) ? data.tek.join(" ") : "";
+  const rTekText = Array.isArray(data.romanTek) ? data.romanTek.join(" ") : "";
+  const lText = (tekText + " " + (Array.isArray(data.lyrics) ? data.lyrics.map((st) => st.join(" ")).join(" ") : "")).trim();
+  const rText = (rTekText + " " + (Array.isArray(data.romanLyrics) ? data.romanLyrics.map((st) => st.join(" ")).join(" ") : "")).trim();
 
   index.push({
     id: data.id,

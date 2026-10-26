@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0276",
+  "slug": "man-kiski-kar-na-buraai-sab-se-karo-bhalaai",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मन किसकी कर न बुराई, सब से करो भलाई",
+  "romanTitle": "Man Kiski Kar Na Buraai, Sab Se Karo Bhalaai",
+  "firstLine": "Man Kiski Kar Na Buraai, Sab Se Karo Bhalaai (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६१ ।। २७६।।",
+  "tek": [
+    "मन किसकी कर न बुराई, सब से करो भलाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Kiski Kar Na Buraai, Sab Se Karo Bhalaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बुरे करन से होत बुराई, भला कभी ना होवे ।",
+        "ज्यों विष पी को अमर रहे ना, सन्तनि साख सुनाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bure Karan Se Hot Buraai, Bhalaa Kabhi Naa Hove.",
+        "Jyon Vish Pi Ko Amar Rahe Naa, Santani Saakh Sunaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भले करन से होत भलाई, बुरा न कबहूं होवे ।",
+        "ज्यों अमृत से मरत न कोई, बात रामायण गाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhale Karan Se Hot Bhalaai, Buraa Na Kabhun Hove.",
+        "Jyon Amrit Se Marat Na Koi, Baat Raamaayan Gaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बुरे करन में पहले सुख है, पीछे हो दुख भारी ।",
+        "करे बुराई दुर्योधन ने, अपनी जड़ कटवाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bure Karan Men Pahle Sukh Hai, Pichhe Ho Dukh Bhaari.",
+        "Kare Buraai Duryodhan Ne, Apni Jar Katvaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भले करन में पहले दुख है, पीछे अति सुख होवे ।",
+        "कहता टेऊँ करे भलाई, धर्मपुत्र जय पाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhale Karan Men Pahle Dukh Hai, Pichhe Ati Sukh Hove.",
+        "Kahtaa Teun Kare Bhalaai, Dharmaputr Jay Paai || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "बुरे करन से होत बुराई, भला कभी ना होवे ।",
+      "ज्यों विष पी को अमर रहे ना, सन्तनि साख सुनाई ॥१ ॥"
+    ],
+    [
+      "भले करन से होत भलाई, बुरा न कबहूं होवे ।",
+      "ज्यों अमृत से मरत न कोई, बात रामायण गाई ॥२ ॥"
+    ],
+    [
+      "बुरे करन में पहले सुख है, पीछे हो दुख भारी ।",
+      "करे बुराई दुर्योधन ने, अपनी जड़ कटवाई ॥३ ॥"
+    ],
+    [
+      "भले करन में पहले दुख है, पीछे अति सुख होवे ।",
+      "कहता टेऊँ करे भलाई, धर्मपुत्र जय पाई ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Bure Karan Se Hot Buraai, Bhalaa Kabhi Naa Hove.",
+      "Jyon Vish Pi Ko Amar Rahe Naa, Santani Saakh Sunaai || 1 ||"
+    ],
+    [
+      "Bhale Karan Se Hot Bhalaai, Buraa Na Kabhun Hove.",
+      "Jyon Amrit Se Marat Na Koi, Baat Raamaayan Gaai || 2 ||"
+    ],
+    [
+      "Bure Karan Men Pahle Sukh Hai, Pichhe Ho Dukh Bhaari.",
+      "Kare Buraai Duryodhan Ne, Apni Jar Katvaai || 3 ||"
+    ],
+    [
+      "Bhale Karan Men Pahle Dukh Hai, Pichhe Ati Sukh Hove.",
+      "Kahtaa Teun Kare Bhalaai, Dharmaputr Jay Paai || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मन किसकी कर न बुराई, सब से करो भलाई",
+    "Man Kiski Kar Na Buraai, Sab Se Karo Bhalaai",
+    "राग भैरवी भजन 61",
+    "Raag Bhairvi Bhajan 61"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
+  ],
+  "displayOrder": 61,
+  "overallOrder": 276,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 169",
+  "updatedAt": "2026-10-26"
+}

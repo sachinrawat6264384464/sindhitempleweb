@@ -1,73 +1,135 @@
 {
-  "id": "bhajan-0770",
+  "id": "bhajan-0768",
   "slug": "jai-jai-sitaaraam-bolo-jai-jai-raadheshyaam-bolo",
   "categoryId": "raag-pilaa",
-  "title": "जै जै सिताराम बोलो, जै जै राधेशयाम बोलो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "जै जै सीताराम बोलो, जै जै राधेश्याम बोलो",
   "romanTitle": "Jai Jai Sitaaraam Bolo, Jai Jai Raadheshyaam Bolo",
   "firstLine": "Jai Jai Sitaaraam Bolo, Jai Jai Raadheshyaam Bolo (Tek).",
+  "heading": "।। राग पीला भजन ।। ४८ ।। ७७०॥",
+  "tek": [
+    "जै जै सीताराम बोलो, जै जै राधेश्याम बोलो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jai Jai Sitaaraam Bolo, Jai Jai Raadheshyaam Bolo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम कृष्ण दोनों इक रूपा, निश्चय जानो ब्रह्म स्वरूपा ।",
+        "दोनों की है ऊप अनूपा, दोई नाम अमोलो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Krishn Donon Ik Rupaa, Nishchay Jaano Brahm Svarupaa.",
+        "Donon Ki Hai Up Anupaa, Doi Naam Amolo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम कृष्ण दोनों अवतारा, भक्तजनों का है रखवारा ।",
+        "दैतनि मार किया जैकारा , बज गया जग में ढोलो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Krishn Donon Avtaaraa, Bhaktajnon Kaa Hai Rakhvaaraa.",
+        "Daitni Maar Kiyaa Jaikaaraa, Baj Gayaa Jag Men Dholo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम कृष्ण का नाम उचारे, नीच ऊँच नर तरे अपारे ।",
+        "नाम उन्हों प्रसिद्ध जुग चारे, भक्त माल को खोलो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Krishn Kaa Naam Uchaare, Nich Unch Nar Tare Apaare.",
+        "Naam Unhon Prasiddh Jug Chaare, Bhakt Maal Ko Kholo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम कृष्ण के चरन पड़ीजे, राम कृष्ण की भक्ति करीजे ।",
+        "राम कृष्ण का ध्यान धरीजे, मन में कभी न डोलो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Krishn Ke Charan Parije, Raam Krishn Ki Bhakti Karije.",
+        "Raam Krishn Kaa Dhyaan Dharije, Man Men Kabhi Na Dolo || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ चाहो कल्याना, राम कृष्ण में भेद न लाना ।",
+        "श्रद्धा से तांके गुन गाना, सफल करो यह चोलो ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Chaaho Kalyaanaa, Raam Krishn Men Bhed Na Laanaa.",
+        "Shraddhaa Se Taanke Gun Gaanaa, Saphal Karo Yah Cholo || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जै जै सिताराम बोलो, जै जै राधेशयाम बोलो (टेक)."
+      "राम कृष्ण दोनों इक रूपा, निश्चय जानो ब्रह्म स्वरूपा ।",
+      "दोनों की है ऊप अनूपा, दोई नाम अमोलो ॥१ ॥"
     ],
     [
-      "राम करिशन दोनोन िक रुपा, निशचय जानो बरहम सवरुपा.",
-      "दोनोन कि है ुप नुपा, दोि नाम मोलो || 1 ||"
+      "राम कृष्ण दोनों अवतारा, भक्तजनों का है रखवारा ।",
+      "दैतनि मार किया जैकारा , बज गया जग में ढोलो ॥२ ॥"
     ],
     [
-      "राम करिशन दोनोन वतारा, भकतजनोन का है रखवारा.",
-      "दैतनि मार किया जैकारा, बज गया जग मेन धोलो || 2 ||."
+      "राम कृष्ण का नाम उचारे, नीच ऊँच नर तरे अपारे ।",
+      "नाम उन्हों प्रसिद्ध जुग चारे, भक्त माल को खोलो ॥३ ॥"
     ],
     [
-      "राम करिशन का नाम ुचारे, निच ुनच नर तरे पारे.",
-      "नाम ुनहोन परसिदध जुग चारे, भकत माल को खोलो || 3 ||."
+      "राम कृष्ण के चरन पड़ीजे, राम कृष्ण की भक्ति करीजे ।",
+      "राम कृष्ण का ध्यान धरीजे, मन में कभी न डोलो ॥४ ॥"
     ],
     [
-      "राम करिशन के चरण परिजे, राम करिशन कि भक्ति करिजे.",
-      "राम करिशन का ध्यान धरिजे, मन मेन कभि न दोलो || 4. ||."
-    ],
-    [
-      "कहे तेऊँ चाहो कलयाना, राम करिशन मेन भेद न लाना.",
-      "शरदधा से तानके गुन गाना, सफल करो यह चोलो || 5. ||."
+      "कहे टेऊँ चाहो कल्याना, राम कृष्ण में भेद न लाना ।",
+      "श्रद्धा से तांके गुन गाना, सफल करो यह चोलो ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jai Jai Sitaaraam Bolo, Jai Jai Raadheshyaam Bolo (Tek)."
-    ],
     [
       "Raam Krishn Donon Ik Rupaa, Nishchay Jaano Brahm Svarupaa.",
       "Donon Ki Hai Up Anupaa, Doi Naam Amolo || 1 ||"
     ],
     [
       "Raam Krishn Donon Avtaaraa, Bhaktajnon Kaa Hai Rakhvaaraa.",
-      "Daitni Maar Kiyaa Jaikaaraa, Baj Gayaa Jag Men Dholo || 2 ||."
+      "Daitni Maar Kiyaa Jaikaaraa, Baj Gayaa Jag Men Dholo || 2 ||"
     ],
     [
       "Raam Krishn Kaa Naam Uchaare, Nich Unch Nar Tare Apaare.",
-      "Naam Unhon Prasiddh Jug Chaare, Bhakt Maal Ko Kholo || 3 ||."
+      "Naam Unhon Prasiddh Jug Chaare, Bhakt Maal Ko Kholo || 3 ||"
     ],
     [
       "Raam Krishn Ke Charan Parije, Raam Krishn Ki Bhakti Karije.",
-      "Raam Krishn Kaa Dhyaan Dharije, Man Men Kabhi N Dolo || 4. ||."
+      "Raam Krishn Kaa Dhyaan Dharije, Man Men Kabhi Na Dolo || 4 ||"
     ],
     [
-      "Kahe Teun Chaaho Kalyaanaa, Raam Krishn Men Bhed N Laanaa.",
-      "Shraddhaa Se Taanke Gun Gaanaa, Saphal Karo Yah Cholo || 5. ||."
+      "Kahe Teun Chaaho Kalyaanaa, Raam Krishn Men Bhed Na Laanaa.",
+      "Shraddhaa Se Taanke Gun Gaanaa, Saphal Karo Yah Cholo || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 48 || 770 ||",
+    "जै जै सीताराम बोलो, जै जै राधेश्याम बोलो",
     "Jai Jai Sitaaraam Bolo, Jai Jai Raadheshyaam Bolo",
-    "जै जै सिताराम बोलो, जै जै राधेशयाम बोलो"
+    "राग पीला भजन 47",
+    "Raag Pilaa Bhajan 47"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 770,
+  "displayOrder": 47,
+  "overallOrder": 768,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 407",
+  "updatedAt": "2026-10-26"
 }

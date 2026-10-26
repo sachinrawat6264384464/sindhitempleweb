@@ -1,86 +1,132 @@
 {
   "id": "bhajan-0360",
   "slug": "ghar-mere-satguru-aayaa-re-bahu-aanand-chhaayaa-re",
-  "categoryId": "raag-aasaa",
-  "title": "घर मेरे सतगुरु ाया रे, बहु आनंद चहाया रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "घर मेरे सत्गुरु आया रे, बहु आनन्द छाया रे",
   "romanTitle": "Ghar Mere Satguru Aayaa Re, Bahu Aanand Chhaayaa Re",
   "firstLine": "Ghar Mere Satguru Aayaa Re, Bahu Aanand Chhaayaa Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १७ ।। ३६०।॥।",
+  "tek": [
+    "घर मेरे सत्गुरु आया रे, बहु आनन्द छाया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ghar Mere Satguru Aayaa Re, Bahu Aanand Chhaayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मिल मिल सखियाँ देत बधाई, सत्‌गुरु चरन पधारे ।",
+        "आज सफल भये कारज मेरे, गुरु दर्शन से सारे ।",
+        "मैं देख देख हर्षाया रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mil Mil Sakhiyaan Det Badhaai, Sat‌Guru Charan Padhaare.",
+        "Aaj Saphal Bhaye Kaaraj Mere, Guru Darshan Se Saare.",
+        "Main Dekh Dekh Harshaayaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सेवक के घर गुरु का आना, भागों की नीशानी ।",
+        "विध्न नशावे पुण्य बढ़ावे, दे गुण महल खानी ।",
+        "अब सर्व दूख मिट जाया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sevak Ke Ghar Guru Kaa Aanaa, Bhaagon Ki Nishaani.",
+        "Vidhn Nashaave Puny Barhaave, De Gun Mahal Khaani.",
+        "Ab Sarv Dukh Mit Jaayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आज दिवस पल पहर घड़ी धन्य, धन्य हैं भाग हमारे ।",
+        "मन मन्दिर में रोशन होया, बाजे ढोल नगारे ।",
+        "मैं गीत खुशी के गाया रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aaj Divas Pal Pahar Ghari Dhany, Dhany Hain Bhaag Hamaare.",
+        "Man Mandir Men Roshan Hoyaa, Baaje Dhol Nagaare.",
+        "Main Git Khushi Ke Gaayaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ हरि कृपा से, सद्गुरु दर्शन दीना ।",
+        "जप तप संयम दान स्नाना, सर्व सफल मम कीना ।",
+        "मैं परमानन्द को पाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Hari Kripaa Se, Sadguru Darshan Dinaa.",
+        "Jap Tap Sanyam Daan Snaanaa, Sarv Saphal Mam Kinaa.",
+        "Main Parmaanand Ko Paayaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "घर मेरे सतगुरु ाया रे, बहु आनंद चहाया रे (टेक)."
+      "मिल मिल सखियाँ देत बधाई, सत्‌गुरु चरन पधारे ।",
+      "आज सफल भये कारज मेरे, गुरु दर्शन से सारे ।",
+      "मैं देख देख हर्षाया रे ॥१ ॥"
     ],
     [
-      "मिल मिल सखियान देत बधाि, सतगुरु चरण पधारे.",
-      "ाज सफल भये कारज मेरे, गुरु दरशन से सारे."
+      "सेवक के घर गुरु का आना, भागों की नीशानी ।",
+      "विध्न नशावे पुण्य बढ़ावे, दे गुण महल खानी ।",
+      "अब सर्व दूख मिट जाया रे ॥२ ॥"
     ],
     [
-      "मैं देख देख हरशाया रे.1 ||",
-      "सेवक के घर गुरु का ाना, भागोन कि निशानि."
+      "आज दिवस पल पहर घड़ी धन्य, धन्य हैं भाग हमारे ।",
+      "मन मन्दिर में रोशन होया, बाजे ढोल नगारे ।",
+      "मैं गीत खुशी के गाया रे ॥३ ॥"
     ],
     [
-      "विधन नशावे पुनय बरहावे, दे गुन महल खानि.",
-      "ब सर्व दुःख मित जाया रे || 2 ||."
-    ],
-    [
-      "ाज दिवस पल पहर घरि धनय, धनय हैन भाग हमारे.",
-      "मन मनदिर मेन रोशन होया, बाजे धोल नगारे."
-    ],
-    [
-      "मैं गित खुशि के गाया रे || 3 ||."
-    ],
-    [
-      "कहता तेऊँ हरि कृपा से, सद्गुरु दरशन दिना.",
-      "जप तप सनयम दान सनाना, सर्व सफल मम किना."
-    ],
-    [
-      "मैं परमाननद को पाया रे || 4. ||."
+      "कहता टेऊँ हरि कृपा से, सद्गुरु दर्शन दीना ।",
+      "जप तप संयम दान स्नाना, सर्व सफल मम कीना ।",
+      "मैं परमानन्द को पाया रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ghar Mere Satguru Aayaa Re, Bahu Aanand Chhaayaa Re (Tek)."
-    ],
-    [
       "Mil Mil Sakhiyaan Det Badhaai, Sat‌Guru Charan Padhaare.",
-      "Aaj Saphal Bhaye Kaaraj Mere, Guru Darshan Se Saare."
+      "Aaj Saphal Bhaye Kaaraj Mere, Guru Darshan Se Saare.",
+      "Main Dekh Dekh Harshaayaa Re || 1 ||"
     ],
     [
-      "Main Dekh Dekh Harshaayaa Re.1 ||",
-      "Sevak Ke Ghar Guru Kaa Aanaa, Bhaagon Ki Nishaani."
-    ],
-    [
+      "Sevak Ke Ghar Guru Kaa Aanaa, Bhaagon Ki Nishaani.",
       "Vidhn Nashaave Puny Barhaave, De Gun Mahal Khaani.",
-      "Ab Sarv Dukh Mit Jaayaa Re || 2 ||."
+      "Ab Sarv Dukh Mit Jaayaa Re || 2 ||"
     ],
     [
       "Aaj Divas Pal Pahar Ghari Dhany, Dhany Hain Bhaag Hamaare.",
-      "Man Mandir Men Roshan Hoyaa, Baaje Dhol Nagaare."
-    ],
-    [
-      "Main Git Khushi Ke Gaayaa Re || 3 ||."
+      "Man Mandir Men Roshan Hoyaa, Baaje Dhol Nagaare.",
+      "Main Git Khushi Ke Gaayaa Re || 3 ||"
     ],
     [
       "Kahtaa Teun Hari Kripaa Se, Sadguru Darshan Dinaa.",
-      "Jap Tap Sanyam Daan Snaanaa, Sarv Saphal Mam Kinaa."
-    ],
-    [
-      "Main Parmaanand Ko Paayaa Re || 4. ||."
+      "Jap Tap Sanyam Daan Snaanaa, Sarv Saphal Mam Kinaa.",
+      "Main Parmaanand Ko Paayaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 17 || 360. ||.",
+    "घर मेरे सत्गुरु आया रे, बहु आनन्द छाया रे",
     "Ghar Mere Satguru Aayaa Re, Bahu Aanand Chhaayaa Re",
-    "घर मेरे सतगुरु ाया रे, बहु आनंद चहाया रे"
+    "राग बसंत भजन 17",
+    "Raag Basant Bhajan 17"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
     "bhajan"
   ],
-  "displayOrder": 360,
+  "displayOrder": 17,
+  "overallOrder": 360,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 213",
+  "updatedAt": "2026-10-26"
 }

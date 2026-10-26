@@ -1,45 +1,94 @@
 {
   "id": "bhajan-0272",
   "slug": "yah-avsar-naahin-ganvaao-tum-raam-bhajan-chitt-laao",
-  "categoryId": "raag-bhairav",
-  "title": "यह वसर नाहिन गनवाो, तुम राम भजन चितत लाो",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "यह अवसर नाहिं गंवाओ, तुम राम भजन चित्त लाओ",
   "romanTitle": "Yah Avsar Naahin Ganvaao, Tum Raam Bhajan Chitt Laao",
   "firstLine": "Yah Avsar Naahin Ganvaao, Tum Raam Bhajan Chitt Laao (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५७ ।। २७२।।",
+  "tek": [
+    "यह अवसर नाहिं गंवाओ, तुम राम भजन चित्त लाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Avsar Naahin Ganvaao, Tum Raam Bhajan Chitt Laao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तरुवर भी अवसर में फूले, अवसर रवि शशि ऊगे ।",
+        "तैसे तुम भी इस अवसर में, गोविन्द के गुन गाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Taruvar Bhi Avsar Men Phule, Avsar Ravi Shashi Uge.",
+        "Taise Tum Bhi Is Avsar Men, Govind Ke Gun Gaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "और पदार्थ फिर फिर मिलता, मिले न फिर यह चोला ।",
+        "तांते तुम मानुष चोले में, हरि का नाम ध्याओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aur Padaarth Phir Phir Miltaa, Mile Na Phir Yah Cholaa.",
+        "Taante Tum Maanush Chole Men, Hari Kaa Naam Dhyaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भूत काल का सोच न कीजे, भविष्यत्‌ को भी छोड़ो ।",
+        "वर्तमान में राग द्ेष बिन, पावन कर्म कमाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhut Kaal Kaa Soch Na Kije, Bhavishyat‌ Ko Bhi Chhoro.",
+        "Vartamaan Men Raag Desh Bin, Paavan Karm Kamaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जे निज हित चाहो, कदर समय का करले ।",
+        "भाग बड़े यह अवसर पाया, तांको सफल बनाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Nij Hit Chaaho, Kadar Samay Kaa Karle.",
+        "Bhaag Bare Yah Avsar Paayaa, Taanko Saphal Banaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह वसर नाहिन गनवाो, तुम राम भजन चितत लाो (टेक)."
+      "तरुवर भी अवसर में फूले, अवसर रवि शशि ऊगे ।",
+      "तैसे तुम भी इस अवसर में, गोविन्द के गुन गाओ ॥१ ॥"
     ],
     [
-      "तरुवर भि वसर मेन फुले, वसर रवि शशि ुगे.",
-      "तैसे तुम भि िस वसर मेन, गोविंद के गुन गाो || 1 ||."
+      "और पदार्थ फिर फिर मिलता, मिले न फिर यह चोला ।",
+      "तांते तुम मानुष चोले में, हरि का नाम ध्याओ ॥२ ॥"
     ],
     [
-      "ौर पदारथ फिर फिर मिलता, मिले न फिर यह चोला.",
-      "तानते तुम मानुश चोले मेन, हरि का नाम धयाो || 2 ||."
+      "भूत काल का सोच न कीजे, भविष्यत्‌ को भी छोड़ो ।",
+      "वर्तमान में राग द्ेष बिन, पावन कर्म कमाओ ॥३ ॥"
     ],
     [
-      "भुत काल का सोच न किजे, भविशयत‌ को भि चहोरो.",
-      "वरतमान मेन राग देश बिन, पावन करम कमाो || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जे निज हित चाहो, कदर समय का करले.",
-      "भाग बरे यह वसर पाया, तानको सफल बनाो || 4 ||"
+      "कहे टेऊँ जे निज हित चाहो, कदर समय का करले ।",
+      "भाग बड़े यह अवसर पाया, तांको सफल बनाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Avsar Naahin Ganvaao, Tum Raam Bhajan Chitt Laao (Tek)."
-    ],
-    [
       "Taruvar Bhi Avsar Men Phule, Avsar Ravi Shashi Uge.",
-      "Taise Tum Bhi Is Avsar Men, Govind Ke Gun Gaao || 1 ||."
+      "Taise Tum Bhi Is Avsar Men, Govind Ke Gun Gaao || 1 ||"
     ],
     [
-      "Aur Padaarth Phir Phir Miltaa, Mile N Phir Yah Cholaa.",
-      "Taante Tum Maanush Chole Men, Hari Kaa Naam Dhyaao || 2 ||."
+      "Aur Padaarth Phir Phir Miltaa, Mile Na Phir Yah Cholaa.",
+      "Taante Tum Maanush Chole Men, Hari Kaa Naam Dhyaao || 2 ||"
     ],
     [
-      "Bhut Kaal Kaa Soch N Kije, Bhavishyat‌ Ko Bhi Chhoro.",
+      "Bhut Kaal Kaa Soch Na Kije, Bhavishyat‌ Ko Bhi Chhoro.",
       "Vartamaan Men Raag Desh Bin, Paavan Karm Kamaao || 3 ||"
     ],
     [
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 57 || 272 ||",
+    "यह अवसर नाहिं गंवाओ, तुम राम भजन चित्त लाओ",
     "Yah Avsar Naahin Ganvaao, Tum Raam Bhajan Chitt Laao",
-    "यह वसर नाहिन गनवाो, तुम राम भजन चितत लाो"
+    "राग भैरवी भजन 57",
+    "Raag Bhairvi Bhajan 57"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 272,
+  "displayOrder": 57,
+  "overallOrder": 272,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 167",
+  "updatedAt": "2026-10-26"
 }

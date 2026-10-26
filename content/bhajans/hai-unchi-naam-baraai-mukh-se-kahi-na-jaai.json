@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0277",
+  "slug": "hai-unchi-naam-baraai-mukh-se-kahi-na-jaai",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "है ऊँची नाम बड़ाई, मुख से कही न जाई",
+  "romanTitle": "Hai Unchi Naam Baraai, Mukh Se Kahi Na Jaai",
+  "firstLine": "Hai Unchi Naam Baraai, Mukh Se Kahi Na Jaai (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६२ ।। २७७।।",
+  "tek": [
+    "है ऊँची नाम बड़ाई, मुख से कही न जाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hai Unchi Naam Baraai, Mukh Se Kahi Na Jaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बालमीक मग पथिकों को था, लूट लूट कर खाता ।",
+        "तिहं भी उल्टा राम राम रट, तीन काल गम पाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baalmik Mag Pathikon Ko Thaa, Lut Lut Kar Khaataa.",
+        "Tihan Bhi Ultaa Raam Raam Rat, Tin Kaal Gam Paai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देव चले सबहीं जब मिल कर, विश्व को फेरा देने ।",
+        "राम प्रदक्षिणा से ऋषि नारद, गणपति पूज कराई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dev Chale Sabhin Jab Mil Kar, Vishv Ko Pheraa Dene.",
+        "Raam Pradakshinaa Se Rishi Naarad, Ganpati Puj Karaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अर्थ राम के लेने से ही, गज के बन्धन छूटे ।",
+        "अन्त अजामिल रामनाम जप, जम की रार मिटाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Arth Raam Ke Lene Se Hi, Gaj Ke Bandhan Chhute.",
+        "Ant Ajaamil Raamnaam Jap, Jam Ki Raar Mitaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरिनाम प्रतापे, नीच ऊँच भये केते ।",
+        "नामदेव रविदास कबीरा, सधना सैना नाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Harinaam Prataape, Nich Unch Bhaye Kete.",
+        "Naamdev Ravidaas Kabiraa, Sadhnaa Sainaa Naai || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "बालमीक मग पथिकों को था, लूट लूट कर खाता ।",
+      "तिहं भी उल्टा राम राम रट, तीन काल गम पाई ॥१ ॥"
+    ],
+    [
+      "देव चले सबहीं जब मिल कर, विश्व को फेरा देने ।",
+      "राम प्रदक्षिणा से ऋषि नारद, गणपति पूज कराई ॥२ ॥"
+    ],
+    [
+      "अर्थ राम के लेने से ही, गज के बन्धन छूटे ।",
+      "अन्त अजामिल रामनाम जप, जम की रार मिटाई ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ हरिनाम प्रतापे, नीच ऊँच भये केते ।",
+      "नामदेव रविदास कबीरा, सधना सैना नाई ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Baalmik Mag Pathikon Ko Thaa, Lut Lut Kar Khaataa.",
+      "Tihan Bhi Ultaa Raam Raam Rat, Tin Kaal Gam Paai || 1 ||"
+    ],
+    [
+      "Dev Chale Sabhin Jab Mil Kar, Vishv Ko Pheraa Dene.",
+      "Raam Pradakshinaa Se Rishi Naarad, Ganpati Puj Karaai || 2 ||"
+    ],
+    [
+      "Arth Raam Ke Lene Se Hi, Gaj Ke Bandhan Chhute.",
+      "Ant Ajaamil Raamnaam Jap, Jam Ki Raar Mitaai || 3 ||"
+    ],
+    [
+      "Kahe Teun Harinaam Prataape, Nich Unch Bhaye Kete.",
+      "Naamdev Ravidaas Kabiraa, Sadhnaa Sainaa Naai || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "है ऊँची नाम बड़ाई, मुख से कही न जाई",
+    "Hai Unchi Naam Baraai, Mukh Se Kahi Na Jaai",
+    "राग भैरवी भजन 62",
+    "Raag Bhairvi Bhajan 62"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
+  ],
+  "displayOrder": 62,
+  "overallOrder": 277,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 169",
+  "updatedAt": "2026-10-26"
+}

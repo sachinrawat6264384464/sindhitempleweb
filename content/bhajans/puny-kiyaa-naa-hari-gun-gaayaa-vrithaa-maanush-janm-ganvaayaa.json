@@ -1,0 +1,86 @@
+{
+  "id": "bhajan-0341",
+  "slug": "puny-kiyaa-naa-hari-gun-gaayaa-vrithaa-maanush-janm-ganvaayaa",
+  "categoryId": "raag-zilaa",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "पुण्य किया ना हरि गुन गाया, वृथा मानुष जन्म गंवाया",
+  "romanTitle": "Puny Kiyaa Naa Hari Gun Gaayaa, Vrithaa Maanush Janm Ganvaayaa",
+  "firstLine": "Puny Kiyaa Naa Hari Gun Gaayaa, Vrithaa Maanush Janm Ganvaayaa (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २८ ।। ३४१।।",
+  "tek": [
+    "पुण्य किया ना हरि गुन गाया, वृथा मानुष जन्म गंवाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Puny Kiyaa Naa Hari Gun Gaayaa, Vrithaa Maanush Janm Ganvaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ना तुम पूजा मन्दिर देवा, ना सन्तों की कीनी सेवा ।",
+        "दान न दीना यज्ञ न कीना, ना तुम जाकर तीर्थ नाया ॥१ ॥",
+        "ना तुम अपना किया उद्धारा, ना तुम कीना पर उपकारा ।",
+        "ना तुम जागे हरि अनुरागे, किस कारण तू जग में आया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naa Tum Poojaa Mandir Devaa, Naa Santon Ki Kini Sevaa.",
+        "Daan Na Dinaa Yajny Na Kinaa, Naa Tum Jaakar Tirth Naayaa || 1 ||",
+        "Naa Tum Apnaa Kiyaa Uddhaaraa, Naa Tum Kinaa Par Upkaaraa.",
+        "Naa Tum Jaage Hari Anuraage, Kis Kaaran Tu Jag Men Aayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कहे टेऊँ ना आप पछाना, पार ब्रह्म को भी नहिं जाना ।",
+        "मानुष चोला रत्न अमोला, मूर्ख माटी माहिं मिलाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Naa Aap Pachhaanaa, Paar Brahm Ko Bhi Nahin Jaanaa.",
+        "Maanush Cholaa Ratn Amolaa, Murkh Maati Maahin Milaayaa || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "ना तुम पूजा मन्दिर देवा, ना सन्तों की कीनी सेवा ।",
+      "दान न दीना यज्ञ न कीना, ना तुम जाकर तीर्थ नाया ॥१ ॥",
+      "ना तुम अपना किया उद्धारा, ना तुम कीना पर उपकारा ।",
+      "ना तुम जागे हरि अनुरागे, किस कारण तू जग में आया ॥२ ॥"
+    ],
+    [
+      "कहे टेऊँ ना आप पछाना, पार ब्रह्म को भी नहिं जाना ।",
+      "मानुष चोला रत्न अमोला, मूर्ख माटी माहिं मिलाया ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Naa Tum Poojaa Mandir Devaa, Naa Santon Ki Kini Sevaa.",
+      "Daan Na Dinaa Yajny Na Kinaa, Naa Tum Jaakar Tirth Naayaa || 1 ||",
+      "Naa Tum Apnaa Kiyaa Uddhaaraa, Naa Tum Kinaa Par Upkaaraa.",
+      "Naa Tum Jaage Hari Anuraage, Kis Kaaran Tu Jag Men Aayaa || 2 ||"
+    ],
+    [
+      "Kahe Teun Naa Aap Pachhaanaa, Paar Brahm Ko Bhi Nahin Jaanaa.",
+      "Maanush Cholaa Ratn Amolaa, Murkh Maati Maahin Milaayaa || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "पुण्य किया ना हरि गुन गाया, वृथा मानुष जन्म गंवाया",
+    "Puny Kiyaa Naa Hari Gun Gaayaa, Vrithaa Maanush Janm Ganvaayaa",
+    "राग ज़िला भजन 28",
+    "Raag Zilaa Bhajan 28"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
+  ],
+  "displayOrder": 28,
+  "overallOrder": 341,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 203",
+  "updatedAt": "2026-10-26"
+}

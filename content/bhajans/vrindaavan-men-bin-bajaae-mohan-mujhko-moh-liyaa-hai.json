@@ -2,51 +2,98 @@
   "id": "bhajan-0332",
   "slug": "vrindaavan-men-bin-bajaae-mohan-mujhko-moh-liyaa-hai",
   "categoryId": "raag-zilaa",
-  "title": "वरिनदावन मेन बिन बजाे, मोहन मुझको मोह लिया है",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "वृन्दावन में बीन बजाए, मोहन मुझको मोह लिया है",
   "romanTitle": "Vrindaavan Men Bin Bajaae, Mohan Mujhko Moh Liyaa Hai",
   "firstLine": "Vrindaavan Men Bin Bajaae, Mohan Mujhko Moh Liyaa Hai (Tek).",
+  "heading": "।। राग ज़िला भजन ॥।। १९ ।। ३३२।।",
+  "tek": [
+    "वृन्दावन में बीन बजाए, मोहन मुझको मोह लिया है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vrindaavan Men Bin Bajaae, Mohan Mujhko Moh Liyaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुनकर मुरली भयी मस्तानी, छूट गयी कुल की सब कानी ।",
+        "रास रचाए मौज मचाए, हरि ने हमको मस्त किया है ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sunkar Murli Bhayi Mastaani, Chhut Gayi Kul Ki Sab Kaani.",
+        "Raas Rachaae Mauj Machaae, Hari Ne Hamko Mast Kiyaa Hai || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रीति प्रभू से जबहीं लागी, तबहीं मन की सुध सब भागी ।",
+        "नीन्द न आवे कछु ना भावे, पल पल आता याद पिया है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Priti Prabhu Se Jabhin Laagi, Tabhin Man Ki Sudh Sab Bhaagi.",
+        "Nind Na Aave Kachhu Naa Bhaave, Pal Pal Aataa Yaad Piyaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "न्त्य",
+        "वेद लोक कुल की तज लाजा, छोड़ दिया घर का सब काजा ।",
+        "पाय मुरारी गिरिवरधारी, दर्शन कर अब जीउ जिया है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nty",
+        "Ved Lok Kul Ki Taj Laajaa, Chhor Diyaa Ghar Kaa Sab Kaajaa.",
+        "Paay Muraari Girivradhaari, Darshan Kar Ab Jiu Jiyaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ मैं सदवारी, मोहनी मूरत पै बलिहारी ।",
+        "देके दर्शन मन कर प्रसन्न, दूख दरद सब खोय दिया है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Main Sadvaari, Mohni Murat Pai Balihaari.",
+        "Deke Darshan Man Kar Prasann, Dukh Darad Sab Khoy Diyaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "वरिनदावन मेन बिन बजाे, मोहन मुझको मोह लिया है (टेक)."
+      "सुनकर मुरली भयी मस्तानी, छूट गयी कुल की सब कानी ।",
+      "रास रचाए मौज मचाए, हरि ने हमको मस्त किया है ॥१ ॥१ ॥"
     ],
     [
-      "सुनकर मुरलि भयि मसतानि, चहुत गयि कुल कि सब कानि.",
-      "रास रचाे मौज मचाे, हरि ने हमको मसत किया है || 1$ ||"
+      "प्रीति प्रभू से जबहीं लागी, तबहीं मन की सुध सब भागी ।",
+      "नीन्द न आवे कछु ना भावे, पल पल आता याद पिया है ॥२ ॥"
     ],
     [
-      "परिति प्रभु से जभिन लागि, तभिन मन कि सुध सब भागि.",
-      "निनद न ावे कचहु ना भावे, पल पल ाता याद पिया है || 2 ||."
+      "न्त्य",
+      "वेद लोक कुल की तज लाजा, छोड़ दिया घर का सब काजा ।",
+      "पाय मुरारी गिरिवरधारी, दर्शन कर अब जीउ जिया है ॥३ ॥"
     ],
     [
-      "नतय",
-      "वेद लोक कुल कि तज लाजा, चहोर दिया घर का सब काजा."
-    ],
-    [
-      "पाय मुरारि गिरिवरधारि, दरशन कर ब जिु जिया है || 3 ||."
-    ],
-    [
-      "कहता तेऊँ मैं सदवारि, मोहनि मुरत पै बलिहारि.",
-      "देके दरशन मन कर परसनन, दुःख दरद सब खोय दिया है || 4 ||"
+      "कहता टेऊँ मैं सदवारी, मोहनी मूरत पै बलिहारी ।",
+      "देके दर्शन मन कर प्रसन्न, दूख दरद सब खोय दिया है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vrindaavan Men Bin Bajaae, Mohan Mujhko Moh Liyaa Hai (Tek)."
-    ],
-    [
       "Sunkar Murli Bhayi Mastaani, Chhut Gayi Kul Ki Sab Kaani.",
-      "Raas Rachaae Mauj Machaae, Hari Ne Hamko Mast Kiyaa Hai || 1$ ||"
+      "Raas Rachaae Mauj Machaae, Hari Ne Hamko Mast Kiyaa Hai || 1 || 1 ||"
     ],
     [
       "Priti Prabhu Se Jabhin Laagi, Tabhin Man Ki Sudh Sab Bhaagi.",
-      "Nind N Aave Kachhu Naa Bhaave, Pal Pal Aataa Yaad Piyaa Hai || 2 ||."
+      "Nind Na Aave Kachhu Naa Bhaave, Pal Pal Aataa Yaad Piyaa Hai || 2 ||"
     ],
     [
       "Nty",
-      "Ved Lok Kul Ki Taj Laajaa, Chhor Diyaa Ghar Kaa Sab Kaajaa."
-    ],
-    [
-      "Paay Muraari Girivradhaari, Darshan Kar Ab Jiu Jiyaa Hai || 3 ||."
+      "Ved Lok Kul Ki Taj Laajaa, Chhor Diyaa Ghar Kaa Sab Kaajaa.",
+      "Paay Muraari Girivradhaari, Darshan Kar Ab Jiu Jiyaa Hai || 3 ||"
     ],
     [
       "Kahtaa Teun Main Sadvaari, Mohni Murat Pai Balihaari.",
@@ -54,18 +101,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || || 19 || 332 ||",
+    "वृन्दावन में बीन बजाए, मोहन मुझको मोह लिया है",
     "Vrindaavan Men Bin Bajaae, Mohan Mujhko Moh Liyaa Hai",
-    "वरिनदावन मेन बिन बजाे, मोहन मुझको मोह लिया है"
+    "राग ज़िला भजन 19",
+    "Raag Zilaa Bhajan 19"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 332,
+  "displayOrder": 19,
+  "overallOrder": 332,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 198",
+  "updatedAt": "2026-10-26"
 }

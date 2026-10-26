@@ -1,43 +1,92 @@
 {
-  "id": "bhajan-0570",
+  "id": "bhajan-0568",
   "slug": "pati-se-prem-kaa-naataa-nibhaanaa-naari-ko-chahiye",
   "categoryId": "raag-khambhaat",
-  "title": "पति से प्रेम का नाता, निभाना नारि को चहिये",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "पती से प्रेम का नाता, निभाना नारि को चहिये",
   "romanTitle": "Pati Se Prem Kaa Naataa, Nibhaanaa Naari Ko Chahiye",
-  "firstLine": "Pati Se Prem Kaa Naataa, Nibhaanaa Naari Ko Chahiye. Guni Jan Granth Sab Gaate, Nibhaanaa Naari Ko Chahiye (Tek).",
+  "firstLine": "Pati Se Prem Kaa Naataa, Nibhaanaa Naari Ko Chahiye.",
+  "heading": "।। राग खम्भाट भजन ।। २० ।। ५६९।।",
+  "tek": [
+    "पती से प्रेम का नाता, निभाना नारि को चहिये ।",
+    "गुनी जन ग्रन्थ सब गाते, निभाना नारि को चहिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pati Se Prem Kaa Naataa, Nibhaanaa Naari Ko Chahiye.",
+    "Guni Jan Granth Sab Gaate, Nibhaanaa Naari Ko Chahiye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गयी सीता गहन बन में, धरे ज्यों भेष मुनिया का ।",
+        "तजे त्यों भोग दुनिया का, निभाना नारि को चहिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gayi Sitaa Gahan Ban Men, Dhare Jyon Bhesh Muniyaa Kaa.",
+        "Taje Tyon Bhog Duniyaa Kaa, Nibhaanaa Naari Ko Chahiye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पती ब्रह्मा पती विष्णू, पती है रूप शंकर का ।",
+        "समझ तिहेँ रूप ईश्वर का, निभाना नारि को चहिये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pati Brahmaa Pati Vishnu, Pati Hai Rup Shankar Kaa.",
+        "Samajh Tihen Rup Ishvar Kaa, Nibhaanaa Naari Ko Chahiye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पती पिंगला अन्धा भावें, विकारी मूक हो रोगी ।",
+        "समझ तो भी परम योगी, निभाना नारि को चहिये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pati Pinglaa Andhaa Bhaaven, Vikaari Muk Ho Rogi.",
+        "Samajh To Bhi Param Yogi, Nibhaanaa Naari Ko Chahiye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कपट त्यागे, पतीव्रत धर्म में रहकर ।",
+        "सर्व दुख इन्द्र को सहकर, निभाना नारि को चहिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kapat Tyaage, Pativrat Dharm Men Rahkar.",
+        "Sarv Dukh Indr Ko Sahkar, Nibhaanaa Naari Ko Chahiye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पति से प्रेम का नाता, निभाना नारि को चहिये.",
-      "गुनि जन गरनथ सब गाते, निभाना नारि को चहिये (टेक)."
+      "गयी सीता गहन बन में, धरे ज्यों भेष मुनिया का ।",
+      "तजे त्यों भोग दुनिया का, निभाना नारि को चहिये ॥१ ॥"
     ],
     [
-      "गयि सिता गहन बन मेन, धरे जयोन भेश मुनिया का.",
-      "तजे तयोन भोग दुनिया का, निभाना नारि को चहिये || 1 ||"
+      "पती ब्रह्मा पती विष्णू, पती है रूप शंकर का ।",
+      "समझ तिहेँ रूप ईश्वर का, निभाना नारि को चहिये ॥२ ॥"
     ],
     [
-      "पति बरहम पति विशनु, पति है रुप शनकर का.",
-      "समझ तिहेन रुप िशवर का, निभाना नारि को चहिये || 2 ||"
+      "पती पिंगला अन्धा भावें, विकारी मूक हो रोगी ।",
+      "समझ तो भी परम योगी, निभाना नारि को चहिये ॥३ ॥"
     ],
     [
-      "पति पिनगला नधा भावेन, विकारि मुक हो रोगि.",
-      "समझ तो भि परम योगि, निभाना नारि को चहिये || 3 ||"
-    ],
-    [
-      "कहे तेऊँ कपत तयागे, पतिवरत धरम मेन रहकर.",
-      "सर्व दुःख िनदर को सहकर, निभाना नारि को चहिये || 4. ||."
+      "कहे टेऊँ कपट त्यागे, पतीव्रत धर्म में रहकर ।",
+      "सर्व दुख इन्द्र को सहकर, निभाना नारि को चहिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Pati Se Prem Kaa Naataa, Nibhaanaa Naari Ko Chahiye.",
-      "Guni Jan Granth Sab Gaate, Nibhaanaa Naari Ko Chahiye (Tek)."
-    ],
     [
       "Gayi Sitaa Gahan Ban Men, Dhare Jyon Bhesh Muniyaa Kaa.",
       "Taje Tyon Bhog Duniyaa Kaa, Nibhaanaa Naari Ko Chahiye || 1 ||"
     ],
     [
-      "Pati Brahma Pati Vishnu, Pati Hai Rup Shankar Kaa.",
+      "Pati Brahmaa Pati Vishnu, Pati Hai Rup Shankar Kaa.",
       "Samajh Tihen Rup Ishvar Kaa, Nibhaanaa Naari Ko Chahiye || 2 ||"
     ],
     [
@@ -46,22 +95,24 @@
     ],
     [
       "Kahe Teun Kapat Tyaage, Pativrat Dharm Men Rahkar.",
-      "Sarv Dukh Indr Ko Sahkar, Nibhaanaa Naari Ko Chahiye || 4. ||."
+      "Sarv Dukh Indr Ko Sahkar, Nibhaanaa Naari Ko Chahiye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 20 || 569 ||",
+    "पती से प्रेम का नाता, निभाना नारि को चहिये",
     "Pati Se Prem Kaa Naataa, Nibhaanaa Naari Ko Chahiye",
-    "पति से प्रेम का नाता, निभाना नारि को चहिये"
+    "राग खंभात भजन 20",
+    "Raag Khambhaat Bhajan 20"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 570,
+  "displayOrder": 20,
+  "overallOrder": 568,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 310",
+  "updatedAt": "2026-10-26"
 }

@@ -1,74 +1,135 @@
 {
-  "id": "bhajan-0896",
+  "id": "bhajan-0894",
   "slug": "vachan-guru-nikaa-hai-nikaa",
   "categoryId": "raag-jog",
-  "title": "वचन गुरु निका है निका",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "वचन गुरु नीका है नीका",
   "romanTitle": "Vachan Guru Nikaa Hai Nikaa",
   "firstLine": "Vachan Guru Nikaa Hai Nikaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ६६ ।। ८९६ ॥।",
+  "tek": [
+    "वचन गुरु नीका है नीका ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vachan Guru Nikaa Hai Nikaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नीके मात पिता सुत दारा, बान्धव भाई भैना ।",
+        "सबसे नीका वचन गुरू का, साचा साथी जी का ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nike Maat Pitaa Sut Daaraa, Baandhav Bhaai Bhainaa.",
+        "Sabse Nikaa Vachan Guru Kaa, Saachaa Saathi Ji Kaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नीके रूपा कंचन माणिक, लाल जवाहर मोती ।",
+        "सब ते गुरू वचन धन नीका , हितकारी सबहीं का ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nike Rupaa Kanchan Maanik, Laal Javaahar Moti.",
+        "Sab Te Guru Vachan Dhan Nikaa, Hitkaari Sabhin Kaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नीके जप तप कर्म धर्म पुनि, सम दम संयम सेवा ।",
+        "सब साधन से नीका जानो , गुरू वचन सम टीका ॥ । ३े ॥"
+      ],
+      "romanLines": [
+        "Nike Jap Tap Karm Dharm Puni, Sam Dam Sanyam Sevaa.",
+        "Sab Saadhan Se Nikaa Jaano, Guru Vachan Sam Tikaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नीके दीपक दामिनि बतियां, नीके रवि शशि तारे ।",
+        "गुरू वचन रोशन के आगे, ये सब लागत फीका ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nike Dipak Daamini Batiyaan, Nike Ravi Shashi Taare.",
+        "Guru Vachan Roshan Ke Aage, Ye Sab Laagat Phikaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गुरू वचन जो हृदय धारे, काल जाल तिस छूटे ।",
+        "कहे टेऊँ को जन बड़भागी, पीवे वचन अमी का ॥५ ॥"
+      ],
+      "romanLines": [
+        "Guru Vachan Jo Hriday Dhaare, Kaal Jaal Tis Chhute.",
+        "Kahe Teun Ko Jan Barbhaagi, Pive Vachan Ami Kaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "वचन गुरु निका है निका (टेक)."
+      "नीके मात पिता सुत दारा, बान्धव भाई भैना ।",
+      "सबसे नीका वचन गुरू का, साचा साथी जी का ॥१ ॥"
     ],
     [
-      "निके मात पिता सुत दारा, बानधव भाि भैना.",
-      "सबसे निका वचन गुरु का, साचा साथि जी का ||.1 ||"
+      "नीके रूपा कंचन माणिक, लाल जवाहर मोती ।",
+      "सब ते गुरू वचन धन नीका , हितकारी सबहीं का ॥२ ॥"
     ],
     [
-      "निके रुपा कनचन मानिक, लाल जवाहर मोति.",
-      "सब ते गुरु वचन धन निका, हितकारि सभिन का || 2 ||."
+      "नीके जप तप कर्म धर्म पुनि, सम दम संयम सेवा ।",
+      "सब साधन से नीका जानो , गुरू वचन सम टीका ॥ । ३े ॥"
     ],
     [
-      "निके जप तप करम धरम पुनि, सम दम सनयम सेवा.",
-      "सब साधन से निका जानो, गुरु वचन सम तिका ||. 3े ||"
+      "नीके दीपक दामिनि बतियां, नीके रवि शशि तारे ।",
+      "गुरू वचन रोशन के आगे, ये सब लागत फीका ॥४ ॥"
     ],
     [
-      "निके दिपक दामिनि बतियान, निके रवि शशि तारे.",
-      "गुरु वचन रोशन के ागे, ये सब लागत फिका || 4. ||."
-    ],
-    [
-      "गुरु वचन जो हरिदय धारे, काल जाल तिस चहुते.",
-      "कहे तेऊँ को जन बरभागि, पिवे वचन मि का || 5. ||."
+      "गुरू वचन जो हृदय धारे, काल जाल तिस छूटे ।",
+      "कहे टेऊँ को जन बड़भागी, पीवे वचन अमी का ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vachan Guru Nikaa Hai Nikaa (Tek)."
-    ],
-    [
       "Nike Maat Pitaa Sut Daaraa, Baandhav Bhaai Bhainaa.",
-      "Sabse Nikaa Vachan Guru Kaa, Saachaa Saathi Ji Kaa ||.1 ||"
+      "Sabse Nikaa Vachan Guru Kaa, Saachaa Saathi Ji Kaa || 1 ||"
     ],
     [
       "Nike Rupaa Kanchan Maanik, Laal Javaahar Moti.",
-      "Sab Te Guru Vachan Dhan Nikaa, Hitkaari Sabhin Kaa || 2 ||."
+      "Sab Te Guru Vachan Dhan Nikaa, Hitkaari Sabhin Kaa || 2 ||"
     ],
     [
       "Nike Jap Tap Karm Dharm Puni, Sam Dam Sanyam Sevaa.",
-      "Sab Saadhan Se Nikaa Jaano, Guru Vachan Sam Tikaa ||. 3E ||"
+      "Sab Saadhan Se Nikaa Jaano, Guru Vachan Sam Tikaa || 3E ||"
     ],
     [
       "Nike Dipak Daamini Batiyaan, Nike Ravi Shashi Taare.",
-      "Guru Vachan Roshan Ke Aage, Ye Sab Laagat Phikaa || 4. ||."
+      "Guru Vachan Roshan Ke Aage, Ye Sab Laagat Phikaa || 4 ||"
     ],
     [
       "Guru Vachan Jo Hriday Dhaare, Kaal Jaal Tis Chhute.",
-      "Kahe Teun Ko Jan Barbhaagi, Pive Vachan Ami Kaa || 5. ||."
+      "Kahe Teun Ko Jan Barbhaagi, Pive Vachan Ami Kaa || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 66 || 896 ||.",
+    "वचन गुरु नीका है नीका",
     "Vachan Guru Nikaa Hai Nikaa",
-    "वचन गुरु निका है निका"
+    "राग जोग भजन 66",
+    "Raag Jog Bhajan 66"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 896,
+  "displayOrder": 66,
+  "overallOrder": 894,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 472",
+  "updatedAt": "2026-10-26"
 }

@@ -2,67 +2,117 @@
   "id": "bhajan-0206",
   "slug": "jaaun-main-sadguru-pai-balihaar",
   "categoryId": "raag-tori",
-  "title": "जाुन मैं सद्गुरु पै बलिहार",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "जाऊँ मैं सद्गुरु पै बलिहार",
   "romanTitle": "Jaaun Main Sadguru Pai Balihaar",
-  "firstLine": "Jaaun Main Sadguru Pai Balihaar. Mohi Bhriudd Sam Kiyaa Jisne Shabd Sunaaye Saar (Tek).",
+  "firstLine": "Jaaun Main Sadguru Pai Balihaar.",
+  "heading": "।। राग टोड़ी भजन ।। १४ ।। २०६।॥।",
+  "tek": [
+    "जाऊँ मैं सद्गुरु पै बलिहार ।",
+    "मोहि भृूड्ड सम कीया जिसने शब्द सुनाये सार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaaun Main Sadguru Pai Balihaar.",
+    "Mohi Bhriudd Sam Kiyaa Jisne Shabd Sunaaye Saar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मोह नींद से मोहि जगाया सद्गुरु देव पुकार ।",
+        "ज्ञान नैन तब खुले हमारे गया स्वप्न संसार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Moh Nind Se Mohi Jagaayaa Sadguru Dev Pukaar.",
+        "Gyaan Nain Tab Khule Hamaare Gayaa Svapn Sansaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कूकर सम मैं काच महल में भौंकत भेद पसार ।",
+        "कर कृपा गुरु ज्ञान बताया भूला भ्रम विकार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kukar Sam Main Kaach Mahal Men Bhaunkat Bhed Pasaar.",
+        "Kar Kripaa Guru Gyaan Bataayaa Bhulaa Bhram Vikaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन्ध कूप जग में मैं पड़कर पाया दूख अपार ।",
+        "तांसे सद्गुरु मोहि निकाला अपनी कृपा धार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Andh Kup Jag Men Main Parkar Paayaa Dukh Apaar.",
+        "Taanse Sadguru Mohi Nikaalaa Apni Kripaa Dhaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ केहर सम मुझसे भूला निज आकार ।",
+        "तोड़ भ्रम गुरु आप लखाया तांको करूं जुहार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kehar Sam Mujhse Bhulaa Nij Aakaar.",
+        "Tor Bhram Guru Aap Lakhaayaa Taanko Karun Juhaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जाुन मैं सद्गुरु पै बलिहार.",
-      "मोहि भरिुदद सम किया जिसने शबद सुनाये सार (टेक)."
+      "मोह नींद से मोहि जगाया सद्गुरु देव पुकार ।",
+      "ज्ञान नैन तब खुले हमारे गया स्वप्न संसार ॥१ ॥"
     ],
     [
-      "मोह निनद से मोहि जगाया सद्गुरु देव पुकार.",
-      "ज्ञान नैन तब खुले हमारे गया सवपन सनसार || 1 ||."
+      "कूकर सम मैं काच महल में भौंकत भेद पसार ।",
+      "कर कृपा गुरु ज्ञान बताया भूला भ्रम विकार ॥२ ॥"
     ],
     [
-      "कुकर सम मैं काच महल मेन भौनकत भेद पसार.",
-      "कर कृपा गुरु ज्ञान बताया भुला भरम विकार || 2 ||"
+      "अन्ध कूप जग में मैं पड़कर पाया दूख अपार ।",
+      "तांसे सद्गुरु मोहि निकाला अपनी कृपा धार ॥३ ॥"
     ],
     [
-      "नध कुप जग मेन मैं परकर पाया दुःख पार.",
-      "तानसे सद्गुरु मोहि निकाला पनि कृपा धार || 3 ||."
-    ],
-    [
-      "कहे तेऊँ केहर सम मुझसे भुला निज ाकार.",
-      "तोर भरम गुरु ाप लखाया तानको करुन जुहार || 4. ||."
+      "कहे टेऊँ केहर सम मुझसे भूला निज आकार ।",
+      "तोड़ भ्रम गुरु आप लखाया तांको करूं जुहार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jaaun Main Sadguru Pai Balihaar.",
-      "Mohi Bhriudd Sam Kiyaa Jisne Shabd Sunaaye Saar (Tek)."
-    ],
-    [
       "Moh Nind Se Mohi Jagaayaa Sadguru Dev Pukaar.",
-      "Jnyaan Nain Tab Khule Hamaare Gayaa Svapn Sansaar || 1 ||."
+      "Gyaan Nain Tab Khule Hamaare Gayaa Svapn Sansaar || 1 ||"
     ],
     [
       "Kukar Sam Main Kaach Mahal Men Bhaunkat Bhed Pasaar.",
-      "Kar Kripaa Guru Jnyaan Bataayaa Bhulaa Bhram Vikaar || 2 ||"
+      "Kar Kripaa Guru Gyaan Bataayaa Bhulaa Bhram Vikaar || 2 ||"
     ],
     [
       "Andh Kup Jag Men Main Parkar Paayaa Dukh Apaar.",
-      "Taanse Sadguru Mohi Nikaalaa Apni Kripaa Dhaar || 3 ||."
+      "Taanse Sadguru Mohi Nikaalaa Apni Kripaa Dhaar || 3 ||"
     ],
     [
       "Kahe Teun Kehar Sam Mujhse Bhulaa Nij Aakaar.",
-      "Tor Bhram Guru Aap Lakhaayaa Taanko Karun Juhaar || 4. ||."
+      "Tor Bhram Guru Aap Lakhaayaa Taanko Karun Juhaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 14 || 206. ||.",
+    "जाऊँ मैं सद्गुरु पै बलिहार",
     "Jaaun Main Sadguru Pai Balihaar",
-    "जाुन मैं सद्गुरु पै बलिहार"
+    "राग तोड़ी भजन 14",
+    "Raag Tori Bhajan 14"
   ],
   "tags": [
-    "tori",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
     "bhajan"
   ],
-  "displayOrder": 206,
+  "displayOrder": 14,
+  "overallOrder": 206,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 131",
+  "updatedAt": "2026-10-26"
 }

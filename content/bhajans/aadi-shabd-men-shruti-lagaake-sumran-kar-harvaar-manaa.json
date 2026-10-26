@@ -2,70 +2,115 @@
   "id": "bhajan-0040",
   "slug": "aadi-shabd-men-shruti-lagaake-sumran-kar-harvaar-manaa",
   "categoryId": "raag-prabhaati",
-  "title": "ादि शबद मेन शरुति लगाके, सुमरन कर हरवार मना",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "आदि शब्द में श्रुति लगाके, सुमरण कर हरवार मना",
   "romanTitle": "Aadi Shabd Men Shruti Lagaake, Sumran Kar Harvaar Manaa",
   "firstLine": "Aadi Shabd Men Shruti Lagaake, Sumran Kar Harvaar Manaa (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ८ ।। ४०।।",
+  "tek": [
+    "आदि शब्द में श्रुति लगाके, सुमरण कर हरवार मना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aadi Shabd Men Shruti Lagaake, Sumran Kar Harvaar Manaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आदि शब्द है सब का आदी, तामें लाओ सहज समाधी ।",
+        "जीव इंश की छोड़ उपाधी, चेतन लख इकसार मना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aadi Shabd Hai Sab Kaa Aadi, Taamen Laao Sahaj Samaadhi.",
+        "Jiv Insh Ki Chhor Upaadhi, Chetan Lakh Iksaar Manaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आदि शब्द की हस्ती धारे, जीव चराचर वर्तत सारे ।",
+        "फूल रहे सब ताहिं सहारे, तां बिन जगत असार मना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aadi Shabd Ki Hasti Dhaare, Jiv Charaachar Vartat Saare.",
+        "Phul Rahe Sab Taahin Sahaare, Taan Bin Jagat Asaar Manaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आदि शब्द का होत उचारा, सब जीवों के घटहिं मंजझारा ।",
+        "समझे तांको कोई प्यारा, जांको सत्‌ वीचार मना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aadi Shabd Kaa Hot Uchaaraa, Sab Jivon Ke Ghathin Manjjhaaraa.",
+        "Samjhe Taanko Koi Pyaaraa, Jaanko Sat‌ Vichaar Manaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो गुरु गम जाने, आदि शब्द को सो पहिचाने ।",
+        "तुम भी गुरु गम मन में आने, सुमरो तिह॑ं सदूवार मना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Guru Gam Jaane, Aadi Shabd Ko So Pahichaane.",
+        "Tum Bhi Guru Gam Man Men Aane, Sumro Tihn Saduvaar Manaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ादि शबद मेन शरुति लगाके, सुमरन कर हरवार मना (टेक)."
+      "आदि शब्द है सब का आदी, तामें लाओ सहज समाधी ।",
+      "जीव इंश की छोड़ उपाधी, चेतन लख इकसार मना ॥१ ॥"
     ],
     [
-      "ादि शबद है सब का ादि, तामेन लाो सहज समाधि.",
-      "जिव िनश कि चहोर ुपाधि, चेतन लख िकसार मना || 1 ||"
+      "आदि शब्द की हस्ती धारे, जीव चराचर वर्तत सारे ।",
+      "फूल रहे सब ताहिं सहारे, तां बिन जगत असार मना ॥२ ॥"
     ],
     [
-      "ादि शबद कि हसति धारे, जिव चराचर वरतत सारे.",
-      "फुल रहे सब ताहिन सहारे, तान बिन जगत सार मना || 2 ||."
+      "आदि शब्द का होत उचारा, सब जीवों के घटहिं मंजझारा ।",
+      "समझे तांको कोई प्यारा, जांको सत्‌ वीचार मना ॥३ ॥"
     ],
     [
-      "ादि शबद का होत ुचारा, सब जिवोन के घथिन मनजझारा.",
-      "समझे तानको कोि पयारा, जानको सत‌ विचार मना ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ जो गुरु गम जाने, ादि शबद को सो पहिचाने.",
-      "तुम भि गुरु गम मन मेन ाने, सुमरो तिहन सदुवार मना || 4 ||"
-    ],
-    [
-      "दम"
+      "कहे टेऊँ जो गुरु गम जाने, आदि शब्द को सो पहिचाने ।",
+      "तुम भी गुरु गम मन में आने, सुमरो तिह॑ं सदूवार मना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Aadi Shabd Men Shruti Lagaake, Sumran Kar Harvaar Manaa (Tek)."
-    ],
     [
       "Aadi Shabd Hai Sab Kaa Aadi, Taamen Laao Sahaj Samaadhi.",
       "Jiv Insh Ki Chhor Upaadhi, Chetan Lakh Iksaar Manaa || 1 ||"
     ],
     [
       "Aadi Shabd Ki Hasti Dhaare, Jiv Charaachar Vartat Saare.",
-      "Phul Rahe Sab Taahin Sahaare, Taan Bin Jagat Asaar Manaa || 2 ||."
+      "Phul Rahe Sab Taahin Sahaare, Taan Bin Jagat Asaar Manaa || 2 ||"
     ],
     [
       "Aadi Shabd Kaa Hot Uchaaraa, Sab Jivon Ke Ghathin Manjjhaaraa.",
-      "Samjhe Taanko Koi Pyaaraa, Jaanko Sat‌ Vichaar Manaa ||.3 ||."
+      "Samjhe Taanko Koi Pyaaraa, Jaanko Sat‌ Vichaar Manaa || 3 ||"
     ],
     [
       "Kahe Teun Jo Guru Gam Jaane, Aadi Shabd Ko So Pahichaane.",
       "Tum Bhi Guru Gam Man Men Aane, Sumro Tihn Saduvaar Manaa || 4 ||"
-    ],
-    [
-      "Dam"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 8 || 40 ||",
+    "आदि शब्द में श्रुति लगाके, सुमरण कर हरवार मना",
     "Aadi Shabd Men Shruti Lagaake, Sumran Kar Harvaar Manaa",
-    "ादि शबद मेन शरुति लगाके, सुमरन कर हरवार मना"
+    "राग प्रभाती भजन 8",
+    "Raag Prabhaati Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 40,
+  "displayOrder": 8,
+  "overallOrder": 40,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 45",
+  "updatedAt": "2026-10-26"
 }

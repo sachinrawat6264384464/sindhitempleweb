@@ -1,72 +1,120 @@
 {
-  "id": "bhajan-0863",
+  "id": "bhajan-0861",
   "slug": "guru-kaa-shabd-kamaanaa-gurumukh-guru-kaa-shabd-kamaanaa",
   "categoryId": "raag-jog",
-  "title": "गुरु का शबद कमाना, गुरुमुख गुरु का शबद कमाना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "गुरु का शब्द कमाना, गुरुमुख गुरु का शब्द कमाना",
   "romanTitle": "Guru Kaa Shabd Kamaanaa, Gurumukh Guru Kaa Shabd Kamaanaa",
   "firstLine": "Guru Kaa Shabd Kamaanaa, Gurumukh Guru Kaa Shabd Kamaanaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ३३ ।। ८६३।।",
+  "tek": [
+    "गुरु का शब्द कमाना, गुरुमुख गुरु का शब्द कमाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Kaa Shabd Kamaanaa, Gurumukh Guru Kaa Shabd Kamaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शब्द गुरू का निर्मल मोती, को गुरुमुख हंसा खावे ।",
+        "जो गुरु की सेव कमावे, तज तन मन का अभिमाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shabd Guru Kaa Nirmal Moti, Ko Gurumukh Hansaa Khaave.",
+        "Jo Guru Ki Sev Kamaave, Taj Tan Man Kaa Abhimaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ग्र्द्ठ",
+        "शब्द गुरू का निशदिन सुमरे, नित निर्मल मन को कीजे ।",
+        "तुम अमृत रस को पीजे, दुख आवागमन मिटाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Grdth",
+        "Shabd Guru Kaa Nishdin Sumre, Nit Nirmal Man Ko Kije.",
+        "Tum Amrit Ras Ko Pije, Dukh Aavaagman Mitaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शब्द गुरू का जो वीचारे, सो संसा श्रम मिटावे ।",
+        "नहिं चौरासी में जावे, पुनि पावे पद निर्बाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shabd Guru Kaa Jo Vichaare, So Sansaa Shram Mitaave.",
+        "Nahin Chauraasi Men Jaave, Puni Paave Pad Nirbaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जग बन्धन तोड़े, गुरु मन्त्र जाप जपीजे ।",
+        "सब पाप ताप हर लीजे, कर आतम घर स्थाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jag Bandhan Tore, Guru Mantr Jaap Japije.",
+        "Sab Paap Taap Har Lije, Kar Aatam Ghar Sthaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु का शबद कमाना, गुरुमुख गुरु का शबद कमाना (टेक)."
+      "शब्द गुरू का निर्मल मोती, को गुरुमुख हंसा खावे ।",
+      "जो गुरु की सेव कमावे, तज तन मन का अभिमाना ॥१ ॥"
     ],
     [
-      "शबद गुरु का निर्मल मोति, को गुरुमुख हनसा खावे.",
-      "जो गुरु कि सेव कमावे, तज तन मन का भिमाना || 1 ||."
+      "ग्र्द्ठ",
+      "शब्द गुरू का निशदिन सुमरे, नित निर्मल मन को कीजे ।",
+      "तुम अमृत रस को पीजे, दुख आवागमन मिटाना ॥२ ॥"
     ],
     [
-      "गरदथ",
-      "शबद गुरु का निशदिन सुमरे, नित निर्मल मन को किजे."
+      "शब्द गुरू का जो वीचारे, सो संसा श्रम मिटावे ।",
+      "नहिं चौरासी में जावे, पुनि पावे पद निर्बाना ॥३ ॥"
     ],
     [
-      "तुम अमृत रस को पिजे, दुःख ावागमन मिताना || 2 ||"
-    ],
-    [
-      "शबद गुरु का जो विचारे, सो सनसा शरम मितावे.",
-      "नहिन चौरासि मेन जावे, पुनि पावे पद निरबाना || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जग बनधन तोरे, गुरु मनतर जाप जपिजे.",
-      "सब पाप ताप हर लिजे, कर ातम घर सथाना || 4 ||."
+      "कहे टेऊँ जग बन्धन तोड़े, गुरु मन्त्र जाप जपीजे ।",
+      "सब पाप ताप हर लीजे, कर आतम घर स्थाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Kaa Shabd Kamaanaa, Gurumukh Guru Kaa Shabd Kamaanaa (Tek)."
-    ],
-    [
       "Shabd Guru Kaa Nirmal Moti, Ko Gurumukh Hansaa Khaave.",
-      "Jo Guru Ki Sev Kamaave, Taj Tan Man Kaa Abhimaanaa || 1 ||."
+      "Jo Guru Ki Sev Kamaave, Taj Tan Man Kaa Abhimaanaa || 1 ||"
     ],
     [
       "Grdth",
-      "Shabd Guru Kaa Nishdin Sumre, Nit Nirmal Man Ko Kije."
-    ],
-    [
+      "Shabd Guru Kaa Nishdin Sumre, Nit Nirmal Man Ko Kije.",
       "Tum Amrit Ras Ko Pije, Dukh Aavaagman Mitaanaa || 2 ||"
     ],
     [
       "Shabd Guru Kaa Jo Vichaare, So Sansaa Shram Mitaave.",
-      "Nahin Chauraasi Men Jaave, Puni Paave Pad Nirbaanaa || 3 ||."
+      "Nahin Chauraasi Men Jaave, Puni Paave Pad Nirbaanaa || 3 ||"
     ],
     [
       "Kahe Teun Jag Bandhan Tore, Guru Mantr Jaap Japije.",
-      "Sab Paap Taap Har Lije, Kar Aatam Ghar Sthaanaa || 4 ||."
+      "Sab Paap Taap Har Lije, Kar Aatam Ghar Sthaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 33 || 863 ||",
+    "गुरु का शब्द कमाना, गुरुमुख गुरु का शब्द कमाना",
     "Guru Kaa Shabd Kamaanaa, Gurumukh Guru Kaa Shabd Kamaanaa",
-    "गुरु का शबद कमाना, गुरुमुख गुरु का शबद कमाना"
+    "राग जोग भजन 33",
+    "Raag Jog Bhajan 33"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 863,
+  "displayOrder": 33,
+  "overallOrder": 861,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 454",
+  "updatedAt": "2026-10-26"
 }

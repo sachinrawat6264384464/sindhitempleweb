@@ -1,57 +1,97 @@
 {
-  "id": "bhajan-0782",
+  "id": "bhajan-0780",
   "slug": "man-meraa-khud-masti-chaaho-pio-prem-pyaalaa-re",
   "categoryId": "raag-pilaa",
-  "title": "मन मेरा खुद मसति चाहो, पिो प्रेम पयाला रे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मन मेरा खुद मस्ती चाहो, पीओ प्रेम प्याला रे",
   "romanTitle": "Man Meraa Khud Masti Chaaho, Pio Prem Pyaalaa Re",
   "firstLine": "Man Meraa Khud Masti Chaaho, Pio Prem Pyaalaa Re (Tek).",
+  "heading": "।। राग पीला भजन ॥।। ६० ।। ७८२।॥।",
+  "tek": [
+    "मन मेरा खुद मस्ती चाहो, पीओ प्रेम प्याला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Meraa Khud Masti Chaaho, Pio Prem Pyaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्तनि संग में प्रेम का सागर, उमड़ उठे हर काला रे ।",
+        "तन मन धन की दक्षिणा देकर, लेवो प्रेम रसाला रे ।4१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santani Sang Men Prem Kaa Saagar, Umar Uthe Har Kaalaa Re.",
+        "Tan Man Dhan Ki Dakshinaa Dekar, Levo Prem Rasaalaa Re.41 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नामदेव त्रिलोचन पीपा, सैन कबीर कमाला रे ।",
+        "संतों के संग प्रेम प्याला, पी पी भये मतवाला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naamdev Trilochan Pipaa, Sain Kabir Kamaalaa Re.",
+        "Santon Ke Sang Prem Pyaalaa, Pi Pi Bhaye Matvaalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ इस प्रेम सिन्धू का, रस है बहुत विशाला रे ।",
+        "एक बूंद जो पीवे सोई, मस्त रहे हर हाला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Is Prem Sindhu Kaa, Ras Hai Bahut Vishaalaa Re.",
+        "Ek Bund Jo Pive Soi, Mast Rahe Har Haalaa Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन मेरा खुद मसति चाहो, पिो प्रेम पयाला रे (टेक)."
+      "सन्तनि संग में प्रेम का सागर, उमड़ उठे हर काला रे ।",
+      "तन मन धन की दक्षिणा देकर, लेवो प्रेम रसाला रे ।4१ ॥१ ॥"
     ],
     [
-      "सनतनि सनग मेन प्रेम का सागर, ुमर ुथे हर काला रे.",
-      "तन मन धन कि दकशिना देकर, लेवो प्रेम रसाला रे.41$ ||."
+      "नामदेव त्रिलोचन पीपा, सैन कबीर कमाला रे ।",
+      "संतों के संग प्रेम प्याला, पी पी भये मतवाला रे ॥२ ॥"
     ],
     [
-      "नामदेव तरिलोचन पिपा, सैन कबिर कमाला रे.",
-      "सनतोन के सनग प्रेम पयाला, पि पि भये मतवाला रे || 2 ||."
-    ],
-    [
-      "कहे तेऊँ िस प्रेम सिनधु का, रस है बहुत विशाला रे.",
-      "ेक बुनद जो पिवे सोि, मसत रहे हर हाला रे ||.3 ||."
+      "कहे टेऊँ इस प्रेम सिन्धू का, रस है बहुत विशाला रे ।",
+      "एक बूंद जो पीवे सोई, मस्त रहे हर हाला रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Meraa Khud Masti Chaaho, Pio Prem Pyaalaa Re (Tek)."
-    ],
-    [
       "Santani Sang Men Prem Kaa Saagar, Umar Uthe Har Kaalaa Re.",
-      "Tan Man Dhan Ki Dakshinaa Dekar, Levo Prem Rasaalaa Re.41$ ||."
+      "Tan Man Dhan Ki Dakshinaa Dekar, Levo Prem Rasaalaa Re.41 || 1 ||"
     ],
     [
       "Naamdev Trilochan Pipaa, Sain Kabir Kamaalaa Re.",
-      "Santon Ke Sang Prem Pyaalaa, Pi Pi Bhaye Matvaalaa Re || 2 ||."
+      "Santon Ke Sang Prem Pyaalaa, Pi Pi Bhaye Matvaalaa Re || 2 ||"
     ],
     [
       "Kahe Teun Is Prem Sindhu Kaa, Ras Hai Bahut Vishaalaa Re.",
-      "Ek Bund Jo Pive Soi, Mast Rahe Har Haalaa Re ||.3 ||."
+      "Ek Bund Jo Pive Soi, Mast Rahe Har Haalaa Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 60 || 782. ||.",
+    "मन मेरा खुद मस्ती चाहो, पीओ प्रेम प्याला रे",
     "Man Meraa Khud Masti Chaaho, Pio Prem Pyaalaa Re",
-    "मन मेरा खुद मसति चाहो, पिो प्रेम पयाला रे"
+    "राग पीला भजन 59",
+    "Raag Pilaa Bhajan 59"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 782,
+  "displayOrder": 59,
+  "overallOrder": 780,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 412",
+  "updatedAt": "2026-10-26"
 }

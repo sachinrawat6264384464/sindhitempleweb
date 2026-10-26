@@ -1,57 +1,97 @@
 {
-  "id": "bhajan-0713",
+  "id": "bhajan-0711",
   "slug": "mere-man-ab-jaag-hari-kaa-bhajan-karo",
   "categoryId": "raag-pahaari",
-  "title": "मेरे मन ब जाग, हरि का भजन करो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मेरे मन अब जाग, हरि का भजन करो ॥",
   "romanTitle": "Mere Man Ab Jaag, Hari Kaa Bhajan Karo",
   "firstLine": "Mere Man Ab Jaag, Hari Kaa Bhajan Karo (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ६४ ।। ७१२।।",
+  "tek": [
+    "मेरे मन अब जाग, हरि का भजन करो ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Ab Jaag, Hari Kaa Bhajan Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जागन का यह अवसर आया, मानुष तन तुम पुण्य ते पाया ।",
+        "सत्‌गुरु के संग लाग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaagan Kaa Yah Avsar Aayaa, Maanush Tan Tum Puny Te Paayaa.",
+        "Sat‌Guru Ke Sang Laag || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "झूठे जग के नाते तोड़े, जगतपती से जिय को जोड़े ।",
+        "करे सर्व का त्याग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jhuthe Jag Ke Naate Tore, Jagatpati Se Jiy Ko Jore.",
+        "Kare Sarv Kaa Tyaag || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ सुनले प्यारे, ब्रह्म ज्ञान को हृदय धारे ।",
+        "खोलो अपना भाग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sunle Pyaare, Brahm Gyaan Ko Hriday Dhaare.",
+        "Kholo Apnaa Bhaag || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन ब जाग, हरि का भजन करो (टेक)."
+      "जागन का यह अवसर आया, मानुष तन तुम पुण्य ते पाया ।",
+      "सत्‌गुरु के संग लाग ॥१ ॥"
     ],
     [
-      "जागन का यह वसर ाया, मानुश तन तुम पुनय ते पाया.",
-      "सतगुरु के सनग लाग || 1 ||."
+      "झूठे जग के नाते तोड़े, जगतपती से जिय को जोड़े ।",
+      "करे सर्व का त्याग ॥२ ॥"
     ],
     [
-      "झुथे जग के नाते तोरे, जगतपति से जिय को जोरे.",
-      "करे सर्व का तयाग || 2 ||."
-    ],
-    [
-      "कहता तेऊँ सुनले पयारे, बरहम ज्ञान को हरिदय धारे.",
-      "खोलो पना भाग. ||.3 ||."
+      "कहता टेऊँ सुनले प्यारे, ब्रह्म ज्ञान को हृदय धारे ।",
+      "खोलो अपना भाग ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Ab Jaag, Hari Kaa Bhajan Karo (Tek)."
-    ],
-    [
       "Jaagan Kaa Yah Avsar Aayaa, Maanush Tan Tum Puny Te Paayaa.",
-      "Sat‌Guru Ke Sang Laag || 1 ||."
+      "Sat‌Guru Ke Sang Laag || 1 ||"
     ],
     [
-      "Jhuthe Jag Ke Naate Tore, Jagtapti Se Jiy Ko Jore.",
-      "Kare Sarv Kaa Tyaag || 2 ||."
+      "Jhuthe Jag Ke Naate Tore, Jagatpati Se Jiy Ko Jore.",
+      "Kare Sarv Kaa Tyaag || 2 ||"
     ],
     [
-      "Kahtaa Teun Sunle Pyaare, Brahm Jnyaan Ko Hriday Dhaare.",
-      "Kholo Apnaa Bhaag. ||.3 ||."
+      "Kahtaa Teun Sunle Pyaare, Brahm Gyaan Ko Hriday Dhaare.",
+      "Kholo Apnaa Bhaag || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 64 || 712 ||",
+    "मेरे मन अब जाग, हरि का भजन करो ॥",
     "Mere Man Ab Jaag, Hari Kaa Bhajan Karo",
-    "मेरे मन ब जाग, हरि का भजन करो"
+    "राग पहाड़ी भजन 64",
+    "Raag Pahaari Bhajan 64"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 713,
+  "displayOrder": 64,
+  "overallOrder": 711,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 378",
+  "updatedAt": "2026-10-26"
 }

@@ -1,89 +1,123 @@
 {
-  "id": "bhajan-0709",
+  "id": "bhajan-0707",
   "slug": "karo-santon-kaa-sang-hoke-jag-se-nisang",
   "categoryId": "raag-pahaari",
-  "title": "करो सनतोन का सनग, होके जग से निसनग",
-  "romanTitle": "Karo Santon Kaa Sang, Hoke Jag Se Nisang",
-  "firstLine": "Karo Santon Kaa Sang, Hoke Jag Se Nisang, Jaanse Hoy Uddhaar (Tek).",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "करो सन्तों का संग, होके जग से निसंग,",
+  "romanTitle": "Karo Santon Kaa Sang, Hoke Jag Se Nisang,",
+  "firstLine": "Karo Santon Kaa Sang, Hoke Jag Se Nisang,",
+  "heading": "।। राग पहाड़ी भजन ।। ६० ।। ७०८॥।",
+  "tek": [
+    "करो सन्तों का संग, होके जग से निसंग,",
+    "जांसे होय उद्धार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Santon Kaa Sang, Hoke Jag Se Nisang,",
+    "Jaanse Hoy Uddhaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सब कर्मों से सत्संग प्रधान है ।",
+        "जामें धर्म कर्म ओऔ भक्ती ज्ञान है ।",
+        "वेद पुरान पुकार, है सत्संग सार,",
+        "जांसे होय उद्धार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sab Karmon Se Satsang Pradhaan Hai.",
+        "Jaamen Dharm Karm Oau Bhakti Gyaan Hai.",
+        "Ved Puraan Pukaar, Hai Satsang Saar,",
+        "Jaanse Hoy Uddhaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जब सैने का सत्संग से होया प्यार ।",
+        "नाई बनके आया आप कृष्ण मुरार ।",
+        "तप से सत्संग बड़ा, किया धरनि को खड़ा,",
+        "जांसे होय उद्धार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jab Saine Kaa Satsang Se Hoyaa Pyaar.",
+        "Naai Banke Aayaa Aap Krishn Muraar.",
+        "Tap Se Satsang Baraa, Kiyaa Dharni Ko Kharaa,",
+        "Jaanse Hoy Uddhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्संग से सदा जोग जुगती मिले ।",
+        "कहे टेऊँ परम शान्ति मुक्ती मिले ।",
+        "सत्संग से सज्जन, पावो सुख का सदन,",
+        "जांसे होय उद्धार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Satsang Se Sadaa Jog Jugti Mile.",
+        "Kahe Teun Param Shaanti Mukti Mile.",
+        "Satsang Se Sajjan, Paavo Sukh Kaa Sadan,",
+        "Jaanse Hoy Uddhaar || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सनतोन का सनग, होके जग से निसनग,",
-      "जानसे होय ुदधार (टेक)."
-    ],
-    [
-      "सब करमोन से सत्संग परधान है.",
-      "जामेन धरम करम ोौ भक्ति ज्ञान है."
-    ],
-    [
+      "सब कर्मों से सत्संग प्रधान है ।",
+      "जामें धर्म कर्म ओऔ भक्ती ज्ञान है ।",
       "वेद पुरान पुकार, है सत्संग सार,",
-      "जानसे होय ुदधार || 1 ||"
+      "जांसे होय उद्धार ॥१ ॥"
     ],
     [
-      "जब सैने का सत्संग से होया पयार.",
-      "नाि बनके ाया ाप करिशन मुरार."
+      "जब सैने का सत्संग से होया प्यार ।",
+      "नाई बनके आया आप कृष्ण मुरार ।",
+      "तप से सत्संग बड़ा, किया धरनि को खड़ा,",
+      "जांसे होय उद्धार ॥२ ॥"
     ],
     [
-      "तप से सत्संग बरा, किया धरनि को खरा,",
-      "जानसे होय ुदधार || 2 ||"
-    ],
-    [
-      "सत्संग से सदा जोग जुगति मिले.",
-      "कहे तेऊँ परम शांति मुक्ति मिले."
-    ],
-    [
-      "सत्संग से सजजन, पावो सुख का सदन,",
-      "जानसे होय ुदधार || 3े ||"
-    ],
-    [
-      "न"
+      "सत्संग से सदा जोग जुगती मिले ।",
+      "कहे टेऊँ परम शान्ति मुक्ती मिले ।",
+      "सत्संग से सज्जन, पावो सुख का सदन,",
+      "जांसे होय उद्धार ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Santon Kaa Sang, Hoke Jag Se Nisang,",
-      "Jaanse Hoy Uddhaar (Tek)."
-    ],
-    [
       "Sab Karmon Se Satsang Pradhaan Hai.",
-      "Jaamen Dharm Karm Oau Bhakti Jnyaan Hai."
-    ],
-    [
+      "Jaamen Dharm Karm Oau Bhakti Gyaan Hai.",
       "Ved Puraan Pukaar, Hai Satsang Saar,",
       "Jaanse Hoy Uddhaar || 1 ||"
     ],
     [
       "Jab Saine Kaa Satsang Se Hoyaa Pyaar.",
-      "Naai Banke Aayaa Aap Krishn Muraar."
-    ],
-    [
+      "Naai Banke Aayaa Aap Krishn Muraar.",
       "Tap Se Satsang Baraa, Kiyaa Dharni Ko Kharaa,",
       "Jaanse Hoy Uddhaar || 2 ||"
     ],
     [
       "Satsang Se Sadaa Jog Jugti Mile.",
-      "Kahe Teun Param Shaanti Mukti Mile."
-    ],
-    [
+      "Kahe Teun Param Shaanti Mukti Mile.",
       "Satsang Se Sajjan, Paavo Sukh Kaa Sadan,",
-      "Jaanse Hoy Uddhaar || 3E ||"
-    ],
-    [
-      "N"
+      "Jaanse Hoy Uddhaar || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 60 || 708 ||.",
-    "Karo Santon Kaa Sang, Hoke Jag Se Nisang",
-    "करो सनतोन का सनग, होके जग से निसनग"
+    "करो सन्तों का संग, होके जग से निसंग,",
+    "Karo Santon Kaa Sang, Hoke Jag Se Nisang,",
+    "राग पहाड़ी भजन 60",
+    "Raag Pahaari Bhajan 60"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 709,
+  "displayOrder": 60,
+  "overallOrder": 707,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 376",
+  "updatedAt": "2026-10-26"
 }

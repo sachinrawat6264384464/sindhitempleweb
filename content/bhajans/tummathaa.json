@@ -2,71 +2,119 @@
   "id": "bhajan-0122",
   "slug": "tummathaa",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "तुममथा",
   "romanTitle": "Tummathaa",
-  "firstLine": "Tummathaa (Tek). Maat Pitaa Guru Sant Charan Men, Shraddhaa Se Nitmathaa (Tek).",
+  "firstLine": "Tummathaa (Tek).",
+  "heading": "।। राग आसा भजन ।। ६० ।। १२२।।",
+  "tek": [
+    "तुम टेक टेक टेक मथा ।"
+  ],
+  "romanTek": [
+    "Tummathaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता गुरु सन्त चरण में , श्रद्धा से नित टेक मथा ॥ टेक ॥",
+        "शाम सवेरे श्रद्धा धारे, नाय बड़ों को मस्तक प्यारे ।",
+        "अपने सिर के पाप निवारे, पाओ मोक्ष धाम पथा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Guru Sant Charan Men, Shraddhaa Se Nitmathaa (Tek).",
+        "Shaam Savere Shraddhaa Dhaare, Naay Baron Ko Mastak Pyaare.",
+        "Apne Sir Ke Paap Nivaare, Paao Moksh Dhaam Pathaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भीष्म को जब सीस निवाया, धर्मपुत्र वर जय का पाया ।",
+        "मौत न मारकण्डे ढिग आया, पुराणों में है एह कथा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhishm Ko Jab Sis Nivaayaa, Dharmaputr Var Jay Kaa Paayaa.",
+        "Maut Na Maarkande Dhig Aayaa, Puraanon Men Hai Eh Kathaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चरण बड़ों के जो सिर नावे, सड्टूट तांके निकट न आवे ।",
+        "आयू यश बल विद्या पावे, तुम भी पाओ ताहिं तथा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Charan Baron Ke Jo Sir Naave, Sadtut Taanke Nikat Na Aave.",
+        "Aayu Yash Bal Vidyaa Paave, Tum Bhi Paao Taahin Tathaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु सनतों आगे, सिर नावे जो मान त्यागे ।",
+        "तांसे यम भी डर कर भागे, देख सिंह को मृग यथा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Santon Aage, Sir Naave Jo Maan Tyaage.",
+        "Taanse Yam Bhi Dar Kar Bhaage, Dekh Sinh Ko Mrig Yathaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुममथा (टेक)."
+      "मात पिता गुरु सन्त चरण में , श्रद्धा से नित टेक मथा ॥ टेक ॥",
+      "शाम सवेरे श्रद्धा धारे, नाय बड़ों को मस्तक प्यारे ।",
+      "अपने सिर के पाप निवारे, पाओ मोक्ष धाम पथा ॥१ ॥"
     ],
     [
-      "मात पिता गुरु संत चरण मेन, शरदधा से नितमथा (टेक)."
+      "भीष्म को जब सीस निवाया, धर्मपुत्र वर जय का पाया ।",
+      "मौत न मारकण्डे ढिग आया, पुराणों में है एह कथा ॥२ ॥"
     ],
     [
-      "शाम सवेरे शरदधा धारे, नाय बरोन को मसतक पयारे.",
-      "पने सिर के पाप निवारे, पाो मोक्ष धाम पथा || 1 ||"
+      "चरण बड़ों के जो सिर नावे, सड्टूट तांके निकट न आवे ।",
+      "आयू यश बल विद्या पावे, तुम भी पाओ ताहिं तथा ॥३ ॥"
     ],
     [
-      "भिशम को जब सिस निवाया, धरमपुतर वर जय का पाया.",
-      "मौत न मारकनदे धिग ाया, पुरानोन मेन है ेह कथा || 2. ||."
-    ],
-    [
-      "चरण बरोन के जो सिर नावे, सदतुत तानके निकत न ावे.",
-      "ायु यश बल विदया पावे, तुम भि पाो ताहिन तथा || 3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु सनतोन ागे, सिर नावे जो मान तयागे.",
-      "तानसे यम भि दर कर भागे, देख सिनह को मरिग यथा || 4 ||."
+      "कहे टेऊँ गुरु सनतों आगे, सिर नावे जो मान त्यागे ।",
+      "तांसे यम भी डर कर भागे, देख सिंह को मृग यथा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tummathaa (Tek)."
-    ],
-    [
-      "Maat Pitaa Guru Sant Charan Men, Shraddhaa Se Nitmathaa (Tek)."
-    ],
-    [
+      "Maat Pitaa Guru Sant Charan Men, Shraddhaa Se Nitmathaa (Tek).",
       "Shaam Savere Shraddhaa Dhaare, Naay Baron Ko Mastak Pyaare.",
       "Apne Sir Ke Paap Nivaare, Paao Moksh Dhaam Pathaa || 1 ||"
     ],
     [
       "Bhishm Ko Jab Sis Nivaayaa, Dharmaputr Var Jay Kaa Paayaa.",
-      "Maut N Maarkande Dhig Aayaa, Puraanon Men Hai Eh Kathaa || 2. ||."
+      "Maut Na Maarkande Dhig Aayaa, Puraanon Men Hai Eh Kathaa || 2 ||"
     ],
     [
-      "Charan Baron Ke Jo Sir Naave, Sadtut Taanke Nikat N Aave.",
-      "Aayu Yash Bal Vidyaa Paave, Tum Bhi Paao Taahin Tathaa || 3 ||."
+      "Charan Baron Ke Jo Sir Naave, Sadtut Taanke Nikat Na Aave.",
+      "Aayu Yash Bal Vidyaa Paave, Tum Bhi Paao Taahin Tathaa || 3 ||"
     ],
     [
       "Kahe Teun Guru Santon Aage, Sir Naave Jo Maan Tyaage.",
-      "Taanse Yam Bhi Dar Kar Bhaage, Dekh Sinh Ko Mrig Yathaa || 4 ||."
+      "Taanse Yam Bhi Dar Kar Bhaage, Dekh Sinh Ko Mrig Yathaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 60 || 122 ||",
+    "तुममथा",
     "Tummathaa",
-    "तुममथा"
+    "राग आसा भजन 60",
+    "Raag Aasaa Bhajan 60"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 122,
+  "displayOrder": 60,
+  "overallOrder": 122,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 87",
+  "updatedAt": "2026-10-26"
 }

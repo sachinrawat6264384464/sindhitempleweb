@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0530",
+  "id": "bhajan-0528",
   "slug": "duniyaa-hai-yah-ajab-kahaani-jaanat-koi-brahm-jnyaani",
   "categoryId": "raag-kohiyaari",
-  "title": "दुनिया है यह जब कहानि, जानत कोि बरहम जनयानि",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "दुनिया है यह अजब कहानी, जानत कोई ब्रह्म ज्ञानी",
   "romanTitle": "Duniyaa Hai Yah Ajab Kahaani, Jaanat Koi Brahm Jnyaani",
   "firstLine": "Duniyaa Hai Yah Ajab Kahaani, Jaanat Koi Brahm Jnyaani (Tek).",
+  "heading": "।। राग कोह्मारी भजन ।। ४९ ।। ५२९।।",
+  "tek": [
+    "दुनिया है यह अजब कहानी, जानत कोई ब्रह्म ज्ञानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Duniyaa Hai Yah Ajab Kahaani, Jaanat Koi Brahm Jnyaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ना कछु उपजी ना बिनसेगी, बांझ पुत्र सम कहनी होगी ।",
+        "वृथा बिलोवे मूर्ख पानी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naa Kachhu Upji Naa Binsegi, Baanjh Putr Sam Kahni Hogi.",
+        "Vrithaa Bilove Murkh Paani || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जा गुज़री सा भई कहानी, हाथ न आवे कछुक निशानी ।",
+        "कहने मात्र राजा रानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaa Guzri Saa Bhai Kahaani, Haath Na Aave Kachhuk Nishaani.",
+        "Kahne Maatr Raajaa Raani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धात्री ने ज्यों कथा सुनाई, राज पुत्रों की दिल बहलाई ।",
+        "वसिष्ठ की है एह ज़िबानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhaatri Ne Jyon Kathaa Sunaai, Raaj Putron Ki Dil Bahlaai.",
+        "Vasishth Ki Hai Eh Zibaani || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तीन काल में नाश न जांका, कहे टेऊँ कर स्मरण तांका ।",
+        "कल्पित जग को तजले प्रानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tin Kaal Men Naash Na Jaankaa, Kahe Teun Kar Smaran Taankaa.",
+        "Kalpit Jag Ko Tajle Praani || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दुनिया है यह जब कहानि, जानत कोि बरहम जनयानि (टेक)."
+      "ना कछु उपजी ना बिनसेगी, बांझ पुत्र सम कहनी होगी ।",
+      "वृथा बिलोवे मूर्ख पानी ॥१ ॥"
     ],
     [
-      "ना कचहु ुपजि ना बिनसेगि, बानझ पुतर सम कहनि होगि.",
-      "वरिथा बिलोवे मुरख पानि ||.1 ||."
+      "जा गुज़री सा भई कहानी, हाथ न आवे कछुक निशानी ।",
+      "कहने मात्र राजा रानी ॥२ ॥"
     ],
     [
-      "जा गुzरि सा भै कहानि, हाथ न ावे कचहुक निशानि.",
-      "कहने मातर राजा रानि || 2 ||."
+      "धात्री ने ज्यों कथा सुनाई, राज पुत्रों की दिल बहलाई ।",
+      "वसिष्ठ की है एह ज़िबानी ॥३ ॥"
     ],
     [
-      "धातरि ने जयोन कथा सुनाि, राज पुतरोन कि दिल बहलाि.",
-      "वसिशथ कि है ेह zिबानि || 3 ||"
-    ],
-    [
-      "तिन काल मेन नाश न जानका, कहे तेऊँ कर समरन तानका.",
-      "कलपित जग को तजले परानि || 4 ||"
+      "तीन काल में नाश न जांका, कहे टेऊँ कर स्मरण तांका ।",
+      "कल्पित जग को तजले प्रानी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Duniyaa Hai Yah Ajab Kahaani, Jaanat Koi Brahm Jnyaani (Tek)."
-    ],
-    [
       "Naa Kachhu Upji Naa Binsegi, Baanjh Putr Sam Kahni Hogi.",
-      "Vrithaa Bilove Murkh Paani ||.1 ||."
+      "Vrithaa Bilove Murkh Paani || 1 ||"
     ],
     [
-      "Jaa Guzri Saa Bhai Kahaani, Haath N Aave Kachhuk Nishaani.",
-      "Kahne Maatr Raajaa Raani || 2 ||."
+      "Jaa Guzri Saa Bhai Kahaani, Haath Na Aave Kachhuk Nishaani.",
+      "Kahne Maatr Raajaa Raani || 2 ||"
     ],
     [
       "Dhaatri Ne Jyon Kathaa Sunaai, Raaj Putron Ki Dil Bahlaai.",
       "Vasishth Ki Hai Eh Zibaani || 3 ||"
     ],
     [
-      "Tin Kaal Men Naash N Jaankaa, Kahe Teun Kar Smaran Taankaa.",
+      "Tin Kaal Men Naash Na Jaankaa, Kahe Teun Kar Smaran Taankaa.",
       "Kalpit Jag Ko Tajle Praani || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 49 || 529 ||",
+    "दुनिया है यह अजब कहानी, जानत कोई ब्रह्म ज्ञानी",
     "Duniyaa Hai Yah Ajab Kahaani, Jaanat Koi Brahm Jnyaani",
-    "दुनिया है यह जब कहानि, जानत कोि बरहम जनयानि"
+    "राग कोहियारी भजन 49",
+    "Raag Kohiyaari Bhajan 49"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 530,
+  "displayOrder": 49,
+  "overallOrder": 528,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 291",
+  "updatedAt": "2026-10-26"
 }

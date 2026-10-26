@@ -1,31 +1,72 @@
 {
-  "id": "bhajan-0715",
+  "id": "bhajan-0713",
   "slug": "jyon-saritaa-saagar-jaasi-tyon-brahm-bhajo-jijnyaasi",
   "categoryId": "raag-pahaari",
-  "title": "जयोन सरिता सागर जासि, तयोन बरहम भजो जिजनयासि",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "ज्यों सरिता सागर जासी , त्यों ब्रह्म भजो जिज्ञासी",
   "romanTitle": "Jyon Saritaa Saagar Jaasi, Tyon Brahm Bhajo Jijnyaasi",
   "firstLine": "Jyon Saritaa Saagar Jaasi, Tyon Brahm Bhajo Jijnyaasi (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ६६ ।। ७१४।।",
+  "tek": [
+    "ज्यों सरिता सागर जासी , त्यों ब्रह्म भजो जिज्ञासी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jyon Saritaa Saagar Jaasi, Tyon Brahm Bhajo Jijnyaasi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चकोर चाहत जैसे चन्द को , ज्यों मीना जल की रासी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chakor Chaahat Jaise Chand Ko, Jyon Minaa Jal Ki Raasi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भौंरा चाहत ज्यों फूलों को, ज्यों पपीहा बूंद प्यासी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhaunraa Chaahat Jyon Phulon Ko, Jyon Papihaa Bund Pyaasi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मृग चहत ज्यों नाद ध्वनि को , ज्यों पतंग दीप पर आसी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mrig Chahat Jyon Naad Dhvani Ko, Jyon Patang Dip Par Aasi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ घन को मोरा, ज्यों चाहत बारह मासी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Ghan Ko Moraa, Jyon Chaahat Baarah Maasi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जयोन सरिता सागर जासि, तयोन बरहम भजो जिजनयासि (टेक)."
+      "चकोर चाहत जैसे चन्द को , ज्यों मीना जल की रासी ॥१ ॥"
     ],
     [
-      "चकोर चाहत जैसे चनद को, जयोन मिना जल कि रासि || 1 ||"
+      "भौंरा चाहत ज्यों फूलों को, ज्यों पपीहा बूंद प्यासी ॥२ ॥"
     ],
     [
-      "भौनरा चाहत जयोन फुलोन को, जयोन पपिहा बुनद पयासि || 2 ||"
+      "मृग चहत ज्यों नाद ध्वनि को , ज्यों पतंग दीप पर आसी ॥३ ॥"
     ],
     [
-      "मरिग चहत जयोन नाद धवनि को, जयोन पतनग दिप पर ासि || 3 ||"
-    ],
-    [
-      "कहता तेऊँ घन को मोरा, जयोन चाहत बारह मासि || 4 ||."
+      "कहता टेऊँ घन को मोरा, ज्यों चाहत बारह मासी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jyon Saritaa Saagar Jaasi, Tyon Brahm Bhajo Jijnyaasi (Tek)."
-    ],
     [
       "Chakor Chaahat Jaise Chand Ko, Jyon Minaa Jal Ki Raasi || 1 ||"
     ],
@@ -36,22 +77,24 @@
       "Mrig Chahat Jyon Naad Dhvani Ko, Jyon Patang Dip Par Aasi || 3 ||"
     ],
     [
-      "Kahtaa Teun Ghan Ko Moraa, Jyon Chaahat Baarah Maasi || 4 ||."
+      "Kahtaa Teun Ghan Ko Moraa, Jyon Chaahat Baarah Maasi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 66 || 714 ||",
+    "ज्यों सरिता सागर जासी , त्यों ब्रह्म भजो जिज्ञासी",
     "Jyon Saritaa Saagar Jaasi, Tyon Brahm Bhajo Jijnyaasi",
-    "जयोन सरिता सागर जासि, तयोन बरहम भजो जिजनयासि"
+    "राग पहाड़ी भजन 66",
+    "Raag Pahaari Bhajan 66"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 715,
+  "displayOrder": 66,
+  "overallOrder": 713,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 378",
+  "updatedAt": "2026-10-26"
 }

@@ -1,66 +1,116 @@
 {
   "id": "bhajan-0278",
   "slug": "man-raam-naam-gun-gaao-parmaanand-ko-paao",
-  "categoryId": "raag-bhairav",
-  "title": "मन राम नाम गुन गाो, परमाननद को पाो",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मन राम नाम गुन गाओ, परमानन्द को पाओ",
   "romanTitle": "Man Raam Naam Gun Gaao, Parmaanand Ko Paao",
   "firstLine": "Man Raam Naam Gun Gaao, Parmaanand Ko Paao (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६३ ।। २७८।।",
+  "tek": [
+    "मन राम नाम गुन गाओ, परमानन्द को पाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Raam Naam Gun Gaao, Parmaanand Ko Paao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम है अमुल औषधी, गुरू वैद्य से लीजे ।",
+        "सँयम से वह सेवन करके, ममता रोग मिटाओ ॥8 ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Hai Amul Aushdhi, Guru Vaidy Se Lije.",
+        "Sanyam Se Vah Sevan Karke, Mamtaa Rog Mitaao || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रामनाम है अमृत मीठा, देव गुरू से लीजे ।",
+        "पल पल उस अमृत को पीकर, जीवन अमर बनाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raamnaam Hai Amrit Mithaa, Dev Guru Se Lije.",
+        "Pal Pal Us Amrit Ko Pikar, Jivan Amar Banaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम है बाण अमोघा, गुरु शंकर से लीजे ।",
+        "काम क्रोध मद वैरी मारे, निर्भय नगर बसाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Hai Baan Amoghaa, Guru Shankar Se Lije.",
+        "Kaam Krodh Mad Vairi Maare, Nirbhay Nagar Basaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम नाम है लाल अमोलक, गुरु सराफ से लीजे ।",
+        "कहे टेऊँ दुख दरिद्रता हर, सुख के माहिं समाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Hai Laal Amolak, Guru Saraaph Se Lije.",
+        "Kahe Teun Dukh Daridrataa Har, Sukh Ke Maahin Samaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन राम नाम गुन गाो, परमाननद को पाो (टेक)."
+      "राम नाम है अमुल औषधी, गुरू वैद्य से लीजे ।",
+      "सँयम से वह सेवन करके, ममता रोग मिटाओ ॥8 ॥"
     ],
     [
-      "राम नाम है मुल ौशधि, गुरु वैदय से लिजे.",
-      "सनयम से वह सेवन करके, ममता रोग मिताो || 8 ||"
+      "रामनाम है अमृत मीठा, देव गुरू से लीजे ।",
+      "पल पल उस अमृत को पीकर, जीवन अमर बनाओ ॥२ ॥"
     ],
     [
-      "रामनाम है अमृत मिथा, देव गुरु से लिजे.",
-      "पल पल ुस अमृत को पिकर, जिवन मर बनाो || 2. ||."
+      "राम नाम है बाण अमोघा, गुरु शंकर से लीजे ।",
+      "काम क्रोध मद वैरी मारे, निर्भय नगर बसाओ ॥३ ॥"
     ],
     [
-      "राम नाम है बान मोघा, गुरु शनकर से लिजे.",
-      "काम करोध मद वैरि मारे, निरभय नगर बसाो || 3 ||."
-    ],
-    [
-      "राम नाम है लाल मोलक, गुरु सराफ से लिजे.",
-      "कहे तेऊँ दुःख दरिदरता हर, सुख के माहिन समाो || 4. ||."
+      "राम नाम है लाल अमोलक, गुरु सराफ से लीजे ।",
+      "कहे टेऊँ दुख दरिद्रता हर, सुख के माहिं समाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Man Raam Naam Gun Gaao, Parmaanand Ko Paao (Tek)."
-    ],
     [
       "Raam Naam Hai Amul Aushdhi, Guru Vaidy Se Lije.",
       "Sanyam Se Vah Sevan Karke, Mamtaa Rog Mitaao || 8 ||"
     ],
     [
       "Raamnaam Hai Amrit Mithaa, Dev Guru Se Lije.",
-      "Pal Pal Us Amrit Ko Pikar, Jivan Amar Banaao || 2. ||."
+      "Pal Pal Us Amrit Ko Pikar, Jivan Amar Banaao || 2 ||"
     ],
     [
       "Raam Naam Hai Baan Amoghaa, Guru Shankar Se Lije.",
-      "Kaam Krodh Mad Vairi Maare, Nirbhay Nagar Basaao || 3 ||."
+      "Kaam Krodh Mad Vairi Maare, Nirbhay Nagar Basaao || 3 ||"
     ],
     [
       "Raam Naam Hai Laal Amolak, Guru Saraaph Se Lije.",
-      "Kahe Teun Dukh Daridrataa Har, Sukh Ke Maahin Samaao || 4. ||."
+      "Kahe Teun Dukh Daridrataa Har, Sukh Ke Maahin Samaao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 63 || 278 ||",
+    "मन राम नाम गुन गाओ, परमानन्द को पाओ",
     "Man Raam Naam Gun Gaao, Parmaanand Ko Paao",
-    "मन राम नाम गुन गाो, परमाननद को पाो"
+    "राग भैरवी भजन 63",
+    "Raag Bhairvi Bhajan 63"
   ],
   "tags": [
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 278,
+  "displayOrder": 63,
+  "overallOrder": 278,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 170",
+  "updatedAt": "2026-10-26"
 }

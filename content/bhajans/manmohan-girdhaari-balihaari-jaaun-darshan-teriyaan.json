@@ -1,49 +1,89 @@
 {
-  "id": "bhajan-0655",
+  "id": "bhajan-0653",
   "slug": "manmohan-girdhaari-balihaari-jaaun-darshan-teriyaan",
   "categoryId": "raag-pahaari",
-  "title": "मनमोहन गिरधारि, बलिहारि जाुन दरशन तेरियान",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मनमोहन गिरधारी, बलिहारी जाऊँ दर्शन तेरियां",
   "romanTitle": "Manmohan Girdhaari, Balihaari Jaaun Darshan Teriyaan",
   "firstLine": "Manmohan Girdhaari, Balihaari Jaaun Darshan Teriyaan (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ६ ।। ६५४ ।।",
+  "tek": [
+    "मनमोहन गिरधारी, बलिहारी जाऊँ दर्शन तेरियां ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Manmohan Girdhaari, Balihaari Jaaun Darshan Teriyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भाल तिलक गल फूल हार पुनि, मुरली मुख पे प्यारी ॥१ ॥",
+        "वृन्दावन में सखियों से मिल, खेल करत बनवारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhaal Tilak Gal Phul Haar Puni, Murli Mukh Pe Pyaari || 1 ||",
+        "Vrindaavan Men Sakhiyon Se Mil, Khel Karat Banvaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पीताम्बर कटि काछनी सोहे, मोर मुकट शिरधारी ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Pitaambar Kati Kaachhni Sohe, Mor Mukat Shirdhaari || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ मुझ दर्शन दीजे, श्याम सुन्दर सुखकारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mujh Darshan Dije, Shyaam Sundar Sukhkaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मनमोहन गिरधारि, बलिहारि जाुन दरशन तेरियान (टेक)."
+      "भाल तिलक गल फूल हार पुनि, मुरली मुख पे प्यारी ॥१ ॥",
+      "वृन्दावन में सखियों से मिल, खेल करत बनवारी ॥२ ॥"
     ],
     [
-      "भाल तिलक गल फुल हार पुनि, मुरलि मुख पे पयारि 1",
-      "वरिनदावन मेन सखियोन से मिल, खेल करत बनवारि || 2 ||."
+      "पीताम्बर कटि काछनी सोहे, मोर मुकट शिरधारी ॥ ।३े ॥"
     ],
     [
-      "पितामबर कति काचहनि सोहे, मोर मुकत शिरधारि ||.3े ||",
-      "कहे तेऊँ मुझ दरशन दिजे, शयाम सुनदर सुखकारि || 4 ||"
+      "कहे टेऊँ मुझ दर्शन दीजे, श्याम सुन्दर सुखकारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Manmohan Girdhaari, Balihaari Jaaun Darshan Teriyaan (Tek)."
+      "Bhaal Tilak Gal Phul Haar Puni, Murli Mukh Pe Pyaari || 1 ||",
+      "Vrindaavan Men Sakhiyon Se Mil, Khel Karat Banvaari || 2 ||"
     ],
     [
-      "Bhaal Tilak Gal Phul Haar Puni, Murli Mukh Pe Pyaari 1",
-      "Vrindaavan Men Sakhiyon Se Mil, Khel Karat Banvaari || 2 ||."
+      "Pitaambar Kati Kaachhni Sohe, Mor Mukat Shirdhaari || 3E ||"
     ],
     [
-      "Pitaambar Kati Kaachhni Sohe, Mor Mukat Shirdhaari ||.3E ||",
       "Kahe Teun Mujh Darshan Dije, Shyaam Sundar Sukhkaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 6 || 654 ||",
+    "मनमोहन गिरधारी, बलिहारी जाऊँ दर्शन तेरियां",
     "Manmohan Girdhaari, Balihaari Jaaun Darshan Teriyaan",
-    "मनमोहन गिरधारि, बलिहारि जाुन दरशन तेरियान"
+    "राग पहाड़ी भजन 6",
+    "Raag Pahaari Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 655,
+  "displayOrder": 6,
+  "overallOrder": 653,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 349",
+  "updatedAt": "2026-10-26"
 }

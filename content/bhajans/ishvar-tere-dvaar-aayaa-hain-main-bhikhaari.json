@@ -2,74 +2,125 @@
   "id": "bhajan-0393",
   "slug": "ishvar-tere-dvaar-aayaa-hain-main-bhikhaari",
   "categoryId": "raag-tilang",
-  "title": "िशवर तेरे दवार, ाया हैन मैं भिखारि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "ईश्वर तेरे द्वार, आया हैँ मैं भिखारी",
   "romanTitle": "Ishvar Tere Dvaar, Aayaa Hain Main Bhikhaari",
-  "firstLine": "Ishvar Tere Dvaar, Aayaa Hain Main Bhikhaari. Saare Jagat Ke Daataa, Tum Ho Bare Udaari (Tek).",
+  "firstLine": "Ishvar Tere Dvaar, Aayaa Hain Main Bhikhaari.",
+  "heading": "।। राग तिलंग भजन ।। ३० ।। ३९४।॥।",
+  "tek": [
+    "ईश्वर तेरे द्वार, आया हैँ मैं भिखारी ।",
+    "सारे जगत के दाता, तुम हो बड़े उदारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ishvar Tere Dvaar, Aayaa Hain Main Bhikhaari.",
+    "Saare Jagat Ke Daataa, Tum Ho Bare Udaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुमती का दान दीजे, कुमती को काट लीजे ।",
+        "मन भाव भक्ति भीजे, ऐसी ही दया कीजे ।",
+        "संसा भ्रम मिटाओ, कर ज्ञान की उज्यारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sumti Kaa Daan Dije, Kumti Ko Kaat Lije.",
+        "Man Bhaav Bhakti Bhije, Aisi Hi Dayaa Kije.",
+        "Sansaa Bhram Mitaao, Kar Gyaan Ki Ujyaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भव सिन्धु पार तारो, दुख दर्द सब निवारो ।",
+        "आया हूँ शरन तेरी, मुझको नहीं बिसारो ।",
+        "तव नाम शरन पालक, कहते हैं मुनि विचारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhav Sindhu Paar Taaro, Dukh Dard Sab Nivaaro.",
+        "Aayaa Hun Sharan Teri, Mujhko Nahin Bisaaro.",
+        "Tav Naam Sharan Paalak, Kahte Hain Muni Vichaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "विषयों को मन त्यागे, हरि चरन माहिं लागे ।",
+        "अचविद्या की नींद तज कर, मेरा ये जीव जागे ।",
+        "कहे टेऊँ आस ये ही, पूरी करो हमारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vishyon Ko Man Tyaage, Hari Charan Maahin Laage.",
+        "Achvidyaa Ki Nind Taj Kar, Meraa Ye Jiv Jaage.",
+        "Kahe Teun Aas Ye Hi, Puri Karo Hamaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तर्ठह"
+      ],
+      "romanLines": [
+        "Tarthah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िशवर तेरे दवार, ाया हैन मैं भिखारि.",
-      "सारे जगत के दाता, तुम हो बरे ुदारि (टेक)."
+      "सुमती का दान दीजे, कुमती को काट लीजे ।",
+      "मन भाव भक्ति भीजे, ऐसी ही दया कीजे ।",
+      "संसा भ्रम मिटाओ, कर ज्ञान की उज्यारी ॥१ ॥"
     ],
     [
-      "सुमति का दान दिजे, कुमति को कात लिजे.",
-      "मन भाव भक्ति भिजे, ैसि हि दया किजे."
+      "भव सिन्धु पार तारो, दुख दर्द सब निवारो ।",
+      "आया हूँ शरन तेरी, मुझको नहीं बिसारो ।",
+      "तव नाम शरन पालक, कहते हैं मुनि विचारी ॥२ ॥"
     ],
     [
-      "सनसा भरम मिताो, कर ज्ञान कि ुजयारि.$ ||",
-      "भव सिनधु पार तारो, दुःख दरद सब निवारो."
+      "विषयों को मन त्यागे, हरि चरन माहिं लागे ।",
+      "अचविद्या की नींद तज कर, मेरा ये जीव जागे ।",
+      "कहे टेऊँ आस ये ही, पूरी करो हमारी ॥३ ॥"
     ],
     [
-      "ाया हुन शरन तेरि, मुझको नहिन बिसारो.",
-      "तव नाम शरन पालक, कहते हैन मुनि विचारि || 2 ||"
-    ],
-    [
-      "विशयोन को मन तयागे, हरि चरण माहिन लागे.",
-      "चविदया कि निनद तज कर, मेरा ये जिव जागे."
-    ],
-    [
-      "कहे तेऊँ ास ये हि, पुरि करो हमारि ||.3 ||.",
-      "तरथह"
+      "तर्ठह"
     ]
   ],
   "romanLyrics": [
     [
-      "Ishvar Tere Dvaar, Aayaa Hain Main Bhikhaari.",
-      "Saare Jagat Ke Daataa, Tum Ho Bare Udaari (Tek)."
-    ],
-    [
       "Sumti Kaa Daan Dije, Kumti Ko Kaat Lije.",
-      "Man Bhaav Bhakti Bhije, Aisi Hi Dayaa Kije."
+      "Man Bhaav Bhakti Bhije, Aisi Hi Dayaa Kije.",
+      "Sansaa Bhram Mitaao, Kar Gyaan Ki Ujyaari || 1 ||"
     ],
     [
-      "Sansaa Bhram Mitaao, Kar Jnyaan Ki Ujyaari.$ ||",
-      "Bhav Sindhu Paar Taaro, Dukh Dard Sab Nivaaro."
-    ],
-    [
+      "Bhav Sindhu Paar Taaro, Dukh Dard Sab Nivaaro.",
       "Aayaa Hun Sharan Teri, Mujhko Nahin Bisaaro.",
       "Tav Naam Sharan Paalak, Kahte Hain Muni Vichaari || 2 ||"
     ],
     [
       "Vishyon Ko Man Tyaage, Hari Charan Maahin Laage.",
-      "Achvidyaa Ki Nind Taj Kar, Meraa Ye Jiv Jaage."
+      "Achvidyaa Ki Nind Taj Kar, Meraa Ye Jiv Jaage.",
+      "Kahe Teun Aas Ye Hi, Puri Karo Hamaari || 3 ||"
     ],
     [
-      "Kahe Teun Aas Ye Hi, Puri Karo Hamaari ||.3 ||.",
       "Tarthah"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 30 || 394. ||.",
+    "ईश्वर तेरे द्वार, आया हैँ मैं भिखारी",
     "Ishvar Tere Dvaar, Aayaa Hain Main Bhikhaari",
-    "िशवर तेरे दवार, ाया हैन मैं भिखारि"
+    "राग तिलंग भजन 30",
+    "Raag Tilang Bhajan 30"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 393,
+  "displayOrder": 30,
+  "overallOrder": 393,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 230",
+  "updatedAt": "2026-10-26"
 }

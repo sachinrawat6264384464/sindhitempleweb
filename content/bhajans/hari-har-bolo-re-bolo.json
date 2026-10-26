@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0885",
+  "id": "bhajan-0883",
   "slug": "hari-har-bolo-re-bolo",
   "categoryId": "raag-jog",
-  "title": "हरि हर बोलो रे बोलो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हरी हर बोलो रे बोलो ॥",
   "romanTitle": "Hari Har Bolo Re Bolo",
   "firstLine": "Hari Har Bolo Re Bolo (Tek).",
+  "heading": "।। राग जोग भजन ।। ५५।। ८८५।॥",
+  "tek": [
+    "हरी हर बोलो रे बोलो ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Har Bolo Re Bolo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नैन घिसे ना कान घिसे ना, जीभ घिसे ना तेरी ।",
+        "हरी जपन में श्वास घिसे ना, मन से काढो रोलो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nain Ghise Naa Kaan Ghise Naa, Jibh Ghise Naa Teri.",
+        "Hari Japan Men Shvaas Ghise Naa, Man Se Kaadho Rolo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पांवों से ना चलना पड़ता, दाम लगत ना पाई ।",
+        "हाथों का कछु काम नहीं है, केवल मुख को खोलो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paanvon Se Naa Chalnaa Partaa, Daam Lagat Naa Paai.",
+        "Haathon Kaa Kachhu Kaam Nahin Hai, Keval Mukh Ko Kholo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राज दण्ड देना नहिं पड़ता, लोक बुरा ना माने ।",
+        "हरी जपन में शिर ना दूखे, हृदय में यह तोलो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raaj Dand Denaa Nahin Partaa, Lok Buraa Naa Maane.",
+        "Hari Japan Men Shir Naa Dukhe, Hriday Men Yah Tolo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो तेरे सब काज संवारे, सो हरि नाहिं बिसारो ।",
+        "कहे टेऊँ हरिनाम जपे तुम, सफल करो नर चोलो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jo Tere Sab Kaaj Sanvaare, So Hari Naahin Bisaaro.",
+        "Kahe Teun Harinaam Jape Tum, Saphal Karo Nar Cholo || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््य्द्"
+      ],
+      "romanLines": [
+        "Gyd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि हर बोलो रे बोलो (टेक)."
+      "नैन घिसे ना कान घिसे ना, जीभ घिसे ना तेरी ।",
+      "हरी जपन में श्वास घिसे ना, मन से काढो रोलो ॥१ ॥"
     ],
     [
-      "नैन घिसे ना कान घिसे ना, जिभ घिसे ना तेरि.",
-      "हरि जपन मेन शवास घिसे ना, मन से काधो रोलो ||.1 ||"
+      "पांवों से ना चलना पड़ता, दाम लगत ना पाई ।",
+      "हाथों का कछु काम नहीं है, केवल मुख को खोलो ॥२ ॥"
     ],
     [
-      "पानवोन से ना चलना परता, दाम लगत ना पाि.",
-      "हाथोन का कचहु काम नहिन है, केवल मुख को खोलो || 2 ||."
+      "राज दण्ड देना नहिं पड़ता, लोक बुरा ना माने ।",
+      "हरी जपन में शिर ना दूखे, हृदय में यह तोलो ॥३ ॥"
     ],
     [
-      "राज दनद देना नहिन परता, लोक बुरा ना माने.",
-      "हरि जपन मेन शिर ना दुखे, हरिदय मेन यह तोलो || 3. ||."
+      "जो तेरे सब काज संवारे, सो हरि नाहिं बिसारो ।",
+      "कहे टेऊँ हरिनाम जपे तुम, सफल करो नर चोलो ॥४ ॥"
     ],
     [
-      "जो तेरे सब काज सनवारे, सो हरि नाहिन बिसारो.",
-      "कहे तेऊँ हरिनाम जपे तुम, सफल करो नर चोलो ||.4 ||"
-    ],
-    [
-      "गयद"
+      "ग््य्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Har Bolo Re Bolo (Tek)."
-    ],
-    [
       "Nain Ghise Naa Kaan Ghise Naa, Jibh Ghise Naa Teri.",
-      "Hari Japan Men Shvaas Ghise Naa, Man Se Kaadho Rolo ||.1 ||"
+      "Hari Japan Men Shvaas Ghise Naa, Man Se Kaadho Rolo || 1 ||"
     ],
     [
       "Paanvon Se Naa Chalnaa Partaa, Daam Lagat Naa Paai.",
-      "Haathon Kaa Kachhu Kaam Nahin Hai, Keval Mukh Ko Kholo || 2 ||."
+      "Haathon Kaa Kachhu Kaam Nahin Hai, Keval Mukh Ko Kholo || 2 ||"
     ],
     [
       "Raaj Dand Denaa Nahin Partaa, Lok Buraa Naa Maane.",
-      "Hari Japan Men Shir Naa Dukhe, Hriday Men Yah Tolo || 3. ||."
+      "Hari Japan Men Shir Naa Dukhe, Hriday Men Yah Tolo || 3 ||"
     ],
     [
       "Jo Tere Sab Kaaj Sanvaare, So Hari Naahin Bisaaro.",
-      "Kahe Teun Harinaam Jape Tum, Saphal Karo Nar Cholo ||.4 ||"
+      "Kahe Teun Harinaam Jape Tum, Saphal Karo Nar Cholo || 4 ||"
     ],
     [
       "Gyd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 55 || 885. ||",
+    "हरी हर बोलो रे बोलो ॥",
     "Hari Har Bolo Re Bolo",
-    "हरि हर बोलो रे बोलो"
+    "राग जोग भजन 55",
+    "Raag Jog Bhajan 55"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 885,
+  "displayOrder": 55,
+  "overallOrder": 883,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 466",
+  "updatedAt": "2026-10-26"
 }

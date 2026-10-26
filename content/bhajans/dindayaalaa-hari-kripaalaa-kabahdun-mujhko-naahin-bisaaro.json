@@ -2,41 +2,90 @@
   "id": "bhajan-0331",
   "slug": "dindayaalaa-hari-kripaalaa-kabahdun-mujhko-naahin-bisaaro",
   "categoryId": "raag-zilaa",
-  "title": "दिनदयाला हरि करिपाला, कबहदुन मुझको नाहिन बिसारो",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "दीनदयाला हरि कृपाला, कबह्दूं मुझको नाहिं बिसारो",
   "romanTitle": "Dindayaalaa Hari Kripaalaa, Kabahdun Mujhko Naahin Bisaaro",
   "firstLine": "Dindayaalaa Hari Kripaalaa, Kabahdun Mujhko Naahin Bisaaro (Tek).",
+  "heading": "।। राग ज़िला भजन ।। १८ ।। ३३१।।",
+  "tek": [
+    "दीनदयाला हरि कृपाला, कबह्दूं मुझको नाहिं बिसारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dindayaalaa Hari Kripaalaa, Kabahdun Mujhko Naahin Bisaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जैसे बालक खेलन जावे, माता तांको नाहिं भुलावे ।",
+        "दौड़ी आवे कण्ठ लगावे, ऐसे साहिब मोहि संभारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaise Baalak Khelan Jaave, Maataa Taanko Naahin Bhulaave.",
+        "Dauri Aave Kanth Lagaave, Aise Saahib Mohi Sambhaaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देख डरूं हरि माया तेरी, सब जीवन की जिहं मति घेरी ।",
+        "मैं अति दीना सब बल हीना, आप इसी से मोहि उबारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dekh Darun Hari Maayaa Teri, Sab Jivan Ki Jihan Mati Gheri.",
+        "Main Ati Dinaa Sab Bal Hinaa, Aap Isi Se Mohi Ubaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जन्म जन्म में बहु अघ कीया, जिन्होंने मुझको दुख दीया ।",
+        "अब तो स्वामी अन्तर्यामी , कृपा कर सब कष्ट निवारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Janm Janm Men Bahu Agh Kiyaa, Jinhonne Mujhko Dukh Diyaa.",
+        "Ab To Svaami Antaryaami, Kripaa Kar Sab Kasht Nivaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ टेर सुनीजे, करुणा कर मुझ यह वर दीजे ।",
+        "तुम न भुलाओ मैं न भुलाऊँ, रटत रहूँ नित नाम तुम्हारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Ter Sunije, Karunaa Kar Mujh Yah Var Dije.",
+        "Tum Na Bhulaao Main Na Bhulaaun, Ratat Rahun Nit Naam Tumhaaro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दिनदयाला हरि करिपाला, कबहदुन मुझको नाहिन बिसारो (टेक)."
+      "जैसे बालक खेलन जावे, माता तांको नाहिं भुलावे ।",
+      "दौड़ी आवे कण्ठ लगावे, ऐसे साहिब मोहि संभारो ॥१ ॥"
     ],
     [
-      "जैसे बालक खेलन जावे, माता तानको नाहिन भुलावे.",
-      "दौरि ावे कनथ लगावे, ैसे साहिब मोहि समभारो.1 ||"
+      "देख डरूं हरि माया तेरी, सब जीवन की जिहं मति घेरी ।",
+      "मैं अति दीना सब बल हीना, आप इसी से मोहि उबारो ॥२ ॥"
     ],
     [
-      "देख दरुन हरि माया तेरि, सब जिवन कि जिहन मति घेरि.",
-      "मैं ति दिना सब बल हिना, ाप िसि से मोहि ुबारो.. 2 ||"
+      "जन्म जन्म में बहु अघ कीया, जिन्होंने मुझको दुख दीया ।",
+      "अब तो स्वामी अन्तर्यामी , कृपा कर सब कष्ट निवारो ॥३ ॥"
     ],
     [
-      "जनम जनम मेन बहु घ किया, जिनहोनने मुझको दुःख दिया.",
-      "ब तो स्वामी नतरयामि, कृपा कर सब कशत निवारो || 3 ||"
-    ],
-    [
-      "कहता तेऊँ तेर सुनिजे, करुना कर मुझ यह वर दिजे.",
-      "तुम न भुलाो मैं न भुलाुन, रतत रहुन नित नाम तुम्हारो || 4 ||"
+      "कहता टेऊँ टेर सुनीजे, करुणा कर मुझ यह वर दीजे ।",
+      "तुम न भुलाओ मैं न भुलाऊँ, रटत रहूँ नित नाम तुम्हारो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dindayaalaa Hari Kripaalaa, Kabahdun Mujhko Naahin Bisaaro (Tek)."
-    ],
-    [
       "Jaise Baalak Khelan Jaave, Maataa Taanko Naahin Bhulaave.",
-      "Dauri Aave Kanth Lagaave, Aise Saahib Mohi Sambhaaro.1 ||"
+      "Dauri Aave Kanth Lagaave, Aise Saahib Mohi Sambhaaro || 1 ||"
     ],
     [
       "Dekh Darun Hari Maayaa Teri, Sab Jivan Ki Jihan Mati Gheri.",
-      "Main Ati Dinaa Sab Bal Hinaa, Aap Isi Se Mohi Ubaaro.. 2 ||"
+      "Main Ati Dinaa Sab Bal Hinaa, Aap Isi Se Mohi Ubaaro || 2 ||"
     ],
     [
       "Janm Janm Men Bahu Agh Kiyaa, Jinhonne Mujhko Dukh Diyaa.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahtaa Teun Ter Sunije, Karunaa Kar Mujh Yah Var Dije.",
-      "Tum N Bhulaao Main N Bhulaaun, Ratat Rahun Nit Naam Tumhaaro || 4 ||"
+      "Tum Na Bhulaao Main Na Bhulaaun, Ratat Rahun Nit Naam Tumhaaro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 18 || 331 ||",
+    "दीनदयाला हरि कृपाला, कबह्दूं मुझको नाहिं बिसारो",
     "Dindayaalaa Hari Kripaalaa, Kabahdun Mujhko Naahin Bisaaro",
-    "दिनदयाला हरि करिपाला, कबहदुन मुझको नाहिन बिसारो"
+    "राग ज़िला भजन 18",
+    "Raag Zilaa Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 331,
+  "displayOrder": 18,
+  "overallOrder": 331,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 198",
+  "updatedAt": "2026-10-26"
 }

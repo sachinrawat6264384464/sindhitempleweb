@@ -1,105 +1,150 @@
 {
-  "id": "bhajan-0590",
+  "id": "bhajan-0588",
   "slug": "musaaphir-jaag-jaag-hari-mag-laag-laag",
   "categoryId": "raag-saarang",
-  "title": "मुसाफिर जाग जाग, हरि मग लाग लाग",
-  "romanTitle": "Musaaphir Jaag Jaag, Hari Mag Laag Laag",
-  "firstLine": "Musaaphir Jaag Jaag, Hari Mag Laag Laag, Samar Ko Sambhaar Le (Tek).",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "मुसाफिर जाग जाग, हरी मग लाग लाग,",
+  "romanTitle": "Musaaphir Jaag Jaag, Hari Mag Laag Laag,",
+  "firstLine": "Musaaphir Jaag Jaag, Hari Mag Laag Laag,",
+  "heading": "।। राग सारंग भजन ।। ११ ।। ५८९।॥।",
+  "tek": [
+    "मुसाफिर जाग जाग, हरी मग लाग लाग,",
+    "समर को संभार ले ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Musaaphir Jaag Jaag, Hari Mag Laag Laag,",
+    "Samar Ko Sambhaar Le (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांव पसारे निन्द्रा माहीं सारी रैन गुज़ारी ।",
+        "दिन होने पर भी तुम मूर्ख आंखें नाहिं उघारी ।",
+        "आंखें अब खोल खोल, राम नाम बोल बोल,",
+        "वतन ना विसार ले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanv Pasaare Nindraa Maahin Saari Rain Guzaari.",
+        "Din Hone Par Bhi Tum Murkh Aankhen Naahin Ughaari.",
+        "Aankhen Ab Khol Khol, Raam Naam Bol Bol,",
+        "Vatan Naa Visaar Le || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मंज़िल दूर मुसाफिर तेरी आलस को तज दीजे ।",
+        "और बखेड़े सर्व त्यागे अपना मार्ग लीजे ।",
+        "अपने कह जोय जोय, तेरे नहिं सोय सोय,",
+        "मन में विचार ले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Manzil Dur Musaaphir Teri Aalas Ko Taj Dije.",
+        "Aur Bakhere Sarv Tyaage Apnaa Maarg Lije.",
+        "Apne Kah Joy Joy, Tere Nahin Soy Soy,",
+        "Man Men Vichaar Le || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "केते आते चल चल जाते किसका यह न ठिकाना ।",
+        "पाव पलक का आप मुसाफिर तुझको भी है जाना ।",
+        "ममता को मार मार, तृष्णा को टार टार,",
+        "काल को चितार ले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kete Aate Chal Chal Jaate Kiskaa Yah Na Thikaanaa.",
+        "Paav Palak Kaa Aap Musaaphir Tujhko Bhi Hai Jaanaa.",
+        "Mamtaa Ko Maar Maar, Trishnaa Ko Taar Taar,",
+        "Kaal Ko Chitaar Le || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ बैठ रहो ना आगे कदम बढ़ाओ ।",
+        "परम धाम के पाने कारण साचा समर उठाओ ।",
+        "देवी गुन धार धार, करे नेक कार कार,",
+        "काज को संवार ले ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Baith Raho Naa Aage Kadam Barhaao.",
+        "Param Dhaam Ke Paane Kaaran Saachaa Samar Uthaao.",
+        "Devi Gun Dhaar Dhaar, Kare Nek Kaar Kaar,",
+        "Kaaj Ko Sanvaar Le || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मुसाफिर जाग जाग, हरि मग लाग लाग,",
-      "समर को समभार ले (टेक)."
+      "पांव पसारे निन्द्रा माहीं सारी रैन गुज़ारी ।",
+      "दिन होने पर भी तुम मूर्ख आंखें नाहिं उघारी ।",
+      "आंखें अब खोल खोल, राम नाम बोल बोल,",
+      "वतन ना विसार ले ॥१ ॥"
     ],
     [
-      "पानव पसारे निनदरा माहिन सारि रैन गुzारि.",
-      "दीन होने पर भि तुम मुरख ानखेन नाहिन ुघारि."
+      "मंज़िल दूर मुसाफिर तेरी आलस को तज दीजे ।",
+      "और बखेड़े सर्व त्यागे अपना मार्ग लीजे ।",
+      "अपने कह जोय जोय, तेरे नहिं सोय सोय,",
+      "मन में विचार ले ॥२ ॥"
     ],
     [
-      "ानखेन ब खोल खोल, राम नाम बोल बोल,",
-      "वतन ना विसार ले || 1 ||."
+      "केते आते चल चल जाते किसका यह न ठिकाना ।",
+      "पाव पलक का आप मुसाफिर तुझको भी है जाना ।",
+      "ममता को मार मार, तृष्णा को टार टार,",
+      "काल को चितार ले ॥३ ॥"
     ],
     [
-      "मनzिल दुर मुसाफिर तेरि ालस को तज दिजे.",
-      "ौर बखेरे सर्व तयागे पना मारग लिजे."
-    ],
-    [
-      "पने कह जोय जोय, तेरे नहिन सोय सोय,",
-      "मन मेन विचार ले || 2 ||"
-    ],
-    [
-      "केते ाते चल चल जाते किसका यह न थिकाना.",
-      "पाव पलक का ाप मुसाफिर तुझको भि है जाना."
-    ],
-    [
-      "ममता को मार मार, तरिशना को तार तार,",
-      "काल को चितार ले || 3 ||"
-    ],
-    [
-      "कहता तेऊँ बैथ रहो ना ागे कदम बरहाो.",
-      "परम धाम के पाने कारन साचा समर ुथाो."
-    ],
-    [
-      "देवि गुन धार धार, करे नेक कार कार,",
-      "काज को सनवार ले ||.4 ||"
-    ],
-    [
-      "तह"
+      "कहता टेऊँ बैठ रहो ना आगे कदम बढ़ाओ ।",
+      "परम धाम के पाने कारण साचा समर उठाओ ।",
+      "देवी गुन धार धार, करे नेक कार कार,",
+      "काज को संवार ले ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Musaaphir Jaag Jaag, Hari Mag Laag Laag,",
-      "Samar Ko Sambhaar Le (Tek)."
-    ],
-    [
       "Paanv Pasaare Nindraa Maahin Saari Rain Guzaari.",
-      "Din Hone Par Bhi Tum Murkh Aankhen Naahin Ughaari."
-    ],
-    [
+      "Din Hone Par Bhi Tum Murkh Aankhen Naahin Ughaari.",
       "Aankhen Ab Khol Khol, Raam Naam Bol Bol,",
-      "Vatan Naa Visaar Le || 1 ||."
+      "Vatan Naa Visaar Le || 1 ||"
     ],
     [
       "Manzil Dur Musaaphir Teri Aalas Ko Taj Dije.",
-      "Aur Bakhere Sarv Tyaage Apnaa Maarg Lije."
-    ],
-    [
+      "Aur Bakhere Sarv Tyaage Apnaa Maarg Lije.",
       "Apne Kah Joy Joy, Tere Nahin Soy Soy,",
       "Man Men Vichaar Le || 2 ||"
     ],
     [
-      "Kete Aate Chal Chal Jaate Kiskaa Yah N Thikaanaa.",
-      "Paav Palak Kaa Aap Musaaphir Tujhko Bhi Hai Jaanaa."
-    ],
-    [
+      "Kete Aate Chal Chal Jaate Kiskaa Yah Na Thikaanaa.",
+      "Paav Palak Kaa Aap Musaaphir Tujhko Bhi Hai Jaanaa.",
       "Mamtaa Ko Maar Maar, Trishnaa Ko Taar Taar,",
       "Kaal Ko Chitaar Le || 3 ||"
     ],
     [
       "Kahtaa Teun Baith Raho Naa Aage Kadam Barhaao.",
-      "Param Dhaam Ke Paane Kaaran Saachaa Samar Uthaao."
-    ],
-    [
+      "Param Dhaam Ke Paane Kaaran Saachaa Samar Uthaao.",
       "Devi Gun Dhaar Dhaar, Kare Nek Kaar Kaar,",
-      "Kaaj Ko Sanvaar Le ||.4 ||"
-    ],
-    [
-      "Tah"
+      "Kaaj Ko Sanvaar Le || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Saarang Bhajan || 11 || 589. ||.",
-    "Musaaphir Jaag Jaag, Hari Mag Laag Laag",
-    "मुसाफिर जाग जाग, हरि मग लाग लाग"
+    "मुसाफिर जाग जाग, हरी मग लाग लाग,",
+    "Musaaphir Jaag Jaag, Hari Mag Laag Laag,",
+    "राग सारंग भजन 11",
+    "Raag Saarang Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 590,
+  "displayOrder": 11,
+  "overallOrder": 588,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 320",
+  "updatedAt": "2026-10-26"
 }

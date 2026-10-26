@@ -1,40 +1,80 @@
 {
-  "id": "bhajan-0477",
+  "id": "bhajan-0476",
   "slug": "mere-man-raam-sumar-sukhdaai",
   "categoryId": "raag-huseni",
-  "title": "मेरे मन राम सुमर सुखदाि",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "मेरे मन राम सुमर सुखदाई",
   "romanTitle": "Mere Man Raam Sumar Sukhdaai",
-  "firstLine": "Mere Man Raam Sumar Sukhdaai. Jaanke Sumre Vidhn Vinaashe Dukh Dard Sab Jaai (Tek).",
+  "firstLine": "Mere Man Raam Sumar Sukhdaai.",
+  "heading": "।। राग हुसेनी भजन ।। १५ ।। ४७७",
+  "tek": [
+    "मेरे मन राम सुमर सुखदाई ।",
+    "जांके सुमरे विध्न विनाशे दूख दर्द सब जाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Raam Sumar Sukhdaai.",
+    "Jaanke Sumre Vidhn Vinaashe Dukh Dard Sab Jaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम जपत नित शंकर मन में , काशी मुक्ति करावत क्षन में ।",
+        "गणपति पूज्य भयो देवन में, सनकादिक गति पाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Japat Nit Shankar Man Men, Kaashi Mukti Karaavat Kshan Men.",
+        "Ganpati Pujy Bhayo Devan Men, Sankaadik Gati Paai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वाल्मीक जप नाम निरंतर, पाई सर्वज्ञता उर अन्तर ।",
+        "राम जपत शुक भयो स्वतन्तर, परीक्षित कथा सुनाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vaalmik Jap Naam Nirantar, Paai Sarvajnyataa Ur Antar.",
+        "Raam Japat Shuk Bhayo Svatantar, Parikshit Kathaa Sunaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम जप लाय समाधी , भक्त प्रहलाद भयो अहलादी ।",
+        "अटल ध्रुव ने पट्टी लाधी, गज जप विपति मिटाई ॥ । डे ॥",
+        "कहता टेऊँ भरत हनुमाना, नाम जपे वश किया भगवाना ।",
+        "भये विभीषण भूप सुजाना, राम से जब रति लाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Jap Laay Samaadhi, Bhakt Prahlaad Bhayo Ahlaadi.",
+        "Atal Dhruv Ne Patti Laadhi, Gaj Jap Vipti Mitaai || De ||",
+        "Kahtaa Teun Bharat Hanumaanaa, Naam Jape Vash Kiyaa Bhagvaanaa.",
+        "Bhaye Vibhishan Bhup Sujaanaa, Raam Se Jab Rati Laai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन राम सुमर सुखदाि.",
-      "जानके सुमरे विधन विनाशे दुःख दरद सब जाि (टेक)."
+      "राम जपत नित शंकर मन में , काशी मुक्ति करावत क्षन में ।",
+      "गणपति पूज्य भयो देवन में, सनकादिक गति पाई ॥१ ॥"
     ],
     [
-      "राम जपत नित शनकर मन मेन, काशि मुक्ति करावत कशन मेन.",
-      "गनपति पुजय भयो देवन मेन, सनकादिक गति पाि || 1. ||."
+      "वाल्मीक जप नाम निरंतर, पाई सर्वज्ञता उर अन्तर ।",
+      "राम जपत शुक भयो स्वतन्तर, परीक्षित कथा सुनाई ॥२ ॥"
     ],
     [
-      "वालमिक जप नाम निरनतर, पाि सरवजनयता ुर नतर.",
-      "राम जपत शुक भयो सवतनतर, परिकशित कथा सुनाि || 2 ||"
-    ],
-    [
-      "राम नाम जप लाय समाधि, भकत परहलाद भयो हलादि.",
-      "तल धरुव ने पतति लाधि, गज जप विपति मिताि ||. दे ||"
-    ],
-    [
-      "कहता तेऊँ भरत हनुमाना, नाम जपे वश किया भगवाना.",
-      "भये विभिशन भुप सुजाना, राम से जब रति लाि ||.4. ||."
+      "राम नाम जप लाय समाधी , भक्त प्रहलाद भयो अहलादी ।",
+      "अटल ध्रुव ने पट्टी लाधी, गज जप विपति मिटाई ॥ । डे ॥",
+      "कहता टेऊँ भरत हनुमाना, नाम जपे वश किया भगवाना ।",
+      "भये विभीषण भूप सुजाना, राम से जब रति लाई ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Raam Sumar Sukhdaai.",
-      "Jaanke Sumre Vidhn Vinaashe Dukh Dard Sab Jaai (Tek)."
-    ],
-    [
       "Raam Japat Nit Shankar Man Men, Kaashi Mukti Karaavat Kshan Men.",
-      "Ganpati Pujy Bhayo Devan Men, Sankaadik Gati Paai || 1. ||."
+      "Ganpati Pujy Bhayo Devan Men, Sankaadik Gati Paai || 1 ||"
     ],
     [
       "Vaalmik Jap Naam Nirantar, Paai Sarvajnyataa Ur Antar.",
@@ -42,26 +82,26 @@
     ],
     [
       "Raam Naam Jap Laay Samaadhi, Bhakt Prahlaad Bhayo Ahlaadi.",
-      "Atal Dhruv Ne Patti Laadhi, Gaj Jap Vipti Mitaai ||. De ||"
-    ],
-    [
+      "Atal Dhruv Ne Patti Laadhi, Gaj Jap Vipti Mitaai || De ||",
       "Kahtaa Teun Bharat Hanumaanaa, Naam Jape Vash Kiyaa Bhagvaanaa.",
-      "Bhaye Vibhishan Bhup Sujaanaa, Raam Se Jab Rati Laai ||.4. ||."
+      "Bhaye Vibhishan Bhup Sujaanaa, Raam Se Jab Rati Laai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 15 || 477",
+    "मेरे मन राम सुमर सुखदाई",
     "Mere Man Raam Sumar Sukhdaai",
-    "मेरे मन राम सुमर सुखदाि"
+    "राग हुसैनी भजन 15",
+    "Raag Huseni Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 477,
+  "displayOrder": 15,
+  "overallOrder": 476,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 267",
+  "updatedAt": "2026-10-26"
 }

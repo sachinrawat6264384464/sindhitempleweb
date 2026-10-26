@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0541",
+  "id": "bhajan-0539",
   "slug": "guruji-mujhe-apne-charan-lagaao",
   "categoryId": "raag-sorath",
-  "title": "गुरुजि मुझे पने चरण लगाो",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "गुरूजी मुझे अपने चरन लगाओ",
   "romanTitle": "Guruji Mujhe Apne Charan Lagaao",
   "firstLine": "Guruji Mujhe Apne Charan Lagaao (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ९ ।। '५४०॥।",
+  "tek": [
+    "गुरूजी मुझे अपने चरन लगाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guruji Mujhe Apne Charan Lagaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अविद्या की तम है उर माहीं, सत्‌ असत्‌ मोहि सूझत नाहीं ।",
+        "ब्रह्मजज्ञान की ज्योति, हृदय माहिं जगाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Avidyaa Ki Tam Hai Ur Maahin, Sat‌ Asat‌ Mohi Sujhat Naahin.",
+        "Brahmajajnyaan Ki Jyoti, Hriday Maahin Jagaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व पदार्थ हैं दुखदाई, तामें सूख न देखा राई ।",
+        "इन्हों ठगे सब लोग, मुझको नाहिं ठगाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Padaarth Hain Dukhdaai, Taamen Sukh Na Dekhaa Raai.",
+        "Inhon Thage Sab Log, Mujhko Naahin Thagaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बुद्धि वस्त्र है मैला भारी, साबुन नाम लाय सुखकारी ।",
+        "ऊज्जल करके ताहिं, विरह के रंग रंगाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Buddhi Vastr Hai Mailaa Bhaari, Saabun Naam Laay Sukhkaari.",
+        "Ujjal Karke Taahin, Virah Ke Rang Rangaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम हो दातारा, मैं हूँ मंगता मांगनहारा ।",
+        "देके निर्भय दान, श्रम के भूत भगाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Ho Daataaraa, Main Hun Mangtaa Maangnahaaraa.",
+        "Deke Nirbhay Daan, Shram Ke Bhut Bhagaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुजि मुझे पने चरण लगाो (टेक)."
+      "अविद्या की तम है उर माहीं, सत्‌ असत्‌ मोहि सूझत नाहीं ।",
+      "ब्रह्मजज्ञान की ज्योति, हृदय माहिं जगाओ ॥१ ॥"
     ],
     [
-      "विदया कि तम है ुर माहिन, सत‌ सत‌ मोहि सुझत नाहिन.",
-      "बरहमजजनयान कि जयोति, हरिदय माहिन जगाो ||.1 ||"
+      "सर्व पदार्थ हैं दुखदाई, तामें सूख न देखा राई ।",
+      "इन्हों ठगे सब लोग, मुझको नाहिं ठगाओ ॥२ ॥"
     ],
     [
-      "सर्व पदारथ हैन दुखदाि, तामेन सुख न देखा राि.",
-      "िनहोन थगे सब लोग, मुझको नाहिन थगाो ||.2 ||"
+      "बुद्धि वस्त्र है मैला भारी, साबुन नाम लाय सुखकारी ।",
+      "ऊज्जल करके ताहिं, विरह के रंग रंगाओ ॥३ ॥"
     ],
     [
-      "बुदधि वसतर है मैला भारि, साबुन नाम लाय सुखकारि.",
-      "ुजजल करके ताहिन, विरह के रनग रनगाो. ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ तुम हो दातारा, मैं हुन मनगता मानगनहारा.",
-      "देके निरभय दान, शरम के भुत भगाो || 4 ||"
-    ],
-    [
-      "त"
+      "कहे टेऊँ तुम हो दातारा, मैं हूँ मंगता मांगनहारा ।",
+      "देके निर्भय दान, श्रम के भूत भगाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guruji Mujhe Apne Charan Lagaao (Tek)."
-    ],
-    [
       "Avidyaa Ki Tam Hai Ur Maahin, Sat‌ Asat‌ Mohi Sujhat Naahin.",
-      "Brahmajajnyaan Ki Jyoti, Hriday Maahin Jagaao ||.1 ||"
+      "Brahmajajnyaan Ki Jyoti, Hriday Maahin Jagaao || 1 ||"
     ],
     [
-      "Sarv Padaarth Hain Dukhdaai, Taamen Sukh N Dekhaa Raai.",
-      "Inhon Thage Sab Log, Mujhko Naahin Thagaao ||.2 ||"
+      "Sarv Padaarth Hain Dukhdaai, Taamen Sukh Na Dekhaa Raai.",
+      "Inhon Thage Sab Log, Mujhko Naahin Thagaao || 2 ||"
     ],
     [
       "Buddhi Vastr Hai Mailaa Bhaari, Saabun Naam Laay Sukhkaari.",
-      "Ujjal Karke Taahin, Virah Ke Rang Rangaao. ||.3 ||."
+      "Ujjal Karke Taahin, Virah Ke Rang Rangaao || 3 ||"
     ],
     [
       "Kahe Teun Tum Ho Daataaraa, Main Hun Mangtaa Maangnahaaraa.",
       "Deke Nirbhay Daan, Shram Ke Bhut Bhagaao || 4 ||"
-    ],
-    [
-      "T"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 9 || '540 ||.",
+    "गुरूजी मुझे अपने चरन लगाओ",
     "Guruji Mujhe Apne Charan Lagaao",
-    "गुरुजि मुझे पने चरण लगाो"
+    "राग सोरठ भजन 9",
+    "Raag Sorath Bhajan 9"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "sorath",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
     "bhajan"
   ],
-  "displayOrder": 541,
+  "displayOrder": 9,
+  "overallOrder": 539,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 295",
+  "updatedAt": "2026-10-26"
 }

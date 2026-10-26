@@ -1,36 +1,77 @@
 {
-  "id": "bhajan-0598",
+  "id": "bhajan-0596",
   "slug": "guru-ki-kripaa-se-jijnyaasu-sindhu-sutaa-pati-jove-hai",
   "categoryId": "raag-purab",
-  "title": "गुरु कि कृपा से जिजनयासु, सिनधु सुता पति जोवे है",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "गुरु की कृपा से जिज्ञासू, सिन्धु सुता पति जोवे है",
   "romanTitle": "Guru Ki Kripaa Se Jijnyaasu, Sindhu Sutaa Pati Jove Hai",
   "firstLine": "Guru Ki Kripaa Se Jijnyaasu, Sindhu Sutaa Pati Jove Hai (Tek).",
+  "heading": "।। राग पूरब भजन ।। ६ ।। ५९७।।",
+  "tek": [
+    "गुरु की कृपा से जिज्ञासू, सिन्धु सुता पति जोवे है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Ki Kripaa Se Jijnyaasu, Sindhu Sutaa Pati Jove Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धरनि सुता पति के जपते ही, सूर पूत भय खोवे है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharni Sutaa Pati Ke Japte Hi, Sur Put Bhay Khove Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सागर सुत का सुत उर उपजे, अर्जुन सुत तब सोवे है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saagar Sut Kaa Sut Ur Upje, Arjun Sut Tab Sove Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गिरि कन्या पति के दर्शन से, हरि सुत मृतक होवे है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Giri Kanyaa Pati Ke Darshan Se, Hari Sut Mritak Hove Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो यह पद समझे, सो दुर्मति को धोवे है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Yah Pad Samjhe, So Durmati Ko Dhove Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु कि कृपा से जिजनयासु, सिनधु सुता पति जोवे है (टेक)."
+      "धरनि सुता पति के जपते ही, सूर पूत भय खोवे है ॥१ ॥"
     ],
     [
-      "धरनि सुता पति के जपते हि, सुर पुत भय खोवे है || 1 ||."
+      "सागर सुत का सुत उर उपजे, अर्जुन सुत तब सोवे है ॥२ ॥"
     ],
     [
-      "सागर सुत का सुत ुर ुपजे, रजुन सुत तब सोवे है || 2 ||."
+      "गिरि कन्या पति के दर्शन से, हरि सुत मृतक होवे है ॥३ ॥"
     ],
     [
-      "गिरि कनया पति के दरशन से, हरि सुत मरितक होवे है || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जो यह पद समझे, सो दुरमति को धोवे है || 4 ||"
+      "कहे टेऊँ जो यह पद समझे, सो दुर्मति को धोवे है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Ki Kripaa Se Jijnyaasu, Sindhu Sutaa Pati Jove Hai (Tek)."
+      "Dharni Sutaa Pati Ke Japte Hi, Sur Put Bhay Khove Hai || 1 ||"
     ],
     [
-      "Dharni Sutaa Pati Ke Japte Hi, Sur Put Bhay Khove Hai || 1 ||."
-    ],
-    [
-      "Saagar Sut Kaa Sut Ur Upje, Arjun Sut Tab Sove Hai || 2 ||."
+      "Saagar Sut Kaa Sut Ur Upje, Arjun Sut Tab Sove Hai || 2 ||"
     ],
     [
       "Giri Kanyaa Pati Ke Darshan Se, Hari Sut Mritak Hove Hai || 3 ||"
@@ -40,19 +81,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Purab Bhajan || 6 || 597 ||",
+    "गुरु की कृपा से जिज्ञासू, सिन्धु सुता पति जोवे है",
     "Guru Ki Kripaa Se Jijnyaasu, Sindhu Sutaa Pati Jove Hai",
-    "गुरु कि कृपा से जिजनयासु, सिनधु सुता पति जोवे है"
+    "राग पूरब भजन 6",
+    "Raag Purab Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "purab",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 598,
+  "displayOrder": 6,
+  "overallOrder": 596,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 323",
+  "updatedAt": "2026-10-26"
 }

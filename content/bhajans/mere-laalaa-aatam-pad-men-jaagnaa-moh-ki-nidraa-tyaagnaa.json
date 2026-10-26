@@ -1,101 +1,159 @@
 {
-  "id": "bhajan-0826",
+  "id": "bhajan-0824",
   "slug": "mere-laalaa-aatam-pad-men-jaagnaa-moh-ki-nidraa-tyaagnaa",
   "categoryId": "raag-maanjh",
-  "title": "मेरे लाला ातम पद मेन जागना, मोह कि निदरा तयागना",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "मेरे लाला आतम पद में जागना , मोह की निद्रा त्यागना",
   "romanTitle": "Mere Laalaa Aatam Pad Men Jaagnaa, Moh Ki Nidraa Tyaagnaa",
   "firstLine": "Mere Laalaa Aatam Pad Men Jaagnaa, Moh Ki Nidraa Tyaagnaa (Tek).",
+  "heading": "।। राग मॉझ भजन ।। १३ ।। ८२६।॥।",
+  "tek": [
+    "मेरे लाला आतम पद में जागना , मोह की निद्रा त्यागना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Laalaa Aatam Pad Men Jaagnaa, Moh Ki Nidraa Tyaagnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "निन्द्रा कर ज्यों सुपना भासे, भान्ति भान्ति के रंग तमासे,",
+        "नैन खुले कुछ नज़र न आवे, जहां से आये तहां विनासे ।",
+        "कोई करत तिहें राग ना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nindraa Kar Jyon Supnaa Bhaase, Bhaanti Bhaanti Ke Rang Tamaase,",
+        "Nain Khule Kuchh Nazar Na Aave, Jahaan Se Aaye Tahaan Vinaase.",
+        "Koi Karat Tihen Raag Naa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अविद्या कर त्यों बहु प्रकारा, मालूम होते जग विस्तारा,",
+        "बोध भये कुछ पता न पड़ता, लय हो जावे सब संसारा ।",
+        "ताहीं में तुम मत लागना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Avidyaa Kar Tyon Bahu Prakaaraa, Maalum Hote Jag Vistaaraa,",
+        "Bodh Bhaye Kuchh Pataa Na Partaa, Lay Ho Jaave Sab Sansaaraa.",
+        "Taahin Men Tum Mat Laagnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ना तुम तन हो ना तुम मन हो, ना तुम प्रज्ञा इन्द्रियगन हो,",
+        "ना तुम माया ना तुम छाया, तुम तो सत्‌ चित्‌ आनन्द घन हो ।",
+        "अविद्या से उठ भागना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naa Tum Tan Ho Naa Tum Man Ho, Naa Tum Prajnyaa Indriygan Ho,",
+        "Naa Tum Maayaa Naa Tum Chhaayaa, Tum To Sat‌ Chit‌ Aanand Ghan Ho.",
+        "Avidyaa Se Uth Bhaagnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ग्गठ",
+        "मोह निशा सोवत अज्ञानी, आतम बेमुख तन अभिमानी,",
+        "मोह नींद से जागत जोगी, परमार्थ रत ब्रह्मज्ञानी ।",
+        "जोगी जनों से रागना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ggath",
+        "Moh Nishaa Sovat Ajnyaani, Aatam Bemukh Tan Abhimaani,",
+        "Moh Nind Se Jaagat Jogi, Parmaarth Rat Brahmajnyaani.",
+        "Jogi Janon Se Raagnaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ गुरु शब्द सुनाये, मोह नींद से सुरति जगाये,",
+        "सुरति जगा कर पीव मिलावे, पीव मिला कर ताहिं समावे ।",
+        "पूरन पद में पागना ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Shabd Sunaaye, Moh Nind Se Surti Jagaaye,",
+        "Surti Jagaa Kar Piv Milaave, Piv Milaa Kar Taahin Samaave.",
+        "Puran Pad Men Paagnaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे लाला ातम पद मेन जागना, मोह कि निदरा तयागना (टेक)."
+      "निन्द्रा कर ज्यों सुपना भासे, भान्ति भान्ति के रंग तमासे,",
+      "नैन खुले कुछ नज़र न आवे, जहां से आये तहां विनासे ।",
+      "कोई करत तिहें राग ना ॥१ ॥"
     ],
     [
-      "निनदरा कर जयोन सुपना भासे, भानति भानति के रनग तमासे,",
-      "नैन खुले कुचह नzर न ावे, जहान से ाये तहान विनासे."
+      "अविद्या कर त्यों बहु प्रकारा, मालूम होते जग विस्तारा,",
+      "बोध भये कुछ पता न पड़ता, लय हो जावे सब संसारा ।",
+      "ताहीं में तुम मत लागना ॥२ ॥"
     ],
     [
-      "कोि करत तिहेन राग ना.1 ||",
-      "विदया कर तयोन बहु परकारा, मालुम होते जग विसतारा,"
+      "ना तुम तन हो ना तुम मन हो, ना तुम प्रज्ञा इन्द्रियगन हो,",
+      "ना तुम माया ना तुम छाया, तुम तो सत्‌ चित्‌ आनन्द घन हो ।",
+      "अविद्या से उठ भागना ॥३ ॥"
     ],
     [
-      "बोध भये कुचह पता न परता, लय हो जावे सब सनसारा.",
-      "ताहिन मेन तुम मत लागना || 2 ||."
+      "ग्गठ",
+      "मोह निशा सोवत अज्ञानी, आतम बेमुख तन अभिमानी,",
+      "मोह नींद से जागत जोगी, परमार्थ रत ब्रह्मज्ञानी ।",
+      "जोगी जनों से रागना ॥४ ॥"
     ],
     [
-      "ना तुम तन हो ना तुम मन हो, ना तुम परजनया िनदरियगन हो,",
-      "ना तुम माया ना तुम चहाया, तुम तो सत‌ चित‌ आनंद घन हो."
-    ],
-    [
-      "विदया से ुथ भागना ||.3 ||",
-      "गगथ"
-    ],
-    [
-      "मोह निशा सोवत जनयानि, ातम बेमुख तन भिमानि,",
-      "मोह निनद से जागत जोगि, परमारथ रत बरहमजनयानि."
-    ],
-    [
-      "जोगि जनोन से रागना || 4 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु शबद सुनाये, मोह निनद से सुरति जगाये,",
-      "सुरति जगा कर पिव मिलावे, पिव मिला कर ताहिन समावे."
-    ],
-    [
-      "पुरन पद मेन पागना || 5 ||"
+      "कहे टेऊँ गुरु शब्द सुनाये, मोह नींद से सुरति जगाये,",
+      "सुरति जगा कर पीव मिलावे, पीव मिला कर ताहिं समावे ।",
+      "पूरन पद में पागना ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Laalaa Aatam Pad Men Jaagnaa, Moh Ki Nidraa Tyaagnaa (Tek)."
-    ],
-    [
       "Nindraa Kar Jyon Supnaa Bhaase, Bhaanti Bhaanti Ke Rang Tamaase,",
-      "Nain Khule Kuchh Nazar N Aave, Jahaan Se Aaye Tahaan Vinaase."
+      "Nain Khule Kuchh Nazar Na Aave, Jahaan Se Aaye Tahaan Vinaase.",
+      "Koi Karat Tihen Raag Naa || 1 ||"
     ],
     [
-      "Koi Karat Tihen Raag Naa.1 ||",
-      "Avidyaa Kar Tyon Bahu Prakaaraa, Maalum Hote Jag Vistaaraa,"
-    ],
-    [
-      "Bodh Bhaye Kuchh Pataa N Partaa, Lay Ho Jaave Sab Sansaaraa.",
-      "Taahin Men Tum Mat Laagnaa || 2 ||."
+      "Avidyaa Kar Tyon Bahu Prakaaraa, Maalum Hote Jag Vistaaraa,",
+      "Bodh Bhaye Kuchh Pataa Na Partaa, Lay Ho Jaave Sab Sansaaraa.",
+      "Taahin Men Tum Mat Laagnaa || 2 ||"
     ],
     [
       "Naa Tum Tan Ho Naa Tum Man Ho, Naa Tum Prajnyaa Indriygan Ho,",
-      "Naa Tum Maayaa Naa Tum Chhaayaa, Tum To Sat‌ Chit‌ Aanand Ghan Ho."
+      "Naa Tum Maayaa Naa Tum Chhaayaa, Tum To Sat‌ Chit‌ Aanand Ghan Ho.",
+      "Avidyaa Se Uth Bhaagnaa || 3 ||"
     ],
     [
-      "Avidyaa Se Uth Bhaagnaa ||.3 ||",
-      "Ggath"
-    ],
-    [
+      "Ggath",
       "Moh Nishaa Sovat Ajnyaani, Aatam Bemukh Tan Abhimaani,",
-      "Moh Nind Se Jaagat Jogi, Parmaarth Rat Brahmajnyaani."
-    ],
-    [
+      "Moh Nind Se Jaagat Jogi, Parmaarth Rat Brahmajnyaani.",
       "Jogi Janon Se Raagnaa || 4 ||"
     ],
     [
       "Kahe Teun Guru Shabd Sunaaye, Moh Nind Se Surti Jagaaye,",
-      "Surti Jagaa Kar Piv Milaave, Piv Milaa Kar Taahin Samaave."
-    ],
-    [
+      "Surti Jagaa Kar Piv Milaave, Piv Milaa Kar Taahin Samaave.",
       "Puran Pad Men Paagnaa || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Majh Bhajan || 13 || 826. ||.",
+    "मेरे लाला आतम पद में जागना , मोह की निद्रा त्यागना",
     "Mere Laalaa Aatam Pad Men Jaagnaa, Moh Ki Nidraa Tyaagnaa",
-    "मेरे लाला ातम पद मेन जागना, मोह कि निदरा तयागना"
+    "राग मांझ भजन 13",
+    "Raag Maanjh Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 826,
+  "displayOrder": 13,
+  "overallOrder": 824,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 437",
+  "updatedAt": "2026-10-26"
 }

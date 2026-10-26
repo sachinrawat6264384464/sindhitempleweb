@@ -2,62 +2,96 @@
   "id": "bhajan-0401",
   "slug": "man-sab-hai-thaakur-dvaaraa-ye-jitne-tan-aakaaraa",
   "categoryId": "raag-tilang",
-  "title": "मन सब है थाकुर दवारा, ये जितने तन ाकारा",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मन सब है ठाकुर द्वारा, ये जितने तन आकारा ॥",
   "romanTitle": "Man Sab Hai Thaakur Dvaaraa, Ye Jitne Tan Aakaaraa",
   "firstLine": "Man Sab Hai Thaakur Dvaaraa, Ye Jitne Tan Aakaaraa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ३८ ।। ४०२।।",
+  "tek": [
+    "मन सब है ठाकुर द्वारा, ये जितने तन आकारा ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Man Sab Hai Thaakur Dvaaraa, Ye Jitne Tan Aakaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन मन्दिर हैं सुन्दर सारे, कुदरत जोड़े सकल संबारे ।",
+        "बैठा इसमें कृष्ण मुरारे, नित करिये ताहिं जुहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Mandir Hain Sundar Saare, Kudrat Jore Sakal Sambaare.",
+        "Baithaa Ismen Krishn Muraare, Nit Kariye Taahin Juhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन मन्दिर बहु जगत मेंझारे, ठाकुर सब में एक उदारे ।",
+        "किसमें भेद न धरो प्यारे, कर देखो मन वीचारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Mandir Bahu Jagat Menjhaare, Thaakur Sab Men Ek Udaare.",
+        "Kismen Bhed Na Dharo Pyaare, Kar Dekho Man Vichaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन मन्दिरों से तन शुभ मन्दिर, बैठा चेतन इसके अन्दर ।",
+        "कहे टेऊँ ले गुरु से मन्त्र, कर सेवा सबकी प्यारा ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "An Mandiron Se Tan Shubh Mandir, Baithaa Chetan Iske Andar.",
+        "Kahe Teun Le Guru Se Mantr, Kar Sevaa Sabki Pyaaraa || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन सब है थाकुर दवारा, ये जितने तन ाकारा (टेक)."
+      "तन मन्दिर हैं सुन्दर सारे, कुदरत जोड़े सकल संबारे ।",
+      "बैठा इसमें कृष्ण मुरारे, नित करिये ताहिं जुहारा ॥१ ॥"
     ],
     [
-      "तन मनदिर हैन सुनदर सारे, कुदरत जोरे सकल समबारे.",
-      "बैथा िसमेन करिशन मुरारे, नित करिये ताहिन जुहारा || 1 ||"
+      "तन मन्दिर बहु जगत मेंझारे, ठाकुर सब में एक उदारे ।",
+      "किसमें भेद न धरो प्यारे, कर देखो मन वीचारा ॥२ ॥"
     ],
     [
-      "तन मनदिर बहु जगत मेनझारे, थाकुर सब मेन ेक ुदारे.",
-      "किसमेन भेद न धरो पयारे, कर देखो मन विचारा || 2 ||."
-    ],
-    [
-      "न मनदिरोन से तन शुभ मनदिर, बैथा चेतन िसके नदर.",
-      "कहे तेऊँ ले गुरु से मनतर, कर सेवा सबकि पयारा ||.3े ||."
-    ],
-    [
-      "तर"
+      "अन मन्दिरों से तन शुभ मन्दिर, बैठा चेतन इसके अन्दर ।",
+      "कहे टेऊँ ले गुरु से मन्त्र, कर सेवा सबकी प्यारा ॥ ।३े ॥ ।"
     ]
   ],
   "romanLyrics": [
-    [
-      "Man Sab Hai Thaakur Dvaaraa, Ye Jitne Tan Aakaaraa (Tek)."
-    ],
     [
       "Tan Mandir Hain Sundar Saare, Kudrat Jore Sakal Sambaare.",
       "Baithaa Ismen Krishn Muraare, Nit Kariye Taahin Juhaaraa || 1 ||"
     ],
     [
       "Tan Mandir Bahu Jagat Menjhaare, Thaakur Sab Men Ek Udaare.",
-      "Kismen Bhed N Dharo Pyaare, Kar Dekho Man Vichaaraa || 2 ||."
+      "Kismen Bhed Na Dharo Pyaare, Kar Dekho Man Vichaaraa || 2 ||"
     ],
     [
       "An Mandiron Se Tan Shubh Mandir, Baithaa Chetan Iske Andar.",
-      "Kahe Teun Le Guru Se Mantr, Kar Sevaa Sabki Pyaaraa ||.3E ||."
-    ],
-    [
-      "Tar"
+      "Kahe Teun Le Guru Se Mantr, Kar Sevaa Sabki Pyaaraa || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 38 || 402 ||",
+    "मन सब है ठाकुर द्वारा, ये जितने तन आकारा ॥",
     "Man Sab Hai Thaakur Dvaaraa, Ye Jitne Tan Aakaaraa",
-    "मन सब है थाकुर दवारा, ये जितने तन ाकारा"
+    "राग तिलंग भजन 38",
+    "Raag Tilang Bhajan 38"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 401,
+  "displayOrder": 38,
+  "overallOrder": 401,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 234",
+  "updatedAt": "2026-10-26"
 }

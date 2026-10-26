@@ -1,73 +1,122 @@
 {
-  "id": "bhajan-0622",
+  "id": "bhajan-0620",
   "slug": "bandaa-maayaa-se-man-mor",
   "categoryId": "raag-kalyaan",
-  "title": "बनदा माया से मन मोर",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "बंदा माया से मन मोड़",
   "romanTitle": "Bandaa Maayaa Se Man Mor",
-  "firstLine": "Bandaa Maayaa Se Man Mor. Maayaa Bijli Ke Sam Chanchal, Taankaa Pichhaa Chhor (Tek).",
+  "firstLine": "Bandaa Maayaa Se Man Mor.",
+  "heading": "।। राग कल्याण भजन ।। १४ ।। ६२१।।",
+  "tek": [
+    "बंदा माया से मन मोड़ ।",
+    "माया बिजली के सम चंचल, तांका पीछा छोड़ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa Maayaa Se Man Mor.",
+    "Maayaa Bijli Ke Sam Chanchal, Taankaa Pichhaa Chhor (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "द्ठ्ह",
+        "माया डाकिन के सम भाई, तांकी संगति है दुखदाई ।",
+        "सिर को देवे फोड़ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dthh",
+        "Maayaa Daakin Ke Sam Bhaai, Taanki Sangti Hai Dukhdaai.",
+        "Sir Ko Deve Phor || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया कांटों की है शैया, तां पर भूल न बैठो भैया ।",
+        "तन को देवे तोड़ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Kaanton Ki Hai Shaiyaa, Taan Par Bhul Na Baitho Bhaiyaa.",
+        "Tan Ko Deve Tor || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "माया सांपिन समझ सुजाना, तांको भूल न हाथ लगाना ।",
+        "लेवे श्वास निचोड़ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Saanpin Samajh Sujaanaa, Taanko Bhul Na Haath Lagaanaa.",
+        "Leve Shvaas Nichor || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो हित को चाहो, माया को गुरु चरण लगाओ ।",
+        "जीव ब्रह्म से जोड़ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Hit Ko Chaaho, Maayaa Ko Guru Charan Lagaao.",
+        "Jiv Brahm Se Jor || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदा माया से मन मोर.",
-      "माया बिजलि के सम चनचल, तानका पिचहा चहोर (टेक)."
+      "द्ठ्ह",
+      "माया डाकिन के सम भाई, तांकी संगति है दुखदाई ।",
+      "सिर को देवे फोड़ ॥१ ॥"
     ],
     [
-      "दथह",
-      "माया दाकिन के सम भाि, तानकि सनगति है दुखदाि."
+      "माया कांटों की है शैया, तां पर भूल न बैठो भैया ।",
+      "तन को देवे तोड़ ॥२ ॥"
     ],
     [
-      "सिर को देवे फोर || 1 ||."
+      "माया सांपिन समझ सुजाना, तांको भूल न हाथ लगाना ।",
+      "लेवे श्वास निचोड़ ॥३ ॥"
     ],
     [
-      "माया कानतोन कि है शैया, तान पर भुल न बैथो भैया.",
-      "तन को देवे तोर. ||.2 ||."
-    ],
-    [
-      "माया सानपिन समझ सुजाना, तानको भुल न हाथ लगाना.",
-      "लेवे शवास निचोर ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ जो हित को चाहो, माया को गुरु चरण लगाो.",
-      "जिव बरहम से जोर ||.4. ||."
+      "कहे टेऊँ जो हित को चाहो, माया को गुरु चरण लगाओ ।",
+      "जीव ब्रह्म से जोड़ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandaa Maayaa Se Man Mor.",
-      "Maayaa Bijli Ke Sam Chanchal, Taankaa Pichhaa Chhor (Tek)."
-    ],
-    [
       "Dthh",
-      "Maayaa Daakin Ke Sam Bhaai, Taanki Sangti Hai Dukhdaai."
+      "Maayaa Daakin Ke Sam Bhaai, Taanki Sangti Hai Dukhdaai.",
+      "Sir Ko Deve Phor || 1 ||"
     ],
     [
-      "Sir Ko Deve Phor || 1 ||."
+      "Maayaa Kaanton Ki Hai Shaiyaa, Taan Par Bhul Na Baitho Bhaiyaa.",
+      "Tan Ko Deve Tor || 2 ||"
     ],
     [
-      "Maayaa Kaanton Ki Hai Shaiyaa, Taan Par Bhul N Baitho Bhaiyaa.",
-      "Tan Ko Deve Tor. ||.2 ||."
-    ],
-    [
-      "Maayaa Saanpin Samajh Sujaanaa, Taanko Bhul N Haath Lagaanaa.",
-      "Leve Shvaas Nichor ||.3 ||"
+      "Maayaa Saanpin Samajh Sujaanaa, Taanko Bhul Na Haath Lagaanaa.",
+      "Leve Shvaas Nichor || 3 ||"
     ],
     [
       "Kahe Teun Jo Hit Ko Chaaho, Maayaa Ko Guru Charan Lagaao.",
-      "Jiv Brahm Se Jor ||.4. ||."
+      "Jiv Brahm Se Jor || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 14 || 621 ||",
+    "बंदा माया से मन मोड़",
     "Bandaa Maayaa Se Man Mor",
-    "बनदा माया से मन मोर"
+    "राग कल्याण भजन 14",
+    "Raag Kalyaan Bhajan 14"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 622,
+  "displayOrder": 14,
+  "overallOrder": 620,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 332",
+  "updatedAt": "2026-10-26"
 }

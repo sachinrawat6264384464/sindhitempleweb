@@ -1,0 +1,115 @@
+{
+  "id": "bhajan-0098",
+  "slug": "sadguru-na-bisaaro-na-bisaaro-na-bisaaro",
+  "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सद्‌गुरु न बिसारो न बिसारो न बिसारो",
+  "romanTitle": "Sad‌Guru Na Bisaaro Na Bisaaro Na Bisaaro",
+  "firstLine": "Sad‌Guru Na Bisaaro Na Bisaaro Na Bisaaro.",
+  "heading": "।। राग आसा भजन ।। ३६ ।। ९८।।",
+  "tek": [
+    "सद्‌गुरु न बिसारो न बिसारो न बिसारो ।",
+    "अपना ही दास जान हमें पार उतारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Na Bisaaro Na Bisaaro Na Bisaaro.",
+    "Apnaa Hi Daas Jaan Hamen Paar Utaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं मूंढ अज्ञानी हूं प्रभू दास तुम्हारा,",
+        "तुम सर्व कला समर्थ गुरुदेव हमारा ।",
+        "दुख दर्द सर्व टारो, सर्व टारो, सर्व टारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Mundh Ajnyaani Hun Prabhu Daas Tumhaaraa,",
+        "Tum Sarv Kalaa Samarth Gurudev Hamaaraa.",
+        "Dukh Dard Sarv Taaro, Sarv Taaro, Sarv Taaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ठ्ठ",
+        "भवसिन्धु माहिं डूब रही है मेरी नैया,",
+        "गुरुदेव ताहिं पार करो बनके खिवैया ।",
+        "निज बिरद तुम सम्भारो, तुम सम्भारो, तुम सम्भारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Thth",
+        "Bhavsindhu Maahin Dub Rahi Hai Meri Naiyaa,",
+        "Gurudev Taahin Paar Karo Banke Khivaiyaa.",
+        "Nij Birad Tum Sambhaaro, Tum Sambhaaro, Tum Sambhaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इस जगत माहिं कोय नहीं मेरा सहारा,",
+        "कहे टेऊँ तीन लोक माहिं तेरा अधारा ।",
+        "तुम अपनी दया धारो, दया धारो, दया धारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Is Jagat Maahin Koy Nahin Meraa Sahaaraa,",
+        "Kahe Teun Tin Lok Maahin Teraa Adhaaraa.",
+        "Tum Apni Dayaa Dhaaro, Dayaa Dhaaro, Dayaa Dhaaro || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मैं मूंढ अज्ञानी हूं प्रभू दास तुम्हारा,",
+      "तुम सर्व कला समर्थ गुरुदेव हमारा ।",
+      "दुख दर्द सर्व टारो, सर्व टारो, सर्व टारो ॥१ ॥"
+    ],
+    [
+      "ठ्ठ",
+      "भवसिन्धु माहिं डूब रही है मेरी नैया,",
+      "गुरुदेव ताहिं पार करो बनके खिवैया ।",
+      "निज बिरद तुम सम्भारो, तुम सम्भारो, तुम सम्भारो ॥२ ॥"
+    ],
+    [
+      "इस जगत माहिं कोय नहीं मेरा सहारा,",
+      "कहे टेऊँ तीन लोक माहिं तेरा अधारा ।",
+      "तुम अपनी दया धारो, दया धारो, दया धारो ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Main Mundh Ajnyaani Hun Prabhu Daas Tumhaaraa,",
+      "Tum Sarv Kalaa Samarth Gurudev Hamaaraa.",
+      "Dukh Dard Sarv Taaro, Sarv Taaro, Sarv Taaro || 1 ||"
+    ],
+    [
+      "Thth",
+      "Bhavsindhu Maahin Dub Rahi Hai Meri Naiyaa,",
+      "Gurudev Taahin Paar Karo Banke Khivaiyaa.",
+      "Nij Birad Tum Sambhaaro, Tum Sambhaaro, Tum Sambhaaro || 2 ||"
+    ],
+    [
+      "Is Jagat Maahin Koy Nahin Meraa Sahaaraa,",
+      "Kahe Teun Tin Lok Maahin Teraa Adhaaraa.",
+      "Tum Apni Dayaa Dhaaro, Dayaa Dhaaro, Dayaa Dhaaro || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "सद्‌गुरु न बिसारो न बिसारो न बिसारो",
+    "Sad‌Guru Na Bisaaro Na Bisaaro Na Bisaaro",
+    "राग आसा भजन 36",
+    "Raag Aasaa Bhajan 36"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
+  ],
+  "displayOrder": 36,
+  "overallOrder": 98,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 74",
+  "updatedAt": "2026-10-26"
+}

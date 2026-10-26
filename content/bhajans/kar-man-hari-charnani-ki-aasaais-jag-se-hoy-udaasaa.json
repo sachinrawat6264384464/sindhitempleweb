@@ -2,52 +2,99 @@
   "id": "bhajan-0087",
   "slug": "kar-man-hari-charnani-ki-aasaais-jag-se-hoy-udaasaa",
   "categoryId": "raag-aasaa",
-  "title": "कर मन हरि चरननि कि ासािस जग से होय ुदासा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "कर मन हरि चरननि की आसा ,इस जग से होय उदासा ।",
   "romanTitle": "Kar Man Hari Charnani Ki Aasaa,Is Jag Se Hoy Udaasaa",
   "firstLine": "Kar Man Hari Charnani Ki Aasaa,Is Jag Se Hoy Udaasaa (Tek).",
+  "heading": "।। राग आसा भजन ।। २५ ।। ८७॥।",
+  "tek": [
+    "कर मन हरि चरननि की आसा ,इस जग से होय उदासा । । टेक ॥"
+  ],
+  "romanTek": [
+    "Kar Man Hari Charnani Ki Aasaa,Is Jag Se Hoy Udaasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और आसरे जेते जग के, झूठा जान दिलासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Aasre Jete Jag Ke, Jhuthaa Jaan Dilaasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जग झूठा जग के नर झूठे, झूठा तां भरवासा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jag Jhuthaa Jag Ke Nar Jhuthe, Jhuthaa Taan Bharvaasaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जगत आसरा जिन जिन लीना,ताहिं पड़ी जम फासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jagat Aasraa Jin Jin Linaa,Taahin Pari Jam Phaasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले शरण हरी की, जांते हो दुःख नासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Sharan Hari Ki, Jaante Ho Duhkh Naasaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कर मन हरि चरननि कि ासािस जग से होय ुदासा (टेक)."
+      "और आसरे जेते जग के, झूठा जान दिलासा ॥१ ॥"
     ],
     [
-      "ौर ासरे जेते जग के, झुथा जान दिलासा ||.1 ||.",
-      "जग झुथा जग के नर झुथे, झुथा तान भरवासा || 2 ||."
+      "जग झूठा जग के नर झूठे, झूठा तां भरवासा ॥२ ॥"
     ],
     [
-      "जगत ासरा जिन जिन लिनाताहिन परि जम फासा || 3 ||"
+      "जगत आसरा जिन जिन लीना,ताहिं पड़ी जम फासा ॥३ ॥"
     ],
     [
-      "कहे तेऊँ ले शरन हरि कि, जानते हो दुःख नासा || 4 ||."
+      "कहे टेऊँ ले शरण हरी की, जांते हो दुःख नासा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kar Man Hari Charnani Ki Aasaa,Is Jag Se Hoy Udaasaa (Tek)."
+      "Aur Aasre Jete Jag Ke, Jhuthaa Jaan Dilaasaa || 1 ||"
     ],
     [
-      "Aur Aasre Jete Jag Ke, Jhuthaa Jaan Dilaasaa ||.1 ||.",
-      "Jag Jhuthaa Jag Ke Nar Jhuthe, Jhuthaa Taan Bharvaasaa || 2 ||."
+      "Jag Jhuthaa Jag Ke Nar Jhuthe, Jhuthaa Taan Bharvaasaa || 2 ||"
     ],
     [
       "Jagat Aasraa Jin Jin Linaa,Taahin Pari Jam Phaasaa || 3 ||"
     ],
     [
-      "Kahe Teun Le Sharan Hari Ki, Jaante Ho Duhkh Naasaa || 4 ||."
+      "Kahe Teun Le Sharan Hari Ki, Jaante Ho Duhkh Naasaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 25 || 87 ||.",
+    "कर मन हरि चरननि की आसा ,इस जग से होय उदासा ।",
     "Kar Man Hari Charnani Ki Aasaa,Is Jag Se Hoy Udaasaa",
-    "कर मन हरि चरननि कि ासािस जग से होय ुदासा"
+    "राग आसा भजन 25",
+    "Raag Aasaa Bhajan 25"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 87,
+  "displayOrder": 25,
+  "overallOrder": 87,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 69",
+  "updatedAt": "2026-10-26"
 }

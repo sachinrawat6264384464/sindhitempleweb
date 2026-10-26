@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0819",
+  "id": "bhajan-0817",
   "slug": "saakshaat-is-vishv-ko-hari-kaa-svarup-jaano",
   "categoryId": "raag-maanjh",
-  "title": "साकशात‌ िस विशव को, हरि का सवरुप जानो",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "साक्षात्‌ इस विश्व को, हरि का स्वरूप जानो",
   "romanTitle": "Saakshaat‌ Is Vishv Ko, Hari Kaa Svarup Jaano",
-  "firstLine": "Saakshaat‌ Is Vishv Ko, Hari Kaa Svarup Jaano. Is Baat Men Zaraa Bhi, Sanshay Kabhi N Aano (Tek).",
+  "firstLine": "Saakshaat‌ Is Vishv Ko, Hari Kaa Svarup Jaano.",
+  "heading": "।। राग मांझ भजन ।। ६ ।। ८१९॥।",
+  "tek": [
+    "साक्षात्‌ इस विश्व को, हरि का स्वरूप जानो ।",
+    "इस बात में ज़रा भी, संशय कभी न आनो ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Saakshaat‌ Is Vishv Ko, Hari Kaa Svarup Jaano.",
+    "Is Baat Men Zaraa Bhi, Sanshay Kabhi Na Aano (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जगदीश अरु जगत में, रंचक न भेद कोई ।",
+        "हरि जगत, जगत हरि है, वेदों ने यह बखानो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jagdish Aru Jagat Men, Ranchak Na Bhed Koi.",
+        "Hari Jagat, Jagat Hari Hai, Vedon Ne Yah Bakhaano || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन माहिं अंग नाना, फिर भी शरीर इक है ।",
+        "त्यों जगत जीव नाना, इक ब्रह्म ही पछानो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Maahin Ang Naanaa, Phir Bhi Sharir Ik Hai.",
+        "Tyon Jagat Jiv Naanaa, Ik Brahm Hi Pachhaano || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "किस एक अंग सेवा, समझो शरीर की सा ।",
+        "तिमि एक जीव सेवा, भगवान सेव मानो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kis Ek Ang Sevaa, Samjho Sharir Ki Saa.",
+        "Timi Ek Jiv Sevaa, Bhagvaan Sev Maano || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सोय देखे, यह विश्व हरि स्वरूपा ।",
+        "कृपा करे जिसी को, गुरु ज्ञान दे महानो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Soy Dekhe, Yah Vishv Hari Svarupaa.",
+        "Kripaa Kare Jisi Ko, Guru Gyaan De Mahaano || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साकशात‌ िस विशव को, हरि का सवरुप जानो.",
-      "िस बात मेन zरा भि, सनशय कभि न ानो (टेक)."
+      "जगदीश अरु जगत में, रंचक न भेद कोई ।",
+      "हरि जगत, जगत हरि है, वेदों ने यह बखानो ॥१ ॥"
     ],
     [
-      "जगदिश रु जगत मेन, रनचक न भेद कोि.",
-      "हरि जगत, जगत हरि है, वेदोन ने यह बखानो || 1 ||."
+      "तन माहिं अंग नाना, फिर भी शरीर इक है ।",
+      "त्यों जगत जीव नाना, इक ब्रह्म ही पछानो ॥२ ॥"
     ],
     [
-      "तन माहिन नग नाना, फिर भि शरिर िक है.",
-      "तयोन जगत जिव नाना, िक बरहम हि पचहानो || 2 ||"
+      "किस एक अंग सेवा, समझो शरीर की सा ।",
+      "तिमि एक जीव सेवा, भगवान सेव मानो ॥३ ॥"
     ],
     [
-      "किस ेक नग सेवा, समझो शरिर कि सा.",
-      "तिमि ेक जिव सेवा, भगवान सेव मानो ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ सोय देखे, यह विशव हरि सवरुपा.",
-      "कृपा करे जिसि को, गुरु ज्ञान दे महानो || 4. ||."
+      "कहे टेऊँ सोय देखे, यह विश्व हरि स्वरूपा ।",
+      "कृपा करे जिसी को, गुरु ज्ञान दे महानो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saakshaat‌ Is Vishv Ko, Hari Kaa Svarup Jaano.",
-      "Is Baat Men Zaraa Bhi, Sanshay Kabhi N Aano (Tek)."
-    ],
-    [
-      "Jagdish Aru Jagat Men, Ranchak N Bhed Koi.",
-      "Hari Jagat, Jagat Hari Hai, Vedon Ne Yah Bakhaano || 1 ||."
+      "Jagdish Aru Jagat Men, Ranchak Na Bhed Koi.",
+      "Hari Jagat, Jagat Hari Hai, Vedon Ne Yah Bakhaano || 1 ||"
     ],
     [
       "Tan Maahin Ang Naanaa, Phir Bhi Sharir Ik Hai.",
@@ -42,26 +91,28 @@
     ],
     [
       "Kis Ek Ang Sevaa, Samjho Sharir Ki Saa.",
-      "Timi Ek Jiv Sevaa, Bhagvaan Sev Maano ||.3 ||"
+      "Timi Ek Jiv Sevaa, Bhagvaan Sev Maano || 3 ||"
     ],
     [
       "Kahe Teun Soy Dekhe, Yah Vishv Hari Svarupaa.",
-      "Kripaa Kare Jisi Ko, Guru Jnyaan De Mahaano || 4. ||."
+      "Kripaa Kare Jisi Ko, Guru Gyaan De Mahaano || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maanjh Bhajan || 6 || 819 ||.",
+    "साक्षात्‌ इस विश्व को, हरि का स्वरूप जानो",
     "Saakshaat‌ Is Vishv Ko, Hari Kaa Svarup Jaano",
-    "साकशात‌ िस विशव को, हरि का सवरुप जानो"
+    "राग मांझ भजन 6",
+    "Raag Maanjh Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 819,
+  "displayOrder": 6,
+  "overallOrder": 817,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 434",
+  "updatedAt": "2026-10-26"
 }

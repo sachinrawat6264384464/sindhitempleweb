@@ -2,57 +2,99 @@
   "id": "bhajan-0378",
   "slug": "jag-men-jaano-gurumukh-soi-guru-charne-chit-raakhat-joi",
   "categoryId": "raag-tilang",
-  "title": "जग मेन जानो गुरुमुख सोि, गुरु चरने चित राखत जोि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "जग में जानो गुरुमुख सोई, गुरु चरने चित राखत जोई",
   "romanTitle": "Jag Men Jaano Gurumukh Soi, Guru Charne Chit Raakhat Joi",
   "firstLine": "Jag Men Jaano Gurumukh Soi, Guru Charne Chit Raakhat Joi (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १५ ।। ३७९।॥।",
+  "tek": [
+    "जग में जानो गुरुमुख सोई, गुरु चरने चित राखत जोई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jag Men Jaano Gurumukh Soi, Guru Charne Chit Raakhat Joi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु की मूरत मन में धारे, आज्ञा गुरु की जो ना टारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Murat Man Men Dhaare, Aajnyaa Guru Ki Jo Naa Taare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सदूगुरु का जो नाम उच्चारे, मन में गुरु के गुण वीचारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saduguru Kaa Jo Naam Uchchaare, Man Men Guru Ke Gun Vichaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दोष दृष्टि नहिं गुरु में आने , गुरु को गोविन्द सम जो जाने ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dosh Drishti Nahin Guru Men Aane, Guru Ko Govind Sam Jo Jaane || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो हां मैं त्यागे, तन मन भेट धरे गुरु आगे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Haan Main Tyaage, Tan Man Bhet Dhare Guru Aage || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जग मेन जानो गुरुमुख सोि, गुरु चरने चित राखत जोि (टेक)."
+      "गुरु की मूरत मन में धारे, आज्ञा गुरु की जो ना टारे ॥१ ॥"
     ],
     [
-      "गुरु कि मुरत मन मेन धारे, ाजनया गुरु कि जो ना तारे || 1 ||."
+      "सदूगुरु का जो नाम उच्चारे, मन में गुरु के गुण वीचारे ॥२ ॥"
     ],
     [
-      "सदुगुरु का जो नाम ुचचारे, मन मेन गुरु के गुन विचारे || 2 ||."
+      "दोष दृष्टि नहिं गुरु में आने , गुरु को गोविन्द सम जो जाने ॥३ ॥"
     ],
     [
-      "दोश दरिशति नहिन गुरु मेन ाने, गुरु को गोविंद सम जो जाने || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जो हान मैं तयागे, तन मन भेत धरे गुरु ागे || 4 ||."
+      "कहे टेऊँ जो हां मैं त्यागे, तन मन भेट धरे गुरु आगे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jag Men Jaano Gurumukh Soi, Guru Charne Chit Raakhat Joi (Tek)."
+      "Guru Ki Murat Man Men Dhaare, Aajnyaa Guru Ki Jo Naa Taare || 1 ||"
     ],
     [
-      "Guru Ki Murat Man Men Dhaare, Aajnyaa Guru Ki Jo Naa Taare || 1 ||."
-    ],
-    [
-      "Saduguru Kaa Jo Naam Uchchaare, Man Men Guru Ke Gun Vichaare || 2 ||."
+      "Saduguru Kaa Jo Naam Uchchaare, Man Men Guru Ke Gun Vichaare || 2 ||"
     ],
     [
       "Dosh Drishti Nahin Guru Men Aane, Guru Ko Govind Sam Jo Jaane || 3 ||"
     ],
     [
-      "Kahe Teun Jo Haan Main Tyaage, Tan Man Bhet Dhare Guru Aage || 4 ||."
+      "Kahe Teun Jo Haan Main Tyaage, Tan Man Bhet Dhare Guru Aage || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 15 || 379. ||.",
+    "जग में जानो गुरुमुख सोई, गुरु चरने चित राखत जोई",
     "Jag Men Jaano Gurumukh Soi, Guru Charne Chit Raakhat Joi",
-    "जग मेन जानो गुरुमुख सोि, गुरु चरने चित राखत जोि"
+    "राग तिलंग भजन 15",
+    "Raag Tilang Bhajan 15"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 378,
+  "displayOrder": 15,
+  "overallOrder": 378,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 223",
+  "updatedAt": "2026-10-26"
 }

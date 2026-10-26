@@ -2,110 +2,151 @@
   "id": "bhajan-0142",
   "slug": "suno-re-saadho-suno-re-santo-dekhaa-main-israar-ji",
   "categoryId": "raag-aasaa",
-  "title": "सुनो रे साधो सुनो रे सनतो देखा मैं िसरार जी",
-  "romanTitle": "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सुनो रे साधो सुनो रे सनतो देखा मैं इसरार जी,",
+  "romanTitle": "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji,",
   "firstLine": "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji,",
+  "heading": "।। राग आसा भजन ।। ८० ।। १४२।।",
+  "tek": [
+    "सुनो रे साधो सुनो रे सनतो देखा मैं इसरार जी,",
+    "जो जन इस का मर्म पछाने तां पर मैं बलिहार जी,",
+    "कहते साच हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji,",
+    "Jo Jan Is Kaa Marm Pachhaane Taan Par Main Balihaar Ji,",
+    "Kahte Saach Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अद्भुत वृक्ष अनोखा जामें छोटी मोटी शाख घनी ।",
+        "मूल गगन है जांकी टहनी इधर उधर बहु लाख तनी ।",
+        "तांके मेवे बहुत रसाले खावत क्षुधा खाक बनी ।",
+        "ऐसे तरुवर की छाया को चाहत देव उदार जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Adbhut Vriksh Anokhaa Jaamen Chhoti Moti Shaakh Ghani.",
+        "Mul Gagan Hai Jaanki Tahni Idhar Udhar Bahu Laakh Tani.",
+        "Taanke Meve Bahut Rasaale Khaavat Kshudhaa Khaak Bani.",
+        "Aise Taruvar Ki Chhaayaa Ko Chaahat Dev Udaar Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "एक भवन दो सुरभी देखी इक छोटी इक आली है ।",
+        "छोटी का रड् धवल मनोहर मोटी रंग की काली है ।",
+        "छोटी का हैदूध रसीला पीवत उत्तम मराली है ।",
+        "दूध बड़ी का पीवन वाला श्रमत बारम्बार जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ek Bhavan Do Surbhi Dekhi Ik Chhoti Ik Aali Hai.",
+        "Chhoti Kaa Rad Dhaval Manohar Moti Rang Ki Kaali Hai.",
+        "Chhoti Kaa Haidudh Rasilaa Pivat Uttam Maraali Hai.",
+        "Dudh Bari Kaa Pivan Vaalaa Shramat Baarambaar Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पुरुष अरूपी सुन्न से गिरिया नभपुत्री तां झपट लिया ।",
+        "चतुर भांति के वस्तर पहने एक एक ने ताहिं दिया ।",
+        "पीछे बन गये रूप अनेका देख देख खुश होय जिया ।",
+        "ब्रह्म पुत्र वह पुरुष बताकर दिखलाया निज सार जी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Purush Arupi Sunn Se Giriyaa Nabhputri Taan Jhapat Liyaa.",
+        "Chatur Bhaanti Ke Vastar Pahne Ek Ek Ne Taahin Diyaa.",
+        "Pichhe Ban Gaye Rup Anekaa Dekh Dekh Khush Hoy Jiyaa.",
+        "Brahm Putr Vah Purush Bataakar Dikhlaayaa Nij Saar Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "एक महल अति अदभुत ऊँचा नैन बिना सो दृष्टि पड़े ।",
+        "कैसे बनिया किसहिं बनाया अन्त न आवत वेद ररे ।",
+        "भीतर जावे लौट न आवे नागा को प्रवेश करे ।",
+        "कहे टेऊँ सो नागा होवे गुरु कृपा जिहूँ धार जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ek Mahal Ati Adbhut Unchaa Nain Binaa So Drishti Pare.",
+        "Kaise Baniyaa Kishin Banaayaa Ant Na Aavat Ved Rare.",
+        "Bhitar Jaave Laut Na Aave Naagaa Ko Pravesh Kare.",
+        "Kahe Teun So Naagaa Hove Guru Kripaa Jihun Dhaar Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनो रे साधो सुनो रे सनतो देखा मैं िसरार जी,",
-      "जो जन िस का मरम पचहाने तान पर मैं बलिहार जी,"
+      "अद्भुत वृक्ष अनोखा जामें छोटी मोटी शाख घनी ।",
+      "मूल गगन है जांकी टहनी इधर उधर बहु लाख तनी ।",
+      "तांके मेवे बहुत रसाले खावत क्षुधा खाक बनी ।",
+      "ऐसे तरुवर की छाया को चाहत देव उदार जी ॥१ ॥"
     ],
     [
-      "कहते साच हैन (टेक)."
+      "एक भवन दो सुरभी देखी इक छोटी इक आली है ।",
+      "छोटी का रड् धवल मनोहर मोटी रंग की काली है ।",
+      "छोटी का हैदूध रसीला पीवत उत्तम मराली है ।",
+      "दूध बड़ी का पीवन वाला श्रमत बारम्बार जी ॥२ ॥"
     ],
     [
-      "दभुत वरिकश नोखा जामेन चहोति मोति शाख घनि.",
-      "मुल गगन है जानकि तहनि िधर ुधर बहु लाख तनि."
+      "पुरुष अरूपी सुन्न से गिरिया नभपुत्री तां झपट लिया ।",
+      "चतुर भांति के वस्तर पहने एक एक ने ताहिं दिया ।",
+      "पीछे बन गये रूप अनेका देख देख खुश होय जिया ।",
+      "ब्रह्म पुत्र वह पुरुष बताकर दिखलाया निज सार जी ॥ ३े ॥"
     ],
     [
-      "तानके मेवे बहुत रसाले खावत कशुधा खाक बनि.",
-      "ैसे तरुवर कि चहाया को चाहत देव ुदार जी || 1 ||"
-    ],
-    [
-      "ेक भवन दो सुरभि देखि िक चहोति िक ालि है.",
-      "चहोति का रद धवल मनोहर मोति रनग कि कालि है."
-    ],
-    [
-      "चहोति का हैदुध रसिला पिवत ुततम मरालि है.",
-      "दुध बरि का पिवन वाला शरमत बारमबार जी || 2 ||"
-    ],
-    [
-      "पुरुश रुपि सुनन से गिरिया नभपुतरि तान झपत लिया.",
-      "चतुर भानति के वसतर पहने ेक ेक ने ताहिन दिया."
-    ],
-    [
-      "पिचहे बन गये रुप नेका देख देख खुश होय जिया.",
-      "बरहम पुतर वह पुरुश बताकर दिखलाया निज सार जी || 3े ||"
-    ],
-    [
-      "ेक महल ति दभुत ुनचा नैन बिना सो दरिशति परे.",
-      "कैसे बनिया किशिन बनाया नत न ावत वेद ररे."
-    ],
-    [
-      "भितर जावे लौत न ावे नागा को परवेश करे.",
-      "कहे तेऊँ सो नागा होवे गुरु कृपा जिहुन धार जी || 4. ||."
-    ],
-    [
-      "तह"
+      "एक महल अति अदभुत ऊँचा नैन बिना सो दृष्टि पड़े ।",
+      "कैसे बनिया किसहिं बनाया अन्त न आवत वेद ररे ।",
+      "भीतर जावे लौट न आवे नागा को प्रवेश करे ।",
+      "कहे टेऊँ सो नागा होवे गुरु कृपा जिहूँ धार जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji,",
-      "Jo Jan Is Kaa Marm Pachhaane Taan Par Main Balihaar Ji,"
-    ],
-    [
-      "Kahte Saach Hain (Tek)."
-    ],
-    [
       "Adbhut Vriksh Anokhaa Jaamen Chhoti Moti Shaakh Ghani.",
-      "Mul Gagan Hai Jaanki Tahni Idhar Udhar Bahu Laakh Tani."
-    ],
-    [
+      "Mul Gagan Hai Jaanki Tahni Idhar Udhar Bahu Laakh Tani.",
       "Taanke Meve Bahut Rasaale Khaavat Kshudhaa Khaak Bani.",
       "Aise Taruvar Ki Chhaayaa Ko Chaahat Dev Udaar Ji || 1 ||"
     ],
     [
       "Ek Bhavan Do Surbhi Dekhi Ik Chhoti Ik Aali Hai.",
-      "Chhoti Kaa Rad Dhaval Manohar Moti Rang Ki Kaali Hai."
-    ],
-    [
+      "Chhoti Kaa Rad Dhaval Manohar Moti Rang Ki Kaali Hai.",
       "Chhoti Kaa Haidudh Rasilaa Pivat Uttam Maraali Hai.",
       "Dudh Bari Kaa Pivan Vaalaa Shramat Baarambaar Ji || 2 ||"
     ],
     [
       "Purush Arupi Sunn Se Giriyaa Nabhputri Taan Jhapat Liyaa.",
-      "Chatur Bhaanti Ke Vastar Pahne Ek Ek Ne Taahin Diyaa."
-    ],
-    [
+      "Chatur Bhaanti Ke Vastar Pahne Ek Ek Ne Taahin Diyaa.",
       "Pichhe Ban Gaye Rup Anekaa Dekh Dekh Khush Hoy Jiyaa.",
       "Brahm Putr Vah Purush Bataakar Dikhlaayaa Nij Saar Ji || 3E ||"
     ],
     [
       "Ek Mahal Ati Adbhut Unchaa Nain Binaa So Drishti Pare.",
-      "Kaise Baniyaa Kishin Banaayaa Ant N Aavat Ved Rare."
-    ],
-    [
-      "Bhitar Jaave Laut N Aave Naagaa Ko Pravesh Kare.",
-      "Kahe Teun So Naagaa Hove Guru Kripaa Jihun Dhaar Ji || 4. ||."
-    ],
-    [
-      "Tah"
+      "Kaise Baniyaa Kishin Banaayaa Ant Na Aavat Ved Rare.",
+      "Bhitar Jaave Laut Na Aave Naagaa Ko Pravesh Kare.",
+      "Kahe Teun So Naagaa Hove Guru Kripaa Jihun Dhaar Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 80 || 142 ||",
-    "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji",
-    "सुनो रे साधो सुनो रे सनतो देखा मैं िसरार जी"
+    "सुनो रे साधो सुनो रे सनतो देखा मैं इसरार जी,",
+    "Suno Re Saadho Suno Re Santo Dekhaa Main Israar Ji,",
+    "राग आसा भजन 80",
+    "Raag Aasaa Bhajan 80"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 142,
+  "displayOrder": 80,
+  "overallOrder": 142,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 99",
+  "updatedAt": "2026-10-26"
 }

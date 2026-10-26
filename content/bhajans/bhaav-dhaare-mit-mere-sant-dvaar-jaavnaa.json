@@ -2,40 +2,98 @@
   "id": "bhajan-0180",
   "slug": "bhaav-dhaare-mit-mere-sant-dvaar-jaavnaa",
   "categoryId": "raag-vihaag",
-  "title": "भाव धारे मित मेरे संत दवार जावना",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "भाव धारे मीत मेरे सन्त द्वार जावना",
   "romanTitle": "Bhaav Dhaare Mit Mere Sant Dvaar Jaavnaa",
   "firstLine": "Bhaav Dhaare Mit Mere Sant Dvaar Jaavnaa (Tek).",
+  "heading": "।। राग विहाग भजन ।। २२ ।। १८०।।",
+  "tek": [
+    "भाव धारे मीत मेरे सन्त द्वार जावना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhaav Dhaare Mit Mere Sant Dvaar Jaavnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सिन्धु सत्संग मार डुबकी, शुक्ति ले सत्‌ शब्द की ।",
+        "अर्थ मोती को निकाले, हार हृदय पावना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sindhu Satsang Maar Dubki, Shukti Le Sat‌ Shabd Ki.",
+        "Arth Moti Ko Nikaale, Haar Hriday Paavnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बाग़॒ सत्संग माहिं तरु सम सन्त सारे हैं फले ।",
+        "प्रेम कर से तां हिलाके, वचन फल ले खावना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baagh Satsang Maahin Taru Sam Sant Saare Hain Phale.",
+        "Prem Kar Se Taan Hilaake, Vachan Phal Le Khaavnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साध संग सुर धाम सम है सन्त सुरवर ताहिं में ।",
+        "ज्ञान अमृत पी उन्हों संग, ब्रह्मा आनन्द रावना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sang Sur Dhaam Sam Hai Sant Survar Taahin Men.",
+        "Gyaan Amrit Pi Unhon Sang, Brahmaa Aanand Raavnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ साध संग का वेद यश नित गावते ।",
+        "जीव को निज ब्रह्म कर हैं, सन्त संग सम बावना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Saadh Sang Kaa Ved Yash Nit Gaavte.",
+        "Jiv Ko Nij Brahm Kar Hain, Sant Sang Sam Baavnaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ह"
+      ],
+      "romanLines": [
+        "Thh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भाव धारे मित मेरे संत दवार जावना (टेक)."
+      "सिन्धु सत्संग मार डुबकी, शुक्ति ले सत्‌ शब्द की ।",
+      "अर्थ मोती को निकाले, हार हृदय पावना ॥१ ॥"
     ],
     [
-      "सिनधु सत्संग मार दुबकि, शुकति ले सत‌ शबद कि.",
-      "रथ मोति को निकाले, हार हरिदय पावना || 1 ||."
+      "बाग़॒ सत्संग माहिं तरु सम सन्त सारे हैं फले ।",
+      "प्रेम कर से तां हिलाके, वचन फल ले खावना ॥२ ॥"
     ],
     [
-      "बाघ सत्संग माहिन तरु सम संत सारे हैन फले.",
-      "प्रेम कर से तान हिलाके, वचन फल ले खावना || 2 ||"
+      "साध संग सुर धाम सम है सन्त सुरवर ताहिं में ।",
+      "ज्ञान अमृत पी उन्हों संग, ब्रह्मा आनन्द रावना ॥३ ॥"
     ],
     [
-      "साध सनग सुर धाम सम है संत सुरवर ताहिन मेन.",
-      "ज्ञान अमृत पि ुनहोन सनग, बरहम आनंद रावना || 3 ||."
+      "कहत टेऊँ साध संग का वेद यश नित गावते ।",
+      "जीव को निज ब्रह्म कर हैं, सन्त संग सम बावना ॥४ ॥"
     ],
     [
-      "कहत तेऊँ साध सनग का वेद यश नित गावते.",
-      "जिव को निज बरहम कर हैन, संत सनग सम बावना || 4 ||."
-    ],
-    [
-      "थह"
+      "ठ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhaav Dhaare Mit Mere Sant Dvaar Jaavnaa (Tek)."
-    ],
-    [
       "Sindhu Satsang Maar Dubki, Shukti Le Sat‌ Shabd Ki.",
-      "Arth Moti Ko Nikaale, Haar Hriday Paavnaa || 1 ||."
+      "Arth Moti Ko Nikaale, Haar Hriday Paavnaa || 1 ||"
     ],
     [
       "Baagh Satsang Maahin Taru Sam Sant Saare Hain Phale.",
@@ -43,29 +101,31 @@
     ],
     [
       "Saadh Sang Sur Dhaam Sam Hai Sant Survar Taahin Men.",
-      "Jnyaan Amrit Pi Unhon Sang, Brahma Aanand Raavnaa || 3 ||."
+      "Gyaan Amrit Pi Unhon Sang, Brahmaa Aanand Raavnaa || 3 ||"
     ],
     [
       "Kahat Teun Saadh Sang Kaa Ved Yash Nit Gaavte.",
-      "Jiv Ko Nij Brahm Kar Hain, Sant Sang Sam Baavnaa || 4 ||."
+      "Jiv Ko Nij Brahm Kar Hain, Sant Sang Sam Baavnaa || 4 ||"
     ],
     [
       "Thh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 22 || 180 ||",
+    "भाव धारे मीत मेरे सन्त द्वार जावना",
     "Bhaav Dhaare Mit Mere Sant Dvaar Jaavnaa",
-    "भाव धारे मित मेरे संत दवार जावना"
+    "राग विहाग भजन 22",
+    "Raag Vihaag Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 180,
+  "displayOrder": 22,
+  "overallOrder": 180,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 119",
+  "updatedAt": "2026-10-26"
 }

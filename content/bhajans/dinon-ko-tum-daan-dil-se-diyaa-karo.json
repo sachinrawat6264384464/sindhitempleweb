@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0758",
+  "id": "bhajan-0756",
   "slug": "dinon-ko-tum-daan-dil-se-diyaa-karo",
   "categoryId": "raag-pilaa",
-  "title": "दिनोन को तुम दान, दिल से दिया करो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "दीनों को तुम दान, दिल से दीया करो । ॥",
   "romanTitle": "Dinon Ko Tum Daan, Dil Se Diyaa Karo",
   "firstLine": "Dinon Ko Tum Daan, Dil Se Diyaa Karo (Tek).",
+  "heading": "।। राग पीला भजन ।। ३६ ।। ७५८।।",
+  "tek": [
+    "दीनों को तुम दान, दिल से दीया करो । ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Dinon Ko Tum Daan, Dil Se Diyaa Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देने से धन बढ़ता जावे, इक देवे सो दश को पावे ।",
+        "निश्चय करके जान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dene Se Dhan Barhtaa Jaave, Ik Deve So Dash Ko Paave.",
+        "Nishchay Karke Jaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दान देन में विलम्ब न कीजे, मन पर कबहूं नाहिं पतीजे ।",
+        "चंचल मन पहिचान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Daan Den Men Vilamb Na Kije, Man Par Kabhun Naahin Patije.",
+        "Chanchal Man Pahichaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दानी कबहूं नरक न जावे, मर कर सीधा स्वर्ग सिधावे ।",
+        "सुर मुनि दे सन्मान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Daani Kabhun Narak Na Jaave, Mar Kar Sidhaa Svarg Sidhaave.",
+        "Sur Muni De Sanmaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर दान सुजाना, मानुष का कर्तव्य दे दाना ।",
+        "ब्रह्मा का वख्यान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Daan Sujaanaa, Maanush Kaa Kartavy De Daanaa.",
+        "Brahmaa Kaa Vakhyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दिनोन को तुम दान, दिल से दिया करो (टेक)."
+      "देने से धन बढ़ता जावे, इक देवे सो दश को पावे ।",
+      "निश्चय करके जान ॥१ ॥"
     ],
     [
-      "देने से धन बरहता जावे, िक देवे सो दश को पावे.",
-      "निशचय करके जान || 1 ||."
+      "दान देन में विलम्ब न कीजे, मन पर कबहूं नाहिं पतीजे ।",
+      "चंचल मन पहिचान ॥२ ॥"
     ],
     [
-      "दान देन मेन विलमब न किजे, मन पर कभुन नाहिन पतिजे.",
-      "चनचल मन पहिचान || 2 ||."
+      "दानी कबहूं नरक न जावे, मर कर सीधा स्वर्ग सिधावे ।",
+      "सुर मुनि दे सन्मान ॥३ ॥"
     ],
     [
-      "दानि कभुन नरक न जावे, मर कर सिधा सवरग सिधावे.",
-      "सुर मुनि दे सनमान ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ कर दान सुजाना, मानुश का करतवय दे दाना.",
-      "बरहम का वखयान || 4 ||."
+      "कहे टेऊँ कर दान सुजाना, मानुष का कर्तव्य दे दाना ।",
+      "ब्रह्मा का वख्यान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dinon Ko Tum Daan, Dil Se Diyaa Karo (Tek)."
-    ],
-    [
       "Dene Se Dhan Barhtaa Jaave, Ik Deve So Dash Ko Paave.",
-      "Nishchay Karke Jaan || 1 ||."
+      "Nishchay Karke Jaan || 1 ||"
     ],
     [
-      "Daan Den Men Vilamb N Kije, Man Par Kabhun Naahin Patije.",
-      "Chanchal Man Pahichaan || 2 ||."
+      "Daan Den Men Vilamb Na Kije, Man Par Kabhun Naahin Patije.",
+      "Chanchal Man Pahichaan || 2 ||"
     ],
     [
-      "Daani Kabhun Narak N Jaave, Mar Kar Sidhaa Svarg Sidhaave.",
-      "Sur Muni De Sanmaan ||.3 ||."
+      "Daani Kabhun Narak Na Jaave, Mar Kar Sidhaa Svarg Sidhaave.",
+      "Sur Muni De Sanmaan || 3 ||"
     ],
     [
       "Kahe Teun Kar Daan Sujaanaa, Maanush Kaa Kartavy De Daanaa.",
-      "Brahma Kaa Vakhyaan || 4 ||."
+      "Brahmaa Kaa Vakhyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 36 || 758 ||",
+    "दीनों को तुम दान, दिल से दीया करो । ॥",
     "Dinon Ko Tum Daan, Dil Se Diyaa Karo",
-    "दिनोन को तुम दान, दिल से दिया करो"
+    "राग पीला भजन 35",
+    "Raag Pilaa Bhajan 35"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 758,
+  "displayOrder": 35,
+  "overallOrder": 756,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 401",
+  "updatedAt": "2026-10-26"
 }

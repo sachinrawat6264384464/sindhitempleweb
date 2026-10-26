@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0918",
+  "id": "bhajan-0916",
   "slug": "aanand-ki-nidhi-hai-tujh-maahin",
   "categoryId": "raag-jog",
-  "title": "आनंद कि निधि है तुझ माहिन",
-  "romanTitle": "Aanand Ki Nidhi Hai Tujh Maahin",
-  "firstLine": "Aanand Ki Nidhi Hai Tujh Maahin, Baahar Sukh Naa Dhundh Ajaanaa (Tek).",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "आनन्द की निधि है तुझ माहिं,",
+  "romanTitle": "Aanand Ki Nidhi Hai Tujh Maahin,",
+  "firstLine": "Aanand Ki Nidhi Hai Tujh Maahin,",
+  "heading": "।। राग जोग भजन ।। ८८ ।। ९१८ ॥।",
+  "tek": [
+    "आनन्द की निधि है तुझ माहिं,",
+    "बाहर सुख ना ढूंढ अजाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aanand Ki Nidhi Hai Tujh Maahin,",
+    "Baahar Sukh Naa Dhundh Ajaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आनन्द घर से तुम आये हो, आनन्द कर सब को भाये हो ।",
+        "जाओगे फिर आनन्द माहिं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aanand Ghar Se Tum Aaye Ho, Aanand Kar Sab Ko Bhaaye Ho.",
+        "Jaaoge Phir Aanand Maahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसे अमृत मीठा सारा, तैसे आनन्द रूप तुम्हारा ।",
+        "रंचक दुख तव परसे नाहिं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaise Amrit Mithaa Saaraa, Taise Aanand Rup Tumhaaraa.",
+        "Ranchak Dukh Tav Parse Naahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आनन्द को तुम चाहत तांते, आनन्द मूर्ति है तुम जांते ।",
+        "योगी ज्ञानी जानत ताहिं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aanand Ko Tum Chaahat Taante, Aanand Murti Hai Tum Jaante.",
+        "Yogi Jnyaani Jaanat Taahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अन्तर्मुख जब हो जाओगे, कहे टेऊँ तब सुख पाओगे ।",
+        "वृूथा जग में भटकत काहिं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Antarmukh Jab Ho Jaaoge, Kahe Teun Tab Sukh Paaoge.",
+        "Vriuthaa Jag Men Bhatkat Kaahin || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "आनंद कि निधि है तुझ माहिन,",
-      "बाहर सुख ना धुनध जाना (टेक)."
+      "आनन्द घर से तुम आये हो, आनन्द कर सब को भाये हो ।",
+      "जाओगे फिर आनन्द माहिं ॥१ ॥"
     ],
     [
-      "आनंद घर से तुम ाये हो, आनंद कर सब को भाये हो.",
-      "जाोगे फिर आनंद माहिन || 1 ||."
+      "जैसे अमृत मीठा सारा, तैसे आनन्द रूप तुम्हारा ।",
+      "रंचक दुख तव परसे नाहिं ॥२ ॥"
     ],
     [
-      "जैसे अमृत मिथा सारा, तैसे आनंद रुप तुमहारा.",
-      "रनचक दुःख तव परसे नाहिन || 2 ||"
+      "आनन्द को तुम चाहत तांते, आनन्द मूर्ति है तुम जांते ।",
+      "योगी ज्ञानी जानत ताहिं ॥३ ॥"
     ],
     [
-      "आनंद को तुम चाहत तानते, आनंद मुरति है तुम जानते.",
-      "योगि जनयानि जानत ताहिन || 3 ||."
-    ],
-    [
-      "नतरमुख जब हो जाोगे, कहे तेऊँ तब सुख पाोगे.",
-      "वरिुथा जग मेन भतकत काहिन || 4 ||"
+      "अन्तर्मुख जब हो जाओगे, कहे टेऊँ तब सुख पाओगे ।",
+      "वृूथा जग में भटकत काहिं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aanand Ki Nidhi Hai Tujh Maahin,",
-      "Baahar Sukh Naa Dhundh Ajaanaa (Tek)."
-    ],
-    [
       "Aanand Ghar Se Tum Aaye Ho, Aanand Kar Sab Ko Bhaaye Ho.",
-      "Jaaoge Phir Aanand Maahin || 1 ||."
+      "Jaaoge Phir Aanand Maahin || 1 ||"
     ],
     [
       "Jaise Amrit Mithaa Saaraa, Taise Aanand Rup Tumhaaraa.",
@@ -42,7 +91,7 @@
     ],
     [
       "Aanand Ko Tum Chaahat Taante, Aanand Murti Hai Tum Jaante.",
-      "Yogi Jnyaani Jaanat Taahin || 3 ||."
+      "Yogi Jnyaani Jaanat Taahin || 3 ||"
     ],
     [
       "Antarmukh Jab Ho Jaaoge, Kahe Teun Tab Sukh Paaoge.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 88 || 918 ||.",
-    "Aanand Ki Nidhi Hai Tujh Maahin",
-    "आनंद कि निधि है तुझ माहिन"
+    "आनन्द की निधि है तुझ माहिं,",
+    "Aanand Ki Nidhi Hai Tujh Maahin,",
+    "राग जोग भजन 88",
+    "Raag Jog Bhajan 88"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 918,
+  "displayOrder": 88,
+  "overallOrder": 916,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 482",
+  "updatedAt": "2026-10-26"
 }

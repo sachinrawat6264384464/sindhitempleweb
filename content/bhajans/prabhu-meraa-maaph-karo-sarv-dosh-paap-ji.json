@@ -2,67 +2,117 @@
   "id": "bhajan-0004",
   "slug": "prabhu-meraa-maaph-karo-sarv-dosh-paap-ji",
   "categoryId": "raag-bhairav",
-  "title": "प्रभु मेरा माफ करो सर्व दोश पाप जी",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "प्रभू मेरा माफ करो सर्व दोष पाप जी",
   "romanTitle": "Prabhu Meraa Maaph Karo Sarv Dosh Paap Ji",
-  "firstLine": "Prabhu Meraa Maaph Karo Sarv Dosh Paap Ji. Dayaa Sindhu Dukh Haro Sun Mere Virlaap Ji (Tek).",
+  "firstLine": "Prabhu Meraa Maaph Karo Sarv Dosh Paap Ji.",
+  "heading": "।। राग भैरव भजन ।। ४ ॥।",
+  "tek": [
+    "प्रभू मेरा माफ करो सर्व दोष पाप जी ।",
+    "दया सिन्धु दूख हरो सुन मेरे विरलाप जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Meraa Maaph Karo Sarv Dosh Paap Ji.",
+    "Dayaa Sindhu Dukh Haro Sun Mere Virlaap Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पुण्य गनिका कौन किया, ताहिं निज धाम दिया ।",
+        "गौतम नारि तार लई हरे ताहिं शाप जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Puny Ganikaa Kaun Kiyaa, Taahin Nij Dhaam Diyaa.",
+        "Gautam Naari Taar Lai Hare Taahin Shaap Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धने सधने विपत्ति हरी, जगत में तुम विजय करी ।",
+        "विप्र सुधामे का सर्व काटिया सन्ताप जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dhane Sadhne Vipatti Hari, Jagat Men Tum Vijay Kari.",
+        "Vipr Sudhaame Kaa Sarv Kaatiyaa Santaap Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वाल्मीक श्वपच चोर, कियो सकल ऋषिनि मोर ।",
+        "अजामेल मुक्ति कीया सुनके ताहिं जाप जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vaalmik Shvapach Chor, Kiyo Sakal Rishini Mor.",
+        "Ajaamel Mukti Kiyaa Sunke Taahin Jaap Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मेरी बेर, कैसे तुम करी देर ।",
+        "अब तो मुझ दरस देहि पार करो आप जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Meri Ber, Kaise Tum Kari Der.",
+        "Ab To Mujh Daras Dehi Paar Karo Aap Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु मेरा माफ करो सर्व दोश पाप जी.",
-      "दया सिनधु दुःख हरो सुन मेरे विरलाप जी (टेक)."
+      "पुण्य गनिका कौन किया, ताहिं निज धाम दिया ।",
+      "गौतम नारि तार लई हरे ताहिं शाप जी ॥१ ॥"
     ],
     [
-      "पुनय गनिका कौन किया, ताहिन निज धाम दिया.",
-      "गौतम नारि तार लै हरे ताहिन शाप जी.$ ||"
+      "धने सधने विपत्ति हरी, जगत में तुम विजय करी ।",
+      "विप्र सुधामे का सर्व काटिया सन्ताप जी ॥२ ॥"
     ],
     [
-      "धने सधने विपतति हरि, जगत मेन तुम विजय करि.",
-      "विपर सुधामे का सर्व कातिया सनताप जी ||.2. ||."
+      "वाल्मीक श्वपच चोर, कियो सकल ऋषिनि मोर ।",
+      "अजामेल मुक्ति कीया सुनके ताहिं जाप जी ॥३ ॥"
     ],
     [
-      "वालमिक शवपच चोर, कियो सकल रिशिनि मोर.",
-      "जामेल मुक्ति किया सुनके ताहिन जाप जी || 3 ||."
-    ],
-    [
-      "कहे तेऊँ मेरि बेर, कैसे तुम करि देर.",
-      "ब तो मुझ दरस देही पार करो ाप जी ||.4 ||."
+      "कहे टेऊँ मेरी बेर, कैसे तुम करी देर ।",
+      "अब तो मुझ दरस देहि पार करो आप जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Meraa Maaph Karo Sarv Dosh Paap Ji.",
-      "Dayaa Sindhu Dukh Haro Sun Mere Virlaap Ji (Tek)."
-    ],
-    [
       "Puny Ganikaa Kaun Kiyaa, Taahin Nij Dhaam Diyaa.",
-      "Gautam Naari Taar Lai Hare Taahin Shaap Ji.$ ||"
+      "Gautam Naari Taar Lai Hare Taahin Shaap Ji || 1 ||"
     ],
     [
       "Dhane Sadhne Vipatti Hari, Jagat Men Tum Vijay Kari.",
-      "Vipr Sudhaame Kaa Sarv Kaatiyaa Santaap Ji ||.2. ||."
+      "Vipr Sudhaame Kaa Sarv Kaatiyaa Santaap Ji || 2 ||"
     ],
     [
       "Vaalmik Shvapach Chor, Kiyo Sakal Rishini Mor.",
-      "Ajaamel Mukti Kiyaa Sunke Taahin Jaap Ji || 3 ||."
+      "Ajaamel Mukti Kiyaa Sunke Taahin Jaap Ji || 3 ||"
     ],
     [
       "Kahe Teun Meri Ber, Kaise Tum Kari Der.",
-      "Ab To Mujh Daras Dehi Paar Karo Aap Ji ||.4 ||."
+      "Ab To Mujh Daras Dehi Paar Karo Aap Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairav Bhajan || 4 ||.",
+    "प्रभू मेरा माफ करो सर्व दोष पाप जी",
     "Prabhu Meraa Maaph Karo Sarv Dosh Paap Ji",
-    "प्रभु मेरा माफ करो सर्व दोश पाप जी"
+    "राग भैरव भजन 4",
+    "Raag Bhairav Bhajan 4"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 4,
+  "overallOrder": 4,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 27",
+  "updatedAt": "2026-10-26"
 }

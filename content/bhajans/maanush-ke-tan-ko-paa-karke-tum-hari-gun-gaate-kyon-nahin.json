@@ -2,38 +2,85 @@
   "id": "bhajan-0081",
   "slug": "maanush-ke-tan-ko-paa-karke-tum-hari-gun-gaate-kyon-nahin",
   "categoryId": "raag-aasaa",
-  "title": "मानुश के तन को पा करके, तुम हरि गुन गाते कयोन नहिन",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मानुष के तन को पा करके, तुम हरि गुण गाते क्यों नहीं",
   "romanTitle": "Maanush Ke Tan Ko Paa Karke, Tum Hari Gun Gaate Kyon Nahin",
-  "firstLine": "Maanush Ke Tan Ko Paa Karke, Tum Hari Gun Gaate Kyon Nahin. Santon Ke Sang Men Jaa Karke,Tan Saphal Banaate Kyon Nahin (Tek).",
+  "firstLine": "Maanush Ke Tan Ko Paa Karke, Tum Hari Gun Gaate Kyon Nahin.",
+  "heading": "।॥। राग आसा भजन ।। १९ ।। ८१।।",
+  "tek": [
+    "मानुष के तन को पा करके, तुम हरि गुण गाते क्यों नहीं ।",
+    "सन्तों के संग में जा करके ,तन सफल बनाते क्यों नहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Ke Tan Ko Paa Karke, Tum Hari Gun Gaate Kyon Nahin.",
+    "Santon Ke Sang Men Jaa Karke,Tan Saphal Banaate Kyon Nahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह हीरा अमोलक नर तन है, क्यों कौड़ी बदले गंवाते हो ।",
+        "विषयों से हटा करके मन को ,हरि भजन में लाते क्यों नहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Hiraa Amolak Nar Tan Hai, Kyon Kauri Badle Ganvaate Ho.",
+        "Vishyon Se Hataa Karke Man Ko,Hari Bhajan Men Laate Kyon Nahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पापों में पड़ करके तुमने, कितने ही कष्ट उठाये हैं ।",
+        "अब शान्ती सुख के पाने हित, शुभ कर्म कमाते क्यों नहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paapon Men Par Karke Tumne, Kitne Hi Kasht Uthaaye Hain.",
+        "Ab Shaanti Sukh Ke Paane Hit, Shubh Karm Kamaate Kyon Nahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नित पेट कुटुम्ब के पालन हित, क्यों स्वास अमोल लुटाते हो ।",
+        "कह टेऊँ आक के फल छोड़े, तुम आम को खाते क्यों नहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nit Pet Kutumb Ke Paalan Hit, Kyon Svaas Amol Lutaate Ho.",
+        "Kah Teun Aak Ke Phal Chhore, Tum Aam Ko Khaate Kyon Nahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ग्द"
+      ],
+      "romanLines": [
+        "Gd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश के तन को पा करके, तुम हरि गुन गाते कयोन नहिन.",
-      "सनतोन के सनग मेन जा करकेतन सफल बनाते कयोन नहिन (टेक)."
+      "यह हीरा अमोलक नर तन है, क्यों कौड़ी बदले गंवाते हो ।",
+      "विषयों से हटा करके मन को ,हरि भजन में लाते क्यों नहीं ॥१ ॥"
     ],
     [
-      "यह हिरा मोलक नर तन है, कयोन कौरि बदले गनवाते हो.",
-      "विशयोन से हता करके मन कोहरि भजन मेन लाते कयोन नहिन || 1 ||."
+      "पापों में पड़ करके तुमने, कितने ही कष्ट उठाये हैं ।",
+      "अब शान्ती सुख के पाने हित, शुभ कर्म कमाते क्यों नहीं ॥२ ॥"
     ],
     [
-      "पापोन मेन पर करके तुमने, कितने हि कशत ुथाये हैन.",
-      "ब शांति सुख के पाने हित, शुभ करम कमाते कयोन नहिन || 2 ||"
+      "नित पेट कुटुम्ब के पालन हित, क्यों स्वास अमोल लुटाते हो ।",
+      "कह टेऊँ आक के फल छोड़े, तुम आम को खाते क्यों नहीं ॥३ ॥"
     ],
     [
-      "नित पेत कुतुमब के पालन हित, कयोन सवास मोल लुताते हो.",
-      "कह तेऊँ ाक के फल चहोरे, तुम ाम को खाते कयोन नहिन || 3 ||"
-    ],
-    [
-      "गद"
+      "ग्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Maanush Ke Tan Ko Paa Karke, Tum Hari Gun Gaate Kyon Nahin.",
-      "Santon Ke Sang Men Jaa Karke,Tan Saphal Banaate Kyon Nahin (Tek)."
-    ],
-    [
       "Yah Hiraa Amolak Nar Tan Hai, Kyon Kauri Badle Ganvaate Ho.",
-      "Vishyon Se Hataa Karke Man Ko,Hari Bhajan Men Laate Kyon Nahin || 1 ||."
+      "Vishyon Se Hataa Karke Man Ko,Hari Bhajan Men Laate Kyon Nahin || 1 ||"
     ],
     [
       "Paapon Men Par Karke Tumne, Kitne Hi Kasht Uthaaye Hain.",
@@ -48,18 +95,20 @@
     ]
   ],
   "alternateSpellings": [
-    ". ||. Raag Aasaa Bhajan || 19 || 81 ||",
+    "मानुष के तन को पा करके, तुम हरि गुण गाते क्यों नहीं",
     "Maanush Ke Tan Ko Paa Karke, Tum Hari Gun Gaate Kyon Nahin",
-    "मानुश के तन को पा करके, तुम हरि गुन गाते कयोन नहिन"
+    "राग आसा भजन 19",
+    "Raag Aasaa Bhajan 19"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 81,
+  "displayOrder": 19,
+  "overallOrder": 81,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 66",
+  "updatedAt": "2026-10-26"
 }

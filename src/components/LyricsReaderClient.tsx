@@ -55,17 +55,23 @@ export default function LyricsReaderClient({
     let text = `${bhajan.title}\n(${bhajan.romanTitle})\nCategory: ${category.name} (${category.romanName})\n\n`;
 
     if (activeScript === "hindi" || activeScript === "dual") {
-      text += "--- DEVANAGARI LYRICS ---\n\n";
+      text += "--- देवनागरी लिरिक्स (DEVANAGARI) ---\n\n";
+      if (bhajan.tek && bhajan.tek.length > 0) {
+        text += "[टेक (Tek)]\n" + bhajan.tek.join("\n") + "\n\n";
+      }
       bhajan.lyrics.forEach((stanza, sIdx) => {
-        text += `[Stanza ${sIdx + 1}]\n`;
+        text += `[पद ${sIdx + 1}]\n`;
         text += stanza.join("\n") + "\n\n";
       });
     }
 
     if (activeScript === "roman" || activeScript === "dual") {
       text += "--- ROMAN TRANSLITERATION ---\n\n";
+      if (bhajan.romanTek && bhajan.romanTek.length > 0) {
+        text += "[Tek (Refrain)]\n" + bhajan.romanTek.join("\n") + "\n\n";
+      }
       bhajan.romanLyrics.forEach((stanza, sIdx) => {
-        text += `[Stanza ${sIdx + 1}]\n`;
+        text += `[Verse ${sIdx + 1}]\n`;
         text += stanza.join("\n") + "\n\n";
       });
     }
@@ -342,10 +348,26 @@ export default function LyricsReaderClient({
               <h2 className="text-xs font-sans font-bold uppercase tracking-wider text-amber-800 pb-2 border-b border-amber-200/70">
                 देवनागरी लिरिक्स (Devanagari)
               </h2>
+              {/* Separate Tek Block */}
+              {bhajan.tek && bhajan.tek.length > 0 && (
+                <div className="bhajan-stanza p-4 rounded-2xl bg-amber-50/80 border border-amber-200/90 shadow-2xs">
+                  <div className="text-xs font-sans font-semibold mb-2">
+                    <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-md bg-amber-200 text-amber-950 font-bold text-[11px] uppercase tracking-wider">
+                      टेक (Tek)
+                    </span>
+                  </div>
+                  {bhajan.tek.map((line, lIdx) => (
+                    <p key={lIdx} className={`bhajan-line text-amber-950 font-semibold ${fontSizeClasses}`}>
+                      {line}
+                    </p>
+                  ))}
+                </div>
+              )}
+              {/* Numbered Verses */}
               {bhajan.lyrics.map((stanza, sIdx) => (
-                <div key={sIdx} className="bhajan-stanza">
-                  <div className="text-xs font-sans font-medium text-stone-400 mb-2">
-                    पद {sIdx + 1}
+                <div key={sIdx} className="bhajan-stanza p-4 rounded-2xl bg-stone-50/50 border border-stone-100">
+                  <div className="text-xs font-sans font-medium mb-2">
+                    <span className="text-amber-800 font-semibold">पद {sIdx + 1}</span>
                   </div>
                   {stanza.map((line, lIdx) => (
                     <p key={lIdx} className={`bhajan-line text-stone-900 ${fontSizeClasses}`}>
@@ -361,10 +383,26 @@ export default function LyricsReaderClient({
               <h2 className="text-xs font-sans font-bold uppercase tracking-wider text-amber-800 pb-2 border-b border-amber-200/70">
                 Roman Transliteration
               </h2>
+              {/* Separate Roman Tek Block */}
+              {bhajan.romanTek && bhajan.romanTek.length > 0 && (
+                <div className="bhajan-stanza p-4 rounded-2xl bg-amber-50/80 border border-amber-200/90 shadow-2xs">
+                  <div className="text-xs font-sans font-semibold mb-2">
+                    <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-md bg-amber-200 text-amber-950 font-bold text-[11px] uppercase tracking-wider">
+                      Tek (Refrain)
+                    </span>
+                  </div>
+                  {bhajan.romanTek.map((line, lIdx) => (
+                    <p key={lIdx} className={`bhajan-line text-amber-950 font-semibold ${fontSizeClasses}`}>
+                      {line}
+                    </p>
+                  ))}
+                </div>
+              )}
+              {/* Numbered Roman Verses */}
               {bhajan.romanLyrics.map((stanza, sIdx) => (
-                <div key={sIdx} className="bhajan-stanza">
-                  <div className="text-xs font-sans font-medium text-stone-400 mb-2">
-                    Stanza {sIdx + 1}
+                <div key={sIdx} className="bhajan-stanza p-4 rounded-2xl bg-stone-50/50 border border-stone-100">
+                  <div className="text-xs font-sans font-medium mb-2">
+                    <span className="text-amber-800 font-semibold">Verse {sIdx + 1}</span>
                   </div>
                   {stanza.map((line, lIdx) => (
                     <p key={lIdx} className={`bhajan-line text-stone-800 ${fontSizeClasses}`}>
@@ -378,10 +416,26 @@ export default function LyricsReaderClient({
         ) : activeScript === "hindi" ? (
           /* Single Hindi View */
           <div className="font-serif max-w-2xl mx-auto space-y-8 text-center sm:text-left" lang="hi">
+            {/* Separate Tek Block */}
+            {bhajan.tek && bhajan.tek.length > 0 && (
+              <div className="bhajan-stanza p-6 rounded-2xl border bg-amber-50/80 border-amber-200/90 shadow-2xs">
+                <div className="text-xs font-sans font-semibold mb-3 uppercase tracking-wider">
+                  <span className="inline-flex items-center gap-1 px-3 py-1 rounded-md bg-amber-200 text-amber-950 font-bold text-xs">
+                    टेक (Tek)
+                  </span>
+                </div>
+                {bhajan.tek.map((line, lIdx) => (
+                  <p key={lIdx} className={`bhajan-line text-amber-950 font-semibold ${fontSizeClasses}`}>
+                    {line}
+                  </p>
+                ))}
+              </div>
+            )}
+            {/* Numbered Verses */}
             {bhajan.lyrics.map((stanza, sIdx) => (
-              <div key={sIdx} className="bhajan-stanza bg-stone-50/50 p-6 rounded-2xl border border-stone-100">
-                <div className="text-xs font-sans font-semibold text-amber-800 mb-3 uppercase tracking-wider">
-                  पद {sIdx + 1}
+              <div key={sIdx} className="bhajan-stanza p-6 rounded-2xl border bg-stone-50/50 border-stone-100">
+                <div className="text-xs font-sans font-semibold mb-3 uppercase tracking-wider">
+                  <span className="text-amber-800">पद {sIdx + 1}</span>
                 </div>
                 {stanza.map((line, lIdx) => (
                   <p key={lIdx} className={`bhajan-line text-stone-900 ${fontSizeClasses}`}>
@@ -394,10 +448,26 @@ export default function LyricsReaderClient({
         ) : (
           /* Single Roman View */
           <div className="font-serif max-w-2xl mx-auto space-y-8 text-center sm:text-left" lang="en-IN">
+            {/* Separate Roman Tek Block */}
+            {bhajan.romanTek && bhajan.romanTek.length > 0 && (
+              <div className="bhajan-stanza p-6 rounded-2xl border bg-amber-50/80 border-amber-200/90 shadow-2xs">
+                <div className="text-xs font-sans font-semibold mb-3 uppercase tracking-wider">
+                  <span className="inline-flex items-center gap-1 px-3 py-1 rounded-md bg-amber-200 text-amber-950 font-bold text-xs">
+                    Tek (Refrain)
+                  </span>
+                </div>
+                {bhajan.romanTek.map((line, lIdx) => (
+                  <p key={lIdx} className={`bhajan-line text-amber-950 font-semibold ${fontSizeClasses}`}>
+                    {line}
+                  </p>
+                ))}
+              </div>
+            )}
+            {/* Numbered Roman Verses */}
             {bhajan.romanLyrics.map((stanza, sIdx) => (
-              <div key={sIdx} className="bhajan-stanza bg-stone-50/50 p-6 rounded-2xl border border-stone-100">
-                <div className="text-xs font-sans font-semibold text-amber-800 mb-3 uppercase tracking-wider">
-                  Stanza {sIdx + 1}
+              <div key={sIdx} className="bhajan-stanza p-6 rounded-2xl border bg-stone-50/50 border-stone-100">
+                <div className="text-xs font-sans font-semibold mb-3 uppercase tracking-wider">
+                  <span className="text-amber-800">Verse {sIdx + 1}</span>
                 </div>
                 {stanza.map((line, lIdx) => (
                   <p key={lIdx} className={`bhajan-line text-stone-800 ${fontSizeClasses}`}>

@@ -2,47 +2,96 @@
   "id": "bhajan-0127",
   "slug": "man-jog-jog-jog-karo",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "मन जोग जोग जोग करो",
   "romanTitle": "Man Jog Jog Jog Karo",
-  "firstLine": "Man Jog Jog Jog Karo. Paakhatrahm Parmeshvar Se Tum, Shighr Apnaa Jog Karo (Tek).",
+  "firstLine": "Man Jog Jog Jog Karo.",
+  "heading": "।। राग आसा भजन ।। ६५ ।। १२७।।",
+  "tek": [
+    "मन जोग जोग जोग करो ।",
+    "पाखत्रह्म परमेश्वर से तुम, शीघ्र अपना जोग करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Jog Jog Jog Karo.",
+    "Paakhatrahm Parmeshvar Se Tum, Shighr Apnaa Jog Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जोग जगत के जान असारा, मोह फास में डालन हारा ।",
+        "देंगे तुमको दूख अपारा, तांसे वेग वियोग करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jog Jagat Ke Jaan Asaaraa, Moh Phaas Men Daalan Haaraa.",
+        "Denge Tumko Dukh Apaaraa, Taanse Veg Viyog Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु मूरत में निरति मिलाये, सार शब्द में श्रुति समाये ।",
+        "आतम ज्ञान में विरति लगाये, अन्त:करण अरोग करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Murat Men Nirti Milaaye, Saar Shabd Men Shruti Samaaye.",
+        "Aatam Gyaan Men Virti Lagaaye, Antahkaran Arog Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मोह ममत का तागा तोड़े, चित्त वृत्ती को हरि से जोड़े ।",
+        "दुष्टजनों की संगति छोड़े, सन्तों से संयोग करो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Moh Mamat Kaa Taagaa Tore, Chitt Vritti Ko Hari Se Jore.",
+        "Dushtajnon Ki Sangti Chhore, Santon Se Sanyog Karo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पाख्रह्म है कारण तेरो, उलट आप में तांको हेरो ।",
+        "कहे टेऊँ कर निज घर डेरो, ब्रह्मानन्द का भोग करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paakhrahm Hai Kaaran Tero, Ulat Aap Men Taanko Hero.",
+        "Kahe Teun Kar Nij Ghar Dero, Brahmaanand Kaa Bhog Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन जोग जोग जोग करो.",
-      "पाखतरहम परमेशवर से तुम, शिघर पना जोग करो (टेक)."
+      "जोग जगत के जान असारा, मोह फास में डालन हारा ।",
+      "देंगे तुमको दूख अपारा, तांसे वेग वियोग करो ॥१ ॥"
     ],
     [
-      "जोग जगत के जान सारा, मोह फास मेन दालन हारा.",
-      "देनगे तुमको दुःख पारा, तानसे वेग वियोग करो ||.1. ||."
+      "गुरु मूरत में निरति मिलाये, सार शब्द में श्रुति समाये ।",
+      "आतम ज्ञान में विरति लगाये, अन्त:करण अरोग करो ॥२ ॥"
     ],
     [
-      "गुरु मुरत मेन निरति मिलाये, सार शबद मेन शरुति समाये.",
-      "ातम ज्ञान मेन विरति लगाये, नतकरन रोग करो || 2 ||"
+      "मोह ममत का तागा तोड़े, चित्त वृत्ती को हरि से जोड़े ।",
+      "दुष्टजनों की संगति छोड़े, सन्तों से संयोग करो ॥३ ॥"
     ],
     [
-      "मोह ममत का तागा तोरे, चितत वरितति को हरि से जोरे.",
-      "दुशतजनोन कि सनगति चहोरे, सनतोन से सनयोग करो ||.3 ||."
-    ],
-    [
-      "पाखरहम है कारन तेरो, ुलत ाप मेन तानको हेरो.",
-      "कहे तेऊँ कर निज घर देरो, बरहमाननद का भोग करो || 4 ||"
+      "पाख्रह्म है कारण तेरो, उलट आप में तांको हेरो ।",
+      "कहे टेऊँ कर निज घर डेरो, ब्रह्मानन्द का भोग करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Jog Jog Jog Karo.",
-      "Paakhatrahm Parmeshvar Se Tum, Shighr Apnaa Jog Karo (Tek)."
-    ],
-    [
       "Jog Jagat Ke Jaan Asaaraa, Moh Phaas Men Daalan Haaraa.",
-      "Denge Tumko Dukh Apaaraa, Taanse Veg Viyog Karo ||.1. ||."
+      "Denge Tumko Dukh Apaaraa, Taanse Veg Viyog Karo || 1 ||"
     ],
     [
       "Guru Murat Men Nirti Milaaye, Saar Shabd Men Shruti Samaaye.",
-      "Aatam Jnyaan Men Virti Lagaaye, Ant:Karan Arog Karo || 2 ||"
+      "Aatam Gyaan Men Virti Lagaaye, Antahkaran Arog Karo || 2 ||"
     ],
     [
       "Moh Mamat Kaa Taagaa Tore, Chitt Vritti Ko Hari Se Jore.",
-      "Dushtajnon Ki Sangti Chhore, Santon Se Sanyog Karo ||.3 ||."
+      "Dushtajnon Ki Sangti Chhore, Santon Se Sanyog Karo || 3 ||"
     ],
     [
       "Paakhrahm Hai Kaaran Tero, Ulat Aap Men Taanko Hero.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 65 || 127 ||",
+    "मन जोग जोग जोग करो",
     "Man Jog Jog Jog Karo",
-    "मन जोग जोग जोग करो"
+    "राग आसा भजन 65",
+    "Raag Aasaa Bhajan 65"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 127,
+  "displayOrder": 65,
+  "overallOrder": 127,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 90",
+  "updatedAt": "2026-10-26"
 }

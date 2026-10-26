@@ -1,75 +1,115 @@
 {
   "id": "bhajan-0239",
   "slug": "dhaaro-man-murat-krishn-kaale-ki",
-  "categoryId": "raag-bhairav",
-  "title": "धारो मन मुरत करिशन काले कि",
-  "romanTitle": "Dhaaro Man Murat Krishn Kaale Ki",
-  "firstLine": "Dhaaro Man Murat Krishn Kaale Ki, Govardhandhaari Murli Vaale Ki (Tek).",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "धारो मन मूरत कृष्ण काले की,",
+  "romanTitle": "Dhaaro Man Murat Krishn Kaale Ki,",
+  "firstLine": "Dhaaro Man Murat Krishn Kaale Ki,",
+  "heading": "।। राग भैरवी भजन ।। २४ ।। २३९॥।",
+  "tek": [
+    "धारो मन मूरत कृष्ण काले की,",
+    "गोवर्धनधारी मुरली वाले की ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dhaaro Man Murat Krishn Kaale Ki,",
+    "Govardhandhaari Murli Vaale Ki (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जांके कुण्डलों की छबि भारी, मोर मुकुट की झलक न्यारी ।",
+        "उर माल बैजन्ती धारी, मोहनी मूरत लागे प्यारी ।",
+        "जगत उजियाले की ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaanke Kundalon Ki Chhabi Bhaari, Mor Mukut Ki Jhalak Nyaari.",
+        "Ur Maal Baijanti Dhaari, Mohni Murat Laage Pyaari.",
+        "Jagat Ujiyaale Ki || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जांके नूपर छम छम बाजे, देख रूप चन्द्रमा लाजे ।",
+        "मुरली की सुन आवाजे, तज काम गोपियां भाजे ।",
+        "ब्रज रखवाले की ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaanke Nupar Chham Chham Baaje, Dekh Rup Chandramaa Laaje.",
+        "Murli Ki Sun Aavaaje, Taj Kaam Gopiyaan Bhaaje.",
+        "Braj Rakhvaale Ki || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्धि",
+        "कटि काछनी सुन्दर सोहे, पीताम्बर मन को मोहे ।",
+        "यह ध्यान पाप सब खोये, कहे टेऊँ मैल को धोये ।",
+        "नाथ नन्दलाले की ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ddhi",
+        "Kati Kaachhni Sundar Sohe, Pitaambar Man Ko Mohe.",
+        "Yah Dhyaan Paap Sab Khoye, Kahe Teun Mail Ko Dhoye.",
+        "Naath Nandalaale Ki || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धारो मन मुरत करिशन काले कि,",
-      "गोवरधनधारि मुरलि वाले कि (टेक)."
+      "जांके कुण्डलों की छबि भारी, मोर मुकुट की झलक न्यारी ।",
+      "उर माल बैजन्ती धारी, मोहनी मूरत लागे प्यारी ।",
+      "जगत उजियाले की ॥१ ॥"
     ],
     [
-      "जानके कुनदलोन कि चहबि भारि, मोर मुकुत कि झलक नयारि.",
-      "ुर माल बैजनति धारि, मोहनि मुरत लागे पयारि."
+      "जांके नूपर छम छम बाजे, देख रूप चन्द्रमा लाजे ।",
+      "मुरली की सुन आवाजे, तज काम गोपियां भाजे ।",
+      "ब्रज रखवाले की ॥२ ॥"
     ],
     [
-      "जगत ुजियाले कि ||.1 ||.",
-      "जानके नुपर चहम चहम बाजे, देख रुप चनदरमा लाजे."
-    ],
-    [
-      "मुरलि कि सुन ावाजे, तज काम गोपियान भाजे.",
-      "बरज रखवाले कि ||.2 ||."
-    ],
-    [
-      "दधि",
-      "कति काचहनि सुनदर सोहे, पितामबर मन को मोहे."
-    ],
-    [
-      "यह ध्यान पाप सब खोये, कहे तेऊँ मैल को धोये.",
-      "नाथ ननदलाले कि ||.3 ||"
+      "द्धि",
+      "कटि काछनी सुन्दर सोहे, पीताम्बर मन को मोहे ।",
+      "यह ध्यान पाप सब खोये, कहे टेऊँ मैल को धोये ।",
+      "नाथ नन्दलाले की ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dhaaro Man Murat Krishn Kaale Ki,",
-      "Govardhandhaari Murli Vaale Ki (Tek)."
-    ],
-    [
       "Jaanke Kundalon Ki Chhabi Bhaari, Mor Mukut Ki Jhalak Nyaari.",
-      "Ur Maal Baijanti Dhaari, Mohni Murat Laage Pyaari."
+      "Ur Maal Baijanti Dhaari, Mohni Murat Laage Pyaari.",
+      "Jagat Ujiyaale Ki || 1 ||"
     ],
     [
-      "Jagat Ujiyaale Ki ||.1 ||.",
-      "Jaanke Nupar Chham Chham Baaje, Dekh Rup Chandramaa Laaje."
-    ],
-    [
+      "Jaanke Nupar Chham Chham Baaje, Dekh Rup Chandramaa Laaje.",
       "Murli Ki Sun Aavaaje, Taj Kaam Gopiyaan Bhaaje.",
-      "Braj Rakhvaale Ki ||.2 ||."
+      "Braj Rakhvaale Ki || 2 ||"
     ],
     [
       "Ddhi",
-      "Kati Kaachhni Sundar Sohe, Pitaambar Man Ko Mohe."
-    ],
-    [
+      "Kati Kaachhni Sundar Sohe, Pitaambar Man Ko Mohe.",
       "Yah Dhyaan Paap Sab Khoye, Kahe Teun Mail Ko Dhoye.",
-      "Naath Nandalaale Ki ||.3 ||"
+      "Naath Nandalaale Ki || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 24 || 239 ||.",
-    "Dhaaro Man Murat Krishn Kaale Ki",
-    "धारो मन मुरत करिशन काले कि"
+    "धारो मन मूरत कृष्ण काले की,",
+    "Dhaaro Man Murat Krishn Kaale Ki,",
+    "राग भैरवी भजन 24",
+    "Raag Bhairvi Bhajan 24"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 239,
+  "displayOrder": 24,
+  "overallOrder": 239,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 148",
+  "updatedAt": "2026-10-26"
 }

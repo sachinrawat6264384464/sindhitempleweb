@@ -2,62 +2,114 @@
   "id": "bhajan-0430",
   "slug": "hari-ne-harijan-murat-dhaari-harijan-hari-samaanaa-hai",
   "categoryId": "raag-tilang",
-  "title": "हरि ने हरिजन मुरत धारि, हरिजन हरि समाना है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "हरि ने हरिजन मूरत धारी, हरिजन हरी समाना है",
   "romanTitle": "Hari Ne Harijan Murat Dhaari, Harijan Hari Samaanaa Hai",
   "firstLine": "Hari Ne Harijan Murat Dhaari, Harijan Hari Samaanaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६७ ।। ४३१।।",
+  "tek": [
+    "हरि ने हरिजन मूरत धारी, हरिजन हरी समाना है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Ne Harijan Murat Dhaari, Harijan Hari Samaanaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हर्ष शोक हरिजन नहिं करते, होते मान अमाना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Harsh Shok Harijan Nahin Karte, Hote Maan Amaanaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शत्रु मित्र को सम कर जाने, नहिं अपना बेग़ाना है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shatru Mitr Ko Sam Kar Jaane, Nahin Apnaa Beghaanaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कंचन माटी भेद न जांको, ऊँच नीच इक जाना है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kanchan Maati Bhed Na Jaanko, Unch Nich Ik Jaanaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सुख दुख माहिं रहे इक जैसा, जांको लाभ न हाना है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sukh Dukh Maahin Rahe Ik Jaisaa, Jaanko Laabh Na Haanaa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ ये चिन्ह जिसी में, प्रत्यक्ष वह भगवाना है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ye Chinh Jisi Men, Pratyaksh Vah Bhagvaanaa Hai || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि ने हरिजन मुरत धारि, हरिजन हरि समाना है (टेक)."
+      "हर्ष शोक हरिजन नहिं करते, होते मान अमाना है ॥१ ॥"
     ],
     [
-      "हरश शोक हरिजन नहिन करते, होते मान माना है || 1 ||"
+      "शत्रु मित्र को सम कर जाने, नहिं अपना बेग़ाना है ॥२ ॥"
     ],
     [
-      "शतरु मितर को सम कर जाने, नहिन पना बेघाना है || 2 ||."
+      "कंचन माटी भेद न जांको, ऊँच नीच इक जाना है ॥३ ॥"
     ],
     [
-      "कनचन माति भेद न जानको, ुनच निच िक जाना है || 3 ||."
+      "सुख दुख माहिं रहे इक जैसा, जांको लाभ न हाना है ॥४ ॥"
     ],
     [
-      "सुख दुःख माहिन रहे िक जैसा, जानको लाभ न हाना है || 4. ||."
-    ],
-    [
-      "कहे तेऊँ ये चिनह जिसि मेन, परतयकश वह भगवाना है || 5 ||."
+      "कहे टेऊँ ये चिन्ह जिसी में, प्रत्यक्ष वह भगवाना है ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Ne Harijan Murat Dhaari, Harijan Hari Samaanaa Hai (Tek)."
-    ],
-    [
       "Harsh Shok Harijan Nahin Karte, Hote Maan Amaanaa Hai || 1 ||"
     ],
     [
-      "Shatru Mitr Ko Sam Kar Jaane, Nahin Apnaa Beghaanaa Hai || 2 ||."
+      "Shatru Mitr Ko Sam Kar Jaane, Nahin Apnaa Beghaanaa Hai || 2 ||"
     ],
     [
-      "Kanchan Maati Bhed N Jaanko, Unch Nich Ik Jaanaa Hai || 3 ||."
+      "Kanchan Maati Bhed Na Jaanko, Unch Nich Ik Jaanaa Hai || 3 ||"
     ],
     [
-      "Sukh Dukh Maahin Rahe Ik Jaisaa, Jaanko Laabh N Haanaa Hai || 4. ||."
+      "Sukh Dukh Maahin Rahe Ik Jaisaa, Jaanko Laabh Na Haanaa Hai || 4 ||"
     ],
     [
-      "Kahe Teun Ye Chinh Jisi Men, Pratyaksh Vah Bhagvaanaa Hai || 5 ||."
+      "Kahe Teun Ye Chinh Jisi Men, Pratyaksh Vah Bhagvaanaa Hai || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 67 || 431 ||",
+    "हरि ने हरिजन मूरत धारी, हरिजन हरी समाना है",
     "Hari Ne Harijan Murat Dhaari, Harijan Hari Samaanaa Hai",
-    "हरि ने हरिजन मुरत धारि, हरिजन हरि समाना है"
+    "राग तिलंग भजन 67",
+    "Raag Tilang Bhajan 67"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 430,
+  "displayOrder": 67,
+  "overallOrder": 430,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 245",
+  "updatedAt": "2026-10-26"
 }

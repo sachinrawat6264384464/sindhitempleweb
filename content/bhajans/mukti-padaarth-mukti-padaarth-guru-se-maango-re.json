@@ -2,53 +2,96 @@
   "id": "bhajan-0106",
   "slug": "mukti-padaarth-mukti-padaarth-guru-se-maango-re",
   "categoryId": "raag-aasaa",
-  "title": "मुक्ति पदारथ मुक्ति पदारथ गुरु से मानगो रे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मुक्ति पदार्थ मुक्ति पदार्थ गुरु से मांगो रे",
   "romanTitle": "Mukti Padaarth Mukti Padaarth Guru Se Maango Re",
-  "firstLine": "Mukti Padaarth Mukti Padaarth Guru Se Maango Re. Avidyaa Ki Nar Nind Tyaage Jaldi Jaago Re (Tek).",
+  "firstLine": "Mukti Padaarth Mukti Padaarth Guru Se Maango Re.",
+  "heading": "।। राग आसा भजन ।। ४४ ।। १०६।॥।",
+  "tek": [
+    "मुक्ति पदार्थ मुक्ति पदार्थ गुरु से मांगो रे ।",
+    "अविद्या की नर नींद त्यागे जल्दी जागो रे ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Mukti Padaarth Mukti Padaarth Guru Se Maango Re.",
+    "Avidyaa Ki Nar Nind Tyaage Jaldi Jaago Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम रूप जग मिथ्या जानो, अस्ति भाति प्रिय आत्म मानो ।",
+        "रैन दिवस तुम आतम पद में धर अनुरागो रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup Jag Mithyaa Jaano, Asti Bhaati Priy Aatm Maano.",
+        "Rain Divas Tum Aatam Pad Men Dhar Anuraago Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपने मन में उपशम धरिये, भोग विषय से हरदम डरिये ।",
+        "अन्ध कूप जग महा भयानक से तुम भागों रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Apne Man Men Upsham Dhariye, Bhog Vishay Se Hardam Dariye.",
+        "Andh Kup Jag Mahaa Bhayaanak Se Tum Bhaagon Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शम दम श्रद्धा धार सुजाना, समाधान उपराम ध्याना ।",
+        "तितिक्षा को तुम हरदम धारो कभी न त्यागो रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sham Dam Shraddhaa Dhaar Sujaanaa, Samaadhaan Upraam Dhyaanaa.",
+        "Titikshaa Ko Tum Hardam Dhaaro Kabhi Na Tyaago Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर मोक्ष आशा, भव भोगनि से होय निराशा ।",
+        "गुरु चरणों में भाव भक्ति से गुरुमुख लागो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Moksh Aashaa, Bhav Bhogni Se Hoy Niraashaa.",
+        "Guru Charnon Men Bhaav Bhakti Se Gurumukh Laago Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मुक्ति पदारथ मुक्ति पदारथ गुरु से मानगो रे.",
-      "विदया कि नर निनद तयागे जलदि जागो रे (टेक)."
+      "नाम रूप जग मिथ्या जानो, अस्ति भाति प्रिय आत्म मानो ।",
+      "रैन दिवस तुम आतम पद में धर अनुरागो रे ॥१ ॥"
     ],
     [
-      "य",
-      "नाम रुप जग मिथया जानो, सति भाति परिय ातम मानो."
+      "अपने मन में उपशम धरिये, भोग विषय से हरदम डरिये ।",
+      "अन्ध कूप जग महा भयानक से तुम भागों रे ॥२ ॥"
     ],
     [
-      "रैन दिवस तुम ातम पद मेन धर नुरागो रे || 1 ||."
+      "शम दम श्रद्धा धार सुजाना, समाधान उपराम ध्याना ।",
+      "तितिक्षा को तुम हरदम धारो कभी न त्यागो रे ॥३ ॥"
     ],
     [
-      "पने मन मेन ुपशम धरिये, भोग विशय से हरदम दरिये.",
-      "नध कुप जग महा भयानक से तुम भागोन रे || 2 ||."
-    ],
-    [
-      "शम दम शरदधा धार सुजाना, समाधान ुपराम धयाना.",
-      "तितिकशा को तुम हरदम धारो कभि न तयागो रे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ कर मोक्ष ाशा, भव भोगनि से होय निराशा.",
-      "गुरु चरनोन मेन भाव भक्ति से गुरुमुख लागो रे || 4 ||"
+      "कहे टेऊँ कर मोक्ष आशा, भव भोगनि से होय निराशा ।",
+      "गुरु चरणों में भाव भक्ति से गुरुमुख लागो रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mukti Padaarth Mukti Padaarth Guru Se Maango Re.",
-      "Avidyaa Ki Nar Nind Tyaage Jaldi Jaago Re (Tek)."
-    ],
-    [
-      "Y",
-      "Naam Rup Jag Mithyaa Jaano, Asti Bhaati Priy Aatm Maano."
-    ],
-    [
-      "Rain Divas Tum Aatam Pad Men Dhar Anuraago Re || 1 ||."
+      "Naam Rup Jag Mithyaa Jaano, Asti Bhaati Priy Aatm Maano.",
+      "Rain Divas Tum Aatam Pad Men Dhar Anuraago Re || 1 ||"
     ],
     [
       "Apne Man Men Upsham Dhariye, Bhog Vishay Se Hardam Dariye.",
-      "Andh Kup Jag Mahaa Bhayaanak Se Tum Bhaagon Re || 2 ||."
+      "Andh Kup Jag Mahaa Bhayaanak Se Tum Bhaagon Re || 2 ||"
     ],
     [
       "Sham Dam Shraddhaa Dhaar Sujaanaa, Samaadhaan Upraam Dhyaanaa.",
-      "Titikshaa Ko Tum Hardam Dhaaro Kabhi N Tyaago Re || 3 ||."
+      "Titikshaa Ko Tum Hardam Dhaaro Kabhi Na Tyaago Re || 3 ||"
     ],
     [
       "Kahe Teun Kar Moksh Aashaa, Bhav Bhogni Se Hoy Niraashaa.",
@@ -56,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 44 || 106. ||.",
+    "मुक्ति पदार्थ मुक्ति पदार्थ गुरु से मांगो रे",
     "Mukti Padaarth Mukti Padaarth Guru Se Maango Re",
-    "मुक्ति पदारथ मुक्ति पदारथ गुरु से मानगो रे"
+    "राग आसा भजन 44",
+    "Raag Aasaa Bhajan 44"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 106,
+  "displayOrder": 44,
+  "overallOrder": 106,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 78",
+  "updatedAt": "2026-10-26"
 }

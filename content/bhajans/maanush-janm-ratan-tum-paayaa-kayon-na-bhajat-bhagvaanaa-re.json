@@ -1,0 +1,115 @@
+{
+  "id": "bhajan-0412",
+  "slug": "maanush-janm-ratan-tum-paayaa-kayon-na-bhajat-bhagvaanaa-re",
+  "categoryId": "raag-tilang",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मानुष जन्म रतन तुम पाया, क्‍यों न भजत भगवाना रे",
+  "romanTitle": "Maanush Janm Ratan Tum Paayaa, Ka‍Yon Na Bhajat Bhagvaanaa Re",
+  "firstLine": "Maanush Janm Ratan Tum Paayaa, Ka‍Yon Na Bhajat Bhagvaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ॥। ४९ ।। ४१३।॥।",
+  "tek": [
+    "मानुष जन्म रतन तुम पाया, क्‍यों न भजत भगवाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Janm Ratan Tum Paayaa, Ka‍Yon Na Bhajat Bhagvaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात गर्भ में कौल किया जो , तिसको भूल न जाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Garbh Men Kaul Kiyaa Jo, Tisko Bhul Na Jaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बालापन खेलन में खोया, होया मूण्ड अजाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baalaapan Khelan Men Khoyaa, Hoyaa Mund Ajaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "यौवन में सत्‌ कर्म न कीना, भोगे भोग महाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Yauvan Men Sat‌ Karm Na Kinaa, Bhoge Bhog Mahaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "वृद्ध भयो ममता मन बाढ़ी, बहुत सहत अपमाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Vriddh Bhayo Mamtaa Man Baarhi, Bahut Sahat Apmaanaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ अब भी चेतो, गहो गुरू से ज्ञाना रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Ab Bhi Cheto, Gaho Guru Se Jnyaanaa Re || 5 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मात गर्भ में कौल किया जो , तिसको भूल न जाना रे ॥१ ॥"
+    ],
+    [
+      "बालापन खेलन में खोया, होया मूण्ड अजाना रे ॥२ ॥"
+    ],
+    [
+      "यौवन में सत्‌ कर्म न कीना, भोगे भोग महाना रे ॥३ ॥"
+    ],
+    [
+      "वृद्ध भयो ममता मन बाढ़ी, बहुत सहत अपमाना रे ॥४ ॥"
+    ],
+    [
+      "कहता टेऊँ अब भी चेतो, गहो गुरू से ज्ञाना रे ॥५ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Maat Garbh Men Kaul Kiyaa Jo, Tisko Bhul Na Jaanaa Re || 1 ||"
+    ],
+    [
+      "Baalaapan Khelan Men Khoyaa, Hoyaa Mund Ajaanaa Re || 2 ||"
+    ],
+    [
+      "Yauvan Men Sat‌ Karm Na Kinaa, Bhoge Bhog Mahaanaa Re || 3 ||"
+    ],
+    [
+      "Vriddh Bhayo Mamtaa Man Baarhi, Bahut Sahat Apmaanaa Re || 4 ||"
+    ],
+    [
+      "Kahtaa Teun Ab Bhi Cheto, Gaho Guru Se Jnyaanaa Re || 5 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मानुष जन्म रतन तुम पाया, क्‍यों न भजत भगवाना रे",
+    "Maanush Janm Ratan Tum Paayaa, Ka‍Yon Na Bhajat Bhagvaanaa Re",
+    "राग तिलंग भजन 49",
+    "Raag Tilang Bhajan 49"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
+  ],
+  "displayOrder": 49,
+  "overallOrder": 412,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 239",
+  "updatedAt": "2026-10-26"
+}

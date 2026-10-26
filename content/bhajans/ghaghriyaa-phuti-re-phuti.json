@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0887",
+  "id": "bhajan-0885",
   "slug": "ghaghriyaa-phuti-re-phuti",
   "categoryId": "raag-jog",
-  "title": "घघरिया फुति रे फुति",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "घघरिया फूटी रे फूटी",
   "romanTitle": "Ghaghriyaa Phuti Re Phuti",
   "firstLine": "Ghaghriyaa Phuti Re Phuti (Tek).",
+  "heading": "।। राग जोग भजन ।। ५७ ।। ८८७",
+  "tek": [
+    "घघरिया फूटी रे फूटी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ghaghriyaa Phuti Re Phuti (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "रंग रंगीली घाघर मेरी, लागत थी मुझ प्यारी ।",
+        "बहुत जन्म से शिर पर धारी, यत्न किये ना छूटी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Rang Rangili Ghaaghar Meri, Laagat Thi Mujh Pyaari.",
+        "Bahut Janm Se Shir Par Dhaari, Yatn Kiye Naa Chhuti || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "डोरि बांध कर कूंए भीतर, जल भरने को भेजी ।",
+        "चलते चलते चोट लगी तिस, घोर शब्द कर टूटी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dori Baandh Kar Kune Bhitar, Jal Bharne Ko Bheji.",
+        "Chalte Chalte Chot Lagi Tis, Ghor Shabd Kar Tuti || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "घाघर फूटी सुन कर सखियां, मिलकर देत बधाई ।",
+        "का भया सुन मेरे मन में, भली भयी जो हूटी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ghaaghar Phuti Sun Kar Sakhiyaan, Milkar Det Badhaai.",
+        "Kaa Bhayaa Sun Mere Man Men, Bhali Bhayi Jo Huti || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सन्तजनों की घाघर फूटी, फूटत आनन्द पाया ।",
+        "कहे टेऊँ मेरी भी फूटी, फेर कभी ना जूटी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Santajnon Ki Ghaaghar Phuti, Phutat Aanand Paayaa.",
+        "Kahe Teun Meri Bhi Phuti, Pher Kabhi Naa Juti || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््य्ठ"
+      ],
+      "romanLines": [
+        "Gyth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "घघरिया फुति रे फुति (टेक)."
+      "रंग रंगीली घाघर मेरी, लागत थी मुझ प्यारी ।",
+      "बहुत जन्म से शिर पर धारी, यत्न किये ना छूटी ॥१ ॥"
     ],
     [
-      "रनग रनगिलि घाघर मेरि, लागत थि मुझ पयारि.",
-      "बहुत जनम से शिर पर धारि, यतन किये ना चहुति || 1 ||"
+      "डोरि बांध कर कूंए भीतर, जल भरने को भेजी ।",
+      "चलते चलते चोट लगी तिस, घोर शब्द कर टूटी ॥२ ॥"
     ],
     [
-      "दोरि बानध कर कुने भितर, जल भरने को भेजि.",
-      "चलते चलते चोत लगि तिस, घोर शबद कर तुति || 2 ||."
+      "घाघर फूटी सुन कर सखियां, मिलकर देत बधाई ।",
+      "का भया सुन मेरे मन में, भली भयी जो हूटी ॥३ ॥"
     ],
     [
-      "घाघर फुति सुन कर सखियान, मिलकर देत बधाि.",
-      "का भया सुन मेरे मन मेन, भलि भयि जो हुति || 3े ||"
+      "सन्तजनों की घाघर फूटी, फूटत आनन्द पाया ।",
+      "कहे टेऊँ मेरी भी फूटी, फेर कभी ना जूटी ॥४ ॥"
     ],
     [
-      "सनतजनोन कि घाघर फुति, फुतत आनंद पाया.",
-      "कहे तेऊँ मेरि भि फुति, फेर कभि ना जुति || 4 ||."
-    ],
-    [
-      "गयथ"
+      "ग््य्ठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Ghaghriyaa Phuti Re Phuti (Tek)."
-    ],
     [
       "Rang Rangili Ghaaghar Meri, Laagat Thi Mujh Pyaari.",
       "Bahut Janm Se Shir Par Dhaari, Yatn Kiye Naa Chhuti || 1 ||"
     ],
     [
       "Dori Baandh Kar Kune Bhitar, Jal Bharne Ko Bheji.",
-      "Chalte Chalte Chot Lagi Tis, Ghor Shabd Kar Tuti || 2 ||."
+      "Chalte Chalte Chot Lagi Tis, Ghor Shabd Kar Tuti || 2 ||"
     ],
     [
       "Ghaaghar Phuti Sun Kar Sakhiyaan, Milkar Det Badhaai.",
-      "Kaa Bhayaa Sun Mere Man Men, Bhali Bhayi Jo Huti || 3E ||"
+      "Kaa Bhayaa Sun Mere Man Men, Bhali Bhayi Jo Huti || 3 ||"
     ],
     [
       "Santajnon Ki Ghaaghar Phuti, Phutat Aanand Paayaa.",
-      "Kahe Teun Meri Bhi Phuti, Pher Kabhi Naa Juti || 4 ||."
+      "Kahe Teun Meri Bhi Phuti, Pher Kabhi Naa Juti || 4 ||"
     ],
     [
       "Gyth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 57 || 887",
+    "घघरिया फूटी रे फूटी",
     "Ghaghriyaa Phuti Re Phuti",
-    "घघरिया फुति रे फुति"
+    "राग जोग भजन 57",
+    "Raag Jog Bhajan 57"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 887,
+  "displayOrder": 57,
+  "overallOrder": 885,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 467",
+  "updatedAt": "2026-10-26"
 }

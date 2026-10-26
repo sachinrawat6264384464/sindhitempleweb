@@ -1,0 +1,89 @@
+{
+  "id": "bhajan-0604",
+  "slug": "saajan-mujhko-chhor-na-jaao-saath-raho-tum-pyaaraa-ji",
+  "categoryId": "raag-kaamol",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "साजन मुझको छोड़ न जाओ, साथ रहो तुम प्यारा जी",
+  "romanTitle": "Saajan Mujhko Chhor Na Jaao, Saath Raho Tum Pyaaraa Ji",
+  "firstLine": "Saajan Mujhko Chhor Na Jaao, Saath Raho Tum Pyaaraa Ji (Tek).",
+  "heading": "।। राग कामोल भजन ।। ७ ।। ६०५।।",
+  "tek": [
+    "साजन मुझको छोड़ न जाओ, साथ रहो तुम प्यारा जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saajan Mujhko Chhor Na Jaao, Saath Raho Tum Pyaaraa Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अवगुन देख न मोहि त्यागो, यह है अरज़ हमारा जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Avgun Dekh Na Mohi Tyaago, Yah Hai Araz Hamaaraa Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसे चाहो तैसे करहूं, मैं हूं दास तुम्हारा जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaise Chaaho Taise Karhun, Main Hun Daas Tumhaaraa Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम बिन स्वामी रह न सकूं मैं , ज्यों मछली बिन वारा जी । । डे ॥",
+        "कहे टेऊँ इक पल नहिं जीऊँ, तुम हो प्रान आधारा जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tum Bin Svaami Rah Na Sakun Main, Jyon Machhli Bin Vaaraa Ji.. De ||",
+        "Kahe Teun Ik Pal Nahin Jiun, Tum Ho Praan Aadhaaraa Ji || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "अवगुन देख न मोहि त्यागो, यह है अरज़ हमारा जी ॥१ ॥"
+    ],
+    [
+      "जैसे चाहो तैसे करहूं, मैं हूं दास तुम्हारा जी ॥२ ॥"
+    ],
+    [
+      "तुम बिन स्वामी रह न सकूं मैं , ज्यों मछली बिन वारा जी । । डे ॥",
+      "कहे टेऊँ इक पल नहिं जीऊँ, तुम हो प्रान आधारा जी ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Avgun Dekh Na Mohi Tyaago, Yah Hai Araz Hamaaraa Ji || 1 ||"
+    ],
+    [
+      "Jaise Chaaho Taise Karhun, Main Hun Daas Tumhaaraa Ji || 2 ||"
+    ],
+    [
+      "Tum Bin Svaami Rah Na Sakun Main, Jyon Machhli Bin Vaaraa Ji.. De ||",
+      "Kahe Teun Ik Pal Nahin Jiun, Tum Ho Praan Aadhaaraa Ji || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "साजन मुझको छोड़ न जाओ, साथ रहो तुम प्यारा जी",
+    "Saajan Mujhko Chhor Na Jaao, Saath Raho Tum Pyaaraa Ji",
+    "राग कामोल भजन 7",
+    "Raag Kaamol Bhajan 7"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
+    "bhajan"
+  ],
+  "displayOrder": 7,
+  "overallOrder": 604,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 326",
+  "updatedAt": "2026-10-26"
+}

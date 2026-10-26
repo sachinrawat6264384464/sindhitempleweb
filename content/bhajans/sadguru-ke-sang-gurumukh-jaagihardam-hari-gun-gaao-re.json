@@ -2,41 +2,90 @@
   "id": "bhajan-0017",
   "slug": "sadguru-ke-sang-gurumukh-jaagihardam-hari-gun-gaao-re",
   "categoryId": "raag-raamkali",
-  "title": "सद्गुरु के सनग गुरुमुख जागिहरदम हरि गुन गाो रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "सद्‌गुरु के संग गुरुमुख जागी ,हरदम हरि गुन गाओ रे",
   "romanTitle": "Sad‌Guru Ke Sang Gurumukh Jaagi,Hardam Hari Gun Gaao Re",
   "firstLine": "Sad‌Guru Ke Sang Gurumukh Jaagi,Hardam Hari Gun Gaao Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। ५।। १७।।",
+  "tek": [
+    "सद्‌गुरु के संग गुरुमुख जागी ,हरदम हरि गुन गाओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Ke Sang Gurumukh Jaagi,Hardam Hari Gun Gaao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु की नित सेवा करके दिल को साफ बनाओ रे ।",
+        "पूर्ण श्रद्धा से उर अन्तर गुरु के चरण ध्याओ रे ।8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ki Nit Sevaa Karke Dil Ko Saaph Banaao Re.",
+        "Purn Shraddhaa Se Ur Antar Guru Ke Charan Dhyaao Re.8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्संग सम संतोष विचारा इनसे प्रीति लगाओ रे ।",
+        "चल कर मोक्ष मन्दिर के माहीं आत्म दर्शन पाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Satsang Sam Santosh Vichaaraa Inse Priti Lagaao Re.",
+        "Chal Kar Moksh Mandir Ke Maahin Aatm Darshan Paao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बैठ अकेला आसन मारे सुरती शब्द मिलाओ रे ।",
+        "अनन्य अभ्यास करे निशवासर अनुभव ज्योति जगाओ रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Baith Akelaa Aasan Maare Surti Shabd Milaao Re.",
+        "Anany Abhyaas Kare Nishvaasar Anubhav Jyoti Jagaao Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ गुरु प्रसादे सुन्न में सहज समाओ रे ।",
+        "मन के फुरने सर्व मिटाये अपने घर में आओ रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Guru Prasaade Sunn Men Sahaj Samaao Re.",
+        "Man Ke Phurne Sarv Mitaaye Apne Ghar Men Aao Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु के सनग गुरुमुख जागिहरदम हरि गुन गाो रे (टेक)."
+      "सद्‌गुरु की नित सेवा करके दिल को साफ बनाओ रे ।",
+      "पूर्ण श्रद्धा से उर अन्तर गुरु के चरण ध्याओ रे ।8 ॥१ ॥"
     ],
     [
-      "सद्गुरु कि नित सेवा करके दिल को साफ बनाो रे.",
-      "पुरन शरदधा से ुर नतर गुरु के चरण धयाो रे.8₹. ||."
+      "सत्संग सम संतोष विचारा इनसे प्रीति लगाओ रे ।",
+      "चल कर मोक्ष मन्दिर के माहीं आत्म दर्शन पाओ रे ॥२ ॥"
     ],
     [
-      "सत्संग सम सनतोश विचारा िनसे परिति लगाो रे.",
-      "चल कर मोक्ष मनदिर के माहिन ातम दरशन पाो रे.2 ||."
+      "बैठ अकेला आसन मारे सुरती शब्द मिलाओ रे ।",
+      "अनन्य अभ्यास करे निशवासर अनुभव ज्योति जगाओ रे ॥३ ॥"
     ],
     [
-      "बैथ केला ासन मारे सुरति शबद मिलाो रे.",
-      "ननय भयास करे निशवासर नुभव जयोति जगाो रे || 3 ||"
-    ],
-    [
-      "कहता तेऊँ गुरु परसादे सुनन मेन सहज समाो रे.",
-      "मन के फुरने सर्व मिताये पने घर मेन ाो रे || 4 ||."
+      "कहता टेऊँ गुरु प्रसादे सुन्न में सहज समाओ रे ।",
+      "मन के फुरने सर्व मिटाये अपने घर में आओ रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Ke Sang Gurumukh Jaagi,Hardam Hari Gun Gaao Re (Tek)."
-    ],
-    [
       "Sad‌Guru Ki Nit Sevaa Karke Dil Ko Saaph Banaao Re.",
-      "Purn Shraddhaa Se Ur Antar Guru Ke Charan Dhyaao Re.8₹. ||."
+      "Purn Shraddhaa Se Ur Antar Guru Ke Charan Dhyaao Re.8 || 1 ||"
     ],
     [
       "Satsang Sam Santosh Vichaaraa Inse Priti Lagaao Re.",
-      "Chal Kar Moksh Mandir Ke Maahin Aatm Darshan Paao Re.2 ||."
+      "Chal Kar Moksh Mandir Ke Maahin Aatm Darshan Paao Re || 2 ||"
     ],
     [
       "Baith Akelaa Aasan Maare Surti Shabd Milaao Re.",
@@ -44,23 +93,24 @@
     ],
     [
       "Kahtaa Teun Guru Prasaade Sunn Men Sahaj Samaao Re.",
-      "Man Ke Phurne Sarv Mitaaye Apne Ghar Men Aao Re || 4 ||."
+      "Man Ke Phurne Sarv Mitaaye Apne Ghar Men Aao Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 5 || 17 ||",
+    "सद्‌गुरु के संग गुरुमुख जागी ,हरदम हरि गुन गाओ रे",
     "Sad‌Guru Ke Sang Gurumukh Jaagi,Hardam Hari Gun Gaao Re",
-    "सद्गुरु के सनग गुरुमुख जागिहरदम हरि गुन गाो रे"
+    "राग रामकली भजन 5",
+    "Raag Raamkali Bhajan 5"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 17,
+  "displayOrder": 5,
+  "overallOrder": 17,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 34",
+  "updatedAt": "2026-10-26"
 }

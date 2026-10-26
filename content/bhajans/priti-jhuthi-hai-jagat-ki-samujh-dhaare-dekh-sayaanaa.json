@@ -2,52 +2,99 @@
   "id": "bhajan-0160",
   "slug": "priti-jhuthi-hai-jagat-ki-samujh-dhaare-dekh-sayaanaa",
   "categoryId": "raag-vihaag",
-  "title": "परिति झुथि है जगत कि, समुझ धारे देख सयाना",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "प्रीति झूठी है जगत की, समुझ धारे देख सयाना",
   "romanTitle": "Priti Jhuthi Hai Jagat Ki, Samujh Dhaare Dekh Sayaanaa",
-  "firstLine": "Priti Jhuthi Hai Jagat Ki, Samujh Dhaare Dekh Sayaanaa. Saath Sangi Naa Chale Ko, Hai Akelaa Tohi Jaanaa (Tek).",
+  "firstLine": "Priti Jhuthi Hai Jagat Ki, Samujh Dhaare Dekh Sayaanaa.",
+  "heading": "।। राग विहाग भजन ।। २ ।। १६०॥।",
+  "tek": [
+    "प्रीति झूठी है जगत की, समुझ धारे देख सयाना ।",
+    "साथ संगी ना चले को, है अकेला तोहि जाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Priti Jhuthi Hai Jagat Ki, Samujh Dhaare Dekh Sayaanaa.",
+    "Saath Sangi Naa Chale Ko, Hai Akelaa Tohi Jaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देख धन परिवार को तुम गर्व मन में बहु किया ।",
+        "कहत हो सब हैं हमारे नाहिं तेरा को सुजाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dekh Dhan Parivaar Ko Tum Garv Man Men Bahu Kiyaa.",
+        "Kahat Ho Sab Hain Hamaare Naahin Teraa Ko Sujaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शाह सिकन्दर रहन खातिर जतन बहु जग में किये ।",
+        "वह भी गये कर हाथ खाली ये टिकन का नहिं ठिकाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shaah Sikandar Rahan Khaatir Jatan Bahu Jag Men Kiye.",
+        "Vah Bhi Gaye Kar Haath Khaali Ye Tikan Kaa Nahin Thikaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ऊठ जल्दी वणिज करले भाव भक्ती ज्ञान का ।",
+        "ले न दे को तोहि आगे नहिं वहां है को दुकाना ॥ डे ॥",
+        "सन्त समझाते सदा तुम जाग अविद्या नींद से ।",
+        "कहत टेऊँ जे चहो सुख तन मलिन का तज गुमाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Uth Jaldi Vanij Karle Bhaav Bhakti Gyaan Kaa.",
+        "Le Na De Ko Tohi Aage Nahin Vahaan Hai Ko Dukaanaa || De ||",
+        "Sant Samjhaate Sadaa Tum Jaag Avidyaa Nind Se.",
+        "Kahat Teun Je Chaho Sukh Tan Malin Kaa Taj Gumaanaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ठ्ट"
+      ],
+      "romanLines": [
+        "Tht"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परिति झुथि है जगत कि, समुझ धारे देख सयाना.",
-      "साथ सनगि ना चले को, है केला तोहि जाना (टेक)."
+      "देख धन परिवार को तुम गर्व मन में बहु किया ।",
+      "कहत हो सब हैं हमारे नाहिं तेरा को सुजाना ॥१ ॥"
     ],
     [
-      "देख धन परिवार को तुम गरव मन मेन बहु किया.",
-      "कहत हो सब हैन हमारे नाहिन तेरा को सुजाना.1 ||."
+      "शाह सिकन्दर रहन खातिर जतन बहु जग में किये ।",
+      "वह भी गये कर हाथ खाली ये टिकन का नहिं ठिकाना ॥२ ॥"
     ],
     [
-      "शाह सिकनदर रहन खातिर जतन बहु जग मेन किये.",
-      "वह भि गये कर हाथ खालि ये तिकन का नहिन थिकाना || 2 ||."
+      "ऊठ जल्दी वणिज करले भाव भक्ती ज्ञान का ।",
+      "ले न दे को तोहि आगे नहिं वहां है को दुकाना ॥ डे ॥",
+      "सन्त समझाते सदा तुम जाग अविद्या नींद से ।",
+      "कहत टेऊँ जे चहो सुख तन मलिन का तज गुमाना ॥४ ॥"
     ],
     [
-      "ुथ जलदि वनिज करले भाव भक्ति ज्ञान का.",
-      "ले न दे को तोहि ागे नहिन वहान है को दुकाना || दे ||"
-    ],
-    [
-      "संत समझाते सदा तुम जाग विदया निनद से.",
-      "कहत तेऊँ जे चहो सुख तन मलिन का तज गुमाना || 4 ||"
-    ],
-    [
-      "थत"
+      "ठ्ट"
     ]
   ],
   "romanLyrics": [
     [
-      "Priti Jhuthi Hai Jagat Ki, Samujh Dhaare Dekh Sayaanaa.",
-      "Saath Sangi Naa Chale Ko, Hai Akelaa Tohi Jaanaa (Tek)."
-    ],
-    [
       "Dekh Dhan Parivaar Ko Tum Garv Man Men Bahu Kiyaa.",
-      "Kahat Ho Sab Hain Hamaare Naahin Teraa Ko Sujaanaa.1 ||."
+      "Kahat Ho Sab Hain Hamaare Naahin Teraa Ko Sujaanaa || 1 ||"
     ],
     [
       "Shaah Sikandar Rahan Khaatir Jatan Bahu Jag Men Kiye.",
-      "Vah Bhi Gaye Kar Haath Khaali Ye Tikan Kaa Nahin Thikaanaa || 2 ||."
+      "Vah Bhi Gaye Kar Haath Khaali Ye Tikan Kaa Nahin Thikaanaa || 2 ||"
     ],
     [
-      "Uth Jaldi Vanij Karle Bhaav Bhakti Jnyaan Kaa.",
-      "Le N De Ko Tohi Aage Nahin Vahaan Hai Ko Dukaanaa || De ||"
-    ],
-    [
+      "Uth Jaldi Vanij Karle Bhaav Bhakti Gyaan Kaa.",
+      "Le Na De Ko Tohi Aage Nahin Vahaan Hai Ko Dukaanaa || De ||",
       "Sant Samjhaate Sadaa Tum Jaag Avidyaa Nind Se.",
       "Kahat Teun Je Chaho Sukh Tan Malin Kaa Taj Gumaanaa || 4 ||"
     ],
@@ -56,18 +103,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 2 || 160 ||.",
+    "प्रीति झूठी है जगत की, समुझ धारे देख सयाना",
     "Priti Jhuthi Hai Jagat Ki, Samujh Dhaare Dekh Sayaanaa",
-    "परिति झुथि है जगत कि, समुझ धारे देख सयाना"
+    "राग विहाग भजन 2",
+    "Raag Vihaag Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 160,
+  "displayOrder": 2,
+  "overallOrder": 160,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 109",
+  "updatedAt": "2026-10-26"
 }

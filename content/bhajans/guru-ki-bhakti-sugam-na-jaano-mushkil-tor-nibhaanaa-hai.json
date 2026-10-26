@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0454",
+  "slug": "guru-ki-bhakti-sugam-na-jaano-mushkil-tor-nibhaanaa-hai",
+  "categoryId": "raag-tilang",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "गुरु की भक्ती सुगम न जानो, मुश्किल तोड़ निभाना है",
+  "romanTitle": "Guru Ki Bhakti Sugam Na Jaano, Mushkil Tor Nibhaanaa Hai",
+  "firstLine": "Guru Ki Bhakti Sugam Na Jaano, Mushkil Tor Nibhaanaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ९१ ।। ४५५।।",
+  "tek": [
+    "गुरु की भक्ती सुगम न जानो, मुश्किल तोड़ निभाना है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Ki Bhakti Sugam Na Jaano, Mushkil Tor Nibhaanaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इक दो दिन का काम न होना, प्रीति लगा कर पल पल रोना ।",
+        "सहन मान अपमाना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ik Do Din Kaa Kaam Na Honaa, Priti Lagaa Kar Pal Pal Ronaa.",
+        "Sahan Maan Apmaanaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु आज्ञा को सिर पर धरना, मैं तूं त्यागे जीवित मरना ।",
+        "तजना तन अभिमाना है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Aajnyaa Ko Sir Par Dharnaa, Main Tu Tyaage Jivit Marnaa.",
+        "Tajnaa Tan Abhimaanaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "छोटा मार्ग बहु चिकनाई, गन्धमाल्य ज्यों कठिन चढ़ाई ।",
+        "तेग़ धार पर जाना है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chhotaa Maarg Bahu Chiknaai, Gandhamaaly Jyon Kathin Charhaai.",
+        "Tegh Dhaar Par Jaanaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब तोड़े लाजा, मन को जीते करना काजा ।",
+        "अपना आप जगाना है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Tore Laajaa, Man Ko Jite Karnaa Kaajaa.",
+        "Apnaa Aap Jagaanaa Hai || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "इक दो दिन का काम न होना, प्रीति लगा कर पल पल रोना ।",
+      "सहन मान अपमाना है ॥१ ॥"
+    ],
+    [
+      "गुरु आज्ञा को सिर पर धरना, मैं तूं त्यागे जीवित मरना ।",
+      "तजना तन अभिमाना है ॥२ ॥"
+    ],
+    [
+      "छोटा मार्ग बहु चिकनाई, गन्धमाल्य ज्यों कठिन चढ़ाई ।",
+      "तेग़ धार पर जाना है ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ सब तोड़े लाजा, मन को जीते करना काजा ।",
+      "अपना आप जगाना है ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Ik Do Din Kaa Kaam Na Honaa, Priti Lagaa Kar Pal Pal Ronaa.",
+      "Sahan Maan Apmaanaa Hai || 1 ||"
+    ],
+    [
+      "Guru Aajnyaa Ko Sir Par Dharnaa, Main Tu Tyaage Jivit Marnaa.",
+      "Tajnaa Tan Abhimaanaa Hai || 2 ||"
+    ],
+    [
+      "Chhotaa Maarg Bahu Chiknaai, Gandhamaaly Jyon Kathin Charhaai.",
+      "Tegh Dhaar Par Jaanaa Hai || 3 ||"
+    ],
+    [
+      "Kahe Teun Sab Tore Laajaa, Man Ko Jite Karnaa Kaajaa.",
+      "Apnaa Aap Jagaanaa Hai || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "गुरु की भक्ती सुगम न जानो, मुश्किल तोड़ निभाना है",
+    "Guru Ki Bhakti Sugam Na Jaano, Mushkil Tor Nibhaanaa Hai",
+    "राग तिलंग भजन 91",
+    "Raag Tilang Bhajan 91"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
+  ],
+  "displayOrder": 91,
+  "overallOrder": 454,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 255",
+  "updatedAt": "2026-10-26"
+}

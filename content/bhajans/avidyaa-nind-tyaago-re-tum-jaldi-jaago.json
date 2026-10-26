@@ -2,73 +2,106 @@
   "id": "bhajan-0067",
   "slug": "avidyaa-nind-tyaago-re-tum-jaldi-jaago",
   "categoryId": "raag-aasaa",
-  "title": "विदया निनद तयागो, रे तुम जलदि जागो",
-  "romanTitle": "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago",
-  "firstLine": "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago, Bhav Te Bhaagon, Guru Pad Laago (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "अविद्या नींद त्यागो, रे तुम जल्दी जागो,",
+  "romanTitle": "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago,",
+  "firstLine": "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago,",
+  "heading": "।। राग आसा भजन ।। ५ ।। ६७॥।",
+  "tek": [
+    "अविद्या नींद त्यागो, रे तुम जल्दी जागो,",
+    "भव ते भागों, गुरु पद लागो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago,",
+    "Bhav Te Bhaagon, Guru Pad Laago (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वप्ने सम जानो संसारा, पांच विषय ते होय न्यारा ।",
+        "मन में धार विरागो ॥8 ॥"
+      ],
+      "romanLines": [
+        "Svapne Sam Jaano Sansaaraa, Paanch Vishay Te Hoy Nyaaraa.",
+        "Man Men Dhaar Viraago || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आशा तृष्णा ममता मारे, पांच क्लेश विकार निवारे ।",
+        "ईश्वर में अनुरागो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aashaa Trishnaa Mamtaa Maare, Paanch Klesh Vikaar Nivaare.",
+        "Ishvar Men Anuraago || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मात पिता सुत तीय परिवारा, स्वार्थ के सब जानो प्यारा ।",
+        "तोड़ो तमना तागो ॥ । डे ॥",
+        "कहे टेऊँ ले गुरु से ज्ञाना, निज आतम का धरले ध्याना ।",
+        "परमानन्द रस पागो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Tiy Parivaaraa, Svaarth Ke Sab Jaano Pyaaraa.",
+        "Toro Tamnaa Taago || De ||",
+        "Kahe Teun Le Guru Se Jnyaanaa, Nij Aatam Kaa Dharle Dhyaanaa.",
+        "Parmaanand Ras Paago || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "विदया निनद तयागो, रे तुम जलदि जागो,",
-      "भव ते भागोन, गुरु पद लागो (टेक)."
+      "स्वप्ने सम जानो संसारा, पांच विषय ते होय न्यारा ।",
+      "मन में धार विरागो ॥8 ॥"
     ],
     [
-      "सवपने सम जानो सनसारा, पानच विशय ते होय नयारा.",
-      "मन मेन धार विरागो || 8 ||"
+      "आशा तृष्णा ममता मारे, पांच क्लेश विकार निवारे ।",
+      "ईश्वर में अनुरागो ॥२ ॥"
     ],
     [
-      "ाशा तरिशना ममता मारे, पानच कलेश विकार निवारे.",
-      "िशवर मेन नुरागो || 2 ||."
-    ],
-    [
-      "मात पिता सुत तिय परिवारा, सवारथ के सब जानो पयारा.",
-      "तोरो तमना तागो ||. दे ||"
-    ],
-    [
-      "कहे तेऊँ ले गुरु से जनयाना, निज ातम का धरले धयाना.",
-      "परमाननद रस पागो || 4 ||."
-    ],
-    [
-      "द"
+      "मात पिता सुत तीय परिवारा, स्वार्थ के सब जानो प्यारा ।",
+      "तोड़ो तमना तागो ॥ । डे ॥",
+      "कहे टेऊँ ले गुरु से ज्ञाना, निज आतम का धरले ध्याना ।",
+      "परमानन्द रस पागो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago,",
-      "Bhav Te Bhaagon, Guru Pad Laago (Tek)."
-    ],
     [
       "Svapne Sam Jaano Sansaaraa, Paanch Vishay Te Hoy Nyaaraa.",
       "Man Men Dhaar Viraago || 8 ||"
     ],
     [
       "Aashaa Trishnaa Mamtaa Maare, Paanch Klesh Vikaar Nivaare.",
-      "Ishvar Men Anuraago || 2 ||."
+      "Ishvar Men Anuraago || 2 ||"
     ],
     [
       "Maat Pitaa Sut Tiy Parivaaraa, Svaarth Ke Sab Jaano Pyaaraa.",
-      "Toro Tamnaa Taago ||. De ||"
-    ],
-    [
+      "Toro Tamnaa Taago || De ||",
       "Kahe Teun Le Guru Se Jnyaanaa, Nij Aatam Kaa Dharle Dhyaanaa.",
-      "Parmaanand Ras Paago || 4 ||."
-    ],
-    [
-      "D"
+      "Parmaanand Ras Paago || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 5 || 67 ||.",
-    "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago",
-    "विदया निनद तयागो, रे तुम जलदि जागो"
+    "अविद्या नींद त्यागो, रे तुम जल्दी जागो,",
+    "Avidyaa Nind Tyaago, Re Tum Jaldi Jaago,",
+    "राग आसा भजन 5",
+    "Raag Aasaa Bhajan 5"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 67,
+  "displayOrder": 5,
+  "overallOrder": 67,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 58",
+  "updatedAt": "2026-10-26"
 }

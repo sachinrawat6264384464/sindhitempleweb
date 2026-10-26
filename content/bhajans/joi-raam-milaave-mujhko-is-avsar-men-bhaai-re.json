@@ -2,35 +2,73 @@
   "id": "bhajan-0019",
   "slug": "joi-raam-milaave-mujhko-is-avsar-men-bhaai-re",
   "categoryId": "raag-raamkali",
-  "title": "जोि राम मिलावे मुझको िस वसर मेन भाि रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "जोई राम मिलावे मुझको इस अवसर में भाई रे",
   "romanTitle": "Joi Raam Milaave Mujhko Is Avsar Men Bhaai Re",
-  "firstLine": "Joi Raam Milaave Mujhko Is Avsar Men Bhaai Re. Taanke Upar Sarvasv Vaare Pujun Main Chitt Laai Re (Tek).",
+  "firstLine": "Joi Raam Milaave Mujhko Is Avsar Men Bhaai Re.",
+  "heading": "।। राग रामकली भजन ।। ७ ।। १९॥।",
+  "tek": [
+    "जोई राम मिलावे मुझको इस अवसर में भाई रे ।",
+    "तांके ऊपर सर्वस्व वारे पूजूं मैं चित्त लाई रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Joi Raam Milaave Mujhko Is Avsar Men Bhaai Re.",
+    "Taanke Upar Sarvasv Vaare Pujun Main Chitt Laai Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तांके चरनों की श्रद्धा से सेवा करूँ सदाई रे ।",
+        "झौड़ पाऊँ सेज बिछाऊँ करहूँ चैंबर झुलाई रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Taanke Charnon Ki Shraddhaa Se Sevaa Karun Sadaai Re.",
+        "Jhaur Paaun Sej Bichhaaun Karhun Chainbar Jhulaai Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तांकी आज्ञा माहिं चलूँ मैं मेटूं नाहिं रजाई रे ।",
+        "तन मन धन की भेटा देवों भूलूं नाहिं भलाई रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taanki Aajnyaa Maahin Chalun Main Metun Naahin Rajaai Re.",
+        "Tan Man Dhan Ki Bhetaa Devon Bhulun Naahin Bhalaai Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम दरश हित मग देखत हूं रैन दिवस बिललाई रे ।",
+        "कहे टेऊँ जो दरश करावे तां पर मैं बलि जाई रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Darash Hit Mag Dekhat Hun Rain Divas Billaai Re.",
+        "Kahe Teun Jo Darash Karaave Taan Par Main Bali Jaai Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जोि राम मिलावे मुझको िस वसर मेन भाि रे.",
-      "तानके ुपर सरवसव वारे पुजुन मैं चितत लाि रे (टेक)."
+      "तांके चरनों की श्रद्धा से सेवा करूँ सदाई रे ।",
+      "झौड़ पाऊँ सेज बिछाऊँ करहूँ चैंबर झुलाई रे ॥१ ॥"
     ],
     [
-      "तानके चरनोन कि शरदधा से सेवा करुन सदाि रे.",
-      "झौर पाुन सेज बिचहाुन करहुन चैनबर झुलाि रे.1 ||"
+      "तांकी आज्ञा माहिं चलूँ मैं मेटूं नाहिं रजाई रे ।",
+      "तन मन धन की भेटा देवों भूलूं नाहिं भलाई रे ॥२ ॥"
     ],
     [
-      "तानकि ाजनया माहिन चलुन मैं मेतुन नाहिन रजाि रे.",
-      "तन मन धन कि भेता देवोन भुलुन नाहिन भलाि रे || 2 ||"
-    ],
-    [
-      "राम दरश हित मग देखत हुन रैन दिवस बिललाि रे.",
-      "कहे तेऊँ जो दरश करावे तान पर मैं बलि जाि रे || 3 ||"
+      "राम दरश हित मग देखत हूं रैन दिवस बिललाई रे ।",
+      "कहे टेऊँ जो दरश करावे तां पर मैं बलि जाई रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Joi Raam Milaave Mujhko Is Avsar Men Bhaai Re.",
-      "Taanke Upar Sarvasv Vaare Pujun Main Chitt Laai Re (Tek)."
-    ],
-    [
       "Taanke Charnon Ki Shraddhaa Se Sevaa Karun Sadaai Re.",
-      "Jhaur Paaun Sej Bichhaaun Karhun Chainbar Jhulaai Re.1 ||"
+      "Jhaur Paaun Sej Bichhaaun Karhun Chainbar Jhulaai Re || 1 ||"
     ],
     [
       "Taanki Aajnyaa Maahin Chalun Main Metun Naahin Rajaai Re.",
@@ -42,18 +80,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 7 || 19 ||.",
+    "जोई राम मिलावे मुझको इस अवसर में भाई रे",
     "Joi Raam Milaave Mujhko Is Avsar Men Bhaai Re",
-    "जोि राम मिलावे मुझको िस वसर मेन भाि रे"
+    "राग रामकली भजन 7",
+    "Raag Raamkali Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 19,
+  "displayOrder": 7,
+  "overallOrder": 19,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 35",
+  "updatedAt": "2026-10-26"
 }

@@ -1,66 +1,105 @@
 {
-  "id": "bhajan-0727",
+  "id": "bhajan-0725",
   "slug": "tum-raam-japo-nar-naari-hai-naam-japan-ki-vaari",
   "categoryId": "raag-pilaa",
-  "title": "तुम राम जपो नर नारि, है नाम जपन कि वारि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "तुम राम जपो नर नारी, है नाम जपन की वारी",
   "romanTitle": "Tum Raam Japo Nar Naari, Hai Naam Japan Ki Vaari",
   "firstLine": "Tum Raam Japo Nar Naari, Hai Naam Japan Ki Vaari (Tek).",
+  "heading": "।। राग पीला भजन ॥।। ५ ।। ७२७।।",
+  "tek": [
+    "तुम राम जपो नर नारी, है नाम जपन की वारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Raam Japo Nar Naari, Hai Naam Japan Ki Vaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम जपन हित यह तन पाया, राम जपे कर सफली काया ।",
+        "वेद कहत यों चारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Japan Hit Yah Tan Paayaa, Raam Jape Kar Saphli Kaayaa.",
+        "Ved Kahat Yon Chaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कलियुग में इक नाम अधारा, भव जल पार उतारनहारा ।",
+        "सन्तनि साख उच्चारी ॥? ॥",
+        "नाम पाप सब ताप निवारे, आदि अन्त है संग तुम्हारे ।",
+        "करे. सदा. रखवारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaliyug Men Ik Naam Adhaaraa, Bhav Jal Paar Utaarnahaaraa.",
+        "Santani Saakh Uchchaari || ? ||",
+        "Naam Paap Sab Taap Nivaare, Aadi Ant Hai Sang Tumhaare.",
+        "Kare. Sadaa. Rakhvaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ नित नाम जपीजे, नाम जपन में विलम्ब न कीजे ।",
+        "मानो. सीख हमारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nit Naam Japije, Naam Japan Men Vilamb Na Kije.",
+        "Maano. Sikh Hamaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम राम जपो नर नारि, है नाम जपन कि वारि (टेक)."
+      "राम जपन हित यह तन पाया, राम जपे कर सफली काया ।",
+      "वेद कहत यों चारी ॥१ ॥"
     ],
     [
-      "राम जपन हित यह तन पाया, राम जपे कर सफलि काया.",
-      "वेद कहत योन चारि. || 1 ||."
+      "कलियुग में इक नाम अधारा, भव जल पार उतारनहारा ।",
+      "सन्तनि साख उच्चारी ॥? ॥",
+      "नाम पाप सब ताप निवारे, आदि अन्त है संग तुम्हारे ।",
+      "करे. सदा. रखवारी ॥३ ॥"
     ],
     [
-      "कलियुग मेन िक नाम धारा, भव जल पार ुतारनहारा.",
-      "सनतनि साख ुचचारि ||? ||"
-    ],
-    [
-      "नाम पाप सब ताप निवारे, ादि नत है सनग तुमहारे.",
-      "करे. सदा. रखवारि || 3 ||."
-    ],
-    [
-      "कहे तेऊँ नित नाम जपिजे, नाम जपन मेन विलमब न किजे.",
-      "मानो. सिख हमारि || 4 ||"
+      "कहे टेऊँ नित नाम जपीजे, नाम जपन में विलम्ब न कीजे ।",
+      "मानो. सीख हमारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Raam Japo Nar Naari, Hai Naam Japan Ki Vaari (Tek)."
-    ],
-    [
       "Raam Japan Hit Yah Tan Paayaa, Raam Jape Kar Saphli Kaayaa.",
-      "Ved Kahat Yon Chaari. || 1 ||."
+      "Ved Kahat Yon Chaari || 1 ||"
     ],
     [
       "Kaliyug Men Ik Naam Adhaaraa, Bhav Jal Paar Utaarnahaaraa.",
-      "Santani Saakh Uchchaari ||? ||"
-    ],
-    [
+      "Santani Saakh Uchchaari || ? ||",
       "Naam Paap Sab Taap Nivaare, Aadi Ant Hai Sang Tumhaare.",
-      "Kare. Sadaa. Rakhvaari || 3 ||."
+      "Kare. Sadaa. Rakhvaari || 3 ||"
     ],
     [
-      "Kahe Teun Nit Naam Japije, Naam Japan Men Vilamb N Kije.",
+      "Kahe Teun Nit Naam Japije, Naam Japan Men Vilamb Na Kije.",
       "Maano. Sikh Hamaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || || 5 || 727 ||",
+    "तुम राम जपो नर नारी, है नाम जपन की वारी",
     "Tum Raam Japo Nar Naari, Hai Naam Japan Ki Vaari",
-    "तुम राम जपो नर नारि, है नाम जपन कि वारि"
+    "राग पीला भजन 4",
+    "Raag Pilaa Bhajan 4"
   ],
   "tags": [
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 727,
+  "displayOrder": 4,
+  "overallOrder": 725,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 386",
+  "updatedAt": "2026-10-26"
 }

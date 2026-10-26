@@ -2,53 +2,99 @@
   "id": "bhajan-0418",
   "slug": "sadguru-ke-sang-jaag-jijnyaasu-gaao-govind-git-saiyaan",
   "categoryId": "raag-tilang",
-  "title": "सद्गुरु के सनग जाग जिजनयासु, गाो गोविंद गित सैयान",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सद्‌गुरु के संग जाग जिज्ञासू, गाओ गोविन्द गीत सैयां",
   "romanTitle": "Sad‌Guru Ke Sang Jaag Jijnyaasu, Gaao Govind Git Saiyaan",
   "firstLine": "Sad‌Guru Ke Sang Jaag Jijnyaasu, Gaao Govind Git Saiyaan (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५५ ।। ४१९।।",
+  "tek": [
+    "सद्‌गुरु के संग जाग जिज्ञासू, गाओ गोविन्द गीत सैयां ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Ke Sang Jaag Jijnyaasu, Gaao Govind Git Saiyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु के संग कर अभ्यासा, पाओ मन पर जीत सैयां ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ke Sang Kar Abhyaasaa, Paao Man Par Jit Saiyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सद्‌गुरु के संग सत्य वचन सुन, धारो मन प्रतीत सैयां ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ke Sang Saty Vachan Sun, Dhaaro Man Pratit Saiyaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्‌गुरु के संग पाये ज्ञाना, तोड़ो भ्रमन भीत सैयां ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ke Sang Paaye Jnyaanaa, Toro Bhraman Bhit Saiyaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सद्गुरु के संग, सीखो सुमरन रीत सैयां ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sadguru Ke Sang, Sikho Sumran Rit Saiyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु के सनग जाग जिजनयासु, गाो गोविंद गित सैयान (टेक)."
+      "सद्‌गुरु के संग कर अभ्यासा, पाओ मन पर जीत सैयां ॥१ ॥"
     ],
     [
-      "सद्गुरु के सनग कर भयासा, पाो मन पर जित सैयान.1 ||.",
-      "सद्गुरु के सनग सतय वचन सुन, धारो मन परतित सैयान || 2 ||."
+      "सद्‌गुरु के संग सत्य वचन सुन, धारो मन प्रतीत सैयां ॥२ ॥"
     ],
     [
-      "सद्गुरु के सनग पाये जनयाना, तोरो भरमन भित सैयान || 3 ||"
+      "सद्‌गुरु के संग पाये ज्ञाना, तोड़ो भ्रमन भीत सैयां ॥३ ॥"
     ],
     [
-      "कहता तेऊँ सद्गुरु के सनग, सिखो सुमरन रित सैयान || 4. ||."
+      "कहता टेऊँ सद्गुरु के संग, सीखो सुमरन रीत सैयां ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Ke Sang Jaag Jijnyaasu, Gaao Govind Git Saiyaan (Tek)."
+      "Sad‌Guru Ke Sang Kar Abhyaasaa, Paao Man Par Jit Saiyaan || 1 ||"
     ],
     [
-      "Sad‌Guru Ke Sang Kar Abhyaasaa, Paao Man Par Jit Saiyaan.1 ||.",
-      "Sad‌Guru Ke Sang Saty Vachan Sun, Dhaaro Man Pratit Saiyaan || 2 ||."
+      "Sad‌Guru Ke Sang Saty Vachan Sun, Dhaaro Man Pratit Saiyaan || 2 ||"
     ],
     [
       "Sad‌Guru Ke Sang Paaye Jnyaanaa, Toro Bhraman Bhit Saiyaan || 3 ||"
     ],
     [
-      "Kahtaa Teun Sadguru Ke Sang, Sikho Sumran Rit Saiyaan || 4. ||."
+      "Kahtaa Teun Sadguru Ke Sang, Sikho Sumran Rit Saiyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 55 || 419 ||",
+    "सद्‌गुरु के संग जाग जिज्ञासू, गाओ गोविन्द गीत सैयां",
     "Sad‌Guru Ke Sang Jaag Jijnyaasu, Gaao Govind Git Saiyaan",
-    "सद्गुरु के सनग जाग जिजनयासु, गाो गोविंद गित सैयान"
+    "राग तिलंग भजन 55",
+    "Raag Tilang Bhajan 55"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 418,
+  "displayOrder": 55,
+  "overallOrder": 418,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 241",
+  "updatedAt": "2026-10-26"
 }

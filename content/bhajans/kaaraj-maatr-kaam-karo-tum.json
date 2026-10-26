@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0493",
+  "id": "bhajan-0492",
   "slug": "kaaraj-maatr-kaam-karo-tum",
   "categoryId": "raag-kohiyaari",
-  "title": "कारज मातर काम करो तुम",
-  "romanTitle": "Kaaraj Maatr Kaam Karo Tum",
-  "firstLine": "Kaaraj Maatr Kaam Karo Tum, Man Se Lobh Hataao, Aanand Paao (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "कारज मात्र काम करो तुम,",
+  "romanTitle": "Kaaraj Maatr Kaam Karo Tum,",
+  "firstLine": "Kaaraj Maatr Kaam Karo Tum,",
+  "heading": "।। राग कोह्मारी भजन ।। १३ ।। ४९३।।",
+  "tek": [
+    "कारज मात्र काम करो तुम,",
+    "मन से लोभ हटाओ, आनन्द पाओ ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Kaaraj Maatr Kaam Karo Tum,",
+    "Man Se Lobh Hataao, Aanand Paao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नेम प्रेम से सत्संग जाकर,",
+        "सन्तनि सेव कमाओ, आनन्द पाओ ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nem Prem Se Satsang Jaakar,",
+        "Santani Sev Kamaao, Aanand Paao || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भाव भक्ति को हृदय धारे,",
+        "गोविन्द के गुन गाओ, आनन्द पाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhaav Bhakti Ko Hriday Dhaare,",
+        "Govind Ke Gun Gaao, Aanand Paao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांचों इन्द्रिय वश में करके,",
+        "पांच क्लेश नसाओ, आनन्द पाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanchon Indriy Vash Men Karke,",
+        "Paanch Klesh Nasaao, Aanand Paao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान पायके,",
+        "आवागमन मिटाओ, आनन्द पाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Paayke,",
+        "Aavaagman Mitaao, Aanand Paao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कारज मातर काम करो तुम,",
-      "मन से लोभ हताो, आनंद पाो (टेक)."
-    ],
-    [
       "नेम प्रेम से सत्संग जाकर,",
-      "सनतनि सेव कमाो, आनंद पाो || 8₹ ||"
+      "सन्तनि सेव कमाओ, आनन्द पाओ ॥8 ॥१ ॥"
     ],
     [
-      "भाव भक्ति को हरिदय धारे,",
-      "गोविंद के गुन गाो, आनंद पाो || 2 ||"
+      "भाव भक्ति को हृदय धारे,",
+      "गोविन्द के गुन गाओ, आनन्द पाओ ॥२ ॥"
     ],
     [
-      "पानचोन िनदरिय वश मेन करके,",
-      "पानच कलेश नसाो, आनंद पाो || 3े ||"
+      "पांचों इन्द्रिय वश में करके,",
+      "पांच क्लेश नसाओ, आनन्द पाओ ॥३ ॥"
     ],
     [
-      "कहे तेऊँ गुरु ज्ञान पायके,",
-      "ावागमन मिताो, आनंद पाो || 4 ||"
+      "कहे टेऊँ गुरु ज्ञान पायके,",
+      "आवागमन मिटाओ, आनन्द पाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaaraj Maatr Kaam Karo Tum,",
-      "Man Se Lobh Hataao, Aanand Paao (Tek)."
-    ],
-    [
       "Nem Prem Se Satsang Jaakar,",
-      "Santani Sev Kamaao, Aanand Paao || 8₹ ||"
+      "Santani Sev Kamaao, Aanand Paao || 8 || 1 ||"
     ],
     [
       "Bhaav Bhakti Ko Hriday Dhaare,",
@@ -42,26 +91,28 @@
     ],
     [
       "Paanchon Indriy Vash Men Karke,",
-      "Paanch Klesh Nasaao, Aanand Paao || 3E ||"
+      "Paanch Klesh Nasaao, Aanand Paao || 3 ||"
     ],
     [
-      "Kahe Teun Guru Jnyaan Paayke,",
+      "Kahe Teun Guru Gyaan Paayke,",
       "Aavaagman Mitaao, Aanand Paao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 13 || 493 ||",
-    "Kaaraj Maatr Kaam Karo Tum",
-    "कारज मातर काम करो तुम"
+    "कारज मात्र काम करो तुम,",
+    "Kaaraj Maatr Kaam Karo Tum,",
+    "राग कोहियारी भजन 13",
+    "Raag Kohiyaari Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 493,
+  "displayOrder": 13,
+  "overallOrder": 492,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 275",
+  "updatedAt": "2026-10-26"
 }

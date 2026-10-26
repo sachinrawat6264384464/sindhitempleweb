@@ -1,68 +1,118 @@
 {
   "id": "bhajan-0228",
   "slug": "sadguru-jaisaa-daataa-daani-koi-aur-nahin",
-  "categoryId": "raag-bhairav",
-  "title": "सद्गुरु जैसा दाता दानि कोि ौर नहिन",
-  "romanTitle": "Sadguru Jaisaa Daataa Daani Koi Aur Nahin",
-  "firstLine": "Sadguru Jaisaa Daataa Daani Koi Aur Nahin, Sad‌Guru Jaisaa Brahmajnyaani Koi Aur Nahin (Tek).",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सद्गुरु जैसा दाता दानी कोई और नहीं,",
+  "romanTitle": "Sadguru Jaisaa Daataa Daani Koi Aur Nahin,",
+  "firstLine": "Sadguru Jaisaa Daataa Daani Koi Aur Nahin,",
+  "heading": "।। राग भैरवी भजन ।। १३ ।। २२८॥।",
+  "tek": [
+    "सद्गुरु जैसा दाता दानी कोई और नहीं,",
+    "सद्‌गुरु जैसा ब्रह्मज्ञानी कोई और नहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sadguru Jaisaa Daataa Daani Koi Aur Nahin,",
+    "Sad‌Guru Jaisaa Brahmajnyaani Koi Aur Nahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और शाह सब कूड़ा काचा, साचा सद्‌गुरु दे धन साचा ।",
+        "सद्‌गुरु जैसा शाह गुणखानी कोई और नहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Shaah Sab Kuraa Kaachaa, Saachaa Sad‌Guru De Dhan Saachaa.",
+        "Sad‌Guru Jaisaa Shaah Gunkhaani Koi Aur Nahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सद्‌गुरु ऐसा ध्यान लगाता, देख इन्द्र तांको डर पाता ।",
+        "सदूगुरु जैसा अविचल ध्यानी कोई और नहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Aisaa Dhyaan Lagaataa, Dekh Indr Taanko Dar Paataa.",
+        "Saduguru Jaisaa Avichal Dhyaani Koi Aur Nahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्गुरु चढ़के ज्ञान विमाना, सैर करत बेगम स्थाना ।",
+        "सदूगुरु जैसा जग सैलानी कोई और नहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadguru Charhke Gyaan Vimaanaa, Sair Karat Begam Sthaanaa.",
+        "Saduguru Jaisaa Jag Sailaani Koi Aur Nahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सद्‌गुरु सो१हं तीर चलाता, कहे टेऊँ मन मार गिराता ।",
+        "सदूगुरु जैसा वीर विज्ञानी कोई और नहीं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru So1Han Tir Chalaataa, Kahe Teun Man Maar Giraataa.",
+        "Saduguru Jaisaa Vir Vijnyaani Koi Aur Nahin || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु जैसा दाता दानि कोि ौर नहिन,",
-      "सद्गुरु जैसा बरहमजनयानि कोि ौर नहिन (टेक)."
+      "और शाह सब कूड़ा काचा, साचा सद्‌गुरु दे धन साचा ।",
+      "सद्‌गुरु जैसा शाह गुणखानी कोई और नहीं ॥१ ॥"
     ],
     [
-      "ौर शाह सब कुरा काचा, साचा सद्गुरु दे धन साचा.",
-      "सद्गुरु जैसा शाह गुनखानि कोि ौर नहिन.1 ||."
+      "सद्‌गुरु ऐसा ध्यान लगाता, देख इन्द्र तांको डर पाता ।",
+      "सदूगुरु जैसा अविचल ध्यानी कोई और नहीं ॥२ ॥"
     ],
     [
-      "सद्गुरु ैसा ध्यान लगाता, देख िनदर तानको दर पाता.",
-      "सदुगुरु जैसा विचल धयानि कोि ौर नहिन || 2 ||"
+      "सद्गुरु चढ़के ज्ञान विमाना, सैर करत बेगम स्थाना ।",
+      "सदूगुरु जैसा जग सैलानी कोई और नहीं ॥३ ॥"
     ],
     [
-      "सद्गुरु चरहके ज्ञान विमाना, सैर करत बेगम सथाना.",
-      "सदुगुरु जैसा जग सैलानि कोि ौर नहिन ||.3 ||."
-    ],
-    [
-      "सद्गुरु सोहन तिर चलाता, कहे तेऊँ मन मार गिराता.",
-      "सदुगुरु जैसा विर विजनयानि कोि ौर नहिन || 4. ||."
+      "सद्‌गुरु सो१हं तीर चलाता, कहे टेऊँ मन मार गिराता ।",
+      "सदूगुरु जैसा वीर विज्ञानी कोई और नहीं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sadguru Jaisaa Daataa Daani Koi Aur Nahin,",
-      "Sad‌Guru Jaisaa Brahmajnyaani Koi Aur Nahin (Tek)."
-    ],
-    [
       "Aur Shaah Sab Kuraa Kaachaa, Saachaa Sad‌Guru De Dhan Saachaa.",
-      "Sad‌Guru Jaisaa Shaah Gunkhaani Koi Aur Nahin.1 ||."
+      "Sad‌Guru Jaisaa Shaah Gunkhaani Koi Aur Nahin || 1 ||"
     ],
     [
       "Sad‌Guru Aisaa Dhyaan Lagaataa, Dekh Indr Taanko Dar Paataa.",
       "Saduguru Jaisaa Avichal Dhyaani Koi Aur Nahin || 2 ||"
     ],
     [
-      "Sadguru Charhke Jnyaan Vimaanaa, Sair Karat Begam Sthaanaa.",
-      "Saduguru Jaisaa Jag Sailaani Koi Aur Nahin ||.3 ||."
+      "Sadguru Charhke Gyaan Vimaanaa, Sair Karat Begam Sthaanaa.",
+      "Saduguru Jaisaa Jag Sailaani Koi Aur Nahin || 3 ||"
     ],
     [
-      "Sad‌Guru So$Han Tir Chalaataa, Kahe Teun Man Maar Giraataa.",
-      "Saduguru Jaisaa Vir Vijnyaani Koi Aur Nahin || 4. ||."
+      "Sad‌Guru So1Han Tir Chalaataa, Kahe Teun Man Maar Giraataa.",
+      "Saduguru Jaisaa Vir Vijnyaani Koi Aur Nahin || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 13 || 228 ||.",
-    "Sadguru Jaisaa Daataa Daani Koi Aur Nahin",
-    "सद्गुरु जैसा दाता दानि कोि ौर नहिन"
+    "सद्गुरु जैसा दाता दानी कोई और नहीं,",
+    "Sadguru Jaisaa Daataa Daani Koi Aur Nahin,",
+    "राग भैरवी भजन 13",
+    "Raag Bhairvi Bhajan 13"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 228,
+  "displayOrder": 13,
+  "overallOrder": 228,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 143",
+  "updatedAt": "2026-10-26"
 }

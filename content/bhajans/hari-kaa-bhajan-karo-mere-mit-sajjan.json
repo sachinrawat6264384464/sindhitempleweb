@@ -1,91 +1,134 @@
 {
-  "id": "bhajan-0796",
+  "id": "bhajan-0794",
   "slug": "hari-kaa-bhajan-karo-mere-mit-sajjan",
   "categoryId": "raag-pilaa",
-  "title": "हरि का भजन करो मेरे मित सजजन",
-  "romanTitle": "Hari Kaa Bhajan Karo Mere Mit Sajjan",
-  "firstLine": "Hari Kaa Bhajan Karo Mere Mit Sajjan, Gaao Govind Ke Tum Git Sajjan (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "हरि का भजन करो मेरे मीत सज्जन,",
+  "romanTitle": "Hari Kaa Bhajan Karo Mere Mit Sajjan,",
+  "firstLine": "Hari Kaa Bhajan Karo Mere Mit Sajjan,",
+  "heading": "।। राग पीला भजन ।। ७४ ।। ७९६।।",
+  "tek": [
+    "हरि का भजन करो मेरे मीत सज्जन,",
+    "गाओ गोविन्द के तुम गीत सज्जन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Kaa Bhajan Karo Mere Mit Sajjan,",
+    "Gaao Govind Ke Tum Git Sajjan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "उलट लटकत गर्भ में जब, दूख लागा भारियां ।",
+        "बोल दीना तब हरी को, याद कर सो प्यारियां ।",
+        "राखो राम नाम में चीत सज्जन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ulat Latkat Garbh Men Jab, Dukh Laagaa Bhaariyaan.",
+        "Bol Dinaa Tab Hari Ko, Yaad Kar So Pyaariyaan.",
+        "Raakho Raam Naam Men Chit Sajjan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शब्द स्पर्श रूप रस पुनि, गन्ध से मन मोड़िये ।",
+        "इन्द्रियिगण को दमन कर तुम, सत्‌ कर्म में जोड़िये ।",
+        "अपने मन पर पाओ जीत सज्जन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shabd Sparsh Rup Ras Puni, Gandh Se Man Moriye.",
+        "Indriyigan Ko Daman Kar Tum, Sat‌ Karm Men Joriye.",
+        "Apne Man Par Paao Jit Sajjan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काम आदिक पांच वैरी, ताहिं मार हटाइये ।",
+        "जगत के फुरने सर्व जे, तुरत ताहिं मिटाइये ।",
+        "सुमरो शब्द गुरू का नीत सज्जन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaam Aadik Paanch Vairi, Taahin Maar Hataaiye.",
+        "Jagat Ke Phurne Sarv Je, Turat Taahin Mitaaiye.",
+        "Sumro Shabd Guru Kaa Nit Sajjan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ आतमा का, ज्ञान गुरु से लीजिये ।",
+        "मनन कर एकान्त में, आनन्द अमृत पीजिये ।",
+        "राखो गुरु चरणों से प्रीत सज्जन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Aatmaa Kaa, Gyaan Guru Se Lijiye.",
+        "Manan Kar Ekaant Men, Aanand Amrit Pijiye.",
+        "Raakho Guru Charnon Se Prit Sajjan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि का भजन करो मेरे मित सजजन,",
-      "गाो गोविंद के तुम गित सजजन (टेक)."
+      "उलट लटकत गर्भ में जब, दूख लागा भारियां ।",
+      "बोल दीना तब हरी को, याद कर सो प्यारियां ।",
+      "राखो राम नाम में चीत सज्जन ॥१ ॥"
     ],
     [
-      "ुलत लतकत गरभ मेन जब, दुःख लागा भारियान.",
-      "बोल दिना तब हरि को, याद कर सो पयारियान."
+      "शब्द स्पर्श रूप रस पुनि, गन्ध से मन मोड़िये ।",
+      "इन्द्रियिगण को दमन कर तुम, सत्‌ कर्म में जोड़िये ।",
+      "अपने मन पर पाओ जीत सज्जन ॥२ ॥"
     ],
     [
-      "राखो राम नाम मेन चित सजजन || 1 ||"
+      "काम आदिक पांच वैरी, ताहिं मार हटाइये ।",
+      "जगत के फुरने सर्व जे, तुरत ताहिं मिटाइये ।",
+      "सुमरो शब्द गुरू का नीत सज्जन ॥३ ॥"
     ],
     [
-      "शबद सपरश रुप रस पुनि, गनध से मन मोरिये.",
-      "िनदरियिगन को दमन कर तुम, सत‌ करम मेन जोरिये."
-    ],
-    [
-      "पने मन पर पाो जित सजजन || 2 ||"
-    ],
-    [
-      "काम ादिक पानच वैरि, ताहिन मार हतािये.",
-      "जगत के फुरने सर्व जे, तुरत ताहिन मितािये."
-    ],
-    [
-      "सुमरो शबद गुरु का नित सजजन || 3 ||."
-    ],
-    [
-      "कहत तेऊँ ातमा का, ज्ञान गुरु से लिजिये.",
-      "मनन कर ेकानत मेन, आनंद अमृत पिजिये."
-    ],
-    [
-      "राखो गुरु चरनोन से परित सजजन ||.4 ||"
+      "कहत टेऊँ आतमा का, ज्ञान गुरु से लीजिये ।",
+      "मनन कर एकान्त में, आनन्द अमृत पीजिये ।",
+      "राखो गुरु चरणों से प्रीत सज्जन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Kaa Bhajan Karo Mere Mit Sajjan,",
-      "Gaao Govind Ke Tum Git Sajjan (Tek)."
-    ],
-    [
       "Ulat Latkat Garbh Men Jab, Dukh Laagaa Bhaariyaan.",
-      "Bol Dinaa Tab Hari Ko, Yaad Kar So Pyaariyaan."
-    ],
-    [
+      "Bol Dinaa Tab Hari Ko, Yaad Kar So Pyaariyaan.",
       "Raakho Raam Naam Men Chit Sajjan || 1 ||"
     ],
     [
       "Shabd Sparsh Rup Ras Puni, Gandh Se Man Moriye.",
-      "Indriyigan Ko Daman Kar Tum, Sat‌ Karm Men Joriye."
-    ],
-    [
+      "Indriyigan Ko Daman Kar Tum, Sat‌ Karm Men Joriye.",
       "Apne Man Par Paao Jit Sajjan || 2 ||"
     ],
     [
       "Kaam Aadik Paanch Vairi, Taahin Maar Hataaiye.",
-      "Jagat Ke Phurne Sarv Je, Turat Taahin Mitaaiye."
+      "Jagat Ke Phurne Sarv Je, Turat Taahin Mitaaiye.",
+      "Sumro Shabd Guru Kaa Nit Sajjan || 3 ||"
     ],
     [
-      "Sumro Shabd Guru Kaa Nit Sajjan || 3 ||."
-    ],
-    [
-      "Kahat Teun Aatmaa Kaa, Jnyaan Guru Se Lijiye.",
-      "Manan Kar Ekaant Men, Aanand Amrit Pijiye."
-    ],
-    [
-      "Raakho Guru Charnon Se Prit Sajjan ||.4 ||"
+      "Kahat Teun Aatmaa Kaa, Gyaan Guru Se Lijiye.",
+      "Manan Kar Ekaant Men, Aanand Amrit Pijiye.",
+      "Raakho Guru Charnon Se Prit Sajjan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 74 || 796 ||",
-    "Hari Kaa Bhajan Karo Mere Mit Sajjan",
-    "हरि का भजन करो मेरे मित सजजन"
+    "हरि का भजन करो मेरे मीत सज्जन,",
+    "Hari Kaa Bhajan Karo Mere Mit Sajjan,",
+    "राग पीला भजन 73",
+    "Raag Pilaa Bhajan 73"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 796,
+  "displayOrder": 73,
+  "overallOrder": 794,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 421",
+  "updatedAt": "2026-10-26"
 }

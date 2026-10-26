@@ -2,44 +2,102 @@
   "id": "bhajan-0090",
   "slug": "re-man-aatm-kaa-dhar-dhyaan",
   "categoryId": "raag-aasaa",
-  "title": "रे मन ातम का धर ध्यान",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "रे मन आत्म का धर ध्यान",
   "romanTitle": "Re Man Aatm Kaa Dhar Dhyaan",
   "firstLine": "Re Man Aatm Kaa Dhar Dhyaan (Tek).",
+  "heading": "।। राग आसा भजन ।। २८ ।। ९०।।",
+  "tek": [
+    "रे मन आत्म का धर ध्यान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Aatm Kaa Dhar Dhyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन का झूठा भ्रम निवारे, अपने दिल में डुबकी मारे ।",
+        "देखो श्री भगवान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Kaa Jhuthaa Bhram Nivaare, Apne Dil Men Dubki Maare.",
+        "Dekho Shri Bhagvaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पांचों की तुम प्रीती हरले, पांचों को निज वश में करले ।",
+        "गुरु से लेके ज्ञान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paanchon Ki Tum Priti Harle, Paanchon Ko Nij Vash Men Karle.",
+        "Guru Se Leke Gyaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बैठ अकेला चिन्तन करिये, मन के सारे फुरने हरिये ।",
+        "अपना आप पछान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Baith Akelaa Chintan Kariye, Man Ke Saare Phurne Hariye.",
+        "Apnaa Aap Pachhaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब संसा तोड़े, निज आत्म में वृत्ती जोड़े ।",
+        "पाओ पद निर्बान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Sansaa Tore, Nij Aatm Men Vritti Jore.",
+        "Paao Pad Nirbaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग्रह"
+      ],
+      "romanLines": [
+        "Grah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन ातम का धर ध्यान (टेक)."
+      "तन का झूठा भ्रम निवारे, अपने दिल में डुबकी मारे ।",
+      "देखो श्री भगवान ॥१ ॥"
     ],
     [
-      "तन का झुथा भरम निवारे, पने दिल मेन दुबकि मारे.",
-      "देखो श्री भगवान || 1 ||"
+      "पांचों की तुम प्रीती हरले, पांचों को निज वश में करले ।",
+      "गुरु से लेके ज्ञान ॥२ ॥"
     ],
     [
-      "पानचोन कि तुम परिति हरले, पानचोन को निज वश मेन करले.",
-      "गुरु से लेके ज्ञान || 2 ||"
+      "बैठ अकेला चिन्तन करिये, मन के सारे फुरने हरिये ।",
+      "अपना आप पछान ॥३ ॥"
     ],
     [
-      "बैथ केला चिनतन करिये, मन के सारे फुरने हरिये.",
-      "पना ाप पचहान || 3 ||"
+      "कहे टेऊँ सब संसा तोड़े, निज आत्म में वृत्ती जोड़े ।",
+      "पाओ पद निर्बान ॥४ ॥"
     ],
     [
-      "कहे तेऊँ सब सनसा तोरे, निज ातम मेन वरितति जोरे.",
-      "पाो पद निरबान || 4 ||"
-    ],
-    [
-      "गरह"
+      "ग्रह"
     ]
   ],
   "romanLyrics": [
-    [
-      "Re Man Aatm Kaa Dhar Dhyaan (Tek)."
-    ],
     [
       "Tan Kaa Jhuthaa Bhram Nivaare, Apne Dil Men Dubki Maare.",
       "Dekho Shri Bhagvaan || 1 ||"
     ],
     [
       "Paanchon Ki Tum Priti Harle, Paanchon Ko Nij Vash Men Karle.",
-      "Guru Se Leke Jnyaan || 2 ||"
+      "Guru Se Leke Gyaan || 2 ||"
     ],
     [
       "Baith Akelaa Chintan Kariye, Man Ke Saare Phurne Hariye.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 28 || 90 ||",
+    "रे मन आत्म का धर ध्यान",
     "Re Man Aatm Kaa Dhar Dhyaan",
-    "रे मन ातम का धर ध्यान"
+    "राग आसा भजन 28",
+    "Raag Aasaa Bhajan 28"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 90,
+  "displayOrder": 28,
+  "overallOrder": 90,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 70",
+  "updatedAt": "2026-10-26"
 }

@@ -2,43 +2,92 @@
   "id": "bhajan-0324",
   "slug": "hari-sumre-nij-kalyaan-karo",
   "categoryId": "raag-zilaa",
-  "title": "हरि सुमरे निज कलयान करो",
-  "romanTitle": "Hari Sumre Nij Kalyaan Karo",
-  "firstLine": "Hari Sumre Nij Kalyaan Karo, Hari Sumran Bin Nistaar Nahin (Tek).",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "हरि सुमरे निज कल्याण करो,",
+  "romanTitle": "Hari Sumre Nij Kalyaan Karo,",
+  "firstLine": "Hari Sumre Nij Kalyaan Karo,",
+  "heading": "।। राग ज़िला भजन ।। ११ ।। ३२४।।",
+  "tek": [
+    "हरि सुमरे निज कल्याण करो,",
+    "हरि सुमरण बिन निस्तार नहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Sumre Nij Kalyaan Karo,",
+    "Hari Sumran Bin Nistaar Nahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भक्त प्रहलाद ने सुमरण कीया, सर्व कुटुम्ब को उबार लीया ।",
+        "सुमरण कर भया जनक ज्ञानी , सुमरण बिन छुटकार नहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhakt Prahlaad Ne Sumran Kiyaa, Sarv Kutumb Ko Ubaar Liyaa.",
+        "Sumran Kar Bhayaa Janak Jnyaani, Sumran Bin Chhutkaar Nahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुमरण व्यास पुत्र ने कीना, भगवत रस में अहनिश भीना ।",
+        "भूप परी क्षित नाम सुमरिया, सुमरण बिन जयकार नहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sumran Vyaas Putr Ne Kinaa, Bhagvat Ras Men Ahnish Bhinaa.",
+        "Bhup Pari Kshit Naam Sumriyaa, Sumran Bin Jaykaar Nahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वालमीक सुमरे हरि जोया, तीन काल का ज्ञाता होया ।",
+        "नारद सुमरे दर्शन पाया, सुमरण बिन दीदार नहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vaalmik Sumre Hari Joyaa, Tin Kaal Kaa Jnyaataa Hoyaa.",
+        "Naarad Sumre Darshan Paayaa, Sumran Bin Didaar Nahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि सुमरण करके, बहुते तर गये बन्धन हरके ।",
+        "सुमरण से मन शान्ती पावत, सुमरण बिन सुख सार नहीं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Sumran Karke, Bahute Tar Gaye Bandhan Harke.",
+        "Sumran Se Man Shaanti Paavat, Sumran Bin Sukh Saar Nahin || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि सुमरे निज कलयान करो,",
-      "हरि सुमरन बिन निसतार नहिन (टेक)."
+      "भक्त प्रहलाद ने सुमरण कीया, सर्व कुटुम्ब को उबार लीया ।",
+      "सुमरण कर भया जनक ज्ञानी , सुमरण बिन छुटकार नहीं ॥१ ॥"
     ],
     [
-      "भकत परहलाद ने सुमरन किया, सर्व कुतुमब को ुबार लिया.",
-      "सुमरन कर भया जनक जनयानि, सुमरन बिन चहुतकार नहिन || 1 ||."
+      "सुमरण व्यास पुत्र ने कीना, भगवत रस में अहनिश भीना ।",
+      "भूप परी क्षित नाम सुमरिया, सुमरण बिन जयकार नहीं ॥२ ॥"
     ],
     [
-      "सुमरन वयास पुतर ने किना, भगवत रस मेन हनिश भिना.",
-      "भुप परि कशित नाम सुमरिया, सुमरन बिन जयकार नहिन || 2 ||."
+      "वालमीक सुमरे हरि जोया, तीन काल का ज्ञाता होया ।",
+      "नारद सुमरे दर्शन पाया, सुमरण बिन दीदार नहीं ॥३ ॥"
     ],
     [
-      "वालमिक सुमरे हरि जोया, तिन काल का जनयाता होया.",
-      "नारद सुमरे दरशन पाया, सुमरन बिन दिदार नहिन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि सुमरन करके, बहुते तर गये बनधन हरके.",
-      "सुमरन से मन शांति पावत, सुमरन बिन सुख सार नहिन || 4 ||"
+      "कहे टेऊँ हरि सुमरण करके, बहुते तर गये बन्धन हरके ।",
+      "सुमरण से मन शान्ती पावत, सुमरण बिन सुख सार नहीं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Sumre Nij Kalyaan Karo,",
-      "Hari Sumran Bin Nistaar Nahin (Tek)."
-    ],
-    [
       "Bhakt Prahlaad Ne Sumran Kiyaa, Sarv Kutumb Ko Ubaar Liyaa.",
-      "Sumran Kar Bhayaa Janak Jnyaani, Sumran Bin Chhutkaar Nahin || 1 ||."
+      "Sumran Kar Bhayaa Janak Jnyaani, Sumran Bin Chhutkaar Nahin || 1 ||"
     ],
     [
       "Sumran Vyaas Putr Ne Kinaa, Bhagvat Ras Men Ahnish Bhinaa.",
-      "Bhup Pari Kshit Naam Sumriyaa, Sumran Bin Jaykaar Nahin || 2 ||."
+      "Bhup Pari Kshit Naam Sumriyaa, Sumran Bin Jaykaar Nahin || 2 ||"
     ],
     [
       "Vaalmik Sumre Hari Joyaa, Tin Kaal Kaa Jnyaataa Hoyaa.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 11 || 324 ||",
-    "Hari Sumre Nij Kalyaan Karo",
-    "हरि सुमरे निज कलयान करो"
+    "हरि सुमरे निज कल्याण करो,",
+    "Hari Sumre Nij Kalyaan Karo,",
+    "राग ज़िला भजन 11",
+    "Raag Zilaa Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 324,
+  "displayOrder": 11,
+  "overallOrder": 324,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 194",
+  "updatedAt": "2026-10-26"
 }

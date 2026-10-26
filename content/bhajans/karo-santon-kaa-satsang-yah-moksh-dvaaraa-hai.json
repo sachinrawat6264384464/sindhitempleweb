@@ -1,57 +1,97 @@
 {
-  "id": "bhajan-0710",
+  "id": "bhajan-0708",
   "slug": "karo-santon-kaa-satsang-yah-moksh-dvaaraa-hai",
   "categoryId": "raag-pahaari",
-  "title": "करो सनतोन का सत्संग, यह मोक्ष दवारा है",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "करो सन्तों का सत्संग, यह मोक्ष द्वारा है",
   "romanTitle": "Karo Santon Kaa Satsang, Yah Moksh Dvaaraa Hai",
   "firstLine": "Karo Santon Kaa Satsang, Yah Moksh Dvaaraa Hai (Tek).",
+  "heading": "।। राग पहाड़ी भजन ॥। ६१ ।। ७०९॥।",
+  "tek": [
+    "करो सन्तों का सत्संग, यह मोक्ष द्वारा है ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Santon Kaa Satsang, Yah Moksh Dvaaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग के करने से, बहु पापी मुक्त होए ।",
+        "बालमीक सैन सधना, अजामेल उद्धारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Ke Karne Se, Bahu Paapi Mukt Hoe.",
+        "Baalmik Sain Sadhnaa, Ajaamel Uddhaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्संग में ज्ञान बढ़े, अज्ञान दूर होवे ।",
+        "सब तप्त हरे मन की, दे शान्ति भण्डारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Satsang Men Gyaan Barhe, Ajnyaan Dur Hove.",
+        "Sab Tapt Hare Man Ki, De Shaanti Bhandaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्तों की सच्ची शिक्षा , मुश्किल में काम आवे ।",
+        "कहे टेऊँ वचन येही, वेदों ने उचारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santon Ki Sachchi Shikshaa, Mushkil Men Kaam Aave.",
+        "Kahe Teun Vachan Yehi, Vedon Ne Uchaaraa Hai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सनतोन का सत्संग, यह मोक्ष दवारा है (टेक)."
+      "सत्संग के करने से, बहु पापी मुक्त होए ।",
+      "बालमीक सैन सधना, अजामेल उद्धारा है ॥१ ॥"
     ],
     [
-      "सत्संग के करने से, बहु पापि मुक्त होे.",
-      "बालमिक सैन सधना, जामेल ुदधारा है || 1 ||."
+      "सत्संग में ज्ञान बढ़े, अज्ञान दूर होवे ।",
+      "सब तप्त हरे मन की, दे शान्ति भण्डारा है ॥२ ॥"
     ],
     [
-      "सत्संग मेन ज्ञान बरहे, जनयान दुर होवे.",
-      "सब तपत हरे मन कि, दे शांति भनदारा है || 2 ||"
-    ],
-    [
-      "सनतोन कि सचचि शिकशा, मुशकिल मेन काम ावे.",
-      "कहे तेऊँ वचन येहि, वेदोन ने ुचारा है || 3 ||."
+      "सन्तों की सच्ची शिक्षा , मुश्किल में काम आवे ।",
+      "कहे टेऊँ वचन येही, वेदों ने उचारा है ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Santon Kaa Satsang, Yah Moksh Dvaaraa Hai (Tek)."
-    ],
-    [
       "Satsang Ke Karne Se, Bahu Paapi Mukt Hoe.",
-      "Baalmik Sain Sadhnaa, Ajaamel Uddhaaraa Hai || 1 ||."
+      "Baalmik Sain Sadhnaa, Ajaamel Uddhaaraa Hai || 1 ||"
     ],
     [
-      "Satsang Men Jnyaan Barhe, Ajnyaan Dur Hove.",
+      "Satsang Men Gyaan Barhe, Ajnyaan Dur Hove.",
       "Sab Tapt Hare Man Ki, De Shaanti Bhandaaraa Hai || 2 ||"
     ],
     [
       "Santon Ki Sachchi Shikshaa, Mushkil Men Kaam Aave.",
-      "Kahe Teun Vachan Yehi, Vedon Ne Uchaaraa Hai || 3 ||."
+      "Kahe Teun Vachan Yehi, Vedon Ne Uchaaraa Hai || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan ||. 61 || 709 ||.",
+    "करो सन्तों का सत्संग, यह मोक्ष द्वारा है",
     "Karo Santon Kaa Satsang, Yah Moksh Dvaaraa Hai",
-    "करो सनतोन का सत्संग, यह मोक्ष दवारा है"
+    "राग पहाड़ी भजन 61",
+    "Raag Pahaari Bhajan 61"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 710,
+  "displayOrder": 61,
+  "overallOrder": 708,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 377",
+  "updatedAt": "2026-10-26"
 }

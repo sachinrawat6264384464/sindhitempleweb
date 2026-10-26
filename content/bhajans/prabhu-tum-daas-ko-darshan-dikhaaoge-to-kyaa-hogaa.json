@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0674",
+  "id": "bhajan-0672",
   "slug": "prabhu-tum-daas-ko-darshan-dikhaaoge-to-kyaa-hogaa",
   "categoryId": "raag-pahaari",
-  "title": "प्रभु तुम दास को दरशन, दिखाोगे तो कया होगा",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "प्रभू तुम दास को दर्शन, दिखाओगे तो क्या होगा",
   "romanTitle": "Prabhu Tum Daas Ko Darshan, Dikhaaoge To Kyaa Hogaa",
-  "firstLine": "Prabhu Tum Daas Ko Darshan, Dikhaaoge To Kyaa Hogaa. Bhakti Gun Jnyaan Man Mere, Jagaaoge To Kyaa Hogaa (Tek).",
+  "firstLine": "Prabhu Tum Daas Ko Darshan, Dikhaaoge To Kyaa Hogaa.",
+  "heading": "।। राग पहाड़ी भजन ।। २५ ।। ६७३।।",
+  "tek": [
+    "प्रभू तुम दास को दर्शन, दिखाओगे तो क्या होगा ।",
+    "भक्ति गुण ज्ञान मन मेरे, जगाओगे तो क्या होगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Tum Daas Ko Darshan, Dikhaaoge To Kyaa Hogaa.",
+    "Bhakti Gun Gyaan Man Mere, Jagaaoge To Kyaa Hogaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कठिन संसार के बन में, पड़ा हूं भूल जन्मों से ।",
+        "दया कर दास को मार्ग, बताओगे तो क्या होगा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kathin Sansaar Ke Ban Men, Paraa Hun Bhul Janmon Se.",
+        "Dayaa Kar Daas Ko Maarg, Bataaoge To Kyaa Hogaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुखों के सिन्धु में स्वामिन्‌, पड़ा दिन रैन डूबत हूं ।",
+        "चढ़ा कर चरन की नौका, तराओगे तो क्या होगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dukhon Ke Sindhu Men Svaamin‌, Paraa Din Rain Dubat Hun.",
+        "Charhaa Kar Charan Ki Naukaa, Taraaoge To Kyaa Hogaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "विषय की वासना मन में, सताती है सदा मुझको ।",
+        "हरी वैराग दे उसको, हटाओगे तो क्या होगा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vishay Ki Vaasnaa Man Men, Sataati Hai Sadaa Mujhko.",
+        "Hari Vairaag De Usko, Hataaoge To Kyaa Hogaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ करूं भगवन्‌, तुम्हारा दरस आंखों से ।",
+        "यही अभिलाष हृदय की, पुजाओगे तो क्या होगा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Karun Bhagvan‌, Tumhaaraa Daras Aankhon Se.",
+        "Yahi Abhilaash Hriday Ki, Pujaaoge To Kyaa Hogaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु तुम दास को दरशन, दिखाोगे तो कया होगा.",
-      "भक्ति गुन ज्ञान मन मेरे, जगाोगे तो कया होगा (टेक)."
+      "कठिन संसार के बन में, पड़ा हूं भूल जन्मों से ।",
+      "दया कर दास को मार्ग, बताओगे तो क्या होगा ॥१ ॥"
     ],
     [
-      "कथिन सनसार के बन मेन, परा हुन भुल जनमोन से.",
-      "दया कर दास को मारग, बताोगे तो कया होगा.1 ||"
+      "दुखों के सिन्धु में स्वामिन्‌, पड़ा दिन रैन डूबत हूं ।",
+      "चढ़ा कर चरन की नौका, तराओगे तो क्या होगा ॥२ ॥"
     ],
     [
-      "दुखोन के सिनधु मेन सवामिन‌, परा दीन रैन दुबत हुन.",
-      "चरहा कर चरण कि नौका, तराोगे तो कया होगा || 2 ||."
+      "विषय की वासना मन में, सताती है सदा मुझको ।",
+      "हरी वैराग दे उसको, हटाओगे तो क्या होगा ॥३ ॥"
     ],
     [
-      "विशय कि वासना मन मेन, सताति है सदा मुझको.",
-      "हरि वैराग दे ुसको, हताोगे तो कया होगा ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ करुन भगवन‌, तुमहारा दरस ानखोन से.",
-      "यहि भिलाश हरिदय कि, पुजाोगे तो कया होगा || 4. ||."
+      "कहे टेऊँ करूं भगवन्‌, तुम्हारा दरस आंखों से ।",
+      "यही अभिलाष हृदय की, पुजाओगे तो क्या होगा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Tum Daas Ko Darshan, Dikhaaoge To Kyaa Hogaa.",
-      "Bhakti Gun Jnyaan Man Mere, Jagaaoge To Kyaa Hogaa (Tek)."
-    ],
-    [
       "Kathin Sansaar Ke Ban Men, Paraa Hun Bhul Janmon Se.",
-      "Dayaa Kar Daas Ko Maarg, Bataaoge To Kyaa Hogaa.1 ||"
+      "Dayaa Kar Daas Ko Maarg, Bataaoge To Kyaa Hogaa || 1 ||"
     ],
     [
       "Dukhon Ke Sindhu Men Svaamin‌, Paraa Din Rain Dubat Hun.",
-      "Charhaa Kar Charan Ki Naukaa, Taraaoge To Kyaa Hogaa || 2 ||."
+      "Charhaa Kar Charan Ki Naukaa, Taraaoge To Kyaa Hogaa || 2 ||"
     ],
     [
       "Vishay Ki Vaasnaa Man Men, Sataati Hai Sadaa Mujhko.",
-      "Hari Vairaag De Usko, Hataaoge To Kyaa Hogaa ||.3 ||."
+      "Hari Vairaag De Usko, Hataaoge To Kyaa Hogaa || 3 ||"
     ],
     [
       "Kahe Teun Karun Bhagvan‌, Tumhaaraa Daras Aankhon Se.",
-      "Yahi Abhilaash Hriday Ki, Pujaaoge To Kyaa Hogaa || 4. ||."
+      "Yahi Abhilaash Hriday Ki, Pujaaoge To Kyaa Hogaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 25 || 673 ||",
+    "प्रभू तुम दास को दर्शन, दिखाओगे तो क्या होगा",
     "Prabhu Tum Daas Ko Darshan, Dikhaaoge To Kyaa Hogaa",
-    "प्रभु तुम दास को दरशन, दिखाोगे तो कया होगा"
+    "राग पहाड़ी भजन 25",
+    "Raag Pahaari Bhajan 25"
   ],
   "tags": [
-    "prarthana",
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 674,
+  "displayOrder": 25,
+  "overallOrder": 672,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 358",
+  "updatedAt": "2026-10-26"
 }

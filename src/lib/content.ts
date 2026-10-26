@@ -60,22 +60,49 @@ export async function getAllBhajans(): Promise<Bhajan[]> {
 }
 
 /**
- * Get bhajan by slug
+ * Get bhajan by slug directly from file
  */
 export async function getBhajanBySlug(slug: string): Promise<Bhajan | null> {
+  const filePath = path.join(bhajansDirPath, `${slug}.json`);
+  if (fs.existsSync(filePath)) {
+    try {
+      const raw = fs.readFileSync(filePath, "utf-8");
+      return JSON.parse(raw) as Bhajan;
+    } catch (e) {
+      console.error(`Error reading bhajan file ${filePath}:`, e);
+    }
+  }
   const bhajans = await getAllBhajans();
   const found = bhajans.find((b) => b.slug === slug);
   return found || null;
 }
 
+// Category map cache
+let cachedCategoryBhajanMap: Map<string, Bhajan[]> | null = null;
+
 /**
  * Get all bhajans belonging to a specific category ID
  */
 export async function getBhajansByCategory(categoryId: string): Promise<Bhajan[]> {
+  if (cachedCategoryBhajanMap && cachedCategoryBhajanMap.has(categoryId)) {
+    return cachedCategoryBhajanMap.get(categoryId)!;
+  }
+
   const bhajans = await getAllBhajans();
-  return bhajans
-    .filter((b) => b.categoryId === categoryId)
-    .sort((a, b) => a.displayOrder - b.displayOrder);
+  if (!cachedCategoryBhajanMap) {
+    cachedCategoryBhajanMap = new Map();
+    for (const b of bhajans) {
+      if (!cachedCategoryBhajanMap.has(b.categoryId)) {
+        cachedCategoryBhajanMap.set(b.categoryId, []);
+      }
+      cachedCategoryBhajanMap.get(b.categoryId)!.push(b);
+    }
+    for (const list of cachedCategoryBhajanMap.values()) {
+      list.sort((a, b) => a.displayOrder - b.displayOrder);
+    }
+  }
+
+  return cachedCategoryBhajanMap.get(categoryId) || [];
 }
 
 /**
@@ -112,24 +139,12 @@ export async function getAdjacentBhajansInCategory(
 }
 
 /**
- * Get related bhajans sharing category or tags (excluding current)
+ * Get related bhajans sharing category (excluding current)
  */
 export async function getRelatedBhajans(currentBhajan: Bhajan, limit: number = 3): Promise<Bhajan[]> {
-  const allBhajans = await getAllBhajans();
-  const others = allBhajans.filter((b) => b.id !== currentBhajan.id);
-
-  const scored = others.map((other) => {
-    let score = 0;
-    if (other.categoryId === currentBhajan.categoryId) {
-      score += 3;
-    }
-    const sharedTags = other.tags.filter((t) => currentBhajan.tags.includes(t));
-    score += sharedTags.length * 2;
-    return { bhajan: other, score };
-  });
-
-  scored.sort((a, b) => b.score - a.score);
-  return scored.slice(0, limit).map((s) => s.bhajan);
+  const categoryBhajans = await getBhajansByCategory(currentBhajan.categoryId);
+  const others = categoryBhajans.filter((b) => b.id !== currentBhajan.id);
+  return others.slice(0, limit);
 }
 
 /**

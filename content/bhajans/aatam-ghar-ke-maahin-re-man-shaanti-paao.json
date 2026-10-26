@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0685",
+  "id": "bhajan-0683",
   "slug": "aatam-ghar-ke-maahin-re-man-shaanti-paao",
   "categoryId": "raag-pahaari",
-  "title": "ातम घर के माहिन, रे मन शांति पाो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "आतम घर के माहिं, रे मन शान्ती पाओ",
   "romanTitle": "Aatam Ghar Ke Maahin, Re Man Shaanti Paao",
   "firstLine": "Aatam Ghar Ke Maahin, Re Man Shaanti Paao (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ३६ ।। ६८४।।",
+  "tek": [
+    "आतम घर के माहिं, रे मन शान्ती पाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatam Ghar Ke Maahin, Re Man Shaanti Paao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो है आदी धाम तुम्हारा, सूर्य चन्द्र से अति उज्यारा ।",
+        "वृत्ति लगाओ ताहिं, कबहूं नाहिं भुलाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Hai Aadi Dhaam Tumhaaraa, Sury Chandr Se Ati Ujyaaraa.",
+        "Vritti Lagaao Taahin, Kabhun Naahin Bhulaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपने घर में सुख है जैसा, तीन लोक में ना सुख तैसा ।",
+        "इत उत भटको नाहिं, अपने घर में आओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Apne Ghar Men Sukh Hai Jaisaa, Tin Lok Men Naa Sukh Taisaa.",
+        "It Ut Bhatko Naahin, Apne Ghar Men Aao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बहुत जन्म से हो तुम भूला, सहते आये हो बहु शूला ।",
+        "अब दुख सहते काहिं, निज घर चित्त ठहराओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Se Ho Tum Bhulaa, Sahte Aaye Ho Bahu Shulaa.",
+        "Ab Dukh Sahte Kaahin, Nij Ghar Chitt Thahraao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तज सर्व उपाधी, अपने घर में लाइ समाधी ।",
+        "ब्रह्मानन्द है जाहिं, तांमें सहज समाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taj Sarv Upaadhi, Apne Ghar Men Laai Samaadhi.",
+        "Brahmaanand Hai Jaahin, Taanmen Sahaj Samaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ातम घर के माहिन, रे मन शांति पाो (टेक)."
+      "जो है आदी धाम तुम्हारा, सूर्य चन्द्र से अति उज्यारा ।",
+      "वृत्ति लगाओ ताहिं, कबहूं नाहिं भुलाओ ॥१ ॥"
     ],
     [
-      "जो है ादि धाम तुमहारा, सुरय चनदर से ति ुजयारा.",
-      "वरितति लगाो ताहिन, कभुन नाहिन भुलाो || 1 ||"
+      "अपने घर में सुख है जैसा, तीन लोक में ना सुख तैसा ।",
+      "इत उत भटको नाहिं, अपने घर में आओ ॥२ ॥"
     ],
     [
-      "पने घर मेन सुख है जैसा, तिन लोक मेन ना सुख तैसा.",
-      "ित ुत भतको नाहिन, पने घर मेन ाो || 2 ||."
+      "बहुत जन्म से हो तुम भूला, सहते आये हो बहु शूला ।",
+      "अब दुख सहते काहिं, निज घर चित्त ठहराओ ॥३ ॥"
     ],
     [
-      "बहुत जनम से हो तुम भुला, सहते ाये हो बहु शुला.",
-      "ब दुःख सहते काहिन, निज घर चितत थहराो || 3 ||."
-    ],
-    [
-      "कहे तेऊँ तज सर्व ुपाधि, पने घर मेन लाि समाधि.",
-      "बरहमाननद है जाहिन, तानमेन सहज समाो. ||.4 ||."
-    ],
-    [
-      "[  व  ]"
+      "कहे टेऊँ तज सर्व उपाधी, अपने घर में लाइ समाधी ।",
+      "ब्रह्मानन्द है जाहिं, तांमें सहज समाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Aatam Ghar Ke Maahin, Re Man Shaanti Paao (Tek)."
-    ],
     [
       "Jo Hai Aadi Dhaam Tumhaaraa, Sury Chandr Se Ati Ujyaaraa.",
       "Vritti Lagaao Taahin, Kabhun Naahin Bhulaao || 1 ||"
     ],
     [
       "Apne Ghar Men Sukh Hai Jaisaa, Tin Lok Men Naa Sukh Taisaa.",
-      "It Ut Bhatko Naahin, Apne Ghar Men Aao || 2 ||."
+      "It Ut Bhatko Naahin, Apne Ghar Men Aao || 2 ||"
     ],
     [
       "Bahut Janm Se Ho Tum Bhulaa, Sahte Aaye Ho Bahu Shulaa.",
-      "Ab Dukh Sahte Kaahin, Nij Ghar Chitt Thahraao || 3 ||."
+      "Ab Dukh Sahte Kaahin, Nij Ghar Chitt Thahraao || 3 ||"
     ],
     [
       "Kahe Teun Taj Sarv Upaadhi, Apne Ghar Men Laai Samaadhi.",
-      "Brahmaanand Hai Jaahin, Taanmen Sahaj Samaao. ||.4 ||."
-    ],
-    [
-      "[  V  ]"
+      "Brahmaanand Hai Jaahin, Taanmen Sahaj Samaao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 36 || 684 ||",
+    "आतम घर के माहिं, रे मन शान्ती पाओ",
     "Aatam Ghar Ke Maahin, Re Man Shaanti Paao",
-    "ातम घर के माहिन, रे मन शांति पाो"
+    "राग पहाड़ी भजन 36",
+    "Raag Pahaari Bhajan 36"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 685,
+  "displayOrder": 36,
+  "overallOrder": 683,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 363",
+  "updatedAt": "2026-10-26"
 }

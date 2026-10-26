@@ -2,58 +2,103 @@
   "id": "bhajan-0410",
   "slug": "maanush-janm-amolak-paayaa-hari-kaa-dharo-dhyaanaa-re",
   "categoryId": "raag-tilang",
-  "title": "मानुश जनम मोलक पाया, हरि का धरो धयाना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मानुष जन्म अमोलक पाया, हरि का धरो ध्याना रे",
   "romanTitle": "Maanush Janm Amolak Paayaa, Hari Kaa Dharo Dhyaanaa Re",
   "firstLine": "Maanush Janm Amolak Paayaa, Hari Kaa Dharo Dhyaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ॥। ४७ ।। ४११।।",
+  "tek": [
+    "मानुष जन्म अमोलक पाया, हरि का धरो ध्याना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Janm Amolak Paayaa, Hari Kaa Dharo Dhyaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्गरु से ले सत्‌ उपदेशा, श्रुती शब्द मिलाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sadgaru Se Le Sat‌ Updeshaa, Shruti Shabd Milaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अन्तर्मुख हो कर अभ्यासा, आत्म रस को पाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Antarmukh Ho Kar Abhyaasaa, Aatm Ras Ko Paanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्गय",
+        "ब्रह्मजज्ञान की ज्योति जगाये, मेटो तम अज्ञाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dgay",
+        "Brahmajajnyaan Ki Jyoti Jagaaye, Meto Tam Ajnyaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब बन्धन काटे, पाओ पद निर्बाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Bandhan Kaate, Paao Pad Nirbaanaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश जनम मोलक पाया, हरि का धरो धयाना रे (टेक)."
+      "सद्गरु से ले सत्‌ उपदेशा, श्रुती शब्द मिलाना रे ॥१ ॥"
     ],
     [
-      "सदगरु से ले सत‌ ुपदेशा, शरुति शबद मिलाना रे || 1 ||."
+      "अन्तर्मुख हो कर अभ्यासा, आत्म रस को पाना रे ॥२ ॥"
     ],
     [
-      "नतरमुख हो कर भयासा, ातम रस को पाना रे || 2 ||."
+      "द्गय",
+      "ब्रह्मजज्ञान की ज्योति जगाये, मेटो तम अज्ञाना रे ॥३ ॥"
     ],
     [
-      "दगय",
-      "बरहमजजनयान कि जयोति जगाये, मेतो तम जनयाना रे.3 ||."
-    ],
-    [
-      "कहे तेऊँ सब बनधन काते, पाो पद निरबाना रे. || 4. ||."
+      "कहे टेऊँ सब बन्धन काटे, पाओ पद निर्बाना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Maanush Janm Amolak Paayaa, Hari Kaa Dharo Dhyaanaa Re (Tek)."
+      "Sadgaru Se Le Sat‌ Updeshaa, Shruti Shabd Milaanaa Re || 1 ||"
     ],
     [
-      "Sadgaru Se Le Sat‌ Updeshaa, Shruti Shabd Milaanaa Re || 1 ||."
-    ],
-    [
-      "Antarmukh Ho Kar Abhyaasaa, Aatm Ras Ko Paanaa Re || 2 ||."
+      "Antarmukh Ho Kar Abhyaasaa, Aatm Ras Ko Paanaa Re || 2 ||"
     ],
     [
       "Dgay",
-      "Brahmajajnyaan Ki Jyoti Jagaaye, Meto Tam Ajnyaanaa Re.3 ||."
+      "Brahmajajnyaan Ki Jyoti Jagaaye, Meto Tam Ajnyaanaa Re || 3 ||"
     ],
     [
-      "Kahe Teun Sab Bandhan Kaate, Paao Pad Nirbaanaa Re. || 4. ||."
+      "Kahe Teun Sab Bandhan Kaate, Paao Pad Nirbaanaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan ||. 47 || 411 ||",
+    "मानुष जन्म अमोलक पाया, हरि का धरो ध्याना रे",
     "Maanush Janm Amolak Paayaa, Hari Kaa Dharo Dhyaanaa Re",
-    "मानुश जनम मोलक पाया, हरि का धरो धयाना रे"
+    "राग तिलंग भजन 47",
+    "Raag Tilang Bhajan 47"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 410,
+  "displayOrder": 47,
+  "overallOrder": 410,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 238",
+  "updatedAt": "2026-10-26"
 }

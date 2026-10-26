@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0498",
+  "id": "bhajan-0497",
   "slug": "sadguru-miliyaa-pardaa-khuliyaa-ang-ang-phuliyaa-saaraa",
   "categoryId": "raag-kohiyaari",
-  "title": "सद्गुरु मिलिया परदा खुलिया नग नग फुलिया सारा",
-  "romanTitle": "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa",
-  "firstLine": "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa, Pritam Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सद्गुरु मिलिया पड़दा खुलिया अंग अंग फुलिया सारा,",
+  "romanTitle": "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa,",
+  "firstLine": "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa,",
+  "heading": "।। राग कोह्यारी भजन ।। १८ ।। ४९८।॥।",
+  "tek": [
+    "सद्गुरु मिलिया पड़दा खुलिया अंग अंग फुलिया सारा,",
+    "प्रीतम प्यारा ॥ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa,",
+    "Pritam Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रवन सुनते सार शब्द को, उलट नैन निरखत गुरु पद को ।",
+        "नासिक नाम उच्चारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shravan Sunte Saar Shabd Ko, Ulat Nain Nirkhat Guru Pad Ko.",
+        "Naasik Naam Uchchaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रसना बोलत हरि की बानी, सुन सुन सुरतां शब्द समानी ।",
+        "पाया आनन्द अपारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Rasnaa Bolat Hari Ki Baani, Sun Sun Surtaan Shabd Samaani.",
+        "Paayaa Aanand Apaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चित चेतन में निशदिन लागा, मनुवा मोह नींद से जागा ।",
+        "बुद्धि वेदान्त विचारा ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Chit Chetan Men Nishdin Laagaa, Manuvaa Moh Nind Se Jaagaa.",
+        "Buddhi Vedaant Vichaaraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अहं ब्रह्वास्मी, भेद भ्रम भया सब भस्मी ।",
+        "जीव ब्रह्म निर्धारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ahan Brahvaasmi, Bhed Bhram Bhayaa Sab Bhasmi.",
+        "Jiv Brahm Nirdhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु मिलिया परदा खुलिया नग नग फुलिया सारा,",
-      "परितम पयारा (टेक)."
+      "श्रवन सुनते सार शब्द को, उलट नैन निरखत गुरु पद को ।",
+      "नासिक नाम उच्चारा ॥१ ॥"
     ],
     [
-      "शरवन सुनते सार शबद को, ुलत नैन निरखत गुरु पद को.",
-      "नासिक नाम ुचचारा || 1 ||"
+      "रसना बोलत हरि की बानी, सुन सुन सुरतां शब्द समानी ।",
+      "पाया आनन्द अपारा ॥२ ॥"
     ],
     [
-      "रसना बोलत हरि कि बानी, सुन सुन सुरतान शबद समानि.",
-      "पाया आनंद पारा || 2 || ||"
+      "चित चेतन में निशदिन लागा, मनुवा मोह नींद से जागा ।",
+      "बुद्धि वेदान्त विचारा ॥ ।३े ॥"
     ],
     [
-      "चित चेतन मेन निशदिन लागा, मनुवा मोह निनद से जागा.",
-      "बुदधि वेदानत विचारा ||.3े ||"
-    ],
-    [
-      "कहे तेऊँ हन बरहवासमि, भेद भरम भया सब भसमि.",
-      "जिव बरहम निरधारा || 4 ||"
+      "कहे टेऊँ अहं ब्रह्वास्मी, भेद भ्रम भया सब भस्मी ।",
+      "जीव ब्रह्म निर्धारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa,",
-      "Pritam Pyaaraa (Tek)."
-    ],
     [
       "Shravan Sunte Saar Shabd Ko, Ulat Nain Nirkhat Guru Pad Ko.",
       "Naasik Naam Uchchaaraa || 1 ||"
     ],
     [
       "Rasnaa Bolat Hari Ki Baani, Sun Sun Surtaan Shabd Samaani.",
-      "Paayaa Aanand Apaaraa || 2 || ||"
+      "Paayaa Aanand Apaaraa || 2 ||"
     ],
     [
       "Chit Chetan Men Nishdin Laagaa, Manuvaa Moh Nind Se Jaagaa.",
-      "Buddhi Vedaant Vichaaraa ||.3E ||"
+      "Buddhi Vedaant Vichaaraa || 3E ||"
     ],
     [
       "Kahe Teun Ahan Brahvaasmi, Bhed Bhram Bhayaa Sab Bhasmi.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohyaari Bhajan || 18 || 498. ||.",
-    "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa",
-    "सद्गुरु मिलिया परदा खुलिया नग नग फुलिया सारा"
+    "सद्गुरु मिलिया पड़दा खुलिया अंग अंग फुलिया सारा,",
+    "Sadguru Miliyaa Pardaa Khuliyaa Ang Ang Phuliyaa Saaraa,",
+    "राग कोहियारी भजन 18",
+    "Raag Kohiyaari Bhajan 18"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 498,
+  "displayOrder": 18,
+  "overallOrder": 497,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 278",
+  "updatedAt": "2026-10-26"
 }

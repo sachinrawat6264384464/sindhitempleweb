@@ -2,34 +2,83 @@
   "id": "bhajan-0404",
   "slug": "ho-prabhu-antaryaami-tum-sab-ke-prerak-svaami",
   "categoryId": "raag-tilang",
-  "title": "हो प्रभु नतरयामि, तुम सब के परेरक स्वामी",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "हो प्रभू अन्तर्यामी, तुम सब के प्रेरक स्वामी ॥",
   "romanTitle": "Ho Prabhu Antaryaami, Tum Sab Ke Prerak Svaami",
   "firstLine": "Ho Prabhu Antaryaami, Tum Sab Ke Prerak Svaami (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ४१ ।। ४०५।।",
+  "tek": [
+    "हो प्रभू अन्तर्यामी, तुम सब के प्रेरक स्वामी ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Ho Prabhu Antaryaami, Tum Sab Ke Prerak Svaami (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह जग बाज़ी का स्थाना, बाज़ीगर तुम हो भगवाना ।",
+        "पुतली सारे जीव जहाना, तब आज्ञा के अनुगामी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Jag Baazi Kaa Sthaanaa, Baazigar Tum Ho Bhagvaanaa.",
+        "Putli Saare Jiv Jahaanaa, Tab Aajnyaa Ke Anugaami || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया से तुम बाज़ी लाते, भान्ति भान्ति के खेल खिलाते ।",
+        "कबहूँ डराते कब हषति, निज रुचि से पारग्रामी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Se Tum Baazi Laate, Bhaanti Bhaanti Ke Khel Khilaate.",
+        "Kabhun Daraate Kab Hashti, Nij Ruchi Se Paaragraami || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जहैँ जहैँ खैंचो तहँँ चल जावत, जो तुम चाहो सो मुख गावत ।",
+        "स्व इच्छा से कर्म करावत, सब तेरे वश बलधामी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jahain Jahain Khaincho Tahann Chal Jaavat, Jo Tum Chaaho So Mukh Gaavat.",
+        "Sv Ichchhaa Se Karm Karaavat, Sab Tere Vash Baldhaami || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "क्या कर साके जीव बिचारे, जीवों के वश नहिं कछु प्यारे ।",
+        "सब कछु तुमहीं करने हारे, कहे टेऊँ तोहि नमामी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kyaa Kar Saake Jiv Bichaare, Jivon Ke Vash Nahin Kachhu Pyaare.",
+        "Sab Kachhu Tumhin Karne Haare, Kahe Teun Tohi Namaami || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हो प्रभु नतरयामि, तुम सब के परेरक स्वामी (टेक)."
+      "यह जग बाज़ी का स्थाना, बाज़ीगर तुम हो भगवाना ।",
+      "पुतली सारे जीव जहाना, तब आज्ञा के अनुगामी ॥१ ॥"
     ],
     [
-      "यह जग बाzि का सथाना, बाzिगर तुम हो भगवाना.",
-      "पुतलि सारे जिव जहाना, तब ाजनया के नुगामि || 1 ||"
+      "माया से तुम बाज़ी लाते, भान्ति भान्ति के खेल खिलाते ।",
+      "कबहूँ डराते कब हषति, निज रुचि से पारग्रामी ॥२ ॥"
     ],
     [
-      "माया से तुम बाzि लाते, भानति भानति के खेल खिलाते.",
-      "कभुन दराते कब हशति, निज रुचि से पारगरामि || 2 ||"
+      "जहैँ जहैँ खैंचो तहँँ चल जावत, जो तुम चाहो सो मुख गावत ।",
+      "स्व इच्छा से कर्म करावत, सब तेरे वश बलधामी ॥३ ॥"
     ],
     [
-      "जहैन जहैन खैनचो तहनन चल जावत, जो तुम चाहो सो मुख गावत.",
-      "सव िचचहा से करम करावत, सब तेरे वश बलधामि || 3 ||"
-    ],
-    [
-      "कया कर साके जिव बिचारे, जिवोन के वश नहिन कचहु पयारे.",
-      "सब कचहु तुमहिन करने हारे, कहे तेऊँ तोहि नमामि || 4 ||"
+      "क्या कर साके जीव बिचारे, जीवों के वश नहिं कछु प्यारे ।",
+      "सब कछु तुमहीं करने हारे, कहे टेऊँ तोहि नमामी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Ho Prabhu Antaryaami, Tum Sab Ke Prerak Svaami (Tek)."
-    ],
     [
       "Yah Jag Baazi Kaa Sthaanaa, Baazigar Tum Ho Bhagvaanaa.",
       "Putli Saare Jiv Jahaanaa, Tab Aajnyaa Ke Anugaami || 1 ||"
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 41 || 405 ||",
+    "हो प्रभू अन्तर्यामी, तुम सब के प्रेरक स्वामी ॥",
     "Ho Prabhu Antaryaami, Tum Sab Ke Prerak Svaami",
-    "हो प्रभु नतरयामि, तुम सब के परेरक स्वामी"
+    "राग तिलंग भजन 41",
+    "Raag Tilang Bhajan 41"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 404,
+  "displayOrder": 41,
+  "overallOrder": 404,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 236",
+  "updatedAt": "2026-10-26"
 }

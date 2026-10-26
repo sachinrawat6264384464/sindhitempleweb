@@ -1,38 +1,96 @@
 {
-  "id": "bhajan-0520",
+  "id": "bhajan-0518",
   "slug": "antar-ki-jaanat-bhagvaanaa-baahar-ke-naa-dekhat-baanaa",
   "categoryId": "raag-kohiyaari",
-  "title": "नतर कि जानत भगवाना, बाहर के ना देखत बाना",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "अन्तर की जानत भगवाना, बाहर के ना देखत बाना",
   "romanTitle": "Antar Ki Jaanat Bhagvaanaa, Baahar Ke Naa Dekhat Baanaa",
   "firstLine": "Antar Ki Jaanat Bhagvaanaa, Baahar Ke Naa Dekhat Baanaa (Tek).",
+  "heading": "।। राग कोह्लारी भजन ।। ३९ ।। ५१९।।",
+  "tek": [
+    "अन्तर की जानत भगवाना, बाहर के ना देखत बाना ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Antar Ki Jaanat Bhagvaanaa, Baahar Ke Naa Dekhat Baanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गीध जटायू अरु संपाती, रूप विद्या नहीं पंछी ज़ाती ।",
+        "दीनी गति तिहँ बाप समाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gidh Jataayu Aru Sampaati, Rup Vidyaa Nahin Panchhi Zaati.",
+        "Dini Gati Tihan Baap Samaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भालू बानर रावण भाई, अधम देह नहिं कछु ठकुराई ।",
+        "तां निज मन्त्री कीन प्रधाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhaalu Baanar Raavan Bhaai, Adham Deh Nahin Kachhu Thakuraai.",
+        "Taan Nij Mantri Kin Pradhaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कोल जाट पुनि भील किराते, कर्म न शुभ को नीच कहाते ।",
+        "भाई सम तांको सन्माना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kol Jaat Puni Bhil Kiraate, Karm Na Shubh Ko Nich Kahaate.",
+        "Bhaai Sam Taanko Sanmaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि मन को देखे, तन के रूप रंग ना पेखे,",
+        "निश्चय कर यह जान सुजाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Man Ko Dekhe, Tan Ke Rup Rang Naa Pekhe,",
+        "Nishchay Kar Yah Jaan Sujaanaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "तरह"
+      ],
+      "romanLines": [
+        "Tarah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "नतर कि जानत भगवाना, बाहर के ना देखत बाना (टेक)."
+      "गीध जटायू अरु संपाती, रूप विद्या नहीं पंछी ज़ाती ।",
+      "दीनी गति तिहँ बाप समाना ॥१ ॥"
     ],
     [
-      "गिध जतायु रु समपाति, रुप विदया नहिन पनचहि zाति.",
-      "दिनि गति तिहन बाप समाना || 1 ||"
+      "भालू बानर रावण भाई, अधम देह नहिं कछु ठकुराई ।",
+      "तां निज मन्त्री कीन प्रधाना ॥२ ॥"
     ],
     [
-      "भालु बानर रावन भाि, धम देह नहिन कचहु थकुराि.",
-      "तान निज मनतरि किन परधाना || 2 ||"
+      "कोल जाट पुनि भील किराते, कर्म न शुभ को नीच कहाते ।",
+      "भाई सम तांको सन्माना ॥३ ॥"
     ],
     [
-      "कोल जात पुनि भिल किराते, करम न शुभ को निच कहाते.",
-      "भाि सम तानको सनमाना || 3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि मन को देखे, तन के रुप रनग ना पेखे,",
-      "निशचय कर यह जान सुजाना || 4. ||."
+      "कहे टेऊँ हरि मन को देखे, तन के रूप रंग ना पेखे,",
+      "निश्चय कर यह जान सुजाना ॥४ ॥"
     ],
     [
       "तरह"
     ]
   ],
   "romanLyrics": [
-    [
-      "Antar Ki Jaanat Bhagvaanaa, Baahar Ke Naa Dekhat Baanaa (Tek)."
-    ],
     [
       "Gidh Jataayu Aru Sampaati, Rup Vidyaa Nahin Panchhi Zaati.",
       "Dini Gati Tihan Baap Samaanaa || 1 ||"
@@ -42,30 +100,32 @@
       "Taan Nij Mantri Kin Pradhaanaa || 2 ||"
     ],
     [
-      "Kol Jaat Puni Bhil Kiraate, Karm N Shubh Ko Nich Kahaate.",
+      "Kol Jaat Puni Bhil Kiraate, Karm Na Shubh Ko Nich Kahaate.",
       "Bhaai Sam Taanko Sanmaanaa || 3 ||"
     ],
     [
       "Kahe Teun Hari Man Ko Dekhe, Tan Ke Rup Rang Naa Pekhe,",
-      "Nishchay Kar Yah Jaan Sujaanaa || 4. ||."
+      "Nishchay Kar Yah Jaan Sujaanaa || 4 ||"
     ],
     [
       "Tarah"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohlaari Bhajan || 39 || 519 ||",
+    "अन्तर की जानत भगवाना, बाहर के ना देखत बाना",
     "Antar Ki Jaanat Bhagvaanaa, Baahar Ke Naa Dekhat Baanaa",
-    "नतर कि जानत भगवाना, बाहर के ना देखत बाना"
+    "राग कोहियारी भजन 39",
+    "Raag Kohiyaari Bhajan 39"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 520,
+  "displayOrder": 39,
+  "overallOrder": 518,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 286",
+  "updatedAt": "2026-10-26"
 }

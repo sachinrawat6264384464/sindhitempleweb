@@ -1,49 +1,100 @@
 {
-  "id": "bhajan-0861",
+  "id": "bhajan-0859",
   "slug": "haato-haato-dur-kurangaa-naad-shabd-dukhkaari-re",
   "categoryId": "raag-jog",
-  "title": "हातो हातो दुर कुरनगा, नाद शबद दुखकारि रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हाटो हाटो दूर कुरंगा, नाद शब्द दुखकारी रे",
   "romanTitle": "Haato Haato Dur Kurangaa, Naad Shabd Dukhkaari Re",
   "firstLine": "Haato Haato Dur Kurangaa, Naad Shabd Dukhkaari Re (Tek).",
+  "heading": "।। राग जोग भजन ।। ३१ ।। ८६१।।",
+  "tek": [
+    "हाटो हाटो दूर कुरंगा, नाद शब्द दुखकारी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Haato Haato Dur Kurangaa, Naad Shabd Dukhkaari Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाद सुनन हित नहिं तुम जाओ, हरहैं जान तुम्हारी रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naad Sunan Hit Nahin Tum Jaao, Harhain Jaan Tumhaari Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुष्ट व्याध ने तब मारन हित, ढीली लकड़ी गारी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dusht Vyaadh Ne Tab Maaran Hit, Dhili Lakri Gaari Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाद शब्द सुन मत भूलो तुम, धोखेबाजी सारी रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naad Shabd Sun Mat Bhulo Tum, Dhokhebaaji Saari Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ इससे बच जाओ, वेग करे हुशियारी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Isse Bach Jaao, Veg Kare Hushiyaari Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हातो हातो दुर कुरनगा, नाद शबद दुखकारि रे (टेक)."
+      "नाद सुनन हित नहिं तुम जाओ, हरहैं जान तुम्हारी रे ॥१ ॥"
     ],
     [
-      "नाद सुनन हित नहिन तुम जाो, हरहैन जान तुमहारि रे.1 ||.",
-      "दुशत वयाध ने तब मारन हित, धिलि लकरि गारि रे || 2 ||"
+      "दुष्ट व्याध ने तब मारन हित, ढीली लकड़ी गारी रे ॥२ ॥"
     ],
     [
-      "नाद शबद सुन मत भुलो तुम, धोखेबाजि सारि रे.3. ||.",
-      "कहे तेऊँ िससे बच जाो, वेग करे हुशियारि रे || 4 ||"
+      "नाद शब्द सुन मत भूलो तुम, धोखेबाजी सारी रे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ इससे बच जाओ, वेग करे हुशियारी रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Haato Haato Dur Kurangaa, Naad Shabd Dukhkaari Re (Tek)."
+      "Naad Sunan Hit Nahin Tum Jaao, Harhain Jaan Tumhaari Re || 1 ||"
     ],
     [
-      "Naad Sunan Hit Nahin Tum Jaao, Harhain Jaan Tumhaari Re.1 ||.",
       "Dusht Vyaadh Ne Tab Maaran Hit, Dhili Lakri Gaari Re || 2 ||"
     ],
     [
-      "Naad Shabd Sun Mat Bhulo Tum, Dhokhebaaji Saari Re.3. ||.",
+      "Naad Shabd Sun Mat Bhulo Tum, Dhokhebaaji Saari Re || 3 ||"
+    ],
+    [
       "Kahe Teun Isse Bach Jaao, Veg Kare Hushiyaari Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 31 || 861 ||",
+    "हाटो हाटो दूर कुरंगा, नाद शब्द दुखकारी रे",
     "Haato Haato Dur Kurangaa, Naad Shabd Dukhkaari Re",
-    "हातो हातो दुर कुरनगा, नाद शबद दुखकारि रे"
+    "राग जोग भजन 31",
+    "Raag Jog Bhajan 31"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 861,
+  "displayOrder": 31,
+  "overallOrder": 859,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 454",
+  "updatedAt": "2026-10-26"
 }

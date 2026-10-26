@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0483",
+  "id": "bhajan-0482",
   "slug": "prem-ne-mujhko-baandh-liyaa-hai",
   "categoryId": "raag-kohiyaari",
-  "title": "प्रेम ने मुझको बानध लिया है",
-  "romanTitle": "Prem Ne Mujhko Baandh Liyaa Hai",
-  "firstLine": "Prem Ne Mujhko Baandh Liyaa Hai, Birah Kere Bandakhaane, Madh Maikhaane (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "प्रेम ने मुझको बान्ध लिया है,",
+  "romanTitle": "Prem Ne Mujhko Baandh Liyaa Hai,",
+  "firstLine": "Prem Ne Mujhko Baandh Liyaa Hai,",
+  "heading": "।। राग कोह्लारी भजन ।। डे ।। ४८ ३े।॥",
+  "tek": [
+    "प्रेम ने मुझको बान्ध लिया है,",
+    "बिरह केरे बन्दखाने, मध मैखाने ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Ne Mujhko Baandh Liyaa Hai,",
+    "Birah Kere Bandakhaane, Madh Maikhaane (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जैसे पतंग दीप अनुरागी, निरती त्यों गुरु मूरत लागी ।",
+        "गुरु को गोविन्द जाने, धरे ध्याने ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaise Patang Dip Anuraagi, Nirti Tyon Guru Murat Laagi.",
+        "Guru Ko Govind Jaane, Dhare Dhyaane || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुनके नाद कुरंग तन भूला, तैसे शब्द श्रुति मिल झूला ।",
+        "मिला हरी सुख माने, अमृत पाने ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sunke Naad Kurang Tan Bhulaa, Taise Shabd Shruti Mil Jhulaa.",
+        "Milaa Hari Sukh Maane, Amrit Paane || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हंस अनल जिमि सार सुजागी, तैसे वृति विवेकहिं रागी ।",
+        "लाल पाया तन छाने, रहा सुखाने ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hans Anal Jimi Saar Sujaagi, Taise Vriti Vivekhin Raagi.",
+        "Laal Paayaa Tan Chhaane, Rahaa Sukhaane || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ पुकारे, ऊगा सहस्र भानु उज्जारे ।",
+        "पाया. पद निबनि, ब्रह्मज्ञाने ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Pukaare, Ugaa Sahasr Bhaanu Ujjaare.",
+        "Paayaa. Pad Nibni, Brahmajnyaane || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम ने मुझको बानध लिया है,",
-      "बिरह केरे बनदखाने, मध मैखाने (टेक)."
+      "जैसे पतंग दीप अनुरागी, निरती त्यों गुरु मूरत लागी ।",
+      "गुरु को गोविन्द जाने, धरे ध्याने ॥१ ॥"
     ],
     [
-      "जैसे पतनग दिप नुरागि, निरति तयोन गुरु मुरत लागि.",
-      "गुरु को गोविंद जाने, धरे धयाने.1 ||."
+      "सुनके नाद कुरंग तन भूला, तैसे शब्द श्रुति मिल झूला ।",
+      "मिला हरी सुख माने, अमृत पाने ॥२ ॥"
     ],
     [
-      "सुनके नाद कुरनग तन भुला, तैसे शबद शरुति मिल झुला.",
-      "मिला हरि सुख माने, अमृत पाने || 2 ||."
+      "हंस अनल जिमि सार सुजागी, तैसे वृति विवेकहिं रागी ।",
+      "लाल पाया तन छाने, रहा सुखाने ॥३ ॥"
     ],
     [
-      "हनस नल जिमि सार सुजागि, तैसे वरिति विवेखिन रागि.",
-      "लाल पाया तन चहाने, रहा सुखाने ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ कर जोर पुकारे, ुगा सहसर भानु ुजजारे.",
-      "पाया. पद निबनि, बरहमजनयाने || 4 ||"
+      "कहे टेऊँ कर जोड़ पुकारे, ऊगा सहस्र भानु उज्जारे ।",
+      "पाया. पद निबनि, ब्रह्मज्ञाने ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prem Ne Mujhko Baandh Liyaa Hai,",
-      "Birah Kere Bandakhaane, Madh Maikhaane (Tek)."
-    ],
-    [
       "Jaise Patang Dip Anuraagi, Nirti Tyon Guru Murat Laagi.",
-      "Guru Ko Govind Jaane, Dhare Dhyaane.1 ||."
+      "Guru Ko Govind Jaane, Dhare Dhyaane || 1 ||"
     ],
     [
       "Sunke Naad Kurang Tan Bhulaa, Taise Shabd Shruti Mil Jhulaa.",
-      "Milaa Hari Sukh Maane, Amrit Paane || 2 ||."
+      "Milaa Hari Sukh Maane, Amrit Paane || 2 ||"
     ],
     [
       "Hans Anal Jimi Saar Sujaagi, Taise Vriti Vivekhin Raagi.",
-      "Laal Paayaa Tan Chhaane, Rahaa Sukhaane ||.3. ||."
+      "Laal Paayaa Tan Chhaane, Rahaa Sukhaane || 3 ||"
     ],
     [
       "Kahe Teun Kar Jor Pukaare, Ugaa Sahasr Bhaanu Ujjaare.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohlaari Bhajan || De || 48 3E. ||",
-    "Prem Ne Mujhko Baandh Liyaa Hai",
-    "प्रेम ने मुझको बानध लिया है"
+    "प्रेम ने मुझको बान्ध लिया है,",
+    "Prem Ne Mujhko Baandh Liyaa Hai,",
+    "राग कोहियारी भजन 3",
+    "Raag Kohiyaari Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 483,
+  "displayOrder": 3,
+  "overallOrder": 482,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 270",
+  "updatedAt": "2026-10-26"
 }

@@ -2,34 +2,83 @@
   "id": "bhajan-0186",
   "slug": "jaagi-jap-guru-naam-mere-man-jaagi-jap-guru-naam",
   "categoryId": "raag-dhanaashri",
-  "title": "जागि जप गुरु नाम मेरे मन, जागि जप गुरु नाम",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "जागी जप गुरु नाम मेरे मन, जागी जप गुरु नाम",
   "romanTitle": "Jaagi Jap Guru Naam Mere Man, Jaagi Jap Guru Naam",
   "firstLine": "Jaagi Jap Guru Naam Mere Man, Jaagi Jap Guru Naam (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। ६ ।। १८६।।",
+  "tek": [
+    "जागी जप गुरु नाम मेरे मन, जागी जप गुरु नाम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaagi Jap Guru Naam Mere Man, Jaagi Jap Guru Naam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गफ़्लत को तज नाम सुमरले, गुरु मूरत को हृदय धरले ।",
+        "छोड़ कल्पना काम मेरे मन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gaflat Ko Taj Naam Sumrale, Guru Murat Ko Hriday Dharle.",
+        "Chhor Kalpanaa Kaam Mere Man || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "श्वास श्वास से सुमरण करिये, जन्म मरण के दुख को हरिये ।",
+        "पाओ आदी धाम मेरे मन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shvaas Shvaas Se Sumran Kariye, Janm Maran Ke Dukh Ko Hariye.",
+        "Paao Aadi Dhaam Mere Man || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काल व्याल का डर नहिं जामें, सुमरण कर तुम पहुंचो तामें ।",
+        "जो है सुन्दर गाम मेरे मन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaal Vyaal Kaa Dar Nahin Jaamen, Sumran Kar Tum Pahuncho Taamen.",
+        "Jo Hai Sundar Gaam Mere Man || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आदि पुरुष से सुरति मिलाओ, कहता टेऊँ आप भुलाओ ।",
+        "पाओ नित विश्राम मेरे मन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aadi Purush Se Surti Milaao, Kahtaa Teun Aap Bhulaao.",
+        "Paao Nit Vishraam Mere Man || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जागि जप गुरु नाम मेरे मन, जागि जप गुरु नाम (टेक)."
+      "गफ़्लत को तज नाम सुमरले, गुरु मूरत को हृदय धरले ।",
+      "छोड़ कल्पना काम मेरे मन ॥१ ॥"
     ],
     [
-      "गfलत को तज नाम सुमरले, गुरु मुरत को हरिदय धरले.",
-      "चहोर कलपना काम मेरे मन || 1 ||"
+      "श्वास श्वास से सुमरण करिये, जन्म मरण के दुख को हरिये ।",
+      "पाओ आदी धाम मेरे मन ॥२ ॥"
     ],
     [
-      "शवास शवास से सुमरन करिये, जनम मरन के दुःख को हरिये.",
-      "पाो ादि धाम मेरे मन || 2 ||"
+      "काल व्याल का डर नहिं जामें, सुमरण कर तुम पहुंचो तामें ।",
+      "जो है सुन्दर गाम मेरे मन ॥३ ॥"
     ],
     [
-      "काल वयाल का दर नहिन जामेन, सुमरन कर तुम पहुनचो तामेन.",
-      "जो है सुनदर गाम मेरे मन || 3 ||."
-    ],
-    [
-      "ादि पुरुश से सुरति मिलाो, कहता तेऊँ ाप भुलाो.",
-      "पाो नित विशराम मेरे मन || 4. ||."
+      "आदि पुरुष से सुरति मिलाओ, कहता टेऊँ आप भुलाओ ।",
+      "पाओ नित विश्राम मेरे मन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jaagi Jap Guru Naam Mere Man, Jaagi Jap Guru Naam (Tek)."
-    ],
     [
       "Gaflat Ko Taj Naam Sumrale, Guru Murat Ko Hriday Dharle.",
       "Chhor Kalpanaa Kaam Mere Man || 1 ||"
@@ -40,28 +89,28 @@
     ],
     [
       "Kaal Vyaal Kaa Dar Nahin Jaamen, Sumran Kar Tum Pahuncho Taamen.",
-      "Jo Hai Sundar Gaam Mere Man || 3 ||."
+      "Jo Hai Sundar Gaam Mere Man || 3 ||"
     ],
     [
       "Aadi Purush Se Surti Milaao, Kahtaa Teun Aap Bhulaao.",
-      "Paao Nit Vishraam Mere Man || 4. ||."
+      "Paao Nit Vishraam Mere Man || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Dhanaashri Bhajan || 6 || 186 ||",
+    "जागी जप गुरु नाम मेरे मन, जागी जप गुरु नाम",
     "Jaagi Jap Guru Naam Mere Man, Jaagi Jap Guru Naam",
-    "जागि जप गुरु नाम मेरे मन, जागि जप गुरु नाम"
+    "राग धनाश्री भजन 6",
+    "Raag Dhanaashri Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "dhanaashri",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
+    "bhajan"
   ],
-  "displayOrder": 186,
+  "displayOrder": 6,
+  "overallOrder": 186,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 122",
+  "updatedAt": "2026-10-26"
 }

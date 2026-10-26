@@ -1,87 +1,121 @@
 {
   "id": "bhajan-0251",
   "slug": "sun-samajh-sajjan-man-meraa-hai-jaagan-ki-yah-beraa",
-  "categoryId": "raag-bhairav",
-  "title": "सुन समझ सजजन मन मेरा, है जागन कि यह बेरा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सुन समझ सज्जन मन मेरा, है जागन की यह बेरा",
   "romanTitle": "Sun Samajh Sajjan Man Meraa, Hai Jaagan Ki Yah Beraa",
   "firstLine": "Sun Samajh Sajjan Man Meraa, Hai Jaagan Ki Yah Beraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ३६ ।। २५१।।",
+  "tek": [
+    "सुन समझ सज्जन मन मेरा, है जागन की यह बेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sun Samajh Sajjan Man Meraa, Hai Jaagan Ki Yah Beraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धरे गुरु चरणों का ध्याना, हरे तन मन का अभिमाना ।",
+        "पाय पूरण पद निर्बाना ।",
+        "रही निष्काम, सुमर गुरु नाम, लहो सुखधाम,",
+        "कटे जम फेरा ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhare Guru Charnon Kaa Dhyaanaa, Hare Tan Man Kaa Abhimaanaa.",
+        "Paay Puran Pad Nirbaanaa.",
+        "Rahi Nishkaam, Sumar Guru Naam, Laho Sukhdhaam,",
+        "Kate Jam Pheraa || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाए अपने उर में झाती, कर अपने को इस्बाती,",
+        "हर पांचों भेद श्रान्ती ।",
+        "धरे हरि ध्यान, गही गुरु ज्ञान, कटे अज्ञान,",
+        "पाओ निज डेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paae Apne Ur Men Jhaati, Kar Apne Ko Isbaati,",
+        "Har Paanchon Bhed Shraanti.",
+        "Dhare Hari Dhyaan, Gahi Guru Gyaan, Kate Ajnyaan,",
+        "Paao Nij Deraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु प्रसादी, लाय अन्तर सहज समाधी,",
+        "तज झूठी जगत उपाधी ।",
+        "जपे गुरु जाप, लखे निज आप, हरो संताप,",
+        "तुरत तन केरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Prasaadi, Laay Antar Sahaj Samaadhi,",
+        "Taj Jhuthi Jagat Upaadhi.",
+        "Jape Guru Jaap, Lakhe Nij Aap, Haro Santaap,",
+        "Turat Tan Keraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुन समझ सजजन मन मेरा, है जागन कि यह बेरा (टेक)."
+      "धरे गुरु चरणों का ध्याना, हरे तन मन का अभिमाना ।",
+      "पाय पूरण पद निर्बाना ।",
+      "रही निष्काम, सुमर गुरु नाम, लहो सुखधाम,",
+      "कटे जम फेरा ॥१ ॥१ ॥"
     ],
     [
-      "धरे गुरु चरनोन का धयाना, हरे तन मन का भिमाना.",
-      "पाय पुरन पद निरबाना."
+      "पाए अपने उर में झाती, कर अपने को इस्बाती,",
+      "हर पांचों भेद श्रान्ती ।",
+      "धरे हरि ध्यान, गही गुरु ज्ञान, कटे अज्ञान,",
+      "पाओ निज डेरा ॥२ ॥"
     ],
     [
-      "रहि निशकाम, सुमर गुरु नाम, लहो सुखधाम,",
-      "कते जम फेरा || 1$ ||."
-    ],
-    [
-      "पद",
-      "पाे पने ुर मेन झाति, कर पने को िसबाति,"
-    ],
-    [
-      "हर पानचोन भेद शरानति.",
-      "धरे हरि ध्यान, गहि गुरु ज्ञान, कते जनयान,"
-    ],
-    [
-      "पाो निज देरा.2 ||",
-      "कहे तेऊँ गुरु परसादि, लाय नतर सहज समाधि,"
-    ],
-    [
-      "तज झुथि जगत ुपाधि.",
-      "जपे गुरु जाप, लखे निज ाप, हरो सनताप,"
-    ],
-    [
-      "तुरत तन केरा.3 ||."
+      "कहे टेऊँ गुरु प्रसादी, लाय अन्तर सहज समाधी,",
+      "तज झूठी जगत उपाधी ।",
+      "जपे गुरु जाप, लखे निज आप, हरो संताप,",
+      "तुरत तन केरा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sun Samajh Sajjan Man Meraa, Hai Jaagan Ki Yah Beraa (Tek)."
-    ],
-    [
       "Dhare Guru Charnon Kaa Dhyaanaa, Hare Tan Man Kaa Abhimaanaa.",
-      "Paay Puran Pad Nirbaanaa."
-    ],
-    [
+      "Paay Puran Pad Nirbaanaa.",
       "Rahi Nishkaam, Sumar Guru Naam, Laho Sukhdhaam,",
-      "Kate Jam Pheraa || 1$ ||."
+      "Kate Jam Pheraa || 1 || 1 ||"
     ],
     [
-      "Pad",
-      "Paae Apne Ur Men Jhaati, Kar Apne Ko Isbaati,"
-    ],
-    [
+      "Paae Apne Ur Men Jhaati, Kar Apne Ko Isbaati,",
       "Har Paanchon Bhed Shraanti.",
-      "Dhare Hari Dhyaan, Gahi Guru Jnyaan, Kate Ajnyaan,"
+      "Dhare Hari Dhyaan, Gahi Guru Gyaan, Kate Ajnyaan,",
+      "Paao Nij Deraa || 2 ||"
     ],
     [
-      "Paao Nij Deraa.2 ||",
-      "Kahe Teun Guru Prasaadi, Laay Antar Sahaj Samaadhi,"
-    ],
-    [
+      "Kahe Teun Guru Prasaadi, Laay Antar Sahaj Samaadhi,",
       "Taj Jhuthi Jagat Upaadhi.",
-      "Jape Guru Jaap, Lakhe Nij Aap, Haro Santaap,"
-    ],
-    [
-      "Turat Tan Keraa.3 ||."
+      "Jape Guru Jaap, Lakhe Nij Aap, Haro Santaap,",
+      "Turat Tan Keraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 36 || 251 ||",
+    "सुन समझ सज्जन मन मेरा, है जागन की यह बेरा",
     "Sun Samajh Sajjan Man Meraa, Hai Jaagan Ki Yah Beraa",
-    "सुन समझ सजजन मन मेरा, है जागन कि यह बेरा"
+    "राग भैरवी भजन 36",
+    "Raag Bhairvi Bhajan 36"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 251,
+  "displayOrder": 36,
+  "overallOrder": 251,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 156",
+  "updatedAt": "2026-10-26"
 }

@@ -1,66 +1,116 @@
 {
-  "id": "bhajan-0844",
+  "id": "bhajan-0842",
   "slug": "vabnij-karan-ko-aayaa-jag-men-karlo-naam-vyaapaar-re",
   "categoryId": "raag-jog",
-  "title": "वबनिज करन को ाया जग मेन, करलो नाम वयापार रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "वबणिज करन को आया जग में, करलो नाम व्यापार रे",
   "romanTitle": "Vabnij Karan Ko Aayaa Jag Men, Karlo Naam Vyaapaar Re",
   "firstLine": "Vabnij Karan Ko Aayaa Jag Men, Karlo Naam Vyaapaar Re (Tek).",
+  "heading": "।। राग जोग भजन ।। १४ ।। ८४४ं।।",
+  "tek": [
+    "वबणिज करन को आया जग में, करलो नाम व्यापार रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vabnij Karan Ko Aayaa Jag Men, Karlo Naam Vyaapaar Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और पदार्थ जग में जेते, मिथ्या क्षणभंग जानो तेते ।",
+        "दुख को देवन हारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Padaarth Jag Men Jete, Mithyaa Kshanbhang Jaano Tete.",
+        "Dukh Ko Devan Haaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम का सौदा जोई, सन्त हाट से मिलता सोई ।",
+        "उससे ले वणजारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Saudaa Joi, Sant Haat Se Miltaa Soi.",
+        "Usse Le Vanjaaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "यह सौदा ना कबहूं खूटे, भावें कितना निशदिन लूटे ।",
+        "दिन दिन होत अपारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Yah Saudaa Naa Kabhun Khute, Bhaaven Kitnaa Nishdin Lute.",
+        "Din Din Hot Apaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो यह सौदा लेवे प्यारा, कहे टेऊँ सो धन वणजारा ।",
+        "अपना कुल तिहं तारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jo Yah Saudaa Leve Pyaaraa, Kahe Teun So Dhan Vanjaaraa.",
+        "Apnaa Kul Tihan Taaraa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "वबनिज करन को ाया जग मेन, करलो नाम वयापार रे (टेक)."
+      "और पदार्थ जग में जेते, मिथ्या क्षणभंग जानो तेते ।",
+      "दुख को देवन हारा रे ॥१ ॥"
     ],
     [
-      "ौर पदारथ जग मेन जेते, मिथया कशनभनग जानो तेते.",
-      "दुःख को देवन हारा रे.$ ||."
+      "राम नाम का सौदा जोई, सन्त हाट से मिलता सोई ।",
+      "उससे ले वणजारा रे ॥२ ॥"
     ],
     [
-      "राम नाम का सौदा जोि, संत हात से मिलता सोि.",
-      "ुससे ले वनजारा रे || 2 ||."
+      "यह सौदा ना कबहूं खूटे, भावें कितना निशदिन लूटे ।",
+      "दिन दिन होत अपारा रे ॥३ ॥"
     ],
     [
-      "यह सौदा ना कभुन खुते, भावेन कितना निशदिन लुते.",
-      "दीन दीन होत पारा रे || 3े ||"
-    ],
-    [
-      "जो यह सौदा लेवे पयारा, कहे तेऊँ सो धन वनजारा.",
-      "पना कुल तिहन तारा रे || 4. ||."
+      "जो यह सौदा लेवे प्यारा, कहे टेऊँ सो धन वणजारा ।",
+      "अपना कुल तिहं तारा रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vabnij Karan Ko Aayaa Jag Men, Karlo Naam Vyaapaar Re (Tek)."
-    ],
-    [
       "Aur Padaarth Jag Men Jete, Mithyaa Kshanbhang Jaano Tete.",
-      "Dukh Ko Devan Haaraa Re.$ ||."
+      "Dukh Ko Devan Haaraa Re || 1 ||"
     ],
     [
       "Raam Naam Kaa Saudaa Joi, Sant Haat Se Miltaa Soi.",
-      "Usse Le Vanjaaraa Re || 2 ||."
+      "Usse Le Vanjaaraa Re || 2 ||"
     ],
     [
       "Yah Saudaa Naa Kabhun Khute, Bhaaven Kitnaa Nishdin Lute.",
-      "Din Din Hot Apaaraa Re || 3E ||"
+      "Din Din Hot Apaaraa Re || 3 ||"
     ],
     [
       "Jo Yah Saudaa Leve Pyaaraa, Kahe Teun So Dhan Vanjaaraa.",
-      "Apnaa Kul Tihan Taaraa Re || 4. ||."
+      "Apnaa Kul Tihan Taaraa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 14 || 844N ||",
+    "वबणिज करन को आया जग में, करलो नाम व्यापार रे",
     "Vabnij Karan Ko Aayaa Jag Men, Karlo Naam Vyaapaar Re",
-    "वबनिज करन को ाया जग मेन, करलो नाम वयापार रे"
+    "राग जोग भजन 14",
+    "Raag Jog Bhajan 14"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
   ],
-  "displayOrder": 844,
+  "displayOrder": 14,
+  "overallOrder": 842,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 447",
+  "updatedAt": "2026-10-26"
 }

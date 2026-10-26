@@ -2,37 +2,75 @@
   "id": "bhajan-0321",
   "slug": "kaise-likh-hari-gaaun-tab-gun-kaise-likh-hari-gaaun-main",
   "categoryId": "raag-zilaa",
-  "title": "कैसे लिख हरि गाुन तब गुन कैसे लिख हरि गाुन मैं",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "कैसे लिख हरि गाऊँ तब गुण कैसे लिख हरि गाऊँ मैं",
   "romanTitle": "Kaise Likh Hari Gaaun Tab Gun Kaise Likh Hari Gaaun Main",
   "firstLine": "Kaise Likh Hari Gaaun Tab Gun Kaise Likh Hari Gaaun Main (Tek).",
+  "heading": "।। राग ज़िला भजन ।। ८ ।। ३२१।।",
+  "tek": [
+    "कैसे लिख हरि गाऊँ तब गुण कैसे लिख हरि गाऊँ मैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaise Likh Hari Gaaun Tab Gun Kaise Likh Hari Gaaun Main (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सात सिन्धू की स्याही करहूं, पत्र धरणि लेखनि सुरतरुह ।",
+        "तो भी अन्त न लाऊं मैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saat Sindhu Ki Syaahi Karhun, Patr Dharni Lekhni Surtaruh.",
+        "To Bhi Ant Na Laaun Main || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कोटि कल्प तक हे हरिराई, सहसर मुख से करूँ बड़ाई ।",
+        "तो भी पार न पाऊँ मैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Koti Kalp Tak He Hariraai, Sahsar Mukh Se Karun Baraai.",
+        "To Bhi Paar Na Paaun Main || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तेरे गुण हैं अपर अपारे, कहे टेऊँ तुम जानन हारे ।",
+        "क्या कह तोहि सुनाऊँ मैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tere Gun Hain Apar Apaare, Kahe Teun Tum Jaanan Haare.",
+        "Kyaa Kah Tohi Sunaaun Main || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कैसे लिख हरि गाुन तब गुन कैसे लिख हरि गाुन मैं (टेक)."
+      "सात सिन्धू की स्याही करहूं, पत्र धरणि लेखनि सुरतरुह ।",
+      "तो भी अन्त न लाऊं मैं ॥१ ॥"
     ],
     [
-      "सात सिनधु कि सयाहि करहुन, पतर धरनि लेखनि सुरतरुह.",
-      "तो भि नत न लाुन मैं || 1 ||."
+      "कोटि कल्प तक हे हरिराई, सहसर मुख से करूँ बड़ाई ।",
+      "तो भी पार न पाऊँ मैं ॥२ ॥"
     ],
     [
-      "कोति कलप तक हे हरिराि, सहसर मुख से करुन बराि.",
-      "तो भि पार न पाुन मैं || 2 ||."
-    ],
-    [
-      "तेरे गुन हैन पर पारे, कहे तेऊँ तुम जानन हारे.",
-      "कया कह तोहि सुनाुन मैं || 3 ||"
+      "तेरे गुण हैं अपर अपारे, कहे टेऊँ तुम जानन हारे ।",
+      "क्या कह तोहि सुनाऊँ मैं ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaise Likh Hari Gaaun Tab Gun Kaise Likh Hari Gaaun Main (Tek)."
-    ],
-    [
       "Saat Sindhu Ki Syaahi Karhun, Patr Dharni Lekhni Surtaruh.",
-      "To Bhi Ant N Laaun Main || 1 ||."
+      "To Bhi Ant Na Laaun Main || 1 ||"
     ],
     [
       "Koti Kalp Tak He Hariraai, Sahsar Mukh Se Karun Baraai.",
-      "To Bhi Paar N Paaun Main || 2 ||."
+      "To Bhi Paar Na Paaun Main || 2 ||"
     ],
     [
       "Tere Gun Hain Apar Apaare, Kahe Teun Tum Jaanan Haare.",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 8 || 321 ||",
+    "कैसे लिख हरि गाऊँ तब गुण कैसे लिख हरि गाऊँ मैं",
     "Kaise Likh Hari Gaaun Tab Gun Kaise Likh Hari Gaaun Main",
-    "कैसे लिख हरि गाुन तब गुन कैसे लिख हरि गाुन मैं"
+    "राग ज़िला भजन 8",
+    "Raag Zilaa Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 321,
+  "displayOrder": 8,
+  "overallOrder": 321,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 192",
+  "updatedAt": "2026-10-26"
 }

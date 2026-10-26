@@ -2,37 +2,75 @@
   "id": "bhajan-0035",
   "slug": "praat-samay-men-jaagi-praanibolo-mukh-se-hari-kaa-naam",
   "categoryId": "raag-prabhaati",
-  "title": "परात समय मेन जागि परानिबोलो मुख से हरि का नाम",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "प्रात समय में जागी प्राणी ,बोलो मुख से हरि का नाम",
   "romanTitle": "Praat Samay Men Jaagi Praani,Bolo Mukh Se Hari Kaa Naam",
   "firstLine": "Praat Samay Men Jaagi Praani,Bolo Mukh Se Hari Kaa Naam (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ३ ।। ३५।।",
+  "tek": [
+    "प्रात समय में जागी प्राणी ,बोलो मुख से हरि का नाम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Praat Samay Men Jaagi Praani,Bolo Mukh Se Hari Kaa Naam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रातकाल उठ देव लोक में, सुर गण ध्यान लगाते हैं ।",
+        "आपस में मिल हरि जस गावें, पीवत भर कर अमृत जाम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Praatkaal Uth Dev Lok Men, Sur Gan Dhyaan Lagaate Hain.",
+        "Aapas Men Mil Hari Jas Gaaven, Pivat Bhar Kar Amrit Jaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रात समय उठ सन्त सर्व ही, आतम देव ध्याते हैं ।",
+        "मन चित लीन करे तिस माहीं ,देखत सब घट आतम राम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Praat Samay Uth Sant Sarv Hi, Aatam Dev Dhyaate Hain.",
+        "Man Chit Lin Kare Tis Maahin,Dekhat Sab Ghat Aatam Raam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ प्रातकाल में, जागत को बड़भागी है ।",
+        "जो जन जागे अमृत चाखे, पूर्ण हो सब तांके काम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Praatkaal Men, Jaagat Ko Barbhaagi Hai.",
+        "Jo Jan Jaage Amrit Chaakhe, Purn Ho Sab Taanke Kaam || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परात समय मेन जागि परानिबोलो मुख से हरि का नाम (टेक)."
+      "प्रातकाल उठ देव लोक में, सुर गण ध्यान लगाते हैं ।",
+      "आपस में मिल हरि जस गावें, पीवत भर कर अमृत जाम ॥१ ॥"
     ],
     [
-      "परातकाल ुथ देव लोक मेन, सुर गन ध्यान लगाते हैन.",
-      "ापस मेन मिल हरि जस गावेन, पिवत भर कर अमृत जाम || 1 ||"
+      "प्रात समय उठ सन्त सर्व ही, आतम देव ध्याते हैं ।",
+      "मन चित लीन करे तिस माहीं ,देखत सब घट आतम राम ॥२ ॥"
     ],
     [
-      "परात समय ुथ संत सर्व हि, ातम देव धयाते हैन.",
-      "मन चित लिन करे तिस माहिनदेखत सब घत ातम राम || 2 ||."
-    ],
-    [
-      "कहता तेऊँ परातकाल मेन, जागत को बरभागि है.",
-      "जो जन जागे अमृत चाखे, पुरन हो सब तानके काम || 3 ||"
+      "कहता टेऊँ प्रातकाल में, जागत को बड़भागी है ।",
+      "जो जन जागे अमृत चाखे, पूर्ण हो सब तांके काम ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Praat Samay Men Jaagi Praani,Bolo Mukh Se Hari Kaa Naam (Tek)."
-    ],
     [
       "Praatkaal Uth Dev Lok Men, Sur Gan Dhyaan Lagaate Hain.",
       "Aapas Men Mil Hari Jas Gaaven, Pivat Bhar Kar Amrit Jaam || 1 ||"
     ],
     [
       "Praat Samay Uth Sant Sarv Hi, Aatam Dev Dhyaate Hain.",
-      "Man Chit Lin Kare Tis Maahin,Dekhat Sab Ghat Aatam Raam || 2 ||."
+      "Man Chit Lin Kare Tis Maahin,Dekhat Sab Ghat Aatam Raam || 2 ||"
     ],
     [
       "Kahtaa Teun Praatkaal Men, Jaagat Ko Barbhaagi Hai.",
@@ -40,19 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 3 || 35 ||",
+    "प्रात समय में जागी प्राणी ,बोलो मुख से हरि का नाम",
     "Praat Samay Men Jaagi Praani,Bolo Mukh Se Hari Kaa Naam",
-    "परात समय मेन जागि परानिबोलो मुख से हरि का नाम"
+    "राग प्रभाती भजन 3",
+    "Raag Prabhaati Bhajan 3"
   ],
   "tags": [
-    "teunram",
-    "prabhaati",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 35,
+  "displayOrder": 3,
+  "overallOrder": 35,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 43",
+  "updatedAt": "2026-10-26"
 }

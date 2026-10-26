@@ -1,73 +1,133 @@
 {
-  "id": "bhajan-0818",
+  "id": "bhajan-0816",
   "slug": "bhagvaan-kaa-bhajan-kar-har-kaal-men-pyaaraa",
   "categoryId": "raag-maanjh",
-  "title": "भगवान का भजन कर, हर काल मेन पयारा",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "भगवान का भजन कर, हर काल में प्यारा",
   "romanTitle": "Bhagvaan Kaa Bhajan Kar, Har Kaal Men Pyaaraa",
-  "firstLine": "Bhagvaan Kaa Bhajan Kar, Har Kaal Men Pyaaraa. Hari Bhajan Bin Jagat Men, Vrithaa Janm Tumhaaraa (Tek).",
+  "firstLine": "Bhagvaan Kaa Bhajan Kar, Har Kaal Men Pyaaraa.",
+  "heading": "।। राग मांझ भजन ।। ५ ।। ८१८॥।",
+  "tek": [
+    "भगवान का भजन कर, हर काल में प्यारा ।",
+    "हरि भजन बिन जगत में, वृथा जन्म तुम्हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhagvaan Kaa Bhajan Kar, Har Kaal Men Pyaaraa.",
+    "Hari Bhajan Bin Jagat Men, Vrithaa Janm Tumhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि भजन बिन जगत में, जीवन असार तेरा ।",
+        "बिन पूंछ सींग पशु जिमि, फिरता करे अहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Bhajan Bin Jagat Men, Jivan Asaar Teraa.",
+        "Bin Punchh Sing Pashu Jimi, Phirtaa Kare Ahaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "संसार धर्मशाला, सब जीव हैं मुसाफिर ।",
+        "इसमें न थिर रहोगे, ममता तजो गंवारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sansaar Dharmashaalaa, Sab Jiv Hain Musaaphir.",
+        "Ismen Na Thir Rahoge, Mamtaa Tajo Ganvaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि भजन बिन तरन का, और न उपाय कोई ।",
+        "तांते करो भजन तुम, वेदों ने यह उचारा ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Hari Bhajan Bin Taran Kaa, Aur Na Upaay Koi.",
+        "Taante Karo Bhajan Tum, Vedon Ne Yah Uchaaraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हरि भजन सत्‌ जगत में, सब काम और झूठे ।",
+        "कहे टेऊँ भजन करले, मानो वचन हमारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hari Bhajan Sat‌ Jagat Men, Sab Kaam Aur Jhuthe.",
+        "Kahe Teun Bhajan Karle, Maano Vachan Hamaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््ठढ"
+      ],
+      "romanLines": [
+        "Gthadh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भगवान का भजन कर, हर काल मेन पयारा.",
-      "हरि भजन बिन जगत मेन, वरिथा जनम तुमहारा (टेक)."
+      "हरि भजन बिन जगत में, जीवन असार तेरा ।",
+      "बिन पूंछ सींग पशु जिमि, फिरता करे अहारा ॥१ ॥"
     ],
     [
-      "हरि भजन बिन जगत मेन, जिवन सार तेरा.",
-      "बिन पुनचह सिनग पशु जिमि, फिरता करे हारा || 1 ||."
+      "संसार धर्मशाला, सब जीव हैं मुसाफिर ।",
+      "इसमें न थिर रहोगे, ममता तजो गंवारा ॥२ ॥"
     ],
     [
-      "सनसार धरमशाला, सब जिव हैन मुसाफिर.",
-      "िसमेन न थिर रहोगे, ममता तजो गनवारा || 2 ||"
+      "हरि भजन बिन तरन का, और न उपाय कोई ।",
+      "तांते करो भजन तुम, वेदों ने यह उचारा ॥ ।३े ॥"
     ],
     [
-      "हरि भजन बिन तरन का, ौर न ुपाय कोि.",
-      "तानते करो भजन तुम, वेदोन ने यह ुचारा ||.3े ||"
+      "हरि भजन सत्‌ जगत में, सब काम और झूठे ।",
+      "कहे टेऊँ भजन करले, मानो वचन हमारा ॥४ ॥"
     ],
     [
-      "हरि भजन सत‌ जगत मेन, सब काम ौर झुथे.",
-      "कहे तेऊँ भजन करले, मानो वचन हमारा || 4 ||."
-    ],
-    [
-      "गथध"
+      "ग््ठढ"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhagvaan Kaa Bhajan Kar, Har Kaal Men Pyaaraa.",
-      "Hari Bhajan Bin Jagat Men, Vrithaa Janm Tumhaaraa (Tek)."
-    ],
-    [
       "Hari Bhajan Bin Jagat Men, Jivan Asaar Teraa.",
-      "Bin Punchh Sing Pashu Jimi, Phirtaa Kare Ahaaraa || 1 ||."
+      "Bin Punchh Sing Pashu Jimi, Phirtaa Kare Ahaaraa || 1 ||"
     ],
     [
       "Sansaar Dharmashaalaa, Sab Jiv Hain Musaaphir.",
-      "Ismen N Thir Rahoge, Mamtaa Tajo Ganvaaraa || 2 ||"
+      "Ismen Na Thir Rahoge, Mamtaa Tajo Ganvaaraa || 2 ||"
     ],
     [
-      "Hari Bhajan Bin Taran Kaa, Aur N Upaay Koi.",
-      "Taante Karo Bhajan Tum, Vedon Ne Yah Uchaaraa ||.3E ||"
+      "Hari Bhajan Bin Taran Kaa, Aur Na Upaay Koi.",
+      "Taante Karo Bhajan Tum, Vedon Ne Yah Uchaaraa || 3E ||"
     ],
     [
       "Hari Bhajan Sat‌ Jagat Men, Sab Kaam Aur Jhuthe.",
-      "Kahe Teun Bhajan Karle, Maano Vachan Hamaaraa || 4 ||."
+      "Kahe Teun Bhajan Karle, Maano Vachan Hamaaraa || 4 ||"
     ],
     [
       "Gthadh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Maanjh Bhajan || 5 || 818 ||.",
+    "भगवान का भजन कर, हर काल में प्यारा",
     "Bhagvaan Kaa Bhajan Kar, Har Kaal Men Pyaaraa",
-    "भगवान का भजन कर, हर काल मेन पयारा"
+    "राग मांझ भजन 5",
+    "Raag Maanjh Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 818,
+  "displayOrder": 5,
+  "overallOrder": 816,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 433",
+  "updatedAt": "2026-10-26"
 }

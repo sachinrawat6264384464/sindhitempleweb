@@ -2,68 +2,129 @@
   "id": "bhajan-0419",
   "slug": "dharm-ki-rahti-rahe-jo-grihi-paave-so-kalyaanaa-re",
   "categoryId": "raag-tilang",
-  "title": "धरम कि रहति रहे जो गरिहि, पावे सो कलयाना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "धर्म की रहति रहे जो गृही, पावे सो कल्याना रे",
   "romanTitle": "Dharm Ki Rahti Rahe Jo Grihi, Paave So Kalyaanaa Re",
   "firstLine": "Dharm Ki Rahti Rahe Jo Grihi, Paave So Kalyaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ॥।। ५६ ।। ४२०॥।",
+  "tek": [
+    "धर्म की रहति रहे जो गृही, पावे सो कल्याना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dharm Ki Rahti Rahe Jo Grihi, Paave So Kalyaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता गुरु सन्त सेव कर, त्यागे तन अभिमाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Guru Sant Sev Kar, Tyaage Tan Abhimaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "घर में जो अतिथी चल आवे, तांको दे सन्माना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ghar Men Jo Atithi Chal Aave, Taanko De Sanmaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन मन धन से सब को सुख दे, करे न किस अपमाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Dhan Se Sab Ko Sukh De, Kare Na Kis Apmaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "धर्म नीत से करे कमाई, दीनों को दे दाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Dharm Nit Se Kare Kamaai, Dinon Ko De Daanaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ यह धर्म धरे जो, गृही सो परवाना रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Dharm Dhare Jo, Grihi So Parvaanaa Re || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "द्ठ"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धरम कि रहति रहे जो गरिहि, पावे सो कलयाना रे (टेक)."
+      "मात पिता गुरु सन्त सेव कर, त्यागे तन अभिमाना रे ॥१ ॥"
     ],
     [
-      "मात पिता गुरु संत सेव कर, तयागे तन भिमाना रे || 1 ||."
+      "घर में जो अतिथी चल आवे, तांको दे सन्माना रे ॥२ ॥"
     ],
     [
-      "घर मेन जो तिथि चल ावे, तानको दे सनमाना रे || 2 ||."
+      "तन मन धन से सब को सुख दे, करे न किस अपमाना रे ॥३ ॥"
     ],
     [
-      "तन मन धन से सब को सुख दे, करे न किस पमाना रे || 3 ||."
+      "धर्म नीत से करे कमाई, दीनों को दे दाना रे ॥४ ॥"
     ],
     [
-      "धरम नित से करे कमाि, दिनोन को दे दाना रे || 4 ||."
+      "कहे टेऊँ यह धर्म धरे जो, गृही सो परवाना रे ॥५ ॥"
     ],
     [
-      "कहे तेऊँ यह धरम धरे जो, गरिहि सो परवाना रे || 5 || ||"
-    ],
-    [
-      "दथ"
+      "द्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Dharm Ki Rahti Rahe Jo Grihi, Paave So Kalyaanaa Re (Tek)."
+      "Maat Pitaa Guru Sant Sev Kar, Tyaage Tan Abhimaanaa Re || 1 ||"
     ],
     [
-      "Maat Pitaa Guru Sant Sev Kar, Tyaage Tan Abhimaanaa Re || 1 ||."
+      "Ghar Men Jo Atithi Chal Aave, Taanko De Sanmaanaa Re || 2 ||"
     ],
     [
-      "Ghar Men Jo Atithi Chal Aave, Taanko De Sanmaanaa Re || 2 ||."
+      "Tan Man Dhan Se Sab Ko Sukh De, Kare Na Kis Apmaanaa Re || 3 ||"
     ],
     [
-      "Tan Man Dhan Se Sab Ko Sukh De, Kare N Kis Apmaanaa Re || 3 ||."
+      "Dharm Nit Se Kare Kamaai, Dinon Ko De Daanaa Re || 4 ||"
     ],
     [
-      "Dharm Nit Se Kare Kamaai, Dinon Ko De Daanaa Re || 4 ||."
-    ],
-    [
-      "Kahe Teun Yah Dharm Dhare Jo, Grihi So Parvaanaa Re || 5 || ||"
+      "Kahe Teun Yah Dharm Dhare Jo, Grihi So Parvaanaa Re || 5 ||"
     ],
     [
       "Dth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || || 56 || 420 ||.",
+    "धर्म की रहति रहे जो गृही, पावे सो कल्याना रे",
     "Dharm Ki Rahti Rahe Jo Grihi, Paave So Kalyaanaa Re",
-    "धरम कि रहति रहे जो गरिहि, पावे सो कलयाना रे"
+    "राग तिलंग भजन 56",
+    "Raag Tilang Bhajan 56"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 419,
+  "displayOrder": 56,
+  "overallOrder": 419,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 241",
+  "updatedAt": "2026-10-26"
 }

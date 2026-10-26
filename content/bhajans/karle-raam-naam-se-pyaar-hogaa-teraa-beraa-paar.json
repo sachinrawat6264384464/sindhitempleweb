@@ -1,39 +1,74 @@
 {
   "id": "bhajan-0293",
   "slug": "karle-raam-naam-se-pyaar-hogaa-teraa-beraa-paar",
-  "categoryId": "raag-bhairav",
-  "title": "करले राम नाम से पयार, होगा तेरा बेरा पार",
-  "romanTitle": "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar",
-  "firstLine": "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar, Paayaa Maanush Kaa Cholaa Tune Durlabh Hai (Tek).",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "करले राम नाम से प्यार, होगा तेरा बेड़ा पार,",
+  "romanTitle": "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar,",
+  "firstLine": "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar,",
+  "heading": "।। राग भैरवी भजन ।। ७८ ।। २९३।।",
+  "tek": [
+    "करले राम नाम से प्यार, होगा तेरा बेड़ा पार,",
+    "पाया मानुष का चोला तूने दुर्लभ है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar,",
+    "Paayaa Maanush Kaa Cholaa Tune Durlabh Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम प्रभू का है सुखकारी, जिसने तारे अधम अनारी ।",
+        "है वो सब दुख मेटनहार, सोई सुमरो सिरजनहार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Prabhu Kaa Hai Sukhkaari, Jisne Taare Adham Anaari.",
+        "Hai Vo Sab Dukh Metnahaar, Soi Sumro Sirjanhaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गनिका अजामिल राम उचारे, जनम जनम के पाप उतारे ।",
+        "पाया वैकुण्ठ का द्वार, तुम भी सुमरो सत्‌ कर्तार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ganikaa Ajaamil Raam Uchaare, Janam Janam Ke Paap Utaare.",
+        "Paayaa Vaikunth Kaa Dvaar, Tum Bhi Sumro Sat‌ Kartaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शबरी जटायू ने राम गुन गाया, कहे टेऊँ हरि का दर्शन पाया ।",
+        "कोया तिनका जै जैकार, तुम भी लेवो राम अधार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shabri Jataayu Ne Raam Gun Gaayaa, Kahe Teun Hari Kaa Darshan Paayaa.",
+        "Koyaa Tinkaa Jai Jaikaar, Tum Bhi Levo Raam Adhaar || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले राम नाम से पयार, होगा तेरा बेरा पार,",
-      "पाया मानुश का चोला तुने दुरलभ है (टेक)."
+      "नाम प्रभू का है सुखकारी, जिसने तारे अधम अनारी ।",
+      "है वो सब दुख मेटनहार, सोई सुमरो सिरजनहार ॥१ ॥"
     ],
     [
-      "नाम प्रभु का है सुखकारि, जिसने तारे धम नारि.",
-      "है वो सब दुःख मेतनहार, सोि सुमरो सिरजनहार || 1. ||."
+      "गनिका अजामिल राम उचारे, जनम जनम के पाप उतारे ।",
+      "पाया वैकुण्ठ का द्वार, तुम भी सुमरो सत्‌ कर्तार ॥२ ॥"
     ],
     [
-      "गनिका जामिल राम ुचारे, जनम जनम के पाप ुतारे.",
-      "पाया वैकुनथ का दवार, तुम भि सुमरो सत‌ करतार || 2 ||"
-    ],
-    [
-      "शबरि जतायु ने राम गुन गाया, कहे तेऊँ हरि का दरशन पाया.",
-      "कोया तिनका जै जैकार, तुम भि लेवो राम धार || 3 ||"
-    ],
-    [
-      "ह"
+      "शबरी जटायू ने राम गुन गाया, कहे टेऊँ हरि का दर्शन पाया ।",
+      "कोया तिनका जै जैकार, तुम भी लेवो राम अधार ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar,",
-      "Paayaa Maanush Kaa Cholaa Tune Durlabh Hai (Tek)."
-    ],
-    [
       "Naam Prabhu Kaa Hai Sukhkaari, Jisne Taare Adham Anaari.",
-      "Hai Vo Sab Dukh Metnahaar, Soi Sumro Sirjanhaar || 1. ||."
+      "Hai Vo Sab Dukh Metnahaar, Soi Sumro Sirjanhaar || 1 ||"
     ],
     [
       "Ganikaa Ajaamil Raam Uchaare, Janam Janam Ke Paap Utaare.",
@@ -42,25 +77,23 @@
     [
       "Shabri Jataayu Ne Raam Gun Gaayaa, Kahe Teun Hari Kaa Darshan Paayaa.",
       "Koyaa Tinkaa Jai Jaikaar, Tum Bhi Levo Raam Adhaar || 3 ||"
-    ],
-    [
-      "H"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 78 || 293 ||",
-    "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar",
-    "करले राम नाम से पयार, होगा तेरा बेरा पार"
+    "करले राम नाम से प्यार, होगा तेरा बेड़ा पार,",
+    "Karle Raam Naam Se Pyaar, Hogaa Teraa Beraa Paar,",
+    "राग भैरवी भजन 78",
+    "Raag Bhairvi Bhajan 78"
   ],
   "tags": [
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 293,
+  "displayOrder": 78,
+  "overallOrder": 293,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 177",
+  "updatedAt": "2026-10-26"
 }

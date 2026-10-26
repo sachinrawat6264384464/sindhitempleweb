@@ -2,44 +2,93 @@
   "id": "bhajan-0151",
   "slug": "samay-saphal-kar-saaraa-saaraa-hari-smaro-harivaaraa",
   "categoryId": "raag-aasaa",
-  "title": "समय सफल कर सारा सारा, हरि समरो हरिवारा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "समय सफल कर सारा सारा, हरि स्मरो हरिवारा",
   "romanTitle": "Samay Saphal Kar Saaraa Saaraa, Hari Smaro Harivaaraa",
   "firstLine": "Samay Saphal Kar Saaraa Saaraa, Hari Smaro Harivaaraa (Tek).",
+  "heading": "।। राग आसा भजन ।। ८९ ।। १५१।।",
+  "tek": [
+    "समय सफल कर सारा सारा, हरि स्मरो हरिवारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Samay Saphal Kar Saaraa Saaraa, Hari Smaro Harivaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मनुष जन्म का समय अमोलक, इनके सम ना मोती माणिक ।",
+        "सन्तनि एह उच्चारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Manush Janm Kaa Samay Amolak, Inke Sam Naa Moti Maanik.",
+        "Santani Eh Uchchaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "द्रव्य गया तो कछु ना होया, गई तन्दुरुस्ती तां कछु खोया ।",
+        "समय गये सब हारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dravy Gayaa To Kachhu Naa Hoyaa, Gai Tandurusti Taan Kachhu Khoyaa.",
+        "Samay Gaye Sab Haaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गया समय फिर हाथ न आवे, कोई कितना भी बल लावे ।",
+        "तांते जप कर्तारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gayaa Samay Phir Haath Na Aave, Koi Kitnaa Bhi Bal Laave.",
+        "Taante Jap Kartaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "समय बिताओगे तुम जैसे, टेऊँ बन जाओगे तैसे ।",
+        "करले श्रेष्ठ अचारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Samay Bitaaoge Tum Jaise, Teun Ban Jaaoge Taise.",
+        "Karle Shreshth Achaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "समय सफल कर सारा सारा, हरि समरो हरिवारा (टेक)."
+      "मनुष जन्म का समय अमोलक, इनके सम ना मोती माणिक ।",
+      "सन्तनि एह उच्चारा ॥१ ॥"
     ],
     [
-      "मनुश जनम का समय मोलक, िनके सम ना मोति मानिक.",
-      "सनतनि ेह ुचचारा || 1 ||."
+      "द्रव्य गया तो कछु ना होया, गई तन्दुरुस्ती तां कछु खोया ।",
+      "समय गये सब हारा ॥२ ॥"
     ],
     [
-      "दरवय गया तो कचहु ना होया, गै तनदुरुसति तान कचहु खोया.",
-      "समय गये सब हारा || 2 ||"
+      "गया समय फिर हाथ न आवे, कोई कितना भी बल लावे ।",
+      "तांते जप कर्तारा ॥३ ॥"
     ],
     [
-      "गया समय फिर हाथ न ावे, कोि कितना भि बल लावे.",
-      "तानते जप करतारा || 3 ||"
-    ],
-    [
-      "समय बिताोगे तुम जैसे, तेऊँ बन जाोगे तैसे.",
-      "करले शरेशथ चारा || 4 ||"
+      "समय बिताओगे तुम जैसे, टेऊँ बन जाओगे तैसे ।",
+      "करले श्रेष्ठ अचारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Samay Saphal Kar Saaraa Saaraa, Hari Smaro Harivaaraa (Tek)."
-    ],
-    [
       "Manush Janm Kaa Samay Amolak, Inke Sam Naa Moti Maanik.",
-      "Santani Eh Uchchaaraa || 1 ||."
+      "Santani Eh Uchchaaraa || 1 ||"
     ],
     [
       "Dravy Gayaa To Kachhu Naa Hoyaa, Gai Tandurusti Taan Kachhu Khoyaa.",
       "Samay Gaye Sab Haaraa || 2 ||"
     ],
     [
-      "Gayaa Samay Phir Haath N Aave, Koi Kitnaa Bhi Bal Laave.",
+      "Gayaa Samay Phir Haath Na Aave, Koi Kitnaa Bhi Bal Laave.",
       "Taante Jap Kartaaraa || 3 ||"
     ],
     [
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 89 || 151 ||",
+    "समय सफल कर सारा सारा, हरि स्मरो हरिवारा",
     "Samay Saphal Kar Saaraa Saaraa, Hari Smaro Harivaaraa",
-    "समय सफल कर सारा सारा, हरि समरो हरिवारा"
+    "राग आसा भजन 89",
+    "Raag Aasaa Bhajan 89"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 151,
+  "displayOrder": 89,
+  "overallOrder": 151,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 104",
+  "updatedAt": "2026-10-26"
 }

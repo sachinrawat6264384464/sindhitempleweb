@@ -2,72 +2,117 @@
   "id": "bhajan-0018",
   "slug": "raam-bhajan-ki-velaa-hai-yah-chet-sabere-praani-re",
   "categoryId": "raag-raamkali",
-  "title": "राम भजन कि वेला है यह चेत सबेरे परानि रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "राम भजन की वेला है यह चेत सबेरे प्रानी रे",
   "romanTitle": "Raam Bhajan Ki Velaa Hai Yah Chet Sabere Praani Re",
-  "firstLine": "Raam Bhajan Ki Velaa Hai Yah Chet Sabere Praani Re. Utho Gaaphil Gaphlat Chhoro Moh Nind Kyon Thaani Re (Tek).",
+  "firstLine": "Raam Bhajan Ki Velaa Hai Yah Chet Sabere Praani Re.",
+  "heading": "।। राग रामकली भजन ।। ६ ।। १८॥।",
+  "tek": [
+    "राम भजन की वेला है यह चेत सबेरे प्रानी रे ।",
+    "ऊठो गाफिल गफ्लत छोड़ो मोह नीन्द क्यों ठानी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Bhajan Ki Velaa Hai Yah Chet Sabere Praani Re.",
+    "Utho Gaaphil Gaphlat Chhoro Moh Nind Kyon Thaani Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पुण्य कर्म से नर तन पाया फिर फिर चारों खानी रे ।",
+        "हरि स्मरन बिन वृथा खोई ऐसी यह जिन्दगानी रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Puny Karm Se Nar Tan Paayaa Phir Phir Chaaron Khaani Re.",
+        "Hari Smaran Bin Vrithaa Khoi Aisi Yah Jindagaani Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस माया से मोह बढ़ाके भए अती अभिमानी रे ।",
+        "वह माया बादल छाया सम इक दिन होगी फानी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jis Maayaa Se Moh Barhaake Bhae Ati Abhimaani Re.",
+        "Vah Maayaa Baadal Chhaayaa Sam Ik Din Hogi Phaani Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बालापन खेलन में खोया जोरू संग जवानी रे ।",
+        "बूढ़ापन तृष्णा चिन्ता में खोया मूण्ड अज्ञानी रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Baalaapan Khelan Men Khoyaa Joru Sang Javaani Re.",
+        "Burhaapan Trishnaa Chintaa Men Khoyaa Mund Ajnyaani Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अब भोग राग तज हरि सुमरो सुखदानी रे ।",
+        "जन्म मरण का दूख मिटाके पाओ पद निर्बानी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Bhog Raag Taj Hari Sumro Sukhdaani Re.",
+        "Janm Maran Kaa Dukh Mitaake Paao Pad Nirbaani Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम भजन कि वेला है यह चेत सबेरे परानि रे.",
-      "ुथो गाफिल गफलत चहोरो मोह निनद कयोन थानि रे (टेक)."
+      "पुण्य कर्म से नर तन पाया फिर फिर चारों खानी रे ।",
+      "हरि स्मरन बिन वृथा खोई ऐसी यह जिन्दगानी रे ॥१ ॥"
     ],
     [
-      "पुनय करम से नर तन पाया फिर फिर चारोन खानि रे.",
-      "हरि समरन बिन वरिथा खोि ैसि यह जिनदगानि रे. || 1 ||."
+      "जिस माया से मोह बढ़ाके भए अती अभिमानी रे ।",
+      "वह माया बादल छाया सम इक दिन होगी फानी रे ॥२ ॥"
     ],
     [
-      "जिस माया से मोह बरहाके भे ति भिमानि रे.",
-      "वह माया बादल चहाया सम िक दीन होगि फानि रे.2 ||."
+      "बालापन खेलन में खोया जोरू संग जवानी रे ।",
+      "बूढ़ापन तृष्णा चिन्ता में खोया मूण्ड अज्ञानी रे ॥३ ॥"
     ],
     [
-      "बालापन खेलन मेन खोया जोरु सनग जवानि रे.",
-      "बुरहापन तरिशना चिनता मेन खोया मुनद जनयानि रे. || 3 ||."
-    ],
-    [
-      "कहे तेऊँ ब भोग राग तज हरि सुमरो सुखदानि रे.",
-      "जनम मरन का दुःख मिताके पाो पद निरबानि रे || 4. ||."
-    ],
-    [
-      "ते"
+      "कहे टेऊँ अब भोग राग तज हरि सुमरो सुखदानी रे ।",
+      "जन्म मरण का दूख मिटाके पाओ पद निर्बानी रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Bhajan Ki Velaa Hai Yah Chet Sabere Praani Re.",
-      "Utho Gaaphil Gaphlat Chhoro Moh Nind Kyon Thaani Re (Tek)."
-    ],
-    [
       "Puny Karm Se Nar Tan Paayaa Phir Phir Chaaron Khaani Re.",
-      "Hari Smaran Bin Vrithaa Khoi Aisi Yah Jindagaani Re. || 1 ||."
+      "Hari Smaran Bin Vrithaa Khoi Aisi Yah Jindagaani Re || 1 ||"
     ],
     [
       "Jis Maayaa Se Moh Barhaake Bhae Ati Abhimaani Re.",
-      "Vah Maayaa Baadal Chhaayaa Sam Ik Din Hogi Phaani Re.2 ||."
+      "Vah Maayaa Baadal Chhaayaa Sam Ik Din Hogi Phaani Re || 2 ||"
     ],
     [
       "Baalaapan Khelan Men Khoyaa Joru Sang Javaani Re.",
-      "Burhaapan Trishnaa Chintaa Men Khoyaa Mund Ajnyaani Re. || 3 ||."
+      "Burhaapan Trishnaa Chintaa Men Khoyaa Mund Ajnyaani Re || 3 ||"
     ],
     [
       "Kahe Teun Ab Bhog Raag Taj Hari Sumro Sukhdaani Re.",
-      "Janm Maran Kaa Dukh Mitaake Paao Pad Nirbaani Re || 4. ||."
-    ],
-    [
-      "Te"
+      "Janm Maran Kaa Dukh Mitaake Paao Pad Nirbaani Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Raamkali Bhajan || 6 || 18 ||.",
+    "राम भजन की वेला है यह चेत सबेरे प्रानी रे",
     "Raam Bhajan Ki Velaa Hai Yah Chet Sabere Praani Re",
-    "राम भजन कि वेला है यह चेत सबेरे परानि रे"
+    "राग रामकली भजन 6",
+    "Raag Raamkali Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 18,
+  "displayOrder": 6,
+  "overallOrder": 18,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 34",
+  "updatedAt": "2026-10-26"
 }

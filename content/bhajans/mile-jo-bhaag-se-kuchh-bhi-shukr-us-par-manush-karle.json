@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0563",
+  "id": "bhajan-0561",
   "slug": "mile-jo-bhaag-se-kuchh-bhi-shukr-us-par-manush-karle",
   "categoryId": "raag-khambhaat",
-  "title": "मिले जो भाग से कुचह भि, शुकर ुस पर मनुश करले",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "मिले जो भाग से कुछ भी , शुक्र उस पर मनुष करले",
   "romanTitle": "Mile Jo Bhaag Se Kuchh Bhi, Shukr Us Par Manush Karle",
   "firstLine": "Mile Jo Bhaag Se Kuchh Bhi, Shukr Us Par Manush Karle (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १३ ।। ५६२॥।",
+  "tek": [
+    "मिले जो भाग से कुछ भी , शुक्र उस पर मनुष करले ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mile Jo Bhaag Se Kuchh Bhi, Shukr Us Par Manush Karle (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मिले जो ताज शाही का, जगत में नर कभी तुमको ।",
+        "पड़े मँगना कभी भावें, शुक्र उस पर मनुष करले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mile Jo Taaj Shaahi Kaa, Jagat Men Nar Kabhi Tumko.",
+        "Pare Mangnaa Kabhi Bhaaven, Shukr Us Par Manush Karle || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मिले जो सेज फूलों की, तुझे आराम के खातिर ।",
+        "धरनि पर हो शयन भावें, शुक्र उस पर मनुष करले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mile Jo Sej Phulon Ki, Tujhe Aaraam Ke Khaatir.",
+        "Dharni Par Ho Shayan Bhaaven, Shukr Us Par Manush Karle || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मिले जो खान पहने को, मधुर भोजन सुन्दर वस्त्र ।",
+        "रहो भूखा नगन भावें, शुक्र उस पर मनुष करले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mile Jo Khaan Pahne Ko, Madhur Bhojan Sundar Vastr.",
+        "Raho Bhukhaa Nagan Bhaaven, Shukr Us Par Manush Karle || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुनो प्यारे, खुशी ग़म ना कभी करना ।",
+        "मिले सुख वा तुम्हें दुख को, शुक्र उस पर मनुष करले ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Suno Pyaare, Khushi Gham Naa Kabhi Karnaa.",
+        "Mile Sukh Vaa Tumhen Dukh Ko, Shukr Us Par Manush Karle || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग्फ्"
+      ],
+      "romanLines": [
+        "Gph"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मिले जो भाग से कुचह भि, शुकर ुस पर मनुश करले (टेक)."
+      "मिले जो ताज शाही का, जगत में नर कभी तुमको ।",
+      "पड़े मँगना कभी भावें, शुक्र उस पर मनुष करले ॥१ ॥"
     ],
     [
-      "मिले जो ताज शाहि का, जगत मेन नर कभि तुमको.",
-      "परे मनगना कभि भावेन, शुकर ुस पर मनुश करले || 1 ||"
+      "मिले जो सेज फूलों की, तुझे आराम के खातिर ।",
+      "धरनि पर हो शयन भावें, शुक्र उस पर मनुष करले ॥२ ॥"
     ],
     [
-      "मिले जो सेज फुलोन कि, तुझे ाराम के खातिर.",
-      "धरनि पर हो शयन भावेन, शुकर ुस पर मनुश करले || 2. ||."
+      "मिले जो खान पहने को, मधुर भोजन सुन्दर वस्त्र ।",
+      "रहो भूखा नगन भावें, शुक्र उस पर मनुष करले ॥३ ॥"
     ],
     [
-      "मिले जो खान पहने को, मधुर भोजन सुनदर वसतर.",
-      "रहो भुखा नगन भावेन, शुकर ुस पर मनुश करले ||.3 ||"
+      "कहे टेऊँ सुनो प्यारे, खुशी ग़म ना कभी करना ।",
+      "मिले सुख वा तुम्हें दुख को, शुक्र उस पर मनुष करले ॥४ ॥"
     ],
     [
-      "कहे तेऊँ सुनो पयारे, खुशि घम ना कभि करना.",
-      "मिले सुख वा तुमहेन दुःख को, शुकर ुस पर मनुश करले || 4 ||."
-    ],
-    [
-      "गफ"
+      "ग्फ्"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mile Jo Bhaag Se Kuchh Bhi, Shukr Us Par Manush Karle (Tek)."
-    ],
     [
       "Mile Jo Taaj Shaahi Kaa, Jagat Men Nar Kabhi Tumko.",
       "Pare Mangnaa Kabhi Bhaaven, Shukr Us Par Manush Karle || 1 ||"
     ],
     [
       "Mile Jo Sej Phulon Ki, Tujhe Aaraam Ke Khaatir.",
-      "Dharni Par Ho Shayan Bhaaven, Shukr Us Par Manush Karle || 2. ||."
+      "Dharni Par Ho Shayan Bhaaven, Shukr Us Par Manush Karle || 2 ||"
     ],
     [
       "Mile Jo Khaan Pahne Ko, Madhur Bhojan Sundar Vastr.",
-      "Raho Bhukhaa Nagan Bhaaven, Shukr Us Par Manush Karle ||.3 ||"
+      "Raho Bhukhaa Nagan Bhaaven, Shukr Us Par Manush Karle || 3 ||"
     ],
     [
       "Kahe Teun Suno Pyaare, Khushi Gham Naa Kabhi Karnaa.",
-      "Mile Sukh Vaa Tumhen Dukh Ko, Shukr Us Par Manush Karle || 4 ||."
+      "Mile Sukh Vaa Tumhen Dukh Ko, Shukr Us Par Manush Karle || 4 ||"
     ],
     [
       "Gph"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 13 || 562 ||.",
+    "मिले जो भाग से कुछ भी , शुक्र उस पर मनुष करले",
     "Mile Jo Bhaag Se Kuchh Bhi, Shukr Us Par Manush Karle",
-    "मिले जो भाग से कुचह भि, शुकर ुस पर मनुश करले"
+    "राग खंभात भजन 13",
+    "Raag Khambhaat Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 563,
+  "displayOrder": 13,
+  "overallOrder": 561,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 306",
+  "updatedAt": "2026-10-26"
 }

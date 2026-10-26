@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0572",
+  "id": "bhajan-0570",
   "slug": "duniyaa-ke-taraph-naa-dekho-raho-tum-mauj-masti-men",
   "categoryId": "raag-khambhaat",
-  "title": "दुनिया के तरफ ना देखो, रहो तुम मौज मसति मेन",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "दुनिया के तरफ ना देखो, रहो तुम मौज मस्ती में",
   "romanTitle": "Duniyaa Ke Taraph Naa Dekho, Raho Tum Mauj Masti Men",
   "firstLine": "Duniyaa Ke Taraph Naa Dekho, Raho Tum Mauj Masti Men (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। २२ ।। ५७१।।",
+  "tek": [
+    "दुनिया के तरफ ना देखो, रहो तुम मौज मस्ती में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Duniyaa Ke Taraph Naa Dekho, Raho Tum Mauj Masti Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चन्दन कोई मिट्टी लावे, निन्‍्दे कोई को यश गावे ।",
+        "कर्म अपने सो फल पावे, रहो तुम मौज मस्ती में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chandan Koi Mitti Laave, Nin‍De Koi Ko Yash Gaave.",
+        "Karm Apne So Phal Paave, Raho Tum Mauj Masti Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "करे को अगर सन्माना, करे को तोहि अपमाना ।",
+        "सर्व को जान भगवाना, रहो तुम मौज मस्ती में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kare Ko Agar Sanmaanaa, Kare Ko Tohi Apmaanaa.",
+        "Sarv Ko Jaan Bhagvaanaa, Raho Tum Mauj Masti Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दुखी कोई सुखी होवे, हसे कोई बहुत रोवे ।",
+        "करे को पाप धन खोवे, रहो तुम मौज मस्ती में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dukhi Koi Sukhi Hove, Hase Koi Bahut Rove.",
+        "Kare Ko Paap Dhan Khove, Raho Tum Mauj Masti Men || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ बन्धन तोड़े, प्रीति जगदीश से जोड़े ।",
+        "जगत से तुरत मन मोड़े, रहो तुम मौज मस्ती में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bandhan Tore, Priti Jagdish Se Jore.",
+        "Jagat Se Turat Man More, Raho Tum Mauj Masti Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दुनिया के तरफ ना देखो, रहो तुम मौज मसति मेन (टेक)."
+      "चन्दन कोई मिट्टी लावे, निन्‍्दे कोई को यश गावे ।",
+      "कर्म अपने सो फल पावे, रहो तुम मौज मस्ती में ॥१ ॥"
     ],
     [
-      "चनदन कोि मितति लावे, निनदे कोि को यश गावे.",
-      "करम पने सो फल पावे, रहो तुम मौज मसति मेन || 1 ||"
+      "करे को अगर सन्माना, करे को तोहि अपमाना ।",
+      "सर्व को जान भगवाना, रहो तुम मौज मस्ती में ॥२ ॥"
     ],
     [
-      "करे को गर सनमाना, करे को तोहि पमाना.",
-      "सर्व को जान भगवाना, रहो तुम मौज मसति मेन || 2 ||."
+      "दुखी कोई सुखी होवे, हसे कोई बहुत रोवे ।",
+      "करे को पाप धन खोवे, रहो तुम मौज मस्ती में ॥३ ॥"
     ],
     [
-      "दुखि कोि सुखि होवे, हसे कोि बहुत रोवे.",
-      "करे को पाप धन खोवे, रहो तुम मौज मसति मेन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ बनधन तोरे, परिति जगदिश से जोरे.",
-      "जगत से तुरत मन मोरे, रहो तुम मौज मसति मेन || 4 ||"
+      "कहे टेऊँ बन्धन तोड़े, प्रीति जगदीश से जोड़े ।",
+      "जगत से तुरत मन मोड़े, रहो तुम मौज मस्ती में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Duniyaa Ke Taraph Naa Dekho, Raho Tum Mauj Masti Men (Tek)."
-    ],
     [
       "Chandan Koi Mitti Laave, Nin‍De Koi Ko Yash Gaave.",
       "Karm Apne So Phal Paave, Raho Tum Mauj Masti Men || 1 ||"
     ],
     [
       "Kare Ko Agar Sanmaanaa, Kare Ko Tohi Apmaanaa.",
-      "Sarv Ko Jaan Bhagvaanaa, Raho Tum Mauj Masti Men || 2 ||."
+      "Sarv Ko Jaan Bhagvaanaa, Raho Tum Mauj Masti Men || 2 ||"
     ],
     [
       "Dukhi Koi Sukhi Hove, Hase Koi Bahut Rove.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 22 || 571 ||",
+    "दुनिया के तरफ ना देखो, रहो तुम मौज मस्ती में",
     "Duniyaa Ke Taraph Naa Dekho, Raho Tum Mauj Masti Men",
-    "दुनिया के तरफ ना देखो, रहो तुम मौज मसति मेन"
+    "राग खंभात भजन 22",
+    "Raag Khambhaat Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 572,
+  "displayOrder": 22,
+  "overallOrder": 570,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 311",
+  "updatedAt": "2026-10-26"
 }

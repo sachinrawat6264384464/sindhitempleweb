@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0622",
+  "slug": "bandaa-bhul-na-paap-kamaai",
+  "categoryId": "raag-kalyaan",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "बन्दा भूल न पाप कमाइ",
+  "romanTitle": "Bandaa Bhul Na Paap Kamaai",
+  "firstLine": "Bandaa Bhul Na Paap Kamaai.",
+  "heading": "।। राग कल्याण भजन ।। १६ ।। ६२३।॥।",
+  "tek": [
+    "बन्दा भूल न पाप कमाइ ।",
+    "दुख का कारण पाप पछानो, तांसे चित्त ना लाइ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa Bhul Na Paap Kamaai.",
+    "Dukh Kaa Kaaran Paap Pachhaano, Taanse Chitt Naa Laai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पाप कर्म कीकर सम भाई, तांके कांटे बहु दुखदाई ।",
+        "पाप से प्रीति न पाइ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paap Karm Kikar Sam Bhaai, Taanke Kaante Bahu Dukhdaai.",
+        "Paap Se Priti Na Paai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाप से मन जिस कीना मैला, तिसका होय न जन्म सुहेला ।",
+        "मर कर नरके जाइ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paap Se Man Jis Kinaa Mailaa, Tiskaa Hoy Na Janm Suhelaa.",
+        "Mar Kar Narke Jaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पाप भाव नहिं मन में धरना, पापी का सड्ड भूल न करना ।",
+        "जीवन सफल बनाइ़ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paap Bhaav Nahin Man Men Dharnaa, Paapi Kaa Sadd Bhul Na Karnaa.",
+        "Jivan Saphal Banaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जे हित को चाहो, शुभ कर्मों में चीत लगाओ ।",
+        "साध संगति गुन गाइ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Hit Ko Chaaho, Shubh Karmon Men Chit Lagaao.",
+        "Saadh Sangti Gun Gaai || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "पाप कर्म कीकर सम भाई, तांके कांटे बहु दुखदाई ।",
+      "पाप से प्रीति न पाइ ॥१ ॥"
+    ],
+    [
+      "पाप से मन जिस कीना मैला, तिसका होय न जन्म सुहेला ।",
+      "मर कर नरके जाइ ॥२ ॥"
+    ],
+    [
+      "पाप भाव नहिं मन में धरना, पापी का सड्ड भूल न करना ।",
+      "जीवन सफल बनाइ़ ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ जे हित को चाहो, शुभ कर्मों में चीत लगाओ ।",
+      "साध संगति गुन गाइ ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Paap Karm Kikar Sam Bhaai, Taanke Kaante Bahu Dukhdaai.",
+      "Paap Se Priti Na Paai || 1 ||"
+    ],
+    [
+      "Paap Se Man Jis Kinaa Mailaa, Tiskaa Hoy Na Janm Suhelaa.",
+      "Mar Kar Narke Jaai || 2 ||"
+    ],
+    [
+      "Paap Bhaav Nahin Man Men Dharnaa, Paapi Kaa Sadd Bhul Na Karnaa.",
+      "Jivan Saphal Banaai || 3 ||"
+    ],
+    [
+      "Kahe Teun Je Hit Ko Chaaho, Shubh Karmon Men Chit Lagaao.",
+      "Saadh Sangti Gun Gaai || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "बन्दा भूल न पाप कमाइ",
+    "Bandaa Bhul Na Paap Kamaai",
+    "राग कल्याण भजन 16",
+    "Raag Kalyaan Bhajan 16"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
+  ],
+  "displayOrder": 16,
+  "overallOrder": 622,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 334",
+  "updatedAt": "2026-10-26"
+}

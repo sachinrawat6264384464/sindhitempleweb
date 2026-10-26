@@ -1,65 +1,99 @@
 {
-  "id": "bhajan-0773",
+  "id": "bhajan-0771",
   "slug": "aap-pachhaano-aap-pachhaano-aap-pachhaano-mit-hamaare",
   "categoryId": "raag-pilaa",
-  "title": "ाप पचहानो ाप पचहानो, ाप पचहानो मित हमारे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "आप पछानो आप पछानो, आप पछानो मीत हमारे",
   "romanTitle": "Aap Pachhaano Aap Pachhaano, Aap Pachhaano Mit Hamaare",
-  "firstLine": "Aap Pachhaano Aap Pachhaano, Aap Pachhaano Mit Hamaare. Aap Pachhaane So Hari Jaane, Avidyaa Haane Ved Pukaare (Tek).",
+  "firstLine": "Aap Pachhaano Aap Pachhaano, Aap Pachhaano Mit Hamaare.",
+  "heading": "।। राग पीला भजन ॥।। ५१ ।। ७७३।॥",
+  "tek": [
+    "आप पछानो आप पछानो, आप पछानो मीत हमारे ।",
+    "आप पछाने सो हरि जाने, अविद्या हाने वेद पुकारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aap Pachhaano Aap Pachhaano, Aap Pachhaano Mit Hamaare.",
+    "Aap Pachhaane So Hari Jaane, Avidyaa Haane Ved Pukaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आप पछानन चाबी जानो, हरि पहिचानन केरी मानो ।",
+        "हरि पहिचाने आप लखे नहिं, आप पछाने हरिहिं निहारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aap Pachhaanan Chaabi Jaano, Hari Pahichaanan Keri Maano.",
+        "Hari Pahichaane Aap Lakhe Nahin, Aap Pachhaane Harihin Nihaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरि का जानन सुगम पछानो, अपना जानन अगम पछानो ।",
+        "हरि के जाने मोक्ष न पावे, आप पछाने हो भव पारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Kaa Jaanan Sugam Pachhaano, Apnaa Jaanan Agam Pachhaano.",
+        "Hari Ke Jaane Moksh Na Paave, Aap Pachhaane Ho Bhav Paare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे. टेऊँ तुम सर्व त्यागो, अपने आतम में अनुरागो ।",
+        "अपने जानन की गम लीजे, श्रद्धा से चल गुरु के द्वारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe. Teun Tum Sarv Tyaago, Apne Aatam Men Anuraago.",
+        "Apne Jaanan Ki Gam Lije, Shraddhaa Se Chal Guru Ke Dvaare || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाप पचहानो ाप पचहानो, ाप पचहानो मित हमारे.",
-      "ाप पचहाने सो हरि जाने, विदया हाने वेद पुकारे (टेक)."
+      "आप पछानन चाबी जानो, हरि पहिचानन केरी मानो ।",
+      "हरि पहिचाने आप लखे नहिं, आप पछाने हरिहिं निहारे ॥१ ॥"
     ],
     [
-      "ाप पचहानन चाबि जानो, हरि पहिचानन केरि मानो.",
-      "हरि पहिचाने ाप लखे नहिन, ाप पचहाने हरिहिन निहारे || 1 ||."
+      "हरि का जानन सुगम पछानो, अपना जानन अगम पछानो ।",
+      "हरि के जाने मोक्ष न पावे, आप पछाने हो भव पारे ॥२ ॥"
     ],
     [
-      "हरि का जानन सुगम पचहानो, पना जानन गम पचहानो.",
-      "हरि के जाने मोक्ष न पावे, ाप पचहाने हो भव पारे || 2 ||."
-    ],
-    [
-      "कहे. तेऊँ तुम सर्व तयागो, पने ातम मेन नुरागो.",
-      "पने जानन कि गम लिजे, शरदधा से चल गुरु के दवारे || 3े ||"
-    ],
-    [
-      "दम"
+      "कहे. टेऊँ तुम सर्व त्यागो, अपने आतम में अनुरागो ।",
+      "अपने जानन की गम लीजे, श्रद्धा से चल गुरु के द्वारे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aap Pachhaano Aap Pachhaano, Aap Pachhaano Mit Hamaare.",
-      "Aap Pachhaane So Hari Jaane, Avidyaa Haane Ved Pukaare (Tek)."
-    ],
-    [
       "Aap Pachhaanan Chaabi Jaano, Hari Pahichaanan Keri Maano.",
-      "Hari Pahichaane Aap Lakhe Nahin, Aap Pachhaane Harihin Nihaare || 1 ||."
+      "Hari Pahichaane Aap Lakhe Nahin, Aap Pachhaane Harihin Nihaare || 1 ||"
     ],
     [
       "Hari Kaa Jaanan Sugam Pachhaano, Apnaa Jaanan Agam Pachhaano.",
-      "Hari Ke Jaane Moksh N Paave, Aap Pachhaane Ho Bhav Paare || 2 ||."
+      "Hari Ke Jaane Moksh Na Paave, Aap Pachhaane Ho Bhav Paare || 2 ||"
     ],
     [
       "Kahe. Teun Tum Sarv Tyaago, Apne Aatam Men Anuraago.",
-      "Apne Jaanan Ki Gam Lije, Shraddhaa Se Chal Guru Ke Dvaare || 3E ||"
-    ],
-    [
-      "Dam"
+      "Apne Jaanan Ki Gam Lije, Shraddhaa Se Chal Guru Ke Dvaare || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 51 || 773. ||",
+    "आप पछानो आप पछानो, आप पछानो मीत हमारे",
     "Aap Pachhaano Aap Pachhaano, Aap Pachhaano Mit Hamaare",
-    "ाप पचहानो ाप पचहानो, ाप पचहानो मित हमारे"
+    "राग पीला भजन 50",
+    "Raag Pilaa Bhajan 50"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 773,
+  "displayOrder": 50,
+  "overallOrder": 771,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 408",
+  "updatedAt": "2026-10-26"
 }

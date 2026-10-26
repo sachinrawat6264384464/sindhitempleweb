@@ -2,72 +2,106 @@
   "id": "bhajan-0108",
   "slug": "bhakt-hari-ko-bhakt-hari-ko-laagat-pyaare-ji",
   "categoryId": "raag-aasaa",
-  "title": "भकत हरि को भकत हरि को लागत पयारे जी",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "भक्त हरी को भक्त हरी को लागत प्यारे जी",
   "romanTitle": "Bhakt Hari Ko Bhakt Hari Ko Laagat Pyaare Ji",
-  "firstLine": "Bhakt Hari Ko Bhakt Hari Ko Laagat Pyaare Ji. Bhakton Ki Hari Zaati N Dekhe, Aap Ubaare Ji (Tek).",
+  "firstLine": "Bhakt Hari Ko Bhakt Hari Ko Laagat Pyaare Ji.",
+  "heading": "।। राग आसा भजन ।। ४६ ।। १०८॥।",
+  "tek": [
+    "भक्त हरी को भक्त हरी को लागत प्यारे जी ।",
+    "भक्तों की हरि ज़ाति न देखे, आप उबारे जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhakt Hari Ko Bhakt Hari Ko Laagat Pyaare Ji.",
+    "Bhakton Ki Hari Zaati Na Dekhe, Aap Ubaare Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भक्त प्रहलाद विभीषण दोए, निशिचर कुल में उत्पन्न होए ।",
+        "ऐसे भी हरि भवसागर से पार उतारे जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhakt Prahlaad Vibhishan Doe, Nishichar Kul Men Utpann Hoe.",
+        "Aise Bhi Hari Bhavsaagar Se Paar Utaare Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बाल्मीक दो भील चण्डाला, दोनों को हरि किया निहाला ।",
+        "अजामेल पापी के हरि ने पाप निवारे जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baalmik Do Bhil Chandaalaa, Donon Ko Hari Kiyaa Nihaalaa.",
+        "Ajaamel Paapi Ke Hari Ne Paap Nivaare Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कबीर जुलाहा सइ़ना नाई, जाट धनना सधना कासाई ।",
+        "नामा छीपा पुनि रविदासा हरि ने तारे जी ॥ ।डे ॥",
+        "कहे टेऊँ हरि कर्म न पेखत, निज भक्तों के दोष न देखत ।",
+        "चारों युग में निज भक्तों के काज संवारे जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kabir Julaahaa Sainaa Naai, Jaat Dhannaa Sadhnaa Kaasaai.",
+        "Naamaa Chhipaa Puni Ravidaasaa Hari Ne Taare Ji || De ||",
+        "Kahe Teun Hari Karm Na Pekhat, Nij Bhakton Ke Dosh Na Dekhat.",
+        "Chaaron Yug Men Nij Bhakton Ke Kaaj Sanvaare Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भकत हरि को भकत हरि को लागत पयारे जी.",
-      "भकतोन कि हरि zाति न देखे, ाप ुबारे जी (टेक)."
+      "भक्त प्रहलाद विभीषण दोए, निशिचर कुल में उत्पन्न होए ।",
+      "ऐसे भी हरि भवसागर से पार उतारे जी ॥१ ॥"
     ],
     [
-      "थ",
-      "भकत परहलाद विभिशन दोे, निशिचर कुल मेन ुतपनन होे."
+      "बाल्मीक दो भील चण्डाला, दोनों को हरि किया निहाला ।",
+      "अजामेल पापी के हरि ने पाप निवारे जी ॥२ ॥"
     ],
     [
-      "ैसे भि हरि भवसागर से पार ुतारे जी.1 ||.",
-      "बालमिक दो भिल चनदाला, दोनोन को हरि किया निहाला."
-    ],
-    [
-      "जामेल पापि के हरि ने पाप निवारे जी || 2 ||"
-    ],
-    [
-      "कबिर जुलाहा सैना नाि, जात धनना सधना कासाि.",
-      "नामा चहिपा पुनि रविदासा हरि ने तारे जी ||.दे ||"
-    ],
-    [
-      "कहे तेऊँ हरि करम न पेखत, निज भकतोन के दोश न देखत.",
-      "चारोन युग मेन निज भकतोन के काज सनवारे जी || 4 ||"
+      "कबीर जुलाहा सइ़ना नाई, जाट धनना सधना कासाई ।",
+      "नामा छीपा पुनि रविदासा हरि ने तारे जी ॥ ।डे ॥",
+      "कहे टेऊँ हरि कर्म न पेखत, निज भक्तों के दोष न देखत ।",
+      "चारों युग में निज भक्तों के काज संवारे जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhakt Hari Ko Bhakt Hari Ko Laagat Pyaare Ji.",
-      "Bhakton Ki Hari Zaati N Dekhe, Aap Ubaare Ji (Tek)."
+      "Bhakt Prahlaad Vibhishan Doe, Nishichar Kul Men Utpann Hoe.",
+      "Aise Bhi Hari Bhavsaagar Se Paar Utaare Ji || 1 ||"
     ],
     [
-      "Th",
-      "Bhakt Prahlaad Vibhishan Doe, Nishichar Kul Men Utpann Hoe."
-    ],
-    [
-      "Aise Bhi Hari Bhavsaagar Se Paar Utaare Ji.1 ||.",
-      "Baalmik Do Bhil Chandaalaa, Donon Ko Hari Kiyaa Nihaalaa."
-    ],
-    [
+      "Baalmik Do Bhil Chandaalaa, Donon Ko Hari Kiyaa Nihaalaa.",
       "Ajaamel Paapi Ke Hari Ne Paap Nivaare Ji || 2 ||"
     ],
     [
       "Kabir Julaahaa Sainaa Naai, Jaat Dhannaa Sadhnaa Kaasaai.",
-      "Naamaa Chhipaa Puni Ravidaasaa Hari Ne Taare Ji ||.De ||"
-    ],
-    [
-      "Kahe Teun Hari Karm N Pekhat, Nij Bhakton Ke Dosh N Dekhat.",
+      "Naamaa Chhipaa Puni Ravidaasaa Hari Ne Taare Ji || De ||",
+      "Kahe Teun Hari Karm Na Pekhat, Nij Bhakton Ke Dosh Na Dekhat.",
       "Chaaron Yug Men Nij Bhakton Ke Kaaj Sanvaare Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 46 || 108 ||.",
+    "भक्त हरी को भक्त हरी को लागत प्यारे जी",
     "Bhakt Hari Ko Bhakt Hari Ko Laagat Pyaare Ji",
-    "भकत हरि को भकत हरि को लागत पयारे जी"
+    "राग आसा भजन 46",
+    "Raag Aasaa Bhajan 46"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 108,
+  "displayOrder": 46,
+  "overallOrder": 108,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 79",
+  "updatedAt": "2026-10-26"
 }

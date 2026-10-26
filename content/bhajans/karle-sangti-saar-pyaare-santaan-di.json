@@ -1,41 +1,87 @@
 {
-  "id": "bhajan-0767",
+  "id": "bhajan-0765",
   "slug": "karle-sangti-saar-pyaare-santaan-di",
   "categoryId": "raag-pilaa",
-  "title": "करले सनगति सार, पयारे सनतान दि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "करले संगति सार, प्यारे सन्तां दी",
   "romanTitle": "Karle Sangti Saar, Pyaare Santaan Di",
   "firstLine": "Karle Sangti Saar, Pyaare Santaan Di (Tek).",
+  "heading": "।। राग पीला भजन ॥। ४५ ।। ७६७।।",
+  "tek": [
+    "करले संगति सार, प्यारे सन्तां दी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Sangti Saar, Pyaare Santaan Di (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "संतां के संग प्रेम है मिलन्दा, जन्म जन्म के भाग्य खुलन्दा,",
+        "मिलन्दा सत्‌कर्तार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santaan Ke Sang Prem Hai Milandaa, Janm Janm Ke Bhaagy Khulandaa,",
+        "Milandaa Sat‌Kartaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वचन सनतां दा जो मन धरन्दा, छिन में सर्व दूख सो हरन्दा,",
+        "पांदा सूख अपार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vachan Santaan Daa Jo Man Dharandaa, Chhin Men Sarv Dukh So Harandaa,",
+        "Paandaa Sukh Apaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सनतां संग जो हरि गुन गावहिं, तां हृदय नूं शान्ती आवहिं,",
+        "पावैं मोक्ष द्वार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santaan Sang Jo Hari Gun Gaavhin, Taan Hriday Nun Shaanti Aavhin,",
+        "Paavain Moksh Dvaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ संग संतां दा, रैन दिवस है मुझको भांदा,",
+        "करंदा भव जल पार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sang Santaan Daa, Rain Divas Hai Mujhko Bhaandaa,",
+        "Karandaa Bhav Jal Paar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले सनगति सार, पयारे सनतान दि (टेक)."
+      "संतां के संग प्रेम है मिलन्दा, जन्म जन्म के भाग्य खुलन्दा,",
+      "मिलन्दा सत्‌कर्तार ॥१ ॥"
     ],
     [
-      "सनतान के सनग प्रेम है मिलनदा, जनम जनम के भागय खुलनदा,",
-      "मिलनदा सतकरतार || 1 ||."
+      "वचन सनतां दा जो मन धरन्दा, छिन में सर्व दूख सो हरन्दा,",
+      "पांदा सूख अपार ॥२ ॥"
     ],
     [
-      "वचन सनतान दा जो मन धरनदा, चहिन मेन सर्व दुःख सो हरनदा,",
-      "पानदा सुख पार || 2 ||"
+      "सनतां संग जो हरि गुन गावहिं, तां हृदय नूं शान्ती आवहिं,",
+      "पावैं मोक्ष द्वार ॥३ ॥"
     ],
     [
-      "सनतान सनग जो हरि गुन गावहिन, तान हरिदय नुन शांति ावहिन,",
-      "पावैन मोक्ष दवार.3 ||."
-    ],
-    [
-      "कहता तेऊँ सनग सनतान दा, रैन दिवस है मुझको भानदा,",
-      "करनदा भव जल पार || 4. ||."
-    ],
-    [
-      "दा"
+      "कहता टेऊँ संग संतां दा, रैन दिवस है मुझको भांदा,",
+      "करंदा भव जल पार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Sangti Saar, Pyaare Santaan Di (Tek)."
-    ],
-    [
       "Santaan Ke Sang Prem Hai Milandaa, Janm Janm Ke Bhaagy Khulandaa,",
-      "Milandaa Sat‌Kartaar || 1 ||."
+      "Milandaa Sat‌Kartaar || 1 ||"
     ],
     [
       "Vachan Santaan Daa Jo Man Dharandaa, Chhin Men Sarv Dukh So Harandaa,",
@@ -43,29 +89,28 @@
     ],
     [
       "Santaan Sang Jo Hari Gun Gaavhin, Taan Hriday Nun Shaanti Aavhin,",
-      "Paavain Moksh Dvaar.3 ||."
+      "Paavain Moksh Dvaar || 3 ||"
     ],
     [
       "Kahtaa Teun Sang Santaan Daa, Rain Divas Hai Mujhko Bhaandaa,",
-      "Karandaa Bhav Jal Paar || 4. ||."
-    ],
-    [
-      "Daa"
+      "Karandaa Bhav Jal Paar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan ||. 45 || 767 ||",
+    "करले संगति सार, प्यारे सन्तां दी",
     "Karle Sangti Saar, Pyaare Santaan Di",
-    "करले सनगति सार, पयारे सनतान दि"
+    "राग पीला भजन 44",
+    "Raag Pilaa Bhajan 44"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 767,
+  "displayOrder": 44,
+  "overallOrder": 765,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 405",
+  "updatedAt": "2026-10-26"
 }

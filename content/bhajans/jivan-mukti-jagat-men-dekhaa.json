@@ -1,47 +1,93 @@
 {
-  "id": "bhajan-0485",
+  "id": "bhajan-0484",
   "slug": "jivan-mukti-jagat-men-dekhaa",
   "categoryId": "raag-kohiyaari",
-  "title": "जिवन मुक्ति जगत मेन देखा",
-  "romanTitle": "Jivan Mukti Jagat Men Dekhaa",
-  "firstLine": "Jivan Mukti Jagat Men Dekhaa, Sant Sajjan Sachiyaaraa, Pritam Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "जीवन मुक्ति जगत में देखा,",
+  "romanTitle": "Jivan Mukti Jagat Men Dekhaa,",
+  "firstLine": "Jivan Mukti Jagat Men Dekhaa,",
+  "heading": "।। राग कोदह्यारी भजन ।। ५ ।। डं८५॥॥",
+  "tek": [
+    "जीवन मुक्ति जगत में देखा,",
+    "सन्त सज्जन सचियारा, प्रीतम प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jivan Mukti Jagat Men Dekhaa,",
+    "Sant Sajjan Sachiyaaraa, Pritam Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "निर्वेरी निर्मोही ज्ञानी, निशदिन बोलत निर्गुन बानी ।",
+        "करते जग उपकारा, परम उदारा ॥8 ॥"
+      ],
+      "romanLines": [
+        "Nirveri Nirmohi Jnyaani, Nishdin Bolat Nirgun Baani.",
+        "Karte Jag Upkaaraa, Param Udaaraa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दिल की दुर्मति दूर हटाते, सब जीवों को प्रेम पिलाते ।",
+        "बरसाय अमृत धारा, कर गजकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dil Ki Durmati Dur Hataate, Sab Jivon Ko Prem Pilaate.",
+        "Barsaay Amrit Dhaaraa, Kar Gajkaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शान्ति सरोवर शान्ति बढ़ाते, तापों की सब तप्त मिटाते ।",
+        "देते भजन भण्डारा, अखण्ड अपारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shaanti Sarovar Shaanti Barhaate, Taapon Ki Sab Tapt Mitaate.",
+        "Dete Bhajan Bhandaaraa, Akhand Apaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ रह आनन्द घन में, निर्भय विचरत तीन भवन में ।",
+        "राग द्वेष से न्यारा, सदा बहारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Rah Aanand Ghan Men, Nirbhay Vichrat Tin Bhavan Men.",
+        "Raag Dvesh Se Nyaaraa, Sadaa Bahaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिवन मुक्ति जगत मेन देखा,",
-      "संत सजजन सचियारा, परितम पयारा (टेक)."
+      "निर्वेरी निर्मोही ज्ञानी, निशदिन बोलत निर्गुन बानी ।",
+      "करते जग उपकारा, परम उदारा ॥8 ॥"
     ],
     [
-      "निरवेरि निरमोहि जनयानि, निशदिन बोलत निरगुन बानी.",
-      "करते जग ुपकारा, परम ुदारा.8 ||"
+      "दिल की दुर्मति दूर हटाते, सब जीवों को प्रेम पिलाते ।",
+      "बरसाय अमृत धारा, कर गजकारा ॥२ ॥"
     ],
     [
-      "दिल कि दुरमति दुर हताते, सब जिवोन को प्रेम पिलाते.",
-      "बरसाय अमृत धारा, कर गजकारा || 2. ||."
+      "शान्ति सरोवर शान्ति बढ़ाते, तापों की सब तप्त मिटाते ।",
+      "देते भजन भण्डारा, अखण्ड अपारा ॥३ ॥"
     ],
     [
-      "शांति सरोवर शांति बरहाते, तापोन कि सब तपत मिताते.",
-      "देते भजन भनदारा, खनद पारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ रह आनंद घन मेन, निरभय विचरत तिन भवन मेन.",
-      "राग दवेश से नयारा, सदा बहारा ||.4 ||"
-    ],
-    [
-      "तय"
+      "कहे टेऊँ रह आनन्द घन में, निर्भय विचरत तीन भवन में ।",
+      "राग द्वेष से न्यारा, सदा बहारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jivan Mukti Jagat Men Dekhaa,",
-      "Sant Sajjan Sachiyaaraa, Pritam Pyaaraa (Tek)."
-    ],
-    [
       "Nirveri Nirmohi Jnyaani, Nishdin Bolat Nirgun Baani.",
-      "Karte Jag Upkaaraa, Param Udaaraa.8 ||"
+      "Karte Jag Upkaaraa, Param Udaaraa || 8 ||"
     ],
     [
       "Dil Ki Durmati Dur Hataate, Sab Jivon Ko Prem Pilaate.",
-      "Barsaay Amrit Dhaaraa, Kar Gajkaaraa || 2. ||."
+      "Barsaay Amrit Dhaaraa, Kar Gajkaaraa || 2 ||"
     ],
     [
       "Shaanti Sarovar Shaanti Barhaate, Taapon Ki Sab Tapt Mitaate.",
@@ -49,25 +95,24 @@
     ],
     [
       "Kahe Teun Rah Aanand Ghan Men, Nirbhay Vichrat Tin Bhavan Men.",
-      "Raag Dvesh Se Nyaaraa, Sadaa Bahaaraa ||.4 ||"
-    ],
-    [
-      "Tay"
+      "Raag Dvesh Se Nyaaraa, Sadaa Bahaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kodahyaari Bhajan || 5 || Dan85 || ||",
-    "Jivan Mukti Jagat Men Dekhaa",
-    "जिवन मुक्ति जगत मेन देखा"
+    "जीवन मुक्ति जगत में देखा,",
+    "Jivan Mukti Jagat Men Dekhaa,",
+    "राग कोहियारी भजन 5",
+    "Raag Kohiyaari Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 485,
+  "displayOrder": 5,
+  "overallOrder": 484,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 271",
+  "updatedAt": "2026-10-26"
 }

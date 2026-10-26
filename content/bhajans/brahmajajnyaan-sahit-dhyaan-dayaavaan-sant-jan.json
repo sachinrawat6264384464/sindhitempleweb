@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0862",
+  "id": "bhajan-0860",
   "slug": "brahmajajnyaan-sahit-dhyaan-dayaavaan-sant-jan",
   "categoryId": "raag-jog",
-  "title": "बरहमजजनयान सहित ध्यान दयावान संत जन",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "ब्रह्मजज्ञान सहित ध्यान दयावान सन्त जन",
   "romanTitle": "Brahmajajnyaan Sahit Dhyaan Dayaavaan Sant Jan",
-  "firstLine": "Brahmajajnyaan Sahit Dhyaan Dayaavaan Sant Jan. Rahtivaan Bigramaan Ve Sujaan Sant Jan (Tek).",
+  "firstLine": "Brahmajajnyaan Sahit Dhyaan Dayaavaan Sant Jan.",
+  "heading": "।। राग जोग भजन ।। ३२ ।। ८६२।॥।",
+  "tek": [
+    "ब्रह्मजज्ञान सहित ध्यान दयावान सन्त जन ।",
+    "रहतिवान बिगरमान वे सुजान संत जन ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Brahmajajnyaan Sahit Dhyaan Dayaavaan Sant Jan.",
+    "Rahtivaan Bigramaan Ve Sujaan Sant Jan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "उपकार धर्म धार, गहत सार सर्व से ।",
+        "सत्कार तिरस्कार में, इकसार सन्त जन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Upkaar Dharm Dhaar, Gahat Saar Sarv Se.",
+        "Satkaar Tiraskaar Men, Iksaar Sant Jan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भव भोग से अरोग, रहत जोग में सदा ।",
+        "संयोग पुनि वियोग में, निरोग सन्त जन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhav Bhog Se Arog, Rahat Jog Men Sadaa.",
+        "Sanyog Puni Viyog Men, Nirog Sant Jan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जग जाल कटे काल, सदा लाल रहत हैं ।",
+        "रखपाल सर्वकाल, नित निहाल सन्त जन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jag Jaal Kate Kaal, Sadaa Laal Rahat Hain.",
+        "Rakhpaal Sarvakaal, Nit Nihaal Sant Jan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "निष्काम गुणनि धाम, जपत नाम सर्वदा ।",
+        "अलिकाम सुन्दर श्याम, टेऊँ राम सन्त जन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nishkaam Gunni Dhaam, Japat Naam Sarvadaa.",
+        "Alikaam Sundar Shyaam, Teun Raam Sant Jan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बरहमजजनयान सहित ध्यान दयावान संत जन.",
-      "रहतिवान बिगरमान वे सुजान संत जन (टेक)."
+      "उपकार धर्म धार, गहत सार सर्व से ।",
+      "सत्कार तिरस्कार में, इकसार सन्त जन ॥१ ॥"
     ],
     [
-      "ुपकार धरम धार, गहत सार सर्व से.",
-      "सतकार तिरसकार मेन, िकसार संत जन. || 1 ||"
+      "भव भोग से अरोग, रहत जोग में सदा ।",
+      "संयोग पुनि वियोग में, निरोग सन्त जन ॥२ ॥"
     ],
     [
-      "भव भोग से रोग, रहत जोग मेन सदा.",
-      "सनयोग पुनि वियोग मेन, निरोग संत जन || 2 ||."
+      "जग जाल कटे काल, सदा लाल रहत हैं ।",
+      "रखपाल सर्वकाल, नित निहाल सन्त जन ॥३ ॥"
     ],
     [
-      "जग जाल कते काल, सदा लाल रहत हैन.",
-      "रखपाल सरवकाल, नित निहाल संत जन ||.3. ||."
-    ],
-    [
-      "निशकाम गुननि धाम, जपत नाम सरवदा.",
-      "लिकाम सुनदर शयाम, तेऊँ राम संत जन || 4 ||"
+      "निष्काम गुणनि धाम, जपत नाम सर्वदा ।",
+      "अलिकाम सुन्दर श्याम, टेऊँ राम सन्त जन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Brahmajajnyaan Sahit Dhyaan Dayaavaan Sant Jan.",
-      "Rahtivaan Bigramaan Ve Sujaan Sant Jan (Tek)."
-    ],
-    [
       "Upkaar Dharm Dhaar, Gahat Saar Sarv Se.",
-      "Satkaar Tiraskaar Men, Iksaar Sant Jan. || 1 ||"
+      "Satkaar Tiraskaar Men, Iksaar Sant Jan || 1 ||"
     ],
     [
       "Bhav Bhog Se Arog, Rahat Jog Men Sadaa.",
-      "Sanyog Puni Viyog Men, Nirog Sant Jan || 2 ||."
+      "Sanyog Puni Viyog Men, Nirog Sant Jan || 2 ||"
     ],
     [
       "Jag Jaal Kate Kaal, Sadaa Laal Rahat Hain.",
-      "Rakhpaal Sarvakaal, Nit Nihaal Sant Jan ||.3. ||."
+      "Rakhpaal Sarvakaal, Nit Nihaal Sant Jan || 3 ||"
     ],
     [
       "Nishkaam Gunni Dhaam, Japat Naam Sarvadaa.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 32 || 862. ||.",
+    "ब्रह्मजज्ञान सहित ध्यान दयावान सन्त जन",
     "Brahmajajnyaan Sahit Dhyaan Dayaavaan Sant Jan",
-    "बरहमजजनयान सहित ध्यान दयावान संत जन"
+    "राग जोग भजन 32",
+    "Raag Jog Bhajan 32"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 862,
+  "displayOrder": 32,
+  "overallOrder": 860,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 454",
+  "updatedAt": "2026-10-26"
 }

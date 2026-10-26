@@ -1,0 +1,130 @@
+{
+  "id": "bhajan-0855",
+  "slug": "utho-utho-panchhi-bhaago-yahaan-na-paanv-tikaanaa-re",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "ऊठो ऊठो पंछी भागो, यहां न पांव टिकाना रे",
+  "romanTitle": "Utho Utho Panchhi Bhaago, Yahaan Na Paanv Tikaanaa Re",
+  "firstLine": "Utho Utho Panchhi Bhaago, Yahaan Na Paanv Tikaanaa Re (Tek).",
+  "heading": "।। राग जोग भजन ।। २७ ।। ८५७।।",
+  "tek": [
+    "ऊठो ऊठो पंछी भागो, यहां न पांव टिकाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Utho Utho Panchhi Bhaago, Yahaan Na Paanv Tikaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चोग देख तुम चूंच पसारे, उलझ न आप फसाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chog Dekh Tum Chunch Pasaare, Ulajh Na Aap Phasaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तेरे जैसे कितने फस कर, रो कर तजा प्राना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tere Jaise Kitne Phas Kar, Ro Kar Tajaa Praanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तेरे फसाने कारन फन्दक, रचिया जाल महाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tere Phasaane Kaaran Phandak, Rachiyaa Jaal Mahaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "चोग चुगन की आस त्यागे, ऊपर को उड़ जाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Chog Chugan Ki Aas Tyaage, Upar Ko Ur Jaanaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ जा तरु पर बैठो, अमृत फल तह खाना रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jaa Taru Par Baitho, Amrit Phal Tah Khaanaa Re || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "ग््द्"
+      ],
+      "romanLines": [
+        "Gd"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "चोग देख तुम चूंच पसारे, उलझ न आप फसाना रे ॥१ ॥"
+    ],
+    [
+      "तेरे जैसे कितने फस कर, रो कर तजा प्राना रे ॥२ ॥"
+    ],
+    [
+      "तेरे फसाने कारन फन्दक, रचिया जाल महाना रे ॥३ ॥"
+    ],
+    [
+      "चोग चुगन की आस त्यागे, ऊपर को उड़ जाना रे ॥४ ॥"
+    ],
+    [
+      "कहे टेऊँ जा तरु पर बैठो, अमृत फल तह खाना रे ॥५ ॥"
+    ],
+    [
+      "ग््द्"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Chog Dekh Tum Chunch Pasaare, Ulajh Na Aap Phasaanaa Re || 1 ||"
+    ],
+    [
+      "Tere Jaise Kitne Phas Kar, Ro Kar Tajaa Praanaa Re || 2 ||"
+    ],
+    [
+      "Tere Phasaane Kaaran Phandak, Rachiyaa Jaal Mahaanaa Re || 3 ||"
+    ],
+    [
+      "Chog Chugan Ki Aas Tyaage, Upar Ko Ur Jaanaa Re || 4 ||"
+    ],
+    [
+      "Kahe Teun Jaa Taru Par Baitho, Amrit Phal Tah Khaanaa Re || 5 ||"
+    ],
+    [
+      "Gd"
+    ]
+  ],
+  "alternateSpellings": [
+    "ऊठो ऊठो पंछी भागो, यहां न पांव टिकाना रे",
+    "Utho Utho Panchhi Bhaago, Yahaan Na Paanv Tikaanaa Re",
+    "राग जोग भजन 27",
+    "Raag Jog Bhajan 27"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 27,
+  "overallOrder": 855,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 452",
+  "updatedAt": "2026-10-26"
+}

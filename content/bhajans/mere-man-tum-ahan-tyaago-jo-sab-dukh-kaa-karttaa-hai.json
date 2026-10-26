@@ -1,53 +1,100 @@
 {
-  "id": "bhajan-0448",
+  "id": "bhajan-0447",
   "slug": "mere-man-tum-ahan-tyaago-jo-sab-dukh-kaa-karttaa-hai",
   "categoryId": "raag-tilang",
-  "title": "मेरे मन तुम हन तयागो, जो सब दुःख का करतता है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मेरे मन तुम अहं त्यागो, जो सब दुख का कर्त्ता है",
   "romanTitle": "Mere Man Tum Ahan Tyaago, Jo Sab Dukh Kaa Karttaa Hai",
   "firstLine": "Mere Man Tum Ahan Tyaago, Jo Sab Dukh Kaa Karttaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८४ ।। उंडं।।",
+  "tek": [
+    "मेरे मन तुम अहं त्यागो, जो सब दुख का कर्त्ता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Tum Ahan Tyaago, Jo Sab Dukh Kaa Karttaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अहं मलिन को धारे क्यों तुम, जन्म मरण में पड़ता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ahan Malin Ko Dhaare Kyon Tum, Janm Maran Men Partaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देह मान कर अपने को क्यों, यम का लेखा भरता है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Deh Maan Kar Apne Ko Kyon, Yam Kaa Lekhaa Bhartaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अहं का कारण है अज्ञाना, तांको क्यों ना हरता है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ahan Kaa Kaaran Hai Ajnyaanaa, Taanko Kyon Naa Hartaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम हौं मैं त्यागे, भव सिंधु क्यों ना तरता है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Haun Main Tyaage, Bhav Sindhu Kyon Naa Tartaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन तुम हन तयागो, जो सब दुःख का करतता है (टेक)."
+      "अहं मलिन को धारे क्यों तुम, जन्म मरण में पड़ता है ॥१ ॥"
     ],
     [
-      "हन मलिन को धारे कयोन तुम, जनम मरन मेन परता है || 1 ||."
+      "देह मान कर अपने को क्यों, यम का लेखा भरता है ॥२ ॥"
     ],
     [
-      "देह मान कर पने को कयोन, यम का लेखा भरता है || 2 ||."
+      "अहं का कारण है अज्ञाना, तांको क्यों ना हरता है ॥३ ॥"
     ],
     [
-      "हन का कारन है जनयाना, तानको कयोन ना हरता है || 3े ||",
-      "कहे तेऊँ तुम हौन मैं तयागे, भव सिनधु कयोन ना तरता है || 4 ||"
+      "कहे टेऊँ तुम हौं मैं त्यागे, भव सिंधु क्यों ना तरता है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Tum Ahan Tyaago, Jo Sab Dukh Kaa Karttaa Hai (Tek)."
+      "Ahan Malin Ko Dhaare Kyon Tum, Janm Maran Men Partaa Hai || 1 ||"
     ],
     [
-      "Ahan Malin Ko Dhaare Kyon Tum, Janm Maran Men Partaa Hai || 1 ||."
+      "Deh Maan Kar Apne Ko Kyon, Yam Kaa Lekhaa Bhartaa Hai || 2 ||"
     ],
     [
-      "Deh Maan Kar Apne Ko Kyon, Yam Kaa Lekhaa Bhartaa Hai || 2 ||."
+      "Ahan Kaa Kaaran Hai Ajnyaanaa, Taanko Kyon Naa Hartaa Hai || 3 ||"
     ],
     [
-      "Ahan Kaa Kaaran Hai Ajnyaanaa, Taanko Kyon Naa Hartaa Hai || 3E ||",
       "Kahe Teun Tum Haun Main Tyaage, Bhav Sindhu Kyon Naa Tartaa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 84 || Undan ||",
+    "मेरे मन तुम अहं त्यागो, जो सब दुख का कर्त्ता है",
     "Mere Man Tum Ahan Tyaago, Jo Sab Dukh Kaa Karttaa Hai",
-    "मेरे मन तुम हन तयागो, जो सब दुःख का करतता है"
+    "राग तिलंग भजन 84",
+    "Raag Tilang Bhajan 84"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 448,
+  "displayOrder": 84,
+  "overallOrder": 447,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 253",
+  "updatedAt": "2026-10-26"
 }

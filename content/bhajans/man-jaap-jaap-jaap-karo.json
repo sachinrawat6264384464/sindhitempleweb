@@ -2,39 +2,79 @@
   "id": "bhajan-0129",
   "slug": "man-jaap-jaap-jaap-karo",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "मन जाप जाप जाप करो",
   "romanTitle": "Man Jaap Jaap Jaap Karo",
-  "firstLine": "Man Jaap Jaap Jaap Karo. Raam Naam Kaa Jaap Kare Tum, Janm Janm Ke Paap Haro (Tek).",
+  "firstLine": "Man Jaap Jaap Jaap Karo.",
+  "heading": "।। राग आसा भजन ।। ६७ ।। १२९।।",
+  "tek": [
+    "मन जाप जाप जाप करो ।",
+    "राम नाम का जाप करे तुम, जन्म जन्म के पाप हरो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Jaap Jaap Jaap Karo.",
+    "Raam Naam Kaa Jaap Kare Tum, Janm Janm Ke Paap Haro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम की निर्मल बानी, राम नाम है सब सुखदानी ।",
+        "राम नाम को सुमरे प्रानी, तन मन के सन्ताप जरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ki Nirmal Baani, Raam Naam Hai Sab Sukhdaani.",
+        "Raam Naam Ko Sumre Praani, Tan Man Ke Santaap Jaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम है परम पवीतर, राम नाम है गुरु का मन्तर ।",
+        "राम नाम को जपे निरन्तर, भव सागर से आप तरो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Hai Param Pavitar, Raam Naam Hai Guru Kaa Mantar.",
+        "Raam Naam Ko Jape Nirantar, Bhav Saagar Se Aap Taro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम है माणिक मोती, राम नाम की घट घट जोती ।",
+        "राम नाम बिन गति नहिं होती , भावें तन पर छाप धरो ॥ डे ॥",
+        "कहे टेऊँ मति गुरु से लीजे, राम नाम का सुमरण कीजे ।",
+        "जन्म मरण के बन्धन छीजे, निसंग होय निस्ताप चरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Hai Maanik Moti, Raam Naam Ki Ghat Ghat Joti.",
+        "Raam Naam Bin Gati Nahin Hoti, Bhaaven Tan Par Chhaap Dharo || De ||",
+        "Kahe Teun Mati Guru Se Lije, Raam Naam Kaa Sumran Kije.",
+        "Janm Maran Ke Bandhan Chhije, Nisang Hoy Nistaap Charo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन जाप जाप जाप करो.",
-      "राम नाम का जाप करे तुम, जनम जनम के पाप हरो (टेक)."
+      "राम नाम की निर्मल बानी, राम नाम है सब सुखदानी ।",
+      "राम नाम को सुमरे प्रानी, तन मन के सन्ताप जरो ॥१ ॥"
     ],
     [
-      "राम नाम कि निर्मल बानी, राम नाम है सब सुखदानि.",
-      "राम नाम को सुमरे परानि, तन मन के सनताप जरो || 1 ||."
+      "राम नाम है परम पवीतर, राम नाम है गुरु का मन्तर ।",
+      "राम नाम को जपे निरन्तर, भव सागर से आप तरो ॥२ ॥"
     ],
     [
-      "राम नाम है परम पवितर, राम नाम है गुरु का मनतर.",
-      "राम नाम को जपे निरनतर, भव सागर से ाप तरो || 2 ||"
-    ],
-    [
-      "राम नाम है मानिक मोति, राम नाम कि घत घत जोति.",
-      "राम नाम बिन गति नहिन होति, भावेन तन पर चहाप धरो || दे ||"
-    ],
-    [
-      "कहे तेऊँ मति गुरु से लिजे, राम नाम का सुमरन किजे.",
-      "जनम मरन के बनधन चहिजे, निसनग होय निसताप चरो || 4. ||."
+      "राम नाम है माणिक मोती, राम नाम की घट घट जोती ।",
+      "राम नाम बिन गति नहिं होती , भावें तन पर छाप धरो ॥ डे ॥",
+      "कहे टेऊँ मति गुरु से लीजे, राम नाम का सुमरण कीजे ।",
+      "जन्म मरण के बन्धन छीजे, निसंग होय निस्ताप चरो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Jaap Jaap Jaap Karo.",
-      "Raam Naam Kaa Jaap Kare Tum, Janm Janm Ke Paap Haro (Tek)."
-    ],
-    [
       "Raam Naam Ki Nirmal Baani, Raam Naam Hai Sab Sukhdaani.",
-      "Raam Naam Ko Sumre Praani, Tan Man Ke Santaap Jaro || 1 ||."
+      "Raam Naam Ko Sumre Praani, Tan Man Ke Santaap Jaro || 1 ||"
     ],
     [
       "Raam Naam Hai Param Pavitar, Raam Naam Hai Guru Kaa Mantar.",
@@ -42,27 +82,26 @@
     ],
     [
       "Raam Naam Hai Maanik Moti, Raam Naam Ki Ghat Ghat Joti.",
-      "Raam Naam Bin Gati Nahin Hoti, Bhaaven Tan Par Chhaap Dharo || De ||"
-    ],
-    [
+      "Raam Naam Bin Gati Nahin Hoti, Bhaaven Tan Par Chhaap Dharo || De ||",
       "Kahe Teun Mati Guru Se Lije, Raam Naam Kaa Sumran Kije.",
-      "Janm Maran Ke Bandhan Chhije, Nisang Hoy Nistaap Charo || 4. ||."
+      "Janm Maran Ke Bandhan Chhije, Nisang Hoy Nistaap Charo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 67 || 129 ||",
+    "मन जाप जाप जाप करो",
     "Man Jaap Jaap Jaap Karo",
-    "मन जाप जाप जाप करो"
+    "राग आसा भजन 67",
+    "Raag Aasaa Bhajan 67"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 129,
+  "displayOrder": 67,
+  "overallOrder": 129,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 91",
+  "updatedAt": "2026-10-26"
 }

@@ -2,53 +2,99 @@
   "id": "bhajan-0089",
   "slug": "re-man-japle-hari-kaa-naam",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "रे मन जपले हरि का नाम",
   "romanTitle": "Re Man Japle Hari Kaa Naam",
   "firstLine": "Re Man Japle Hari Kaa Naam (Tek).",
+  "heading": "।। राग आसा भजन ।। २७ ।। ८ ९।।",
+  "tek": [
+    "रे मन जपले हरि का नाम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Japle Hari Kaa Naam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अमृत वेले उठ कर कीजे, राम भजन का काम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Amrit Vele Uth Kar Kije, Raam Bhajan Kaa Kaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "झूठे जग के काम त्यागे, लेवो हरि की शाम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jhuthe Jag Ke Kaam Tyaage, Levo Hari Ki Shaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्तों के संग निशदिन रहके, प्रेम का पीले जाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santon Ke Sang Nishdin Rahke, Prem Kaa Pile Jaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि सुमरन करके, पाओ सुख विश्राम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Sumran Karke, Paao Sukh Vishraam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन जपले हरि का नाम (टेक)."
+      "अमृत वेले उठ कर कीजे, राम भजन का काम ॥१ ॥"
     ],
     [
-      "अमृत वेले ुथ कर किजे, राम भजन का काम ||.1. ||.",
-      "झुथे जग के काम तयागे, लेवो हरि कि शाम ||.2 ||."
+      "झूठे जग के काम त्यागे, लेवो हरि की शाम ॥२ ॥"
     ],
     [
-      "सनतोन के सनग निशदिन रहके, प्रेम का पिले जाम || 3 ||."
+      "सन्तों के संग निशदिन रहके, प्रेम का पीले जाम ॥३ ॥"
     ],
     [
-      "कहे तेऊँ हरि सुमरन करके, पाो सुख विशराम || 4 ||"
+      "कहे टेऊँ हरि सुमरन करके, पाओ सुख विश्राम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Japle Hari Kaa Naam (Tek)."
+      "Amrit Vele Uth Kar Kije, Raam Bhajan Kaa Kaam || 1 ||"
     ],
     [
-      "Amrit Vele Uth Kar Kije, Raam Bhajan Kaa Kaam ||.1. ||.",
-      "Jhuthe Jag Ke Kaam Tyaage, Levo Hari Ki Shaam ||.2 ||."
+      "Jhuthe Jag Ke Kaam Tyaage, Levo Hari Ki Shaam || 2 ||"
     ],
     [
-      "Santon Ke Sang Nishdin Rahke, Prem Kaa Pile Jaam || 3 ||."
+      "Santon Ke Sang Nishdin Rahke, Prem Kaa Pile Jaam || 3 ||"
     ],
     [
       "Kahe Teun Hari Sumran Karke, Paao Sukh Vishraam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 27 || 8 9 ||",
+    "रे मन जपले हरि का नाम",
     "Re Man Japle Hari Kaa Naam",
-    "रे मन जपले हरि का नाम"
+    "राग आसा भजन 27",
+    "Raag Aasaa Bhajan 27"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 89,
+  "displayOrder": 27,
+  "overallOrder": 89,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 70",
+  "updatedAt": "2026-10-26"
 }

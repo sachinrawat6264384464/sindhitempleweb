@@ -1,65 +1,130 @@
 {
-  "id": "bhajan-0597",
+  "id": "bhajan-0595",
   "slug": "suniye-shishy-ab-dhyaan-lagaake-bhumi-nabh-prasangaa-re",
   "categoryId": "raag-purab",
-  "title": "सुनिये शिशय ब ध्यान लगाके, भुमि नभ परसनगा रे",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "सुनिये शिष्य अब ध्यान लगाके, भूमी नभ प्रसंगा रे",
   "romanTitle": "Suniye Shishy Ab Dhyaan Lagaake, Bhumi Nabh Prasangaa Re",
   "firstLine": "Suniye Shishy Ab Dhyaan Lagaake, Bhumi Nabh Prasangaa Re (Tek).",
+  "heading": "।। राग पूरब भजन ।। ५ ।। ५९६।।",
+  "tek": [
+    "सुनिये शिष्य अब ध्यान लगाके, भूमी नभ प्रसंगा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suniye Shishy Ab Dhyaan Lagaake, Bhumi Nabh Prasangaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुरति धरनि है शब्द अकाशा, यह है ज्ञान उतंगा रे ।4१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Surti Dharni Hai Shabd Akaashaa, Yah Hai Gyaan Utangaa Re.41 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुरति शब्द का देश अगम है, जहं न काल का दंगा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Surti Shabd Kaa Desh Agam Hai, Jahan Na Kaal Kaa Dangaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सुरति शब्द चेतनमय जामें, माया का नहिं संगा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Surti Shabd Chetnamay Jaamen, Maayaa Kaa Nahin Sangaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सुरति शब्द अभ्यास करन से, जम की छूटत जंगा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Surti Shabd Abhyaas Karan Se, Jam Ki Chhutat Jangaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गुरु कृपा से सुरती जाकर, मिलत शब्द के रंगा रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Guru Kripaa Se Surti Jaakar, Milat Shabd Ke Rangaa Re || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "कहे टेऊँ शिष्य शंका मेटो, सुनकर यह सत्‌संगा रे ॥६ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Shishy Shankaa Meto, Sunkar Yah Sat‌Sangaa Re || 6 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनिये शिशय ब ध्यान लगाके, भुमि नभ परसनगा रे (टेक)."
+      "सुरति धरनि है शब्द अकाशा, यह है ज्ञान उतंगा रे ।4१ ॥१ ॥"
     ],
     [
-      "सुरति धरनि है शबद काशा, यह है ज्ञान ुतनगा रे.41$ ||.",
-      "सुरति शबद का देश गम है, जहन न काल का दनगा रे || 2 ||."
+      "सुरति शब्द का देश अगम है, जहं न काल का दंगा रे ॥२ ॥"
     ],
     [
-      "सुरति शबद चेतनमय जामेन, माया का नहिन सनगा रे || 3 ||."
+      "सुरति शब्द चेतनमय जामें, माया का नहिं संगा रे ॥३ ॥"
     ],
     [
-      "सुरति शबद भयास करन से, जम कि चहुतत जनगा रे || 4 ||."
+      "सुरति शब्द अभ्यास करन से, जम की छूटत जंगा रे ॥४ ॥"
     ],
     [
-      "गुरु कृपा से सुरति जाकर, मिलत शबद के रनगा रे || 5 ||."
+      "गुरु कृपा से सुरती जाकर, मिलत शब्द के रंगा रे ॥५ ॥"
     ],
     [
-      "कहे तेऊँ शिशय शनका मेतो, सुनकर यह सतसनगा रे || 6 ||"
+      "कहे टेऊँ शिष्य शंका मेटो, सुनकर यह सत्‌संगा रे ॥६ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suniye Shishy Ab Dhyaan Lagaake, Bhumi Nabh Prasangaa Re (Tek)."
+      "Surti Dharni Hai Shabd Akaashaa, Yah Hai Gyaan Utangaa Re.41 || 1 ||"
     ],
     [
-      "Surti Dharni Hai Shabd Akaashaa, Yah Hai Jnyaan Utangaa Re.41$ ||.",
-      "Surti Shabd Kaa Desh Agam Hai, Jahan N Kaal Kaa Dangaa Re || 2 ||."
+      "Surti Shabd Kaa Desh Agam Hai, Jahan Na Kaal Kaa Dangaa Re || 2 ||"
     ],
     [
-      "Surti Shabd Chetnamay Jaamen, Maayaa Kaa Nahin Sangaa Re || 3 ||."
+      "Surti Shabd Chetnamay Jaamen, Maayaa Kaa Nahin Sangaa Re || 3 ||"
     ],
     [
-      "Surti Shabd Abhyaas Karan Se, Jam Ki Chhutat Jangaa Re || 4 ||."
+      "Surti Shabd Abhyaas Karan Se, Jam Ki Chhutat Jangaa Re || 4 ||"
     ],
     [
-      "Guru Kripaa Se Surti Jaakar, Milat Shabd Ke Rangaa Re || 5 ||."
+      "Guru Kripaa Se Surti Jaakar, Milat Shabd Ke Rangaa Re || 5 ||"
     ],
     [
       "Kahe Teun Shishy Shankaa Meto, Sunkar Yah Sat‌Sangaa Re || 6 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Purab Bhajan || 5 || 596 ||",
+    "सुनिये शिष्य अब ध्यान लगाके, भूमी नभ प्रसंगा रे",
     "Suniye Shishy Ab Dhyaan Lagaake, Bhumi Nabh Prasangaa Re",
-    "सुनिये शिशय ब ध्यान लगाके, भुमि नभ परसनगा रे"
+    "राग पूरब भजन 5",
+    "Raag Purab Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "purab",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 597,
+  "displayOrder": 5,
+  "overallOrder": 595,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 323",
+  "updatedAt": "2026-10-26"
 }

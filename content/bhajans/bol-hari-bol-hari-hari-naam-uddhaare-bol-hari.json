@@ -1,40 +1,98 @@
 {
-  "id": "bhajan-0665",
+  "id": "bhajan-0663",
   "slug": "bol-hari-bol-hari-hari-naam-uddhaare-bol-hari",
   "categoryId": "raag-pahaari",
-  "title": "बोल हरि बोल हरि, हरि नाम ुदधारे, बोल हरि",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "बोल हरी बोल हरी, हरि नाम उद्धारे, बोल हरी",
   "romanTitle": "Bol Hari Bol Hari, Hari Naam Uddhaare, Bol Hari",
-  "firstLine": "Bol Hari Bol Hari, Hari Naam Uddhaare, Bol Hari. Jin Sumriyaa Tin Viptaa Tari (Tek).",
+  "firstLine": "Bol Hari Bol Hari, Hari Naam Uddhaare, Bol Hari.",
+  "heading": "।। राग पहाड़ी भजन ।। १६ ।। ६६४।।",
+  "tek": [
+    "बोल हरी बोल हरी, हरि नाम उद्धारे, बोल हरी ।",
+    "जिन सुमरिया तिन विपता टरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bol Hari Bol Hari, Hari Naam Uddhaare, Bol Hari.",
+    "Jin Sumriyaa Tin Viptaa Tari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि का नाम अमोलक हीरा,",
+        "भाग्यवान रति तांसे करी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Kaa Naam Amolak Hiraa,",
+        "Bhaagyavaan Rati Taanse Kari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरि जप पापी अजामिल तरिया,",
+        "हरि हरि जपती गनिका तरी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Jap Paapi Ajaamil Tariyaa,",
+        "Hari Hari Japti Ganikaa Tari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कोटि जन्म अघ हरि जप नाशत,",
+        "आग विषे जिमि लकड़ी जरी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Koti Janm Agh Hari Jap Naashat,",
+        "Aag Vishe Jimi Lakri Jari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले गुरु उपदेशा,",
+        "करी सुधारस पीले ज़री ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Guru Updeshaa,",
+        "Kari Sudhaaras Pile Zari || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बोल हरि बोल हरि, हरि नाम ुदधारे, बोल हरि.",
-      "जिन सुमरिया तिन विपता तरि (टेक)."
+      "हरि का नाम अमोलक हीरा,",
+      "भाग्यवान रति तांसे करी ॥१ ॥"
     ],
     [
-      "हरि का नाम मोलक हिरा,",
-      "भागयवान रति तानसे करि || 1 ||"
+      "हरि जप पापी अजामिल तरिया,",
+      "हरि हरि जपती गनिका तरी ॥२ ॥"
     ],
     [
-      "हरि जप पापि जामिल तरिया,",
-      "हरि हरि जपति गनिका तरि || 2 ||"
+      "कोटि जन्म अघ हरि जप नाशत,",
+      "आग विषे जिमि लकड़ी जरी ॥३ ॥"
     ],
     [
-      "कोति जनम घ हरि जप नाशत,",
-      "ाग विशे जिमि लकरि जरि || 3 ||."
+      "कहे टेऊँ ले गुरु उपदेशा,",
+      "करी सुधारस पीले ज़री ॥४ ॥"
     ],
     [
-      "कहे तेऊँ ले गुरु ुपदेशा,",
-      "करि सुधारस पिले zरि || 4. ||."
-    ],
-    [
-      "दद"
+      "द्द्"
     ]
   ],
   "romanLyrics": [
-    [
-      "Bol Hari Bol Hari, Hari Naam Uddhaare, Bol Hari.",
-      "Jin Sumriyaa Tin Viptaa Tari (Tek)."
-    ],
     [
       "Hari Kaa Naam Amolak Hiraa,",
       "Bhaagyavaan Rati Taanse Kari || 1 ||"
@@ -45,30 +103,31 @@
     ],
     [
       "Koti Janm Agh Hari Jap Naashat,",
-      "Aag Vishe Jimi Lakri Jari || 3 ||."
+      "Aag Vishe Jimi Lakri Jari || 3 ||"
     ],
     [
       "Kahe Teun Le Guru Updeshaa,",
-      "Kari Sudhaaras Pile Zari || 4. ||."
+      "Kari Sudhaaras Pile Zari || 4 ||"
     ],
     [
       "Dd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 16 || 664 ||",
+    "बोल हरी बोल हरी, हरि नाम उद्धारे, बोल हरी",
     "Bol Hari Bol Hari, Hari Naam Uddhaare, Bol Hari",
-    "बोल हरि बोल हरि, हरि नाम ुदधारे, बोल हरि"
+    "राग पहाड़ी भजन 16",
+    "Raag Pahaari Bhajan 16"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 665,
+  "displayOrder": 16,
+  "overallOrder": 663,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 353",
+  "updatedAt": "2026-10-26"
 }

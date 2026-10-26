@@ -2,48 +2,95 @@
   "id": "bhajan-0367",
   "slug": "binaa-didaar-mohan-ke-nahin-main-shaanti-paati-hain",
   "categoryId": "raag-tilang",
-  "title": "बिना दिदार मोहन के, नहिन मैं शांति पाति हैन",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "बिना दीदार मोहन के, नहीं मैं शान्ति पाती हैँ",
   "romanTitle": "Binaa Didaar Mohan Ke, Nahin Main Shaanti Paati Hain",
-  "firstLine": "Binaa Didaar Mohan Ke, Nahin Main Shaanti Paati Hain. Lagi Hai Prem Ki Agni, Jigar Taamen Jalaati Hun (Tek).",
+  "firstLine": "Binaa Didaar Mohan Ke, Nahin Main Shaanti Paati Hain.",
+  "heading": "।। राग तिलंग भजन ।। ४ ।। ३६८।।",
+  "tek": [
+    "बिना दीदार मोहन के, नहीं मैं शान्ति पाती हैँ ।",
+    "लगी है प्रेम की अग्नी, जिगर तामें जलाती हूँ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Binaa Didaar Mohan Ke, Nahin Main Shaanti Paati Hain.",
+    "Lagi Hai Prem Ki Agni, Jigar Taamen Jalaati Hun (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सखी घनश्याम से बिछुड़े, बहुत दिन हो गये मुझको ।",
+        "मिला नहिं आज तक आली, अभी देखन को जाती हूँ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sakhi Ghanashyaam Se Bichhure, Bahut Din Ho Gaye Mujhko.",
+        "Milaa Nahin Aaj Tak Aali, Abhi Dekhan Ko Jaati Hun || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गठ्ठ",
+        "ग़मनि में गुज़र गई आयू, नहीं दिल को करारी है ।",
+        "विरह में रैन दिन रोके, नीर नैनें बहाती हूँ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gathth",
+        "Ghamni Men Guzar Gai Aayu, Nahin Dil Ko Karaari Hai.",
+        "Virah Men Rain Din Roke, Nir Nainen Bahaati Hun || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "किया मैं भेष योगिन का, दरस हित श्याम सुन्दर के ।",
+        "हरी का नाम ले ले के, अलख दर दर जगाती हैँ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kiyaa Main Bhesh Yogin Kaa, Daras Hit Shyaam Sundar Ke.",
+        "Hari Kaa Naam Le Le Ke, Alakh Dar Dar Jagaati Hain || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ बिना दर्शन, मुझे नहिं धीर आती है ।",
+        "नहीं बस्ती सुहाती है, झंगल को जा बसाती हैँ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Binaa Darshan, Mujhe Nahin Dhir Aati Hai.",
+        "Nahin Basti Suhaati Hai, Jhangal Ko Jaa Basaati Hain || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बिना दिदार मोहन के, नहिन मैं शांति पाति हैन.",
-      "लगि है प्रेम कि गनि, जिगर तामेन जलाति हुन (टेक)."
+      "सखी घनश्याम से बिछुड़े, बहुत दिन हो गये मुझको ।",
+      "मिला नहिं आज तक आली, अभी देखन को जाती हूँ ॥१ ॥"
     ],
     [
-      "सखि घनशयाम से बिचहुरे, बहुत दीन हो गये मुझको.",
-      "मिला नहिन ाज तक ालि, भि देखन को जाति हुन || 1 ||."
+      "गठ्ठ",
+      "ग़मनि में गुज़र गई आयू, नहीं दिल को करारी है ।",
+      "विरह में रैन दिन रोके, नीर नैनें बहाती हूँ ॥२ ॥"
     ],
     [
-      "गथथ",
-      "घमनि मेन गुzर गै ायु, नहिन दिल को करारि है."
+      "किया मैं भेष योगिन का, दरस हित श्याम सुन्दर के ।",
+      "हरी का नाम ले ले के, अलख दर दर जगाती हैँ ॥३ ॥"
     ],
     [
-      "विरह मेन रैन दीन रोके, निर नैनेन बहाति हुन || 2 ||"
-    ],
-    [
-      "किया मैं भेश योगिन का, दरस हित शयाम सुनदर के.",
-      "हरि का नाम ले ले के, लख दर दर जगाति हैन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ बिना दरशन, मुझे नहिन धिर ाति है.",
-      "नहिन बसति सुहाति है, झनगल को जा बसाति हैन || 4 ||"
+      "कहे टेऊँ बिना दर्शन, मुझे नहिं धीर आती है ।",
+      "नहीं बस्ती सुहाती है, झंगल को जा बसाती हैँ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Binaa Didaar Mohan Ke, Nahin Main Shaanti Paati Hain.",
-      "Lagi Hai Prem Ki Agni, Jigar Taamen Jalaati Hun (Tek)."
-    ],
-    [
       "Sakhi Ghanashyaam Se Bichhure, Bahut Din Ho Gaye Mujhko.",
-      "Milaa Nahin Aaj Tak Aali, Abhi Dekhan Ko Jaati Hun || 1 ||."
+      "Milaa Nahin Aaj Tak Aali, Abhi Dekhan Ko Jaati Hun || 1 ||"
     ],
     [
       "Gathth",
-      "Ghamni Men Guzar Gai Aayu, Nahin Dil Ko Karaari Hai."
-    ],
-    [
+      "Ghamni Men Guzar Gai Aayu, Nahin Dil Ko Karaari Hai.",
       "Virah Men Rain Din Roke, Nir Nainen Bahaati Hun || 2 ||"
     ],
     [
@@ -56,18 +103,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 4 || 368 ||",
+    "बिना दीदार मोहन के, नहीं मैं शान्ति पाती हैँ",
     "Binaa Didaar Mohan Ke, Nahin Main Shaanti Paati Hain",
-    "बिना दिदार मोहन के, नहिन मैं शांति पाति हैन"
+    "राग तिलंग भजन 4",
+    "Raag Tilang Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 367,
+  "displayOrder": 4,
+  "overallOrder": 367,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 217",
+  "updatedAt": "2026-10-26"
 }

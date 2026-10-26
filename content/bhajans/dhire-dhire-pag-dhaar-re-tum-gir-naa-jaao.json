@@ -1,57 +1,100 @@
 {
-  "id": "bhajan-0538",
+  "id": "bhajan-0536",
   "slug": "dhire-dhire-pag-dhaar-re-tum-gir-naa-jaao",
   "categoryId": "raag-sorath",
-  "title": "धिरे धिरे पग धार, रे तुम गिर ना जाो",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "धीरे धीरे पग धार, रे तुम गिर ना जाओ",
   "romanTitle": "Dhire Dhire Pag Dhaar, Re Tum Gir Naa Jaao",
   "firstLine": "Dhire Dhire Pag Dhaar, Re Tum Gir Naa Jaao (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ६ ।। ५३७।।",
+  "tek": [
+    "धीरे धीरे पग धार, रे तुम गिर ना जाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dhire Dhire Pag Dhaar, Re Tum Gir Naa Jaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि का मार्ग बहुत कठिन है, चलिये आप संभार ॥8 ॥"
+      ],
+      "romanLines": [
+        "Hari Kaa Maarg Bahut Kathin Hai, Chaliye Aap Sambhaar || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इस मार्ग में बहुत विध्न है, कीर्ति कंचन नारि ॥२ ॥"
+      ],
+      "romanLines": [
+        "Is Maarg Men Bahut Vidhn Hai, Kirti Kanchan Naari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इस मग में अभिमानी गिरते, तांते तज अहंकार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Is Mag Men Abhimaani Girte, Taante Taj Ahankaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ चल सोच समझके, हरि के गैल मंजझार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Chal Soch Samjhake, Hari Ke Gail Manjjhaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धिरे धिरे पग धार, रे तुम गिर ना जाो (टेक)."
+      "हरि का मार्ग बहुत कठिन है, चलिये आप संभार ॥8 ॥"
     ],
     [
-      "हरि का मारग बहुत कथिन है, चलिये ाप समभार || 8 ||."
+      "इस मार्ग में बहुत विध्न है, कीर्ति कंचन नारि ॥२ ॥"
     ],
     [
-      "िस मारग मेन बहुत विधन है, किरति कनचन नारि || 2 ||."
+      "इस मग में अभिमानी गिरते, तांते तज अहंकार ॥३ ॥"
     ],
     [
-      "िस मग मेन भिमानि गिरते, तानते तज हनकार || 3 ||."
-    ],
-    [
-      "कहे तेऊँ चल सोच समझके, हरि के गैल मनजझार || 4 ||"
+      "कहे टेऊँ चल सोच समझके, हरि के गैल मंजझार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dhire Dhire Pag Dhaar, Re Tum Gir Naa Jaao (Tek)."
+      "Hari Kaa Maarg Bahut Kathin Hai, Chaliye Aap Sambhaar || 8 ||"
     ],
     [
-      "Hari Kaa Maarg Bahut Kathin Hai, Chaliye Aap Sambhaar || 8 ||."
+      "Is Maarg Men Bahut Vidhn Hai, Kirti Kanchan Naari || 2 ||"
     ],
     [
-      "Is Maarg Men Bahut Vidhn Hai, Kirti Kanchan Naari || 2 ||."
-    ],
-    [
-      "Is Mag Men Abhimaani Girte, Taante Taj Ahankaar || 3 ||."
+      "Is Mag Men Abhimaani Girte, Taante Taj Ahankaar || 3 ||"
     ],
     [
       "Kahe Teun Chal Soch Samjhake, Hari Ke Gail Manjjhaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 6 || 537 ||",
+    "धीरे धीरे पग धार, रे तुम गिर ना जाओ",
     "Dhire Dhire Pag Dhaar, Re Tum Gir Naa Jaao",
-    "धिरे धिरे पग धार, रे तुम गिर ना जाो"
+    "राग सोरठ भजन 6",
+    "Raag Sorath Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 538,
+  "displayOrder": 6,
+  "overallOrder": 536,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 294",
+  "updatedAt": "2026-10-26"
 }

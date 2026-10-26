@@ -1,34 +1,79 @@
 {
-  "id": "bhajan-0515",
+  "id": "bhajan-0513",
   "slug": "sadguru-se-le-yog-yukti-main",
   "categoryId": "raag-kohiyaari",
-  "title": "सद्गुरु से ले योग युकति मैं",
-  "romanTitle": "Sad‌Guru Se Le Yog Yukti Main",
-  "firstLine": "Sad‌Guru Se Le Yog Yukti Main, Sahaj Samaadhi Lagaai, Surti Samaai (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सद्‌गुरु से ले योग युक्ति मैं,",
+  "romanTitle": "Sad‌Guru Se Le Yog Yukti Main,",
+  "firstLine": "Sad‌Guru Se Le Yog Yukti Main,",
+  "heading": "।। राग कोह्यारी भजन ।। ३४ ।। ५१४।।",
+  "tek": [
+    "सद्‌गुरु से ले योग युक्ति मैं,",
+    "सहज समाधि लगाई, सुरति समाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Se Le Yog Yukti Main,",
+    "Sahaj Samaadhi Lagaai, Surti Samaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्वास श्वास से सार शब्द के, सुमरण से लिंव लाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shvaas Shvaas Se Saar Shabd Ke, Sumran Se Linv Laai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पीकर प्याला प्रेम अगम का, अनुभव ज्योति जगाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pikar Pyaalaa Prem Agam Kaa, Anubhav Jyoti Jagaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देश दयाल से आगे चलकर, अमरापुरी बसाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Desh Dayal Se Aage Chalkar, Amraapuri Basaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं गुरु कृपा से, जम की चिन्त चुकाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Guru Kripaa Se, Jam Ki Chint Chukaai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु से ले योग युकति मैं,",
-      "सहज समाधि लगाि, सुरति समाि (टेक)."
+      "श्वास श्वास से सार शब्द के, सुमरण से लिंव लाई ॥१ ॥"
     ],
     [
-      "शवास शवास से सार शबद के, सुमरन से लिनव लाि.1 ||.",
-      "पिकर पयाला प्रेम गम का, नुभव जयोति जगाि ||.2. ||."
+      "पीकर प्याला प्रेम अगम का, अनुभव ज्योति जगाई ॥२ ॥"
     ],
     [
-      "देश दयाल से ागे चलकर, मरापुरि बसाि || 3 ||"
+      "देश दयाल से आगे चलकर, अमरापुरी बसाई ॥३ ॥"
     ],
     [
-      "कहे तेऊँ मैं गुरु कृपा से, जम कि चिनत चुकाि || 4 ||"
+      "कहे टेऊँ मैं गुरु कृपा से, जम की चिन्त चुकाई ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Se Le Yog Yukti Main,",
-      "Sahaj Samaadhi Lagaai, Surti Samaai (Tek)."
+      "Shvaas Shvaas Se Saar Shabd Ke, Sumran Se Linv Laai || 1 ||"
     ],
     [
-      "Shvaas Shvaas Se Saar Shabd Ke, Sumran Se Linv Laai.1 ||.",
-      "Pikar Pyaalaa Prem Agam Kaa, Anubhav Jyoti Jagaai ||.2. ||."
+      "Pikar Pyaalaa Prem Agam Kaa, Anubhav Jyoti Jagaai || 2 ||"
     ],
     [
       "Desh Dayal Se Aage Chalkar, Amraapuri Basaai || 3 ||"
@@ -38,19 +83,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohyaari Bhajan || 34 || 514 ||",
-    "Sad‌Guru Se Le Yog Yukti Main",
-    "सद्गुरु से ले योग युकति मैं"
+    "सद्‌गुरु से ले योग युक्ति मैं,",
+    "Sad‌Guru Se Le Yog Yukti Main,",
+    "राग कोहियारी भजन 34",
+    "Raag Kohiyaari Bhajan 34"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 515,
+  "displayOrder": 34,
+  "overallOrder": 513,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 284",
+  "updatedAt": "2026-10-26"
 }

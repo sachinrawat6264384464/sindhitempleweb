@@ -2,73 +2,121 @@
   "id": "bhajan-0369",
   "slug": "hari-ke-bhajan-bin-maanush-janm-paayaa-to-kyaa-hoyaa",
   "categoryId": "raag-tilang",
-  "title": "हरि के भजन बिन मानुश, जनम पाया तो कया होया",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "हरी के भजन बिन मानुष, जन्म पाया तो क्या होया",
   "romanTitle": "Hari Ke Bhajan Bin Maanush, Janm Paayaa To Kyaa Hoyaa",
-  "firstLine": "Hari Ke Bhajan Bin Maanush, Janm Paayaa To Kyaa Hoyaa. Prabhu Ke Priti Bin Tujhko, Kutumb Bhaayaa To K‍Yaa Hoyaa (Tek).",
+  "firstLine": "Hari Ke Bhajan Bin Maanush, Janm Paayaa To Kyaa Hoyaa.",
+  "heading": "।। राग तिलंग भजन ।। ६ ।। ३७०",
+  "tek": [
+    "हरी के भजन बिन मानुष, जन्म पाया तो क्या होया ।",
+    "प्रभू के प्रीति बिन तुझको , कुटुम्ब भाया तो क्‍या होया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Ke Bhajan Bin Maanush, Janm Paayaa To Kyaa Hoyaa.",
+    "Prabhu Ke Priti Bin Tujhko, Kutumb Bhaayaa To Ka‍Yaa Hoyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गद्य",
+        "हरी के नाम जपने हित, मिली यह मानुषा देही ।",
+        "बहुत रस भोग से पालन, करी काया तो क्या होया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gady",
+        "Hari Ke Naam Japne Hit, Mili Yah Maanushaa Dehi.",
+        "Bahut Ras Bhog Se Paalan, Kari Kaayaa To Kyaa Hoyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अती बल छल कपट करके, करी दुनिया कठी तुमने ।",
+        "दिया नहिं दान दीनों को, धरी माया तो क्या होया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ati Bal Chhal Kapat Karke, Kari Duniyaa Kathi Tumne.",
+        "Diyaa Nahin Daan Dinon Ko, Dhari Maayaa To Kyaa Hoyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरू से ज्ञान आतम का, करे सेवा नहीं पाया ।",
+        "ब्रह्म के ज्ञान बिन तुमको, पुत्र जाया तो क्या होया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Se Gyaan Aatam Kaa, Kare Sevaa Nahin Paayaa.",
+        "Brahm Ke Gyaan Bin Tumko, Putr Jaayaa To Kyaa Hoyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ जगत में जो, चक्रवर्ती बनो राजा ।",
+        "भजन बिन सीस तेरे पर, छत्र छाया तो क्या होया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Jagat Men Jo, Chakravarti Bano Raajaa.",
+        "Bhajan Bin Sis Tere Par, Chhatr Chhaayaa To Kyaa Hoyaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि के भजन बिन मानुश, जनम पाया तो कया होया.",
-      "प्रभु के परिति बिन तुझको, कुतुमब भाया तो कया होया (टेक)."
+      "गद्य",
+      "हरी के नाम जपने हित, मिली यह मानुषा देही ।",
+      "बहुत रस भोग से पालन, करी काया तो क्या होया ॥१ ॥"
     ],
     [
-      "गदय",
-      "हरि के नाम जपने हित, मिलि यह मानुशा देही."
+      "अती बल छल कपट करके, करी दुनिया कठी तुमने ।",
+      "दिया नहिं दान दीनों को, धरी माया तो क्या होया ॥२ ॥"
     ],
     [
-      "बहुत रस भोग से पालन, करि काया तो कया होया || 1 ||."
+      "गुरू से ज्ञान आतम का, करे सेवा नहीं पाया ।",
+      "ब्रह्म के ज्ञान बिन तुमको, पुत्र जाया तो क्या होया ॥३ ॥"
     ],
     [
-      "ति बल चहल कपत करके, करि दुनिया कथि तुमने.",
-      "दिया नहिन दान दिनोन को, धरि माया तो कया होया || 2 ||."
-    ],
-    [
-      "गुरु से ज्ञान ातम का, करे सेवा नहिन पाया.",
-      "बरहम के ज्ञान बिन तुमको, पुतर जाया तो कया होया ||.3 ||"
-    ],
-    [
-      "कहत तेऊँ जगत मेन जो, चकरवरति बनो राजा.",
-      "भजन बिन सिस तेरे पर, चहतर चहाया तो कया होया || 4. ||."
+      "कहत टेऊँ जगत में जो, चक्रवर्ती बनो राजा ।",
+      "भजन बिन सीस तेरे पर, छत्र छाया तो क्या होया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Ke Bhajan Bin Maanush, Janm Paayaa To Kyaa Hoyaa.",
-      "Prabhu Ke Priti Bin Tujhko, Kutumb Bhaayaa To K‍Yaa Hoyaa (Tek)."
-    ],
-    [
       "Gady",
-      "Hari Ke Naam Japne Hit, Mili Yah Maanushaa Dehi."
-    ],
-    [
-      "Bahut Ras Bhog Se Paalan, Kari Kaayaa To Kyaa Hoyaa || 1 ||."
+      "Hari Ke Naam Japne Hit, Mili Yah Maanushaa Dehi.",
+      "Bahut Ras Bhog Se Paalan, Kari Kaayaa To Kyaa Hoyaa || 1 ||"
     ],
     [
       "Ati Bal Chhal Kapat Karke, Kari Duniyaa Kathi Tumne.",
-      "Diyaa Nahin Daan Dinon Ko, Dhari Maayaa To Kyaa Hoyaa || 2 ||."
+      "Diyaa Nahin Daan Dinon Ko, Dhari Maayaa To Kyaa Hoyaa || 2 ||"
     ],
     [
-      "Guru Se Jnyaan Aatam Kaa, Kare Sevaa Nahin Paayaa.",
-      "Brahm Ke Jnyaan Bin Tumko, Putr Jaayaa To Kyaa Hoyaa ||.3 ||"
+      "Guru Se Gyaan Aatam Kaa, Kare Sevaa Nahin Paayaa.",
+      "Brahm Ke Gyaan Bin Tumko, Putr Jaayaa To Kyaa Hoyaa || 3 ||"
     ],
     [
       "Kahat Teun Jagat Men Jo, Chakravarti Bano Raajaa.",
-      "Bhajan Bin Sis Tere Par, Chhatr Chhaayaa To Kyaa Hoyaa || 4. ||."
+      "Bhajan Bin Sis Tere Par, Chhatr Chhaayaa To Kyaa Hoyaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 6 || 370",
+    "हरी के भजन बिन मानुष, जन्म पाया तो क्या होया",
     "Hari Ke Bhajan Bin Maanush, Janm Paayaa To Kyaa Hoyaa",
-    "हरि के भजन बिन मानुश, जनम पाया तो कया होया"
+    "राग तिलंग भजन 6",
+    "Raag Tilang Bhajan 6"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 369,
+  "displayOrder": 6,
+  "overallOrder": 369,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 218",
+  "updatedAt": "2026-10-26"
 }

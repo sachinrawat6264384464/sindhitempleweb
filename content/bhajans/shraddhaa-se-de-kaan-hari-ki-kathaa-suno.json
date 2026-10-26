@@ -1,79 +1,135 @@
 {
-  "id": "bhajan-0811",
+  "id": "bhajan-0809",
   "slug": "shraddhaa-se-de-kaan-hari-ki-kathaa-suno",
   "categoryId": "raag-pilaa",
-  "title": "शरदधा से दे कान, हरि कि कथा सुनो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "श्रद्धा से दे कान, हरि की कथा सुनो",
   "romanTitle": "Shraddhaa Se De Kaan, Hari Ki Kathaa Suno",
   "firstLine": "Shraddhaa Se De Kaan, Hari Ki Kathaa Suno (Tek).",
+  "heading": "।। राग पीला भजन ।। ८९ ।। ८११॥।",
+  "tek": [
+    "श्रद्धा से दे कान, हरि की कथा सुनो ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Shraddhaa Se De Kaan, Hari Ki Kathaa Suno (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शंकर हरि की कथा सु गाई, गौरी ने सुन हृदय बसाई ।",
+        "मिट गया श्रम गुमान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shankar Hari Ki Kathaa Su Gaai, Gauri Ne Sun Hriday Basaai.",
+        "Mit Gayaa Shram Gumaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "याज्ञवल्क्य हरि कथा उच्चारी, भारद्वाज सुन भये सुखारी ।",
+        "किया सुधारस पान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yaajnyavalky Hari Kathaa Uchchaari, Bhaaradvaaj Sun Bhaye Sukhaari.",
+        "Kiyaa Sudhaaras Paan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शुकदेव हरि की कथा सुनाई, परीक्षित सुनकर मुक्ती पाई ।",
+        "जानत सकल जहान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shukdev Hari Ki Kathaa Sunaai, Parikshit Sunkar Mukti Paai.",
+        "Jaanat Sakal Jahaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हरी कथा की महिमा भारी, सुनकर जिन ने हृदय धारी ।",
+        "होया तिन कल्यान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hari Kathaa Ki Mahimaa Bhaari, Sunkar Jin Ne Hriday Dhaari.",
+        "Hoyaa Tin Kalyaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ सुन शिक्षा मेरी, नितप्रति कथा सुनो हरि केरी ।",
+        "पाओ सूख महान ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sun Shikshaa Meri, Nitaprati Kathaa Suno Hari Keri.",
+        "Paao Sukh Mahaan || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शरदधा से दे कान, हरि कि कथा सुनो (टेक)."
+      "शंकर हरि की कथा सु गाई, गौरी ने सुन हृदय बसाई ।",
+      "मिट गया श्रम गुमान ॥१ ॥"
     ],
     [
-      "शनकर हरि कि कथा सु गाि, गौरि ने सुन हरिदय बसाि.",
-      "मित गया शरम गुमान || 1 ||"
+      "याज्ञवल्क्य हरि कथा उच्चारी, भारद्वाज सुन भये सुखारी ।",
+      "किया सुधारस पान ॥२ ॥"
     ],
     [
-      "याजनयवलकय हरि कथा ुचचारि, भारदवाज सुन भये सुखारि.",
-      "किया सुधारस पान. ||.2 ||."
+      "शुकदेव हरि की कथा सुनाई, परीक्षित सुनकर मुक्ती पाई ।",
+      "जानत सकल जहान ॥३ ॥"
     ],
     [
-      "शुकदेव हरि कि कथा सुनाि, परिकशित सुनकर मुक्ति पाि.",
-      "जानत सकल जहान. ||.3 ||."
+      "हरी कथा की महिमा भारी, सुनकर जिन ने हृदय धारी ।",
+      "होया तिन कल्यान ॥४ ॥"
     ],
     [
-      "हरि कथा कि महिमा भारि, सुनकर जिन ने हरिदय धारि.",
-      "होया तिन कलयान ||.4. ||."
-    ],
-    [
-      "कहे तेऊँ सुन शिकशा मेरि, नितपरति कथा सुनो हरि केरि.",
-      "पाो सुख महान || 5 || ||"
-    ],
-    [
-      "नल"
+      "कहे टेऊँ सुन शिक्षा मेरी, नितप्रति कथा सुनो हरि केरी ।",
+      "पाओ सूख महान ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Shraddhaa Se De Kaan, Hari Ki Kathaa Suno (Tek)."
-    ],
     [
       "Shankar Hari Ki Kathaa Su Gaai, Gauri Ne Sun Hriday Basaai.",
       "Mit Gayaa Shram Gumaan || 1 ||"
     ],
     [
       "Yaajnyavalky Hari Kathaa Uchchaari, Bhaaradvaaj Sun Bhaye Sukhaari.",
-      "Kiyaa Sudhaaras Paan. ||.2 ||."
+      "Kiyaa Sudhaaras Paan || 2 ||"
     ],
     [
       "Shukdev Hari Ki Kathaa Sunaai, Parikshit Sunkar Mukti Paai.",
-      "Jaanat Sakal Jahaan. ||.3 ||."
+      "Jaanat Sakal Jahaan || 3 ||"
     ],
     [
       "Hari Kathaa Ki Mahimaa Bhaari, Sunkar Jin Ne Hriday Dhaari.",
-      "Hoyaa Tin Kalyaan ||.4. ||."
+      "Hoyaa Tin Kalyaan || 4 ||"
     ],
     [
       "Kahe Teun Sun Shikshaa Meri, Nitaprati Kathaa Suno Hari Keri.",
-      "Paao Sukh Mahaan || 5 || ||"
-    ],
-    [
-      "Nal"
+      "Paao Sukh Mahaan || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 89 || 811 ||.",
+    "श्रद्धा से दे कान, हरि की कथा सुनो",
     "Shraddhaa Se De Kaan, Hari Ki Kathaa Suno",
-    "शरदधा से दे कान, हरि कि कथा सुनो"
+    "राग पीला भजन 88",
+    "Raag Pilaa Bhajan 88"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 811,
+  "displayOrder": 88,
+  "overallOrder": 809,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 429",
+  "updatedAt": "2026-10-26"
 }

@@ -2,72 +2,121 @@
   "id": "bhajan-0205",
   "slug": "dharm-bin-jivan-hai-bekaar",
   "categoryId": "raag-tori",
-  "title": "धरम बिन जिवन है बेकार",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "धर्म बिन जीवन है बेकार",
   "romanTitle": "Dharm Bin Jivan Hai Bekaar",
-  "firstLine": "Dharm Bin Jivan Hai Bekaar. Dharm Vimukh Nar Narke Jaavat Kahte Ved Pukaar (Tek).",
+  "firstLine": "Dharm Bin Jivan Hai Bekaar.",
+  "heading": "।। राग टोड़ी भजन ।। १३ ।। २०५।।",
+  "tek": [
+    "धर्म बिन जीवन है बेकार ।",
+    "धर्म विमुख नर नरके जावत कहते वेद पुकार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dharm Bin Jivan Hai Bekaar.",
+    "Dharm Vimukh Nar Narke Jaavat Kahte Ved Pukaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "क्षमा ग़रीबी त्यागे जो नर करत क्रोध अहंकार ।",
+        "दया छोड़ दीनन को दुख दे तांको है फटकार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kshamaa Gharibi Tyaage Jo Nar Karat Krodh Ahankaar.",
+        "Dayaa Chhor Dinan Ko Dukh De Taanko Hai Phatkaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गठ्ह",
+        "साचा मीठा नहिं बोलत जो कड़वे असत्‌ उच्चार ।",
+        "मन इन्द्रियों को जीत सके नहिं तांका जनम असार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gathh",
+        "Saachaa Mithaa Nahin Bolat Jo Karve Asat‌ Uchchaar.",
+        "Man Indriyon Ko Jit Sake Nahin Taankaa Janam Asaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दान देत नहिं शुभ पात्र जो राखत धन से प्यार ।",
+        "त्याग शील जो करत उपाधी जग में ताहिं धिकार ॥ । ३े ॥"
+      ],
+      "romanLines": [
+        "Daan Det Nahin Shubh Paatr Jo Raakhat Dhan Se Pyaar.",
+        "Tyaag Shil Jo Karat Upaadhi Jag Men Taahin Dhikaar || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पवित्रता बिन रहत अशुद्ध जो तृष्णा मन में धार ।",
+        "कहे टेऊँ सो शान्ति न पावे भटकत बारम्बार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Pavitrataa Bin Rahat Ashuddh Jo Trishnaa Man Men Dhaar.",
+        "Kahe Teun So Shaanti Na Paave Bhatkat Baarambaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धरम बिन जिवन है बेकार.",
-      "धरम विमुख नर नरके जावत कहते वेद पुकार (टेक)."
+      "क्षमा ग़रीबी त्यागे जो नर करत क्रोध अहंकार ।",
+      "दया छोड़ दीनन को दुख दे तांको है फटकार ॥१ ॥"
     ],
     [
-      "कशमा घरिबि तयागे जो नर करत करोध हनकार.",
-      "दया चहोर दिनन को दुःख दे तानको है फतकार || 1 ||"
+      "गठ्ह",
+      "साचा मीठा नहिं बोलत जो कड़वे असत्‌ उच्चार ।",
+      "मन इन्द्रियों को जीत सके नहिं तांका जनम असार ॥२ ॥"
     ],
     [
-      "गथह",
-      "साचा मिथा नहिन बोलत जो करवे सत‌ ुचचार."
+      "दान देत नहिं शुभ पात्र जो राखत धन से प्यार ।",
+      "त्याग शील जो करत उपाधी जग में ताहिं धिकार ॥ । ३े ॥"
     ],
     [
-      "मन िनदरियोन को जित सके नहिन तानका जनम सार || 2 ||"
-    ],
-    [
-      "दान देत नहिन शुभ पातर जो राखत धन से पयार.",
-      "तयाग शिल जो करत ुपाधि जग मेन ताहिन धिकार ||. 3े ||"
-    ],
-    [
-      "पवितरता बिन रहत शुदध जो तरिशना मन मेन धार.",
-      "कहे तेऊँ सो शांति न पावे भतकत बारमबार || 4 ||."
+      "पवित्रता बिन रहत अशुद्ध जो तृष्णा मन में धार ।",
+      "कहे टेऊँ सो शान्ति न पावे भटकत बारम्बार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Dharm Bin Jivan Hai Bekaar.",
-      "Dharm Vimukh Nar Narke Jaavat Kahte Ved Pukaar (Tek)."
-    ],
     [
       "Kshamaa Gharibi Tyaage Jo Nar Karat Krodh Ahankaar.",
       "Dayaa Chhor Dinan Ko Dukh De Taanko Hai Phatkaar || 1 ||"
     ],
     [
       "Gathh",
-      "Saachaa Mithaa Nahin Bolat Jo Karve Asat‌ Uchchaar."
-    ],
-    [
+      "Saachaa Mithaa Nahin Bolat Jo Karve Asat‌ Uchchaar.",
       "Man Indriyon Ko Jit Sake Nahin Taankaa Janam Asaar || 2 ||"
     ],
     [
       "Daan Det Nahin Shubh Paatr Jo Raakhat Dhan Se Pyaar.",
-      "Tyaag Shil Jo Karat Upaadhi Jag Men Taahin Dhikaar ||. 3E ||"
+      "Tyaag Shil Jo Karat Upaadhi Jag Men Taahin Dhikaar || 3E ||"
     ],
     [
       "Pavitrataa Bin Rahat Ashuddh Jo Trishnaa Man Men Dhaar.",
-      "Kahe Teun So Shaanti N Paave Bhatkat Baarambaar || 4 ||."
+      "Kahe Teun So Shaanti Na Paave Bhatkat Baarambaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 13 || 205 ||",
+    "धर्म बिन जीवन है बेकार",
     "Dharm Bin Jivan Hai Bekaar",
-    "धरम बिन जिवन है बेकार"
+    "राग तोड़ी भजन 13",
+    "Raag Tori Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 205,
+  "displayOrder": 13,
+  "overallOrder": 205,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 130",
+  "updatedAt": "2026-10-26"
 }

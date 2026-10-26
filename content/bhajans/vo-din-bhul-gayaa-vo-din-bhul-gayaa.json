@@ -2,41 +2,90 @@
   "id": "bhajan-0144",
   "slug": "vo-din-bhul-gayaa-vo-din-bhul-gayaa",
   "categoryId": "raag-aasaa",
-  "title": "वो दीन भुल गया, वो दीन भुल गया",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "वो दिन भूल गया, वो दिन भूल गया",
   "romanTitle": "Vo Din Bhul Gayaa, Vo Din Bhul Gayaa",
   "firstLine": "Vo Din Bhul Gayaa, Vo Din Bhul Gayaa (Tek).",
+  "heading": "।। राग आसा भजन ।। ८२ ।। १४४।।",
+  "tek": [
+    "वो दिन भूल गया, वो दिन भूल गया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vo Din Bhul Gayaa, Vo Din Bhul Gayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस दिन मात गर्भ में सोया,",
+        "पांव ऊपर सिर नीचे होया, तब तो तुम बहुता रोया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Din Maat Garbh Men Soyaa,",
+        "Paanv Upar Sir Niche Hoyaa, Tab To Tum Bahutaa Royaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वहां प्रभू को. पुकारा,",
+        "काढो मुझे कर्तारा, जपूंगा नाम तुम्हारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vahaan Prabhu Ko. Pukaaraa,",
+        "Kaadho Mujhe Kartaaraa, Japungaa Naam Tumhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि ने तुमको सब कुछ दीना,",
+        "धन वस्त्र गृह खाना पीना, माया में भये लवलीना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Ne Tumko Sab Kuchh Dinaa,",
+        "Dhan Vastr Grih Khaanaa Pinaa, Maayaa Men Bhaye Lavlinaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम नाम को. भुलाया,",
+        "तबहीं दुख को पाया, कहे टेऊँ जनम गँवाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ko. Bhulaayaa,",
+        "Tabhin Dukh Ko Paayaa, Kahe Teun Janam Ganvaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "वो दीन भुल गया, वो दीन भुल गया (टेक)."
+      "जिस दिन मात गर्भ में सोया,",
+      "पांव ऊपर सिर नीचे होया, तब तो तुम बहुता रोया ॥१ ॥"
     ],
     [
-      "जिस दीन मात गरभ मेन सोया,",
-      "पानव ुपर सिर निचे होया, तब तो तुम बहुता रोया || 1. ||."
+      "वहां प्रभू को. पुकारा,",
+      "काढो मुझे कर्तारा, जपूंगा नाम तुम्हारा ॥२ ॥"
     ],
     [
-      "वहान प्रभु को. पुकारा,",
-      "काधो मुझे करतारा, जपुनगा नाम तुमहारा || 2 ||."
-    ],
-    [
-      "हरि ने तुमको सब कुचह दिना,",
-      "धन वसतर गरिह खाना पिना, माया मेन भये लवलिना || 3 ||"
+      "हरि ने तुमको सब कुछ दीना,",
+      "धन वस्त्र गृह खाना पीना, माया में भये लवलीना ॥३ ॥"
     ],
     [
       "राम नाम को. भुलाया,",
-      "तभिन दुःख को पाया, कहे तेऊँ जनम गनवाया || 4 ||."
+      "तबहीं दुख को पाया, कहे टेऊँ जनम गँवाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vo Din Bhul Gayaa, Vo Din Bhul Gayaa (Tek)."
-    ],
-    [
       "Jis Din Maat Garbh Men Soyaa,",
-      "Paanv Upar Sir Niche Hoyaa, Tab To Tum Bahutaa Royaa || 1. ||."
+      "Paanv Upar Sir Niche Hoyaa, Tab To Tum Bahutaa Royaa || 1 ||"
     ],
     [
       "Vahaan Prabhu Ko. Pukaaraa,",
-      "Kaadho Mujhe Kartaaraa, Japungaa Naam Tumhaaraa || 2 ||."
+      "Kaadho Mujhe Kartaaraa, Japungaa Naam Tumhaaraa || 2 ||"
     ],
     [
       "Hari Ne Tumko Sab Kuchh Dinaa,",
@@ -44,22 +93,24 @@
     ],
     [
       "Raam Naam Ko. Bhulaayaa,",
-      "Tabhin Dukh Ko Paayaa, Kahe Teun Janam Ganvaayaa || 4 ||."
+      "Tabhin Dukh Ko Paayaa, Kahe Teun Janam Ganvaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 82 || 144 ||",
+    "वो दिन भूल गया, वो दिन भूल गया",
     "Vo Din Bhul Gayaa, Vo Din Bhul Gayaa",
-    "वो दीन भुल गया, वो दीन भुल गया"
+    "राग आसा भजन 82",
+    "Raag Aasaa Bhajan 82"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 144,
+  "displayOrder": 82,
+  "overallOrder": 144,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 101",
+  "updatedAt": "2026-10-26"
 }

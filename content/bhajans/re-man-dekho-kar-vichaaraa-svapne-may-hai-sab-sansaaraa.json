@@ -2,41 +2,90 @@
   "id": "bhajan-0334",
   "slug": "re-man-dekho-kar-vichaaraa-svapne-may-hai-sab-sansaaraa",
   "categoryId": "raag-zilaa",
-  "title": "रे मन देखो कर विचारा, सवपने मय है सब सनसारा",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "रे मन देखो कर वीचारा, स्वपने मय है सब संसारा",
   "romanTitle": "Re Man Dekho Kar Vichaaraa, Svapne May Hai Sab Sansaaraa",
   "firstLine": "Re Man Dekho Kar Vichaaraa, Svapne May Hai Sab Sansaaraa (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २१ ।। ३३४।॥।",
+  "tek": [
+    "रे मन देखो कर वीचारा, स्वपने मय है सब संसारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Dekho Kar Vichaaraa, Svapne May Hai Sab Sansaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "माता स्वपना ताता स्वपना, भैन स्वपन सुत भ्राता स्वपना ।",
+        "बिछुड़न स्वपना मिलना स्वपना, स्वपने मय है सब परिवारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maataa Svapnaa Taataa Svapnaa, Bhain Svapan Sut Bhraataa Svapnaa.",
+        "Bichhuran Svapnaa Milnaa Svapnaa, Svapne May Hai Sab Parivaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बैठन स्वपना धावन स्वपना, पीवन स्वपना खावन स्वपना ।",
+        "देवन स्वपना लेवन स्वपना ,स्वपनेमय है सब व्यवहारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baithan Svapnaa Dhaavan Svapnaa, Pivan Svapnaa Khaavan Svapnaa.",
+        "Devan Svapnaa Levan Svapnaa,Svapnemay Hai Sab Vyavhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मंगता स्वपना दाता स्वपना, मूर्ख स्वपना ज्ञाता स्वपना ।",
+        "श्रोता स्वपना वक्ता स्वपना, स्वपने मय है सब विस्तारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mangtaa Svapnaa Daataa Svapnaa, Murkh Svapnaa Jnyaataa Svapnaa.",
+        "Shrotaa Svapnaa Vaktaa Svapnaa, Svapne May Hai Sab Vistaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब स्वपना जानो, इक आत्म ही सत्‌ पहिचानो ।",
+        "आतम जानत स्वपना नाशत, वेद मुनी यों करत उच्चारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Svapnaa Jaano, Ik Aatm Hi Sat‌ Pahichaano.",
+        "Aatam Jaanat Svapnaa Naashat, Ved Muni Yon Karat Uchchaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन देखो कर विचारा, सवपने मय है सब सनसारा (टेक)."
+      "माता स्वपना ताता स्वपना, भैन स्वपन सुत भ्राता स्वपना ।",
+      "बिछुड़न स्वपना मिलना स्वपना, स्वपने मय है सब परिवारा ॥१ ॥"
     ],
     [
-      "माता सवपना ताता सवपना, भैन सवपन सुत भराता सवपना.",
-      "बिचहुरन सवपना मिलना सवपना, सवपने मय है सब परिवारा || 1 ||."
+      "बैठन स्वपना धावन स्वपना, पीवन स्वपना खावन स्वपना ।",
+      "देवन स्वपना लेवन स्वपना ,स्वपनेमय है सब व्यवहारा ॥२ ॥"
     ],
     [
-      "बैथन सवपना धावन सवपना, पिवन सवपना खावन सवपना.",
-      "देवन सवपना लेवन सवपनासवपनेमय है सब वयवहारा || 2 ||."
+      "मंगता स्वपना दाता स्वपना, मूर्ख स्वपना ज्ञाता स्वपना ।",
+      "श्रोता स्वपना वक्ता स्वपना, स्वपने मय है सब विस्तारा ॥३ ॥"
     ],
     [
-      "मनगता सवपना दाता सवपना, मुरख सवपना जनयाता सवपना.",
-      "शरोता सवपना वकता सवपना, सवपने मय है सब विसतारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ सब सवपना जानो, िक ातम हि सत‌ पहिचानो.",
-      "ातम जानत सवपना नाशत, वेद मुनि योन करत ुचचारा || 4 ||"
+      "कहे टेऊँ सब स्वपना जानो, इक आत्म ही सत्‌ पहिचानो ।",
+      "आतम जानत स्वपना नाशत, वेद मुनी यों करत उच्चारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Dekho Kar Vichaaraa, Svapne May Hai Sab Sansaaraa (Tek)."
-    ],
-    [
       "Maataa Svapnaa Taataa Svapnaa, Bhain Svapan Sut Bhraataa Svapnaa.",
-      "Bichhuran Svapnaa Milnaa Svapnaa, Svapne May Hai Sab Parivaaraa || 1 ||."
+      "Bichhuran Svapnaa Milnaa Svapnaa, Svapne May Hai Sab Parivaaraa || 1 ||"
     ],
     [
       "Baithan Svapnaa Dhaavan Svapnaa, Pivan Svapnaa Khaavan Svapnaa.",
-      "Devan Svapnaa Levan Svapnaa,Svapnemay Hai Sab Vyavhaaraa || 2 ||."
+      "Devan Svapnaa Levan Svapnaa,Svapnemay Hai Sab Vyavhaaraa || 2 ||"
     ],
     [
       "Mangtaa Svapnaa Daataa Svapnaa, Murkh Svapnaa Jnyaataa Svapnaa.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 21 || 334. ||.",
+    "रे मन देखो कर वीचारा, स्वपने मय है सब संसारा",
     "Re Man Dekho Kar Vichaaraa, Svapne May Hai Sab Sansaaraa",
-    "रे मन देखो कर विचारा, सवपने मय है सब सनसारा"
+    "राग ज़िला भजन 21",
+    "Raag Zilaa Bhajan 21"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 334,
+  "displayOrder": 21,
+  "overallOrder": 334,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 199",
+  "updatedAt": "2026-10-26"
 }

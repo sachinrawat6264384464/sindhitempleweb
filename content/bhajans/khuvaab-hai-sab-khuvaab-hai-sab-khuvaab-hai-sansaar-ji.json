@@ -2,50 +2,108 @@
   "id": "bhajan-0170",
   "slug": "khuvaab-hai-sab-khuvaab-hai-sab-khuvaab-hai-sansaar-ji",
   "categoryId": "raag-vihaag",
-  "title": "खुवाब है सब खुवाब है सब खुवाब है सनसार जी",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "खुवाब है सब खुवाब है सब खुवाब है संसार जी",
   "romanTitle": "Khuvaab Hai Sab Khuvaab Hai Sab Khuvaab Hai Sansaar Ji",
-  "firstLine": "Khuvaab Hai Sab Khuvaab Hai Sab Khuvaab Hai Sansaar Ji. Jhuth Hai Sab Jhuth Hai Sab Jhuth Hai Jinsaar Ji (Tek).",
+  "firstLine": "Khuvaab Hai Sab Khuvaab Hai Sab Khuvaab Hai Sansaar Ji.",
+  "heading": "।। राग विहाग भजन ।। १२ ।। १७०॥।",
+  "tek": [
+    "खुवाब है सब खुवाब है सब खुवाब है संसार जी ।",
+    "झूठ है सब झूठ है सब झूठ है जिनसार जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Khuvaab Hai Sab Khuvaab Hai Sab Khuvaab Hai Sansaar Ji.",
+    "Jhuth Hai Sab Jhuth Hai Sab Jhuth Hai Jinsaar Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दूखमय सब दूखमय सब दूखमय परिवार जी ।",
+        "कूच है सब कूच है सब कूच है घरबार जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dukhmay Sab Dukhmay Sab Dukhmay Parivaar Ji.",
+        "Kuch Hai Sab Kuch Hai Sab Kuch Hai Gharbaar Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "छोड़दे नर छोड़दे नर छोड़दे दुखदार जी ।",
+        "खोजले नर खोजले नर खोजले सुख सार जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chhorde Nar Chhorde Nar Chhorde Dukhdaar Ji.",
+        "Khojle Nar Khojle Nar Khojle Sukh Saar Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जाउ तूं नर जाउ तूं नर जाउ सन्त द्वार जी ।",
+        "ज्ञान की सुन ज्ञान की सुन ज्ञान की गुफ़्तार जी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Jaau Tu Nar Jaau Tu Nar Jaau Sant Dvaar Ji.",
+        "Gyaan Ki Sun Gyaan Ki Sun Gyaan Ki Guftaar Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पायले नर पायले नर पायले गुणहार जी ।",
+        "कहत टेऊँ कहत टेऊँ कहत टेऊँ पुकार जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paayle Nar Paayle Nar Paayle Gunhaar Ji.",
+        "Kahat Teun Kahat Teun Kahat Teun Pukaar Ji || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "्ठा"
+      ],
+      "romanLines": [
+        "Thaa"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "खुवाब है सब खुवाब है सब खुवाब है सनसार जी.",
-      "झुथ है सब झुथ है सब झुथ है जिनसार जी (टेक)."
+      "दूखमय सब दूखमय सब दूखमय परिवार जी ।",
+      "कूच है सब कूच है सब कूच है घरबार जी ॥१ ॥"
     ],
     [
-      "दुखमय सब दुखमय सब दुखमय परिवार जी.",
-      "कुच है सब कुच है सब कुच है घरबार जी ||.1 ||."
+      "छोड़दे नर छोड़दे नर छोड़दे दुखदार जी ।",
+      "खोजले नर खोजले नर खोजले सुख सार जी ॥२ ॥"
     ],
     [
-      "चहोरदे नर चहोरदे नर चहोरदे दुखदार जी.",
-      "खोजले नर खोजले नर खोजले सुख सार जी || || 2 ||"
+      "जाउ तूं नर जाउ तूं नर जाउ सन्त द्वार जी ।",
+      "ज्ञान की सुन ज्ञान की सुन ज्ञान की गुफ़्तार जी ॥ ३े ॥"
     ],
     [
-      "जाु तु नर जाु तु नर जाु संत दवार जी.",
-      "ज्ञान कि सुन ज्ञान कि सुन ज्ञान कि गुfतार जी || 3े ||"
+      "पायले नर पायले नर पायले गुणहार जी ।",
+      "कहत टेऊँ कहत टेऊँ कहत टेऊँ पुकार जी ॥४ ॥"
     ],
     [
-      "पायले नर पायले नर पायले गुनहार जी.",
-      "कहत तेऊँ कहत तेऊँ कहत तेऊँ पुकार जी || 4 ||"
-    ],
-    [
-      "था"
+      "्ठा"
     ]
   ],
   "romanLyrics": [
     [
-      "Khuvaab Hai Sab Khuvaab Hai Sab Khuvaab Hai Sansaar Ji.",
-      "Jhuth Hai Sab Jhuth Hai Sab Jhuth Hai Jinsaar Ji (Tek)."
-    ],
-    [
       "Dukhmay Sab Dukhmay Sab Dukhmay Parivaar Ji.",
-      "Kuch Hai Sab Kuch Hai Sab Kuch Hai Gharbaar Ji ||.1 ||."
+      "Kuch Hai Sab Kuch Hai Sab Kuch Hai Gharbaar Ji || 1 ||"
     ],
     [
       "Chhorde Nar Chhorde Nar Chhorde Dukhdaar Ji.",
-      "Khojle Nar Khojle Nar Khojle Sukh Saar Ji || || 2 ||"
+      "Khojle Nar Khojle Nar Khojle Sukh Saar Ji || 2 ||"
     ],
     [
       "Jaau Tu Nar Jaau Tu Nar Jaau Sant Dvaar Ji.",
-      "Jnyaan Ki Sun Jnyaan Ki Sun Jnyaan Ki Guftaar Ji || 3E ||"
+      "Gyaan Ki Sun Gyaan Ki Sun Gyaan Ki Guftaar Ji || 3E ||"
     ],
     [
       "Paayle Nar Paayle Nar Paayle Gunhaar Ji.",
@@ -56,18 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 12 || 170 ||.",
+    "खुवाब है सब खुवाब है सब खुवाब है संसार जी",
     "Khuvaab Hai Sab Khuvaab Hai Sab Khuvaab Hai Sansaar Ji",
-    "खुवाब है सब खुवाब है सब खुवाब है सनसार जी"
+    "राग विहाग भजन 12",
+    "Raag Vihaag Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 170,
+  "displayOrder": 12,
+  "overallOrder": 170,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 114",
+  "updatedAt": "2026-10-26"
 }

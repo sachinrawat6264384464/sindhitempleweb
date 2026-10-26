@@ -2,48 +2,106 @@
   "id": "bhajan-0183",
   "slug": "mohi-miliyaa-sukhdhaam-harijan-nirveri-nishkaam-harijan",
   "categoryId": "raag-dhanaashri",
-  "title": "मोहि मिलिया सुखधाम हरिजन, निरवेरि निशकाम हरिजन",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "मोहि मिलिया सुखधाम हरीजन, निर्वेरी निष्काम हरीजन",
   "romanTitle": "Mohi Miliyaa Sukhdhaam Harijan, Nirveri Nishkaam Harijan",
   "firstLine": "Mohi Miliyaa Sukhdhaam Harijan, Nirveri Nishkaam Harijan (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। ३ ।। १८३।।",
+  "tek": [
+    "मोहि मिलिया सुखधाम हरीजन, निर्वेरी निष्काम हरीजन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mohi Miliyaa Sukhdhaam Harijan, Nirveri Nishkaam Harijan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गंगा सम जे निर्मल रहते, पाप ताप सब मन के दहते ।",
+        "सुमरे हरि का नाम हरीजन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gangaa Sam Je Nirmal Rahte, Paap Taap Sab Man Ke Dahte.",
+        "Sumre Hari Kaa Naam Harijan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तरुवर जैसे सहकर तितिक्षा, सब जीवों की करहैं रक्षा ।",
+        "करते पूरण काम हरीजन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taruvar Jaise Sahkar Titikshaa, Sab Jivon Ki Karhain Rakshaa.",
+        "Karte Puran Kaam Harijan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन्तर बाहर रहत चन्दन ज्यों, निशदिन गर्जत बरसत घन ज्यों ।",
+        "हरत हृदय की घाम हरीजन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Antar Baahar Rahat Chandan Jyon, Nishdin Garjat Barsat Ghan Jyon.",
+        "Harat Hriday Ki Ghaam Harijan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सम वीचारी, शील सन्तोषी परम उदारी ।",
+        "सूरत सुन्दर श्याम हरीजन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sam Vichaari, Shil Santoshi Param Udaari.",
+        "Surat Sundar Shyaam Harijan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "्ढा"
+      ],
+      "romanLines": [
+        "Dhaa"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोहि मिलिया सुखधाम हरिजन, निरवेरि निशकाम हरिजन (टेक)."
+      "गंगा सम जे निर्मल रहते, पाप ताप सब मन के दहते ।",
+      "सुमरे हरि का नाम हरीजन ॥१ ॥"
     ],
     [
-      "गनगा सम जे निर्मल रहते, पाप ताप सब मन के दहते.",
-      "सुमरे हरि का नाम हरिजन || 1 ||"
+      "तरुवर जैसे सहकर तितिक्षा, सब जीवों की करहैं रक्षा ।",
+      "करते पूरण काम हरीजन ॥२ ॥"
     ],
     [
-      "तरुवर जैसे सहकर तितिकशा, सब जिवोन कि करहैन रकशा.",
-      "करते पुरन काम हरिजन ||.2 ||"
+      "अन्तर बाहर रहत चन्दन ज्यों, निशदिन गर्जत बरसत घन ज्यों ।",
+      "हरत हृदय की घाम हरीजन ॥३ ॥"
     ],
     [
-      "नतर बाहर रहत चनदन जयोन, निशदिन गरजत बरसत घन जयोन.",
-      "हरत हरिदय कि घाम हरिजन ||.3 ||"
+      "कहता टेऊँ सम वीचारी, शील सन्तोषी परम उदारी ।",
+      "सूरत सुन्दर श्याम हरीजन ॥४ ॥"
     ],
     [
-      "कहता तेऊँ सम विचारि, शिल सनतोशि परम ुदारि.",
-      "सुरत सुनदर शयाम हरिजन || 4 ||"
-    ],
-    [
-      "धा"
+      "्ढा"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mohi Miliyaa Sukhdhaam Harijan, Nirveri Nishkaam Harijan (Tek)."
-    ],
     [
       "Gangaa Sam Je Nirmal Rahte, Paap Taap Sab Man Ke Dahte.",
       "Sumre Hari Kaa Naam Harijan || 1 ||"
     ],
     [
       "Taruvar Jaise Sahkar Titikshaa, Sab Jivon Ki Karhain Rakshaa.",
-      "Karte Puran Kaam Harijan ||.2 ||"
+      "Karte Puran Kaam Harijan || 2 ||"
     ],
     [
       "Antar Baahar Rahat Chandan Jyon, Nishdin Garjat Barsat Ghan Jyon.",
-      "Harat Hriday Ki Ghaam Harijan ||.3 ||"
+      "Harat Hriday Ki Ghaam Harijan || 3 ||"
     ],
     [
       "Kahtaa Teun Sam Vichaari, Shil Santoshi Param Udaari.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 3 || 183 ||",
+    "मोहि मिलिया सुखधाम हरीजन, निर्वेरी निष्काम हरीजन",
     "Mohi Miliyaa Sukhdhaam Harijan, Nirveri Nishkaam Harijan",
-    "मोहि मिलिया सुखधाम हरिजन, निरवेरि निशकाम हरिजन"
+    "राग धनाश्री भजन 3",
+    "Raag Dhanaashri Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 183,
+  "displayOrder": 3,
+  "overallOrder": 183,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 120",
+  "updatedAt": "2026-10-26"
 }

@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0730",
+  "id": "bhajan-0728",
   "slug": "tum-saadh-sangti-men-aao-nit-govind-ke-gun-gaao",
   "categoryId": "raag-pilaa",
-  "title": "तुम साध सनगति मेन ाो, नित गोविंद के गुन गाो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "तुम साध संगति में आओ , नित गोविन्द के गुन गाओ",
   "romanTitle": "Tum Saadh Sangti Men Aao, Nit Govind Ke Gun Gaao",
   "firstLine": "Tum Saadh Sangti Men Aao, Nit Govind Ke Gun Gaao (Tek).",
+  "heading": "।। राग पीला भजन ।। ८ ।। ७३०।।",
+  "tek": [
+    "तुम साध संगति में आओ , नित गोविन्द के गुन गाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Saadh Sangti Men Aao, Nit Govind Ke Gun Gaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष चोला दुर्लभ पाया, ग़ाफिल भोगों माहिं गँवाया ।",
+        "अब तो सफल बनाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Cholaa Durlabh Paayaa, Ghaaphil Bhogon Maahin Ganvaayaa.",
+        "Ab To Saphal Banaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्तों का संग निशदिन करिये, श्रद्धा से हरि नाम सुमरिये ।",
+        "मन को नाहिं डुलाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santon Kaa Sang Nishdin Kariye, Shraddhaa Se Hari Naam Sumriye.",
+        "Man Ko Naahin Dulaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साध संगति की सेवा कीजे, तन मन धन की भेटा दीजे ।",
+        "ममता मोह मिटाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Ki Sevaa Kije, Tan Man Dhan Ki Bhetaa Dije.",
+        "Mamtaa Moh Mitaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सन्त वचन धर मन में प्यारा, कहे टेऊँ होवे निस्तारा ।",
+        "फेर जन्म नहिं पाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sant Vachan Dhar Man Men Pyaaraa, Kahe Teun Hove Nistaaraa.",
+        "Pher Janm Nahin Paao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम साध सनगति मेन ाो, नित गोविंद के गुन गाो (टेक)."
+      "मानुष चोला दुर्लभ पाया, ग़ाफिल भोगों माहिं गँवाया ।",
+      "अब तो सफल बनाओ ॥१ ॥"
     ],
     [
-      "मानुश चोला दुरलभ पाया, घाफिल भोगोन माहिन गनवाया.",
-      "ब तो सफल बनाो. ||.1 ||."
+      "सन्तों का संग निशदिन करिये, श्रद्धा से हरि नाम सुमरिये ।",
+      "मन को नाहिं डुलाओ ॥२ ॥"
     ],
     [
-      "सनतोन का सनग निशदिन करिये, शरदधा से हरि नाम सुमरिये.",
-      "मन को नाहिन दुलाो. ||.2 ||."
+      "साध संगति की सेवा कीजे, तन मन धन की भेटा दीजे ।",
+      "ममता मोह मिटाओ ॥३ ॥"
     ],
     [
-      "साध सनगति कि सेवा किजे, तन मन धन कि भेता दिजे.",
-      "ममता मोह मिताो || 3े ||"
-    ],
-    [
-      "संत वचन धर मन मेन पयारा, कहे तेऊँ होवे निसतारा.",
-      "फेर जनम नहिन पाो. ||.4. ||."
-    ],
-    [
-      "नल"
+      "सन्त वचन धर मन में प्यारा, कहे टेऊँ होवे निस्तारा ।",
+      "फेर जन्म नहिं पाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Saadh Sangti Men Aao, Nit Govind Ke Gun Gaao (Tek)."
-    ],
-    [
       "Maanush Cholaa Durlabh Paayaa, Ghaaphil Bhogon Maahin Ganvaayaa.",
-      "Ab To Saphal Banaao. ||.1 ||."
+      "Ab To Saphal Banaao || 1 ||"
     ],
     [
       "Santon Kaa Sang Nishdin Kariye, Shraddhaa Se Hari Naam Sumriye.",
-      "Man Ko Naahin Dulaao. ||.2 ||."
+      "Man Ko Naahin Dulaao || 2 ||"
     ],
     [
       "Saadh Sangti Ki Sevaa Kije, Tan Man Dhan Ki Bhetaa Dije.",
-      "Mamtaa Moh Mitaao || 3E ||"
+      "Mamtaa Moh Mitaao || 3 ||"
     ],
     [
       "Sant Vachan Dhar Man Men Pyaaraa, Kahe Teun Hove Nistaaraa.",
-      "Pher Janm Nahin Paao. ||.4. ||."
-    ],
-    [
-      "Nal"
+      "Pher Janm Nahin Paao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 8 || 730 ||",
+    "तुम साध संगति में आओ , नित गोविन्द के गुन गाओ",
     "Tum Saadh Sangti Men Aao, Nit Govind Ke Gun Gaao",
-    "तुम साध सनगति मेन ाो, नित गोविंद के गुन गाो"
+    "राग पीला भजन 7",
+    "Raag Pilaa Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 730,
+  "displayOrder": 7,
+  "overallOrder": 728,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 387",
+  "updatedAt": "2026-10-26"
 }

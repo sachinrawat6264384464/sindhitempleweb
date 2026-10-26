@@ -1,41 +1,90 @@
 {
-  "id": "bhajan-0657",
+  "id": "bhajan-0655",
   "slug": "naam-japo-nirdhaari-paao-ji-tum-sukh-apaariyaan",
   "categoryId": "raag-pahaari",
-  "title": "नाम जपो निरधारि, पाो जी तुम सुख पारियान",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "नाम जपो निर्धारी, पाओ जी तुम सूख अपारियां",
   "romanTitle": "Naam Japo Nirdhaari, Paao Ji Tum Sukh Apaariyaan",
   "firstLine": "Naam Japo Nirdhaari, Paao Ji Tum Sukh Apaariyaan (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ८ ।। ६५६।।",
+  "tek": [
+    "नाम जपो निर्धारी, पाओ जी तुम सूख अपारियां ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Naam Japo Nirdhaari, Paao Ji Tum Sukh Apaariyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वप्ने के सम यह जग जानो, सर्व पदार्थ मिथ्या मानो ।",
+        "तांको छोड़ उदारी ॥8 ॥"
+      ],
+      "romanLines": [
+        "Svapne Ke Sam Yah Jag Jaano, Sarv Padaarth Mithyaa Maano.",
+        "Taanko Chhor Udaari || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "स्वार्थ का है सब परिवारा, विपत्ति काल में करत किनारा ।",
+        "त्यागो तांकी यारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Kaa Hai Sab Parivaaraa, Vipatti Kaal Men Karat Kinaaraa.",
+        "Tyaago Taanki Yaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्द्",
+        "सद्‌गुरु से मिल आप जगाओ, हरि सुमरण में श्रुति लगाओ ।",
+        "करके नित हुशियारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dd",
+        "Sad‌Guru Se Mil Aap Jagaao, Hari Sumran Men Shruti Lagaao.",
+        "Karke Nit Hushiyaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ वेग सम्भारो, हीरा मानुष जन्म न हारो ।",
+        "ज्ञान गहो सुखकारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Veg Sambhaaro, Hiraa Maanush Janm Na Haaro.",
+        "Gyaan Gaho Sukhkaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "नाम जपो निरधारि, पाो जी तुम सुख पारियान (टेक)."
+      "स्वप्ने के सम यह जग जानो, सर्व पदार्थ मिथ्या मानो ।",
+      "तांको छोड़ उदारी ॥8 ॥"
     ],
     [
-      "सवपने के सम यह जग जानो, सर्व पदारथ मिथया मानो.",
-      "तानको चहोर ुदारि.8 ||"
+      "स्वार्थ का है सब परिवारा, विपत्ति काल में करत किनारा ।",
+      "त्यागो तांकी यारी ॥२ ॥"
     ],
     [
-      "सवारथ का है सब परिवारा, विपतति काल मेन करत किनारा.",
-      "तयागो तानकि यारि || 2 ||"
+      "द्द्",
+      "सद्‌गुरु से मिल आप जगाओ, हरि सुमरण में श्रुति लगाओ ।",
+      "करके नित हुशियारी ॥३ ॥"
     ],
     [
-      "दद",
-      "सद्गुरु से मिल ाप जगाो, हरि सुमरन मेन शरुति लगाो."
-    ],
-    [
-      "करके नित हुशियारि ||.3 ||",
-      "कहता तेऊँ वेग समभारो, हिरा मानुश जनम न हारो."
-    ],
-    [
-      "ज्ञान गहो सुखकारि ||.4 ||"
+      "कहता टेऊँ वेग सम्भारो, हीरा मानुष जन्म न हारो ।",
+      "ज्ञान गहो सुखकारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Naam Japo Nirdhaari, Paao Ji Tum Sukh Apaariyaan (Tek)."
-    ],
-    [
       "Svapne Ke Sam Yah Jag Jaano, Sarv Padaarth Mithyaa Maano.",
-      "Taanko Chhor Udaari.8 ||"
+      "Taanko Chhor Udaari || 8 ||"
     ],
     [
       "Svaarth Kaa Hai Sab Parivaaraa, Vipatti Kaal Men Karat Kinaaraa.",
@@ -43,30 +92,29 @@
     ],
     [
       "Dd",
-      "Sad‌Guru Se Mil Aap Jagaao, Hari Sumran Men Shruti Lagaao."
+      "Sad‌Guru Se Mil Aap Jagaao, Hari Sumran Men Shruti Lagaao.",
+      "Karke Nit Hushiyaari || 3 ||"
     ],
     [
-      "Karke Nit Hushiyaari ||.3 ||",
-      "Kahtaa Teun Veg Sambhaaro, Hiraa Maanush Janm N Haaro."
-    ],
-    [
-      "Jnyaan Gaho Sukhkaari ||.4 ||"
+      "Kahtaa Teun Veg Sambhaaro, Hiraa Maanush Janm Na Haaro.",
+      "Gyaan Gaho Sukhkaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 8 || 656 ||",
+    "नाम जपो निर्धारी, पाओ जी तुम सूख अपारियां",
     "Naam Japo Nirdhaari, Paao Ji Tum Sukh Apaariyaan",
-    "नाम जपो निरधारि, पाो जी तुम सुख पारियान"
+    "राग पहाड़ी भजन 8",
+    "Raag Pahaari Bhajan 8"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 657,
+  "displayOrder": 8,
+  "overallOrder": 655,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 349",
+  "updatedAt": "2026-10-26"
 }

@@ -1,54 +1,103 @@
 {
-  "id": "bhajan-0842",
+  "id": "bhajan-0840",
   "slug": "je-bhav-saagar-tarnaa-chaaho-santon-ki-levo-sharnaa",
   "categoryId": "raag-jog",
-  "title": "जे भव सागर तरना चाहो, सनतोन कि लेवो शरना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "जे भव सागर तरना चाहो, सन्तों की लेवो शरना",
   "romanTitle": "Je Bhav Saagar Tarnaa Chaaho, Santon Ki Levo Sharnaa",
   "firstLine": "Je Bhav Saagar Tarnaa Chaaho, Santon Ki Levo Sharnaa (Tek).",
+  "heading": "।। राग जोग भजन ।। १२ ।। ८४२॥।",
+  "tek": [
+    "जे भव सागर तरना चाहो, सन्तों की लेवो शरना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Je Bhav Saagar Tarnaa Chaaho, Santon Ki Levo Sharnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पापों का जो बोझ उठाया, जे तुम चाहो ताहिं गिराया ।",
+        "सन्त चरन पर शिर धरना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paapon Kaa Jo Bojh Uthaayaa, Je Tum Chaaho Taahin Giraayaa.",
+        "Sant Charan Par Shir Dharnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काम क्रोध मद मोह विकारा, जे तुम चाहो सर्व निवारा ।",
+        "सन्त वचन पर नित चरना ॥? ॥२ ॥",
+        "बल विद्या आयू सनमाना, जे तुम चाहो सर्व बढ़ाना ।",
+        "सन्तों को वन्दन करना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Mad Moh Vikaaraa, Je Tum Chaaho Sarv Nivaaraa.",
+        "Sant Vachan Par Nit Charnaa || ? || 2 ||",
+        "Bal Vidyaa Aayu Sanmaanaa, Je Tum Chaaho Sarv Barhaanaa.",
+        "Santon Ko Vandan Karnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चार पदार्थ नाम खजाना, जे तुम चाहो लेन सुजाना ।",
+        "सन्त सेव कर उर भरना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Chaar Padaarth Naam Khajaanaa, Je Tum Chaaho Len Sujaanaa.",
+        "Sant Sev Kar Ur Bharnaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सुनले प्यारा, जे तुम चाहो मुक्ति उदारा ।",
+        "सन्तों संग जीते मरना ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sunle Pyaaraa, Je Tum Chaaho Mukti Udaaraa.",
+        "Santon Sang Jite Marnaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जे भव सागर तरना चाहो, सनतोन कि लेवो शरना (टेक)."
+      "पापों का जो बोझ उठाया, जे तुम चाहो ताहिं गिराया ।",
+      "सन्त चरन पर शिर धरना ॥१ ॥"
     ],
     [
-      "पापोन का जो बोझ ुथाया, जे तुम चाहो ताहिन गिराया.",
-      "संत चरण पर शिर धरना || 1 ||"
+      "काम क्रोध मद मोह विकारा, जे तुम चाहो सर्व निवारा ।",
+      "सन्त वचन पर नित चरना ॥? ॥२ ॥",
+      "बल विद्या आयू सनमाना, जे तुम चाहो सर्व बढ़ाना ।",
+      "सन्तों को वन्दन करना ॥३ ॥"
     ],
     [
-      "काम करोध मद मोह विकारा, जे तुम चाहो सर्व निवारा.",
-      "संत वचन पर नित चरना ||?2 ||"
+      "चार पदार्थ नाम खजाना, जे तुम चाहो लेन सुजाना ।",
+      "सन्त सेव कर उर भरना ॥४ ॥"
     ],
     [
-      "बल विदया ायु सनमाना, जे तुम चाहो सर्व बरहाना.",
-      "सनतोन को वनदन करना ||.3 ||"
-    ],
-    [
-      "चार पदारथ नाम खजाना, जे तुम चाहो लेन सुजाना.",
-      "संत सेव कर ुर भरना || 4. ||."
-    ],
-    [
-      "कहता तेऊँ सुनले पयारा, जे तुम चाहो मुक्ति ुदारा.",
-      "सनतोन सनग जिते मरना || 5 ||"
+      "कहता टेऊँ सुनले प्यारा, जे तुम चाहो मुक्ति उदारा ।",
+      "सन्तों संग जीते मरना ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Je Bhav Saagar Tarnaa Chaaho, Santon Ki Levo Sharnaa (Tek)."
-    ],
     [
       "Paapon Kaa Jo Bojh Uthaayaa, Je Tum Chaaho Taahin Giraayaa.",
       "Sant Charan Par Shir Dharnaa || 1 ||"
     ],
     [
       "Kaam Krodh Mad Moh Vikaaraa, Je Tum Chaaho Sarv Nivaaraa.",
-      "Sant Vachan Par Nit Charnaa ||?2 ||"
-    ],
-    [
+      "Sant Vachan Par Nit Charnaa || ? || 2 ||",
       "Bal Vidyaa Aayu Sanmaanaa, Je Tum Chaaho Sarv Barhaanaa.",
-      "Santon Ko Vandan Karnaa ||.3 ||"
+      "Santon Ko Vandan Karnaa || 3 ||"
     ],
     [
       "Chaar Padaarth Naam Khajaanaa, Je Tum Chaaho Len Sujaanaa.",
-      "Sant Sev Kar Ur Bharnaa || 4. ||."
+      "Sant Sev Kar Ur Bharnaa || 4 ||"
     ],
     [
       "Kahtaa Teun Sunle Pyaaraa, Je Tum Chaaho Mukti Udaaraa.",
@@ -56,18 +105,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 12 || 842 ||.",
+    "जे भव सागर तरना चाहो, सन्तों की लेवो शरना",
     "Je Bhav Saagar Tarnaa Chaaho, Santon Ki Levo Sharnaa",
-    "जे भव सागर तरना चाहो, सनतोन कि लेवो शरना"
+    "राग जोग भजन 12",
+    "Raag Jog Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 842,
+  "displayOrder": 12,
+  "overallOrder": 840,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 446",
+  "updatedAt": "2026-10-26"
 }

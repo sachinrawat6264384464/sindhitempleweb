@@ -1,73 +1,133 @@
 {
-  "id": "bhajan-0675",
+  "id": "bhajan-0673",
   "slug": "aao-milkar-sabhi-premi-hari-ke-git-gaao-ji",
   "categoryId": "raag-pahaari",
-  "title": "ाो मिलकर सभि परेमि, हरि के गित गाो जी",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "आओ मिलकर सभी प्रेमी, हरी के गीत गाओ जी",
   "romanTitle": "Aao Milkar Sabhi Premi, Hari Ke Git Gaao Ji",
-  "firstLine": "Aao Milkar Sabhi Premi, Hari Ke Git Gaao Ji. Mili Durlabh Manush Dehi, Use Naa Mupht Ganvaao Ji (Tek).",
+  "firstLine": "Aao Milkar Sabhi Premi, Hari Ke Git Gaao Ji.",
+  "heading": "।। राग पहाड़ी भजन ।। २६ ।। ६७४।।",
+  "tek": [
+    "आओ मिलकर सभी प्रेमी, हरी के गीत गाओ जी ।",
+    "मिली दुर्लभ मनुष देही, उसे ना मुफ्त गंवाओ जी ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Aao Milkar Sabhi Premi, Hari Ke Git Gaao Ji.",
+    "Mili Durlabh Manush Dehi, Use Naa Mupht Ganvaao Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिसी कारण मनुष चोला, मिला तुमको अती सुन्दर ।",
+        "तजे गफ्लत करो सोई, सफल यह तन बनाओ जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jisi Kaaran Manush Cholaa, Milaa Tumko Ati Sundar.",
+        "Taje Gaphlat Karo Soi, Saphal Yah Tan Banaao Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गर्भ अन्दर कीया तुमने, हरी से कौल है जोई ।",
+        "वचन वह याद कर अपना, उसीको ना भुलाओ जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Garbh Andar Kiyaa Tumne, Hari Se Kaul Hai Joi.",
+        "Vachan Vah Yaad Kar Apnaa, Usiko Naa Bhulaao Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नहीं कछु जीभ घिसती है, नहीं कछु मोल लगता है ।",
+        "तजे शंका भजो हरि को, सभी सुख साज पाओ जी ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Nahin Kachhu Jibh Ghisti Hai, Nahin Kachhu Mol Lagtaa Hai.",
+        "Taje Shankaa Bhajo Hari Ko, Sabhi Sukh Saaj Paao Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हरी गुन गान करना जो, यही कलि में भजन साचा ।",
+        "कहे टेऊँ सर्व त्यागे, हरी से हेत लाओ जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hari Gun Gaan Karnaa Jo, Yahi Kali Men Bhajan Saachaa.",
+        "Kahe Teun Sarv Tyaage, Hari Se Het Laao Ji || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्य"
+      ],
+      "romanLines": [
+        "Ddy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाो मिलकर सभि परेमि, हरि के गित गाो जी.",
-      "मिलि दुरलभ मनुश देही, ुसे ना मुफत गनवाो जी (टेक)."
+      "जिसी कारण मनुष चोला, मिला तुमको अती सुन्दर ।",
+      "तजे गफ्लत करो सोई, सफल यह तन बनाओ जी ॥१ ॥"
     ],
     [
-      "जिसि कारन मनुश चोला, मिला तुमको ति सुनदर.",
-      "तजे गफलत करो सोि, सफल यह तन बनाो जी || 1 ||"
+      "गर्भ अन्दर कीया तुमने, हरी से कौल है जोई ।",
+      "वचन वह याद कर अपना, उसीको ना भुलाओ जी ॥२ ॥"
     ],
     [
-      "गरभ नदर किया तुमने, हरि से कौल है जोि.",
-      "वचन वह याद कर पना, ुसिको ना भुलाो जी ||.2. ||."
+      "नहीं कछु जीभ घिसती है, नहीं कछु मोल लगता है ।",
+      "तजे शंका भजो हरि को, सभी सुख साज पाओ जी ॥ ।३े ॥"
     ],
     [
-      "नहिन कचहु जिभ घिसति है, नहिन कचहु मोल लगता है.",
-      "तजे शनका भजो हरि को, सभि सुख साज पाो जी ||.3े ||"
+      "हरी गुन गान करना जो, यही कलि में भजन साचा ।",
+      "कहे टेऊँ सर्व त्यागे, हरी से हेत लाओ जी ॥४ ॥"
     ],
     [
-      "हरि गुन गान करना जो, यहि कलि मेन भजन साचा.",
-      "कहे तेऊँ सर्व तयागे, हरि से हेत लाो जी ||.4 ||."
-    ],
-    [
-      "ददय"
+      "द्द्य"
     ]
   ],
   "romanLyrics": [
-    [
-      "Aao Milkar Sabhi Premi, Hari Ke Git Gaao Ji.",
-      "Mili Durlabh Manush Dehi, Use Naa Mupht Ganvaao Ji (Tek)."
-    ],
     [
       "Jisi Kaaran Manush Cholaa, Milaa Tumko Ati Sundar.",
       "Taje Gaphlat Karo Soi, Saphal Yah Tan Banaao Ji || 1 ||"
     ],
     [
       "Garbh Andar Kiyaa Tumne, Hari Se Kaul Hai Joi.",
-      "Vachan Vah Yaad Kar Apnaa, Usiko Naa Bhulaao Ji ||.2. ||."
+      "Vachan Vah Yaad Kar Apnaa, Usiko Naa Bhulaao Ji || 2 ||"
     ],
     [
       "Nahin Kachhu Jibh Ghisti Hai, Nahin Kachhu Mol Lagtaa Hai.",
-      "Taje Shankaa Bhajo Hari Ko, Sabhi Sukh Saaj Paao Ji ||.3E ||"
+      "Taje Shankaa Bhajo Hari Ko, Sabhi Sukh Saaj Paao Ji || 3E ||"
     ],
     [
       "Hari Gun Gaan Karnaa Jo, Yahi Kali Men Bhajan Saachaa.",
-      "Kahe Teun Sarv Tyaage, Hari Se Het Laao Ji ||.4 ||."
+      "Kahe Teun Sarv Tyaage, Hari Se Het Laao Ji || 4 ||"
     ],
     [
       "Ddy"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 26 || 674 ||",
+    "आओ मिलकर सभी प्रेमी, हरी के गीत गाओ जी",
     "Aao Milkar Sabhi Premi, Hari Ke Git Gaao Ji",
-    "ाो मिलकर सभि परेमि, हरि के गित गाो जी"
+    "राग पहाड़ी भजन 26",
+    "Raag Pahaari Bhajan 26"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 675,
+  "displayOrder": 26,
+  "overallOrder": 673,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 358",
+  "updatedAt": "2026-10-26"
 }

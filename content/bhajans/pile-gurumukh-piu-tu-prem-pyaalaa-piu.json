@@ -1,64 +1,101 @@
 {
-  "id": "bhajan-0739",
+  "id": "bhajan-0737",
   "slug": "pile-gurumukh-piu-tu-prem-pyaalaa-piu",
   "categoryId": "raag-pilaa",
-  "title": "पिले गुरुमुख पिु, तु प्रेम पयाला पिु",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "पीले गुरुमुख पीउ, तूं प्रेम प्याला पीउ",
   "romanTitle": "Pile Gurumukh Piu, Tu Prem Pyaalaa Piu",
   "firstLine": "Pile Gurumukh Piu, Tu Prem Pyaalaa Piu (Tek).",
+  "heading": "।। राग पीला भजन ।। १७ ।। ७३९।॥।",
+  "tek": [
+    "पीले गुरुमुख पीउ, तूं प्रेम प्याला पीउ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pile Gurumukh Piu, Tu Prem Pyaalaa Piu (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रेम प्याला है मतिवाला, पीने से मध चढ़े निराला ।",
+        "भूले तन मन जीउ ॥8 ॥"
+      ],
+      "romanLines": [
+        "Prem Pyaalaa Hai Mativaalaa, Pine Se Madh Charhe Niraalaa.",
+        "Bhule Tan Man Jiu || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम प्याला जिन जिन पीया, तिनको हरि ने दर्शन दीया ।",
+        "तुम भी पाओ पीउ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Pyaalaa Jin Jin Piyaa, Tinko Hari Ne Darshan Diyaa.",
+        "Tum Bhi Paao Piu || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ननद्",
+        "प्रेम प्याला गुरु से लीजे, कहे टेऊँ पी जुग जुग जीजे ।",
+        "जीव से होवो शीउ ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Nanad",
+        "Prem Pyaalaa Guru Se Lije, Kahe Teun Pi Jug Jug Jije.",
+        "Jiv Se Hovo Shiu || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पिले गुरुमुख पिु, तु प्रेम पयाला पिु (टेक)."
+      "प्रेम प्याला है मतिवाला, पीने से मध चढ़े निराला ।",
+      "भूले तन मन जीउ ॥8 ॥"
     ],
     [
-      "प्रेम पयाला है मतिवाला, पिने से मध चरहे निराला.",
-      "भुले तन मन जिु || 8 ||"
+      "प्रेम प्याला जिन जिन पीया, तिनको हरि ने दर्शन दीया ।",
+      "तुम भी पाओ पीउ ॥२ ॥"
     ],
     [
-      "प्रेम पयाला जिन जिन पिया, तिनको हरि ने दरशन दिया.",
-      "तुम भि पाो पिु || || 2 ||"
-    ],
-    [
-      "ननद",
-      "प्रेम पयाला गुरु से लिजे, कहे तेऊँ पि जुग जुग जिजे."
-    ],
-    [
-      "जिव से होवो शिु ||.3े ||."
+      "ननद्",
+      "प्रेम प्याला गुरु से लीजे, कहे टेऊँ पी जुग जुग जीजे ।",
+      "जीव से होवो शीउ ॥ ।३े ॥ ।"
     ]
   ],
   "romanLyrics": [
-    [
-      "Pile Gurumukh Piu, Tu Prem Pyaalaa Piu (Tek)."
-    ],
     [
       "Prem Pyaalaa Hai Mativaalaa, Pine Se Madh Charhe Niraalaa.",
       "Bhule Tan Man Jiu || 8 ||"
     ],
     [
       "Prem Pyaalaa Jin Jin Piyaa, Tinko Hari Ne Darshan Diyaa.",
-      "Tum Bhi Paao Piu || || 2 ||"
+      "Tum Bhi Paao Piu || 2 ||"
     ],
     [
       "Nanad",
-      "Prem Pyaalaa Guru Se Lije, Kahe Teun Pi Jug Jug Jije."
-    ],
-    [
-      "Jiv Se Hovo Shiu ||.3E ||."
+      "Prem Pyaalaa Guru Se Lije, Kahe Teun Pi Jug Jug Jije.",
+      "Jiv Se Hovo Shiu || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 17 || 739. ||.",
+    "पीले गुरुमुख पीउ, तूं प्रेम प्याला पीउ",
     "Pile Gurumukh Piu, Tu Prem Pyaalaa Piu",
-    "पिले गुरुमुख पिु, तु प्रेम पयाला पिु"
+    "राग पीला भजन 16",
+    "Raag Pilaa Bhajan 16"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 739,
+  "displayOrder": 16,
+  "overallOrder": 737,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 391",
+  "updatedAt": "2026-10-26"
 }

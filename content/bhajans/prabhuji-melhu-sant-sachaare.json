@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0467",
+  "id": "bhajan-0466",
   "slug": "prabhuji-melhu-sant-sachaare",
   "categoryId": "raag-huseni",
-  "title": "परभुजि मेलहु संत सचारे",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "प्रभुजी मेलहु सन्त सचारे",
   "romanTitle": "Prabhuji Melhu Sant Sachaare",
-  "firstLine": "Prabhuji Melhu Sant Sachaare. Jaanki Sadti Bhavsaagar Se Pal Men Paar Ukaare (Tek).",
+  "firstLine": "Prabhuji Melhu Sant Sachaare.",
+  "heading": "।। राग हुसेनी भजन ।। ५ ।। ४६७।।",
+  "tek": [
+    "प्रभुजी मेलहु सन्त सचारे ।",
+    "जांकी सड्ति भवसागर से पल में पार उकारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhuji Melhu Sant Sachaare.",
+    "Jaanki Sadti Bhavsaagar Se Pal Men Paar Ukaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जांका दर्शन परसन हर्सन मन की तप्त निवारे ।",
+        "जांकी वाणी अमृत खाणी संसा भ्रम संहारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaankaa Darshan Parsan Harsan Man Ki Tapt Nivaare.",
+        "Jaanki Vaani Amrit Khaani Sansaa Bhram Sanhaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जांकी कहनी बहनी रहनी सबके काज संबवारे ।",
+        "जांका ज्ञान अज्ञान नसावे पाप सर्व परिहारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaanki Kahni Bahni Rahni Sabke Kaaj Sambvaare.",
+        "Jaankaa Gyaan Ajnyaan Nasaave Paap Sarv Parihaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन्तर बाहर परम पवीत्र जो हरिनाम उच्चारे ।",
+        "ज्ञान ध्यान गुण भक्ती देके सब जीवों को तारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Antar Baahar Param Pavitr Jo Harinaam Uchchaare.",
+        "Gyaan Dhyaan Gun Bhakti Deke Sab Jivon Ko Taare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कर जोड़े कर कहता टेऊँ पल पल तोहि पुकारे ।",
+        "ऐसे सनतों का संग मुझको दीजे सत्‌कर्तारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kar Jore Kar Kahtaa Teun Pal Pal Tohi Pukaare.",
+        "Aise Santon Kaa Sang Mujhko Dije Sat‌Kartaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परभुजि मेलहु संत सचारे.",
-      "जानकि सदति भवसागर से पल मेन पार ुकारे (टेक)."
+      "जांका दर्शन परसन हर्सन मन की तप्त निवारे ।",
+      "जांकी वाणी अमृत खाणी संसा भ्रम संहारे ॥१ ॥"
     ],
     [
-      "जानका दरशन परसन हरसन मन कि तपत निवारे.",
-      "जानकि वाणी अमृत खानि सनसा भरम सनहारे || 1 ||."
+      "जांकी कहनी बहनी रहनी सबके काज संबवारे ।",
+      "जांका ज्ञान अज्ञान नसावे पाप सर्व परिहारे ॥२ ॥"
     ],
     [
-      "जानकि कहनि बहनि रहनि सबके काज समबवारे.",
-      "जानका ज्ञान जनयान नसावे पाप सर्व परिहारे || 2 ||."
+      "अन्तर बाहर परम पवीत्र जो हरिनाम उच्चारे ।",
+      "ज्ञान ध्यान गुण भक्ती देके सब जीवों को तारे ॥३ ॥"
     ],
     [
-      "नतर बाहर परम पवित्र जो हरिनाम ुचचारे.",
-      "ज्ञान ध्यान गुन भक्ति देके सब जिवोन को तारे || 3 ||."
-    ],
-    [
-      "कर जोरे कर कहता तेऊँ पल पल तोहि पुकारे.",
-      "ैसे सनतोन का सनग मुझको दिजे सतकरतारे || 4 ||."
+      "कर जोड़े कर कहता टेऊँ पल पल तोहि पुकारे ।",
+      "ऐसे सनतों का संग मुझको दीजे सत्‌कर्तारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhuji Melhu Sant Sachaare.",
-      "Jaanki Sadti Bhavsaagar Se Pal Men Paar Ukaare (Tek)."
-    ],
-    [
       "Jaankaa Darshan Parsan Harsan Man Ki Tapt Nivaare.",
-      "Jaanki Vaani Amrit Khaani Sansaa Bhram Sanhaare || 1 ||."
+      "Jaanki Vaani Amrit Khaani Sansaa Bhram Sanhaare || 1 ||"
     ],
     [
       "Jaanki Kahni Bahni Rahni Sabke Kaaj Sambvaare.",
-      "Jaankaa Jnyaan Ajnyaan Nasaave Paap Sarv Parihaare || 2 ||."
+      "Jaankaa Gyaan Ajnyaan Nasaave Paap Sarv Parihaare || 2 ||"
     ],
     [
       "Antar Baahar Param Pavitr Jo Harinaam Uchchaare.",
-      "Jnyaan Dhyaan Gun Bhakti Deke Sab Jivon Ko Taare || 3 ||."
+      "Gyaan Dhyaan Gun Bhakti Deke Sab Jivon Ko Taare || 3 ||"
     ],
     [
       "Kar Jore Kar Kahtaa Teun Pal Pal Tohi Pukaare.",
-      "Aise Santon Kaa Sang Mujhko Dije Sat‌Kartaare || 4 ||."
+      "Aise Santon Kaa Sang Mujhko Dije Sat‌Kartaare || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 5 || 467 ||",
+    "प्रभुजी मेलहु सन्त सचारे",
     "Prabhuji Melhu Sant Sachaare",
-    "परभुजि मेलहु संत सचारे"
+    "राग हुसैनी भजन 5",
+    "Raag Huseni Bhajan 5"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 467,
+  "displayOrder": 5,
+  "overallOrder": 466,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 262",
+  "updatedAt": "2026-10-26"
 }

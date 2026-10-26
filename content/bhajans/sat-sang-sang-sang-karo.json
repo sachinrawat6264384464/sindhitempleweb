@@ -2,72 +2,121 @@
   "id": "bhajan-0123",
   "slug": "sat-sang-sang-sang-karo",
   "categoryId": "raag-aasaa",
-  "title": "सत‌ सनग सनग सनग करो",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सत्‌ संग संग संग करो",
   "romanTitle": "Sat‌ Sang Sang Sang Karo",
-  "firstLine": "Sat‌ Sang Sang Sang Karo. Bhaarat Khand Men Nar Tan Paayaa, Santon Kaa Satsang Karo (Tek).",
+  "firstLine": "Sat‌ Sang Sang Sang Karo.",
+  "heading": "।। राग आसा भजन ।। ६१ ।। १२३।।",
+  "tek": [
+    "सत्‌ संग संग संग करो ।",
+    "भारत खण्ड में नर तन पाया, सन्तों का सत्संग करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌ Sang Sang Sang Karo.",
+    "Bhaarat Khand Men Nar Tan Paayaa, Santon Kaa Satsang Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ठ्ठ",
+        "सत्संग का यह अर्थ समझले, सत्‌ वस्तू में प्रीती धरले ।",
+        "भोगों की आसक्ती हरले, निर्मल अपना अंग करो ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Thth",
+        "Satsang Kaa Yah Arth Samjhale, Sat‌ Vastu Men Priti Dharle.",
+        "Bhogon Ki Aasakti Harle, Nirmal Apnaa Ang Karo || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साध संगति में बैठ प्यारे, सत्‌ शास्त्र का वचन विचारे ।",
+        "स्वास स्वास हरि नाम उच्चारे, पाप ताप सब भंग करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Men Baith Pyaare, Sat‌ Shaastr Kaa Vachan Vichaare.",
+        "Svaas Svaas Hari Naam Uchchaare, Paap Taap Sab Bhang Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "और जोनि सत्संग न होवहिं, अविद्या की निद्रा तुम सोवहिं ।",
+        "इस तन में सत्संग दुख खोवहिं, तां हित उर में उमंग करो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aur Joni Satsang Na Hovhin, Avidyaa Ki Nidraa Tum Sovhin.",
+        "Is Tan Men Satsang Dukh Khovhin, Taan Hit Ur Men Umang Karo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो सत्संग आवे, निश्चय सोई फल को पावे ।",
+        "सत्संग ना कब निष्फल जावे, याद यही प्रसंग करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Satsang Aave, Nishchay Soi Phal Ko Paave.",
+        "Satsang Naa Kab Nishphal Jaave, Yaad Yahi Prasang Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सत‌ सनग सनग सनग करो.",
-      "भारत खनद मेन नर तन पाया, सनतोन का सत्संग करो (टेक)."
+      "ठ्ठ",
+      "सत्संग का यह अर्थ समझले, सत्‌ वस्तू में प्रीती धरले ।",
+      "भोगों की आसक्ती हरले, निर्मल अपना अंग करो ॥8 ॥१ ॥"
     ],
     [
-      "थथ",
-      "सत्संग का यह रथ समझले, सत‌ वसतु मेन परिति धरले."
+      "साध संगति में बैठ प्यारे, सत्‌ शास्त्र का वचन विचारे ।",
+      "स्वास स्वास हरि नाम उच्चारे, पाप ताप सब भंग करो ॥२ ॥"
     ],
     [
-      "भोगोन कि ासकति हरले, निर्मल पना नग करो || 8$. ||.",
-      "साध सनगति मेन बैथ पयारे, सत‌ शासतर का वचन विचारे."
+      "और जोनि सत्संग न होवहिं, अविद्या की निद्रा तुम सोवहिं ।",
+      "इस तन में सत्संग दुख खोवहिं, तां हित उर में उमंग करो ॥३ ॥"
     ],
     [
-      "सवास सवास हरि नाम ुचचारे, पाप ताप सब भनग करो ||.2 ||",
-      "ौर जोनि सत्संग न होवहिन, विदया कि निदरा तुम सोवहिन."
-    ],
-    [
-      "िस तन मेन सत्संग दुःख खोवहिन, तान हित ुर मेन ुमनग करो.. 3 ||",
-      "कहे तेऊँ जो सत्संग ावे, निशचय सोि फल को पावे."
-    ],
-    [
-      "सत्संग ना कब निशफल जावे, याद यहि परसनग करो ||.4. ||."
+      "कहे टेऊँ जो सत्संग आवे, निश्चय सोई फल को पावे ।",
+      "सत्संग ना कब निष्फल जावे, याद यही प्रसंग करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌ Sang Sang Sang Karo.",
-      "Bhaarat Khand Men Nar Tan Paayaa, Santon Kaa Satsang Karo (Tek)."
-    ],
-    [
       "Thth",
-      "Satsang Kaa Yah Arth Samjhale, Sat‌ Vastu Men Priti Dharle."
+      "Satsang Kaa Yah Arth Samjhale, Sat‌ Vastu Men Priti Dharle.",
+      "Bhogon Ki Aasakti Harle, Nirmal Apnaa Ang Karo || 8 || 1 ||"
     ],
     [
-      "Bhogon Ki Aasakti Harle, Nirmal Apnaa Ang Karo || 8$. ||.",
-      "Saadh Sangti Men Baith Pyaare, Sat‌ Shaastr Kaa Vachan Vichaare."
+      "Saadh Sangti Men Baith Pyaare, Sat‌ Shaastr Kaa Vachan Vichaare.",
+      "Svaas Svaas Hari Naam Uchchaare, Paap Taap Sab Bhang Karo || 2 ||"
     ],
     [
-      "Svaas Svaas Hari Naam Uchchaare, Paap Taap Sab Bhang Karo ||.2 ||",
-      "Aur Joni Satsang N Hovhin, Avidyaa Ki Nidraa Tum Sovhin."
+      "Aur Joni Satsang Na Hovhin, Avidyaa Ki Nidraa Tum Sovhin.",
+      "Is Tan Men Satsang Dukh Khovhin, Taan Hit Ur Men Umang Karo || 3 ||"
     ],
     [
-      "Is Tan Men Satsang Dukh Khovhin, Taan Hit Ur Men Umang Karo.. 3 ||",
-      "Kahe Teun Jo Satsang Aave, Nishchay Soi Phal Ko Paave."
-    ],
-    [
-      "Satsang Naa Kab Nishphal Jaave, Yaad Yahi Prasang Karo ||.4. ||."
+      "Kahe Teun Jo Satsang Aave, Nishchay Soi Phal Ko Paave.",
+      "Satsang Naa Kab Nishphal Jaave, Yaad Yahi Prasang Karo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 61 || 123 ||",
+    "सत्‌ संग संग संग करो",
     "Sat‌ Sang Sang Sang Karo",
-    "सत‌ सनग सनग सनग करो"
+    "राग आसा भजन 61",
+    "Raag Aasaa Bhajan 61"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 123,
+  "displayOrder": 61,
+  "overallOrder": 123,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 87",
+  "updatedAt": "2026-10-26"
 }

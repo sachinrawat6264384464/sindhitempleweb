@@ -2,34 +2,83 @@
   "id": "bhajan-0335",
   "slug": "aisaa-aatam-raam-dhyaayaa-janam-maran-ke-sab-dukh-jaayaa",
   "categoryId": "raag-zilaa",
-  "title": "ैसा ातम राम धयाया, जनम मरन के सब दुःख जाया",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "ऐसा आतम राम ध्याया, जनम मरन के सब दुख जाया",
   "romanTitle": "Aisaa Aatam Raam Dhyaayaa, Janam Maran Ke Sab Dukh Jaayaa",
   "firstLine": "Aisaa Aatam Raam Dhyaayaa, Janam Maran Ke Sab Dukh Jaayaa (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २२ ।। ३३५।।",
+  "tek": [
+    "ऐसा आतम राम ध्याया, जनम मरन के सब दुख जाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aisaa Aatam Raam Dhyaayaa, Janam Maran Ke Sab Dukh Jaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "एक अखण्ड जो है अविनासी, पूरन प्रभू घट घट वासी ।",
+        "स्वयं प्रकाशी सब सुख राशी, वेदों ने यश जांका गाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ek Akhand Jo Hai Avinaasi, Puran Prabhu Ghat Ghat Vaasi.",
+        "Svayan Prakaashi Sab Sukh Raashi, Vedon Ne Yash Jaankaa Gaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बाहर भीतर जो भरपूरा, निकट नहीं जो ना कछु दूरा ।",
+        "निरंजन नूरा चमकत सूरा, अपनी महिमा माहिं समाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baahar Bhitar Jo Bharpuraa, Nikat Nahin Jo Naa Kachhu Duraa.",
+        "Niranjan Nuraa Chamkat Suraa, Apni Mahimaa Maahin Samaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जांको कबहूँ जल न डुबावत, बाण न बेधे अगि न जलावत ।",
+        "नहिं कहें धावत खेद न पावत, जिस शक्ती से नाचत माया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaanko Kabhun Jal Na Dubaavat, Baan Na Bedhe Agi Na Jalaavat.",
+        "Nahin Kahen Dhaavat Khed Na Paavat, Jis Shakti Se Naachat Maayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सो सिरजनहारा, सबसे मिलिया सबसे न्यारा ।",
+        "अन्त न पारा जग आधारा, जिसने ये सब खेल खिलाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun So Sirjanhaaraa, Sabse Miliyaa Sabse Nyaaraa.",
+        "Ant Na Paaraa Jag Aadhaaraa, Jisne Ye Sab Khel Khilaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ैसा ातम राम धयाया, जनम मरन के सब दुःख जाया (टेक)."
+      "एक अखण्ड जो है अविनासी, पूरन प्रभू घट घट वासी ।",
+      "स्वयं प्रकाशी सब सुख राशी, वेदों ने यश जांका गाया ॥१ ॥"
     ],
     [
-      "ेक खनद जो है विनासि, पुरन प्रभु घत घत वासि.",
-      "सवयन परकाशि सब सुख राशि, वेदोन ने यश जानका गाया || 1 ||"
+      "बाहर भीतर जो भरपूरा, निकट नहीं जो ना कछु दूरा ।",
+      "निरंजन नूरा चमकत सूरा, अपनी महिमा माहिं समाया ॥२ ॥"
     ],
     [
-      "बाहर भितर जो भरपुरा, निकत नहिन जो ना कचहु दुरा.",
-      "निरनजन नुरा चमकत सुरा, पनि महिमा माहिन समाया || 2 ||"
+      "जांको कबहूँ जल न डुबावत, बाण न बेधे अगि न जलावत ।",
+      "नहिं कहें धावत खेद न पावत, जिस शक्ती से नाचत माया ॥३ ॥"
     ],
     [
-      "जानको कभुन जल न दुबावत, बान न बेधे गि न जलावत.",
-      "नहिन कहेन धावत खेद न पावत, जिस शकति से नाचत माया || 3 ||"
-    ],
-    [
-      "कहे तेऊँ सो सिरजनहारा, सबसे मिलिया सबसे नयारा.",
-      "नत न पारा जग ाधारा, जिसने ये सब खेल खिलाया.. 4 ||"
+      "कहे टेऊँ सो सिरजनहारा, सबसे मिलिया सबसे न्यारा ।",
+      "अन्त न पारा जग आधारा, जिसने ये सब खेल खिलाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Aisaa Aatam Raam Dhyaayaa, Janam Maran Ke Sab Dukh Jaayaa (Tek)."
-    ],
     [
       "Ek Akhand Jo Hai Avinaasi, Puran Prabhu Ghat Ghat Vaasi.",
       "Svayan Prakaashi Sab Sukh Raashi, Vedon Ne Yash Jaankaa Gaayaa || 1 ||"
@@ -39,27 +88,29 @@
       "Niranjan Nuraa Chamkat Suraa, Apni Mahimaa Maahin Samaayaa || 2 ||"
     ],
     [
-      "Jaanko Kabhun Jal N Dubaavat, Baan N Bedhe Agi N Jalaavat.",
-      "Nahin Kahen Dhaavat Khed N Paavat, Jis Shakti Se Naachat Maayaa || 3 ||"
+      "Jaanko Kabhun Jal Na Dubaavat, Baan Na Bedhe Agi Na Jalaavat.",
+      "Nahin Kahen Dhaavat Khed Na Paavat, Jis Shakti Se Naachat Maayaa || 3 ||"
     ],
     [
       "Kahe Teun So Sirjanhaaraa, Sabse Miliyaa Sabse Nyaaraa.",
-      "Ant N Paaraa Jag Aadhaaraa, Jisne Ye Sab Khel Khilaayaa.. 4 ||"
+      "Ant Na Paaraa Jag Aadhaaraa, Jisne Ye Sab Khel Khilaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 22 || 335 ||",
+    "ऐसा आतम राम ध्याया, जनम मरन के सब दुख जाया",
     "Aisaa Aatam Raam Dhyaayaa, Janam Maran Ke Sab Dukh Jaayaa",
-    "ैसा ातम राम धयाया, जनम मरन के सब दुःख जाया"
+    "राग ज़िला भजन 22",
+    "Raag Zilaa Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 335,
+  "displayOrder": 22,
+  "overallOrder": 335,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 200",
+  "updatedAt": "2026-10-26"
 }

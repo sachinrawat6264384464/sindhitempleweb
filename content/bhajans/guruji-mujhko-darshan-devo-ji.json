@@ -2,65 +2,115 @@
   "id": "bhajan-0012",
   "slug": "guruji-mujhko-darshan-devo-ji",
   "categoryId": "raag-bhairav",
-  "title": "गुरुजि मुझको दरशन देवो जी",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "गुरूजी मुझको दर्शन देवो जी",
   "romanTitle": "Guruji Mujhko Darshan Devo Ji",
   "firstLine": "Guruji Mujhko Darshan Devo Ji (Tek).",
+  "heading": "।। राग भैरव भजन ।। १२ ॥।",
+  "tek": [
+    "गुरूजी मुझको दर्शन देवो जी ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Guruji Mujhko Darshan Devo Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम हो सद्गुरु सागर के सम मैं हूँ सदूश मीना ।",
+        "एक पलक भी तुम बिन मेरा जग में होत न जीना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sadguru Saagar Ke Sam Main Hun Sadush Minaa.",
+        "Ek Palak Bhi Tum Bin Meraa Jag Men Hot Na Jinaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम हो सदूगरु बादल के सम मेरा मन है मोरा ।",
+        "तुझको मैं नित ऐसे चाहत जैसे चान्द चकोरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sadugru Baadal Ke Sam Meraa Man Hai Moraa.",
+        "Tujhko Main Nit Aise Chaahat Jaise Chaand Chakoraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम हो सद्‌गुरु बून्द स्वांती चात्रक सा मन मेरा ।",
+        "भंवरे को ज्यों फूल भावता त्यों मुझ दर्शन तेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sad‌Guru Bund Svaanti Chaatrak Saa Man Meraa.",
+        "Bhanvre Ko Jyon Phul Bhaavtaa Tyon Mujh Darshan Teraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ तुझ बिन सद्‌गुरु कबहूं धीर न आवे ।",
+        "रैन दिवस तेरे दर्शन की मुझको प्यास सतावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tujh Bin Sad‌Guru Kabhun Dhir Na Aave.",
+        "Rain Divas Tere Darshan Ki Mujhko Pyaas Sataave || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुजि मुझको दरशन देवो जी (टेक)."
+      "तुम हो सद्गुरु सागर के सम मैं हूँ सदूश मीना ।",
+      "एक पलक भी तुम बिन मेरा जग में होत न जीना ॥१ ॥"
     ],
     [
-      "तुम हो सद्गुरु सागर के सम मैं हुन सदुश मिना.",
-      "ेक पलक भि तुम बिन मेरा जग मेन होत न जिना || 1 ||"
+      "तुम हो सदूगरु बादल के सम मेरा मन है मोरा ।",
+      "तुझको मैं नित ऐसे चाहत जैसे चान्द चकोरा ॥२ ॥"
     ],
     [
-      "तुम हो सदुगरु बादल के सम मेरा मन है मोरा.",
-      "तुझको मैं नित ैसे चाहत जैसे चानद चकोरा ||.2 ||"
+      "तुम हो सद्‌गुरु बून्द स्वांती चात्रक सा मन मेरा ।",
+      "भंवरे को ज्यों फूल भावता त्यों मुझ दर्शन तेरा ॥३ ॥"
     ],
     [
-      "तुम हो सद्गुरु बुनद सवानति चातरक सा मन मेरा.",
-      "भनवरे को जयोन फुल भावता तयोन मुझ दरशन तेरा || 3. ||."
-    ],
-    [
-      "कहता तेऊँ तुझ बिन सद्गुरु कभुन धिर न ावे.",
-      "रैन दिवस तेरे दरशन कि मुझको पयास सतावे || 4 ||"
+      "कहता टेऊँ तुझ बिन सद्‌गुरु कबहूं धीर न आवे ।",
+      "रैन दिवस तेरे दर्शन की मुझको प्यास सतावे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guruji Mujhko Darshan Devo Ji (Tek)."
-    ],
-    [
       "Tum Ho Sadguru Saagar Ke Sam Main Hun Sadush Minaa.",
-      "Ek Palak Bhi Tum Bin Meraa Jag Men Hot N Jinaa || 1 ||"
+      "Ek Palak Bhi Tum Bin Meraa Jag Men Hot Na Jinaa || 1 ||"
     ],
     [
       "Tum Ho Sadugru Baadal Ke Sam Meraa Man Hai Moraa.",
-      "Tujhko Main Nit Aise Chaahat Jaise Chaand Chakoraa ||.2 ||"
+      "Tujhko Main Nit Aise Chaahat Jaise Chaand Chakoraa || 2 ||"
     ],
     [
       "Tum Ho Sad‌Guru Bund Svaanti Chaatrak Saa Man Meraa.",
-      "Bhanvre Ko Jyon Phul Bhaavtaa Tyon Mujh Darshan Teraa || 3. ||."
+      "Bhanvre Ko Jyon Phul Bhaavtaa Tyon Mujh Darshan Teraa || 3 ||"
     ],
     [
-      "Kahtaa Teun Tujh Bin Sad‌Guru Kabhun Dhir N Aave.",
+      "Kahtaa Teun Tujh Bin Sad‌Guru Kabhun Dhir Na Aave.",
       "Rain Divas Tere Darshan Ki Mujhko Pyaas Sataave || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairav Bhajan || 12 ||.",
+    "गुरूजी मुझको दर्शन देवो जी",
     "Guruji Mujhko Darshan Devo Ji",
-    "गुरुजि मुझको दरशन देवो जी"
+    "राग भैरव भजन 12",
+    "Raag Bhairav Bhajan 12"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 12,
+  "overallOrder": 12,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 31",
+  "updatedAt": "2026-10-26"
 }

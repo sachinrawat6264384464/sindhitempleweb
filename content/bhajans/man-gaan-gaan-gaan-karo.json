@@ -2,72 +2,132 @@
   "id": "bhajan-0132",
   "slug": "man-gaan-gaan-gaan-karo",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "मन गान गान गान करो",
   "romanTitle": "Man Gaan Gaan Gaan Karo",
-  "firstLine": "Man Gaan Gaan Gaan Karo. Bhaav Bhakti Ko Man Men Dhaare,Govind Ke Gun Gaan Karo (Tek).",
+  "firstLine": "Man Gaan Gaan Gaan Karo.",
+  "heading": "।। राग आसा भजन ।। ७० ।। १३२।।",
+  "tek": [
+    "मन गान गान गान करो ।",
+    "भाव भक्ति को मन में धारे ,गोविन्द के गुन गान करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Gaan Gaan Gaan Karo.",
+    "Bhaav Bhakti Ko Man Men Dhaare,Govind Ke Gun Gaan Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम तजे जो विषय चितारे, मृतक सोई जान प्यारे ।",
+        "सो जीवित जो नाम उचारे, तांते तुम हरि ध्यान करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Taje Jo Vishay Chitaare, Mritak Soi Jaan Pyaare.",
+        "So Jivit Jo Naam Uchaare, Taante Tum Hari Dhyaan Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भोग आश जो मन में धारे, होय दुखी सो नर्क मंजझारे ।",
+        "तांते भोग की आश निवारे, याद सदा भगवान करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhog Aash Jo Man Men Dhaare, Hoy Dukhi So Nark Manjjhaare.",
+        "Taante Bhog Ki Aash Nivaare, Yaad Sadaa Bhagvaan Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भोग विषय में उलझ अजाना, मनुष जनम को नाहिं गंवाना ।",
+        "समय गये होगा पछताना, अब हरि सुमरन दान करो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhog Vishay Men Ulajh Ajaanaa, Manush Janam Ko Naahin Ganvaanaa.",
+        "Samay Gaye Hogaa Pachhtaanaa, Ab Hari Sumran Daan Karo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो करना इस तन में करले, कहे टेऊँ सत्‌नाम सुमरले ।",
+        "सत्‌गुरु चरने सिर को धरले, अपना तुम कल्यान करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jo Karnaa Is Tan Men Karle, Kahe Teun Sat‌Naam Sumrale.",
+        "Sat‌Guru Charne Sir Ko Dharle, Apnaa Tum Kalyaan Karo || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ठा"
+      ],
+      "romanLines": [
+        "Ththaa"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन गान गान गान करो.",
-      "भाव भक्ति को मन मेन धारेगोविनद के गुन गान करो (टेक)."
+      "नाम तजे जो विषय चितारे, मृतक सोई जान प्यारे ।",
+      "सो जीवित जो नाम उचारे, तांते तुम हरि ध्यान करो ॥१ ॥"
     ],
     [
-      "नाम तजे जो विशय चितारे, मरितक सोि जान पयारे.",
-      "सो जिवित जो नाम ुचारे, तानते तुम हरि ध्यान करो.1 ||."
+      "भोग आश जो मन में धारे, होय दुखी सो नर्क मंजझारे ।",
+      "तांते भोग की आश निवारे, याद सदा भगवान करो ॥२ ॥"
     ],
     [
-      "भोग ाश जो मन मेन धारे, होय दुखि सो नरक मनजझारे.",
-      "तानते भोग कि ाश निवारे, याद सदा भगवान करो || 2. ||."
+      "भोग विषय में उलझ अजाना, मनुष जनम को नाहिं गंवाना ।",
+      "समय गये होगा पछताना, अब हरि सुमरन दान करो ॥३ ॥"
     ],
     [
-      "भोग विशय मेन ुलझ जाना, मनुश जनम को नाहिन गनवाना.",
-      "समय गये होगा पचहताना, ब हरि सुमरन दान करो || 3. ||."
+      "जो करना इस तन में करले, कहे टेऊँ सत्‌नाम सुमरले ।",
+      "सत्‌गुरु चरने सिर को धरले, अपना तुम कल्यान करो ॥४ ॥"
     ],
     [
-      "जो करना िस तन मेन करले, कहे तेऊँ सतनाम सुमरले.",
-      "सतगुरु चरने सिर को धरले, पना तुम कलयान करो || 4. ||."
-    ],
-    [
-      "थथा"
+      "ठ्ठा"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Gaan Gaan Gaan Karo.",
-      "Bhaav Bhakti Ko Man Men Dhaare,Govind Ke Gun Gaan Karo (Tek)."
-    ],
-    [
       "Naam Taje Jo Vishay Chitaare, Mritak Soi Jaan Pyaare.",
-      "So Jivit Jo Naam Uchaare, Taante Tum Hari Dhyaan Karo.1 ||."
+      "So Jivit Jo Naam Uchaare, Taante Tum Hari Dhyaan Karo || 1 ||"
     ],
     [
       "Bhog Aash Jo Man Men Dhaare, Hoy Dukhi So Nark Manjjhaare.",
-      "Taante Bhog Ki Aash Nivaare, Yaad Sadaa Bhagvaan Karo || 2. ||."
+      "Taante Bhog Ki Aash Nivaare, Yaad Sadaa Bhagvaan Karo || 2 ||"
     ],
     [
       "Bhog Vishay Men Ulajh Ajaanaa, Manush Janam Ko Naahin Ganvaanaa.",
-      "Samay Gaye Hogaa Pachhtaanaa, Ab Hari Sumran Daan Karo || 3. ||."
+      "Samay Gaye Hogaa Pachhtaanaa, Ab Hari Sumran Daan Karo || 3 ||"
     ],
     [
       "Jo Karnaa Is Tan Men Karle, Kahe Teun Sat‌Naam Sumrale.",
-      "Sat‌Guru Charne Sir Ko Dharle, Apnaa Tum Kalyaan Karo || 4. ||."
+      "Sat‌Guru Charne Sir Ko Dharle, Apnaa Tum Kalyaan Karo || 4 ||"
     ],
     [
       "Ththaa"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 70 || 132 ||",
+    "मन गान गान गान करो",
     "Man Gaan Gaan Gaan Karo",
-    "मन गान गान गान करो"
+    "राग आसा भजन 70",
+    "Raag Aasaa Bhajan 70"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 132,
+  "displayOrder": 70,
+  "overallOrder": 132,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 92",
+  "updatedAt": "2026-10-26"
 }

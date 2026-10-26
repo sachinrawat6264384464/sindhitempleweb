@@ -1,67 +1,118 @@
 {
   "id": "bhajan-0253",
   "slug": "re-man-tan-kaa-taj-abhimaan",
-  "categoryId": "raag-bhairav",
-  "title": "रे मन तन का तज भिमान",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "रे मन तन का तज अभिमान",
   "romanTitle": "Re Man Tan Kaa Taj Abhimaan",
-  "firstLine": "Re Man Tan Kaa Taj Abhimaan. Tan Abhimaani Mahaa Ajnyaani Paavat Narak Nidaan (Tek).",
+  "firstLine": "Re Man Tan Kaa Taj Abhimaan.",
+  "heading": "।। राग भैरवी भजन ।। ३८ ।। २५३।।",
+  "tek": [
+    "रे मन तन का तज अभिमान ।",
+    "तन अभिमानी महा अज्ञानी पावत नरक निदान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Tan Kaa Taj Abhimaan.",
+    "Tan Abhimaani Mahaa Ajnyaani Paavat Narak Nidaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांच भूत का तन यह तेरे रहने का स्थान ।",
+        "अहं बुद्धि तुम इसमें धारे भूला क्यों नादान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanch Bhut Kaa Tan Yah Tere Rahne Kaa Sthaan.",
+        "Ahan Buddhi Tum Ismen Dhaare Bhulaa Kyon Naadaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "खट रस भोजन इस तन संग में दुर्गन्ध होय महान ।",
+        "देख तिसे तुम करत ग्लानी प्रत्यक्ष यह प्रमान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Khat Ras Bhojan Is Tan Sang Men Durgandh Hoy Mahaan.",
+        "Dekh Tise Tum Karat Glaani Pratyaksh Yah Pramaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हाड़ मांस और मल का धैला चाम लपेटे जान ।",
+        "सर्व द्वार से मैला निकसे किस पर करत गुमान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Haar Maans Aur Mal Kaa Dhailaa Chaam Lapete Jaan.",
+        "Sarv Dvaar Se Mailaa Nikse Kis Par Karat Gumaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो इस तन भीतर साक्षी पुरुष सुजान ।",
+        "गुरु कृपा से ताहिं पछानो लेकर आतम ज्ञान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Is Tan Bhitar Saakshi Purush Sujaan.",
+        "Guru Kripaa Se Taahin Pachhaano Lekar Aatam Gyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन तन का तज भिमान.",
-      "तन भिमानि महा जनयानि पावत नरक निदान (टेक)."
+      "पांच भूत का तन यह तेरे रहने का स्थान ।",
+      "अहं बुद्धि तुम इसमें धारे भूला क्यों नादान ॥१ ॥"
     ],
     [
-      "पानच भुत का तन यह तेरे रहने का सथान.",
-      "हन बुदधि तुम िसमेन धारे भुला कयोन नादान || 1 ||"
+      "खट रस भोजन इस तन संग में दुर्गन्ध होय महान ।",
+      "देख तिसे तुम करत ग्लानी प्रत्यक्ष यह प्रमान ॥२ ॥"
     ],
     [
-      "खत रस भोजन िस तन सनग मेन दुरगनध होय महान.",
-      "देख तिसे तुम करत गलानि परतयकश यह परमान || 2 ||."
+      "हाड़ मांस और मल का धैला चाम लपेटे जान ।",
+      "सर्व द्वार से मैला निकसे किस पर करत गुमान ॥३ ॥"
     ],
     [
-      "हार मानस ौर मल का धैला चाम लपेते जान.",
-      "सर्व दवार से मैला निकसे किस पर करत गुमान || 3. ||."
-    ],
-    [
-      "कहे तेऊँ जो िस तन भितर साक्षी पुरुश सुजान.",
-      "गुरु कृपा से ताहिन पचहानो लेकर ातम ज्ञान || 4 ||"
+      "कहे टेऊँ जो इस तन भीतर साक्षी पुरुष सुजान ।",
+      "गुरु कृपा से ताहिं पछानो लेकर आतम ज्ञान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Re Man Tan Kaa Taj Abhimaan.",
-      "Tan Abhimaani Mahaa Ajnyaani Paavat Narak Nidaan (Tek)."
-    ],
     [
       "Paanch Bhut Kaa Tan Yah Tere Rahne Kaa Sthaan.",
       "Ahan Buddhi Tum Ismen Dhaare Bhulaa Kyon Naadaan || 1 ||"
     ],
     [
       "Khat Ras Bhojan Is Tan Sang Men Durgandh Hoy Mahaan.",
-      "Dekh Tise Tum Karat Glaani Pratyaksh Yah Pramaan || 2 ||."
+      "Dekh Tise Tum Karat Glaani Pratyaksh Yah Pramaan || 2 ||"
     ],
     [
       "Haar Maans Aur Mal Kaa Dhailaa Chaam Lapete Jaan.",
-      "Sarv Dvaar Se Mailaa Nikse Kis Par Karat Gumaan || 3. ||."
+      "Sarv Dvaar Se Mailaa Nikse Kis Par Karat Gumaan || 3 ||"
     ],
     [
       "Kahe Teun Jo Is Tan Bhitar Saakshi Purush Sujaan.",
-      "Guru Kripaa Se Taahin Pachhaano Lekar Aatam Jnyaan || 4 ||"
+      "Guru Kripaa Se Taahin Pachhaano Lekar Aatam Gyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 38 || 253 ||",
+    "रे मन तन का तज अभिमान",
     "Re Man Tan Kaa Taj Abhimaan",
-    "रे मन तन का तज भिमान"
+    "राग भैरवी भजन 38",
+    "Raag Bhairvi Bhajan 38"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 253,
+  "displayOrder": 38,
+  "overallOrder": 253,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 158",
+  "updatedAt": "2026-10-26"
 }

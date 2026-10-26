@@ -1,60 +1,99 @@
 {
   "id": "bhajan-0259",
   "slug": "laal-hiraa-ratn-moti-hai-guraan-ke-paas-re",
-  "categoryId": "raag-bhairav",
-  "title": "लाल हिरा रतन मोति है गुरान के पास रे",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "लाल हीरा रत्न मोती है गुरां के पास रे",
   "romanTitle": "Laal Hiraa Ratn Moti Hai Guraan Ke Paas Re",
-  "firstLine": "Laal Hiraa Ratn Moti Hai Guraan Ke Paas Re. Jo Jijnyaasu Len Chaahe So Bane Guru Daas Re (Tek).",
+  "firstLine": "Laal Hiraa Ratn Moti Hai Guraan Ke Paas Re.",
+  "heading": "।। राग भैरवी भजन ।। ४४ ।। २५९।।",
+  "tek": [
+    "लाल हीरा रत्न मोती है गुरां के पास रे ।",
+    "जो जिज्ञासू लेन चाहे सो बने गुरु दास रे ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Laal Hiraa Ratn Moti Hai Guraan Ke Paas Re.",
+    "Jo Jijnyaasu Len Chaahe So Bane Guru Daas Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "महल माया कुटुम्ब काया की तजे जो आस रे ।",
+        "मोह ममता लोभ लालच जो करे सब नास रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mahal Maayaa Kutumb Kaayaa Ki Taje Jo Aas Re.",
+        "Moh Mamtaa Lobh Laalach Jo Kare Sab Naas Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लोक पुनि परलोक सुख से रहत जोय निरास रे ।",
+        "त्याग भोगों को रहे जो जगत माहिं उदास रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Lok Puni Parlok Sukh Se Rahat Joy Niraas Re.",
+        "Tyaag Bhogon Ko Rahe Jo Jagat Maahin Udaas Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वेद लोक व कुल लजा की काटले जो फास रे ।",
+        "कहत टेऊँ पाय सोई ज्ञान गुण की रास रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ved Lok Va Kul Lajaa Ki Kaatle Jo Phaas Re.",
+        "Kahat Teun Paay Soi Gyaan Gun Ki Raas Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लाल हिरा रतन मोति है गुरान के पास रे.",
-      "जो जिजनयासु लेन चाहे सो बने गुरु दास रे (टेक)."
+      "महल माया कुटुम्ब काया की तजे जो आस रे ।",
+      "मोह ममता लोभ लालच जो करे सब नास रे ॥१ ॥"
     ],
     [
-      "महल माया कुतुमब काया कि तजे जो ास रे.",
-      "मोह ममता लोभ लालच जो करे सब नास रे.1 ||."
+      "लोक पुनि परलोक सुख से रहत जोय निरास रे ।",
+      "त्याग भोगों को रहे जो जगत माहिं उदास रे ॥२ ॥"
     ],
     [
-      "लोक पुनि परलोक सुख से रहत जोय निरास रे.",
-      "तयाग भोगोन को रहे जो जगत माहिन ुदास रे.2 ||."
-    ],
-    [
-      "वेद लोक व कुल लजा कि कातले जो फास रे.",
-      "कहत तेऊँ पाय सोि ज्ञान गुन कि रास रे || 3. ||."
+      "वेद लोक व कुल लजा की काटले जो फास रे ।",
+      "कहत टेऊँ पाय सोई ज्ञान गुण की रास रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Laal Hiraa Ratn Moti Hai Guraan Ke Paas Re.",
-      "Jo Jijnyaasu Len Chaahe So Bane Guru Daas Re (Tek)."
-    ],
-    [
       "Mahal Maayaa Kutumb Kaayaa Ki Taje Jo Aas Re.",
-      "Moh Mamtaa Lobh Laalach Jo Kare Sab Naas Re.1 ||."
+      "Moh Mamtaa Lobh Laalach Jo Kare Sab Naas Re || 1 ||"
     ],
     [
       "Lok Puni Parlok Sukh Se Rahat Joy Niraas Re.",
-      "Tyaag Bhogon Ko Rahe Jo Jagat Maahin Udaas Re.2 ||."
+      "Tyaag Bhogon Ko Rahe Jo Jagat Maahin Udaas Re || 2 ||"
     ],
     [
-      "Ved Lok V Kul Lajaa Ki Kaatle Jo Phaas Re.",
-      "Kahat Teun Paay Soi Jnyaan Gun Ki Raas Re || 3. ||."
+      "Ved Lok Va Kul Lajaa Ki Kaatle Jo Phaas Re.",
+      "Kahat Teun Paay Soi Gyaan Gun Ki Raas Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 44 || 259 ||",
+    "लाल हीरा रत्न मोती है गुरां के पास रे",
     "Laal Hiraa Ratn Moti Hai Guraan Ke Paas Re",
-    "लाल हिरा रतन मोति है गुरान के पास रे"
+    "राग भैरवी भजन 44",
+    "Raag Bhairvi Bhajan 44"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 259,
+  "displayOrder": 44,
+  "overallOrder": 259,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 161",
+  "updatedAt": "2026-10-26"
 }

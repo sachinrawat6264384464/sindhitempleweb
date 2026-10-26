@@ -1,37 +1,86 @@
 {
-  "id": "bhajan-0481",
+  "id": "bhajan-0480",
   "slug": "jab-aay-vabaa-in-tan-laagi",
   "categoryId": "raag-kohiyaari",
-  "title": "जब ाय वबा िन तन लागि",
-  "romanTitle": "Jab Aay Vabaa In Tan Laagi",
-  "firstLine": "Jab Aay Vabaa In Tan Laagi, Tab Dekhaa Lokni Vairaagi (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "जब आय वबा इन तन लागी,",
+  "romanTitle": "Jab Aay Vabaa In Tan Laagi,",
+  "firstLine": "Jab Aay Vabaa In Tan Laagi,",
+  "heading": "।। राग कोह्लारी भजन ।। १ ।। ४ं८१॥।",
+  "tek": [
+    "जब आय वबा इन तन लागी,",
+    "तब देखा लोकनि वैरागी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jab Aay Vabaa In Tan Laagi,",
+    "Tab Dekhaa Lokni Vairaagi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सावन चींटी पंख जब आवे, अपने को तब पतंग कहावे ।",
+        "देख अग्नि को डर भागी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saavan Chinti Pankh Jab Aave, Apne Ko Tab Patang Kahaave.",
+        "Dekh Agni Ko Dar Bhaagi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानसरोवर बगुला जावे, देख हंस को ध्यान लगावे ।",
+        "मछली में मन है रागी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maansarovar Bagulaa Jaave, Dekh Hans Ko Dhyaan Lagaave.",
+        "Machhli Men Man Hai Raagi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भोग विषय में मन श्रमाये, माया मद में ज्ञान गंवाये ।",
+        "हरि को सुमरत नहिं जागी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhog Vishay Men Man Shramaaye, Maayaa Mad Men Gyaan Ganvaaye.",
+        "Hari Ko Sumrat Nahin Jaagi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मूण्ड मरन से दम दम डरते, सन्त अमर भये हरी सुमरते ।",
+        "कहे टेऊँ वे बड़भागी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Mund Maran Se Dam Dam Darte, Sant Amar Bhaye Hari Sumrate.",
+        "Kahe Teun Ve Barbhaagi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब ाय वबा िन तन लागि,",
-      "तब देखा लोकनि वैरागि (टेक)."
+      "सावन चींटी पंख जब आवे, अपने को तब पतंग कहावे ।",
+      "देख अग्नि को डर भागी ॥१ ॥"
     ],
     [
-      "सावन चिनति पनख जब ावे, पने को तब पतनग कहावे.",
-      "देख गनि को दर भागि || 1 ||"
+      "मानसरोवर बगुला जावे, देख हंस को ध्यान लगावे ।",
+      "मछली में मन है रागी ॥२ ॥"
     ],
     [
-      "मानसरोवर बगुला जावे, देख हनस को ध्यान लगावे.",
-      "मचहलि मेन मन है रागि || 2 ||"
+      "भोग विषय में मन श्रमाये, माया मद में ज्ञान गंवाये ।",
+      "हरि को सुमरत नहिं जागी ॥३ ॥"
     ],
     [
-      "भोग विशय मेन मन शरमाये, माया मद मेन ज्ञान गनवाये.",
-      "हरि को सुमरत नहिन जागि || 3 ||."
-    ],
-    [
-      "मुनद मरन से दम दम दरते, संत मर भये हरि सुमरते.",
-      "कहे तेऊँ वे बरभागि ||.4 ||"
+      "मूण्ड मरन से दम दम डरते, सन्त अमर भये हरी सुमरते ।",
+      "कहे टेऊँ वे बड़भागी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jab Aay Vabaa In Tan Laagi,",
-      "Tab Dekhaa Lokni Vairaagi (Tek)."
-    ],
     [
       "Saavan Chinti Pankh Jab Aave, Apne Ko Tab Patang Kahaave.",
       "Dekh Agni Ko Dar Bhaagi || 1 ||"
@@ -41,27 +90,29 @@
       "Machhli Men Man Hai Raagi || 2 ||"
     ],
     [
-      "Bhog Vishay Men Man Shramaaye, Maayaa Mad Men Jnyaan Ganvaaye.",
-      "Hari Ko Sumrat Nahin Jaagi || 3 ||."
+      "Bhog Vishay Men Man Shramaaye, Maayaa Mad Men Gyaan Ganvaaye.",
+      "Hari Ko Sumrat Nahin Jaagi || 3 ||"
     ],
     [
       "Mund Maran Se Dam Dam Darte, Sant Amar Bhaye Hari Sumrate.",
-      "Kahe Teun Ve Barbhaagi ||.4 ||"
+      "Kahe Teun Ve Barbhaagi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohlaari Bhajan || 1 || 4N81 ||.",
-    "Jab Aay Vabaa In Tan Laagi",
-    "जब ाय वबा िन तन लागि"
+    "जब आय वबा इन तन लागी,",
+    "Jab Aay Vabaa In Tan Laagi,",
+    "राग कोहियारी भजन 1",
+    "Raag Kohiyaari Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 481,
+  "displayOrder": 1,
+  "overallOrder": 480,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 269",
+  "updatedAt": "2026-10-26"
 }

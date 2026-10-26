@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0700",
+  "id": "bhajan-0698",
   "slug": "har-haal-men-har-kaal-men-apne-ghar-ki-surti-karo",
   "categoryId": "raag-pahaari",
-  "title": "हर हाल मेन, हर काल मेन, पने घर कि सुरति करो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "हर हाल में, हर काल में, अपने घर की सुरति करो",
   "romanTitle": "Har Haal Men, Har Kaal Men, Apne Ghar Ki Surti Karo",
   "firstLine": "Har Haal Men, Har Kaal Men, Apne Ghar Ki Surti Karo (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ५१ ।। ६९९।।",
+  "tek": [
+    "हर हाल में, हर काल में, अपने घर की सुरति करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Har Haal Men, Har Kaal Men, Apne Ghar Ki Surti Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मिथ्या पिण्ड स्थान छोड़े, ब्रह्माण्डी बड़थान छोड़े,",
+        "महा सुन्न मैदान छोड़े, सत्य लोक में पांव धरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mithyaa Pind Sthaan Chhore, Brahmaandi Barthaan Chhore,",
+        "Mahaa Sunn Maidaan Chhore, Saty Lok Men Paanv Dharo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "षष्ठ चक्कर दल सहस त्यागो, भंवर गुफा से आगे भागो,",
+        "अगम पुरुष के चरने लागो, अमृत पीके काल हरो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shashth Chakkar Dal Sahas Tyaago, Bhanvar Guphaa Se Aage Bhaago,",
+        "Agam Purush Ke Charne Laago, Amrit Pike Kaal Haro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मरमी गुरु से ले प्रकाशा, सुरति शब्द का कर अभ्यासा ।",
+        "माया से मन होय उदासा, शब्द सुमर भव सिन्धु तरो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Marmi Guru Se Le Prakaashaa, Surti Shabd Kaa Kar Abhyaasaa.",
+        "Maayaa Se Man Hoy Udaasaa, Shabd Sumar Bhav Sindhu Taro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ संयम धारे, बाहरमुखता ख्याल निवारे ।",
+        "सुरति शब्द संग ऊपर चाढ़े, चेतन घर में जाय चरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sanyam Dhaare, Baahramukhtaa Khyaal Nivaare.",
+        "Surti Shabd Sang Upar Chaarhe, Chetan Ghar Men Jaay Charo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हर हाल मेन, हर काल मेन, पने घर कि सुरति करो (टेक)."
+      "मिथ्या पिण्ड स्थान छोड़े, ब्रह्माण्डी बड़थान छोड़े,",
+      "महा सुन्न मैदान छोड़े, सत्य लोक में पांव धरो ॥१ ॥"
     ],
     [
-      "मिथया पिनद सथान चहोरे, बरहमानदि बरथान चहोरे,",
-      "महा सुनन मैदान चहोरे, सतय लोक मेन पानव धरो ||.1. ||."
+      "षष्ठ चक्कर दल सहस त्यागो, भंवर गुफा से आगे भागो,",
+      "अगम पुरुष के चरने लागो, अमृत पीके काल हरो ॥२ ॥"
     ],
     [
-      "शशथ चककर दल सहस तयागो, भनवर गुफा से ागे भागो,",
-      "गम पुरुश के चरने लागो, अमृत पिके काल हरो || 2 ||."
+      "मरमी गुरु से ले प्रकाशा, सुरति शब्द का कर अभ्यासा ।",
+      "माया से मन होय उदासा, शब्द सुमर भव सिन्धु तरो ॥३ ॥"
     ],
     [
-      "मरमि गुरु से ले परकाशा, सुरति शबद का कर भयासा.",
-      "माया से मन होय ुदासा, शबद सुमर भव सिनधु तरो || 3 ||."
-    ],
-    [
-      "कहता तेऊँ सनयम धारे, बाहरमुखता खयाल निवारे.",
-      "सुरति शबद सनग ुपर चारहे, चेतन घर मेन जाय चरो || 4 ||."
-    ],
-    [
-      "थग"
+      "कहता टेऊँ संयम धारे, बाहरमुखता ख्याल निवारे ।",
+      "सुरति शब्द संग ऊपर चाढ़े, चेतन घर में जाय चरो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Har Haal Men, Har Kaal Men, Apne Ghar Ki Surti Karo (Tek)."
-    ],
-    [
       "Mithyaa Pind Sthaan Chhore, Brahmaandi Barthaan Chhore,",
-      "Mahaa Sunn Maidaan Chhore, Saty Lok Men Paanv Dharo ||.1. ||."
+      "Mahaa Sunn Maidaan Chhore, Saty Lok Men Paanv Dharo || 1 ||"
     ],
     [
       "Shashth Chakkar Dal Sahas Tyaago, Bhanvar Guphaa Se Aage Bhaago,",
-      "Agam Purush Ke Charne Laago, Amrit Pike Kaal Haro || 2 ||."
+      "Agam Purush Ke Charne Laago, Amrit Pike Kaal Haro || 2 ||"
     ],
     [
       "Marmi Guru Se Le Prakaashaa, Surti Shabd Kaa Kar Abhyaasaa.",
-      "Maayaa Se Man Hoy Udaasaa, Shabd Sumar Bhav Sindhu Taro || 3 ||."
+      "Maayaa Se Man Hoy Udaasaa, Shabd Sumar Bhav Sindhu Taro || 3 ||"
     ],
     [
       "Kahtaa Teun Sanyam Dhaare, Baahramukhtaa Khyaal Nivaare.",
-      "Surti Shabd Sang Upar Chaarhe, Chetan Ghar Men Jaay Charo || 4 ||."
-    ],
-    [
-      "Thag"
+      "Surti Shabd Sang Upar Chaarhe, Chetan Ghar Men Jaay Charo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 51 || 699 ||",
+    "हर हाल में, हर काल में, अपने घर की सुरति करो",
     "Har Haal Men, Har Kaal Men, Apne Ghar Ki Surti Karo",
-    "हर हाल मेन, हर काल मेन, पने घर कि सुरति करो"
+    "राग पहाड़ी भजन 51",
+    "Raag Pahaari Bhajan 51"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 700,
+  "displayOrder": 51,
+  "overallOrder": 698,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 371",
+  "updatedAt": "2026-10-26"
 }

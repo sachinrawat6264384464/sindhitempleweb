@@ -1,0 +1,97 @@
+{
+  "id": "bhajan-0240",
+  "slug": "satguru-shishy-ki-parikshaa-leke-pichhe-gyaan-bataataa-hai",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सत्गुरु शिष्य की परीक्षा लेके पीछे ज्ञान बताता है",
+  "romanTitle": "Satguru Shishy Ki Parikshaa Leke Pichhe Gyaan Bataataa Hai",
+  "firstLine": "Satguru Shishy Ki Parikshaa Leke Pichhe Gyaan Bataataa Hai (Tek).",
+  "heading": "।। राग भैरवी भजन ।। २५ ।। २४०।।",
+  "tek": [
+    "सत्गुरु शिष्य की परीक्षा लेके पीछे ज्ञान बताता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satguru Shishy Ki Parikshaa Leke Pichhe Gyaan Bataataa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बालक बारह मास विद्या को भावें पढ़ कर रास करे ।",
+        "तो भी पण्डित परीक्षा लेकर ऊँचा पद दिलवाता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baalak Baarah Maas Vidyaa Ko Bhaaven Parh Kar Raas Kare.",
+        "To Bhi Pandit Parikshaa Lekar Unchaa Pad Dilvaataa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नौकर चाहे निशदिन नीके काम करे सब मालिक के ।",
+        "फिर भी स्वामी परीक्षा लेकर पूज्जीदार बनाता है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naukar Chaahe Nishdin Nike Kaam Kare Sab Maalik Ke.",
+        "Phir Bhi Svaami Parikshaa Lekar Pujjidaar Banaataa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तैसे सेवक सद्‌गुरु की नित चाहे सेवा बहुत करे ।",
+        "कहे टेऊँ तो भी गुरु परखे पूर्ण ब्रह्मा लखाता है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Taise Sevak Sad‌Guru Ki Nit Chaahe Sevaa Bahut Kare.",
+        "Kahe Teun To Bhi Guru Parkhe Purn Brahmaa Lakhaataa Hai || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "बालक बारह मास विद्या को भावें पढ़ कर रास करे ।",
+      "तो भी पण्डित परीक्षा लेकर ऊँचा पद दिलवाता है ॥१ ॥"
+    ],
+    [
+      "नौकर चाहे निशदिन नीके काम करे सब मालिक के ।",
+      "फिर भी स्वामी परीक्षा लेकर पूज्जीदार बनाता है ॥२ ॥"
+    ],
+    [
+      "तैसे सेवक सद्‌गुरु की नित चाहे सेवा बहुत करे ।",
+      "कहे टेऊँ तो भी गुरु परखे पूर्ण ब्रह्मा लखाता है ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Baalak Baarah Maas Vidyaa Ko Bhaaven Parh Kar Raas Kare.",
+      "To Bhi Pandit Parikshaa Lekar Unchaa Pad Dilvaataa Hai || 1 ||"
+    ],
+    [
+      "Naukar Chaahe Nishdin Nike Kaam Kare Sab Maalik Ke.",
+      "Phir Bhi Svaami Parikshaa Lekar Pujjidaar Banaataa Hai || 2 ||"
+    ],
+    [
+      "Taise Sevak Sad‌Guru Ki Nit Chaahe Sevaa Bahut Kare.",
+      "Kahe Teun To Bhi Guru Parkhe Purn Brahmaa Lakhaataa Hai || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "सत्गुरु शिष्य की परीक्षा लेके पीछे ज्ञान बताता है",
+    "Satguru Shishy Ki Parikshaa Leke Pichhe Gyaan Bataataa Hai",
+    "राग भैरवी भजन 25",
+    "Raag Bhairvi Bhajan 25"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
+  ],
+  "displayOrder": 25,
+  "overallOrder": 240,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 149",
+  "updatedAt": "2026-10-26"
+}

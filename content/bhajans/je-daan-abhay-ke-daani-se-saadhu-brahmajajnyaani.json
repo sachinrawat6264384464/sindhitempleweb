@@ -1,42 +1,102 @@
 {
-  "id": "bhajan-0729",
+  "id": "bhajan-0727",
   "slug": "je-daan-abhay-ke-daani-se-saadhu-brahmajajnyaani",
   "categoryId": "raag-pilaa",
-  "title": "जे दान भय के दानि, से साधु बरहमजजनयानि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "जे दान अभय के दानी, से साधू ब्रह्मजज्ञानी",
   "romanTitle": "Je Daan Abhay Ke Daani, Se Saadhu Brahmajajnyaani",
   "firstLine": "Je Daan Abhay Ke Daani, Se Saadhu Brahmajajnyaani (Tek).",
+  "heading": "।। राग पीला भजन ।। ७ ।। ७२९।।",
+  "tek": [
+    "जे दान अभय के दानी, से साधू ब्रह्मजज्ञानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Je Daan Abhay Ke Daani, Se Saadhu Brahmajajnyaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "काम क्रोध नहिं लोभ अहंता, हर्ष शोक नहिं करते ममता ।",
+        "सर्व गुणों की खानी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Nahin Lobh Ahantaa, Harsh Shok Nahin Karte Mamtaa.",
+        "Sarv Gunon Ki Khaani || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पूरन तिनकी कहनी बहनी, योग युक्ति युत राखत रहनी ।",
+        "बोलत अमृत बानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Puran Tinki Kahni Bahni, Yog Yukti Yut Raakhat Rahni.",
+        "Bolat Amrit Baani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हार जीत नहिं वैरी मीता, करत सहारो आतप सीता ।",
+        "नांगा. से. निर्बानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Haar Jit Nahin Vairi Mitaa, Karat Sahaaro Aatap Sitaa.",
+        "Naangaa. Se. Nirbaani || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जग में रहते जीवन मुक्ता, ब्रह्म नेष्ठी ब्रह्म श्रोता ।",
+        "धीरजवान ध्यानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jag Men Rahte Jivan Muktaa, Brahm Neshthi Brahm Shrotaa.",
+        "Dhirjavaan Dhyaani || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ परम उदारी, सगुण रूप हैं नित अवतारी ।",
+        "अनुभव घर के थानी ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Param Udaari, Sagun Rup Hain Nit Avtaari.",
+        "Anubhav Ghar Ke Thaani || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जे दान भय के दानि, से साधु बरहमजजनयानि (टेक)."
+      "काम क्रोध नहिं लोभ अहंता, हर्ष शोक नहिं करते ममता ।",
+      "सर्व गुणों की खानी ॥१ ॥"
     ],
     [
-      "काम करोध नहिन लोभ हनता, हरश शोक नहिन करते ममता.",
-      "सर्व गुनोन कि खानि || 1 ||."
+      "पूरन तिनकी कहनी बहनी, योग युक्ति युत राखत रहनी ।",
+      "बोलत अमृत बानी ॥२ ॥"
     ],
     [
-      "पुरन तिनकि कहनि बहनि, योग युकति युत राखत रहनि.",
-      "बोलत अमृत बानी || 2 ||"
+      "हार जीत नहिं वैरी मीता, करत सहारो आतप सीता ।",
+      "नांगा. से. निर्बानी ॥३ ॥"
     ],
     [
-      "हार जित नहिन वैरि मिता, करत सहारो ातप सिता.",
-      "नानगा. से. निरबानि || 3"
+      "जग में रहते जीवन मुक्ता, ब्रह्म नेष्ठी ब्रह्म श्रोता ।",
+      "धीरजवान ध्यानी ॥४ ॥"
     ],
     [
-      "जग मेन रहते जिवन मुकता, बरहम नेशथि बरहम शरोता.",
-      "धिरजवान धयानि || 4 ||"
-    ],
-    [
-      "कहता तेऊँ परम ुदारि, सगुन रुप हैन नित वतारि.",
-      "नुभव घर के थानि || 5 ||."
+      "कहता टेऊँ परम उदारी, सगुण रूप हैं नित अवतारी ।",
+      "अनुभव घर के थानी ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Je Daan Abhay Ke Daani, Se Saadhu Brahmajajnyaani (Tek)."
-    ],
-    [
       "Kaam Krodh Nahin Lobh Ahantaa, Harsh Shok Nahin Karte Mamtaa.",
-      "Sarv Gunon Ki Khaani || 1 ||."
+      "Sarv Gunon Ki Khaani || 1 ||"
     ],
     [
       "Puran Tinki Kahni Bahni, Yog Yukti Yut Raakhat Rahni.",
@@ -44,7 +104,7 @@
     ],
     [
       "Haar Jit Nahin Vairi Mitaa, Karat Sahaaro Aatap Sitaa.",
-      "Naangaa. Se. Nirbaani || 3"
+      "Naangaa. Se. Nirbaani || 3 ||"
     ],
     [
       "Jag Men Rahte Jivan Muktaa, Brahm Neshthi Brahm Shrotaa.",
@@ -52,22 +112,24 @@
     ],
     [
       "Kahtaa Teun Param Udaari, Sagun Rup Hain Nit Avtaari.",
-      "Anubhav Ghar Ke Thaani || 5 ||."
+      "Anubhav Ghar Ke Thaani || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 7 || 729 ||",
+    "जे दान अभय के दानी, से साधू ब्रह्मजज्ञानी",
     "Je Daan Abhay Ke Daani, Se Saadhu Brahmajajnyaani",
-    "जे दान भय के दानि, से साधु बरहमजजनयानि"
+    "राग पीला भजन 6",
+    "Raag Pilaa Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 729,
+  "displayOrder": 6,
+  "overallOrder": 727,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 387",
+  "updatedAt": "2026-10-26"
 }

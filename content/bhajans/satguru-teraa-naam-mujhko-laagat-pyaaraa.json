@@ -1,89 +1,132 @@
 {
   "id": "bhajan-0300",
   "slug": "satguru-teraa-naam-mujhko-laagat-pyaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "सतगुरु तेरा नाम, मुझको लागत पयारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सत्गुरु तेरा नाम, मुझको लागत प्यारा ॥",
   "romanTitle": "Satguru Teraa Naam, Mujhko Laagat Pyaaraa",
   "firstLine": "Satguru Teraa Naam, Mujhko Laagat Pyaaraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ८५ ।। ३००।॥",
+  "tek": [
+    "सत्गुरु तेरा नाम, मुझको लागत प्यारा ॥ ।टेक ॥"
+  ],
+  "romanTek": [
+    "Satguru Teraa Naam, Mujhko Laagat Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता धन धाम लुगाई, मित्र पुत्र परिवारा ।",
+        "इन प्यारों से अधिक प्यारा, सत्गुरु नाम तुम्हारा ।",
+        "देश विदेश में और न कोई, हित को करने हारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Dhan Dhaam Lugaai, Mitr Putr Parivaaraa.",
+        "In Pyaaron Se Adhik Pyaaraa, Satguru Naam Tumhaaraa.",
+        "Desh Videsh Men Aur Na Koi, Hit Ko Karne Haaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जबसे सत्गुरु तुम्हरे नाम का, मैंने स्मरण कीया ।",
+        "तब से मेरा शीतल हुआ, तन मन वाणी जीया ।",
+        "नाम समान न इसी जीव को, शीतल करने हारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jabse Satguru Tumhare Naam Kaa, Mainne Smaran Kiyaa.",
+        "Tab Se Meraa Shital Huaa, Tan Man Vaani Jiyaa.",
+        "Naam Samaan Na Isi Jiv Ko, Shital Karne Haaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिस घट अन्दर सत्गुरु तेरा, नाम करे प्रकाशा ।",
+        "काम क्रोध मद आदिक दुर्गुण, हो जावहिं सब नाशा ।",
+        "जन्म मरण के भारी भय को, जड़ से मेटन हारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jis Ghat Andar Satguru Teraa, Naam Kare Prakaashaa.",
+        "Kaam Krodh Mad Aadik Durgun, Ho Jaavhin Sab Naashaa.",
+        "Janm Maran Ke Bhaari Bhay Ko, Jar Se Metan Haaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सर्व देश में सर्व काल में, सब वस्तुनि को देखा ।",
+        "नाम समान न दूजा मैंने, सुखकारी को पेखा ।",
+        "कहता टेऊँ जपत रहूँ मैं, तेरा नाम उदारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sarv Desh Men Sarv Kaal Men, Sab Vastuni Ko Dekhaa.",
+        "Naam Samaan Na Dujaa Mainne, Sukhkaari Ko Pekhaa.",
+        "Kahtaa Teun Japat Rahun Main, Teraa Naam Udaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु तेरा नाम, मुझको लागत पयारा (टेक)."
+      "मात पिता धन धाम लुगाई, मित्र पुत्र परिवारा ।",
+      "इन प्यारों से अधिक प्यारा, सत्गुरु नाम तुम्हारा ।",
+      "देश विदेश में और न कोई, हित को करने हारा ॥१ ॥"
     ],
     [
-      "मात पिता धन धाम लुगाि, मितर पुतर परिवारा.",
-      "िन पयारोन से धिक पयारा, सतगुरु नाम तुमहारा."
+      "जबसे सत्गुरु तुम्हरे नाम का, मैंने स्मरण कीया ।",
+      "तब से मेरा शीतल हुआ, तन मन वाणी जीया ।",
+      "नाम समान न इसी जीव को, शीतल करने हारा ॥२ ॥"
     ],
     [
-      "देश विदेश मेन ौर न कोि, हित को करने हारा || $ ||",
-      "जबसे सतगुरु तुमहरे नाम का, मैनने समरन किया."
+      "जिस घट अन्दर सत्गुरु तेरा, नाम करे प्रकाशा ।",
+      "काम क्रोध मद आदिक दुर्गुण, हो जावहिं सब नाशा ।",
+      "जन्म मरण के भारी भय को, जड़ से मेटन हारा ॥३ ॥"
     ],
     [
-      "तब से मेरा शितल हुा, तन मन वाणी जिया.",
-      "नाम समान न िसि जिव को, शितल करने हारा || 2 ||"
-    ],
-    [
-      "न",
-      "जिस घत नदर सतगुरु तेरा, नाम करे परकाशा."
-    ],
-    [
-      "काम करोध मद ादिक दुरगुन, हो जावहिन सब नाशा.",
-      "जनम मरन के भारि भय को, जर से मेतन हारा.3 ||."
-    ],
-    [
-      "सर्व देश मेन सर्व काल मेन, सब वसतुनि को देखा.",
-      "नाम समान न दुजा मैनने, सुखकारि को पेखा."
-    ],
-    [
-      "कहता तेऊँ जपत रहुन मैं, तेरा नाम ुदारा ||.4 ||."
+      "सर्व देश में सर्व काल में, सब वस्तुनि को देखा ।",
+      "नाम समान न दूजा मैंने, सुखकारी को पेखा ।",
+      "कहता टेऊँ जपत रहूँ मैं, तेरा नाम उदारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Satguru Teraa Naam, Mujhko Laagat Pyaaraa (Tek)."
-    ],
-    [
       "Maat Pitaa Dhan Dhaam Lugaai, Mitr Putr Parivaaraa.",
-      "In Pyaaron Se Adhik Pyaaraa, Satguru Naam Tumhaaraa."
+      "In Pyaaron Se Adhik Pyaaraa, Satguru Naam Tumhaaraa.",
+      "Desh Videsh Men Aur Na Koi, Hit Ko Karne Haaraa || 1 ||"
     ],
     [
-      "Desh Videsh Men Aur N Koi, Hit Ko Karne Haaraa || $ ||",
-      "Jabse Satguru Tumhare Naam Kaa, Mainne Smaran Kiyaa."
-    ],
-    [
+      "Jabse Satguru Tumhare Naam Kaa, Mainne Smaran Kiyaa.",
       "Tab Se Meraa Shital Huaa, Tan Man Vaani Jiyaa.",
-      "Naam Samaan N Isi Jiv Ko, Shital Karne Haaraa || 2 ||"
+      "Naam Samaan Na Isi Jiv Ko, Shital Karne Haaraa || 2 ||"
     ],
     [
-      "N",
-      "Jis Ghat Andar Satguru Teraa, Naam Kare Prakaashaa."
-    ],
-    [
+      "Jis Ghat Andar Satguru Teraa, Naam Kare Prakaashaa.",
       "Kaam Krodh Mad Aadik Durgun, Ho Jaavhin Sab Naashaa.",
-      "Janm Maran Ke Bhaari Bhay Ko, Jar Se Metan Haaraa.3 ||."
+      "Janm Maran Ke Bhaari Bhay Ko, Jar Se Metan Haaraa || 3 ||"
     ],
     [
       "Sarv Desh Men Sarv Kaal Men, Sab Vastuni Ko Dekhaa.",
-      "Naam Samaan N Dujaa Mainne, Sukhkaari Ko Pekhaa."
-    ],
-    [
-      "Kahtaa Teun Japat Rahun Main, Teraa Naam Udaaraa ||.4 ||."
+      "Naam Samaan Na Dujaa Mainne, Sukhkaari Ko Pekhaa.",
+      "Kahtaa Teun Japat Rahun Main, Teraa Naam Udaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 85 || 300. ||",
+    "सत्गुरु तेरा नाम, मुझको लागत प्यारा ॥",
     "Satguru Teraa Naam, Mujhko Laagat Pyaaraa",
-    "सतगुरु तेरा नाम, मुझको लागत पयारा"
+    "राग भैरवी भजन 85",
+    "Raag Bhairvi Bhajan 85"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 300,
+  "displayOrder": 85,
+  "overallOrder": 300,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 180",
+  "updatedAt": "2026-10-26"
 }

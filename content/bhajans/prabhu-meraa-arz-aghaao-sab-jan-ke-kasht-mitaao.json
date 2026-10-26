@@ -2,40 +2,98 @@
   "id": "bhajan-0403",
   "slug": "prabhu-meraa-arz-aghaao-sab-jan-ke-kasht-mitaao",
   "categoryId": "raag-tilang",
-  "title": "प्रभु मेरा रz घाो, सब जन के कशत मिताो",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "प्रभू मेरा अर्ज़ अघाओ, सब जन के कष्ट मिटाओ",
   "romanTitle": "Prabhu Meraa Arz Aghaao, Sab Jan Ke Kasht Mitaao",
   "firstLine": "Prabhu Meraa Arz Aghaao, Sab Jan Ke Kasht Mitaao (Tek).",
+  "heading": "।। राग तिलंग भजन ॥। ४० ।। ४०४",
+  "tek": [
+    "प्रभू मेरा अर्ज़ अघाओ, सब जन के कष्ट मिटाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Meraa Arz Aghaao, Sab Jan Ke Kasht Mitaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दुख सागर में जीव अपारे, डूब रहे ना लगे किनारे ।",
+        "ऊँचे स्वर से तोहि पुकारे, अब तिनको आन तराओ ॥8 ॥"
+      ],
+      "romanLines": [
+        "Dukh Saagar Men Jiv Apaare, Dub Rahe Naa Lage Kinaare.",
+        "Unche Svar Se Tohi Pukaare, Ab Tinko Aan Taraao || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शोक अग्नि से जीव बिचारे, रैन दिवस ही जलते सारे ।",
+        "रोदन कर सब तोहि पुकारे, अब तिनकी तप्त बुझाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shok Agni Se Jiv Bichaare, Rain Divas Hi Jalte Saare.",
+        "Rodan Kar Sab Tohi Pukaare, Ab Tinki Tapt Bujhaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इस जग रूपी झंगल मंजझारे, भूल पड़े हैं जीव गँवारे ।",
+        "राह न सूझत जिनहिं मुरारे, अब तिनको राह लगाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Is Jag Rupi Jhangal Manjjhaare, Bhul Pare Hain Jiv Ganvaare.",
+        "Raah Na Sujhat Jinhin Muraare, Ab Tinko Raah Lagaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुन सत्‌ कर्तारि, थर थर कम्पत जीव तुम्हारे ।",
+        "तुम बिन कोई ना रखवारे, अब आकर उन्हें बचाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sun Sat‌ Kartaari, Thar Thar Kampat Jiv Tumhaare.",
+        "Tum Bin Koi Naa Rakhvaare, Ab Aakar Unhen Bachaao || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द््ग"
+      ],
+      "romanLines": [
+        "Dg"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु मेरा रz घाो, सब जन के कशत मिताो (टेक)."
+      "दुख सागर में जीव अपारे, डूब रहे ना लगे किनारे ।",
+      "ऊँचे स्वर से तोहि पुकारे, अब तिनको आन तराओ ॥8 ॥"
     ],
     [
-      "दुःख सागर मेन जिव पारे, दुब रहे ना लगे किनारे.",
-      "ुनचे सवर से तोहि पुकारे, ब तिनको ान तराो || 8. ||."
+      "शोक अग्नि से जीव बिचारे, रैन दिवस ही जलते सारे ।",
+      "रोदन कर सब तोहि पुकारे, अब तिनकी तप्त बुझाओ ॥२ ॥"
     ],
     [
-      "शोक गनि से जिव बिचारे, रैन दिवस हि जलते सारे.",
-      "रोदन कर सब तोहि पुकारे, ब तिनकि तपत बुझाो || 2 ||"
+      "इस जग रूपी झंगल मंजझारे, भूल पड़े हैं जीव गँवारे ।",
+      "राह न सूझत जिनहिं मुरारे, अब तिनको राह लगाओ ॥३ ॥"
     ],
     [
-      "िस जग रुपि झनगल मनजझारे, भुल परे हैन जिव गनवारे.",
-      "राह न सुझत जिनहिन मुरारे, ब तिनको राह लगाो || 3 ||."
+      "कहे टेऊँ सुन सत्‌ कर्तारि, थर थर कम्पत जीव तुम्हारे ।",
+      "तुम बिन कोई ना रखवारे, अब आकर उन्हें बचाओ ॥४ ॥"
     ],
     [
-      "कहे तेऊँ सुन सत‌ करतारि, थर थर कमपत जिव तुमहारे.",
-      "तुम बिन कोि ना रखवारे, ब ाकर ुनहेन बचाो || 4. ||."
-    ],
-    [
-      "दग"
+      "द््ग"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Meraa Arz Aghaao, Sab Jan Ke Kasht Mitaao (Tek)."
-    ],
-    [
       "Dukh Saagar Men Jiv Apaare, Dub Rahe Naa Lage Kinaare.",
-      "Unche Svar Se Tohi Pukaare, Ab Tinko Aan Taraao || 8. ||."
+      "Unche Svar Se Tohi Pukaare, Ab Tinko Aan Taraao || 8 ||"
     ],
     [
       "Shok Agni Se Jiv Bichaare, Rain Divas Hi Jalte Saare.",
@@ -43,30 +101,31 @@
     ],
     [
       "Is Jag Rupi Jhangal Manjjhaare, Bhul Pare Hain Jiv Ganvaare.",
-      "Raah N Sujhat Jinhin Muraare, Ab Tinko Raah Lagaao || 3 ||."
+      "Raah Na Sujhat Jinhin Muraare, Ab Tinko Raah Lagaao || 3 ||"
     ],
     [
       "Kahe Teun Sun Sat‌ Kartaari, Thar Thar Kampat Jiv Tumhaare.",
-      "Tum Bin Koi Naa Rakhvaare, Ab Aakar Unhen Bachaao || 4. ||."
+      "Tum Bin Koi Naa Rakhvaare, Ab Aakar Unhen Bachaao || 4 ||"
     ],
     [
       "Dg"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan ||. 40 || 404",
+    "प्रभू मेरा अर्ज़ अघाओ, सब जन के कष्ट मिटाओ",
     "Prabhu Meraa Arz Aghaao, Sab Jan Ke Kasht Mitaao",
-    "प्रभु मेरा रz घाो, सब जन के कशत मिताो"
+    "राग तिलंग भजन 40",
+    "Raag Tilang Bhajan 40"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 403,
+  "displayOrder": 40,
+  "overallOrder": 403,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 235",
+  "updatedAt": "2026-10-26"
 }

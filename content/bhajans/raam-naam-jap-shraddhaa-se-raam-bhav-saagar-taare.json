@@ -1,106 +1,150 @@
 {
-  "id": "bhajan-0691",
+  "id": "bhajan-0689",
   "slug": "raam-naam-jap-shraddhaa-se-raam-bhav-saagar-taare",
   "categoryId": "raag-pahaari",
-  "title": "राम नाम जप शरदधा से, राम भव सागर तारे",
-  "romanTitle": "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare",
-  "firstLine": "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare, Kate Dukh Bhaari (Tek).",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "राम नाम जप श्रद्धा से, राम भव सागर तारे,",
+  "romanTitle": "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare,",
+  "firstLine": "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare,",
+  "heading": "।। राग पहाड़ी भजन ॥। ४२ ।। ६९०॥।",
+  "tek": [
+    "राम नाम जप श्रद्धा से, राम भव सागर तारे,",
+    "कटे दुख भारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare,",
+    "Kate Dukh Bhaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम के नौका माहीं चढ़ले तूं,",
+        "भव सागर से सहजे पार उतरले तूं,",
+        "मोक्ष धाम को तुम पाओ, दूख नहीं है जामें,",
+        "सदा सुखकारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ke Naukaa Maahin Charhle Tu,",
+        "Bhav Saagar Se Sahje Paar Utrale Tu,",
+        "Moksh Dhaam Ko Tum Paao, Dukh Nahin Hai Jaamen,",
+        "Sadaa Sukhkaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम का अमृत अहनिश पीजिये,",
+        "जीवन मुक्‍्ती होकर जग में जीजिये ।",
+        "जन्म मरन का दूख हरो, फेर न आवो कबहूं,",
+        "गर्भ मंजझारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Amrit Ahnish Pijiye,",
+        "Jivan Muk‍Ti Hokar Jag Men Jijiye.",
+        "Janm Maran Kaa Dukh Haro, Pher Na Aavo Kabhun,",
+        "Garbh Manjjhaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम बिन और न मुख से बोलिये,",
+        "राम नाम को हृदय अन्दर तोलिये ।",
+        "राम नाम में चित लाए, दर्शन करले हरि का,",
+        "जो हितकारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Bin Aur Na Mukh Se Boliye,",
+        "Raam Naam Ko Hriday Andar Toliye.",
+        "Raam Naam Men Chit Laae, Darshan Karle Hari Kaa,",
+        "Jo Hitkaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ. जग. भीतर साधन जेते हैं,",
+        "राम नाम के सुमरन सम नहिं तेते हैं ।",
+        "तांते सब तज राम भजो, जांके सुमरन से आयू,",
+        "सफली हो सारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun. Jag. Bhitar Saadhan Jete Hain,",
+        "Raam Naam Ke Sumran Sam Nahin Tete Hain.",
+        "Taante Sab Taj Raam Bhajo, Jaanke Sumran Se Aayu,",
+        "Saphli Ho Saari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम नाम जप शरदधा से, राम भव सागर तारे,",
-      "कते दुःख भारि (टेक)."
+      "राम नाम के नौका माहीं चढ़ले तूं,",
+      "भव सागर से सहजे पार उतरले तूं,",
+      "मोक्ष धाम को तुम पाओ, दूख नहीं है जामें,",
+      "सदा सुखकारी ॥१ ॥"
     ],
     [
-      "राम नाम के नौका माहिन चरहले तु,",
-      "भव सागर से सहजे पार ुतरले तु,"
+      "राम नाम का अमृत अहनिश पीजिये,",
+      "जीवन मुक्‍्ती होकर जग में जीजिये ।",
+      "जन्म मरन का दूख हरो, फेर न आवो कबहूं,",
+      "गर्भ मंजझारी ॥२ ॥"
     ],
     [
-      "मोक्ष धाम को तुम पाो, दुःख नहिन है जामेन,",
-      "सदा सुखकारि ||.1 ||."
+      "राम नाम बिन और न मुख से बोलिये,",
+      "राम नाम को हृदय अन्दर तोलिये ।",
+      "राम नाम में चित लाए, दर्शन करले हरि का,",
+      "जो हितकारी ॥३ ॥"
     ],
     [
-      "राम नाम का अमृत हनिश पिजिये,",
-      "जिवन मुक्ति होकर जग मेन जिजिये."
-    ],
-    [
-      "जनम मरन का दुःख हरो, फेर न ावो कभुन,",
-      "गरभ मनजझारि || 2 ||."
-    ],
-    [
-      "द",
-      "राम नाम बिन ौर न मुख से बोलिये,"
-    ],
-    [
-      "राम नाम को हरिदय नदर तोलिये.",
-      "राम नाम मेन चित लाे, दरशन करले हरि का,"
-    ],
-    [
-      "जो हितकारि. ||.3 ||.",
-      "कहे तेऊँ. जग. भितर साधन जेते हैन,"
-    ],
-    [
-      "राम नाम के सुमरन सम नहिन तेते हैन.",
-      "तानते सब तज राम भजो, जानके सुमरन से ायु,"
-    ],
-    [
-      "सफलि हो सारि || 4 ||."
+      "कहे टेऊँ. जग. भीतर साधन जेते हैं,",
+      "राम नाम के सुमरन सम नहिं तेते हैं ।",
+      "तांते सब तज राम भजो, जांके सुमरन से आयू,",
+      "सफली हो सारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare,",
-      "Kate Dukh Bhaari (Tek)."
-    ],
-    [
       "Raam Naam Ke Naukaa Maahin Charhle Tu,",
-      "Bhav Saagar Se Sahje Paar Utrale Tu,"
-    ],
-    [
+      "Bhav Saagar Se Sahje Paar Utrale Tu,",
       "Moksh Dhaam Ko Tum Paao, Dukh Nahin Hai Jaamen,",
-      "Sadaa Sukhkaari ||.1 ||."
+      "Sadaa Sukhkaari || 1 ||"
     ],
     [
       "Raam Naam Kaa Amrit Ahnish Pijiye,",
-      "Jivan Muk‍Ti Hokar Jag Men Jijiye."
+      "Jivan Muk‍Ti Hokar Jag Men Jijiye.",
+      "Janm Maran Kaa Dukh Haro, Pher Na Aavo Kabhun,",
+      "Garbh Manjjhaari || 2 ||"
     ],
     [
-      "Janm Maran Kaa Dukh Haro, Pher N Aavo Kabhun,",
-      "Garbh Manjjhaari || 2 ||."
-    ],
-    [
-      "D",
-      "Raam Naam Bin Aur N Mukh Se Boliye,"
-    ],
-    [
+      "Raam Naam Bin Aur Na Mukh Se Boliye,",
       "Raam Naam Ko Hriday Andar Toliye.",
-      "Raam Naam Men Chit Laae, Darshan Karle Hari Kaa,"
+      "Raam Naam Men Chit Laae, Darshan Karle Hari Kaa,",
+      "Jo Hitkaari || 3 ||"
     ],
     [
-      "Jo Hitkaari. ||.3 ||.",
-      "Kahe Teun. Jag. Bhitar Saadhan Jete Hain,"
-    ],
-    [
+      "Kahe Teun. Jag. Bhitar Saadhan Jete Hain,",
       "Raam Naam Ke Sumran Sam Nahin Tete Hain.",
-      "Taante Sab Taj Raam Bhajo, Jaanke Sumran Se Aayu,"
-    ],
-    [
-      "Saphli Ho Saari || 4 ||."
+      "Taante Sab Taj Raam Bhajo, Jaanke Sumran Se Aayu,",
+      "Saphli Ho Saari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan ||. 42 || 690 ||.",
-    "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare",
-    "राम नाम जप शरदधा से, राम भव सागर तारे"
+    "राम नाम जप श्रद्धा से, राम भव सागर तारे,",
+    "Raam Naam Jap Shraddhaa Se, Raam Bhav Saagar Taare,",
+    "राग पहाड़ी भजन 42",
+    "Raag Pahaari Bhajan 42"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 691,
+  "displayOrder": 42,
+  "overallOrder": 689,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 366",
+  "updatedAt": "2026-10-26"
 }

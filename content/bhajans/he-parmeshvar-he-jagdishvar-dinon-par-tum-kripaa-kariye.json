@@ -2,45 +2,94 @@
   "id": "bhajan-0337",
   "slug": "he-parmeshvar-he-jagdishvar-dinon-par-tum-kripaa-kariye",
   "categoryId": "raag-zilaa",
-  "title": "हे परमेशवर, हे जगदिशवर, दिनोन पर तुम कृपा करिये",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "हे परमेश्वर, हे जगदीश्वर, दीनों पर तुम कृपा करिये",
   "romanTitle": "He Parmeshvar, He Jagdishvar, Dinon Par Tum Kripaa Kariye",
   "firstLine": "He Parmeshvar, He Jagdishvar, Dinon Par Tum Kripaa Kariye (Tek).",
+  "heading": "।। राग ज़िला भजन ॥। २४ ।। ३३७॥।",
+  "tek": [
+    "हे परमेश्वर, हे जगदीश्वर, दीनों पर तुम कृपा करिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "He Parmeshvar, He Jagdishvar, Dinon Par Tum Kripaa Kariye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम हो दीन दयालू स्वामी, सडूटहारी पूर्णकामी ।",
+        "दीनों केरे दोष न हेरे, दया करे तिनके दुख हरिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Din Dayaalu Svaami, Saduthaari Purnakaami.",
+        "Dinon Kere Dosh Na Here, Dayaa Kare Tinke Dukh Hariye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अन्न बिन भूखे जल बिन प्यासी , वस्त्र बिन जे जीव उदासी ।",
+        "रोय पुकारें तोहि निहारें, तिनके तुम भण्डारे भरिये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ann Bin Bhukhe Jal Bin Pyaasi, Vastr Bin Je Jiv Udaasi.",
+        "Roy Pukaaren Tohi Nihaaren, Tinke Tum Bhandaare Bhariye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "छोड़ आपको कहें ये जावें, तुम बिन दूजा नज़र न आवे ।",
+        "विनय सुनीजे जीवन दीजे, तिन पर अपनी दृष्टी धरिये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chhor Aapko Kahen Ye Jaaven, Tum Bin Dujaa Nazar Na Aave.",
+        "Vinay Sunije Jivan Dije, Tin Par Apni Drishti Dhariye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सर्व जीवों को सुमती दीजे, कहे टेऊँ कुमती हर लीजे ।",
+        "तुझे ध्यावहिं नाहिं भुलावहिं, दीन बन्धु तुम सब पर ढरिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sarv Jivon Ko Sumti Dije, Kahe Teun Kumti Har Lije.",
+        "Tujhe Dhyaavhin Naahin Bhulaavhin, Din Bandhu Tum Sab Par Dhariye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे परमेशवर, हे जगदिशवर, दिनोन पर तुम कृपा करिये (टेक)."
+      "तुम हो दीन दयालू स्वामी, सडूटहारी पूर्णकामी ।",
+      "दीनों केरे दोष न हेरे, दया करे तिनके दुख हरिये ॥१ ॥"
     ],
     [
-      "तुम हो दीन दयालु स्वामी, सदुथारि पुरनकामि.",
-      "दिनोन केरे दोश न हेरे, दया करे तिनके दुःख हरिये || 1 ||."
+      "अन्न बिन भूखे जल बिन प्यासी , वस्त्र बिन जे जीव उदासी ।",
+      "रोय पुकारें तोहि निहारें, तिनके तुम भण्डारे भरिये ॥२ ॥"
     ],
     [
-      "नन बिन भुखे जल बिन पयासि, वसतर बिन जे जिव ुदासि.",
-      "रोय पुकारेन तोहि निहारेन, तिनके तुम भनदारे भरिये || 2 ||"
+      "छोड़ आपको कहें ये जावें, तुम बिन दूजा नज़र न आवे ।",
+      "विनय सुनीजे जीवन दीजे, तिन पर अपनी दृष्टी धरिये ॥३ ॥"
     ],
     [
-      "चहोर ापको कहेन ये जावेन, तुम बिन दुजा नzर न ावे.",
-      "विनय सुनिजे जिवन दिजे, तिन पर पनि दरिशति धरिये || 3 ||."
-    ],
-    [
-      "सर्व जिवोन को सुमति दिजे, कहे तेऊँ कुमति हर लिजे.",
-      "तुझे धयावहिन नाहिन भुलावहिन, दीन बनधु तुम सब पर धरिये || 4 ||"
+      "सर्व जीवों को सुमती दीजे, कहे टेऊँ कुमती हर लीजे ।",
+      "तुझे ध्यावहिं नाहिं भुलावहिं, दीन बन्धु तुम सब पर ढरिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "He Parmeshvar, He Jagdishvar, Dinon Par Tum Kripaa Kariye (Tek)."
-    ],
-    [
       "Tum Ho Din Dayaalu Svaami, Saduthaari Purnakaami.",
-      "Dinon Kere Dosh N Here, Dayaa Kare Tinke Dukh Hariye || 1 ||."
+      "Dinon Kere Dosh Na Here, Dayaa Kare Tinke Dukh Hariye || 1 ||"
     ],
     [
       "Ann Bin Bhukhe Jal Bin Pyaasi, Vastr Bin Je Jiv Udaasi.",
       "Roy Pukaaren Tohi Nihaaren, Tinke Tum Bhandaare Bhariye || 2 ||"
     ],
     [
-      "Chhor Aapko Kahen Ye Jaaven, Tum Bin Dujaa Nazar N Aave.",
-      "Vinay Sunije Jivan Dije, Tin Par Apni Drishti Dhariye || 3 ||."
+      "Chhor Aapko Kahen Ye Jaaven, Tum Bin Dujaa Nazar Na Aave.",
+      "Vinay Sunije Jivan Dije, Tin Par Apni Drishti Dhariye || 3 ||"
     ],
     [
       "Sarv Jivon Ko Sumti Dije, Kahe Teun Kumti Har Lije.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan ||. 24 || 337 ||.",
+    "हे परमेश्वर, हे जगदीश्वर, दीनों पर तुम कृपा करिये",
     "He Parmeshvar, He Jagdishvar, Dinon Par Tum Kripaa Kariye",
-    "हे परमेशवर, हे जगदिशवर, दिनोन पर तुम कृपा करिये"
+    "राग ज़िला भजन 24",
+    "Raag Zilaa Bhajan 24"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 337,
+  "displayOrder": 24,
+  "overallOrder": 337,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 201",
+  "updatedAt": "2026-10-26"
 }

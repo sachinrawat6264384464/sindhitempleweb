@@ -2,64 +2,115 @@
   "id": "bhajan-0434",
   "slug": "so-yogi-parvaan-yogin-vaali-rahni-jiski",
   "categoryId": "raag-tilang",
-  "title": "सो योगि परवान, योगिन वालि रहनि जिसकि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सो योगी परवान, योगिन वाली रहनी जिसकी",
   "romanTitle": "So Yogi Parvaan, Yogin Vaali Rahni Jiski",
   "firstLine": "So Yogi Parvaan, Yogin Vaali Rahni Jiski (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ७१ ।। ४३५।।",
+  "tek": [
+    "सो योगी परवान, योगिन वाली रहनी जिसकी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "So Yogi Parvaan, Yogin Vaali Rahni Jiski (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सम्बन्ध त्याग मय कान कटावे, मर्म शर्म की मुद्रा पावे ।",
+        "क्षमा खफनी जान, इन्द्र सहारन सहनी जिसकी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sambandh Tyaag May Kaan Kataave, Marm Sharm Ki Mudraa Paave.",
+        "Kshamaa Khaphni Jaan, Indr Sahaaran Sahni Jiski || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "करुणा मुदिता जटा बढ़ावे, संयम डण्डा हाथ उठावे ।",
+        "प्रेम पन्‍्थ पहिचान, आत्मनिष्ठा बहनी जिसकी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Karunaa Muditaa Jataa Barhaave, Sanyam Dandaa Haath Uthaave.",
+        "Prem Pan‍Tha Pahichaan, Aatmanishthaa Bahni Jiski || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सोडहँं का नित शंख सुनावे, अनाहत धुन का नाद बजावे ।",
+        "भोजन ब्रह्म ज्ञान, मैं हूँ चेतन कहनी जिसकी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sodhann Kaa Nit Shankh Sunaave, Anaahat Dhun Kaa Naad Bajaave.",
+        "Bhojan Brahm Gyaan, Main Hun Chetan Kahni Jiski || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तन मिथ्या की खाक रमावे, झोली श्रद्धा अटल बनावे ।",
+        "दसमें लाय ध्यान, कहे टेऊँ गुण गहनी जिसकी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tan Mithyaa Ki Khaak Ramaave, Jholi Shraddhaa Atal Banaave.",
+        "Dasmen Laay Dhyaan, Kahe Teun Gun Gahni Jiski || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सो योगि परवान, योगिन वालि रहनि जिसकि (टेक)."
+      "सम्बन्ध त्याग मय कान कटावे, मर्म शर्म की मुद्रा पावे ।",
+      "क्षमा खफनी जान, इन्द्र सहारन सहनी जिसकी ॥१ ॥"
     ],
     [
-      "समबनध तयाग मय कान कतावे, मरम शरम कि मुदरा पावे.",
-      "कशमा खफनि जान, िनदर सहारन सहनि जिसकि ||.1 ||"
+      "करुणा मुदिता जटा बढ़ावे, संयम डण्डा हाथ उठावे ।",
+      "प्रेम पन्‍्थ पहिचान, आत्मनिष्ठा बहनी जिसकी ॥२ ॥"
     ],
     [
-      "करुना मुदिता जता बरहावे, सनयम दनदा हाथ ुथावे.",
-      "प्रेम पनथ पहिचान, ातमनिशथा बहनि जिसकि || || 2 ||."
+      "सोडहँं का नित शंख सुनावे, अनाहत धुन का नाद बजावे ।",
+      "भोजन ब्रह्म ज्ञान, मैं हूँ चेतन कहनी जिसकी ॥३ ॥"
     ],
     [
-      "सोधनन का नित शनख सुनावे, नाहत धुन का नाद बजावे.",
-      "भोजन बरहम ज्ञान, मैं हुन चेतन कहनि जिसकि || 3 ||"
-    ],
-    [
-      "तन मिथया कि खाक रमावे, झोलि शरदधा तल बनावे.",
-      "दसमेन लाय ध्यान, कहे तेऊँ गुन गहनि जिसकि ||.4 ||"
+      "तन मिथ्या की खाक रमावे, झोली श्रद्धा अटल बनावे ।",
+      "दसमें लाय ध्यान, कहे टेऊँ गुण गहनी जिसकी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "So Yogi Parvaan, Yogin Vaali Rahni Jiski (Tek)."
-    ],
-    [
       "Sambandh Tyaag May Kaan Kataave, Marm Sharm Ki Mudraa Paave.",
-      "Kshamaa Khaphni Jaan, Indr Sahaaran Sahni Jiski ||.1 ||"
+      "Kshamaa Khaphni Jaan, Indr Sahaaran Sahni Jiski || 1 ||"
     ],
     [
       "Karunaa Muditaa Jataa Barhaave, Sanyam Dandaa Haath Uthaave.",
-      "Prem Pan‍Th Pahichaan, Aatmanishthaa Bahni Jiski || || 2 ||."
+      "Prem Pan‍Tha Pahichaan, Aatmanishthaa Bahni Jiski || 2 ||"
     ],
     [
       "Sodhann Kaa Nit Shankh Sunaave, Anaahat Dhun Kaa Naad Bajaave.",
-      "Bhojan Brahm Jnyaan, Main Hun Chetan Kahni Jiski || 3 ||"
+      "Bhojan Brahm Gyaan, Main Hun Chetan Kahni Jiski || 3 ||"
     ],
     [
       "Tan Mithyaa Ki Khaak Ramaave, Jholi Shraddhaa Atal Banaave.",
-      "Dasmen Laay Dhyaan, Kahe Teun Gun Gahni Jiski ||.4 ||"
+      "Dasmen Laay Dhyaan, Kahe Teun Gun Gahni Jiski || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 71 || 435 ||",
+    "सो योगी परवान, योगिन वाली रहनी जिसकी",
     "So Yogi Parvaan, Yogin Vaali Rahni Jiski",
-    "सो योगि परवान, योगिन वालि रहनि जिसकि"
+    "राग तिलंग भजन 71",
+    "Raag Tilang Bhajan 71"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 434,
+  "displayOrder": 71,
+  "overallOrder": 434,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 247",
+  "updatedAt": "2026-10-26"
 }

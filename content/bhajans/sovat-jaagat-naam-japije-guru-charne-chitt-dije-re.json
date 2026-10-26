@@ -2,53 +2,113 @@
   "id": "bhajan-0015",
   "slug": "sovat-jaagat-naam-japije-guru-charne-chitt-dije-re",
   "categoryId": "raag-raamkali",
-  "title": "सोवत जागत नाम जपिजे, गुरु चरने चितत दिजे रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "सोवत जागत नाम जपीजे, गुरु चरने चित्त दीजे रे",
   "romanTitle": "Sovat Jaagat Naam Japije, Guru Charne Chitt Dije Re",
   "firstLine": "Sovat Jaagat Naam Japije, Guru Charne Chitt Dije Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। ३ ।। १५।।",
+  "tek": [
+    "सोवत जागत नाम जपीजे, गुरु चरने चित्त दीजे रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sovat Jaagat Naam Japije, Guru Charne Chitt Dije Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पहला साधन कर गुरु मूरत का अन्त:करण मलीजे रे ।",
+        "विषयां त्याग होय वैरागी पावन पाठ पढ़ीजे रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pahlaa Saadhan Kar Guru Murat Kaa Antahkaran Malije Re.",
+        "Vishyaan Tyaag Hoy Vairaagi Paavan Paath Parhije Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दूजा साधन कर गुरु के वचने ज्ञान गगन में कीजे रे ।",
+        "सत्‌ असत्‌ का कर वीचारा सार उसी से लीजे रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dujaa Saadhan Kar Guru Ke Vachne Gyaan Gagan Men Kije Re.",
+        "Sat‌ Asat‌ Kaa Kar Vichaaraa Saar Usi Se Lije Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तीजा साधन कर गुरु दीपक का तामें ध्यान धरीजे रे ।",
+        "शम दम श्रद्धा समाधान से इन्द्रियां दमन करीजे रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tijaa Saadhan Kar Guru Dipak Kaa Taamen Dhyaan Dharije Re.",
+        "Sham Dam Shraddhaa Samaadhaan Se Indriyaan Daman Karije Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "चौथा साधन कर गुरु कुदरत का किसको नाहिं कहीजे रे ।",
+        "ब्रह्म प्रापति बन्ध हानि कर ऐसा मोक्ष गहीजे रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Chauthaa Saadhan Kar Guru Kudrat Kaa Kisko Naahin Kahije Re.",
+        "Brahm Praapti Bandh Haani Kar Aisaa Moksh Gahije Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ तीन लोक में निर्भय होय रहीजे रे ।",
+        "अकड़ कला में अमृत बरसे अमर प्याला पीजे रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tin Lok Men Nirbhay Hoy Rahije Re.",
+        "Akar Kalaa Men Amrit Barse Amar Pyaalaa Pije Re || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सोवत जागत नाम जपिजे, गुरु चरने चितत दिजे रे (टेक)."
+      "पहला साधन कर गुरु मूरत का अन्त:करण मलीजे रे ।",
+      "विषयां त्याग होय वैरागी पावन पाठ पढ़ीजे रे ॥१ ॥"
     ],
     [
-      "पहला साधन कर गुरु मुरत का नतकरन मलिजे रे.",
-      "विशयान तयाग होय वैरागि पावन पाथ परहिजे रे || $ ||"
+      "दूजा साधन कर गुरु के वचने ज्ञान गगन में कीजे रे ।",
+      "सत्‌ असत्‌ का कर वीचारा सार उसी से लीजे रे ॥२ ॥"
     ],
     [
-      "दुजा साधन कर गुरु के वचने ज्ञान गगन मेन किजे रे.",
-      "सत‌ सत‌ का कर विचारा सार ुसि से लिजे रे || 2 ||"
+      "तीजा साधन कर गुरु दीपक का तामें ध्यान धरीजे रे ।",
+      "शम दम श्रद्धा समाधान से इन्द्रियां दमन करीजे रे ॥३ ॥"
     ],
     [
-      "तिजा साधन कर गुरु दिपक का तामेन ध्यान धरिजे रे.",
-      "शम दम शरदधा समाधान से िनदरियान दमन करिजे रे ||.3 ||"
+      "चौथा साधन कर गुरु कुदरत का किसको नाहिं कहीजे रे ।",
+      "ब्रह्म प्रापति बन्ध हानि कर ऐसा मोक्ष गहीजे रे ॥४ ॥"
     ],
     [
-      "चौथा साधन कर गुरु कुदरत का किसको नाहिन कहिजे रे.",
-      "बरहम परापति बनध हानि कर ैसा मोक्ष गहिजे रे. ||.4 ||"
-    ],
-    [
-      "कहता तेऊँ तिन लोक मेन निरभय होय रहिजे रे.",
-      "कर कला मेन अमृत बरसे मर पयाला पिजे रे || 5 ||"
+      "कहता टेऊँ तीन लोक में निर्भय होय रहीजे रे ।",
+      "अकड़ कला में अमृत बरसे अमर प्याला पीजे रे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sovat Jaagat Naam Japije, Guru Charne Chitt Dije Re (Tek)."
+      "Pahlaa Saadhan Kar Guru Murat Kaa Antahkaran Malije Re.",
+      "Vishyaan Tyaag Hoy Vairaagi Paavan Paath Parhije Re || 1 ||"
     ],
     [
-      "Pahlaa Saadhan Kar Guru Murat Kaa Ant:Karan Malije Re.",
-      "Vishyaan Tyaag Hoy Vairaagi Paavan Paath Parhije Re || $ ||"
-    ],
-    [
-      "Dujaa Saadhan Kar Guru Ke Vachne Jnyaan Gagan Men Kije Re.",
+      "Dujaa Saadhan Kar Guru Ke Vachne Gyaan Gagan Men Kije Re.",
       "Sat‌ Asat‌ Kaa Kar Vichaaraa Saar Usi Se Lije Re || 2 ||"
     ],
     [
       "Tijaa Saadhan Kar Guru Dipak Kaa Taamen Dhyaan Dharije Re.",
-      "Sham Dam Shraddhaa Samaadhaan Se Indriyaan Daman Karije Re ||.3 ||"
+      "Sham Dam Shraddhaa Samaadhaan Se Indriyaan Daman Karije Re || 3 ||"
     ],
     [
       "Chauthaa Saadhan Kar Guru Kudrat Kaa Kisko Naahin Kahije Re.",
-      "Brahm Praapti Bandh Haani Kar Aisaa Moksh Gahije Re. ||.4 ||"
+      "Brahm Praapti Bandh Haani Kar Aisaa Moksh Gahije Re || 4 ||"
     ],
     [
       "Kahtaa Teun Tin Lok Men Nirbhay Hoy Rahije Re.",
@@ -56,20 +116,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 3 || 15 ||",
+    "सोवत जागत नाम जपीजे, गुरु चरने चित्त दीजे रे",
     "Sovat Jaagat Naam Japije, Guru Charne Chitt Dije Re",
-    "सोवत जागत नाम जपिजे, गुरु चरने चितत दिजे रे"
+    "राग रामकली भजन 3",
+    "Raag Raamkali Bhajan 3"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "raamkali",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
+    "bhajan"
   ],
-  "displayOrder": 15,
+  "displayOrder": 3,
+  "overallOrder": 15,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 33",
+  "updatedAt": "2026-10-26"
 }

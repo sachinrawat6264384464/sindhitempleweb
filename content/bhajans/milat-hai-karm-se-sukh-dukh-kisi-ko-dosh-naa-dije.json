@@ -1,41 +1,87 @@
 {
-  "id": "bhajan-0567",
+  "id": "bhajan-0565",
   "slug": "milat-hai-karm-se-sukh-dukh-kisi-ko-dosh-naa-dije",
   "categoryId": "raag-khambhaat",
-  "title": "मिलत है करम से सुख दुःख, किसि को दोश ना दिजे",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "मिलत है कर्म से सुख दुख, किसी को दोष ना दीजे",
   "romanTitle": "Milat Hai Karm Se Sukh Dukh, Kisi Ko Dosh Naa Dije",
   "firstLine": "Milat Hai Karm Se Sukh Dukh, Kisi Ko Dosh Naa Dije (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १७ ।। ५६६।॥।",
+  "tek": [
+    "मिलत है कर्म से सुख दुख, किसी को दोष ना दीजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Milat Hai Karm Se Sukh Dukh, Kisi Ko Dosh Naa Dije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जगत में और ना कोई, सज्जन दुश्मन तुम्हारा है ।",
+        "कर्म ही है सज्जन दुश्मन, किसी को दोष ना दीजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jagat Men Aur Naa Koi, Sajjan Dushman Tumhaaraa Hai.",
+        "Karm Hi Hai Sajjan Dushman, Kisi Ko Dosh Naa Dije || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "किया जो कर्म तुम जग में, हरी साक्षी उसी का है ।",
+        "कर्म का फल वही देता, किसी को दोष ना दीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kiyaa Jo Karm Tum Jag Men, Hari Saakshi Usi Kaa Hai.",
+        "Karm Kaa Phal Vahi Detaa, Kisi Ko Dosh Naa Dije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "करत है मनुष जो चोरी, तिसे सरकार दण्ड देवे ।",
+        "करे सन्मान साधू का, किसी को दोष ना दीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Karat Hai Manush Jo Chori, Tise Sarkaar Dand Deve.",
+        "Kare Sanmaan Saadhu Kaa, Kisi Ko Dosh Naa Dije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मित्र मेरे, करो निश्चय यही मन में ।",
+        "भला हो वा बुरा तुम हो, किसी को दोष ना दीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mitr Mere, Karo Nishchay Yahi Man Men.",
+        "Bhalaa Ho Vaa Buraa Tum Ho, Kisi Ko Dosh Naa Dije || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मिलत है करम से सुख दुःख, किसि को दोश ना दिजे (टेक)."
+      "जगत में और ना कोई, सज्जन दुश्मन तुम्हारा है ।",
+      "कर्म ही है सज्जन दुश्मन, किसी को दोष ना दीजे ॥१ ॥"
     ],
     [
-      "जगत मेन ौर ना कोि, सजजन दुशमन तुमहारा है.",
-      "करम हि है सजजन दुशमन, किसि को दोश ना दिजे.1 ||"
+      "किया जो कर्म तुम जग में, हरी साक्षी उसी का है ।",
+      "कर्म का फल वही देता, किसी को दोष ना दीजे ॥२ ॥"
     ],
     [
-      "किया जो करम तुम जग मेन, हरि साक्षी ुसि का है.",
-      "करम का फल वहि देता, किसि को दोश ना दिजे || 2 ||"
+      "करत है मनुष जो चोरी, तिसे सरकार दण्ड देवे ।",
+      "करे सन्मान साधू का, किसी को दोष ना दीजे ॥३ ॥"
     ],
     [
-      "करत है मनुश जो चोरि, तिसे सरकार दनद देवे.",
-      "करे सनमान साधु का, किसि को दोश ना दिजे ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ मितर मेरे, करो निशचय यहि मन मेन.",
-      "भला हो वा बुरा तुम हो, किसि को दोश ना दिजे || 4 ||"
-    ],
-    [
-      "तय"
+      "कहे टेऊँ मित्र मेरे, करो निश्चय यही मन में ।",
+      "भला हो वा बुरा तुम हो, किसी को दोष ना दीजे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Milat Hai Karm Se Sukh Dukh, Kisi Ko Dosh Naa Dije (Tek)."
-    ],
-    [
       "Jagat Men Aur Naa Koi, Sajjan Dushman Tumhaaraa Hai.",
-      "Karm Hi Hai Sajjan Dushman, Kisi Ko Dosh Naa Dije.1 ||"
+      "Karm Hi Hai Sajjan Dushman, Kisi Ko Dosh Naa Dije || 1 ||"
     ],
     [
       "Kiyaa Jo Karm Tum Jag Men, Hari Saakshi Usi Kaa Hai.",
@@ -43,29 +89,28 @@
     ],
     [
       "Karat Hai Manush Jo Chori, Tise Sarkaar Dand Deve.",
-      "Kare Sanmaan Saadhu Kaa, Kisi Ko Dosh Naa Dije ||.3 ||"
+      "Kare Sanmaan Saadhu Kaa, Kisi Ko Dosh Naa Dije || 3 ||"
     ],
     [
       "Kahe Teun Mitr Mere, Karo Nishchay Yahi Man Men.",
       "Bhalaa Ho Vaa Buraa Tum Ho, Kisi Ko Dosh Naa Dije || 4 ||"
-    ],
-    [
-      "Tay"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 17 || 566. ||.",
+    "मिलत है कर्म से सुख दुख, किसी को दोष ना दीजे",
     "Milat Hai Karm Se Sukh Dukh, Kisi Ko Dosh Naa Dije",
-    "मिलत है करम से सुख दुःख, किसि को दोश ना दिजे"
+    "राग खंभात भजन 17",
+    "Raag Khambhaat Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 567,
+  "displayOrder": 17,
+  "overallOrder": 565,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 308",
+  "updatedAt": "2026-10-26"
 }

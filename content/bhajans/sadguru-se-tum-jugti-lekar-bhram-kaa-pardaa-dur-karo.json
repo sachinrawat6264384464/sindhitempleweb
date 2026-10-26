@@ -1,58 +1,100 @@
 {
-  "id": "bhajan-0853",
+  "id": "bhajan-0851",
   "slug": "sadguru-se-tum-jugti-lekar-bhram-kaa-pardaa-dur-karo",
   "categoryId": "raag-jog",
-  "title": "सद्गुरु से तुम जुगति लेकर, भरम का परदा दुर करो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सद्‌गुरु से तुम जुगती लेकर , भ्रम का पड़दा दूर करो",
   "romanTitle": "Sad‌Guru Se Tum Jugti Lekar, Bhram Kaa Pardaa Dur Karo",
   "firstLine": "Sad‌Guru Se Tum Jugti Lekar, Bhram Kaa Pardaa Dur Karo (Tek).",
+  "heading": "।। राग जोग भजन ।। २३ ।। ८५३।।",
+  "tek": [
+    "सद्‌गुरु से तुम जुगती लेकर , भ्रम का पड़दा दूर करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Se Tum Jugti Lekar, Bhram Kaa Pardaa Dur Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु की तुम सेवा करके, अपने मन की मैल हरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ki Tum Sevaa Karke, Apne Man Ki Mail Haro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु का नाम उच्चारो अन्तर, गुरु मूरत का ध्यान धरो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Naam Uchchaaro Antar, Guru Murat Kaa Dhyaan Dharo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु से ब्रह्म ज्ञान को पाये, जग में जीवन मुक्ति चरो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Se Brahm Gyaan Ko Paaye, Jag Men Jivan Mukti Charo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु पूर्ण के संग, भव सागर से पार तरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Purn Ke Sang, Bhav Saagar Se Paar Taro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु से तुम जुगति लेकर, भरम का परदा दुर करो (टेक)."
+      "सद्‌गुरु की तुम सेवा करके, अपने मन की मैल हरो ॥१ ॥"
     ],
     [
-      "सद्गुरु कि तुम सेवा करके, पने मन कि मैल हरो || 1 ||."
+      "गुरु का नाम उच्चारो अन्तर, गुरु मूरत का ध्यान धरो ॥२ ॥"
     ],
     [
-      "गुरु का नाम ुचचारो नतर, गुरु मुरत का ध्यान धरो || 2 ||."
+      "गुरु से ब्रह्म ज्ञान को पाये, जग में जीवन मुक्ति चरो ॥३ ॥"
     ],
     [
-      "गुरु से बरहम ज्ञान को पाये, जग मेन जिवन मुक्ति चरो || 3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु पुरन के सनग, भव सागर से पार तरो || 4 ||."
+      "कहे टेऊँ गुरु पूर्ण के संग, भव सागर से पार तरो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Se Tum Jugti Lekar, Bhram Kaa Pardaa Dur Karo (Tek)."
+      "Sad‌Guru Ki Tum Sevaa Karke, Apne Man Ki Mail Haro || 1 ||"
     ],
     [
-      "Sad‌Guru Ki Tum Sevaa Karke, Apne Man Ki Mail Haro || 1 ||."
+      "Guru Kaa Naam Uchchaaro Antar, Guru Murat Kaa Dhyaan Dharo || 2 ||"
     ],
     [
-      "Guru Kaa Naam Uchchaaro Antar, Guru Murat Kaa Dhyaan Dharo || 2 ||."
+      "Guru Se Brahm Gyaan Ko Paaye, Jag Men Jivan Mukti Charo || 3 ||"
     ],
     [
-      "Guru Se Brahm Jnyaan Ko Paaye, Jag Men Jivan Mukti Charo || 3 ||."
-    ],
-    [
-      "Kahe Teun Guru Purn Ke Sang, Bhav Saagar Se Paar Taro || 4 ||."
+      "Kahe Teun Guru Purn Ke Sang, Bhav Saagar Se Paar Taro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 23 || 853 ||",
+    "सद्‌गुरु से तुम जुगती लेकर , भ्रम का पड़दा दूर करो",
     "Sad‌Guru Se Tum Jugti Lekar, Bhram Kaa Pardaa Dur Karo",
-    "सद्गुरु से तुम जुगति लेकर, भरम का परदा दुर करो"
+    "राग जोग भजन 23",
+    "Raag Jog Bhajan 23"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 853,
+  "displayOrder": 23,
+  "overallOrder": 851,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 451",
+  "updatedAt": "2026-10-26"
 }

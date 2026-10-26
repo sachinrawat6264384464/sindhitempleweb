@@ -1,85 +1,121 @@
 {
   "id": "bhajan-0357",
   "slug": "man-prem-hari-se-kije-re-ras-amrit-pije-re",
-  "categoryId": "raag-aasaa",
-  "title": "मन प्रेम हरि से किजे रे, रस अमृत पिजे रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "मन प्रेम हरी से कीजे रे, रस अमृत पीजे रे",
   "romanTitle": "Man Prem Hari Se Kije Re, Ras Amrit Pije Re",
   "firstLine": "Man Prem Hari Se Kije Re, Ras Amrit Pije Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १४ ।। ३५७।।",
+  "tek": [
+    "मन प्रेम हरी से कीजे रे, रस अमृत पीजे रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Prem Hari Se Kije Re, Ras Amrit Pije Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "माया के रस भोगत भोगत, कोटि जन्म तव बीते ।",
+        "कबदह्दूं तृप्ति भयी ना तुझको, अजहूं रह गये रीते ।",
+        "अब हरि सुमरन कर लीजे रे ॥१ ॥",
+        "विषय वासना सर्व त्यागे, प्रेम प्रभू से लाओ ।",
+        "साध संगति में जाकर मुख से, गोविन्द के गुन गाओ ।",
+        "नित भाव भक्ति में भीजे रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Ke Ras Bhogat Bhogat, Koti Janm Tav Bite.",
+        "Kabdahdun Tripti Bhayi Naa Tujhko, Ajhun Rah Gaye Rite.",
+        "Ab Hari Sumran Kar Lije Re || 1 ||",
+        "Vishay Vaasnaa Sarv Tyaage, Prem Prabhu Se Laao.",
+        "Saadh Sangti Men Jaakar Mukh Se, Govind Ke Gun Gaao.",
+        "Nit Bhaav Bhakti Men Bhije Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन है झूठा धन है झूठा, झूठा है परिवारा ।",
+        "सर्व जगत के नाते झूठे, साचा राम प्यारा ।",
+        "तिह॑ं राम नाम चित्त दीजे रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Hai Jhuthaa Dhan Hai Jhuthaa, Jhuthaa Hai Parivaaraa.",
+        "Sarv Jagat Ke Naate Jhuthe, Saachaa Raam Pyaaraa.",
+        "Tihn Raam Naam Chitt Dije Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ राम भजन बिन, वृथा जीवन सारा ।",
+        "दृष्टि बिना ज्यों नेत्र दोनों, बिल्कुल हैं बेकारा ।",
+        "हरि भजन बिना जम खीजे रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Raam Bhajan Bin, Vrithaa Jivan Saaraa.",
+        "Drishti Binaa Jyon Netr Donon, Bilkul Hain Bekaaraa.",
+        "Hari Bhajan Binaa Jam Khije Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन प्रेम हरि से किजे रे, रस अमृत पिजे रे (टेक)."
+      "माया के रस भोगत भोगत, कोटि जन्म तव बीते ।",
+      "कबदह्दूं तृप्ति भयी ना तुझको, अजहूं रह गये रीते ।",
+      "अब हरि सुमरन कर लीजे रे ॥१ ॥",
+      "विषय वासना सर्व त्यागे, प्रेम प्रभू से लाओ ।",
+      "साध संगति में जाकर मुख से, गोविन्द के गुन गाओ ।",
+      "नित भाव भक्ति में भीजे रे ॥२ ॥"
     ],
     [
-      "माया के रस भोगत भोगत, कोति जनम तव बिते.",
-      "कबदहदुन तरिपति भयि ना तुझको, झुन रह गये रिते."
+      "तन है झूठा धन है झूठा, झूठा है परिवारा ।",
+      "सर्व जगत के नाते झूठे, साचा राम प्यारा ।",
+      "तिह॑ं राम नाम चित्त दीजे रे ॥३ ॥"
     ],
     [
-      "ब हरि सुमरन कर लिजे रे.₹ ||",
-      "विशय वासना सर्व तयागे, प्रेम प्रभु से लाो."
-    ],
-    [
-      "साध सनगति मेन जाकर मुख से, गोविंद के गुन गाो.",
-      "नित भाव भक्ति मेन भिजे रे || 2 ||."
-    ],
-    [
-      "तन है झुथा धन है झुथा, झुथा है परिवारा.",
-      "सर्व जगत के नाते झुथे, साचा राम पयारा."
-    ],
-    [
-      "तिहन राम नाम चितत दिजे रे || 3 ||"
-    ],
-    [
-      "कहता तेऊँ राम भजन बिन, वरिथा जिवन सारा.",
-      "दरिशति बिना जयोन नेतर दोनोन, बिलकुल हैन बेकारा."
-    ],
-    [
-      "हरि भजन बिना जम खिजे रे || 4 ||"
+      "कहता टेऊँ राम भजन बिन, वृथा जीवन सारा ।",
+      "दृष्टि बिना ज्यों नेत्र दोनों, बिल्कुल हैं बेकारा ।",
+      "हरि भजन बिना जम खीजे रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Prem Hari Se Kije Re, Ras Amrit Pije Re (Tek)."
-    ],
-    [
       "Maayaa Ke Ras Bhogat Bhogat, Koti Janm Tav Bite.",
-      "Kabdahdun Tripti Bhayi Naa Tujhko, Ajhun Rah Gaye Rite."
-    ],
-    [
-      "Ab Hari Sumran Kar Lije Re.₹ ||",
-      "Vishay Vaasnaa Sarv Tyaage, Prem Prabhu Se Laao."
-    ],
-    [
+      "Kabdahdun Tripti Bhayi Naa Tujhko, Ajhun Rah Gaye Rite.",
+      "Ab Hari Sumran Kar Lije Re || 1 ||",
+      "Vishay Vaasnaa Sarv Tyaage, Prem Prabhu Se Laao.",
       "Saadh Sangti Men Jaakar Mukh Se, Govind Ke Gun Gaao.",
-      "Nit Bhaav Bhakti Men Bhije Re || 2 ||."
+      "Nit Bhaav Bhakti Men Bhije Re || 2 ||"
     ],
     [
       "Tan Hai Jhuthaa Dhan Hai Jhuthaa, Jhuthaa Hai Parivaaraa.",
-      "Sarv Jagat Ke Naate Jhuthe, Saachaa Raam Pyaaraa."
-    ],
-    [
+      "Sarv Jagat Ke Naate Jhuthe, Saachaa Raam Pyaaraa.",
       "Tihn Raam Naam Chitt Dije Re || 3 ||"
     ],
     [
       "Kahtaa Teun Raam Bhajan Bin, Vrithaa Jivan Saaraa.",
-      "Drishti Binaa Jyon Netr Donon, Bilkul Hain Bekaaraa."
-    ],
-    [
+      "Drishti Binaa Jyon Netr Donon, Bilkul Hain Bekaaraa.",
       "Hari Bhajan Binaa Jam Khije Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 14 || 357 ||",
+    "मन प्रेम हरी से कीजे रे, रस अमृत पीजे रे",
     "Man Prem Hari Se Kije Re, Ras Amrit Pije Re",
-    "मन प्रेम हरि से किजे रे, रस अमृत पिजे रे"
+    "राग बसंत भजन 14",
+    "Raag Basant Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 357,
+  "displayOrder": 14,
+  "overallOrder": 357,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 211",
+  "updatedAt": "2026-10-26"
 }

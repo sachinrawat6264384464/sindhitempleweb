@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0747",
+  "id": "bhajan-0745",
   "slug": "is-jagtar-men-tum-jaano-guzraan-do-din-kaa",
   "categoryId": "raag-pilaa",
-  "title": "िस जगतर मेन तुम जानो, गुzरान दो दीन का",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "इस जगतर में तुम जानो, गुज़रान दो दिन का",
   "romanTitle": "Is Jagtar Men Tum Jaano, Guzraan Do Din Kaa",
   "firstLine": "Is Jagtar Men Tum Jaano, Guzraan Do Din Kaa (Tek).",
+  "heading": "।। राग पीला भजन ।। २५ ।। ७४७।।",
+  "tek": [
+    "इस जगतर में तुम जानो, गुज़रान दो दिन का ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Is Jagtar Men Tum Jaano, Guzraan Do Din Kaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम देख कुटुम्ब को मोह्या, यह जन्म अमोलक खोया ।",
+        "कछु तोहि विचार न होया, है कोई ना किन का ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Dekh Kutumb Ko Mohyaa, Yah Janm Amolak Khoyaa.",
+        "Kachhu Tohi Vichaar Na Hoyaa, Hai Koi Naa Kin Kaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुझ लागी नींद प्यारी, ना ग़ाफ़िल करी तयारी ।",
+        "अति दूर भयानक भारी, मग आगे है रिन का ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tujh Laagi Nind Pyaari, Naa Ghaafil Kari Tayaari.",
+        "Ati Dur Bhayaanak Bhaari, Mag Aage Hai Rin Kaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नित वेद करत वख्याना, नहिं सुनते हो नादाना ।",
+        "क्यों विषयों में लपटाना, जो सुख है पल छिन का ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nit Ved Karat Vakhyaanaa, Nahin Sunte Ho Naadaanaa.",
+        "Kyon Vishyon Men Laptaanaa, Jo Sukh Hai Pal Chhin Kaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ नर सुन लीजे, अब भोगों को तज दीजे ।",
+        "मिल गुरु से हरि रस पीजे, जग जानो ये तिनका ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nar Sun Lije, Ab Bhogon Ko Taj Dije.",
+        "Mil Guru Se Hari Ras Pije, Jag Jaano Ye Tinkaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "दत्त"
+      ],
+      "romanLines": [
+        "Datt"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िस जगतर मेन तुम जानो, गुzरान दो दीन का (टेक)."
+      "तुम देख कुटुम्ब को मोह्या, यह जन्म अमोलक खोया ।",
+      "कछु तोहि विचार न होया, है कोई ना किन का ॥१ ॥"
     ],
     [
-      "तुम देख कुतुमब को मोहया, यह जनम मोलक खोया.",
-      "कचहु तोहि विचार न होया, है कोि ना किन का ||.8 ||."
+      "तुझ लागी नींद प्यारी, ना ग़ाफ़िल करी तयारी ।",
+      "अति दूर भयानक भारी, मग आगे है रिन का ॥२ ॥"
     ],
     [
-      "तुझ लागि निनद पयारि, ना घाfिल करि तयारि.",
-      "ति दुर भयानक भारि, मग ागे है रिन का || 2 ||."
+      "नित वेद करत वख्याना, नहिं सुनते हो नादाना ।",
+      "क्यों विषयों में लपटाना, जो सुख है पल छिन का ॥३ ॥"
     ],
     [
-      "नित वेद करत वखयाना, नहिन सुनते हो नादाना.",
-      "कयोन विशयोन मेन लपताना, जो सुख है पल चहिन का ||.3 ||."
+      "कहे टेऊँ नर सुन लीजे, अब भोगों को तज दीजे ।",
+      "मिल गुरु से हरि रस पीजे, जग जानो ये तिनका ॥४ ॥"
     ],
     [
-      "कहे तेऊँ नर सुन लिजे, ब भोगोन को तज दिजे.",
-      "मिल गुरु से हरि रस पिजे, जग जानो ये तिनका ||.4 ||"
-    ],
-    [
-      "दतत"
+      "दत्त"
     ]
   ],
   "romanLyrics": [
     [
-      "Is Jagtar Men Tum Jaano, Guzraan Do Din Kaa (Tek)."
-    ],
-    [
       "Tum Dekh Kutumb Ko Mohyaa, Yah Janm Amolak Khoyaa.",
-      "Kachhu Tohi Vichaar N Hoyaa, Hai Koi Naa Kin Kaa ||.8 ||."
+      "Kachhu Tohi Vichaar Na Hoyaa, Hai Koi Naa Kin Kaa || 1 ||"
     ],
     [
       "Tujh Laagi Nind Pyaari, Naa Ghaafil Kari Tayaari.",
-      "Ati Dur Bhayaanak Bhaari, Mag Aage Hai Rin Kaa || 2 ||."
+      "Ati Dur Bhayaanak Bhaari, Mag Aage Hai Rin Kaa || 2 ||"
     ],
     [
       "Nit Ved Karat Vakhyaanaa, Nahin Sunte Ho Naadaanaa.",
-      "Kyon Vishyon Men Laptaanaa, Jo Sukh Hai Pal Chhin Kaa ||.3 ||."
+      "Kyon Vishyon Men Laptaanaa, Jo Sukh Hai Pal Chhin Kaa || 3 ||"
     ],
     [
       "Kahe Teun Nar Sun Lije, Ab Bhogon Ko Taj Dije.",
-      "Mil Guru Se Hari Ras Pije, Jag Jaano Ye Tinkaa ||.4 ||"
+      "Mil Guru Se Hari Ras Pije, Jag Jaano Ye Tinkaa || 4 ||"
     ],
     [
       "Datt"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 25 || 747 ||",
+    "इस जगतर में तुम जानो, गुज़रान दो दिन का",
     "Is Jagtar Men Tum Jaano, Guzraan Do Din Kaa",
-    "िस जगतर मेन तुम जानो, गुzरान दो दीन का"
+    "राग पीला भजन 24",
+    "Raag Pilaa Bhajan 24"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 747,
+  "displayOrder": 24,
+  "overallOrder": 745,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 395",
+  "updatedAt": "2026-10-26"
 }

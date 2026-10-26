@@ -1,0 +1,133 @@
+{
+  "id": "bhajan-0650",
+  "slug": "daataa-guru-ji-aj-avinaashi-tum-ho-gyaan-gunon-ki-raashi",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "दाता गुरु जी अज अविनाशी, तुम हो ज्ञान गुणों की राशी",
+  "romanTitle": "Daataa Guru Ji Aj Avinaashi, Tum Ho Gyaan Gunon Ki Raashi",
+  "firstLine": "Daataa Guru Ji Aj Avinaashi, Tum Ho Gyaan Gunon Ki Raashi.",
+  "heading": "।। राग पहाड़ी भजन ।। ३ ।। ६५१।।",
+  "tek": [
+    "दाता गुरु जी अज अविनाशी, तुम हो ज्ञान गुणों की राशी ।",
+    "दे गुण अवगुण टारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Daataa Guru Ji Aj Avinaashi, Tum Ho Gyaan Gunon Ki Raashi.",
+    "De Gun Avgun Taaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं हूं पतित क्रोधी कामी, तुम गुरु पूरण पावन स्वामी ।",
+        "पाप मेरे परिहारो ॥8 ॥"
+      ],
+      "romanLines": [
+        "Main Hun Patit Krodhi Kaami, Tum Guru Puran Paavan Svaami.",
+        "Paap Mere Parihaaro || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "डूबत हूं मैं भवसिन्धु माहीं, तुम गुरु केवट पकड़े बाहीं ।",
+        "भवसागर से तारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dubat Hun Main Bhavsindhu Maahin, Tum Guru Kevat Pakre Baahin.",
+        "Bhavsaagar Se Taaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं भोगों कर हूं अति रोगी, तुमहो रोग रहित गुरु जोगी ।",
+        "सगले दूख निवारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Bhogon Kar Hun Ati Rogi, Tumho Rog Rahit Guru Jogi.",
+        "Sagle Dukh Nivaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं जीव अज्ञानी, तुम हो सद्‌गुरु ब्रह्म ज्ञानी ।",
+        "दे ब्रह्म बोध उद्धारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Jiv Ajnyaani, Tum Ho Sad‌Guru Brahm Jnyaani.",
+        "De Brahm Bodh Uddhaaro || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मैं हूं पतित क्रोधी कामी, तुम गुरु पूरण पावन स्वामी ।",
+      "पाप मेरे परिहारो ॥8 ॥"
+    ],
+    [
+      "डूबत हूं मैं भवसिन्धु माहीं, तुम गुरु केवट पकड़े बाहीं ।",
+      "भवसागर से तारो ॥२ ॥"
+    ],
+    [
+      "मैं भोगों कर हूं अति रोगी, तुमहो रोग रहित गुरु जोगी ।",
+      "सगले दूख निवारो ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ मैं जीव अज्ञानी, तुम हो सद्‌गुरु ब्रह्म ज्ञानी ।",
+      "दे ब्रह्म बोध उद्धारो ॥४ ॥"
+    ],
+    [
+      "द्द्"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Main Hun Patit Krodhi Kaami, Tum Guru Puran Paavan Svaami.",
+      "Paap Mere Parihaaro || 8 ||"
+    ],
+    [
+      "Dubat Hun Main Bhavsindhu Maahin, Tum Guru Kevat Pakre Baahin.",
+      "Bhavsaagar Se Taaro || 2 ||"
+    ],
+    [
+      "Main Bhogon Kar Hun Ati Rogi, Tumho Rog Rahit Guru Jogi.",
+      "Sagle Dukh Nivaaro || 3 ||"
+    ],
+    [
+      "Kahe Teun Main Jiv Ajnyaani, Tum Ho Sad‌Guru Brahm Jnyaani.",
+      "De Brahm Bodh Uddhaaro || 4 ||"
+    ],
+    [
+      "Dd"
+    ]
+  ],
+  "alternateSpellings": [
+    "दाता गुरु जी अज अविनाशी, तुम हो ज्ञान गुणों की राशी",
+    "Daataa Guru Ji Aj Avinaashi, Tum Ho Gyaan Gunon Ki Raashi",
+    "राग पहाड़ी भजन 3",
+    "Raag Pahaari Bhajan 3"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 3,
+  "overallOrder": 650,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 347",
+  "updatedAt": "2026-10-26"
+}

@@ -2,24 +2,77 @@
   "id": "bhajan-0413",
   "slug": "des-chhor-pardesh-men-aaye-saachaa-vanij-vihaanaa-re",
   "categoryId": "raag-tilang",
-  "title": "देस चहोर परदेश मेन ाये, साचा वनिज विहाना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "देस छोड़ परदेश में आये, साचा वणिज विहाना रे",
   "romanTitle": "Des Chhor Pardesh Men Aaye, Saachaa Vanij Vihaanaa Re",
   "firstLine": "Des Chhor Pardesh Men Aaye, Saachaa Vanij Vihaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५० ॥। ४१४।॥।",
+  "tek": [
+    "देस छोड़ परदेश में आये, साचा वणिज विहाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Des Chhor Pardesh Men Aaye, Saachaa Vanij Vihaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ऊठ मुसाफिर जागो जल्दी, नींद न कर नादाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Uth Musaaphir Jaago Jaldi, Nind Na Kar Naadaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इस जग की बाज़ार मंजझारे, सत्संग खुला दुकाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Is Jag Ki Baazaar Manjjhaare, Satsang Khulaa Dukaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त जनां की सेवा करके, हरि का दर्शन पाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Janaan Ki Sevaa Karke, Hari Kaa Darshan Paanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्‌गुरु प्रसादे, पावो पद निर्बाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sat‌Guru Prasaade, Paavo Pad Nirbaanaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गाल"
+      ],
+      "romanLines": [
+        "Gaal"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "देस चहोर परदेश मेन ाये, साचा वनिज विहाना रे (टेक)."
+      "ऊठ मुसाफिर जागो जल्दी, नींद न कर नादाना रे ॥१ ॥"
     ],
     [
-      "ुथ मुसाफिर जागो जलदि, निनद न कर नादाना रे || 1 ||."
+      "इस जग की बाज़ार मंजझारे, सत्संग खुला दुकाना रे ॥२ ॥"
     ],
     [
-      "िस जग कि बाzार मनजझारे, सत्संग खुला दुकाना रे || 2 ||."
+      "सन्त जनां की सेवा करके, हरि का दर्शन पाना रे ॥३ ॥"
     ],
     [
-      "संत जनान कि सेवा करके, हरि का दरशन पाना रे. || 3. ||."
-    ],
-    [
-      "कहे तेऊँ सतगुरु परसादे, पावो पद निरबाना रे || 4. ||."
+      "कहे टेऊँ सत्‌गुरु प्रसादे, पावो पद निर्बाना रे ॥४ ॥"
     ],
     [
       "गाल"
@@ -27,37 +80,36 @@
   ],
   "romanLyrics": [
     [
-      "Des Chhor Pardesh Men Aaye, Saachaa Vanij Vihaanaa Re (Tek)."
+      "Uth Musaaphir Jaago Jaldi, Nind Na Kar Naadaanaa Re || 1 ||"
     ],
     [
-      "Uth Musaaphir Jaago Jaldi, Nind N Kar Naadaanaa Re || 1 ||."
+      "Is Jag Ki Baazaar Manjjhaare, Satsang Khulaa Dukaanaa Re || 2 ||"
     ],
     [
-      "Is Jag Ki Baazaar Manjjhaare, Satsang Khulaa Dukaanaa Re || 2 ||."
+      "Sant Janaan Ki Sevaa Karke, Hari Kaa Darshan Paanaa Re || 3 ||"
     ],
     [
-      "Sant Janaan Ki Sevaa Karke, Hari Kaa Darshan Paanaa Re. || 3. ||."
-    ],
-    [
-      "Kahe Teun Sat‌Guru Prasaade, Paavo Pad Nirbaanaa Re || 4. ||."
+      "Kahe Teun Sat‌Guru Prasaade, Paavo Pad Nirbaanaa Re || 4 ||"
     ],
     [
       "Gaal"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 50 ||. 414. ||.",
+    "देस छोड़ परदेश में आये, साचा वणिज विहाना रे",
     "Des Chhor Pardesh Men Aaye, Saachaa Vanij Vihaanaa Re",
-    "देस चहोर परदेश मेन ाये, साचा वनिज विहाना रे"
+    "राग तिलंग भजन 50",
+    "Raag Tilang Bhajan 50"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 413,
+  "displayOrder": 50,
+  "overallOrder": 413,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 239",
+  "updatedAt": "2026-10-26"
 }

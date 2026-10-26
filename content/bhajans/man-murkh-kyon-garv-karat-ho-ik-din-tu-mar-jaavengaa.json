@@ -1,49 +1,107 @@
 {
-  "id": "bhajan-0845",
+  "id": "bhajan-0843",
   "slug": "man-murkh-kyon-garv-karat-ho-ik-din-tu-mar-jaavengaa",
   "categoryId": "raag-jog",
-  "title": "मन मुरख कयोन गरव करत हो, िक दीन तु मर जावेनगा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मन मूर्ख क्यों गर्व करत हो, इक दिन तूं मर जावेंगा",
   "romanTitle": "Man Murkh Kyon Garv Karat Ho, Ik Din Tu Mar Jaavengaa",
   "firstLine": "Man Murkh Kyon Garv Karat Ho, Ik Din Tu Mar Jaavengaa (Tek).",
+  "heading": "।। राग जोग भजन ।। १५ ।। ८४५।।",
+  "tek": [
+    "मन मूर्ख क्यों गर्व करत हो, इक दिन तूं मर जावेंगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Murkh Kyon Garv Karat Ho, Ik Din Tu Mar Jaavengaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भूतों से हरि गात बनाया, प्रान कला को पाय चलाया ।",
+        "प्राण गये गिर जावेंगा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhuton Se Hari Gaat Banaayaa, Praan Kalaa Ko Paay Chalaayaa.",
+        "Praan Gaye Gir Jaavengaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस तन को तुम रस से पोषत, रेशम के बहु वस्त्र ओढ़त ।",
+        "अगि में सो जर जावेंगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jis Tan Ko Tum Ras Se Poshat, Resham Ke Bahu Vastr Orhat.",
+        "Agi Men So Jar Jaavengaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पाप कर्म से माया जोड़ी, अन्त साथ ना चलती कौड़ी ।",
+        "कर खाली कर जावेंगा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paap Karm Se Maayaa Jori, Ant Saath Naa Chalti Kauri.",
+        "Kar Khaali Kar Jaavengaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब सन्त पुकारे, अब भी साध संगति कर प्यारे ।",
+        "जांसे भव तर जावेंगा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Sant Pukaare, Ab Bhi Saadh Sangti Kar Pyaare.",
+        "Jaanse Bhav Tar Jaavengaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द्ध"
+      ],
+      "romanLines": [
+        "Gddh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन मुरख कयोन गरव करत हो, िक दीन तु मर जावेनगा (टेक)."
+      "भूतों से हरि गात बनाया, प्रान कला को पाय चलाया ।",
+      "प्राण गये गिर जावेंगा ॥१ ॥"
     ],
     [
-      "भुतोन से हरि गात बनाया, परान कला को पाय चलाया.",
-      "परान गये गिर जावेनगा || 1 ||"
+      "जिस तन को तुम रस से पोषत, रेशम के बहु वस्त्र ओढ़त ।",
+      "अगि में सो जर जावेंगा ॥२ ॥"
     ],
     [
-      "जिस तन को तुम रस से पोशत, रेशम के बहु वसतर ोरहत.",
-      "गि मेन सो जर जावेनगा || 2 ||."
+      "पाप कर्म से माया जोड़ी, अन्त साथ ना चलती कौड़ी ।",
+      "कर खाली कर जावेंगा ॥३ ॥"
     ],
     [
-      "पाप करम से माया जोरि, नत साथ ना चलति कौरि.",
-      "कर खालि कर जावेनगा ||.3 ||."
+      "कहे टेऊँ सब सन्त पुकारे, अब भी साध संगति कर प्यारे ।",
+      "जांसे भव तर जावेंगा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ सब संत पुकारे, ब भि साध सनगति कर पयारे.",
-      "जानसे भव तर जावेनगा || 4 ||"
-    ],
-    [
-      "गदध"
+      "ग््द्ध"
     ]
   ],
   "romanLyrics": [
-    [
-      "Man Murkh Kyon Garv Karat Ho, Ik Din Tu Mar Jaavengaa (Tek)."
-    ],
     [
       "Bhuton Se Hari Gaat Banaayaa, Praan Kalaa Ko Paay Chalaayaa.",
       "Praan Gaye Gir Jaavengaa || 1 ||"
     ],
     [
       "Jis Tan Ko Tum Ras Se Poshat, Resham Ke Bahu Vastr Orhat.",
-      "Agi Men So Jar Jaavengaa || 2 ||."
+      "Agi Men So Jar Jaavengaa || 2 ||"
     ],
     [
       "Paap Karm Se Maayaa Jori, Ant Saath Naa Chalti Kauri.",
-      "Kar Khaali Kar Jaavengaa ||.3 ||."
+      "Kar Khaali Kar Jaavengaa || 3 ||"
     ],
     [
       "Kahe Teun Sab Sant Pukaare, Ab Bhi Saadh Sangti Kar Pyaare.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 15 || 845 ||",
+    "मन मूर्ख क्यों गर्व करत हो, इक दिन तूं मर जावेंगा",
     "Man Murkh Kyon Garv Karat Ho, Ik Din Tu Mar Jaavengaa",
-    "मन मुरख कयोन गरव करत हो, िक दीन तु मर जावेनगा"
+    "राग जोग भजन 15",
+    "Raag Jog Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 845,
+  "displayOrder": 15,
+  "overallOrder": 843,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 447",
+  "updatedAt": "2026-10-26"
 }

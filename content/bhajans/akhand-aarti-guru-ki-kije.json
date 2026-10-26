@@ -1,83 +1,141 @@
 {
-  "id": "bhajan-0499",
+  "id": "bhajan-0498",
   "slug": "akhand-aarti-guru-ki-kije",
   "categoryId": "raag-kohiyaari",
-  "title": "खनद आरती गुरु कि किजे",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "अखण्ड आरती गुरु की कीजे",
   "romanTitle": "Akhand Aarti Guru Ki Kije",
-  "firstLine": "Akhand Aarti Guru Ki Kije. Jaante Sad‌Guru Rijhe, Bhav Dukh Chhije (Tek).",
+  "firstLine": "Akhand Aarti Guru Ki Kije.",
+  "heading": "।। राग कोह्मारी भजन ।। १९ ।। ४९९।।",
+  "tek": [
+    "अखण्ड आरती गुरु की कीजे ।",
+    "जांते सद््‌गुरु रीझे, भव दुख छीजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Akhand Aarti Guru Ki Kije.",
+    "Jaante Sad‌Guru Rijhe, Bhav Dukh Chhije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "थिरता थाल दीप कर ज्ञाना, वृत्ती बाती घृत विज्ञाना ।",
+        "धूप ध्यान का दीजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Thirtaa Thaal Dip Kar Jnyaanaa, Vritti Baati Ghrit Vijnyaanaa.",
+        "Dhup Dhyaan Kaa Dije || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अविद्या अगरबती को जलाए, साच कुंगू चित्त चन्दन चढ़ाए ।",
+        "कपट कपूर जलीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Avidyaa Agrabti Ko Jalaae, Saach Kungu Chitt Chandan Charhaae.",
+        "Kapat Kapur Jalije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सोडहं शंख तुरी निज बानी, हरी नाम नरसिंह निशानी ।",
+        "अनहद घिण्ड बजीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sodhan Shankh Turi Nij Baani, Hari Naam Narsinh Nishaani.",
+        "Anhad Ghind Bajije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "त्र््य",
+        "श्रद्धा केसर शुभ गुण सुमना, चांवल सम दम के तुम करनों ।",
+        "चिन्तन चँवर झुलीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Try",
+        "Shraddhaa Kesar Shubh Gun Sumnaa, Chaanval Sam Dam Ke Tum Karnon.",
+        "Chintan Chanvar Jhulije || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ शिर दक्षिणा धरके, एह आरती नितहीं करके ।",
+        "हरि रस अमृत पीजे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Shir Dakshinaa Dharke, Eh Aarti Nithin Karke.",
+        "Hari Ras Amrit Pije || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "खनद आरती गुरु कि किजे.",
-      "जानते सद्गुरु रिझे, भव दुःख चहिजे (टेक)."
+      "थिरता थाल दीप कर ज्ञाना, वृत्ती बाती घृत विज्ञाना ।",
+      "धूप ध्यान का दीजे ॥१ ॥"
     ],
     [
-      "थिरता थाल दिप कर जनयाना, वरितति बाति घरित विजनयाना.",
-      "धुप ध्यान का दिजे || 1 ||."
+      "अविद्या अगरबती को जलाए, साच कुंगू चित्त चन्दन चढ़ाए ।",
+      "कपट कपूर जलीजे ॥२ ॥"
     ],
     [
-      "विदया गरबति को जलाे, साच कुनगु चितत चनदन चरहाे.",
-      "कपत कपुर जलिजे ||.2 ||."
+      "सोडहं शंख तुरी निज बानी, हरी नाम नरसिंह निशानी ।",
+      "अनहद घिण्ड बजीजे ॥३ ॥"
     ],
     [
-      "सोधन शनख तुरि निज बानी, हरि नाम नरसिनह निशानि.",
-      "नहद घिनद बजिजे ||.3 ||."
+      "त्र््य",
+      "श्रद्धा केसर शुभ गुण सुमना, चांवल सम दम के तुम करनों ।",
+      "चिन्तन चँवर झुलीजे ॥४ ॥"
     ],
     [
-      "तरय",
-      "शरदधा केसर शुभ गुन सुमना, चानवल सम दम के तुम करनोन."
-    ],
-    [
-      "चिनतन चनवर झुलिजे || 4 ||."
-    ],
-    [
-      "कहे तेऊँ शिर दकशिना धरके, ेह आरती निथिन करके.",
-      "हरि रस अमृत पिजे ||.5 ||."
+      "कहे टेऊँ शिर दक्षिणा धरके, एह आरती नितहीं करके ।",
+      "हरि रस अमृत पीजे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Akhand Aarti Guru Ki Kije.",
-      "Jaante Sad‌Guru Rijhe, Bhav Dukh Chhije (Tek)."
-    ],
-    [
       "Thirtaa Thaal Dip Kar Jnyaanaa, Vritti Baati Ghrit Vijnyaanaa.",
-      "Dhup Dhyaan Kaa Dije || 1 ||."
+      "Dhup Dhyaan Kaa Dije || 1 ||"
     ],
     [
       "Avidyaa Agrabti Ko Jalaae, Saach Kungu Chitt Chandan Charhaae.",
-      "Kapat Kapur Jalije ||.2 ||."
+      "Kapat Kapur Jalije || 2 ||"
     ],
     [
       "Sodhan Shankh Turi Nij Baani, Hari Naam Narsinh Nishaani.",
-      "Anhad Ghind Bajije ||.3 ||."
+      "Anhad Ghind Bajije || 3 ||"
     ],
     [
       "Try",
-      "Shraddhaa Kesar Shubh Gun Sumnaa, Chaanval Sam Dam Ke Tum Karnon."
-    ],
-    [
-      "Chintan Chanvar Jhulije || 4 ||."
+      "Shraddhaa Kesar Shubh Gun Sumnaa, Chaanval Sam Dam Ke Tum Karnon.",
+      "Chintan Chanvar Jhulije || 4 ||"
     ],
     [
       "Kahe Teun Shir Dakshinaa Dharke, Eh Aarti Nithin Karke.",
-      "Hari Ras Amrit Pije ||.5 ||."
+      "Hari Ras Amrit Pije || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 19 || 499 ||",
+    "अखण्ड आरती गुरु की कीजे",
     "Akhand Aarti Guru Ki Kije",
-    "खनद आरती गुरु कि किजे"
+    "राग कोहियारी भजन 19",
+    "Raag Kohiyaari Bhajan 19"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "aarti"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
+    "bhajan"
   ],
-  "displayOrder": 499,
+  "displayOrder": 19,
+  "overallOrder": 498,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 278",
+  "updatedAt": "2026-10-26"
 }

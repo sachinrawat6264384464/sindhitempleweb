@@ -1,75 +1,115 @@
 {
-  "id": "bhajan-0797",
+  "id": "bhajan-0795",
   "slug": "mohi-sant-miliyaa-avtaar-sajjan",
   "categoryId": "raag-pilaa",
-  "title": "मोहि संत मिलिया वतार सजजन",
-  "romanTitle": "Mohi Sant Miliyaa Avtaar Sajjan",
-  "firstLine": "Mohi Sant Miliyaa Avtaar Sajjan, Jaaun Bali Bali Main Balihaar Sajjan (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मोहि सन्त मिलिया अवतार सज्जन,",
+  "romanTitle": "Mohi Sant Miliyaa Avtaar Sajjan,",
+  "firstLine": "Mohi Sant Miliyaa Avtaar Sajjan,",
+  "heading": "।। राग पीला भजन ॥।। ७५ ।। ७९७।।",
+  "tek": [
+    "मोहि सन्त मिलिया अवतार सज्जन,",
+    "जाऊँ बलि बलि मैं बलिहार सज्जन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mohi Sant Miliyaa Avtaar Sajjan,",
+    "Jaaun Bali Bali Main Balihaar Sajjan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आज मेरे भाग जागे, धाम आये सन्त जी ।",
+        "मंगल आनन्द मन भया, मानो मिले भगवन्त जी ।",
+        "होया हिरदे माहिं करार सज्जन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aaj Mere Bhaag Jaage, Dhaam Aaye Sant Ji.",
+        "Mangal Aanand Man Bhayaa, Maano Mile Bhagvant Ji.",
+        "Hoyaa Hirde Maahin Karaar Sajjan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "द्ठ",
+        "आज मन मन्दिर भया है, प्रेम का प्रकाश जी ।",
+        "काज पूरण सर्व होया, पाय परम हुलास जी ।",
+        "होया घर में जय जयकार सज्जन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dth",
+        "Aaj Man Mandir Bhayaa Hai, Prem Kaa Prakaash Ji.",
+        "Kaaj Puran Sarv Hoyaa, Paay Param Hulaas Ji.",
+        "Hoyaa Ghar Men Jay Jaykaar Sajjan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहत टेऊँ मिट गये दुख, सूख पाया सार जी ।",
+        "अंग तन के सर्व फूले, भया बाग बहार जी ।",
+        "होया शुभ गुण का गुलिज़ार सज्जन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Mit Gaye Dukh, Sukh Paayaa Saar Ji.",
+        "Ang Tan Ke Sarv Phule, Bhayaa Baag Bahaar Ji.",
+        "Hoyaa Shubh Gun Kaa Gulizaar Sajjan || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोहि संत मिलिया वतार सजजन,",
-      "जाुन बलि बलि मैं बलिहार सजजन (टेक)."
+      "आज मेरे भाग जागे, धाम आये सन्त जी ।",
+      "मंगल आनन्द मन भया, मानो मिले भगवन्त जी ।",
+      "होया हिरदे माहिं करार सज्जन ॥१ ॥"
     ],
     [
-      "ाज मेरे भाग जागे, धाम ाये संत जी.",
-      "मनगल आनंद मन भया, मानो मिले भगवनत जी."
+      "द्ठ",
+      "आज मन मन्दिर भया है, प्रेम का प्रकाश जी ।",
+      "काज पूरण सर्व होया, पाय परम हुलास जी ।",
+      "होया घर में जय जयकार सज्जन ॥२ ॥"
     ],
     [
-      "होया हिरदे माहिन करार सजजन ||.1 ||",
-      "दथ"
-    ],
-    [
-      "ाज मन मनदिर भया है, प्रेम का प्रकाश जी.",
-      "काज पुरन सर्व होया, पाय परम हुलास जी."
-    ],
-    [
-      "होया घर मेन जय जयकार सजजन ||.2 ||.",
-      "कहत तेऊँ मित गये दुःख, सुख पाया सार जी."
-    ],
-    [
-      "नग तन के सर्व फुले, भया बाग बहार जी.",
-      "होया शुभ गुन का गुलिzार सजजन ||.3 ||"
+      "कहत टेऊँ मिट गये दुख, सूख पाया सार जी ।",
+      "अंग तन के सर्व फूले, भया बाग बहार जी ।",
+      "होया शुभ गुण का गुलिज़ार सज्जन ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mohi Sant Miliyaa Avtaar Sajjan,",
-      "Jaaun Bali Bali Main Balihaar Sajjan (Tek)."
-    ],
-    [
       "Aaj Mere Bhaag Jaage, Dhaam Aaye Sant Ji.",
-      "Mangal Aanand Man Bhayaa, Maano Mile Bhagvant Ji."
+      "Mangal Aanand Man Bhayaa, Maano Mile Bhagvant Ji.",
+      "Hoyaa Hirde Maahin Karaar Sajjan || 1 ||"
     ],
     [
-      "Hoyaa Hirde Maahin Karaar Sajjan ||.1 ||",
-      "Dth"
+      "Dth",
+      "Aaj Man Mandir Bhayaa Hai, Prem Kaa Prakaash Ji.",
+      "Kaaj Puran Sarv Hoyaa, Paay Param Hulaas Ji.",
+      "Hoyaa Ghar Men Jay Jaykaar Sajjan || 2 ||"
     ],
     [
-      "Aaj Man Mandir Bhayaa Hai, Prem Kaa Prakash Ji.",
-      "Kaaj Puran Sarv Hoyaa, Paay Param Hulaas Ji."
-    ],
-    [
-      "Hoyaa Ghar Men Jay Jaykaar Sajjan ||.2 ||.",
-      "Kahat Teun Mit Gaye Dukh, Sukh Paayaa Saar Ji."
-    ],
-    [
+      "Kahat Teun Mit Gaye Dukh, Sukh Paayaa Saar Ji.",
       "Ang Tan Ke Sarv Phule, Bhayaa Baag Bahaar Ji.",
-      "Hoyaa Shubh Gun Kaa Gulizaar Sajjan ||.3 ||"
+      "Hoyaa Shubh Gun Kaa Gulizaar Sajjan || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 75 || 797 ||",
-    "Mohi Sant Miliyaa Avtaar Sajjan",
-    "मोहि संत मिलिया वतार सजजन"
+    "मोहि सन्त मिलिया अवतार सज्जन,",
+    "Mohi Sant Miliyaa Avtaar Sajjan,",
+    "राग पीला भजन 74",
+    "Raag Pilaa Bhajan 74"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 797,
+  "displayOrder": 74,
+  "overallOrder": 795,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 421",
+  "updatedAt": "2026-10-26"
 }

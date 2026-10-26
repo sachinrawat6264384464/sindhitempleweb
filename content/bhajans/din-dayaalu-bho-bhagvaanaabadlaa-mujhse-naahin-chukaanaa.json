@@ -1,57 +1,100 @@
 {
-  "id": "bhajan-0900",
+  "id": "bhajan-0898",
   "slug": "din-dayaalu-bho-bhagvaanaabadlaa-mujhse-naahin-chukaanaa",
   "categoryId": "raag-jog",
-  "title": "दीन दयालु भो भगवानाबदला मुझसे नाहिन चुकाना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "दीन दयालू भो भगवाना ,बदला मुझसे नाहिं चुकाना",
   "romanTitle": "Din Dayaalu Bho Bhagvaanaa,Badlaa Mujhse Naahin Chukaanaa",
   "firstLine": "Din Dayaalu Bho Bhagvaanaa,Badlaa Mujhse Naahin Chukaanaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ७० ।। ९०० ॥।",
+  "tek": [
+    "दीन दयालू भो भगवाना ,बदला मुझसे नाहिं चुकाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Din Dayaalu Bho Bhagvaanaa,Badlaa Mujhse Naahin Chukaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पतित पावन सद्‌बख्शन्दा, कहते तुझको वेद पुराना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Patit Paavan Sad‌Bakhshandaa, Kahte Tujhko Ved Puraanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "केते पापी तुमने तारे, मैंने सुनिया अपने काना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kete Paapi Tumne Taare, Mainne Suniyaa Apne Kaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कर्म धर्म को ना मैं कीया, राखो प्रभू अपना बाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Karm Dharm Ko Naa Main Kiyaa, Raakho Prabhu Apnaa Baanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि कृपा करके, दीजे मुझको निर्भय दाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Kripaa Karke, Dije Mujhko Nirbhay Daanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दीन दयालु भो भगवानाबदला मुझसे नाहिन चुकाना (टेक)."
+      "पतित पावन सद्‌बख्शन्दा, कहते तुझको वेद पुराना ॥१ ॥"
     ],
     [
-      "पतित पावन सदबखशनदा, कहते तुझको वेद पुराना || 1 ||."
+      "केते पापी तुमने तारे, मैंने सुनिया अपने काना ॥२ ॥"
     ],
     [
-      "केते पापि तुमने तारे, मैनने सुनिया पने काना || 2 ||."
+      "कर्म धर्म को ना मैं कीया, राखो प्रभू अपना बाना ॥३ ॥"
     ],
     [
-      "करम धरम को ना मैं किया, राखो प्रभु पना बाना || 3 ||."
-    ],
-    [
-      "कहे तेऊँ हरि कृपा करके, दिजे मुझको निरभय दाना || 4 ||"
+      "कहे टेऊँ हरि कृपा करके, दीजे मुझको निर्भय दाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Din Dayaalu Bho Bhagvaanaa,Badlaa Mujhse Naahin Chukaanaa (Tek)."
+      "Patit Paavan Sad‌Bakhshandaa, Kahte Tujhko Ved Puraanaa || 1 ||"
     ],
     [
-      "Patit Paavan Sad‌Bakhshandaa, Kahte Tujhko Ved Puraanaa || 1 ||."
+      "Kete Paapi Tumne Taare, Mainne Suniyaa Apne Kaanaa || 2 ||"
     ],
     [
-      "Kete Paapi Tumne Taare, Mainne Suniyaa Apne Kaanaa || 2 ||."
-    ],
-    [
-      "Karm Dharm Ko Naa Main Kiyaa, Raakho Prabhu Apnaa Baanaa || 3 ||."
+      "Karm Dharm Ko Naa Main Kiyaa, Raakho Prabhu Apnaa Baanaa || 3 ||"
     ],
     [
       "Kahe Teun Hari Kripaa Karke, Dije Mujhko Nirbhay Daanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 70 || 900 ||.",
+    "दीन दयालू भो भगवाना ,बदला मुझसे नाहिं चुकाना",
     "Din Dayaalu Bho Bhagvaanaa,Badlaa Mujhse Naahin Chukaanaa",
-    "दीन दयालु भो भगवानाबदला मुझसे नाहिन चुकाना"
+    "राग जोग भजन 70",
+    "Raag Jog Bhajan 70"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 900,
+  "displayOrder": 70,
+  "overallOrder": 898,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 474",
+  "updatedAt": "2026-10-26"
 }

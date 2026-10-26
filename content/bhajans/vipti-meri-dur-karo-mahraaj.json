@@ -2,37 +2,86 @@
   "id": "bhajan-0198",
   "slug": "vipti-meri-dur-karo-mahraaj",
   "categoryId": "raag-tori",
-  "title": "विपति मेरि दुर करो महराज",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "विपति मेरी दूर करो महराज",
   "romanTitle": "Vipti Meri Dur Karo Mahraaj",
   "firstLine": "Vipti Meri Dur Karo Mahraaj (Tek).",
+  "heading": "।। राग टोड़ी भजन ।। ६ ।। १९८।।",
+  "tek": [
+    "विपति मेरी दूर करो महराज ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vipti Meri Dur Karo Mahraaj (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भूप हरिश्चन्द धर्म के कारण दीना सर्व समाज ।",
+        "काट कष्ट हिहैं दर्शन दीया होया जय आवाज़ ॥8 ॥"
+      ],
+      "romanLines": [
+        "Bhup Harishchand Dharm Ke Kaaran Dinaa Sarv Samaaj.",
+        "Kaat Kasht Hihain Darshan Diyaa Hoyaa Jay Aavaaz || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुर्योधन जब द्रोपदा को करत नगन मध्य राज ।",
+        "सहस वस्त्र दे तब तांकी राखी सभा में लाज ॥२ ॥"
+      ],
+      "romanLines": [
+        "Duryodhan Jab Dropdaa Ko Karat Nagan Madhy Raaj.",
+        "Sahas Vastr De Tab Taanki Raakhi Sabhaa Men Laaj || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तठठ",
+        "बच्चे बिल्ली के रखे आँव में कुम्हारी के काज ।",
+        "नरसिंह हो हरनाकश मारा पत राखी पहलाज ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tathath",
+        "Bachche Billi Ke Rakhe Aanv Men Kumhaari Ke Kaaj.",
+        "Narsinh Ho Harnaakash Maaraa Pat Raakhi Pahlaaj || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ पुकारे सुनो ग़रीबनिवाज ।",
+        "प्रत्यक्ष अपना दर्शन दीजे पाऊँ सुख स्वराज ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Pukaare Suno Gharibnivaaj.",
+        "Pratyaksh Apnaa Darshan Dije Paaun Sukh Svaraaj || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "विपति मेरि दुर करो महराज (टेक)."
+      "भूप हरिश्चन्द धर्म के कारण दीना सर्व समाज ।",
+      "काट कष्ट हिहैं दर्शन दीया होया जय आवाज़ ॥8 ॥"
     ],
     [
-      "भुप हरिशचनद धरम के कारन दिना सर्व समाज.",
-      "कात कशत हिहैन दरशन दिया होया जय ावाz || 8 ||"
+      "दुर्योधन जब द्रोपदा को करत नगन मध्य राज ।",
+      "सहस वस्त्र दे तब तांकी राखी सभा में लाज ॥२ ॥"
     ],
     [
-      "दुरयोधन जब दरोपदा को करत नगन मधय राज.",
-      "सहस वसतर दे तब तानकि राखि सभा मेन लाज || 2 ||"
+      "तठठ",
+      "बच्चे बिल्ली के रखे आँव में कुम्हारी के काज ।",
+      "नरसिंह हो हरनाकश मारा पत राखी पहलाज ॥३ ॥"
     ],
     [
-      "तथथ",
-      "बचचे बिललि के रखे ानव मेन कुमहारि के काज."
-    ],
-    [
-      "नरसिनह हो हरनाकश मारा पत राखि पहलाज || 3 ||."
-    ],
-    [
-      "कहे तेऊँ कर जोर पुकारे सुनो घरिबनिवाज.",
-      "परतयकश पना दरशन दिजे पाुन सुख सवराज || 4 ||"
+      "कहे टेऊँ कर जोड़ पुकारे सुनो ग़रीबनिवाज ।",
+      "प्रत्यक्ष अपना दर्शन दीजे पाऊँ सुख स्वराज ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Vipti Meri Dur Karo Mahraaj (Tek)."
-    ],
     [
       "Bhup Harishchand Dharm Ke Kaaran Dinaa Sarv Samaaj.",
       "Kaat Kasht Hihain Darshan Diyaa Hoyaa Jay Aavaaz || 8 ||"
@@ -43,10 +92,8 @@
     ],
     [
       "Tathath",
-      "Bachche Billi Ke Rakhe Aanv Men Kumhaari Ke Kaaj."
-    ],
-    [
-      "Narsinh Ho Harnaakash Maaraa Pat Raakhi Pahlaaj || 3 ||."
+      "Bachche Billi Ke Rakhe Aanv Men Kumhaari Ke Kaaj.",
+      "Narsinh Ho Harnaakash Maaraa Pat Raakhi Pahlaaj || 3 ||"
     ],
     [
       "Kahe Teun Kar Jor Pukaare Suno Gharibnivaaj.",
@@ -54,18 +101,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 6 || 198 ||",
+    "विपति मेरी दूर करो महराज",
     "Vipti Meri Dur Karo Mahraaj",
-    "विपति मेरि दुर करो महराज"
+    "राग तोड़ी भजन 6",
+    "Raag Tori Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 198,
+  "displayOrder": 6,
+  "overallOrder": 198,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 127",
+  "updatedAt": "2026-10-26"
 }

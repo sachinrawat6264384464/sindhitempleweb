@@ -2,42 +2,100 @@
   "id": "bhajan-0126",
   "slug": "man-dekh-dekh-dekh-zaraa",
   "categoryId": "raag-aasaa",
-  "title": "मन देख देख देख zरा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मन देख देख देख ज़रा",
   "romanTitle": "Man Dekh Dekh Dekh Zaraa",
-  "firstLine": "Man Dekh Dekh Dekh Zaraa. Nain Khol Ke Dil Darpan Men, Darshan Apnaa Dekh Zaraa (Tek).",
+  "firstLine": "Man Dekh Dekh Dekh Zaraa.",
+  "heading": "।। राग आसा भजन ।। ६४ ।। १२६।॥।",
+  "tek": [
+    "मन देख देख देख ज़रा ।",
+    "नैन खोल के दिल दर्पन में, दर्शन अपना देख ज़रा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Dekh Dekh Dekh Zaraa.",
+    "Nain Khol Ke Dil Darpan Men, Darshan Apnaa Dekh Zaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पहले सत्कर्मों को करले, दिल दर्पन के मल को हरले ।",
+        "पीछे तामें वृत्ती धरले, दृष्टि पड़े अवरेख ज़रा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pahle Satkarmon Ko Karle, Dil Darpan Ke Mal Ko Harle.",
+        "Pichhe Taamen Vritti Dharle, Drishti Pare Avrekh Zaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निश्चल करके दिल दर्पन को, तामें देखो निज दर्शन को ।",
+        "गुरु संग थिर कर दर्पन मन को , मारे मंत्र मेख ज़रा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nishchal Karke Dil Darpan Ko, Taamen Dekho Nij Darshan Ko.",
+        "Guru Sang Thir Kar Darpan Man Ko, Maare Mantr Mekh Zaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कस्तूरी ज्यों मृग के अन्तर, दूण्डत बाहर मूण्ठ निरन्तर ।",
+        "तैसे आनन्द तेरे भीतर, अन्तर्मुख हो पेख ज़रा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kasturi Jyon Mrig Ke Antar, Dundat Baahar Munth Nirantar.",
+        "Taise Aanand Tere Bhitar, Antarmukh Ho Pekh Zaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "निरावरण करके दिल दर्पन, कहे टेऊँ देखो निज दर्शन ।",
+        "दर्शन करके होवो प्रसन्न, मेटो जम का लेख ज़रा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Niraavran Karke Dil Darpan, Kahe Teun Dekho Nij Darshan.",
+        "Darshan Karke Hovo Prasann, Meto Jam Kaa Lekh Zaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ह"
+      ],
+      "romanLines": [
+        "Thh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन देख देख देख zरा.",
-      "नैन खोल के दिल दरपन मेन, दरशन पना देख zरा (टेक)."
+      "पहले सत्कर्मों को करले, दिल दर्पन के मल को हरले ।",
+      "पीछे तामें वृत्ती धरले, दृष्टि पड़े अवरेख ज़रा ॥१ ॥"
     ],
     [
-      "पहले सतकरमोन को करले, दिल दरपन के मल को हरले.",
-      "पिचहे तामेन वरितति धरले, दरिशति परे वरेख zरा || 1 ||."
+      "निश्चल करके दिल दर्पन को, तामें देखो निज दर्शन को ।",
+      "गुरु संग थिर कर दर्पन मन को , मारे मंत्र मेख ज़रा ॥२ ॥"
     ],
     [
-      "निशचल करके दिल दरपन को, तामेन देखो निज दरशन को.",
-      "गुरु सनग थिर कर दरपन मन को, मारे मनतर मेख zरा || 2 ||"
+      "कस्तूरी ज्यों मृग के अन्तर, दूण्डत बाहर मूण्ठ निरन्तर ।",
+      "तैसे आनन्द तेरे भीतर, अन्तर्मुख हो पेख ज़रा ॥३ ॥"
     ],
     [
-      "कसतुरि जयोन मरिग के नतर, दुनदत बाहर मुनथ निरनतर.",
-      "तैसे आनंद तेरे भितर, नतरमुख हो पेख zरा || 3. ||."
+      "निरावरण करके दिल दर्पन, कहे टेऊँ देखो निज दर्शन ।",
+      "दर्शन करके होवो प्रसन्न, मेटो जम का लेख ज़रा ॥४ ॥"
     ],
     [
-      "निरावरन करके दिल दरपन, कहे तेऊँ देखो निज दरशन.",
-      "दरशन करके होवो परसनन, मेतो जम का लेख zरा || 4 ||"
-    ],
-    [
-      "थह"
+      "ठ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Dekh Dekh Dekh Zaraa.",
-      "Nain Khol Ke Dil Darpan Men, Darshan Apnaa Dekh Zaraa (Tek)."
-    ],
-    [
       "Pahle Satkarmon Ko Karle, Dil Darpan Ke Mal Ko Harle.",
-      "Pichhe Taamen Vritti Dharle, Drishti Pare Avrekh Zaraa || 1 ||."
+      "Pichhe Taamen Vritti Dharle, Drishti Pare Avrekh Zaraa || 1 ||"
     ],
     [
       "Nishchal Karke Dil Darpan Ko, Taamen Dekho Nij Darshan Ko.",
@@ -45,7 +103,7 @@
     ],
     [
       "Kasturi Jyon Mrig Ke Antar, Dundat Baahar Munth Nirantar.",
-      "Taise Aanand Tere Bhitar, Antarmukh Ho Pekh Zaraa || 3. ||."
+      "Taise Aanand Tere Bhitar, Antarmukh Ho Pekh Zaraa || 3 ||"
     ],
     [
       "Niraavran Karke Dil Darpan, Kahe Teun Dekho Nij Darshan.",
@@ -56,18 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 64 || 126. ||.",
+    "मन देख देख देख ज़रा",
     "Man Dekh Dekh Dekh Zaraa",
-    "मन देख देख देख zरा"
+    "राग आसा भजन 64",
+    "Raag Aasaa Bhajan 64"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 126,
+  "displayOrder": 64,
+  "overallOrder": 126,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 89",
+  "updatedAt": "2026-10-26"
 }

@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0640",
+  "id": "bhajan-0638",
   "slug": "tu-meraa-rakhvaaraa-satguru-tu-meraa-rakhvaaraa",
   "categoryId": "raag-kanso",
-  "title": "तु मेरा रखवारा सतगुरु, तु मेरा रखवारा",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "तूं मेरा रखवारा सत्गुरु, तूं मेरा रखवारा",
   "romanTitle": "Tu Meraa Rakhvaaraa Satguru, Tu Meraa Rakhvaaraa",
-  "firstLine": "Tu Meraa Rakhvaaraa Satguru, Tu Meraa Rakhvaaraa. Tum Ho Maat Pitaa Guru Meraa, Main Hun Baal Tumhaaraa (Tek).",
+  "firstLine": "Tu Meraa Rakhvaaraa Satguru, Tu Meraa Rakhvaaraa.",
+  "heading": "।। राग कंसो भजन ।। ९ ।। ६३९।।",
+  "tek": [
+    "तूं मेरा रखवारा सत्गुरु, तूं मेरा रखवारा ।",
+    "तुम हो मात पिता गुरु मेरा, मैं हूं बाल तुम्हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tu Meraa Rakhvaaraa Satguru, Tu Meraa Rakhvaaraa.",
+    "Tum Ho Maat Pitaa Guru Meraa, Main Hun Baal Tumhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम हो दाता दीन दयालू, मैं हूं मांगनहारा ।",
+        "नवधा भक्ती ज्ञान ध्यान गुण, देवो भजन भण्डारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Daataa Din Dayaalu, Main Hun Maangnahaaraa.",
+        "Navdhaa Bhakti Gyaan Dhyaan Gun, Devo Bhajan Bhandaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम हो पावन पतित उधारन, मैं हूं पापी भारा ।",
+        "तुम्हरी ओट गही मैं निशदिन, पाप करो परिहारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Paavan Patit Udhaaran, Main Hun Paapi Bhaaraa.",
+        "Tumhari Ot Gahi Main Nishdin, Paap Karo Parihaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम हो सुख का सागर स्वामिन्‌, मैं हूं अति दुखियारा ।",
+        "कृपा करके विध्न हरे सब, करिये काज हमारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sukh Kaa Saagar Svaamin‌, Main Hun Ati Dukhiyaaraa.",
+        "Kripaa Karke Vidhn Hare Sab, Kariye Kaaj Hamaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भवसागर में डूबत हूं मैं, कोय न. तारनहारा ।",
+        "कहे टेऊँ अब बांह पकड़ गुरु, कीजे भव से पारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhavsaagar Men Dubat Hun Main, Koy Na. Taarnahaaraa.",
+        "Kahe Teun Ab Baanh Pakar Guru, Kije Bhav Se Paaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तु मेरा रखवारा सतगुरु, तु मेरा रखवारा.",
-      "तुम हो मात पिता गुरु मेरा, मैं हुन बाल तुमहारा (टेक)."
+      "तुम हो दाता दीन दयालू, मैं हूं मांगनहारा ।",
+      "नवधा भक्ती ज्ञान ध्यान गुण, देवो भजन भण्डारा ॥१ ॥"
     ],
     [
-      "तुम हो दाता दीन दयालु, मैं हुन मानगनहारा.",
-      "नवधा भक्ति ज्ञान ध्यान गुन, देवो भजन भनदारा. || 1 ||."
+      "तुम हो पावन पतित उधारन, मैं हूं पापी भारा ।",
+      "तुम्हरी ओट गही मैं निशदिन, पाप करो परिहारा ॥२ ॥"
     ],
     [
-      "तुम हो पावन पतित ुधारन, मैं हुन पापि भारा.",
-      "तुमहरि ोत गहि मैं निशदिन, पाप करो परिहारा || 2 ||."
+      "तुम हो सुख का सागर स्वामिन्‌, मैं हूं अति दुखियारा ।",
+      "कृपा करके विध्न हरे सब, करिये काज हमारा ॥३ ॥"
     ],
     [
-      "तुम हो सुख का सागर सवामिन‌, मैं हुन ति दुखियारा.",
-      "कृपा करके विधन हरे सब, करिये काज हमारा || 3 ||."
-    ],
-    [
-      "भवसागर मेन दुबत हुन मैं, कोय न. तारनहारा.",
-      "कहे तेऊँ ब बानह पकर गुरु, किजे भव से पारा || 4 ||."
+      "भवसागर में डूबत हूं मैं, कोय न. तारनहारा ।",
+      "कहे टेऊँ अब बांह पकड़ गुरु, कीजे भव से पारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tu Meraa Rakhvaaraa Satguru, Tu Meraa Rakhvaaraa.",
-      "Tum Ho Maat Pitaa Guru Meraa, Main Hun Baal Tumhaaraa (Tek)."
-    ],
-    [
       "Tum Ho Daataa Din Dayaalu, Main Hun Maangnahaaraa.",
-      "Navdhaa Bhakti Jnyaan Dhyaan Gun, Devo Bhajan Bhandaaraa. || 1 ||."
+      "Navdhaa Bhakti Gyaan Dhyaan Gun, Devo Bhajan Bhandaaraa || 1 ||"
     ],
     [
       "Tum Ho Paavan Patit Udhaaran, Main Hun Paapi Bhaaraa.",
-      "Tumhari Ot Gahi Main Nishdin, Paap Karo Parihaaraa || 2 ||."
+      "Tumhari Ot Gahi Main Nishdin, Paap Karo Parihaaraa || 2 ||"
     ],
     [
       "Tum Ho Sukh Kaa Saagar Svaamin‌, Main Hun Ati Dukhiyaaraa.",
-      "Kripaa Karke Vidhn Hare Sab, Kariye Kaaj Hamaaraa || 3 ||."
+      "Kripaa Karke Vidhn Hare Sab, Kariye Kaaj Hamaaraa || 3 ||"
     ],
     [
-      "Bhavsaagar Men Dubat Hun Main, Koy N. Taarnahaaraa.",
-      "Kahe Teun Ab Baanh Pakar Guru, Kije Bhav Se Paaraa || 4 ||."
+      "Bhavsaagar Men Dubat Hun Main, Koy Na. Taarnahaaraa.",
+      "Kahe Teun Ab Baanh Pakar Guru, Kije Bhav Se Paaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 9 || 639 ||",
+    "तूं मेरा रखवारा सत्गुरु, तूं मेरा रखवारा",
     "Tu Meraa Rakhvaaraa Satguru, Tu Meraa Rakhvaaraa",
-    "तु मेरा रखवारा सतगुरु, तु मेरा रखवारा"
+    "राग कंसो भजन 9",
+    "Raag Kanso Bhajan 9"
   ],
   "tags": [
-    "kanso",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
     "bhajan"
   ],
-  "displayOrder": 640,
+  "displayOrder": 9,
+  "overallOrder": 638,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 342",
+  "updatedAt": "2026-10-26"
 }

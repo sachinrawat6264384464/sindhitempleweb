@@ -1,60 +1,99 @@
 {
-  "id": "bhajan-0808",
+  "id": "bhajan-0806",
   "slug": "dinaa-dinaa-mainnun-guru-prem-pyaalaa",
   "categoryId": "raag-pilaa",
-  "title": "दिना दिना मैननुन गुरु प्रेम पयाला",
-  "romanTitle": "Dinaa Dinaa Mainnun Guru Prem Pyaalaa",
-  "firstLine": "Dinaa Dinaa Mainnun Guru Prem Pyaalaa, Prem Pyaalaa Deke Kiyaa Mativaalaa Re (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "दीना दीना मैंनूं गुरु प्रेम प्याला,",
+  "romanTitle": "Dinaa Dinaa Mainnun Guru Prem Pyaalaa,",
+  "firstLine": "Dinaa Dinaa Mainnun Guru Prem Pyaalaa,",
+  "heading": "।। राग पीला भजन ।। ८६ ।। ८०८॥।",
+  "tek": [
+    "दीना दीना मैंनूं गुरु प्रेम प्याला,",
+    "प्रेम प्याला देके किया मतिवाला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dinaa Dinaa Mainnun Guru Prem Pyaalaa,",
+    "Prem Pyaalaa Deke Kiyaa Mativaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ले यकतारा हरि गुन गाऊँ, अपने रांवल को मैं राऊँ ।",
+        "और न भावे मोहि जग जंजाला रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Le Yaktaaraa Hari Gun Gaaun, Apne Raanval Ko Main Raaun.",
+        "Aur Na Bhaave Mohi Jag Janjaalaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भेष फकीरी सिर पर धारे, ढूंढूं साजन बन बन प्यारे ।",
+        "तीन लजा का मैं तोड़कर ताला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhesh Phakiri Sir Par Dhaare, Dhundhun Saajan Ban Ban Pyaare.",
+        "Tin Lajaa Kaa Main Torkar Taalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ मम तड़फत जीया, कब पाऊँगा प्रीतम पीया ।",
+        "नस नस में लागा नेह निराला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mam Tarphat Jiyaa, Kab Paaungaa Pritam Piyaa.",
+        "Nas Nas Men Laagaa Neh Niraalaa Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दिना दिना मैननुन गुरु प्रेम पयाला,",
-      "प्रेम पयाला देके किया मतिवाला रे (टेक)."
+      "ले यकतारा हरि गुन गाऊँ, अपने रांवल को मैं राऊँ ।",
+      "और न भावे मोहि जग जंजाला रे ॥१ ॥"
     ],
     [
-      "ले यकतारा हरि गुन गाुन, पने रानवल को मैं राुन.",
-      "ौर न भावे मोहि जग जनजाला रे.$ ||."
+      "भेष फकीरी सिर पर धारे, ढूंढूं साजन बन बन प्यारे ।",
+      "तीन लजा का मैं तोड़कर ताला रे ॥२ ॥"
     ],
     [
-      "भेश फकिरि सिर पर धारे, धुनधुन साजन बन बन पयारे.",
-      "तिन लजा का मैं तोरकर ताला रे || 2 ||."
-    ],
-    [
-      "कहे तेऊँ मम तरफत जिया, कब पाुनगा परितम पिया.",
-      "नस नस मेन लागा नेह निराला रे.3 ||"
+      "कहे टेऊँ मम तड़फत जीया, कब पाऊँगा प्रीतम पीया ।",
+      "नस नस में लागा नेह निराला रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dinaa Dinaa Mainnun Guru Prem Pyaalaa,",
-      "Prem Pyaalaa Deke Kiyaa Mativaalaa Re (Tek)."
-    ],
-    [
       "Le Yaktaaraa Hari Gun Gaaun, Apne Raanval Ko Main Raaun.",
-      "Aur N Bhaave Mohi Jag Janjaalaa Re.$ ||."
+      "Aur Na Bhaave Mohi Jag Janjaalaa Re || 1 ||"
     ],
     [
       "Bhesh Phakiri Sir Par Dhaare, Dhundhun Saajan Ban Ban Pyaare.",
-      "Tin Lajaa Kaa Main Torkar Taalaa Re || 2 ||."
+      "Tin Lajaa Kaa Main Torkar Taalaa Re || 2 ||"
     ],
     [
       "Kahe Teun Mam Tarphat Jiyaa, Kab Paaungaa Pritam Piyaa.",
-      "Nas Nas Men Laagaa Neh Niraalaa Re.3 ||"
+      "Nas Nas Men Laagaa Neh Niraalaa Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 86 || 808 ||.",
-    "Dinaa Dinaa Mainnun Guru Prem Pyaalaa",
-    "दिना दिना मैननुन गुरु प्रेम पयाला"
+    "दीना दीना मैंनूं गुरु प्रेम प्याला,",
+    "Dinaa Dinaa Mainnun Guru Prem Pyaalaa,",
+    "राग पीला भजन 85",
+    "Raag Pilaa Bhajan 85"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 808,
+  "displayOrder": 85,
+  "overallOrder": 806,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 428",
+  "updatedAt": "2026-10-26"
 }

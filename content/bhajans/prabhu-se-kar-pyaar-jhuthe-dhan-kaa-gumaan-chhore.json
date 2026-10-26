@@ -2,37 +2,86 @@
   "id": "bhajan-0167",
   "slug": "prabhu-se-kar-pyaar-jhuthe-dhan-kaa-gumaan-chhore",
   "categoryId": "raag-vihaag",
-  "title": "प्रभु से कर पयार, झुथे धन का गुमान चहोरे",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "प्रभू से कर प्यार, झूठे धन का गुमान छोड़े",
   "romanTitle": "Prabhu Se Kar Pyaar, Jhuthe Dhan Kaa Gumaan Chhore",
   "firstLine": "Prabhu Se Kar Pyaar, Jhuthe Dhan Kaa Gumaan Chhore (Tek).",
+  "heading": "।। राग विहाग भजन ।। ९ ।। १६७।।",
+  "tek": [
+    "प्रभू से कर प्यार, झूठे धन का गुमान छोड़े ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Se Kar Pyaar, Jhuthe Dhan Kaa Gumaan Chhore (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "रावण हठ माया का कीना, अन्त समय कछु साथ न लीना ।",
+        "माया दुख भण्डार, जन्म न हारो माया जोड़े ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raavan Hath Maayaa Kaa Kinaa, Ant Samay Kachhu Saath Na Linaa.",
+        "Maayaa Dukh Bhandaar, Janm Na Haaro Maayaa Jore || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गर्व गउ्जों का कारून कीया, मरती बार नहीं कछु लीया ।",
+        "लोक करत फिटकार, घोर नरक में सो दुख लोड़े ॥२ ॥"
+      ],
+      "romanLines": [
+        "Garv Gaujon Kaa Kaarun Kiyaa, Marti Baar Nahin Kachhu Liyaa.",
+        "Lok Karat Phitkaar, Ghor Narak Men So Dukh Lore || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सिकन्दर ने माया बहु जोड़ी, महल मकाना सैन करोड़ी ।",
+        "खाली हाथ पसार, चलिया चढ़ सो काठ के घोड़े ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Sikandar Ne Maayaa Bahu Jori, Mahal Makaanaa Sain Karori.",
+        "Khaali Haath Pasaar, Chaliyaa Charh So Kaath Ke Ghore || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "माया से जो प्रीति लगावे, कहे टेऊँ सो नरकें जावे ।",
+        "राम सुमर हरबार, दुनिया का सब नाता तोड़े ॥४ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Se Jo Priti Lagaave, Kahe Teun So Narken Jaave.",
+        "Raam Sumar Harbaar, Duniyaa Kaa Sab Naataa Tore || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु से कर पयार, झुथे धन का गुमान चहोरे (टेक)."
+      "रावण हठ माया का कीना, अन्त समय कछु साथ न लीना ।",
+      "माया दुख भण्डार, जन्म न हारो माया जोड़े ॥१ ॥"
     ],
     [
-      "रावन हथ माया का किना, नत समय कचहु साथ न लिना.",
-      "माया दुःख भनदार, जनम न हारो माया जोरे.1 ||"
+      "गर्व गउ्जों का कारून कीया, मरती बार नहीं कछु लीया ।",
+      "लोक करत फिटकार, घोर नरक में सो दुख लोड़े ॥२ ॥"
     ],
     [
-      "गरव गौजोन का कारुन किया, मरति बार नहिन कचहु लिया.",
-      "लोक करत फितकार, घोर नरक मेन सो दुःख लोरे || 2 ||"
+      "सिकन्दर ने माया बहु जोड़ी, महल मकाना सैन करोड़ी ।",
+      "खाली हाथ पसार, चलिया चढ़ सो काठ के घोड़े ॥ ३े ॥"
     ],
     [
-      "सिकनदर ने माया बहु जोरि, महल मकाना सैन करोरि.",
-      "खालि हाथ पसार, चलिया चरह सो काथ के घोरे || 3े ||"
-    ],
-    [
-      "माया से जो परिति लगावे, कहे तेऊँ सो नरकेन जावे.",
-      "राम सुमर हरबार, दुनिया का सब नाता तोरे. ||.4. ||."
+      "माया से जो प्रीति लगावे, कहे टेऊँ सो नरकें जावे ।",
+      "राम सुमर हरबार, दुनिया का सब नाता तोड़े ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Se Kar Pyaar, Jhuthe Dhan Kaa Gumaan Chhore (Tek)."
-    ],
-    [
-      "Raavan Hath Maayaa Kaa Kinaa, Ant Samay Kachhu Saath N Linaa.",
-      "Maayaa Dukh Bhandaar, Janm N Haaro Maayaa Jore.1 ||"
+      "Raavan Hath Maayaa Kaa Kinaa, Ant Samay Kachhu Saath Na Linaa.",
+      "Maayaa Dukh Bhandaar, Janm Na Haaro Maayaa Jore || 1 ||"
     ],
     [
       "Garv Gaujon Kaa Kaarun Kiyaa, Marti Baar Nahin Kachhu Liyaa.",
@@ -44,23 +93,24 @@
     ],
     [
       "Maayaa Se Jo Priti Lagaave, Kahe Teun So Narken Jaave.",
-      "Raam Sumar Harbaar, Duniyaa Kaa Sab Naataa Tore. ||.4. ||."
+      "Raam Sumar Harbaar, Duniyaa Kaa Sab Naataa Tore || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 9 || 167 ||",
+    "प्रभू से कर प्यार, झूठे धन का गुमान छोड़े",
     "Prabhu Se Kar Pyaar, Jhuthe Dhan Kaa Gumaan Chhore",
-    "प्रभु से कर पयार, झुथे धन का गुमान चहोरे"
+    "राग विहाग भजन 9",
+    "Raag Vihaag Bhajan 9"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "vihaag",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
     "bhajan"
   ],
-  "displayOrder": 167,
+  "displayOrder": 9,
+  "overallOrder": 167,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 113",
+  "updatedAt": "2026-10-26"
 }

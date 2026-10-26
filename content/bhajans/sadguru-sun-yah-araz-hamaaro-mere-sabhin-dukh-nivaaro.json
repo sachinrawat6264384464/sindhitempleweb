@@ -1,72 +1,105 @@
 {
-  "id": "bhajan-0833",
+  "id": "bhajan-0831",
   "slug": "sadguru-sun-yah-araz-hamaaro-mere-sabhin-dukh-nivaaro",
   "categoryId": "raag-jog",
-  "title": "सद्गुरु सुन यह रz हमारो, मेरे सभिन दुःख निवारो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सद्‌गुरु सुन यह अरज़ हमारो, मेरे सबहीं दूख निवारो",
   "romanTitle": "Sad‌Guru Sun Yah Araz Hamaaro, Mere Sabhin Dukh Nivaaro",
   "firstLine": "Sad‌Guru Sun Yah Araz Hamaaro, Mere Sabhin Dukh Nivaaro (Tek).",
+  "heading": "।। राग जोग भजन ।। ३ ।। ८ ३३।।",
+  "tek": [
+    "सद्‌गुरु सुन यह अरज़ हमारो, मेरे सबहीं दूख निवारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Sun Yah Araz Hamaaro, Mere Sabhin Dukh Nivaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं हूं पापी तुम हो पावन, पकड़ी प्रभू तेरी दावन ।",
+        "पाप हमारे सब परिहारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Paapi Tum Ho Paavan, Pakri Prabhu Teri Daavan.",
+        "Paap Hamaare Sab Parihaaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चाह न चिन्ता मन में व्यापे, पांच कलेशा ताप न तापे ।",
+        "कामादिक सब दैत्य संहारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chaah Na Chintaa Man Men Vyaape, Paanch Kaleshaa Taap Na Taape.",
+        "Kaamaadik Sab Daity Sanhaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बहुते अवगुण हैं मुझ माहीं, जिन्हों की कछु गिनती नाहीं ।",
+        "सदूगुण दे सब अवगुण टारो ॥ हे ॥",
+        "कहे टेऊँ मैं शरण तुम्हारी, प्रभू राखो पैज हमारी ।",
+        "भुजा पकड़ भव सागर तारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bahute Avgun Hain Mujh Maahin, Jinhon Ki Kachhu Ginti Naahin.",
+        "Sadugun De Sab Avgun Taaro || He ||",
+        "Kahe Teun Main Sharan Tumhaari, Prabhu Raakho Paij Hamaari.",
+        "Bhujaa Pakar Bhav Saagar Taaro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु सुन यह रz हमारो, मेरे सभिन दुःख निवारो (टेक)."
+      "मैं हूं पापी तुम हो पावन, पकड़ी प्रभू तेरी दावन ।",
+      "पाप हमारे सब परिहारो ॥१ ॥"
     ],
     [
-      "मैं हुन पापि तुम हो पावन, पकरि प्रभु तेरि दावन.",
-      "पाप हमारे सब परिहारो.1 ||"
+      "चाह न चिन्ता मन में व्यापे, पांच कलेशा ताप न तापे ।",
+      "कामादिक सब दैत्य संहारो ॥२ ॥"
     ],
     [
-      "चाह न चिनता मन मेन वयापे, पानच कलेशा ताप न तापे.",
-      "कामादिक सब दैतय सनहारो.2 ||"
-    ],
-    [
-      "बहुते वगुन हैन मुझ माहिन, जिनहोन कि कचहु गिनति नाहिन.",
-      "सदुगुन दे सब वगुन तारो || हे ||"
-    ],
-    [
-      "कहे तेऊँ मैं शरन तुमहारि, प्रभु राखो पैज हमारि.",
-      "भुजा पकर भव सागर तारो || 4. ||."
-    ],
-    [
-      "ग"
+      "बहुते अवगुण हैं मुझ माहीं, जिन्हों की कछु गिनती नाहीं ।",
+      "सदूगुण दे सब अवगुण टारो ॥ हे ॥",
+      "कहे टेऊँ मैं शरण तुम्हारी, प्रभू राखो पैज हमारी ।",
+      "भुजा पकड़ भव सागर तारो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Sun Yah Araz Hamaaro, Mere Sabhin Dukh Nivaaro (Tek)."
-    ],
-    [
       "Main Hun Paapi Tum Ho Paavan, Pakri Prabhu Teri Daavan.",
-      "Paap Hamaare Sab Parihaaro.1 ||"
+      "Paap Hamaare Sab Parihaaro || 1 ||"
     ],
     [
-      "Chaah N Chintaa Man Men Vyaape, Paanch Kaleshaa Taap N Taape.",
-      "Kaamaadik Sab Daity Sanhaaro.2 ||"
+      "Chaah Na Chintaa Man Men Vyaape, Paanch Kaleshaa Taap Na Taape.",
+      "Kaamaadik Sab Daity Sanhaaro || 2 ||"
     ],
     [
       "Bahute Avgun Hain Mujh Maahin, Jinhon Ki Kachhu Ginti Naahin.",
-      "Sadugun De Sab Avgun Taaro || He ||"
-    ],
-    [
+      "Sadugun De Sab Avgun Taaro || He ||",
       "Kahe Teun Main Sharan Tumhaari, Prabhu Raakho Paij Hamaari.",
-      "Bhujaa Pakar Bhav Saagar Taaro || 4. ||."
-    ],
-    [
-      "G"
+      "Bhujaa Pakar Bhav Saagar Taaro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 3 || 8 33 ||",
+    "सद्‌गुरु सुन यह अरज़ हमारो, मेरे सबहीं दूख निवारो",
     "Sad‌Guru Sun Yah Araz Hamaaro, Mere Sabhin Dukh Nivaaro",
-    "सद्गुरु सुन यह रz हमारो, मेरे सभिन दुःख निवारो"
+    "राग जोग भजन 3",
+    "Raag Jog Bhajan 3"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 833,
+  "displayOrder": 3,
+  "overallOrder": 831,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 441",
+  "updatedAt": "2026-10-26"
 }

@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0662",
+  "slug": "shraddhaa-dhaare-shraddhaa-dhaare-sun-gyaan-kathaa-tu-shraddhaa-dhaare",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "श्रद्धा धारे श्रद्धा धारे, सुन ज्ञान कथा तूं, श्रद्धा धारे",
+  "romanTitle": "Shraddhaa Dhaare Shraddhaa Dhaare, Sun Gyaan Kathaa Tu, Shraddhaa Dhaare",
+  "firstLine": "Shraddhaa Dhaare Shraddhaa Dhaare, Sun Gyaan Kathaa Tu, Shraddhaa Dhaare.",
+  "heading": "।। राग पहाड़ी भजन ।। १५ ।। ६६ ३।।",
+  "tek": [
+    "श्रद्धा धारे श्रद्धा धारे, सुन ज्ञान कथा तूं, श्रद्धा धारे ।",
+    "सन्त जनों के जाय द्वारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shraddhaa Dhaare Shraddhaa Dhaare, Sun Gyaan Kathaa Tu, Shraddhaa Dhaare.",
+    "Sant Janon Ke Jaay Dvaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्ञान कथा नित सन्त सुनावहिं,",
+        "गुरुमुख सुनकर काज संवारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Kathaa Nit Sant Sunaavhin,",
+        "Gurumukh Sunkar Kaaj Sanvaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्ञान कथा जा कथे ब्रह्म को,",
+        "जगत अनातम श्रम निवारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Kathaa Jaa Kathe Brahm Ko,",
+        "Jagat Anaatam Shram Nivaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज्ञान कथा अआअज्ञान नसावे,",
+        "श्रुति समावे ब्रह्म मंजझारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Kathaa Aajnyaan Nasaave,",
+        "Shruti Samaave Brahm Manjjhaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ज्ञान कथा जो सुने सुनावे,",
+        "कहे टेऊँ कुल केते तारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Kathaa Jo Sune Sunaave,",
+        "Kahe Teun Kul Kete Taare || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "ज्ञान कथा नित सन्त सुनावहिं,",
+      "गुरुमुख सुनकर काज संवारे ॥१ ॥"
+    ],
+    [
+      "ज्ञान कथा जा कथे ब्रह्म को,",
+      "जगत अनातम श्रम निवारे ॥२ ॥"
+    ],
+    [
+      "ज्ञान कथा अआअज्ञान नसावे,",
+      "श्रुति समावे ब्रह्म मंजझारे ॥३ ॥"
+    ],
+    [
+      "ज्ञान कथा जो सुने सुनावे,",
+      "कहे टेऊँ कुल केते तारे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Gyaan Kathaa Nit Sant Sunaavhin,",
+      "Gurumukh Sunkar Kaaj Sanvaare || 1 ||"
+    ],
+    [
+      "Gyaan Kathaa Jaa Kathe Brahm Ko,",
+      "Jagat Anaatam Shram Nivaare || 2 ||"
+    ],
+    [
+      "Gyaan Kathaa Aajnyaan Nasaave,",
+      "Shruti Samaave Brahm Manjjhaare || 3 ||"
+    ],
+    [
+      "Gyaan Kathaa Jo Sune Sunaave,",
+      "Kahe Teun Kul Kete Taare || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "श्रद्धा धारे श्रद्धा धारे, सुन ज्ञान कथा तूं, श्रद्धा धारे",
+    "Shraddhaa Dhaare Shraddhaa Dhaare, Sun Gyaan Kathaa Tu, Shraddhaa Dhaare",
+    "राग पहाड़ी भजन 15",
+    "Raag Pahaari Bhajan 15"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 15,
+  "overallOrder": 662,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 353",
+  "updatedAt": "2026-10-26"
+}

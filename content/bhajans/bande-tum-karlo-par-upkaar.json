@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0662",
+  "id": "bhajan-0660",
   "slug": "bande-tum-karlo-par-upkaar",
   "categoryId": "raag-pahaari",
-  "title": "बनदे तुम करलो पर ुपकार",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "बन्दे तुम करलो पर उपकार",
   "romanTitle": "Bande Tum Karlo Par Upkaar",
   "firstLine": "Bande Tum Karlo Par Upkaar (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। १३ ।। ६६१।।",
+  "tek": [
+    "बन्दे तुम करलो पर उपकार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bande Tum Karlo Par Upkaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अपने तन का स्वार्थ त्यागो, पर उपकार में अहनिश लागो ।",
+        "मानुष जन्म सुधार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Apne Tan Kaa Svaarth Tyaago, Par Upkaar Men Ahnish Laago.",
+        "Maanush Janm Sudhaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पर उपकार जिसीने कीया, तिसने जग में यश को लीया ।",
+        "होया जय जयकार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Par Upkaar Jisine Kiyaa, Tisne Jag Men Yash Ko Liyaa.",
+        "Hoyaa Jay Jaykaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पर उपकार दधीच कमाया, रन्तिदेव ने राज लुटाया ।",
+        "छाय हरि दीदार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Par Upkaar Dadhich Kamaayaa, Rantidev Ne Raaj Lutaayaa.",
+        "Chhaay Hari Didaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पर उपकार में जिन तन दीना, कहे टेऊँ धन्य तांका जीना ।",
+        "करते देव जुहार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Par Upkaar Men Jin Tan Dinaa, Kahe Teun Dhany Taankaa Jinaa.",
+        "Karte Dev Juhaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदे तुम करलो पर ुपकार (टेक)."
+      "अपने तन का स्वार्थ त्यागो, पर उपकार में अहनिश लागो ।",
+      "मानुष जन्म सुधार ॥१ ॥"
     ],
     [
-      "पने तन का सवारथ तयागो, पर ुपकार मेन हनिश लागो.",
-      "मानुश जनम सुधार || $ ||"
+      "पर उपकार जिसीने कीया, तिसने जग में यश को लीया ।",
+      "होया जय जयकार ॥२ ॥"
     ],
     [
-      "पर ुपकार जिसिने किया, तिसने जग मेन यश को लिया.",
-      "होया जय जयकार ||.2 ||."
+      "पर उपकार दधीच कमाया, रन्तिदेव ने राज लुटाया ।",
+      "छाय हरि दीदार ॥३ ॥"
     ],
     [
-      "पर ुपकार दधिच कमाया, रनतिदेव ने राज लुताया.",
-      "चहाय हरि दिदार ||.3. ||."
-    ],
-    [
-      "पर ुपकार मेन जिन तन दिना, कहे तेऊँ धनय तानका जिना.",
-      "करते देव जुहार ||.4 ||."
+      "पर उपकार में जिन तन दीना, कहे टेऊँ धन्य तांका जीना ।",
+      "करते देव जुहार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bande Tum Karlo Par Upkaar (Tek)."
-    ],
-    [
       "Apne Tan Kaa Svaarth Tyaago, Par Upkaar Men Ahnish Laago.",
-      "Maanush Janm Sudhaar || $ ||"
+      "Maanush Janm Sudhaar || 1 ||"
     ],
     [
       "Par Upkaar Jisine Kiyaa, Tisne Jag Men Yash Ko Liyaa.",
-      "Hoyaa Jay Jaykaar ||.2 ||."
+      "Hoyaa Jay Jaykaar || 2 ||"
     ],
     [
       "Par Upkaar Dadhich Kamaayaa, Rantidev Ne Raaj Lutaayaa.",
-      "Chhaay Hari Didaar ||.3. ||."
+      "Chhaay Hari Didaar || 3 ||"
     ],
     [
       "Par Upkaar Men Jin Tan Dinaa, Kahe Teun Dhany Taankaa Jinaa.",
-      "Karte Dev Juhaar ||.4 ||."
+      "Karte Dev Juhaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 13 || 661 ||",
+    "बन्दे तुम करलो पर उपकार",
     "Bande Tum Karlo Par Upkaar",
-    "बनदे तुम करलो पर ुपकार"
+    "राग पहाड़ी भजन 13",
+    "Raag Pahaari Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 662,
+  "displayOrder": 13,
+  "overallOrder": 660,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 352",
+  "updatedAt": "2026-10-26"
 }

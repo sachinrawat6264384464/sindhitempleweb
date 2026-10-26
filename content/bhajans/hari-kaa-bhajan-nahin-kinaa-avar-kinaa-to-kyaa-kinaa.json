@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0565",
+  "id": "bhajan-0563",
   "slug": "hari-kaa-bhajan-nahin-kinaa-avar-kinaa-to-kyaa-kinaa",
   "categoryId": "raag-khambhaat",
-  "title": "हरि का भजन नहिन किना, वर किना तो कया किना",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "हरी का भजन नहिं कीना, अवर कीना तो क्या कीना",
   "romanTitle": "Hari Kaa Bhajan Nahin Kinaa, Avar Kinaa To Kyaa Kinaa",
   "firstLine": "Hari Kaa Bhajan Nahin Kinaa, Avar Kinaa To Kyaa Kinaa (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १५ ।। ५६४।।",
+  "tek": [
+    "हरी का भजन नहिं कीना, अवर कीना तो क्या कीना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Kaa Bhajan Nahin Kinaa, Avar Kinaa To Kyaa Kinaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर्म यज्ञ दान उपकारा, कर्म शुभ तोहि करना था ।",
+        "उसी में नाहिं चित्त दीना , अवर दीना तो क्या कीना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharm Yajny Daan Upkaaraa, Karm Shubh Tohi Karnaa Thaa.",
+        "Usi Men Naahin Chitt Dinaa, Avar Dinaa To Kyaa Kinaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सदा सत्‌संग में चलकर, हरी का नाम लेना था ।",
+        "प्रभू का नाम नहिं लीना , अवर लीना तो क्या कीना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sadaa Sat‌Sang Men Chalkar, Hari Kaa Naam Lenaa Thaa.",
+        "Prabhu Kaa Naam Nahin Linaa, Avar Linaa To Kyaa Kinaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरू की शरण में जाकर, निजातम रूप लखना था ।",
+        "उसे तुमने नहीं चीना, अवर चीना तो क्या कीना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Sharan Men Jaakar, Nijaatam Rup Lakhnaa Thaa.",
+        "Use Tumne Nahin Chinaa, Avar Chinaa To Kyaa Kinaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ बन्धन तोड़े, मुक्त हो जग विचरना था ।",
+        "मुक्त हो बन्ध नहिं छीना , अवर छीना तो क्या कीना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bandhan Tore, Mukt Ho Jag Vichranaa Thaa.",
+        "Mukt Ho Bandh Nahin Chhinaa, Avar Chhinaa To Kyaa Kinaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि का भजन नहिन किना, वर किना तो कया किना (टेक)."
+      "धर्म यज्ञ दान उपकारा, कर्म शुभ तोहि करना था ।",
+      "उसी में नाहिं चित्त दीना , अवर दीना तो क्या कीना ॥१ ॥"
     ],
     [
-      "धरम यजनय दान ुपकारा, करम शुभ तोहि करना था.",
-      "ुसि मेन नाहिन चितत दिना, वर दिना तो कया किना || 1 ||"
+      "सदा सत्‌संग में चलकर, हरी का नाम लेना था ।",
+      "प्रभू का नाम नहिं लीना , अवर लीना तो क्या कीना ॥२ ॥"
     ],
     [
-      "सदा सत्संग मेन चलकर, हरि का नाम लेना था.",
-      "प्रभु का नाम नहिन लिना, वर लिना तो कया किना || 2 ||."
+      "गुरू की शरण में जाकर, निजातम रूप लखना था ।",
+      "उसे तुमने नहीं चीना, अवर चीना तो क्या कीना ॥३ ॥"
     ],
     [
-      "गुरु कि शरन मेन जाकर, निजातम रुप लखना था.",
-      "ुसे तुमने नहिन चिना, वर चिना तो कया किना || 3 ||."
-    ],
-    [
-      "कहे तेऊँ बनधन तोरे, मुक्त हो जग विचरना था.",
-      "मुक्त हो बनध नहिन चहिना, वर चहिना तो कया किना || 4 ||"
-    ],
-    [
-      "हद"
+      "कहे टेऊँ बन्धन तोड़े, मुक्त हो जग विचरना था ।",
+      "मुक्त हो बन्ध नहिं छीना , अवर छीना तो क्या कीना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Hari Kaa Bhajan Nahin Kinaa, Avar Kinaa To Kyaa Kinaa (Tek)."
-    ],
     [
       "Dharm Yajny Daan Upkaaraa, Karm Shubh Tohi Karnaa Thaa.",
       "Usi Men Naahin Chitt Dinaa, Avar Dinaa To Kyaa Kinaa || 1 ||"
     ],
     [
       "Sadaa Sat‌Sang Men Chalkar, Hari Kaa Naam Lenaa Thaa.",
-      "Prabhu Kaa Naam Nahin Linaa, Avar Linaa To Kyaa Kinaa || 2 ||."
+      "Prabhu Kaa Naam Nahin Linaa, Avar Linaa To Kyaa Kinaa || 2 ||"
     ],
     [
       "Guru Ki Sharan Men Jaakar, Nijaatam Rup Lakhnaa Thaa.",
-      "Use Tumne Nahin Chinaa, Avar Chinaa To Kyaa Kinaa || 3 ||."
+      "Use Tumne Nahin Chinaa, Avar Chinaa To Kyaa Kinaa || 3 ||"
     ],
     [
       "Kahe Teun Bandhan Tore, Mukt Ho Jag Vichranaa Thaa.",
       "Mukt Ho Bandh Nahin Chhinaa, Avar Chhinaa To Kyaa Kinaa || 4 ||"
-    ],
-    [
-      "Had"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 15 || 564 ||",
+    "हरी का भजन नहिं कीना, अवर कीना तो क्या कीना",
     "Hari Kaa Bhajan Nahin Kinaa, Avar Kinaa To Kyaa Kinaa",
-    "हरि का भजन नहिन किना, वर किना तो कया किना"
+    "राग खंभात भजन 15",
+    "Raag Khambhaat Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 565,
+  "displayOrder": 15,
+  "overallOrder": 563,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 307",
+  "updatedAt": "2026-10-26"
 }

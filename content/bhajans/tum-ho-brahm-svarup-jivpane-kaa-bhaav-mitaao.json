@@ -2,37 +2,86 @@
   "id": "bhajan-0389",
   "slug": "tum-ho-brahm-svarup-jivpane-kaa-bhaav-mitaao",
   "categoryId": "raag-tilang",
-  "title": "तुम हो बरहम सवरुप, जिवपने का भाव मिताो",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "तुम हो ब्रह्म स्वरूप, जीवपणे का भाव मिटाओ",
   "romanTitle": "Tum Ho Brahm Svarup, Jivpane Kaa Bhaav Mitaao",
   "firstLine": "Tum Ho Brahm Svarup, Jivpane Kaa Bhaav Mitaao (Tek).",
+  "heading": "।। राग तिलंग भजन ।। २६ ।। ३९०।।",
+  "tek": [
+    "तुम हो ब्रह्म स्वरूप, जीवपणे का भाव मिटाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Ho Brahm Svarup, Jivpane Kaa Bhaav Mitaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जनम मरण है तन के धर्मा, खट उर्मी पुनि वणश्रिमा ।",
+        "नहिं तुम सुन्दर कुरूप, देह अध्यास को वेग हटाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Janam Maran Hai Tan Ke Dharmaa, Khat Urmi Puni Vanashrimaa.",
+        "Nahin Tum Sundar Kurup, Deh Adhyaas Ko Veg Hataao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाम रूप मय यह संसारा, जड़ परिणामी दुखमय सारा ।",
+        "तजे नाम अरु रूप, अस्ति भाति प्रिय माहिं समाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup May Yah Sansaaraa, Jar Parinaami Dukhmay Saaraa.",
+        "Taje Naam Aru Rup, Asti Bhaati Priy Maahin Samaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम है अखण्ड अजर अविनाशी, आतम चेतन आनन्द राशी ।",
+        "असंग एक अरूप, उलट आपने अन्तर आओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Hai Akhand Ajar Avinaashi, Aatam Chetan Aanand Raashi.",
+        "Asang Ek Arup, Ulat Aapne Antar Aao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ निज रूप पछानो, पांचों भेद श्रान्ती भानो ।",
+        "आदी धाम अनूप, सद्‌गुरु के प्रसादे पाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nij Rup Pachhaano, Paanchon Bhed Shraanti Bhaano.",
+        "Aadi Dhaam Anup, Sad‌Guru Ke Prasaade Paao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम हो बरहम सवरुप, जिवपने का भाव मिताो (टेक)."
+      "जनम मरण है तन के धर्मा, खट उर्मी पुनि वणश्रिमा ।",
+      "नहिं तुम सुन्दर कुरूप, देह अध्यास को वेग हटाओ ॥१ ॥"
     ],
     [
-      "जनम मरन है तन के धरमा, खत ुरमि पुनि वनशरिमा.",
-      "नहिन तुम सुनदर कुरुप, देह धयास को वेग हताो. ||.1 ||"
+      "नाम रूप मय यह संसारा, जड़ परिणामी दुखमय सारा ।",
+      "तजे नाम अरु रूप, अस्ति भाति प्रिय माहिं समाओ ॥२ ॥"
     ],
     [
-      "नाम रुप मय यह सनसारा, जर परिनामि दुखमय सारा.",
-      "तजे नाम रु रुप, सति भाति परिय माहिन समाो || 2 ||"
+      "तुम है अखण्ड अजर अविनाशी, आतम चेतन आनन्द राशी ।",
+      "असंग एक अरूप, उलट आपने अन्तर आओ ॥३ ॥"
     ],
     [
-      "तुम है खनद जर अविनाशी, ातम चेतन आनंद राशि.",
-      "सनग ेक रुप, ुलत ापने नतर ाो || 3 ||"
-    ],
-    [
-      "कहे तेऊँ निज रुप पचहानो, पानचोन भेद शरानति भानो.",
-      "ादि धाम नुप, सद्गुरु के परसादे पाो || 4. ||."
+      "कहे टेऊँ निज रूप पछानो, पांचों भेद श्रान्ती भानो ।",
+      "आदी धाम अनूप, सद्‌गुरु के प्रसादे पाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Ho Brahm Svarup, Jivpane Kaa Bhaav Mitaao (Tek)."
-    ],
-    [
       "Janam Maran Hai Tan Ke Dharmaa, Khat Urmi Puni Vanashrimaa.",
-      "Nahin Tum Sundar Kurup, Deh Adhyaas Ko Veg Hataao. ||.1 ||"
+      "Nahin Tum Sundar Kurup, Deh Adhyaas Ko Veg Hataao || 1 ||"
     ],
     [
       "Naam Rup May Yah Sansaaraa, Jar Parinaami Dukhmay Saaraa.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahe Teun Nij Rup Pachhaano, Paanchon Bhed Shraanti Bhaano.",
-      "Aadi Dhaam Anup, Sad‌Guru Ke Prasaade Paao || 4. ||."
+      "Aadi Dhaam Anup, Sad‌Guru Ke Prasaade Paao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 26 || 390 ||",
+    "तुम हो ब्रह्म स्वरूप, जीवपणे का भाव मिटाओ",
     "Tum Ho Brahm Svarup, Jivpane Kaa Bhaav Mitaao",
-    "तुम हो बरहम सवरुप, जिवपने का भाव मिताो"
+    "राग तिलंग भजन 26",
+    "Raag Tilang Bhajan 26"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 389,
+  "displayOrder": 26,
+  "overallOrder": 389,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 228",
+  "updatedAt": "2026-10-26"
 }

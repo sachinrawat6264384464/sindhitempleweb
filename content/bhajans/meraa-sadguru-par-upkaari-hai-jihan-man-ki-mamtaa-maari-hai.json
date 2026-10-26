@@ -1,66 +1,90 @@
 {
-  "id": "bhajan-0697",
+  "id": "bhajan-0695",
   "slug": "meraa-sadguru-par-upkaari-hai-jihan-man-ki-mamtaa-maari-hai",
   "categoryId": "raag-pahaari",
-  "title": "मेरा सद्गुरु पर ुपकारि है, जिहन मन कि ममता मारि है",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मेरा सद्गुरु पर उपकारी है, जिहं मन की ममता मारी है",
   "romanTitle": "Meraa Sadguru Par Upkaari Hai, Jihan Man Ki Mamtaa Maari Hai",
   "firstLine": "Meraa Sadguru Par Upkaari Hai, Jihan Man Ki Mamtaa Maari Hai.",
+  "heading": "।। राग पहाड़ी भजन ।। ४८ ।। ६९६।॥।",
+  "tek": [
+    "मेरा सद्गुरु पर उपकारी है, जिहं मन की ममता मारी है ।",
+    "दे आतम ज्ञान सच्चा मुझको,",
+    "जिस अविद्या की तम टारी है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meraa Sadguru Par Upkaari Hai, Jihan Man Ki Mamtaa Maari Hai.",
+    "De Aatam Gyaan Sachchaa Mujhko,",
+    "Jis Avidyaa Ki Tam Taari Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "था मोह ने मुझको उलझाया, पुनि बहुत जनम से भटकाया ।",
+        "गुरु कृपा करके मोह अरी को, मारी ज्ञान कटारी है ॥१ ॥",
+        "जिस कारण मैंने घर त्यागा, जा बन खण्ड में ढूंढन लागा ।",
+        "गुरु कृपा कर घट भीतर वह, दिखलायी मूरत प्यारी है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Thaa Moh Ne Mujhko Uljhaayaa, Puni Bahut Janam Se Bhatkaayaa.",
+        "Guru Kripaa Karke Moh Ari Ko, Maari Gyaan Kataari Hai || 1 ||",
+        "Jis Kaaran Mainne Ghar Tyaagaa, Jaa Ban Khand Men Dhundhan Laagaa.",
+        "Guru Kripaa Kar Ghat Bhitar Vah, Dikhlaayi Murat Pyaari Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस काल ने सब जग खाय लिया, गुरु उससे मोहि बचाय लिया ।",
+        "कहे टेऊँ ऐसे गुरु ऊपर, मैं बार बार बलिहारी है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jis Kaal Ne Sab Jag Khaay Liyaa, Guru Usse Mohi Bachaay Liyaa.",
+        "Kahe Teun Aise Guru Upar, Main Baar Baar Balihaari Hai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरा सद्गुरु पर ुपकारि है, जिहन मन कि ममता मारि है.",
-      "दे ातम ज्ञान सचचा मुझको,"
+      "था मोह ने मुझको उलझाया, पुनि बहुत जनम से भटकाया ।",
+      "गुरु कृपा करके मोह अरी को, मारी ज्ञान कटारी है ॥१ ॥",
+      "जिस कारण मैंने घर त्यागा, जा बन खण्ड में ढूंढन लागा ।",
+      "गुरु कृपा कर घट भीतर वह, दिखलायी मूरत प्यारी है ॥२ ॥"
     ],
     [
-      "जिस विदया कि तम तारि है (टेक)."
-    ],
-    [
-      "था मोह ने मुझको ुलझाया, पुनि बहुत जनम से भतकाया.",
-      "गुरु कृपा करके मोह रि को, मारि ज्ञान कतारि है 1"
-    ],
-    [
-      "जिस कारन मैनने घर तयागा, जा बन खनद मेन धुनधन लागा.",
-      "गुरु कृपा कर घत भितर वह, दिखलायि मुरत पयारि है || 2 ||"
-    ],
-    [
-      "जिस काल ने सब जग खाय लिया, गुरु ुससे मोहि बचाय लिया.",
-      "कहे तेऊँ ैसे गुरु ुपर, मैं बार बार बलिहारि है || 3 ||."
+      "जिस काल ने सब जग खाय लिया, गुरु उससे मोहि बचाय लिया ।",
+      "कहे टेऊँ ऐसे गुरु ऊपर, मैं बार बार बलिहारी है ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Meraa Sadguru Par Upkaari Hai, Jihan Man Ki Mamtaa Maari Hai.",
-      "De Aatam Jnyaan Sachchaa Mujhko,"
-    ],
-    [
-      "Jis Avidyaa Ki Tam Taari Hai (Tek)."
-    ],
-    [
       "Thaa Moh Ne Mujhko Uljhaayaa, Puni Bahut Janam Se Bhatkaayaa.",
-      "Guru Kripaa Karke Moh Ari Ko, Maari Jnyaan Kataari Hai 1"
-    ],
-    [
+      "Guru Kripaa Karke Moh Ari Ko, Maari Gyaan Kataari Hai || 1 ||",
       "Jis Kaaran Mainne Ghar Tyaagaa, Jaa Ban Khand Men Dhundhan Laagaa.",
       "Guru Kripaa Kar Ghat Bhitar Vah, Dikhlaayi Murat Pyaari Hai || 2 ||"
     ],
     [
       "Jis Kaal Ne Sab Jag Khaay Liyaa, Guru Usse Mohi Bachaay Liyaa.",
-      "Kahe Teun Aise Guru Upar, Main Baar Baar Balihaari Hai || 3 ||."
+      "Kahe Teun Aise Guru Upar, Main Baar Baar Balihaari Hai || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 48 || 696. ||.",
+    "मेरा सद्गुरु पर उपकारी है, जिहं मन की ममता मारी है",
     "Meraa Sadguru Par Upkaari Hai, Jihan Man Ki Mamtaa Maari Hai",
-    "मेरा सद्गुरु पर ुपकारि है, जिहन मन कि ममता मारि है"
+    "राग पहाड़ी भजन 48",
+    "Raag Pahaari Bhajan 48"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 697,
+  "displayOrder": 48,
+  "overallOrder": 695,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 370",
+  "updatedAt": "2026-10-26"
 }

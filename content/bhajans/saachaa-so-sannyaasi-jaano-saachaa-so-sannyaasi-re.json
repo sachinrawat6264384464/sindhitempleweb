@@ -2,62 +2,85 @@
   "id": "bhajan-0030",
   "slug": "saachaa-so-sannyaasi-jaano-saachaa-so-sannyaasi-re",
   "categoryId": "raag-raamkali",
-  "title": "साचा सो सननयासि जानो साचा सो सननयासि रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "साचा सो संन्यासी जानो साचा सो संन्यासी रे",
   "romanTitle": "Saachaa So Sannyaasi Jaano Saachaa So Sannyaasi Re",
   "firstLine": "Saachaa So Sannyaasi Jaano Saachaa So Sannyaasi Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। १८ ।। ३०॥।",
+  "tek": [
+    "साचा सो संन्यासी जानो साचा सो संन्यासी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saachaa So Sannyaasi Jaano Saachaa So Sannyaasi Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम रूप मय सर्व जगत को, निश्चय जानत नासी रे ।",
+        "देह गेह धन दारा सुत से, जो नित रहत उदासी रे ॥१ ॥",
+        "काम क्रोध मद लोभ मोह की, काट दई जिहं फासी रे ।",
+        "आशा तृष्णा विषय वासना, जांकी सर्व विनासी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup May Sarv Jagat Ko, Nishchay Jaanat Naasi Re.",
+        "Deh Geh Dhan Daaraa Sut Se, Jo Nit Rahat Udaasi Re || 1 ||",
+        "Kaam Krodh Mad Lobh Moh Ki, Kaat Dai Jihan Phaasi Re.",
+        "Aashaa Trishnaa Vishay Vaasnaa, Jaanki Sarv Vinaasi Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अहंता ममता चिन्ता त्यागे, बना जो इश उपासी रे ।",
+        "कहता टेऊँ ब्रह्मात्म लख, पावत सुख अविनासी रे ॥ डे ॥"
+      ],
+      "romanLines": [
+        "Ahantaa Mamtaa Chintaa Tyaage, Banaa Jo Ish Upaasi Re.",
+        "Kahtaa Teun Brahmaatm Lakh, Paavat Sukh Avinaasi Re || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साचा सो सननयासि जानो साचा सो सननयासि रे (टेक)."
+      "नाम रूप मय सर्व जगत को, निश्चय जानत नासी रे ।",
+      "देह गेह धन दारा सुत से, जो नित रहत उदासी रे ॥१ ॥",
+      "काम क्रोध मद लोभ मोह की, काट दई जिहं फासी रे ।",
+      "आशा तृष्णा विषय वासना, जांकी सर्व विनासी रे ॥२ ॥"
     ],
     [
-      "नाम रुप मय सर्व जगत को, निशचय जानत नासि रे.",
-      "देह गेह धन दारा सुत से, जो नित रहत ुदासि रे 1"
-    ],
-    [
-      "काम करोध मद लोभ मोह कि, कात दै जिहन फासि रे.",
-      "ाशा तरिशना विशय वासना, जानकि सर्व विनासि रे || 2 ||."
-    ],
-    [
-      "हनता ममता चिनता तयागे, बना जो िश ुपासि रे.",
-      "कहता तेऊँ बरहमातम लख, पावत सुख विनासि रे || दे ||"
-    ],
-    [
-      "गह"
+      "अहंता ममता चिन्ता त्यागे, बना जो इश उपासी रे ।",
+      "कहता टेऊँ ब्रह्मात्म लख, पावत सुख अविनासी रे ॥ डे ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saachaa So Sannyaasi Jaano Saachaa So Sannyaasi Re (Tek)."
-    ],
-    [
       "Naam Rup May Sarv Jagat Ko, Nishchay Jaanat Naasi Re.",
-      "Deh Geh Dhan Daaraa Sut Se, Jo Nit Rahat Udaasi Re 1"
-    ],
-    [
+      "Deh Geh Dhan Daaraa Sut Se, Jo Nit Rahat Udaasi Re || 1 ||",
       "Kaam Krodh Mad Lobh Moh Ki, Kaat Dai Jihan Phaasi Re.",
-      "Aashaa Trishnaa Vishay Vaasnaa, Jaanki Sarv Vinaasi Re || 2 ||."
+      "Aashaa Trishnaa Vishay Vaasnaa, Jaanki Sarv Vinaasi Re || 2 ||"
     ],
     [
       "Ahantaa Mamtaa Chintaa Tyaage, Banaa Jo Ish Upaasi Re.",
       "Kahtaa Teun Brahmaatm Lakh, Paavat Sukh Avinaasi Re || De ||"
-    ],
-    [
-      "Gah"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Raamkali Bhajan || 18 || 30 ||.",
+    "साचा सो संन्यासी जानो साचा सो संन्यासी रे",
     "Saachaa So Sannyaasi Jaano Saachaa So Sannyaasi Re",
-    "साचा सो सननयासि जानो साचा सो सननयासि रे"
+    "राग रामकली भजन 18",
+    "Raag Raamkali Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 30,
+  "displayOrder": 18,
+  "overallOrder": 30,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 40",
+  "updatedAt": "2026-10-26"
 }

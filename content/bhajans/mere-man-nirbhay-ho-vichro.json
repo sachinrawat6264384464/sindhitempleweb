@@ -2,72 +2,132 @@
   "id": "bhajan-0386",
   "slug": "mere-man-nirbhay-ho-vichro",
   "categoryId": "raag-tilang",
-  "title": "मेरे मन निरभय हो विचरो",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मेरे मन निर्भय हो विचरो",
   "romanTitle": "Mere Man Nirbhay Ho Vichro",
-  "firstLine": "Mere Man Nirbhay Ho Vichro. Ranchak Bhay Naa Kisko Devo Naa Bhay Kisse Karo (Tek).",
+  "firstLine": "Mere Man Nirbhay Ho Vichro.",
+  "heading": "।। राग तिलंग भजन ।। २३ ।। ३८७॥।",
+  "tek": [
+    "मेरे मन निर्भय हो विचरो ।",
+    "रंचक भय ना किसको देवो ना भय किससे करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Nirbhay Ho Vichro.",
+    "Ranchak Bhay Naa Kisko Devo Naa Bhay Kisse Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कारण भय का भेद पछानो, भेद बुरा तुम सबसे मानो ।",
+        "ज्ञान से ताहिं हरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kaaran Bhay Kaa Bhed Pachhaano, Bhed Buraa Tum Sabse Maano.",
+        "Gyaan Se Taahin Haro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "एक ब्रह्मा सब माहिं समाना, सो तेरा है रूप सुजाना ।",
+        "अपने से न डरो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ek Brahmaa Sab Maahin Samaanaa, So Teraa Hai Rup Sujaanaa.",
+        "Apne Se Na Daro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "एक पिता प्रभु सबका जानो, सब जीवन को बालक मानो ।",
+        "भाई से भय न धरो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ek Pitaa Prabhu Sabkaa Jaano, Sab Jivan Ko Baalak Maano.",
+        "Bhaai Se Bhay Na Dharo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिहेँ भय नहिं राई, निर्भय जग में रहत सदाई ।",
+        "तां संग भय से तरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jihen Bhay Nahin Raai, Nirbhay Jag Men Rahat Sadaai.",
+        "Taan Sang Bhay Se Taro || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्र्ठद्"
+      ],
+      "romanLines": [
+        "Trthad"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन निरभय हो विचरो.",
-      "रनचक भय ना किसको देवो ना भय किससे करो (टेक)."
+      "कारण भय का भेद पछानो, भेद बुरा तुम सबसे मानो ।",
+      "ज्ञान से ताहिं हरो ॥१ ॥"
     ],
     [
-      "कारन भय का भेद पचहानो, भेद बुरा तुम सबसे मानो.",
-      "ज्ञान से ताहिन हरो.1 ||."
+      "एक ब्रह्मा सब माहिं समाना, सो तेरा है रूप सुजाना ।",
+      "अपने से न डरो ॥२ ॥"
     ],
     [
-      "ेक बरहम सब माहिन समाना, सो तेरा है रुप सुजाना.",
-      "पने से न दरो ||.2 ||"
+      "एक पिता प्रभु सबका जानो, सब जीवन को बालक मानो ।",
+      "भाई से भय न धरो ॥३ ॥"
     ],
     [
-      "ेक पिता प्रभु सबका जानो, सब जिवन को बालक मानो.",
-      "भाि से भय न धरो || 3 ||"
+      "कहे टेऊँ जिहेँ भय नहिं राई, निर्भय जग में रहत सदाई ।",
+      "तां संग भय से तरो ॥४ ॥"
     ],
     [
-      "कहे तेऊँ जिहेन भय नहिन राि, निरभय जग मेन रहत सदाि.",
-      "तान सनग भय से तरो || 4. ||."
-    ],
-    [
-      "तरथद"
+      "त्र्ठद्"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Nirbhay Ho Vichro.",
-      "Ranchak Bhay Naa Kisko Devo Naa Bhay Kisse Karo (Tek)."
-    ],
-    [
       "Kaaran Bhay Kaa Bhed Pachhaano, Bhed Buraa Tum Sabse Maano.",
-      "Jnyaan Se Taahin Haro.1 ||."
+      "Gyaan Se Taahin Haro || 1 ||"
     ],
     [
-      "Ek Brahma Sab Maahin Samaanaa, So Teraa Hai Rup Sujaanaa.",
-      "Apne Se N Daro ||.2 ||"
+      "Ek Brahmaa Sab Maahin Samaanaa, So Teraa Hai Rup Sujaanaa.",
+      "Apne Se Na Daro || 2 ||"
     ],
     [
       "Ek Pitaa Prabhu Sabkaa Jaano, Sab Jivan Ko Baalak Maano.",
-      "Bhaai Se Bhay N Dharo || 3 ||"
+      "Bhaai Se Bhay Na Dharo || 3 ||"
     ],
     [
       "Kahe Teun Jihen Bhay Nahin Raai, Nirbhay Jag Men Rahat Sadaai.",
-      "Taan Sang Bhay Se Taro || 4. ||."
+      "Taan Sang Bhay Se Taro || 4 ||"
     ],
     [
       "Trthad"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 23 || 387 ||.",
+    "मेरे मन निर्भय हो विचरो",
     "Mere Man Nirbhay Ho Vichro",
-    "मेरे मन निरभय हो विचरो"
+    "राग तिलंग भजन 23",
+    "Raag Tilang Bhajan 23"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 386,
+  "displayOrder": 23,
+  "overallOrder": 386,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 226",
+  "updatedAt": "2026-10-26"
 }

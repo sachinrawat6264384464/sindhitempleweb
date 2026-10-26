@@ -2,64 +2,115 @@
   "id": "bhajan-0031",
   "slug": "saahab-tere-dar-par-meri-hardam-tobhazaari-hai",
   "categoryId": "raag-raamkali",
-  "title": "साहब तेरे दर पर मेरि, हरदम तोभzारि है",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "साहब तेरे दर पर मेरी, हरदम तोबहज़ारी है",
   "romanTitle": "Saahab Tere Dar Par Meri, Hardam Tobhazaari Hai",
   "firstLine": "Saahab Tere Dar Par Meri, Hardam Tobhazaari Hai (Tek).",
+  "heading": "।। राग रामकली भजन ।। १९ ।। ३१।।",
+  "tek": [
+    "साहब तेरे दर पर मेरी, हरदम तोबहज़ारी है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saahab Tere Dar Par Meri, Hardam Tobhazaari Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साध संगति में सुनिया जब मैं, प्रभू न्यायकारी है ।",
+        "तब से मेरे हृदय भीतर, भय उपजी अति भारी है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Men Suniyaa Jab Main, Prabhu Nyaaykaari Hai.",
+        "Tab Se Mere Hriday Bhitar, Bhay Upji Ati Bhaari Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काम क्रोध मद मोह ममत में, मैंने उम्र गुज़ारी है ।",
+        "ना जानूं क्या होगा मुझ पर, यह चिन्ता हरवारी है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Mad Moh Mamat Men, Mainne Umr Guzaari Hai.",
+        "Naa Jaanun Kyaa Hogaa Mujh Par, Yah Chintaa Harvaari Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दावन पालक पाप हरन तुम, महिमा वेद उचारी है ।",
+        "ऐसा सुनकर शीघ्र मैंने, तेरी ओट निहारी है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Daavan Paalak Paap Haran Tum, Mahimaa Ved Uchaari Hai.",
+        "Aisaa Sunkar Shighr Mainne, Teri Ot Nihaari Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पहले के अध क्षमा कीजे, तुम हरि परम उदारी है ।",
+        "कहे टेऊँ अब सुमती दीजे, येही विनय हमारी है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Pahle Ke Adh Kshamaa Kije, Tum Hari Param Udaari Hai.",
+        "Kahe Teun Ab Sumti Dije, Yehi Vinay Hamaari Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साहब तेरे दर पर मेरि, हरदम तोभzारि है (टेक)."
+      "साध संगति में सुनिया जब मैं, प्रभू न्यायकारी है ।",
+      "तब से मेरे हृदय भीतर, भय उपजी अति भारी है ॥१ ॥"
     ],
     [
-      "साध सनगति मेन सुनिया जब मैं, प्रभु नयायकारि है.",
-      "तब से मेरे हरिदय भितर, भय ुपजि ति भारि है.1 ||."
+      "काम क्रोध मद मोह ममत में, मैंने उम्र गुज़ारी है ।",
+      "ना जानूं क्या होगा मुझ पर, यह चिन्ता हरवारी है ॥२ ॥"
     ],
     [
-      "काम करोध मद मोह ममत मेन, मैनने ुमर गुzारि है.",
-      "ना जानुन कया होगा मुझ पर, यह चिनता हरवारि है || 2 ||."
+      "दावन पालक पाप हरन तुम, महिमा वेद उचारी है ।",
+      "ऐसा सुनकर शीघ्र मैंने, तेरी ओट निहारी है ॥३ ॥"
     ],
     [
-      "दावन पालक पाप हरन तुम, महिमा वेद ुचारि है.",
-      "ैसा सुनकर शिघर मैनने, तेरि ोत निहारि है || 3 ||."
-    ],
-    [
-      "पहले के ध कशमा किजे, तुम हरि परम ुदारि है.",
-      "कहे तेऊँ ब सुमति दिजे, येहि विनय हमारि है || 4. ||."
+      "पहले के अध क्षमा कीजे, तुम हरि परम उदारी है ।",
+      "कहे टेऊँ अब सुमती दीजे, येही विनय हमारी है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saahab Tere Dar Par Meri, Hardam Tobhazaari Hai (Tek)."
-    ],
-    [
       "Saadh Sangti Men Suniyaa Jab Main, Prabhu Nyaaykaari Hai.",
-      "Tab Se Mere Hriday Bhitar, Bhay Upji Ati Bhaari Hai.1 ||."
+      "Tab Se Mere Hriday Bhitar, Bhay Upji Ati Bhaari Hai || 1 ||"
     ],
     [
       "Kaam Krodh Mad Moh Mamat Men, Mainne Umr Guzaari Hai.",
-      "Naa Jaanun Kyaa Hogaa Mujh Par, Yah Chintaa Harvaari Hai || 2 ||."
+      "Naa Jaanun Kyaa Hogaa Mujh Par, Yah Chintaa Harvaari Hai || 2 ||"
     ],
     [
       "Daavan Paalak Paap Haran Tum, Mahimaa Ved Uchaari Hai.",
-      "Aisaa Sunkar Shighr Mainne, Teri Ot Nihaari Hai || 3 ||."
+      "Aisaa Sunkar Shighr Mainne, Teri Ot Nihaari Hai || 3 ||"
     ],
     [
       "Pahle Ke Adh Kshamaa Kije, Tum Hari Param Udaari Hai.",
-      "Kahe Teun Ab Sumti Dije, Yehi Vinay Hamaari Hai || 4. ||."
+      "Kahe Teun Ab Sumti Dije, Yehi Vinay Hamaari Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 19 || 31 ||",
+    "साहब तेरे दर पर मेरी, हरदम तोबहज़ारी है",
     "Saahab Tere Dar Par Meri, Hardam Tobhazaari Hai",
-    "साहब तेरे दर पर मेरि, हरदम तोभzारि है"
+    "राग रामकली भजन 19",
+    "Raag Raamkali Bhajan 19"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 31,
+  "displayOrder": 19,
+  "overallOrder": 31,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 41",
+  "updatedAt": "2026-10-26"
 }

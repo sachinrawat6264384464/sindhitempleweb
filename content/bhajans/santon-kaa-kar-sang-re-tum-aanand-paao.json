@@ -1,53 +1,100 @@
 {
-  "id": "bhajan-0537",
+  "id": "bhajan-0535",
   "slug": "santon-kaa-kar-sang-re-tum-aanand-paao",
   "categoryId": "raag-sorath",
-  "title": "सनतोन का कर सनग, रे तुम आनंद पाो",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "सन्तों का कर संग, रे तुम आनन्द पाओ",
   "romanTitle": "Santon Kaa Kar Sang, Re Tum Aanand Paao",
   "firstLine": "Santon Kaa Kar Sang, Re Tum Aanand Paao (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ५ ।। ५३६।।",
+  "tek": [
+    "सन्तों का कर संग, रे तुम आनन्द पाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Kaa Kar Sang, Re Tum Aanand Paao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्त चरन रज शिर पर लाके, मेटो मस्तक अंग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sant Charan Raj Shir Par Laake, Meto Mastak Ang || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन मन धन से सेवा करके, लाओ आत्म रंग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Dhan Se Sevaa Karke, Laao Aatm Rang || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त वचन को श्रवण करके, भेद भ्रम कर भंग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Vachan Ko Shravan Karke, Bhed Bhram Kar Bhang || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सन्त कृपा से, नाओ ज्ञान की गंग ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sant Kripaa Se, Naao Gyaan Ki Gang || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन का कर सनग, रे तुम आनंद पाो (टेक)."
+      "सन्त चरन रज शिर पर लाके, मेटो मस्तक अंग ॥१ ॥"
     ],
     [
-      "संत चरण रज शिर पर लाके, मेतो मसतक नग.1 ||.",
-      "तन मन धन से सेवा करके, लाो ातम रनग || 2 ||."
+      "तन मन धन से सेवा करके, लाओ आत्म रंग ॥२ ॥"
     ],
     [
-      "संत वचन को शरवन करके, भेद भरम कर भनग || 3 ||."
+      "सन्त वचन को श्रवण करके, भेद भ्रम कर भंग ॥३ ॥"
     ],
     [
-      "कहता तेऊँ संत कृपा से, नाो ज्ञान कि गनग ||.4 ||."
+      "कहता टेऊँ सन्त कृपा से, नाओ ज्ञान की गंग ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Santon Kaa Kar Sang, Re Tum Aanand Paao (Tek)."
+      "Sant Charan Raj Shir Par Laake, Meto Mastak Ang || 1 ||"
     ],
     [
-      "Sant Charan Raj Shir Par Laake, Meto Mastak Ang.1 ||.",
-      "Tan Man Dhan Se Sevaa Karke, Laao Aatm Rang || 2 ||."
+      "Tan Man Dhan Se Sevaa Karke, Laao Aatm Rang || 2 ||"
     ],
     [
-      "Sant Vachan Ko Shravan Karke, Bhed Bhram Kar Bhang || 3 ||."
+      "Sant Vachan Ko Shravan Karke, Bhed Bhram Kar Bhang || 3 ||"
     ],
     [
-      "Kahtaa Teun Sant Kripaa Se, Naao Jnyaan Ki Gang ||.4 ||."
+      "Kahtaa Teun Sant Kripaa Se, Naao Gyaan Ki Gang || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Sorath Bhajan || 5 || 536 ||",
+    "सन्तों का कर संग, रे तुम आनन्द पाओ",
     "Santon Kaa Kar Sang, Re Tum Aanand Paao",
-    "सनतोन का कर सनग, रे तुम आनंद पाो"
+    "राग सोरठ भजन 5",
+    "Raag Sorath Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 537,
+  "displayOrder": 5,
+  "overallOrder": 535,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 294",
+  "updatedAt": "2026-10-26"
 }

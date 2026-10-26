@@ -1,73 +1,109 @@
 {
-  "id": "bhajan-0681",
+  "id": "bhajan-0679",
   "slug": "suniye-man-meraa-sumran-ki-kar-kaar-re",
   "categoryId": "raag-pahaari",
-  "title": "सुनिये मन मेरा सुमरन कि कर कार रे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "सुनिये मन मेरा सुमरण की कर कार रे",
   "romanTitle": "Suniye Man Meraa Sumran Ki Kar Kaar Re",
   "firstLine": "Suniye Man Meraa Sumran Ki Kar Kaar Re.",
+  "heading": "।। राग पहाड़ी भजन ।। ३२ ।। ६८०।।",
+  "tek": [
+    "सुनिये मन मेरा सुमरण की कर कार रे ।",
+    "गाफिल गुफ्लत में न गुज़ार रे ।",
+    "निशदिन हरि नाम ध्याये, पाओ मो क्ष द्वार रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suniye Man Meraa Sumran Ki Kar Kaar Re.",
+    "Gaaphil Guphlat Men Na Guzaar Re.",
+    "Nishdin Hari Naam Dhyaaye, Paao Mo Ksh Dvaar Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भोगों से तुम करे किनारो, अपने मन में उपशम धारो ।",
+        "भोग दुख का जान अआअगार रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhogon Se Tum Kare Kinaaro, Apne Man Men Upsham Dhaaro.",
+        "Bhog Dukh Kaa Jaan Aagaar Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिसको कहते मेरा मेरा, अन्त काल सो है नहिं तेरा ।",
+        "कर देखो दिल में विचार रे. ॥?) ।",
+        "यह जग जान मुसाफिरखाना, जीव सर्व तांमें महिमाना ।",
+        "रहना तुझको दिन दो चार रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jisko Kahte Meraa Meraa, Ant Kaal So Hai Nahin Teraa.",
+        "Kar Dekho Dil Men Vichaar Re || ?).",
+        "Yah Jag Jaan Musaaphirkhaanaa, Jiv Sarv Taanmen Mahimaanaa.",
+        "Rahnaa Tujhko Din Do Chaar Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ सुनले प्यारे, सद्‌गुरु के अब जाय द्वारे ।",
+        "अपना करले वेग उद्धार रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sunle Pyaare, Sad‌Guru Ke Ab Jaay Dvaare.",
+        "Apnaa Karle Veg Uddhaar Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनिये मन मेरा सुमरन कि कर कार रे.",
-      "गाफिल गुफलत मेन न गुzार रे."
+      "भोगों से तुम करे किनारो, अपने मन में उपशम धारो ।",
+      "भोग दुख का जान अआअगार रे ॥१ ॥"
     ],
     [
-      "निशदिन हरि नाम धयाये, पाो मो कश दवार रे (टेक)."
+      "जिसको कहते मेरा मेरा, अन्त काल सो है नहिं तेरा ।",
+      "कर देखो दिल में विचार रे. ॥?) ।",
+      "यह जग जान मुसाफिरखाना, जीव सर्व तांमें महिमाना ।",
+      "रहना तुझको दिन दो चार रे ॥३ ॥"
     ],
     [
-      "भोगोन से तुम करे किनारो, पने मन मेन ुपशम धारो.",
-      "भोग दुःख का जान ागार रे. || 1 ||."
-    ],
-    [
-      "जिसको कहते मेरा मेरा, नत काल सो है नहिन तेरा.",
-      "कर देखो दिल मेन विचार रे. ||?)."
-    ],
-    [
-      "यह जग जान मुसाफिरखाना, जिव सर्व तानमेन महिमाना.",
-      "रहना तुझको दीन दो चार रे. || 3 ||."
-    ],
-    [
-      "कहता तेऊँ सुनले पयारे, सद्गुरु के ब जाय दवारे.",
-      "पना करले वेग ुदधार रे. || 4. ||."
+      "कहता टेऊँ सुनले प्यारे, सद्‌गुरु के अब जाय द्वारे ।",
+      "अपना करले वेग उद्धार रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suniye Man Meraa Sumran Ki Kar Kaar Re.",
-      "Gaaphil Guphlat Men N Guzaar Re."
-    ],
-    [
-      "Nishdin Hari Naam Dhyaaye, Paao Mo Ksh Dvaar Re (Tek)."
-    ],
-    [
       "Bhogon Se Tum Kare Kinaaro, Apne Man Men Upsham Dhaaro.",
-      "Bhog Dukh Kaa Jaan Aagaar Re. || 1 ||."
+      "Bhog Dukh Kaa Jaan Aagaar Re || 1 ||"
     ],
     [
       "Jisko Kahte Meraa Meraa, Ant Kaal So Hai Nahin Teraa.",
-      "Kar Dekho Dil Men Vichaar Re. ||?)."
-    ],
-    [
+      "Kar Dekho Dil Men Vichaar Re || ?).",
       "Yah Jag Jaan Musaaphirkhaanaa, Jiv Sarv Taanmen Mahimaanaa.",
-      "Rahnaa Tujhko Din Do Chaar Re. || 3 ||."
+      "Rahnaa Tujhko Din Do Chaar Re || 3 ||"
     ],
     [
       "Kahtaa Teun Sunle Pyaare, Sad‌Guru Ke Ab Jaay Dvaare.",
-      "Apnaa Karle Veg Uddhaar Re. || 4. ||."
+      "Apnaa Karle Veg Uddhaar Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 32 || 680 ||",
+    "सुनिये मन मेरा सुमरण की कर कार रे",
     "Suniye Man Meraa Sumran Ki Kar Kaar Re",
-    "सुनिये मन मेरा सुमरन कि कर कार रे"
+    "राग पहाड़ी भजन 32",
+    "Raag Pahaari Bhajan 32"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 681,
+  "displayOrder": 32,
+  "overallOrder": 679,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 361",
+  "updatedAt": "2026-10-26"
 }

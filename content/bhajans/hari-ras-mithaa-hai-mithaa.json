@@ -1,49 +1,98 @@
 {
-  "id": "bhajan-0894",
+  "id": "bhajan-0892",
   "slug": "hari-ras-mithaa-hai-mithaa",
   "categoryId": "raag-jog",
-  "title": "हरि रस मिथा है मिथा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हरी रस मीठा है मीठा",
   "romanTitle": "Hari Ras Mithaa Hai Mithaa",
   "firstLine": "Hari Ras Mithaa Hai Mithaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ६४ ।। ८९४ ॥।",
+  "tek": [
+    "हरी रस मीठा है मीठा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Ras Mithaa Hai Mithaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो जन चाखे सोई जाने, और न जाने कोई ।",
+        "तीन लोक में रस ना ऐसा, सन्तों लागे ईठा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Jan Chaakhe Soi Jaane, Aur Na Jaane Koi.",
+        "Tin Lok Men Ras Naa Aisaa, Santon Laage Ithaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आन रसों को जबहीं त्यागे, तबहीं यह रस आते ।",
+        "रस छोड़े बिन रस ना आवे, निश्चय कर मैं डीठा ॥? ॥२ ॥",
+        "ब्रह्मा पीया विष्णू पीया, शंकर नारद पीया ।",
+        "सनकादिक जनकादिक पीया, देके विष रस पीठा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aan Rason Ko Jabhin Tyaage, Tabhin Yah Ras Aate.",
+        "Ras Chhore Bin Ras Naa Aave, Nishchay Kar Main Dithaa || ? || 2 ||",
+        "Brahmaa Piyaa Vishnu Piyaa, Shankar Naarad Piyaa.",
+        "Sankaadik Jankaadik Piyaa, Deke Vish Ras Pithaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पीने से यह रस ना घटता, ना कब फीका होवे ।",
+        "अदृभुत महिमा है इस रस की, कहते वेद अनीठा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Pine Se Yah Ras Naa Ghattaa, Naa Kab Phikaa Hove.",
+        "Adribhut Mahimaa Hai Is Ras Ki, Kahte Ved Anithaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जां पर सद्गुरु कृपा धारे, पीवे हरि रस सोई ।",
+        "कहे टेऊँ सो पीकर मैंने, तोड़ा जम का चीठा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Jaan Par Sadguru Kripaa Dhaare, Pive Hari Ras Soi.",
+        "Kahe Teun So Pikar Mainne, Toraa Jam Kaa Chithaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि रस मिथा है मिथा (टेक)."
+      "जो जन चाखे सोई जाने, और न जाने कोई ।",
+      "तीन लोक में रस ना ऐसा, सन्तों लागे ईठा ॥१ ॥"
     ],
     [
-      "जो जन चाखे सोि जाने, ौर न जाने कोि.",
-      "तिन लोक मेन रस ना ैसा, सनतोन लागे िथा.1 ||."
+      "आन रसों को जबहीं त्यागे, तबहीं यह रस आते ।",
+      "रस छोड़े बिन रस ना आवे, निश्चय कर मैं डीठा ॥? ॥२ ॥",
+      "ब्रह्मा पीया विष्णू पीया, शंकर नारद पीया ।",
+      "सनकादिक जनकादिक पीया, देके विष रस पीठा ॥३ ॥"
     ],
     [
-      "ान रसोन को जभिन तयागे, तभिन यह रस ाते.",
-      "रस चहोरे बिन रस ना ावे, निशचय कर मैं दिथा ||?2 ||"
+      "पीने से यह रस ना घटता, ना कब फीका होवे ।",
+      "अदृभुत महिमा है इस रस की, कहते वेद अनीठा ॥४ ॥"
     ],
     [
-      "बरहम पिया विशनु पिया, शनकर नारद पिया.",
-      "सनकादिक जनकादिक पिया, देके विश रस पिथा || 3 ||"
-    ],
-    [
-      "पिने से यह रस ना घतता, ना कब फिका होवे.",
-      "दरिभुत महिमा है िस रस कि, कहते वेद निथा || 4 ||"
-    ],
-    [
-      "जान पर सद्गुरु कृपा धारे, पिवे हरि रस सोि.",
-      "कहे तेऊँ सो पिकर मैनने, तोरा जम का चिथा || 5 ||"
+      "जां पर सद्गुरु कृपा धारे, पीवे हरि रस सोई ।",
+      "कहे टेऊँ सो पीकर मैंने, तोड़ा जम का चीठा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Ras Mithaa Hai Mithaa (Tek)."
-    ],
-    [
-      "Jo Jan Chaakhe Soi Jaane, Aur N Jaane Koi.",
-      "Tin Lok Men Ras Naa Aisaa, Santon Laage Ithaa.1 ||."
+      "Jo Jan Chaakhe Soi Jaane, Aur Na Jaane Koi.",
+      "Tin Lok Men Ras Naa Aisaa, Santon Laage Ithaa || 1 ||"
     ],
     [
       "Aan Rason Ko Jabhin Tyaage, Tabhin Yah Ras Aate.",
-      "Ras Chhore Bin Ras Naa Aave, Nishchay Kar Main Dithaa ||?2 ||"
-    ],
-    [
-      "Brahma Piyaa Vishnu Piyaa, Shankar Naarad Piyaa.",
+      "Ras Chhore Bin Ras Naa Aave, Nishchay Kar Main Dithaa || ? || 2 ||",
+      "Brahmaa Piyaa Vishnu Piyaa, Shankar Naarad Piyaa.",
       "Sankaadik Jankaadik Piyaa, Deke Vish Ras Pithaa || 3 ||"
     ],
     [
@@ -56,18 +105,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 64 || 894 ||.",
+    "हरी रस मीठा है मीठा",
     "Hari Ras Mithaa Hai Mithaa",
-    "हरि रस मिथा है मिथा"
+    "राग जोग भजन 64",
+    "Raag Jog Bhajan 64"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 894,
+  "displayOrder": 64,
+  "overallOrder": 892,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 471",
+  "updatedAt": "2026-10-26"
 }

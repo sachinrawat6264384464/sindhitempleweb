@@ -1,79 +1,115 @@
 {
-  "id": "bhajan-0824",
+  "id": "bhajan-0822",
   "slug": "jaago-jaago-santon-ke-sang-se-jaago",
   "categoryId": "raag-maanjh",
-  "title": "जागो जागो सनतोन के सनग से जागो",
-  "romanTitle": "Jaago Jaago Santon Ke Sang Se Jaago",
-  "firstLine": "Jaago Jaago Santon Ke Sang Se Jaago, Apne Svarup Men Laago (Tek).",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "जागो जागो सन्तों के संग से जागो,",
+  "romanTitle": "Jaago Jaago Santon Ke Sang Se Jaago,",
+  "firstLine": "Jaago Jaago Santon Ke Sang Se Jaago,",
+  "heading": "।। राग माँझ भजन ।। ११ ।। ८२४।।",
+  "tek": [
+    "जागो जागो सन्तों के संग से जागो,",
+    "अपने स्वरूप में लागो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaago Jaago Santon Ke Sang Se Jaago,",
+    "Apne Svarup Men Laago (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मनुष जनम दुर्लभ संसारा, देवों को भी है यह प्यारा,",
+        "इसमें सुमरो सत्‌ करतारा, पावों पूरन मोक्ष द्वारा,",
+        "भोग विषय से तुम भागों ॥१ ॥"
+      ],
+      "romanLines": [
+        "Manush Janam Durlabh Sansaaraa, Devon Ko Bhi Hai Yah Pyaaraa,",
+        "Ismen Sumro Sat‌ Kartaaraa, Paavon Puran Moksh Dvaaraa,",
+        "Bhog Vishay Se Tum Bhaagon || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अविद्या से तुम गाफिल होया, चौरासी लख जोनि में सोया,",
+        "स्वास अमोलक वृथा खोया, अन्त समय तुमने बहु रोया,",
+        "अब तो अविद्या त्यागो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Avidyaa Se Tum Gaaphil Hoyaa, Chauraasi Lakh Joni Men Soyaa,",
+        "Svaas Amolak Vrithaa Khoyaa, Ant Samay Tumne Bahu Royaa,",
+        "Ab To Avidyaa Tyaago || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन्तर की अखियां तुम खोलो, देखो आतम राम अमोलो,",
+        "कहे टेऊँ ना मन को डोलो, सनतों से मिल शिवो१हम्‌ बोलो,",
+        "उर में धर अनुरागों ॥ ।डे ॥ ।",
+        "गर्ग"
+      ],
+      "romanLines": [
+        "Antar Ki Akhiyaan Tum Kholo, Dekho Aatam Raam Amolo,",
+        "Kahe Teun Naa Man Ko Dolo, Santon Se Mil Shivo1Ham‌ Bolo,",
+        "Ur Men Dhar Anuraagon || De ||",
+        "Garg"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जागो जागो सनतोन के सनग से जागो,",
-      "पने सवरुप मेन लागो (टेक)."
+      "मनुष जनम दुर्लभ संसारा, देवों को भी है यह प्यारा,",
+      "इसमें सुमरो सत्‌ करतारा, पावों पूरन मोक्ष द्वारा,",
+      "भोग विषय से तुम भागों ॥१ ॥"
     ],
     [
-      "मनुश जनम दुरलभ सनसारा, देवोन को भि है यह पयारा,",
-      "िसमेन सुमरो सत‌ करतारा, पावोन पुरन मोक्ष दवारा,"
+      "अविद्या से तुम गाफिल होया, चौरासी लख जोनि में सोया,",
+      "स्वास अमोलक वृथा खोया, अन्त समय तुमने बहु रोया,",
+      "अब तो अविद्या त्यागो ॥२ ॥"
     ],
     [
-      "भोग विशय से तुम भागोन || 1 ||."
-    ],
-    [
-      "विदया से तुम गाफिल होया, चौरासि लख जोनि मेन सोया,",
-      "सवास मोलक वरिथा खोया, नत समय तुमने बहु रोया,"
-    ],
-    [
-      "ब तो विदया तयागो || 2 ||."
-    ],
-    [
-      "नतर कि खियान तुम खोलो, देखो ातम राम मोलो,",
-      "कहे तेऊँ ना मन को दोलो, सनतोन से मिल शिवोहम‌ बोलो,"
-    ],
-    [
-      "ुर मेन धर नुरागोन ||.दे ||.",
-      "गरग"
+      "अन्तर की अखियां तुम खोलो, देखो आतम राम अमोलो,",
+      "कहे टेऊँ ना मन को डोलो, सनतों से मिल शिवो१हम्‌ बोलो,",
+      "उर में धर अनुरागों ॥ ।डे ॥ ।",
+      "गर्ग"
     ]
   ],
   "romanLyrics": [
     [
-      "Jaago Jaago Santon Ke Sang Se Jaago,",
-      "Apne Svarup Men Laago (Tek)."
-    ],
-    [
       "Manush Janam Durlabh Sansaaraa, Devon Ko Bhi Hai Yah Pyaaraa,",
-      "Ismen Sumro Sat‌ Kartaaraa, Paavon Puran Moksh Dvaaraa,"
-    ],
-    [
-      "Bhog Vishay Se Tum Bhaagon || 1 ||."
+      "Ismen Sumro Sat‌ Kartaaraa, Paavon Puran Moksh Dvaaraa,",
+      "Bhog Vishay Se Tum Bhaagon || 1 ||"
     ],
     [
       "Avidyaa Se Tum Gaaphil Hoyaa, Chauraasi Lakh Joni Men Soyaa,",
-      "Svaas Amolak Vrithaa Khoyaa, Ant Samay Tumne Bahu Royaa,"
-    ],
-    [
-      "Ab To Avidyaa Tyaago || 2 ||."
+      "Svaas Amolak Vrithaa Khoyaa, Ant Samay Tumne Bahu Royaa,",
+      "Ab To Avidyaa Tyaago || 2 ||"
     ],
     [
       "Antar Ki Akhiyaan Tum Kholo, Dekho Aatam Raam Amolo,",
-      "Kahe Teun Naa Man Ko Dolo, Santon Se Mil Shivo$Ham‌ Bolo,"
-    ],
-    [
-      "Ur Men Dhar Anuraagon ||.De ||.",
+      "Kahe Teun Naa Man Ko Dolo, Santon Se Mil Shivo1Ham‌ Bolo,",
+      "Ur Men Dhar Anuraagon || De ||",
       "Garg"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Maanjh Bhajan || 11 || 824 ||",
-    "Jaago Jaago Santon Ke Sang Se Jaago",
-    "जागो जागो सनतोन के सनग से जागो"
+    "जागो जागो सन्तों के संग से जागो,",
+    "Jaago Jaago Santon Ke Sang Se Jaago,",
+    "राग मांझ भजन 11",
+    "Raag Maanjh Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 824,
+  "displayOrder": 11,
+  "overallOrder": 822,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 436",
+  "updatedAt": "2026-10-26"
 }

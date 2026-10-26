@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0867",
+  "id": "bhajan-0865",
   "slug": "daataa-hai-ik-raam-sarv-jivon-ko-devnahaaraa",
   "categoryId": "raag-jog",
-  "title": "दाता है िक राम, सर्व जिवोन को देवनहारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "दाता है इक राम, सर्व जीवों को देवनहारा",
   "romanTitle": "Daataa Hai Ik Raam, Sarv Jivon Ko Devnahaaraa",
   "firstLine": "Daataa Hai Ik Raam, Sarv Jivon Ko Devnahaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ३७ ।। ८६७।।",
+  "tek": [
+    "दाता है इक राम, सर्व जीवों को देवनहारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Daataa Hai Ik Raam, Sarv Jivon Ko Devnahaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो कछु मंगना मांगो हरि से, भूल न मंगना दूजे दर से ।",
+        "प्रभू पूरन काम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Kachhu Mangnaa Maango Hari Se, Bhul Na Mangnaa Duje Dar Se.",
+        "Prabhu Puran Kaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व जगत का प्रभू दाता, इतना दे वह अन्त न आता ।",
+        "देता आठों याम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Jagat Kaa Prabhu Daataa, Itnaa De Vah Ant Na Aataa.",
+        "Detaa Aathon Yaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "परमेश्वर के अखुट खज़ाने, बिन मांगे दे मन की जाने ।",
+        "सर्वज्ञ है सुखधाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Parmeshvar Ke Akhut Khazaane, Bin Maange De Man Ki Jaane.",
+        "Sarvajny Hai Sukhdhaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तज दूजी आसा, सुमर हरी को श्वासों श्वासा ।",
+        "अलख पुरुष अभिराम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taj Duji Aasaa, Sumar Hari Ko Shvaason Shvaasaa.",
+        "Alakh Purush Abhiraam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दाता है िक राम, सर्व जिवोन को देवनहारा (टेक)."
+      "जो कछु मंगना मांगो हरि से, भूल न मंगना दूजे दर से ।",
+      "प्रभू पूरन काम ॥१ ॥"
     ],
     [
-      "जो कचहु मनगना मानगो हरि से, भुल न मनगना दुजे दर से.",
-      "प्रभु पुरन काम. ||.1. ||."
+      "सर्व जगत का प्रभू दाता, इतना दे वह अन्त न आता ।",
+      "देता आठों याम ॥२ ॥"
     ],
     [
-      "सर्व जगत का प्रभु दाता, ितना दे वह नत न ाता.",
-      "देता ाथोन याम ||.2 ||"
+      "परमेश्वर के अखुट खज़ाने, बिन मांगे दे मन की जाने ।",
+      "सर्वज्ञ है सुखधाम ॥३ ॥"
     ],
     [
-      "परमेशवर के खुत खzाने, बिन मानगे दे मन कि जाने.",
-      "सरवजनय है सुखधाम || 3 ||"
-    ],
-    [
-      "कहे तेऊँ तज दुजि ासा, सुमर हरि को शवासोन शवासा.",
-      "लख पुरुश भिराम || 4 ||"
+      "कहे टेऊँ तज दूजी आसा, सुमर हरी को श्वासों श्वासा ।",
+      "अलख पुरुष अभिराम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Daataa Hai Ik Raam, Sarv Jivon Ko Devnahaaraa (Tek)."
+      "Jo Kachhu Mangnaa Maango Hari Se, Bhul Na Mangnaa Duje Dar Se.",
+      "Prabhu Puran Kaam || 1 ||"
     ],
     [
-      "Jo Kachhu Mangnaa Maango Hari Se, Bhul N Mangnaa Duje Dar Se.",
-      "Prabhu Puran Kaam. ||.1. ||."
-    ],
-    [
-      "Sarv Jagat Kaa Prabhu Daataa, Itnaa De Vah Ant N Aataa.",
-      "Detaa Aathon Yaam ||.2 ||"
+      "Sarv Jagat Kaa Prabhu Daataa, Itnaa De Vah Ant Na Aataa.",
+      "Detaa Aathon Yaam || 2 ||"
     ],
     [
       "Parmeshvar Ke Akhut Khazaane, Bin Maange De Man Ki Jaane.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 37 || 867 ||",
+    "दाता है इक राम, सर्व जीवों को देवनहारा",
     "Daataa Hai Ik Raam, Sarv Jivon Ko Devnahaaraa",
-    "दाता है िक राम, सर्व जिवोन को देवनहारा"
+    "राग जोग भजन 37",
+    "Raag Jog Bhajan 37"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 867,
+  "displayOrder": 37,
+  "overallOrder": 865,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 457",
+  "updatedAt": "2026-10-26"
 }

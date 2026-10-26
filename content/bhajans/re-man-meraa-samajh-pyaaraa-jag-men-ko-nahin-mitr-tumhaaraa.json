@@ -1,65 +1,105 @@
 {
-  "id": "bhajan-0835",
+  "id": "bhajan-0833",
   "slug": "re-man-meraa-samajh-pyaaraa-jag-men-ko-nahin-mitr-tumhaaraa",
   "categoryId": "raag-jog",
-  "title": "रे मन मेरा समझ पयारा, जग मेन को नहिन मितर तुमहारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "रे मन मेरा समझ प्यारा, जग में को नहिं मित्र तुम्हारा",
   "romanTitle": "Re Man Meraa Samajh Pyaaraa, Jag Men Ko Nahin Mitr Tumhaaraa",
   "firstLine": "Re Man Meraa Samajh Pyaaraa, Jag Men Ko Nahin Mitr Tumhaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ५ ।। ८३५।।",
+  "tek": [
+    "रे मन मेरा समझ प्यारा, जग में को नहिं मित्र तुम्हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Meraa Samajh Pyaaraa, Jag Men Ko Nahin Mitr Tumhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वार्थ से सबहीं गल लावत, बिन स्वार्थ को निकट न आवत ।",
+        "मतलब का है सब संसारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Se Sabhin Gal Laavat, Bin Svaarth Ko Nikat Na Aavat.",
+        "Matlab Kaa Hai Sab Sansaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काम दाम हित राखे नाता, तां बिन कोय न किसको भाता ।",
+        "ऐसा है जग का व्यवहारा ॥? ॥",
+        "जिन कारण तुम पाप कमाते, देश छोड़ परदेशहिं जाते ।",
+        "अन्त समय वे करत किनारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaam Daam Hit Raakhe Naataa, Taan Bin Koy Na Kisko Bhaataa.",
+        "Aisaa Hai Jag Kaa Vyavhaaraa || ? ||",
+        "Jin Kaaran Tum Paap Kamaate, Desh Chhor Pardeshhin Jaate.",
+        "Ant Samay Ve Karat Kinaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ जग प्रीती तजिये, भाव भक्ति से हरि को भजिये ।",
+        "इस विधि तेरा होय उद्धारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jag Priti Tajiye, Bhaav Bhakti Se Hari Ko Bhajiye.",
+        "Is Vidhi Teraa Hoy Uddhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरा समझ पयारा, जग मेन को नहिन मितर तुमहारा (टेक)."
+      "स्वार्थ से सबहीं गल लावत, बिन स्वार्थ को निकट न आवत ।",
+      "मतलब का है सब संसारा ॥१ ॥"
     ],
     [
-      "सवारथ से सभिन गल लावत, बिन सवारथ को निकत न ावत.",
-      "मतलब का है सब सनसारा.1 ||."
+      "काम दाम हित राखे नाता, तां बिन कोय न किसको भाता ।",
+      "ऐसा है जग का व्यवहारा ॥? ॥",
+      "जिन कारण तुम पाप कमाते, देश छोड़ परदेशहिं जाते ।",
+      "अन्त समय वे करत किनारा ॥३ ॥"
     ],
     [
-      "काम दाम हित राखे नाता, तान बिन कोय न किसको भाता.",
-      "ैसा है जग का वयवहारा ||? ||"
-    ],
-    [
-      "जिन कारन तुम पाप कमाते, देश चहोर परदेशहिन जाते.",
-      "नत समय वे करत किनारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जग परिति तजिये, भाव भक्ति से हरि को भजिये.",
-      "िस विधि तेरा होय ुदधारा.4 ||."
+      "कहे टेऊँ जग प्रीती तजिये, भाव भक्ति से हरि को भजिये ।",
+      "इस विधि तेरा होय उद्धारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Meraa Samajh Pyaaraa, Jag Men Ko Nahin Mitr Tumhaaraa (Tek)."
+      "Svaarth Se Sabhin Gal Laavat, Bin Svaarth Ko Nikat Na Aavat.",
+      "Matlab Kaa Hai Sab Sansaaraa || 1 ||"
     ],
     [
-      "Svaarth Se Sabhin Gal Laavat, Bin Svaarth Ko Nikat N Aavat.",
-      "Matlab Kaa Hai Sab Sansaaraa.1 ||."
-    ],
-    [
-      "Kaam Daam Hit Raakhe Naataa, Taan Bin Koy N Kisko Bhaataa.",
-      "Aisaa Hai Jag Kaa Vyavhaaraa ||? ||"
-    ],
-    [
+      "Kaam Daam Hit Raakhe Naataa, Taan Bin Koy Na Kisko Bhaataa.",
+      "Aisaa Hai Jag Kaa Vyavhaaraa || ? ||",
       "Jin Kaaran Tum Paap Kamaate, Desh Chhor Pardeshhin Jaate.",
       "Ant Samay Ve Karat Kinaaraa || 3 ||"
     ],
     [
       "Kahe Teun Jag Priti Tajiye, Bhaav Bhakti Se Hari Ko Bhajiye.",
-      "Is Vidhi Teraa Hoy Uddhaaraa.4 ||."
+      "Is Vidhi Teraa Hoy Uddhaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 5 || 835 ||",
+    "रे मन मेरा समझ प्यारा, जग में को नहिं मित्र तुम्हारा",
     "Re Man Meraa Samajh Pyaaraa, Jag Men Ko Nahin Mitr Tumhaaraa",
-    "रे मन मेरा समझ पयारा, जग मेन को नहिन मितर तुमहारा"
+    "राग जोग भजन 5",
+    "Raag Jog Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 835,
+  "displayOrder": 5,
+  "overallOrder": 833,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 442",
+  "updatedAt": "2026-10-26"
 }

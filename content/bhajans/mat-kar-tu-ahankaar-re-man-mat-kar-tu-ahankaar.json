@@ -1,55 +1,115 @@
 {
-  "id": "bhajan-0575",
+  "id": "bhajan-0573",
   "slug": "mat-kar-tu-ahankaar-re-man-mat-kar-tu-ahankaar",
   "categoryId": "raag-maaru",
-  "title": "मत कर तु हनकार, रे मन मत कर तु हनकार",
+  "categoryName": "राग मारू",
+  "romanCategoryName": "Raag Maaru",
+  "title": "मत कर तूं अहंकार, रे मन मत कर तूं अहंकार",
   "romanTitle": "Mat Kar Tu Ahankaar, Re Man Mat Kar Tu Ahankaar",
   "firstLine": "Mat Kar Tu Ahankaar, Re Man Mat Kar Tu Ahankaar (Tek).",
+  "heading": "।। राग मारू भजन ।। ३ ।। ५७४॥।",
+  "tek": [
+    "मत कर तूं अहंकार, रे मन मत कर तूं अहंकार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mat Kar Tu Ahankaar, Re Man Mat Kar Tu Ahankaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दो दिन के तुम जीवन कारण, कितना किया पसार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Do Din Ke Tum Jivan Kaaran, Kitnaa Kiyaa Pasaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काल महा बलवान रिपू है, सबका करत संहार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaal Mahaa Balvaan Ripu Hai, Sabkaa Karat Sanhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मात पिता सुत दारा चलसी, चलसी सब परिवार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Daaraa Chalsi, Chalsi Sab Parivaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अजा चलसी प्रजा चलसी, चलसी सब संसार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ajaa Chalsi Prajaa Chalsi, Chalsi Sab Sansaar || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ इक अचल आतमा, तांसे करले प्यार ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ik Achal Aatmaa, Taanse Karle Pyaar || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मत कर तु हनकार, रे मन मत कर तु हनकार (टेक)."
+      "दो दिन के तुम जीवन कारण, कितना किया पसार ॥१ ॥"
     ],
     [
-      "दो दीन के तुम जिवन कारन, कितना किया पसार.1 ||.",
-      "काल महा बलवान रिपु है, सबका करत सनहार || 2 ||."
+      "काल महा बलवान रिपू है, सबका करत संहार ॥२ ॥"
     ],
     [
-      "मात पिता सुत दारा चलसि, चलसि सब परिवार ||.3 ||.",
-      "जा चलसि परजा चलसि, चलसि सब सनसार ||.4 ||."
+      "मात पिता सुत दारा चलसी, चलसी सब परिवार ॥३ ॥"
     ],
     [
-      "कहे तेऊँ िक चल ातमा, तानसे करले पयार || 5 ||"
+      "अजा चलसी प्रजा चलसी, चलसी सब संसार ॥४ ॥"
+    ],
+    [
+      "कहे टेऊँ इक अचल आतमा, तांसे करले प्यार ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mat Kar Tu Ahankaar, Re Man Mat Kar Tu Ahankaar (Tek)."
+      "Do Din Ke Tum Jivan Kaaran, Kitnaa Kiyaa Pasaar || 1 ||"
     ],
     [
-      "Do Din Ke Tum Jivan Kaaran, Kitnaa Kiyaa Pasaar.1 ||.",
-      "Kaal Mahaa Balvaan Ripu Hai, Sabkaa Karat Sanhaar || 2 ||."
+      "Kaal Mahaa Balvaan Ripu Hai, Sabkaa Karat Sanhaar || 2 ||"
     ],
     [
-      "Maat Pitaa Sut Daaraa Chalsi, Chalsi Sab Parivaar ||.3 ||.",
-      "Ajaa Chalsi Prajaa Chalsi, Chalsi Sab Sansaar ||.4 ||."
+      "Maat Pitaa Sut Daaraa Chalsi, Chalsi Sab Parivaar || 3 ||"
+    ],
+    [
+      "Ajaa Chalsi Prajaa Chalsi, Chalsi Sab Sansaar || 4 ||"
     ],
     [
       "Kahe Teun Ik Achal Aatmaa, Taanse Karle Pyaar || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Maaru Bhajan || 3 || 574 ||.",
+    "मत कर तूं अहंकार, रे मन मत कर तूं अहंकार",
     "Mat Kar Tu Ahankaar, Re Man Mat Kar Tu Ahankaar",
-    "मत कर तु हनकार, रे मन मत कर तु हनकार"
+    "राग मारू भजन 3",
+    "Raag Maaru Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "maaru",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maaru",
+    "bhajan"
   ],
-  "displayOrder": 575,
+  "displayOrder": 3,
+  "overallOrder": 573,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 312",
+  "updatedAt": "2026-10-26"
 }

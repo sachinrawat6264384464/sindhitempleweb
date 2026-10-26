@@ -2,53 +2,88 @@
   "id": "bhajan-0380",
   "slug": "satguru-saajan-mainne-paayaa-janm-janm-kaa-paap-mitaayaa",
   "categoryId": "raag-tilang",
-  "title": "सतगुरु साजन मैनने पाया, जनम जनम का पाप मिताया",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सत्‌गुरु साजन मैंने पाया , जन्म जन्म का पाप मिटाया",
   "romanTitle": "Sat‌Guru Saajan Mainne Paayaa, Janm Janm Kaa Paap Mitaayaa",
   "firstLine": "Sat‌Guru Saajan Mainne Paayaa, Janm Janm Kaa Paap Mitaayaa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १७ ।। ३८१॥।",
+  "tek": [
+    "सत्‌गुरु साजन मैंने पाया , जन्म जन्म का पाप मिटाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Saajan Mainne Paayaa, Janm Janm Kaa Paap Mitaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु की वाणी अमृत खाणी, गावत गावत अति हर्षाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Vaani Amrit Khaani, Gaavat Gaavat Ati Harshaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम प्याला गुरु का पीकर, मौज बहर में सहज समाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Pyaalaa Guru Kaa Pikar, Mauj Bahar Men Sahaj Samaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु का शब्द सुमर दिन राती, हृदय अनाहत नाद बजाया ॥ डे ॥",
+        "कहे टेऊँ कर गुरु की सेवा, तन मन का सब दूख गंवाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Shabd Sumar Din Raati, Hriday Anaahat Naad Bajaayaa || De ||",
+        "Kahe Teun Kar Guru Ki Sevaa, Tan Man Kaa Sab Dukh Ganvaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु साजन मैनने पाया, जनम जनम का पाप मिताया (टेक)."
+      "गुरु की वाणी अमृत खाणी, गावत गावत अति हर्षाया ॥१ ॥"
     ],
     [
-      "गुरु कि वाणी अमृत खानि, गावत गावत ति हरशाया || 1 ||"
+      "प्रेम प्याला गुरु का पीकर, मौज बहर में सहज समाया ॥२ ॥"
     ],
     [
-      "प्रेम पयाला गुरु का पिकर, मौज बहर मेन सहज समाया || 2 ||."
-    ],
-    [
-      "गुरु का शबद सुमर दीन राति, हरिदय नाहत नाद बजाया || दे ||",
-      "कहे तेऊँ कर गुरु कि सेवा, तन मन का सब दुःख गनवाया.. 4 ||"
+      "गुरु का शब्द सुमर दिन राती, हृदय अनाहत नाद बजाया ॥ डे ॥",
+      "कहे टेऊँ कर गुरु की सेवा, तन मन का सब दूख गंवाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Saajan Mainne Paayaa, Janm Janm Kaa Paap Mitaayaa (Tek)."
-    ],
-    [
       "Guru Ki Vaani Amrit Khaani, Gaavat Gaavat Ati Harshaayaa || 1 ||"
     ],
     [
-      "Prem Pyaalaa Guru Kaa Pikar, Mauj Bahar Men Sahaj Samaayaa || 2 ||."
+      "Prem Pyaalaa Guru Kaa Pikar, Mauj Bahar Men Sahaj Samaayaa || 2 ||"
     ],
     [
       "Guru Kaa Shabd Sumar Din Raati, Hriday Anaahat Naad Bajaayaa || De ||",
-      "Kahe Teun Kar Guru Ki Sevaa, Tan Man Kaa Sab Dukh Ganvaayaa.. 4 ||"
+      "Kahe Teun Kar Guru Ki Sevaa, Tan Man Kaa Sab Dukh Ganvaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 17 || 381 ||.",
+    "सत्‌गुरु साजन मैंने पाया , जन्म जन्म का पाप मिटाया",
     "Sat‌Guru Saajan Mainne Paayaa, Janm Janm Kaa Paap Mitaayaa",
-    "सतगुरु साजन मैनने पाया, जनम जनम का पाप मिताया"
+    "राग तिलंग भजन 17",
+    "Raag Tilang Bhajan 17"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 380,
+  "displayOrder": 17,
+  "overallOrder": 380,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 224",
+  "updatedAt": "2026-10-26"
 }

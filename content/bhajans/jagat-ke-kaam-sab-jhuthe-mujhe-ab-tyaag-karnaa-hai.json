@@ -2,67 +2,117 @@
   "id": "bhajan-0374",
   "slug": "jagat-ke-kaam-sab-jhuthe-mujhe-ab-tyaag-karnaa-hai",
   "categoryId": "raag-tilang",
-  "title": "जगत के काम सब झुथे, मुझे ब तयाग करना है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "जगत के काम सब झूठे, मुझे अब त्याग करना है",
   "romanTitle": "Jagat Ke Kaam Sab Jhuthe, Mujhe Ab Tyaag Karnaa Hai",
-  "firstLine": "Jagat Ke Kaam Sab Jhuthe, Mujhe Ab Tyaag Karnaa Hai. Sachchaa Ik Naam Ishvar Kaa, Sadaa Man Maahin Dharnaa Hai (Tek).",
+  "firstLine": "Jagat Ke Kaam Sab Jhuthe, Mujhe Ab Tyaag Karnaa Hai.",
+  "heading": "।। राग तिलंग भजन ।। ११ ।। ३७५।।",
+  "tek": [
+    "जगत के काम सब झूठे, मुझे अब त्याग करना है ।",
+    "सच्चा इक नाम ईश्वर का, सदा मन माहिं धरना है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jagat Ke Kaam Sab Jhuthe, Mujhe Ab Tyaag Karnaa Hai.",
+    "Sachchaa Ik Naam Ishvar Kaa, Sadaa Man Maahin Dharnaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तजे परिवार सुत दारा, महल मन्दिर रत्न मोती ।",
+        "धरे शिर भेष वैरागी, सदा मन साथ लड़ना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Taje Parivaar Sut Daaraa, Mahal Mandir Ratn Moti.",
+        "Dhare Shir Bhesh Vairaagi, Sadaa Man Saath Larnaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "विषय की वासना त्यागे, रही गंगा किनारे पर ।",
+        "शब्द गुरुदेव का सुमरे, जगत का मोह जरना है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vishay Ki Vaasnaa Tyaage, Rahi Gangaa Kinaare Par.",
+        "Shabd Gurudev Kaa Sumre, Jagat Kaa Moh Jarnaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तजे संग मूण्ठ पुरुषों का, रही सत्संग में हरदम ।",
+        "सुनी उपदेश सनतों का, भ्रम अरु भेद हरना है ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Taje Sang Munth Purushon Kaa, Rahi Satsang Men Hardam.",
+        "Suni Updesh Santon Kaa, Bhram Aru Bhed Harnaa Hai || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ लजा तोड़े, निसंग निर्वार हो सबसे ।",
+        "चढ़ी गुरु ज्ञान के बेड़े, जगत से पार तरना है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Lajaa Tore, Nisang Nirvaar Ho Sabse.",
+        "Charhi Guru Gyaan Ke Bere, Jagat Se Paar Tarnaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जगत के काम सब झुथे, मुझे ब तयाग करना है.",
-      "सचचा िक नाम िशवर का, सदा मन माहिन धरना है (टेक)."
+      "तजे परिवार सुत दारा, महल मन्दिर रत्न मोती ।",
+      "धरे शिर भेष वैरागी, सदा मन साथ लड़ना है ॥१ ॥"
     ],
     [
-      "तजे परिवार सुत दारा, महल मनदिर रतन मोति.",
-      "धरे शिर भेश वैरागि, सदा मन साथ लरना है || 1. ||."
+      "विषय की वासना त्यागे, रही गंगा किनारे पर ।",
+      "शब्द गुरुदेव का सुमरे, जगत का मोह जरना है ॥२ ॥"
     ],
     [
-      "विशय कि वासना तयागे, रहि गनगा किनारे पर.",
-      "शबद गुरुदेव का सुमरे, जगत का मोह जरना है || 2 ||."
+      "तजे संग मूण्ठ पुरुषों का, रही सत्संग में हरदम ।",
+      "सुनी उपदेश सनतों का, भ्रम अरु भेद हरना है ॥ ।३े ॥ ।"
     ],
     [
-      "तजे सनग मुनथ पुरुशोन का, रहि सत्संग मेन हरदम.",
-      "सुनि ुपदेश सनतोन का, भरम रु भेद हरना है ||.3े ||."
-    ],
-    [
-      "कहे तेऊँ लजा तोरे, निसनग निरवार हो सबसे.",
-      "चरहि गुरु ज्ञान के बेरे, जगत से पार तरना है || 4. ||."
+      "कहे टेऊँ लजा तोड़े, निसंग निर्वार हो सबसे ।",
+      "चढ़ी गुरु ज्ञान के बेड़े, जगत से पार तरना है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jagat Ke Kaam Sab Jhuthe, Mujhe Ab Tyaag Karnaa Hai.",
-      "Sachchaa Ik Naam Ishvar Kaa, Sadaa Man Maahin Dharnaa Hai (Tek)."
-    ],
-    [
       "Taje Parivaar Sut Daaraa, Mahal Mandir Ratn Moti.",
-      "Dhare Shir Bhesh Vairaagi, Sadaa Man Saath Larnaa Hai || 1. ||."
+      "Dhare Shir Bhesh Vairaagi, Sadaa Man Saath Larnaa Hai || 1 ||"
     ],
     [
       "Vishay Ki Vaasnaa Tyaage, Rahi Gangaa Kinaare Par.",
-      "Shabd Gurudev Kaa Sumre, Jagat Kaa Moh Jarnaa Hai || 2 ||."
+      "Shabd Gurudev Kaa Sumre, Jagat Kaa Moh Jarnaa Hai || 2 ||"
     ],
     [
       "Taje Sang Munth Purushon Kaa, Rahi Satsang Men Hardam.",
-      "Suni Updesh Santon Kaa, Bhram Aru Bhed Harnaa Hai ||.3E ||."
+      "Suni Updesh Santon Kaa, Bhram Aru Bhed Harnaa Hai || 3E ||"
     ],
     [
       "Kahe Teun Lajaa Tore, Nisang Nirvaar Ho Sabse.",
-      "Charhi Guru Jnyaan Ke Bere, Jagat Se Paar Tarnaa Hai || 4. ||."
+      "Charhi Guru Gyaan Ke Bere, Jagat Se Paar Tarnaa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 11 || 375 ||",
+    "जगत के काम सब झूठे, मुझे अब त्याग करना है",
     "Jagat Ke Kaam Sab Jhuthe, Mujhe Ab Tyaag Karnaa Hai",
-    "जगत के काम सब झुथे, मुझे ब तयाग करना है"
+    "राग तिलंग भजन 11",
+    "Raag Tilang Bhajan 11"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 374,
+  "displayOrder": 11,
+  "overallOrder": 374,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 221",
+  "updatedAt": "2026-10-26"
 }

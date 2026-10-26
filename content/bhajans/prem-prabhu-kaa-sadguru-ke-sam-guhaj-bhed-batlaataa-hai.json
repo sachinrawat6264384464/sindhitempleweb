@@ -1,59 +1,100 @@
 {
-  "id": "bhajan-0599",
+  "id": "bhajan-0597",
   "slug": "prem-prabhu-kaa-sadguru-ke-sam-guhaj-bhed-batlaataa-hai",
   "categoryId": "raag-purab",
-  "title": "प्रेम प्रभु का सद्गुरु के सम, गुहज भेद बतलाता है",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "प्रेम प्रभू का सद्‌गुरु के सम, गुहज भेद बतलाता है",
   "romanTitle": "Prem Prabhu Kaa Sad‌Guru Ke Sam, Guhaj Bhed Batlaataa Hai",
   "firstLine": "Prem Prabhu Kaa Sad‌Guru Ke Sam, Guhaj Bhed Batlaataa Hai (Tek).",
+  "heading": "।। राग पूरब भजन ।। ७ ।। ५९८।।",
+  "tek": [
+    "प्रेम प्रभू का सद्‌गुरु के सम, गुहज भेद बतलाता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Prabhu Kaa Sad‌Guru Ke Sam, Guhaj Bhed Batlaataa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिसी बात को वेद न जानत, तिसको प्रेम जनाता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jisi Baat Ko Ved Na Jaanat, Tisko Prem Janaataa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस मग को रवि शशि ना देखत, सो मग प्रेम दिखाता है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jis Mag Ko Ravi Shashi Naa Dekhat, So Mag Prem Dikhaataa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन बुद्धि वाणी जहां न पहुंचे, प्रेम तहां पहुंचाता है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man Buddhi Vaani Jahaan Na Pahunche, Prem Tahaan Pahunchaataa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह प्रेम पदार्थ, भाग्यवान को पाता है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Prem Padaarth, Bhaagyavaan Ko Paataa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम प्रभु का सद्गुरु के सम, गुहज भेद बतलाता है (टेक)."
+      "जिसी बात को वेद न जानत, तिसको प्रेम जनाता है ॥१ ॥"
     ],
     [
-      "जिसि बात को वेद न जानत, तिसको प्रेम जनाता है || 1 ||."
+      "जिस मग को रवि शशि ना देखत, सो मग प्रेम दिखाता है ॥२ ॥"
     ],
     [
-      "जिस मग को रवि शशि ना देखत, सो मग प्रेम दिखाता है || 2 ||"
+      "मन बुद्धि वाणी जहां न पहुंचे, प्रेम तहां पहुंचाता है ॥३ ॥"
     ],
     [
-      "मन बुदधि वाणी जहान न पहुनचे, प्रेम तहान पहुनचाता है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ यह प्रेम पदारथ, भागयवान को पाता है || 4 ||."
+      "कहे टेऊँ यह प्रेम पदार्थ, भाग्यवान को पाता है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prem Prabhu Kaa Sad‌Guru Ke Sam, Guhaj Bhed Batlaataa Hai (Tek)."
-    ],
-    [
-      "Jisi Baat Ko Ved N Jaanat, Tisko Prem Janaataa Hai || 1 ||."
+      "Jisi Baat Ko Ved Na Jaanat, Tisko Prem Janaataa Hai || 1 ||"
     ],
     [
       "Jis Mag Ko Ravi Shashi Naa Dekhat, So Mag Prem Dikhaataa Hai || 2 ||"
     ],
     [
-      "Man Buddhi Vaani Jahaan N Pahunche, Prem Tahaan Pahunchaataa Hai || 3 ||."
+      "Man Buddhi Vaani Jahaan Na Pahunche, Prem Tahaan Pahunchaataa Hai || 3 ||"
     ],
     [
-      "Kahe Teun Yah Prem Padaarth, Bhaagyavaan Ko Paataa Hai || 4 ||."
+      "Kahe Teun Yah Prem Padaarth, Bhaagyavaan Ko Paataa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Purab Bhajan || 7 || 598 ||",
+    "प्रेम प्रभू का सद्‌गुरु के सम, गुहज भेद बतलाता है",
     "Prem Prabhu Kaa Sad‌Guru Ke Sam, Guhaj Bhed Batlaataa Hai",
-    "प्रेम प्रभु का सद्गुरु के सम, गुहज भेद बतलाता है"
+    "राग पूरब भजन 7",
+    "Raag Purab Bhajan 7"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "purab",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 599,
+  "displayOrder": 7,
+  "overallOrder": 597,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 324",
+  "updatedAt": "2026-10-26"
 }

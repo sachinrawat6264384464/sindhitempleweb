@@ -2,53 +2,88 @@
   "id": "bhajan-0426",
   "slug": "satguru-saache-kripaa-karke-bhav-kaa-bandhan-tor-diyaa",
   "categoryId": "raag-tilang",
-  "title": "सतगुरु साचे कृपा करके, भव का बनधन तोर दिया",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सत्‌गुरु साचे कृपा करके, भव का बन्धन तोड़ दिया",
   "romanTitle": "Sat‌Guru Saache Kripaa Karke, Bhav Kaa Bandhan Tor Diyaa",
   "firstLine": "Sat‌Guru Saache Kripaa Karke, Bhav Kaa Bandhan Tor Diyaa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६३ ।। ४२७।।",
+  "tek": [
+    "सत्‌गुरु साचे कृपा करके, भव का बन्धन तोड़ दिया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Saache Kripaa Karke, Bhav Kaa Bandhan Tor Diyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आदि शब्द का जाप जपा के, जीव ब्रह्म से जोड़ दिया ॥१ ॥",
+        "उपशम का उपदेश बताकर, मन विषयों से मोड़ दिया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aadi Shabd Kaa Jaap Japaa Ke, Jiv Brahm Se Jor Diyaa || 1 ||",
+        "Upsham Kaa Updesh Bataakar, Man Vishyon Se Mor Diyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्म ज्ञान का डण्डा मारे, भ्रम का भांडा फोड़ दिया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm Gyaan Kaa Dandaa Maare, Bhram Kaa Bhaandaa Phor Diyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु मुक्ता कीना, यम ने लेखा छोड़ दिया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Muktaa Kinaa, Yam Ne Lekhaa Chhor Diyaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु साचे कृपा करके, भव का बनधन तोर दिया (टेक)."
+      "आदि शब्द का जाप जपा के, जीव ब्रह्म से जोड़ दिया ॥१ ॥",
+      "उपशम का उपदेश बताकर, मन विषयों से मोड़ दिया ॥२ ॥"
     ],
     [
-      "ादि शबद का जाप जपा के, जिव बरहम से जोर दिया 1",
-      "ुपशम का ुपदेश बताकर, मन विशयोन से मोर दिया || 2. ||."
+      "ब्रह्म ज्ञान का डण्डा मारे, भ्रम का भांडा फोड़ दिया ॥३ ॥"
     ],
     [
-      "बरहम ज्ञान का दनदा मारे, भरम का भानदा फोर दिया || 3. ||."
-    ],
-    [
-      "कहे तेऊँ गुरु मुकता किना, यम ने लेखा चहोर दिया || 4 ||."
+      "कहे टेऊँ गुरु मुक्ता कीना, यम ने लेखा छोड़ दिया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Saache Kripaa Karke, Bhav Kaa Bandhan Tor Diyaa (Tek)."
+      "Aadi Shabd Kaa Jaap Japaa Ke, Jiv Brahm Se Jor Diyaa || 1 ||",
+      "Upsham Kaa Updesh Bataakar, Man Vishyon Se Mor Diyaa || 2 ||"
     ],
     [
-      "Aadi Shabd Kaa Jaap Japaa Ke, Jiv Brahm Se Jor Diyaa 1",
-      "Upsham Kaa Updesh Bataakar, Man Vishyon Se Mor Diyaa || 2. ||."
+      "Brahm Gyaan Kaa Dandaa Maare, Bhram Kaa Bhaandaa Phor Diyaa || 3 ||"
     ],
     [
-      "Brahm Jnyaan Kaa Dandaa Maare, Bhram Kaa Bhaandaa Phor Diyaa || 3. ||."
-    ],
-    [
-      "Kahe Teun Guru Muktaa Kinaa, Yam Ne Lekhaa Chhor Diyaa || 4 ||."
+      "Kahe Teun Guru Muktaa Kinaa, Yam Ne Lekhaa Chhor Diyaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 63 || 427 ||",
+    "सत्‌गुरु साचे कृपा करके, भव का बन्धन तोड़ दिया",
     "Sat‌Guru Saache Kripaa Karke, Bhav Kaa Bandhan Tor Diyaa",
-    "सतगुरु साचे कृपा करके, भव का बनधन तोर दिया"
+    "राग तिलंग भजन 63",
+    "Raag Tilang Bhajan 63"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 426,
+  "displayOrder": 63,
+  "overallOrder": 426,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 244",
+  "updatedAt": "2026-10-26"
 }

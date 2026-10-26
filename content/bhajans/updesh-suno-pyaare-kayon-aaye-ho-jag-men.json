@@ -1,0 +1,133 @@
+{
+  "id": "bhajan-0667",
+  "slug": "updesh-suno-pyaare-kayon-aaye-ho-jag-men",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "उपदेश सुनो प्यारे, क्‍यों आये हो जग में,",
+  "romanTitle": "Updesh Suno Pyaare, Ka‍Yon Aaye Ho Jag Men,",
+  "firstLine": "Updesh Suno Pyaare, Ka‍Yon Aaye Ho Jag Men,",
+  "heading": "।। राग पहाड़ी भजन ।। २० ।। ६६८।॥।",
+  "tek": [
+    "उपदेश सुनो प्यारे, क्‍यों आये हो जग में,",
+    "तुम देखो वीचारे ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Updesh Suno Pyaare, Ka‍Yon Aaye Ho Jag Men,",
+    "Tum Dekho Vichaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यहं लेने को आया, सो लाल नहीं लीया,",
+        "तुम कौड़ी को पाया ॥8 ॥"
+      ],
+      "romanLines": [
+        "Yahan Lene Ko Aayaa, So Laal Nahin Liyaa,",
+        "Tum Kauri Ko Paayaa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "यहं अमृत था पीना, वो तुमने नाहिं पिया,",
+        "विष विषयों रस लीना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yahan Amrit Thaa Pinaa, Vo Tumne Naahin Piyaa,",
+        "Vish Vishyon Ras Linaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "यहं चन्दन था बोना, तुम कीकर को बोया,",
+        "पड़ा अन्त तुम्हें रोना ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Yahan Chandan Thaa Bonaa, Tum Kikar Ko Boyaa,",
+        "Paraa Ant Tumhen Ronaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "यहं जो कछु था करना, कहे टेऊँ सो न किया,",
+        "पड़े जाल जन्म मरना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Yahan Jo Kachhu Thaa Karnaa, Kahe Teun So Na Kiyaa,",
+        "Pare Jaal Janm Marnaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्ठ"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "यहं लेने को आया, सो लाल नहीं लीया,",
+      "तुम कौड़ी को पाया ॥8 ॥"
+    ],
+    [
+      "यहं अमृत था पीना, वो तुमने नाहिं पिया,",
+      "विष विषयों रस लीना ॥२ ॥"
+    ],
+    [
+      "यहं चन्दन था बोना, तुम कीकर को बोया,",
+      "पड़ा अन्त तुम्हें रोना ॥३े ॥ ।"
+    ],
+    [
+      "यहं जो कछु था करना, कहे टेऊँ सो न किया,",
+      "पड़े जाल जन्म मरना ॥४ ॥"
+    ],
+    [
+      "द्ठ"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Yahan Lene Ko Aayaa, So Laal Nahin Liyaa,",
+      "Tum Kauri Ko Paayaa || 8 ||"
+    ],
+    [
+      "Yahan Amrit Thaa Pinaa, Vo Tumne Naahin Piyaa,",
+      "Vish Vishyon Ras Linaa || 2 ||"
+    ],
+    [
+      "Yahan Chandan Thaa Bonaa, Tum Kikar Ko Boyaa,",
+      "Paraa Ant Tumhen Ronaa || 3E ||"
+    ],
+    [
+      "Yahan Jo Kachhu Thaa Karnaa, Kahe Teun So Na Kiyaa,",
+      "Pare Jaal Janm Marnaa || 4 ||"
+    ],
+    [
+      "Dth"
+    ]
+  ],
+  "alternateSpellings": [
+    "उपदेश सुनो प्यारे, क्‍यों आये हो जग में,",
+    "Updesh Suno Pyaare, Ka‍Yon Aaye Ho Jag Men,",
+    "राग पहाड़ी भजन 20",
+    "Raag Pahaari Bhajan 20"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 20,
+  "overallOrder": 667,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 355",
+  "updatedAt": "2026-10-26"
+}

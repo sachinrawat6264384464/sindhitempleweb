@@ -1,66 +1,116 @@
 {
   "id": "bhajan-0270",
   "slug": "man-paap-karm-nahin-karnaa-hari-kaa-naam-sumranaa",
-  "categoryId": "raag-bhairav",
-  "title": "मन पाप करम नहिन करना, हरि का नाम सुमरना",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मन पाप कर्म नहिं करना, हरी का नाम सुमरना",
   "romanTitle": "Man Paap Karm Nahin Karnaa, Hari Kaa Naam Sumranaa",
   "firstLine": "Man Paap Karm Nahin Karnaa, Hari Kaa Naam Sumranaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५५ ।। २७०।।॥",
+  "tek": [
+    "मन पाप कर्म नहिं करना, हरी का नाम सुमरना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Paap Karm Nahin Karnaa, Hari Kaa Naam Sumranaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पाप कर्म का फल दुख होगा, तांसे हरदम डरना ।",
+        "पुण्य कर्म का फल सुख होगा, यह निश्चय उर धरना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paap Karm Kaa Phal Dukh Hogaa, Taanse Hardam Darnaa.",
+        "Puny Karm Kaa Phal Sukh Hogaa, Yah Nishchay Ur Dharnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ऐसा कर्म करो ना जांसे, लेखा होवे भरना ।",
+        "साध संगति की सेवा करके, सर्व दूख को हरना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aisaa Karm Karo Naa Jaanse, Lekhaa Hove Bharnaa.",
+        "Saadh Sangti Ki Sevaa Karke, Sarv Dukh Ko Harnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन धन का अभिमान त्यागे, जीते जग में मरना ।",
+        "नाम हरी का हरदम सुमरे, भवसागर से तरना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Dhan Kaa Abhimaan Tyaage, Jite Jag Men Marnaa.",
+        "Naam Hari Kaa Hardam Sumre, Bhavsaagar Se Tarnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तीन लज्जा को तोड़े जल्दी, जाओ गुरु की शरना ।",
+        "कहे टेऊँ ले आतम ज्ञाना, जीवन मुक्ति विचरना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tin Lajjaa Ko Tore Jaldi, Jaao Guru Ki Sharnaa.",
+        "Kahe Teun Le Aatam Jnyaanaa, Jivan Mukti Vichranaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन पाप करम नहिन करना, हरि का नाम सुमरना (टेक)."
+      "पाप कर्म का फल दुख होगा, तांसे हरदम डरना ।",
+      "पुण्य कर्म का फल सुख होगा, यह निश्चय उर धरना ॥१ ॥"
     ],
     [
-      "पाप करम का फल दुःख होगा, तानसे हरदम दरना.",
-      "पुनय करम का फल सुख होगा, यह निशचय ुर धरना || 1 ||"
+      "ऐसा कर्म करो ना जांसे, लेखा होवे भरना ।",
+      "साध संगति की सेवा करके, सर्व दूख को हरना ॥२ ॥"
     ],
     [
-      "ैसा करम करो ना जानसे, लेखा होवे भरना.",
-      "साध सनगति कि सेवा करके, सर्व दुःख को हरना ||.2. ||."
+      "तन धन का अभिमान त्यागे, जीते जग में मरना ।",
+      "नाम हरी का हरदम सुमरे, भवसागर से तरना ॥३ ॥"
     ],
     [
-      "तन धन का भिमान तयागे, जिते जग मेन मरना.",
-      "नाम हरि का हरदम सुमरे, भवसागर से तरना ||.3 ||"
-    ],
-    [
-      "तिन लजजा को तोरे जलदि, जाो गुरु कि शरना.",
-      "कहे तेऊँ ले ातम जनयाना, जिवन मुक्ति विचरना || 4. ||."
+      "तीन लज्जा को तोड़े जल्दी, जाओ गुरु की शरना ।",
+      "कहे टेऊँ ले आतम ज्ञाना, जीवन मुक्ति विचरना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Man Paap Karm Nahin Karnaa, Hari Kaa Naam Sumranaa (Tek)."
-    ],
     [
       "Paap Karm Kaa Phal Dukh Hogaa, Taanse Hardam Darnaa.",
       "Puny Karm Kaa Phal Sukh Hogaa, Yah Nishchay Ur Dharnaa || 1 ||"
     ],
     [
       "Aisaa Karm Karo Naa Jaanse, Lekhaa Hove Bharnaa.",
-      "Saadh Sangti Ki Sevaa Karke, Sarv Dukh Ko Harnaa ||.2. ||."
+      "Saadh Sangti Ki Sevaa Karke, Sarv Dukh Ko Harnaa || 2 ||"
     ],
     [
       "Tan Dhan Kaa Abhimaan Tyaage, Jite Jag Men Marnaa.",
-      "Naam Hari Kaa Hardam Sumre, Bhavsaagar Se Tarnaa ||.3 ||"
+      "Naam Hari Kaa Hardam Sumre, Bhavsaagar Se Tarnaa || 3 ||"
     ],
     [
       "Tin Lajjaa Ko Tore Jaldi, Jaao Guru Ki Sharnaa.",
-      "Kahe Teun Le Aatam Jnyaanaa, Jivan Mukti Vichranaa || 4. ||."
+      "Kahe Teun Le Aatam Jnyaanaa, Jivan Mukti Vichranaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 55 || 270 || ||",
+    "मन पाप कर्म नहिं करना, हरी का नाम सुमरना",
     "Man Paap Karm Nahin Karnaa, Hari Kaa Naam Sumranaa",
-    "मन पाप करम नहिन करना, हरि का नाम सुमरना"
+    "राग भैरवी भजन 55",
+    "Raag Bhairvi Bhajan 55"
   ],
   "tags": [
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 270,
+  "displayOrder": 55,
+  "overallOrder": 270,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 166",
+  "updatedAt": "2026-10-26"
 }

@@ -1,67 +1,118 @@
 {
-  "id": "bhajan-0830",
+  "id": "bhajan-0828",
   "slug": "main-hun-hari-tumhaaraa-tum-ho-hari-hamaaraa",
   "categoryId": "raag-maanjh",
-  "title": "मैं हुन हरि तुमहारा, तुम हो हरि हमारा",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "मैं हूं हरी तुम्हारा, तुम हो हरी हमारा",
   "romanTitle": "Main Hun Hari Tumhaaraa, Tum Ho Hari Hamaaraa",
-  "firstLine": "Main Hun Hari Tumhaaraa, Tum Ho Hari Hamaaraa. Tum Ham Men Bhed Naa Ko, Ham Tum Hain Ek Pyaaraa (Tek).",
+  "firstLine": "Main Hun Hari Tumhaaraa, Tum Ho Hari Hamaaraa.",
+  "heading": "।। राग मांझ भजन ।। १७ ।। ८३०॥।",
+  "tek": [
+    "मैं हूं हरी तुम्हारा, तुम हो हरी हमारा ।",
+    "तुम हम में भेद ना को, हम तुम हैं एक प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Hun Hari Tumhaaraa, Tum Ho Hari Hamaaraa.",
+    "Tum Ham Men Bhed Naa Ko, Ham Tum Hain Ek Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सम्बन्ध यही अनादी, नहिं आज काल का है ।",
+        "तुम से जुदा न मैं हूं, मुझ से न तुम न्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sambandh Yahi Anaadi, Nahin Aaj Kaal Kaa Hai.",
+        "Tum Se Judaa Na Main Hun, Mujh Se Na Tum Nyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तेरे बिना न हम हैं, मेरे बिना न तुम हो ।",
+        "तरु बीज धूप रवि सम, समझो मिसाल सारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tere Binaa Na Ham Hain, Mere Binaa Na Tum Ho.",
+        "Taru Bij Dhup Ravi Sam, Samjho Misaal Saaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "व्यष्टी न बिन समष्टी, समष्टी बिना न व्यष्टी ।",
+        "व्यष्टी समष्टी केरा, ना और को सहारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vyashti Na Bin Samashti, Samashti Binaa Na Vyashti.",
+        "Vyashti Samashti Keraa, Naa Aur Ko Sahaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ एह जाना, गुरुदेव के वचन से ।",
+        "नाता न टूट सकता, तब मम दिले दुलारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Eh Jaanaa, Gurudev Ke Vachan Se.",
+        "Naataa Na Tut Saktaa, Tab Mam Dile Dulaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं हुन हरि तुमहारा, तुम हो हरि हमारा.",
-      "तुम हम मेन भेद ना को, हम तुम हैन ेक पयारा (टेक)."
+      "सम्बन्ध यही अनादी, नहिं आज काल का है ।",
+      "तुम से जुदा न मैं हूं, मुझ से न तुम न्यारा ॥१ ॥"
     ],
     [
-      "समबनध यहि नादि, नहिन ाज काल का है.",
-      "तुम से जुदा न मैं हुन, मुझ से न तुम नयारा.1. ||."
+      "तेरे बिना न हम हैं, मेरे बिना न तुम हो ।",
+      "तरु बीज धूप रवि सम, समझो मिसाल सारा ॥२ ॥"
     ],
     [
-      "तेरे बिना न हम हैन, मेरे बिना न तुम हो.",
-      "तरु बिज धुप रवि सम, समझो मिसाल सारा || 2. ||."
+      "व्यष्टी न बिन समष्टी, समष्टी बिना न व्यष्टी ।",
+      "व्यष्टी समष्टी केरा, ना और को सहारा ॥३ ॥"
     ],
     [
-      "वयशति न बिन समशति, समशति बिना न वयशति.",
-      "वयशति समशति केरा, ना ौर को सहारा ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ ेह जाना, गुरुदेव के वचन से.",
-      "नाता न तुत सकता, तब मम दिले दुलारा || 4 ||"
+      "कहे टेऊँ एह जाना, गुरुदेव के वचन से ।",
+      "नाता न टूट सकता, तब मम दिले दुलारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Hun Hari Tumhaaraa, Tum Ho Hari Hamaaraa.",
-      "Tum Ham Men Bhed Naa Ko, Ham Tum Hain Ek Pyaaraa (Tek)."
-    ],
-    [
       "Sambandh Yahi Anaadi, Nahin Aaj Kaal Kaa Hai.",
-      "Tum Se Judaa N Main Hun, Mujh Se N Tum Nyaaraa.1. ||."
+      "Tum Se Judaa Na Main Hun, Mujh Se Na Tum Nyaaraa || 1 ||"
     ],
     [
-      "Tere Binaa N Ham Hain, Mere Binaa N Tum Ho.",
-      "Taru Bij Dhup Ravi Sam, Samjho Misaal Saaraa || 2. ||."
+      "Tere Binaa Na Ham Hain, Mere Binaa Na Tum Ho.",
+      "Taru Bij Dhup Ravi Sam, Samjho Misaal Saaraa || 2 ||"
     ],
     [
-      "Vyashti N Bin Samashti, Samashti Binaa N Vyashti.",
-      "Vyashti Samashti Keraa, Naa Aur Ko Sahaaraa ||.3 ||"
+      "Vyashti Na Bin Samashti, Samashti Binaa Na Vyashti.",
+      "Vyashti Samashti Keraa, Naa Aur Ko Sahaaraa || 3 ||"
     ],
     [
       "Kahe Teun Eh Jaanaa, Gurudev Ke Vachan Se.",
-      "Naataa N Tut Saktaa, Tab Mam Dile Dulaaraa || 4 ||"
+      "Naataa Na Tut Saktaa, Tab Mam Dile Dulaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maanjh Bhajan || 17 || 830 ||.",
+    "मैं हूं हरी तुम्हारा, तुम हो हरी हमारा",
     "Main Hun Hari Tumhaaraa, Tum Ho Hari Hamaaraa",
-    "मैं हुन हरि तुमहारा, तुम हो हरि हमारा"
+    "राग मांझ भजन 17",
+    "Raag Maanjh Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 830,
+  "displayOrder": 17,
+  "overallOrder": 828,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 440",
+  "updatedAt": "2026-10-26"
 }

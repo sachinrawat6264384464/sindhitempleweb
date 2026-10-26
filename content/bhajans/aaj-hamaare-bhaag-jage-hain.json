@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0494",
+  "id": "bhajan-0493",
   "slug": "aaj-hamaare-bhaag-jage-hain",
   "categoryId": "raag-kohiyaari",
-  "title": "ाज हमारे भाग जगे हैन",
-  "romanTitle": "Aaj Hamaare Bhaag Jage Hain",
-  "firstLine": "Aaj Hamaare Bhaag Jage Hain, Sad‌Guru Ghar Men Aayaa, Darshan Paayaa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "आज हमारे भाग जगे हैं,",
+  "romanTitle": "Aaj Hamaare Bhaag Jage Hain,",
+  "firstLine": "Aaj Hamaare Bhaag Jage Hain,",
+  "heading": "।। राग कोह्ारी भजन ।। १४ ।। ४९४।।",
+  "tek": [
+    "आज हमारे भाग जगे हैं,",
+    "सद्‌गुरु घर में आया, दर्शन पाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Hamaare Bhaag Jage Hain,",
+    "Sad‌Guru Ghar Men Aayaa, Darshan Paayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "फूले बाग चिमन फुलवारी, गगन मण्डल होई गुलज़ारी ।",
+        "बिरह बसन्ती लाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Phule Baag Chiman Phulvaari, Gagan Mandal Hoi Gulzaari.",
+        "Birah Basanti Laayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जगमग ज्योति ब्रह्म की जागी, पांच सखी अब नाचन लागी ।",
+        "मिल कर मंगल गाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jagmag Jyoti Brahm Ki Jaagi, Paanch Sakhi Ab Naachan Laagi.",
+        "Mil Kar Mangal Gaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कृपा कर गुरु दर्शन दीना, घट ही में सब तीर्थ कीना ।",
+        "सगले पाप मिटाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kripaa Kar Guru Darshan Dinaa, Ghat Hi Men Sab Tirth Kinaa.",
+        "Sagle Paap Mitaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब संसा भागा, आतम रंग अलस्ती लागा ।",
+        "लाल अमर भई काया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Sansaa Bhaagaa, Aatam Rang Alasti Laagaa.",
+        "Laal Amar Bhai Kaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज हमारे भाग जगे हैन,",
-      "सद्गुरु घर मेन ाया, दरशन पाया (टेक)."
+      "फूले बाग चिमन फुलवारी, गगन मण्डल होई गुलज़ारी ।",
+      "बिरह बसन्ती लाया ॥१ ॥"
     ],
     [
-      "फुले बाग चिमन फुलवारि, गगन मनदल होि गुलzारि.",
-      "बिरह बसनति लाया || || 1 ||."
+      "जगमग ज्योति ब्रह्म की जागी, पांच सखी अब नाचन लागी ।",
+      "मिल कर मंगल गाया ॥२ ॥"
     ],
     [
-      "जगमग जयोति बरहम कि जागि, पानच सखि ब नाचन लागि.",
-      "मिल कर मनगल गाया || 2 ||."
+      "कृपा कर गुरु दर्शन दीना, घट ही में सब तीर्थ कीना ।",
+      "सगले पाप मिटाया ॥३ ॥"
     ],
     [
-      "कृपा कर गुरु दरशन दिना, घत हि मेन सब तिरथ किना.",
-      "सगले पाप मिताया. || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सब सनसा भागा, ातम रनग लसति लागा.",
-      "लाल मर भै काया ||.4 ||."
+      "कहे टेऊँ सब संसा भागा, आतम रंग अलस्ती लागा ।",
+      "लाल अमर भई काया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaj Hamaare Bhaag Jage Hain,",
-      "Sad‌Guru Ghar Men Aayaa, Darshan Paayaa (Tek)."
-    ],
-    [
       "Phule Baag Chiman Phulvaari, Gagan Mandal Hoi Gulzaari.",
-      "Birah Basanti Laayaa || || 1 ||."
+      "Birah Basanti Laayaa || 1 ||"
     ],
     [
       "Jagmag Jyoti Brahm Ki Jaagi, Paanch Sakhi Ab Naachan Laagi.",
-      "Mil Kar Mangal Gaayaa || 2 ||."
+      "Mil Kar Mangal Gaayaa || 2 ||"
     ],
     [
       "Kripaa Kar Guru Darshan Dinaa, Ghat Hi Men Sab Tirth Kinaa.",
-      "Sagle Paap Mitaayaa. || 3 ||."
+      "Sagle Paap Mitaayaa || 3 ||"
     ],
     [
       "Kahe Teun Sab Sansaa Bhaagaa, Aatam Rang Alasti Laagaa.",
-      "Laal Amar Bhai Kaayaa ||.4 ||."
+      "Laal Amar Bhai Kaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohaari Bhajan || 14 || 494 ||",
-    "Aaj Hamaare Bhaag Jage Hain",
-    "ाज हमारे भाग जगे हैन"
+    "आज हमारे भाग जगे हैं,",
+    "Aaj Hamaare Bhaag Jage Hain,",
+    "राग कोहियारी भजन 14",
+    "Raag Kohiyaari Bhajan 14"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 494,
+  "displayOrder": 14,
+  "overallOrder": 493,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 276",
+  "updatedAt": "2026-10-26"
 }

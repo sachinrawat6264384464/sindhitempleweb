@@ -1,59 +1,99 @@
 {
   "id": "bhajan-0221",
   "slug": "suno-mit-mere-vachan-sukhkaari",
-  "categoryId": "raag-bhairav",
-  "title": "सुनो मित मेरे वचन सुखकारि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सुनो मीत मेरे वचन सूखकारी",
   "romanTitle": "Suno Mit Mere Vachan Sukhkaari",
-  "firstLine": "Suno Mit Mere Vachan Sukhkaari. Taje Moh Nidraa Karo Ab Tayaari (Tek).",
+  "firstLine": "Suno Mit Mere Vachan Sukhkaari.",
+  "heading": "।। राग भैरवी भजन ।। ६ ।। २२१॥।",
+  "tek": [
+    "सुनो मीत मेरे वचन सूखकारी ।",
+    "तजे मोह निद्रा करो अब तयारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Mit Mere Vachan Sukhkaari.",
+    "Taje Moh Nidraa Karo Ab Tayaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पकड़ चरन गुरु का, जपो नाम हरि का ।",
+        "तजे ममत घर का, रहो निर्विकारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pakar Charan Guru Kaa, Japo Naam Hari Kaa.",
+        "Taje Mamat Ghar Kaa, Raho Nirvikaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरे भेद श्रान्ती, धरो चीत शान्ती ।",
+        "लखे ब्रह्म क्रान्ती, कटो मोह जारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hare Bhed Shraanti, Dharo Chit Shaanti.",
+        "Lakhe Brahm Kraanti, Kato Moh Jaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म ध्यान धरिये, भरम पांच हरिये ।",
+        "कहे टेऊँ तरिये, जगत सिन्धु भारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm Dhyaan Dhariye, Bharam Paanch Hariye.",
+        "Kahe Teun Tariye, Jagat Sindhu Bhaari || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनो मित मेरे वचन सुखकारि.",
-      "तजे मोह निदरा करो ब तयारि (टेक)."
+      "पकड़ चरन गुरु का, जपो नाम हरि का ।",
+      "तजे ममत घर का, रहो निर्विकारी ॥१ ॥"
     ],
     [
-      "पकर चरण गुरु का, जपो नाम हरि का.",
-      "तजे ममत घर का, रहो निरविकारि || 1 ||."
+      "हरे भेद श्रान्ती, धरो चीत शान्ती ।",
+      "लखे ब्रह्म क्रान्ती, कटो मोह जारी ॥२ ॥"
     ],
     [
-      "हरे भेद शरानति, धरो चित शांति.",
-      "लखे बरहम करानति, कतो मोह जारि ||.2 ||"
-    ],
-    [
-      "बरहम ध्यान धरिये, भरम पानच हरिये.",
-      "कहे तेऊँ तरिये, जगत सिनधु भारि ||.3 ||."
+      "ब्रह्म ध्यान धरिये, भरम पांच हरिये ।",
+      "कहे टेऊँ तरिये, जगत सिन्धु भारी ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suno Mit Mere Vachan Sukhkaari.",
-      "Taje Moh Nidraa Karo Ab Tayaari (Tek)."
-    ],
-    [
       "Pakar Charan Guru Kaa, Japo Naam Hari Kaa.",
-      "Taje Mamat Ghar Kaa, Raho Nirvikaari || 1 ||."
+      "Taje Mamat Ghar Kaa, Raho Nirvikaari || 1 ||"
     ],
     [
       "Hare Bhed Shraanti, Dharo Chit Shaanti.",
-      "Lakhe Brahm Kraanti, Kato Moh Jaari ||.2 ||"
+      "Lakhe Brahm Kraanti, Kato Moh Jaari || 2 ||"
     ],
     [
       "Brahm Dhyaan Dhariye, Bharam Paanch Hariye.",
-      "Kahe Teun Tariye, Jagat Sindhu Bhaari ||.3 ||."
+      "Kahe Teun Tariye, Jagat Sindhu Bhaari || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 6 || 221 ||.",
+    "सुनो मीत मेरे वचन सूखकारी",
     "Suno Mit Mere Vachan Sukhkaari",
-    "सुनो मित मेरे वचन सुखकारि"
+    "राग भैरवी भजन 6",
+    "Raag Bhairvi Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 221,
+  "displayOrder": 6,
+  "overallOrder": 221,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 139",
+  "updatedAt": "2026-10-26"
 }

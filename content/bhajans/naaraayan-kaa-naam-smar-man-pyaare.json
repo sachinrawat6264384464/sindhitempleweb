@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0592",
+  "id": "bhajan-0590",
   "slug": "naaraayan-kaa-naam-smar-man-pyaare",
   "categoryId": "raag-saarang",
-  "title": "नारायन का नाम, समर मन पयारे",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "नारायण का नाम, स्मर मन प्यारे",
   "romanTitle": "Naaraayan Kaa Naam, Smar Man Pyaare",
   "firstLine": "Naaraayan Kaa Naam, Smar Man Pyaare (Tek).",
+  "heading": "।। राग सारंग भजन ।। १३ ।। ५९१॥।",
+  "tek": [
+    "नारायण का नाम, स्मर मन प्यारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Naaraayan Kaa Naam, Smar Man Pyaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अजामेल नारायण स्मरे, यम दूतनि के भय से उबरे ।",
+        "पाया वैकुण्ठ धाम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ajaamel Naaraayan Smare, Yam Dutni Ke Bhay Se Ubre.",
+        "Paayaa Vaikunth Dhaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नारद ने नारायण गाया, पूर्ण निर्भय पद को पाया ।",
+        "हरे कल्पना काम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naarad Ne Naaraayan Gaayaa, Purn Nirbhay Pad Ko Paayaa.",
+        "Hare Kalpanaa Kaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ध्रुव भक्त नारायण गाये, प्रकट तांका दर्शन पाये ।",
+        "पाया निश्चल ठाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhruv Bhakt Naaraayan Gaaye, Prakat Taankaa Darshan Paaye.",
+        "Paayaa Nishchal Thaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ नारायण रटले, जग के सारे बन्धन कटले ।",
+        "पाओ नित विश्राम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Naaraayan Ratle, Jag Ke Saare Bandhan Katle.",
+        "Paao Nit Vishraam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "नारायन का नाम, समर मन पयारे (टेक)."
+      "अजामेल नारायण स्मरे, यम दूतनि के भय से उबरे ।",
+      "पाया वैकुण्ठ धाम ॥१ ॥"
     ],
     [
-      "जामेल नारायन समरे, यम दुतनि के भय से ुबरे.",
-      "पाया वैकुनथ धाम || || 1 ||."
+      "नारद ने नारायण गाया, पूर्ण निर्भय पद को पाया ।",
+      "हरे कल्पना काम ॥२ ॥"
     ],
     [
-      "नारद ने नारायन गाया, पुरन निरभय पद को पाया.",
-      "हरे कलपना काम. ||.2 ||"
+      "ध्रुव भक्त नारायण गाये, प्रकट तांका दर्शन पाये ।",
+      "पाया निश्चल ठाम ॥३ ॥"
     ],
     [
-      "धरुव भकत नारायन गाये, परकत तानका दरशन पाये.",
-      "पाया निशचल थाम ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ नारायन रतले, जग के सारे बनधन कतले.",
-      "पाो नित विशराम || 4. ||."
-    ],
-    [
-      "चहत"
+      "कहे टेऊँ नारायण रटले, जग के सारे बन्धन कटले ।",
+      "पाओ नित विश्राम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Naaraayan Kaa Naam, Smar Man Pyaare (Tek)."
-    ],
-    [
       "Ajaamel Naaraayan Smare, Yam Dutni Ke Bhay Se Ubre.",
-      "Paayaa Vaikunth Dhaam || || 1 ||."
+      "Paayaa Vaikunth Dhaam || 1 ||"
     ],
     [
       "Naarad Ne Naaraayan Gaayaa, Purn Nirbhay Pad Ko Paayaa.",
-      "Hare Kalpanaa Kaam. ||.2 ||"
+      "Hare Kalpanaa Kaam || 2 ||"
     ],
     [
       "Dhruv Bhakt Naaraayan Gaaye, Prakat Taankaa Darshan Paaye.",
-      "Paayaa Nishchal Thaam ||.3 ||."
+      "Paayaa Nishchal Thaam || 3 ||"
     ],
     [
       "Kahe Teun Naaraayan Ratle, Jag Ke Saare Bandhan Katle.",
-      "Paao Nit Vishraam || 4. ||."
-    ],
-    [
-      "Chhat"
+      "Paao Nit Vishraam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 13 || 591 ||.",
+    "नारायण का नाम, स्मर मन प्यारे",
     "Naaraayan Kaa Naam, Smar Man Pyaare",
-    "नारायन का नाम, समर मन पयारे"
+    "राग सारंग भजन 13",
+    "Raag Saarang Bhajan 13"
   ],
   "tags": [
-    "teunram",
-    "saarang",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 592,
+  "displayOrder": 13,
+  "overallOrder": 590,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 321",
+  "updatedAt": "2026-10-26"
 }

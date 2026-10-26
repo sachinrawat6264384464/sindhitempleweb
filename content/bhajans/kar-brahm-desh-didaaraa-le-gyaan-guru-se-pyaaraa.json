@@ -1,0 +1,101 @@
+{
+  "id": "bhajan-0093",
+  "slug": "kar-brahm-desh-didaaraa-le-gyaan-guru-se-pyaaraa",
+  "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "कर ब्रह्म देश दीदारा, ले ज्ञान गुरू से प्यारा",
+  "romanTitle": "Kar Brahm Desh Didaaraa, Le Gyaan Guru Se Pyaaraa",
+  "firstLine": "Kar Brahm Desh Didaaraa, Le Gyaan Guru Se Pyaaraa (Tek).",
+  "heading": "।। राग आसा भजन ।। ३१ ।। ९३।॥।",
+  "tek": [
+    "कर ब्रह्म देश दीदारा, ले ज्ञान गुरू से प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kar Brahm Desh Didaaraa, Le Gyaan Guru Se Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कोटि भूमि जल अग्नि प्रकाशा,",
+        "कोटि पवन पुनि कोटि अकाशा ।",
+        "सब जिससे हो विस्तारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Koti Bhumi Jal Agni Prakaashaa,",
+        "Koti Pavan Puni Koti Akaashaa.",
+        "Sab Jisse Ho Vistaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कोटी ब्रह्मा विष्णू शडूर, कोटी रवि शशि सुरपति सुरवर ।",
+        "ये जामें लय हो सारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Koti Brahmaa Vishnu Shadur, Koti Ravi Shashi Surpati Survar.",
+        "Ye Jaamen Lay Ho Saaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ तिह॑ं सो जन देखे, जीव ब्रह्म जो इक कर पेखे ।",
+        "वो पावत अनन्द अपारा ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Kahe Teun Tihn So Jan Dekhe, Jiv Brahm Jo Ik Kar Pekhe.",
+        "Vo Paavat Anand Apaaraa || 3E ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "कोटि भूमि जल अग्नि प्रकाशा,",
+      "कोटि पवन पुनि कोटि अकाशा ।",
+      "सब जिससे हो विस्तारा ॥१ ॥"
+    ],
+    [
+      "कोटी ब्रह्मा विष्णू शडूर, कोटी रवि शशि सुरपति सुरवर ।",
+      "ये जामें लय हो सारा ॥२ ॥"
+    ],
+    [
+      "कहे टेऊँ तिह॑ं सो जन देखे, जीव ब्रह्म जो इक कर पेखे ।",
+      "वो पावत अनन्द अपारा ॥ ।३े ॥ ।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Koti Bhumi Jal Agni Prakaashaa,",
+      "Koti Pavan Puni Koti Akaashaa.",
+      "Sab Jisse Ho Vistaaraa || 1 ||"
+    ],
+    [
+      "Koti Brahmaa Vishnu Shadur, Koti Ravi Shashi Surpati Survar.",
+      "Ye Jaamen Lay Ho Saaraa || 2 ||"
+    ],
+    [
+      "Kahe Teun Tihn So Jan Dekhe, Jiv Brahm Jo Ik Kar Pekhe.",
+      "Vo Paavat Anand Apaaraa || 3E ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "कर ब्रह्म देश दीदारा, ले ज्ञान गुरू से प्यारा",
+    "Kar Brahm Desh Didaaraa, Le Gyaan Guru Se Pyaaraa",
+    "राग आसा भजन 31",
+    "Raag Aasaa Bhajan 31"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
+  ],
+  "displayOrder": 31,
+  "overallOrder": 93,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 72",
+  "updatedAt": "2026-10-26"
+}

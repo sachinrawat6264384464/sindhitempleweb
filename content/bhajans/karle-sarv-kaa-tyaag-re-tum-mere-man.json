@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0688",
+  "id": "bhajan-0686",
   "slug": "karle-sarv-kaa-tyaag-re-tum-mere-man",
   "categoryId": "raag-pahaari",
-  "title": "करले सर्व का तयाग, रे तुम मेरे मन",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "करले सर्व का त्याग, रे तुम मेरे मन",
   "romanTitle": "Karle Sarv Kaa Tyaag, Re Tum Mere Man",
   "firstLine": "Karle Sarv Kaa Tyaag, Re Tum Mere Man (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ३९ ।। ६८७।।",
+  "tek": [
+    "करले सर्व का त्याग, रे तुम मेरे मन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Sarv Kaa Tyaag, Re Tum Mere Man (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "झूठा जग का जान पसारा, साथ नहीं कछु चलने हारा ।",
+        "कर न किसी से राग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jhuthaa Jag Kaa Jaan Pasaaraa, Saath Nahin Kachhu Chalne Haaraa.",
+        "Kar Na Kisi Se Raag || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इक दिन तुझको सब तज देंगे, या सबको तुम छोड़ चलेंगे ।",
+        "तांते होय सुजाग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ik Din Tujhko Sab Taj Denge, Yaa Sabko Tum Chhor Chalenge.",
+        "Taante Hoy Sujaag || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "झंगल में चल बैठ अकेला, मन मोहन से करके मेला ।",
+        "मेटो ट्रैत का दाग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jhangal Men Chal Baith Akelaa, Man Mohan Se Karke Melaa.",
+        "Meto Trait Kaa Daag || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब बन्धन तोड़े, निज आतम से वृत्ती जोड़े ।",
+        "पाओ सूख सुहाग ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Bandhan Tore, Nij Aatam Se Vritti Jore.",
+        "Paao Sukh Suhaag || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले सर्व का तयाग, रे तुम मेरे मन (टेक)."
+      "झूठा जग का जान पसारा, साथ नहीं कछु चलने हारा ।",
+      "कर न किसी से राग ॥१ ॥"
     ],
     [
-      "झुथा जग का जान पसारा, साथ नहिन कचहु चलने हारा.",
-      "कर न किसि से राग || 1 ||."
+      "इक दिन तुझको सब तज देंगे, या सबको तुम छोड़ चलेंगे ।",
+      "तांते होय सुजाग ॥२ ॥"
     ],
     [
-      "िक दीन तुझको सब तज देनगे, या सबको तुम चहोर चलेनगे.",
-      "तानते होय सुजाग. ||.2 ||."
+      "झंगल में चल बैठ अकेला, मन मोहन से करके मेला ।",
+      "मेटो ट्रैत का दाग ॥३ ॥"
     ],
     [
-      "झनगल मेन चल बैथ केला, मन मोहन से करके मेला.",
-      "मेतो तरैत का दाग ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ सब बनधन तोरे, निज ातम से वरितति जोरे.",
-      "पाो सुख सुहाग ||.4. ||."
+      "कहे टेऊँ सब बन्धन तोड़े, निज आतम से वृत्ती जोड़े ।",
+      "पाओ सूख सुहाग ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Sarv Kaa Tyaag, Re Tum Mere Man (Tek)."
-    ],
-    [
       "Jhuthaa Jag Kaa Jaan Pasaaraa, Saath Nahin Kachhu Chalne Haaraa.",
-      "Kar N Kisi Se Raag || 1 ||."
+      "Kar Na Kisi Se Raag || 1 ||"
     ],
     [
       "Ik Din Tujhko Sab Taj Denge, Yaa Sabko Tum Chhor Chalenge.",
-      "Taante Hoy Sujaag. ||.2 ||."
+      "Taante Hoy Sujaag || 2 ||"
     ],
     [
       "Jhangal Men Chal Baith Akelaa, Man Mohan Se Karke Melaa.",
-      "Meto Trait Kaa Daag ||.3 ||."
+      "Meto Trait Kaa Daag || 3 ||"
     ],
     [
       "Kahe Teun Sab Bandhan Tore, Nij Aatam Se Vritti Jore.",
-      "Paao Sukh Suhaag ||.4. ||."
+      "Paao Sukh Suhaag || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 39 || 687 ||",
+    "करले सर्व का त्याग, रे तुम मेरे मन",
     "Karle Sarv Kaa Tyaag, Re Tum Mere Man",
-    "करले सर्व का तयाग, रे तुम मेरे मन"
+    "राग पहाड़ी भजन 39",
+    "Raag Pahaari Bhajan 39"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 688,
+  "displayOrder": 39,
+  "overallOrder": 686,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 365",
+  "updatedAt": "2026-10-26"
 }

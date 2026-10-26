@@ -2,45 +2,94 @@
   "id": "bhajan-0049",
   "slug": "hari-mandir-men-hari-biraaje-taankaa-tum-didaar-karo",
   "categoryId": "raag-prabhaati",
-  "title": "हरि मनदिर मेन हरि बिराजे, तानका तुम दिदार करो",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "हरि मन्दिर में हरी बिराजे, तांका तुम दीदार करो",
   "romanTitle": "Hari Mandir Men Hari Biraaje, Taankaa Tum Didaar Karo",
   "firstLine": "Hari Mandir Men Hari Biraaje, Taankaa Tum Didaar Karo (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। १७ ।। ४९।।",
+  "tek": [
+    "हरि मन्दिर में हरी बिराजे, तांका तुम दीदार करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Mandir Men Hari Biraaje, Taankaa Tum Didaar Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "परम मनोहर हरि मन्दिर यह, नितही तेरे साथ रहे ।",
+        "दूर गमन की नाहिं ज़रूरत, इस पर ही इतिबार करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Param Manohar Hari Mandir Yah, Nithi Tere Saath Rahe.",
+        "Dur Gaman Ki Naahin Zarurat, Is Par Hi Itibaar Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपने रहने कारण हरि ने, जोड़ा सुन्दर मन्दिर ये ।",
+        "चौरासी में मन्दिर ऐसा, और न को वीचार करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Apne Rahne Kaaran Hari Ne, Joraa Sundar Mandir Ye.",
+        "Chauraasi Men Mandir Aisaa, Aur Na Ko Vichaar Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मानुष तन ही हरि मन्दिर है, महिमा जांकी वेद कहे ।",
+        "चार पदार्थ का यह केन्द्र, तांका तुम निस्तार करो ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Maanush Tan Hi Hari Mandir Hai, Mahimaa Jaanki Ved Kahe.",
+        "Chaar Padaarth Kaa Yah Kendr, Taankaa Tum Nistaar Karo || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जे सुख को चाहो, हरि मन्दिर में हरि देखो ।",
+        "हरि को स्मरो हरि को सेवो, हरि ही से नित प्यार करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Sukh Ko Chaaho, Hari Mandir Men Hari Dekho.",
+        "Hari Ko Smaro Hari Ko Sevo, Hari Hi Se Nit Pyaar Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि मनदिर मेन हरि बिराजे, तानका तुम दिदार करो (टेक)."
+      "परम मनोहर हरि मन्दिर यह, नितही तेरे साथ रहे ।",
+      "दूर गमन की नाहिं ज़रूरत, इस पर ही इतिबार करो ॥१ ॥"
     ],
     [
-      "परम मनोहर हरि मनदिर यह, निथि तेरे साथ रहे.",
-      "दुर गमन कि नाहिन zरुरत, िस पर हि ितिबार करो.1 ||."
+      "अपने रहने कारण हरि ने, जोड़ा सुन्दर मन्दिर ये ।",
+      "चौरासी में मन्दिर ऐसा, और न को वीचार करो ॥२ ॥"
     ],
     [
-      "पने रहने कारन हरि ने, जोरा सुनदर मनदिर ये.",
-      "चौरासि मेन मनदिर ैसा, ौर न को विचार करो || 2 ||."
+      "मानुष तन ही हरि मन्दिर है, महिमा जांकी वेद कहे ।",
+      "चार पदार्थ का यह केन्द्र, तांका तुम निस्तार करो ॥ ।३े ॥ ।"
     ],
     [
-      "मानुश तन हि हरि मनदिर है, महिमा जानकि वेद कहे.",
-      "चार पदारथ का यह केनदर, तानका तुम निसतार करो ||.3े ||."
-    ],
-    [
-      "कहे तेऊँ जे सुख को चाहो, हरि मनदिर मेन हरि देखो.",
-      "हरि को समरो हरि को सेवो, हरि हि से नित पयार करो || 4 ||"
+      "कहे टेऊँ जे सुख को चाहो, हरि मन्दिर में हरि देखो ।",
+      "हरि को स्मरो हरि को सेवो, हरि ही से नित प्यार करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Mandir Men Hari Biraaje, Taankaa Tum Didaar Karo (Tek)."
-    ],
-    [
       "Param Manohar Hari Mandir Yah, Nithi Tere Saath Rahe.",
-      "Dur Gaman Ki Naahin Zarurat, Is Par Hi Itibaar Karo.1 ||."
+      "Dur Gaman Ki Naahin Zarurat, Is Par Hi Itibaar Karo || 1 ||"
     ],
     [
       "Apne Rahne Kaaran Hari Ne, Joraa Sundar Mandir Ye.",
-      "Chauraasi Men Mandir Aisaa, Aur N Ko Vichaar Karo || 2 ||."
+      "Chauraasi Men Mandir Aisaa, Aur Na Ko Vichaar Karo || 2 ||"
     ],
     [
       "Maanush Tan Hi Hari Mandir Hai, Mahimaa Jaanki Ved Kahe.",
-      "Chaar Padaarth Kaa Yah Kendr, Taankaa Tum Nistaar Karo ||.3E ||."
+      "Chaar Padaarth Kaa Yah Kendr, Taankaa Tum Nistaar Karo || 3E ||"
     ],
     [
       "Kahe Teun Je Sukh Ko Chaaho, Hari Mandir Men Hari Dekho.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 17 || 49 ||",
+    "हरि मन्दिर में हरी बिराजे, तांका तुम दीदार करो",
     "Hari Mandir Men Hari Biraaje, Taankaa Tum Didaar Karo",
-    "हरि मनदिर मेन हरि बिराजे, तानका तुम दिदार करो"
+    "राग प्रभाती भजन 17",
+    "Raag Prabhaati Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 49,
+  "displayOrder": 17,
+  "overallOrder": 49,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 50",
+  "updatedAt": "2026-10-26"
 }

@@ -1,33 +1,105 @@
 {
   "id": "bhajan-0222",
   "slug": "jo-manmukh-mati-kaa-khotaa-so-nithin-khaavat-chotaa",
-  "categoryId": "raag-bhairav",
-  "title": "जो मनमुख मति का खोता, सो निथिन खावत चोता",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "जो मनमुख मति का खोटा, सो नितहीं खावत चोटा",
   "romanTitle": "Jo Manmukh Mati Kaa Khotaa, So Nithin Khaavat Chotaa",
   "firstLine": "Jo Manmukh Mati Kaa Khotaa, So Nithin Khaavat Chotaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७ ।। २२२॥।",
+  "tek": [
+    "जो मनमुख मति का खोटा, सो नितहीं खावत चोटा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jo Manmukh Mati Kaa Khotaa, So Nithin Khaavat Chotaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पढ़े पढ़ावे जोड़े कविता, सन्त गुरू से प्रेम न करता ।",
+        "पावत है सो. टोटा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Parhe Parhaave Jore Kavitaa, Sant Guru Se Prem Na Kartaa.",
+        "Paavat Hai So. Totaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सहसे नारि करे श्यृंगारा, शोभा पाय न बिन भर्तारा ।",
+        "भोगत दुख सा कोटा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sahse Naari Kare Shyringaaraa, Shobhaa Paay Na Bin Bhartaaraa.",
+        "Bhogat Dukh Saa Kotaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मनमुख का मन शान्ति न पावे, भावें ब्रह्मा आ समझावे ।",
+        "ज्यों कूप का लोटा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Manmukh Kaa Man Shaanti Na Paave, Bhaaven Brahmaa Aa Samjhaave.",
+        "Jyon Kup Kaa Lotaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मनमुख बन का गर्दभ जानो ,मालिक बिन वो दुखिया मानो ।",
+        "खेत चरे सह सोटा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Manmukh Ban Kaa Gardabh Jaano,Maalik Bin Vo Dukhiyaa Maano.",
+        "Khet Chare Sah Sotaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ तीन लोक में, मनमुख दुखिया हर्ष शोक में,",
+        "बिन सदूगुरु के ओटा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tin Lok Men, Manmukh Dukhiyaa Harsh Shok Men,",
+        "Bin Saduguru Ke Otaa || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "शान"
+      ],
+      "romanLines": [
+        "Shaan"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जो मनमुख मति का खोता, सो निथिन खावत चोता (टेक)."
+      "पढ़े पढ़ावे जोड़े कविता, सन्त गुरू से प्रेम न करता ।",
+      "पावत है सो. टोटा ॥१ ॥"
     ],
     [
-      "परहे परहावे जोरे कविता, संत गुरु से प्रेम न करता.",
-      "पावत है सो. तोता.1 ||."
+      "सहसे नारि करे श्यृंगारा, शोभा पाय न बिन भर्तारा ।",
+      "भोगत दुख सा कोटा ॥२ ॥"
     ],
     [
-      "सहसे नारि करे शयरिनगारा, शोभा पाय न बिन भरतारा.",
-      "भोगत दुःख सा कोता ||.2 ||."
+      "मनमुख का मन शान्ति न पावे, भावें ब्रह्मा आ समझावे ।",
+      "ज्यों कूप का लोटा ॥३ ॥"
     ],
     [
-      "मनमुख का मन शांति न पावे, भावेन बरहम ा समझावे.",
-      "जयोन कुप का लोता ||.3 ||."
+      "मनमुख बन का गर्दभ जानो ,मालिक बिन वो दुखिया मानो ।",
+      "खेत चरे सह सोटा ॥४ ॥"
     ],
     [
-      "मनमुख बन का गरदभ जानोमालिक बिन वो दुखिया मानो.",
-      "खेत चरे सह सोता || 4. || ||"
-    ],
-    [
-      "कहता तेऊँ तिन लोक मेन, मनमुख दुखिया हरश शोक मेन,",
-      "बिन सदुगुरु के ोता || 5 ||."
+      "कहता टेऊँ तीन लोक में, मनमुख दुखिया हर्ष शोक में,",
+      "बिन सदूगुरु के ओटा ॥५ ॥"
     ],
     [
       "शान"
@@ -35,45 +107,44 @@
   ],
   "romanLyrics": [
     [
-      "Jo Manmukh Mati Kaa Khotaa, So Nithin Khaavat Chotaa (Tek)."
+      "Parhe Parhaave Jore Kavitaa, Sant Guru Se Prem Na Kartaa.",
+      "Paavat Hai So. Totaa || 1 ||"
     ],
     [
-      "Parhe Parhaave Jore Kavitaa, Sant Guru Se Prem N Kartaa.",
-      "Paavat Hai So. Totaa.1 ||."
+      "Sahse Naari Kare Shyringaaraa, Shobhaa Paay Na Bin Bhartaaraa.",
+      "Bhogat Dukh Saa Kotaa || 2 ||"
     ],
     [
-      "Sahse Naari Kare Shyringaaraa, Shobhaa Paay N Bin Bhartaaraa.",
-      "Bhogat Dukh Saa Kotaa ||.2 ||."
-    ],
-    [
-      "Manmukh Kaa Man Shaanti N Paave, Bhaaven Brahma Aa Samjhaave.",
-      "Jyon Kup Kaa Lotaa ||.3 ||."
+      "Manmukh Kaa Man Shaanti Na Paave, Bhaaven Brahmaa Aa Samjhaave.",
+      "Jyon Kup Kaa Lotaa || 3 ||"
     ],
     [
       "Manmukh Ban Kaa Gardabh Jaano,Maalik Bin Vo Dukhiyaa Maano.",
-      "Khet Chare Sah Sotaa || 4. || ||"
+      "Khet Chare Sah Sotaa || 4 ||"
     ],
     [
       "Kahtaa Teun Tin Lok Men, Manmukh Dukhiyaa Harsh Shok Men,",
-      "Bin Saduguru Ke Otaa || 5 ||."
+      "Bin Saduguru Ke Otaa || 5 ||"
     ],
     [
       "Shaan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 7 || 222 ||.",
+    "जो मनमुख मति का खोटा, सो नितहीं खावत चोटा",
     "Jo Manmukh Mati Kaa Khotaa, So Nithin Khaavat Chotaa",
-    "जो मनमुख मति का खोता, सो निथिन खावत चोता"
+    "राग भैरवी भजन 7",
+    "Raag Bhairvi Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 222,
+  "displayOrder": 7,
+  "overallOrder": 222,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 139",
+  "updatedAt": "2026-10-26"
 }

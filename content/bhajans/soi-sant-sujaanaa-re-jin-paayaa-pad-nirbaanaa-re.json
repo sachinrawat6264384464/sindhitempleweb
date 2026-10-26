@@ -2,45 +2,94 @@
   "id": "bhajan-0011",
   "slug": "soi-sant-sujaanaa-re-jin-paayaa-pad-nirbaanaa-re",
   "categoryId": "raag-bhairav",
-  "title": "सोि संत सुजाना रे, जिन पाया पद निरबाना रे",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "सोई सन्त सुजाना रे, जिन पाया पद निर्बाना रे",
   "romanTitle": "Soi Sant Sujaanaa Re, Jin Paayaa Pad Nirbaanaa Re",
   "firstLine": "Soi Sant Sujaanaa Re, Jin Paayaa Pad Nirbaanaa Re (Tek).",
+  "heading": "।। राग भैरव भजन ।। ११ ।।",
+  "tek": [
+    "सोई सन्त सुजाना रे, जिन पाया पद निर्बाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Soi Sant Sujaanaa Re, Jin Paayaa Pad Nirbaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांचों पकड़ किया जिन चूरा, सुनिया उर में अनहद तूरा ।",
+        "देखा अलख निरंजन नूरा, धरके अन्तर ध्याना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanchon Pakar Kiyaa Jin Churaa, Suniyaa Ur Men Anhad Turaa.",
+        "Dekhaa Alakh Niranjan Nuraa, Dharke Antar Dhyaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्य असत्य का किया निबेरा, काट्या जिन चौरासी फेरा ।",
+        "अमरापुर में कीया डेरा, जो निर्भय स्थाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saty Asaty Kaa Kiyaa Niberaa, Kaatyaa Jin Chauraasi Pheraa.",
+        "Amarapur Men Kiyaa Deraa, Jo Nirbhay Sthaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तीन लोक से रहत न्यारा, जीवन मुक्ती परम उदारा ।",
+        "ज्ञान सूर्य का कर उजियारा, भेद श्रम जिन भाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tin Lok Se Rahat Nyaaraa, Jivan Mukti Param Udaaraa.",
+        "Gyaan Sury Kaa Kar Ujiyaaraa, Bhed Shram Jin Bhaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अमृत प्याला जिन भर पीया, कालबली को वश कर लीया ।",
+        "कहे टेऊँ पा आतम पीया, आनन्द माहिं समाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Amrit Pyaalaa Jin Bhar Piyaa, Kaalbali Ko Vash Kar Liyaa.",
+        "Kahe Teun Paa Aatam Piyaa, Aanand Maahin Samaanaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सोि संत सुजाना रे, जिन पाया पद निरबाना रे (टेक)."
+      "पांचों पकड़ किया जिन चूरा, सुनिया उर में अनहद तूरा ।",
+      "देखा अलख निरंजन नूरा, धरके अन्तर ध्याना रे ॥१ ॥"
     ],
     [
-      "पानचोन पकर किया जिन चुरा, सुनिया ुर मेन नहद तुरा.",
-      "देखा लख निरनजन नुरा, धरके नतर धयाना रे || 1 ||"
+      "सत्य असत्य का किया निबेरा, काट्या जिन चौरासी फेरा ।",
+      "अमरापुर में कीया डेरा, जो निर्भय स्थाना रे ॥२ ॥"
     ],
     [
-      "सतय सतय का किया निबेरा, कातया जिन चौरासि फेरा.",
-      "अमरापुर मेन किया देरा, जो निरभय सथाना रे || 2 ||."
+      "तीन लोक से रहत न्यारा, जीवन मुक्ती परम उदारा ।",
+      "ज्ञान सूर्य का कर उजियारा, भेद श्रम जिन भाना रे ॥३ ॥"
     ],
     [
-      "तिन लोक से रहत नयारा, जिवन मुक्ति परम ुदारा.",
-      "ज्ञान सुरय का कर ुजियारा, भेद शरम जिन भाना रे || 3 ||"
-    ],
-    [
-      "अमृत पयाला जिन भर पिया, कालबलि को वश कर लिया.",
-      "कहे तेऊँ पा ातम पिया, आनंद माहिन समाना रे || 4 ||"
+      "अमृत प्याला जिन भर पीया, कालबली को वश कर लीया ।",
+      "कहे टेऊँ पा आतम पीया, आनन्द माहिं समाना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Soi Sant Sujaanaa Re, Jin Paayaa Pad Nirbaanaa Re (Tek)."
-    ],
     [
       "Paanchon Pakar Kiyaa Jin Churaa, Suniyaa Ur Men Anhad Turaa.",
       "Dekhaa Alakh Niranjan Nuraa, Dharke Antar Dhyaanaa Re || 1 ||"
     ],
     [
       "Saty Asaty Kaa Kiyaa Niberaa, Kaatyaa Jin Chauraasi Pheraa.",
-      "Amarapur Men Kiyaa Deraa, Jo Nirbhay Sthaanaa Re || 2 ||."
+      "Amarapur Men Kiyaa Deraa, Jo Nirbhay Sthaanaa Re || 2 ||"
     ],
     [
       "Tin Lok Se Rahat Nyaaraa, Jivan Mukti Param Udaaraa.",
-      "Jnyaan Sury Kaa Kar Ujiyaaraa, Bhed Shram Jin Bhaanaa Re || 3 ||"
+      "Gyaan Sury Kaa Kar Ujiyaaraa, Bhed Shram Jin Bhaanaa Re || 3 ||"
     ],
     [
       "Amrit Pyaalaa Jin Bhar Piyaa, Kaalbali Ko Vash Kar Liyaa.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairav Bhajan || 11 ||",
+    "सोई सन्त सुजाना रे, जिन पाया पद निर्बाना रे",
     "Soi Sant Sujaanaa Re, Jin Paayaa Pad Nirbaanaa Re",
-    "सोि संत सुजाना रे, जिन पाया पद निरबाना रे"
+    "राग भैरव भजन 11",
+    "Raag Bhairav Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 11,
+  "overallOrder": 11,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 31",
+  "updatedAt": "2026-10-26"
 }

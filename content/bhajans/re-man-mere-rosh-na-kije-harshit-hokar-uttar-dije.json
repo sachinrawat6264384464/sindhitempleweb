@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0529",
+  "slug": "re-man-mere-rosh-na-kije-harshit-hokar-uttar-dije",
+  "categoryId": "raag-kohiyaari",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "रे मन मेरे रोष न कीजे, हर्षित होकर उत्तर दीजे",
+  "romanTitle": "Re Man Mere Rosh Na Kije, Harshit Hokar Uttar Dije",
+  "firstLine": "Re Man Mere Rosh Na Kije, Harshit Hokar Uttar Dije (Tek).",
+  "heading": "।। राग कोह्मारी भजन ।। ५० ।। ५३०।॥॥",
+  "tek": [
+    "रे मन मेरे रोष न कीजे, हर्षित होकर उत्तर दीजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Mere Rosh Na Kije, Harshit Hokar Uttar Dije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "को कहे कैसा, को कहे कैसा, शान्ति में रहना पहले जैसा ।",
+        "घट बढ़ किसको नाहिं कहीजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ko Kahe Kaisaa, Ko Kahe Kaisaa, Shaanti Men Rahnaa Pahle Jaisaa.",
+        "Ghat Barh Kisko Naahin Kahije || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुण अवगुण मय जग यह सारा, शूल सुगन्थि ज्यों फूल मंझारा ।",
+        "भौंरा बनकर सुगंधि गहीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gun Avgun May Jag Yah Saaraa, Shul Suganthi Jyon Phul Manjhaaraa.",
+        "Bhaunraa Bankar Sugandhi Gahije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जगत पदार्थ भिन भिन सारे, धरे दुकाने बेचनहारे ।",
+        "जो मन भावे सोई लीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jagat Padaarth Bhin Bhin Saare, Dhare Dukaane Bechnahaare.",
+        "Jo Man Bhaave Soi Lije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ भवसागर माहीं, विष अमृत दुख आनन्द आहीं ।",
+        "विष को त्यागे अमृत पीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bhavsaagar Maahin, Vish Amrit Dukh Aanand Aahin.",
+        "Vish Ko Tyaage Amrit Pije || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "को कहे कैसा, को कहे कैसा, शान्ति में रहना पहले जैसा ।",
+      "घट बढ़ किसको नाहिं कहीजे ॥१ ॥"
+    ],
+    [
+      "गुण अवगुण मय जग यह सारा, शूल सुगन्थि ज्यों फूल मंझारा ।",
+      "भौंरा बनकर सुगंधि गहीजे ॥२ ॥"
+    ],
+    [
+      "जगत पदार्थ भिन भिन सारे, धरे दुकाने बेचनहारे ।",
+      "जो मन भावे सोई लीजे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ भवसागर माहीं, विष अमृत दुख आनन्द आहीं ।",
+      "विष को त्यागे अमृत पीजे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Ko Kahe Kaisaa, Ko Kahe Kaisaa, Shaanti Men Rahnaa Pahle Jaisaa.",
+      "Ghat Barh Kisko Naahin Kahije || 1 ||"
+    ],
+    [
+      "Gun Avgun May Jag Yah Saaraa, Shul Suganthi Jyon Phul Manjhaaraa.",
+      "Bhaunraa Bankar Sugandhi Gahije || 2 ||"
+    ],
+    [
+      "Jagat Padaarth Bhin Bhin Saare, Dhare Dukaane Bechnahaare.",
+      "Jo Man Bhaave Soi Lije || 3 ||"
+    ],
+    [
+      "Kahe Teun Bhavsaagar Maahin, Vish Amrit Dukh Aanand Aahin.",
+      "Vish Ko Tyaage Amrit Pije || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "रे मन मेरे रोष न कीजे, हर्षित होकर उत्तर दीजे",
+    "Re Man Mere Rosh Na Kije, Harshit Hokar Uttar Dije",
+    "राग कोहियारी भजन 50",
+    "Raag Kohiyaari Bhajan 50"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
+    "bhajan"
+  ],
+  "displayOrder": 50,
+  "overallOrder": 529,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 291",
+  "updatedAt": "2026-10-26"
+}

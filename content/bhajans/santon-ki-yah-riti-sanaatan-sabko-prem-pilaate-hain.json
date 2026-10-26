@@ -2,33 +2,71 @@
   "id": "bhajan-0316",
   "slug": "santon-ki-yah-riti-sanaatan-sabko-prem-pilaate-hain",
   "categoryId": "raag-zilaa",
-  "title": "सनतोन कि यह रिति सनातन, सबको प्रेम पिलाते हैन",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "सन्तों की यह रीति सनातन, सबको प्रेम पिलाते हैं",
   "romanTitle": "Santon Ki Yah Riti Sanaatan, Sabko Prem Pilaate Hain",
   "firstLine": "Santon Ki Yah Riti Sanaatan, Sabko Prem Pilaate Hain (Tek).",
+  "heading": "।। राग ज़िला भजन ।। ३ ।। ३१६।।",
+  "tek": [
+    "सन्तों की यह रीति सनातन, सबको प्रेम पिलाते हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Ki Yah Riti Sanaatan, Sabko Prem Pilaate Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "काम क्रोध मद ताप कलेशा, जुगती साथ जलाते हैं ।",
+        "धर्म कर्म की नीत सिखाकर, सीधी राह चलाते हैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Mad Taap Kaleshaa, Jugti Saath Jalaate Hain.",
+        "Dharm Karm Ki Nit Sikhaakar, Sidhi Raah Chalaate Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जड़ चेतन की ग्रन्थी खोले, निज स्वरूप मिलाते हैं ।",
+        "जीव ईइईश का भेद मिटाकर, एक ब्रह्म दिखलाते हैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jar Chetan Ki Granthi Khole, Nij Svarup Milaate Hain.",
+        "Jiv Iiish Kaa Bhed Mitaakar, Ek Brahm Dikhlaate Hain || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आतम का उपदेश बताकर, मन से जगत भुलाते हैं ।",
+        "कहता टेऊँ द्न्‍न्द्र दूर कर, सम की सेज सुलाते हैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aatam Kaa Updesh Bataakar, Man Se Jagat Bhulaate Hain.",
+        "Kahtaa Teun Dn‍Ndr Dur Kar, Sam Ki Sej Sulaate Hain || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन कि यह रिति सनातन, सबको प्रेम पिलाते हैन (टेक)."
+      "काम क्रोध मद ताप कलेशा, जुगती साथ जलाते हैं ।",
+      "धर्म कर्म की नीत सिखाकर, सीधी राह चलाते हैं ॥१ ॥"
     ],
     [
-      "काम करोध मद ताप कलेशा, जुगति साथ जलाते हैन.",
-      "धरम करम कि नित सिखाकर, सिधि राह चलाते हैन || 1. ||."
+      "जड़ चेतन की ग्रन्थी खोले, निज स्वरूप मिलाते हैं ।",
+      "जीव ईइईश का भेद मिटाकर, एक ब्रह्म दिखलाते हैं ॥२ ॥"
     ],
     [
-      "जर चेतन कि गरनथि खोले, निज सवरुप मिलाते हैन.",
-      "जिव ीिश का भेद मिताकर, ेक बरहम दिखलाते हैन || 2 ||"
-    ],
-    [
-      "ातम का ुपदेश बताकर, मन से जगत भुलाते हैन.",
-      "कहता तेऊँ दननदर दुर कर, सम कि सेज सुलाते हैन || 3 ||"
+      "आतम का उपदेश बताकर, मन से जगत भुलाते हैं ।",
+      "कहता टेऊँ द्न्‍न्द्र दूर कर, सम की सेज सुलाते हैं ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Santon Ki Yah Riti Sanaatan, Sabko Prem Pilaate Hain (Tek)."
-    ],
-    [
       "Kaam Krodh Mad Taap Kaleshaa, Jugti Saath Jalaate Hain.",
-      "Dharm Karm Ki Nit Sikhaakar, Sidhi Raah Chalaate Hain || 1. ||."
+      "Dharm Karm Ki Nit Sikhaakar, Sidhi Raah Chalaate Hain || 1 ||"
     ],
     [
       "Jar Chetan Ki Granthi Khole, Nij Svarup Milaate Hain.",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 3 || 316 ||",
+    "सन्तों की यह रीति सनातन, सबको प्रेम पिलाते हैं",
     "Santon Ki Yah Riti Sanaatan, Sabko Prem Pilaate Hain",
-    "सनतोन कि यह रिति सनातन, सबको प्रेम पिलाते हैन"
+    "राग ज़िला भजन 3",
+    "Raag Zilaa Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 316,
+  "displayOrder": 3,
+  "overallOrder": 316,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 190",
+  "updatedAt": "2026-10-26"
 }

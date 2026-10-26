@@ -2,64 +2,115 @@
   "id": "bhajan-0110",
   "slug": "jivan-hai-din-chaar-praani-jivan-hai-din-chaar",
   "categoryId": "raag-aasaa",
-  "title": "जिवन है दीन चार परानि, जिवन है दीन चार",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "जीवन है दिन चार प्रानी, जीवन है दिन चार",
   "romanTitle": "Jivan Hai Din Chaar Praani, Jivan Hai Din Chaar",
   "firstLine": "Jivan Hai Din Chaar Praani, Jivan Hai Din Chaar (Tek).",
+  "heading": "।। राग आसा भजन ।। ४८ ।। ११०।॥।॥",
+  "tek": [
+    "जीवन है दिन चार प्रानी, जीवन है दिन चार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jivan Hai Din Chaar Praani, Jivan Hai Din Chaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ऊठत बैठत हरि गुन गाओ, साध संगति की टहल कमाओ ।",
+        "भूल न बुरी संगति में जाओ, साची करले कार ॥१ ॥9 ॥"
+      ],
+      "romanLines": [
+        "Uthat Baithat Hari Gun Gaao, Saadh Sangti Ki Tahal Kamaao.",
+        "Bhul Na Buri Sangti Men Jaao, Saachi Karle Kaar || 1 || 9 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व जनों से प्रेम बढ़ाओ, भूल न वैरु किसी से पाओ ।",
+        "रंचक किसकी दिल न दुखाओ , दया सर्व पर धार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Janon Se Prem Barhaao, Bhul Na Vairu Kisi Se Paao.",
+        "Ranchak Kiski Dil Na Dukhaao, Dayaa Sarv Par Dhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब जीवों का हित ही कीजे, अवगुन को तज गुन को लीजे ।",
+        "कटुक वचन किसको न कहीजे, मीठे वचन उच्चार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sab Jivon Kaa Hit Hi Kije, Avgun Ko Taj Gun Ko Lije.",
+        "Katuk Vachan Kisko Na Kahije, Mithe Vachan Uchchaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कछु मान न करिये, पाप कर्म से हरदम डरिये ।",
+        "पूरे गुरु की शरनी पड़िये, जांसे होय उधार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kachhu Maan Na Kariye, Paap Karm Se Hardam Dariye.",
+        "Pure Guru Ki Sharni Pariye, Jaanse Hoy Udhaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिवन है दीन चार परानि, जिवन है दीन चार (टेक)."
+      "ऊठत बैठत हरि गुन गाओ, साध संगति की टहल कमाओ ।",
+      "भूल न बुरी संगति में जाओ, साची करले कार ॥१ ॥9 ॥"
     ],
     [
-      "ुथत बैथत हरि गुन गाो, साध सनगति कि तहल कमाो.",
-      "भुल न बुरि सनगति मेन जाो, साचि करले कार || 19 ||"
+      "सर्व जनों से प्रेम बढ़ाओ, भूल न वैरु किसी से पाओ ।",
+      "रंचक किसकी दिल न दुखाओ , दया सर्व पर धार ॥२ ॥"
     ],
     [
-      "सर्व जनोन से प्रेम बरहाो, भुल न वैरु किसि से पाो.",
-      "रनचक किसकि दिल न दुखाो, दया सर्व पर धार || 2 ||."
+      "सब जीवों का हित ही कीजे, अवगुन को तज गुन को लीजे ।",
+      "कटुक वचन किसको न कहीजे, मीठे वचन उच्चार ॥३ ॥"
     ],
     [
-      "सब जिवोन का हित हि किजे, वगुन को तज गुन को लिजे.",
-      "कतुक वचन किसको न कहिजे, मिथे वचन ुचचार || 3 ||"
-    ],
-    [
-      "कहे तेऊँ कचहु मान न करिये, पाप करम से हरदम दरिये.",
-      "पुरे गुरु कि शरनि परिये, जानसे होय ुधार ||.4 ||"
+      "कहे टेऊँ कछु मान न करिये, पाप कर्म से हरदम डरिये ।",
+      "पूरे गुरु की शरनी पड़िये, जांसे होय उधार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jivan Hai Din Chaar Praani, Jivan Hai Din Chaar (Tek)."
-    ],
-    [
       "Uthat Baithat Hari Gun Gaao, Saadh Sangti Ki Tahal Kamaao.",
-      "Bhul N Buri Sangti Men Jaao, Saachi Karle Kaar || 19 ||"
+      "Bhul Na Buri Sangti Men Jaao, Saachi Karle Kaar || 1 || 9 ||"
     ],
     [
-      "Sarv Janon Se Prem Barhaao, Bhul N Vairu Kisi Se Paao.",
-      "Ranchak Kiski Dil N Dukhaao, Dayaa Sarv Par Dhaar || 2 ||."
+      "Sarv Janon Se Prem Barhaao, Bhul Na Vairu Kisi Se Paao.",
+      "Ranchak Kiski Dil Na Dukhaao, Dayaa Sarv Par Dhaar || 2 ||"
     ],
     [
       "Sab Jivon Kaa Hit Hi Kije, Avgun Ko Taj Gun Ko Lije.",
-      "Katuk Vachan Kisko N Kahije, Mithe Vachan Uchchaar || 3 ||"
+      "Katuk Vachan Kisko Na Kahije, Mithe Vachan Uchchaar || 3 ||"
     ],
     [
-      "Kahe Teun Kachhu Maan N Kariye, Paap Karm Se Hardam Dariye.",
-      "Pure Guru Ki Sharni Pariye, Jaanse Hoy Udhaar ||.4 ||"
+      "Kahe Teun Kachhu Maan Na Kariye, Paap Karm Se Hardam Dariye.",
+      "Pure Guru Ki Sharni Pariye, Jaanse Hoy Udhaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 48 || 110. ||. ||",
+    "जीवन है दिन चार प्रानी, जीवन है दिन चार",
     "Jivan Hai Din Chaar Praani, Jivan Hai Din Chaar",
-    "जिवन है दीन चार परानि, जिवन है दीन चार"
+    "राग आसा भजन 48",
+    "Raag Aasaa Bhajan 48"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 110,
+  "displayOrder": 48,
+  "overallOrder": 110,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 81",
+  "updatedAt": "2026-10-26"
 }

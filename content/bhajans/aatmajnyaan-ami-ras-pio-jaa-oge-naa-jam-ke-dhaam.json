@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0840",
+  "id": "bhajan-0838",
   "slug": "aatmajnyaan-ami-ras-pio-jaa-oge-naa-jam-ke-dhaam",
   "categoryId": "raag-jog",
-  "title": "ातमजनयान मि रस पिो, जा ोगे ना जम के धाम",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "आत्मज्ञान अमी रस पीओ, जा ओगे ना जम के धाम",
   "romanTitle": "Aatmajnyaan Ami Ras Pio, Jaa Oge Naa Jam Ke Dhaam",
   "firstLine": "Aatmajnyaan Ami Ras Pio, Jaa Oge Naa Jam Ke Dhaam (Tek).",
+  "heading": "।। राग जोग भजन ।। १० ।। ८४०॥।",
+  "tek": [
+    "आत्मज्ञान अमी रस पीओ, जा ओगे ना जम के धाम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatmajnyaan Ami Ras Pio, Jaa Oge Naa Jam Ke Dhaam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जांके पीवत मिटे प्यासा, जगे न रंचक जग की आसा ।",
+        "मिल हैं पूरण सुख विश्राम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaanke Pivat Mite Pyaasaa, Jage Na Ranchak Jag Ki Aasaa.",
+        "Mil Hain Puran Sukh Vishraam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌गुरु का सत्‌ शब्द उच्चारे, मन का फुरना सर्व निवारे ।",
+        "देखो अन्तर आतमराम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Kaa Sat‌ Shabd Uchchaare, Man Kaa Phurnaa Sarv Nivaare.",
+        "Dekho Antar Aatmaraam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अहंता ममता मोह मिटाओ, जीवन मुक्ती जग में पाओ ।",
+        "होवैं पूरण सबहीं काम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ahantaa Mamtaa Moh Mitaao, Jivan Mukti Jag Men Paao.",
+        "Hovain Puran Sabhin Kaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ लाय सहज समाधी, जीव इंश की छोड़ उपाधी ।",
+        "करिये अनुभव घर आराम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Laay Sahaj Samaadhi, Jiv Insh Ki Chhor Upaadhi.",
+        "Kariye Anubhav Ghar Aaraam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ातमजनयान मि रस पिो, जा ोगे ना जम के धाम (टेक)."
+      "जांके पीवत मिटे प्यासा, जगे न रंचक जग की आसा ।",
+      "मिल हैं पूरण सुख विश्राम ॥१ ॥"
     ],
     [
-      "जानके पिवत मिते पयासा, जगे न रनचक जग कि ासा.",
-      "मिल हैन पुरन सुख विशराम || 1 ||."
+      "सत्‌गुरु का सत्‌ शब्द उच्चारे, मन का फुरना सर्व निवारे ।",
+      "देखो अन्तर आतमराम ॥२ ॥"
     ],
     [
-      "सतगुरु का सत‌ शबद ुचचारे, मन का फुरना सर्व निवारे.",
-      "देखो नतर ातमराम || 2. ||."
+      "अहंता ममता मोह मिटाओ, जीवन मुक्ती जग में पाओ ।",
+      "होवैं पूरण सबहीं काम ॥३ ॥"
     ],
     [
-      "हनता ममता मोह मिताो, जिवन मुक्ति जग मेन पाो.",
-      "होवैन पुरन सभिन काम. ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ लाय सहज समाधि, जिव िनश कि चहोर ुपाधि.",
-      "करिये नुभव घर ाराम ||.4. ||."
+      "कहे टेऊँ लाय सहज समाधी, जीव इंश की छोड़ उपाधी ।",
+      "करिये अनुभव घर आराम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aatmajnyaan Ami Ras Pio, Jaa Oge Naa Jam Ke Dhaam (Tek)."
-    ],
-    [
-      "Jaanke Pivat Mite Pyaasaa, Jage N Ranchak Jag Ki Aasaa.",
-      "Mil Hain Puran Sukh Vishraam || 1 ||."
+      "Jaanke Pivat Mite Pyaasaa, Jage Na Ranchak Jag Ki Aasaa.",
+      "Mil Hain Puran Sukh Vishraam || 1 ||"
     ],
     [
       "Sat‌Guru Kaa Sat‌ Shabd Uchchaare, Man Kaa Phurnaa Sarv Nivaare.",
-      "Dekho Antar Aatmaraam || 2. ||."
+      "Dekho Antar Aatmaraam || 2 ||"
     ],
     [
       "Ahantaa Mamtaa Moh Mitaao, Jivan Mukti Jag Men Paao.",
-      "Hovain Puran Sabhin Kaam. ||.3 ||"
+      "Hovain Puran Sabhin Kaam || 3 ||"
     ],
     [
       "Kahe Teun Laay Sahaj Samaadhi, Jiv Insh Ki Chhor Upaadhi.",
-      "Kariye Anubhav Ghar Aaraam ||.4. ||."
+      "Kariye Anubhav Ghar Aaraam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 10 || 840 ||.",
+    "आत्मज्ञान अमी रस पीओ, जा ओगे ना जम के धाम",
     "Aatmajnyaan Ami Ras Pio, Jaa Oge Naa Jam Ke Dhaam",
-    "ातमजनयान मि रस पिो, जा ोगे ना जम के धाम"
+    "राग जोग भजन 10",
+    "Raag Jog Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 840,
+  "displayOrder": 10,
+  "overallOrder": 838,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 445",
+  "updatedAt": "2026-10-26"
 }

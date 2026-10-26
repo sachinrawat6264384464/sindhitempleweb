@@ -1,67 +1,107 @@
 {
-  "id": "bhajan-0816",
+  "id": "bhajan-0814",
   "slug": "satsang-men-chalo-tum-shraddhaa-dhare-pyaaraa",
   "categoryId": "raag-maanjh",
-  "title": "सत्संग मेन चलो तुम, शरदधा धरे पयारा",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "सत्संग में चलो तुम, श्रद्धा धरे प्यारा",
   "romanTitle": "Satsang Men Chalo Tum, Shraddhaa Dhare Pyaaraa",
-  "firstLine": "Satsang Men Chalo Tum, Shraddhaa Dhare Pyaaraa. Shravan Kare Vachan Ko, Man Men Karo Vichaaraa (Tek).",
+  "firstLine": "Satsang Men Chalo Tum, Shraddhaa Dhare Pyaaraa.",
+  "heading": "।। राग मांझ भजन ।। ३ ।। ८१६।॥।",
+  "tek": [
+    "सत्संग में चलो तुम, श्रद्धा धरे प्यारा ।",
+    "श्रवण करे वचन को, मन में करो विचारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satsang Men Chalo Tum, Shraddhaa Dhare Pyaaraa.",
+    "Shravan Kare Vachan Ko, Man Men Karo Vichaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग के वचन से, आज्ञान नाश होवे ।",
+        "पावन अभेद ज्ञाना, उपजे हृदय मंजझारा ।8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Ke Vachan Se, Aajnyaan Naash Hove.",
+        "Paavan Abhed Jnyaanaa, Upje Hriday Manjjhaaraa.8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "संसार रोग भारी, सब जीव को लगा है ।",
+        "सत्संग की दवा से, मिट जात रोग सारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sansaar Rog Bhaari, Sab Jiv Ko Lagaa Hai.",
+        "Satsang Ki Davaa Se, Mit Jaat Rog Saaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "व्यवहार पुनि परमार्थ, सत्संग माहिं सिद्ध हो ।",
+        "सुरतरु समान सतूसंग, फल देत है अपारा ॥ डे ॥ ।",
+        "भव सिन्धु माहिं जानो, सत्संग दृढ़ नौका ।",
+        "कहे टेऊँ ताहिं चढ़ कर, पल में तरो उदारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Vyavhaar Puni Parmaarth, Satsang Maahin Siddh Ho.",
+        "Surtaru Samaan Satusang, Phal Det Hai Apaaraa || De ||",
+        "Bhav Sindhu Maahin Jaano, Satsang Drirh Naukaa.",
+        "Kahe Teun Taahin Charh Kar, Pal Men Taro Udaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सत्संग मेन चलो तुम, शरदधा धरे पयारा.",
-      "शरवन करे वचन को, मन मेन करो विचारा (टेक)."
+      "सत्संग के वचन से, आज्ञान नाश होवे ।",
+      "पावन अभेद ज्ञाना, उपजे हृदय मंजझारा ।8 ॥१ ॥"
     ],
     [
-      "सत्संग के वचन से, ाजनयान नाश होवे.",
-      "पावन भेद जनयाना, ुपजे हरिदय मनजझारा.8$ ||."
+      "संसार रोग भारी, सब जीव को लगा है ।",
+      "सत्संग की दवा से, मिट जात रोग सारा ॥२ ॥"
     ],
     [
-      "सनसार रोग भारि, सब जिव को लगा है.",
-      "सत्संग कि दवा से, मित जात रोग सारा || 2 ||."
-    ],
-    [
-      "वयवहार पुनि परमारथ, सत्संग माहिन सिदध हो.",
-      "सुरतरु समान सतुसनग, फल देत है पारा || दे ||."
-    ],
-    [
-      "भव सिनधु माहिन जानो, सत्संग दरिरह नौका.",
-      "कहे तेऊँ ताहिन चरह कर, पल मेन तरो ुदारा || 4 ||."
+      "व्यवहार पुनि परमार्थ, सत्संग माहिं सिद्ध हो ।",
+      "सुरतरु समान सतूसंग, फल देत है अपारा ॥ डे ॥ ।",
+      "भव सिन्धु माहिं जानो, सत्संग दृढ़ नौका ।",
+      "कहे टेऊँ ताहिं चढ़ कर, पल में तरो उदारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Satsang Men Chalo Tum, Shraddhaa Dhare Pyaaraa.",
-      "Shravan Kare Vachan Ko, Man Men Karo Vichaaraa (Tek)."
-    ],
-    [
       "Satsang Ke Vachan Se, Aajnyaan Naash Hove.",
-      "Paavan Abhed Jnyaanaa, Upje Hriday Manjjhaaraa.8$ ||."
+      "Paavan Abhed Jnyaanaa, Upje Hriday Manjjhaaraa.8 || 1 ||"
     ],
     [
       "Sansaar Rog Bhaari, Sab Jiv Ko Lagaa Hai.",
-      "Satsang Ki Davaa Se, Mit Jaat Rog Saaraa || 2 ||."
+      "Satsang Ki Davaa Se, Mit Jaat Rog Saaraa || 2 ||"
     ],
     [
       "Vyavhaar Puni Parmaarth, Satsang Maahin Siddh Ho.",
-      "Surtaru Samaan Satusang, Phal Det Hai Apaaraa || De ||."
-    ],
-    [
+      "Surtaru Samaan Satusang, Phal Det Hai Apaaraa || De ||",
       "Bhav Sindhu Maahin Jaano, Satsang Drirh Naukaa.",
-      "Kahe Teun Taahin Charh Kar, Pal Men Taro Udaaraa || 4 ||."
+      "Kahe Teun Taahin Charh Kar, Pal Men Taro Udaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Maanjh Bhajan || 3 || 816. ||.",
+    "सत्संग में चलो तुम, श्रद्धा धरे प्यारा",
     "Satsang Men Chalo Tum, Shraddhaa Dhare Pyaaraa",
-    "सत्संग मेन चलो तुम, शरदधा धरे पयारा"
+    "राग मांझ भजन 3",
+    "Raag Maanjh Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 816,
+  "displayOrder": 3,
+  "overallOrder": 814,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 432",
+  "updatedAt": "2026-10-26"
 }

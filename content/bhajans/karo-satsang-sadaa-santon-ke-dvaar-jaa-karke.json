@@ -1,73 +1,122 @@
 {
-  "id": "bhajan-0695",
+  "id": "bhajan-0693",
   "slug": "karo-satsang-sadaa-santon-ke-dvaar-jaa-karke",
   "categoryId": "raag-pahaari",
-  "title": "करो सत्संग सदा, सनतोन के दवार जा करके",
-  "romanTitle": "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke",
-  "firstLine": "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke, Hriday Men Prem Paa Karke (Tek).",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "करो सत्संग सदा, सन्तों के द्वार जा करके,",
+  "romanTitle": "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke,",
+  "firstLine": "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke,",
+  "heading": "।। राग पहाड़ी भजन ।॥। ४ंद ।। ६९४।।",
+  "tek": [
+    "करो सत्संग सदा, सन्तों के द्वार जा करके,",
+    "हृदय में प्रेम पा करके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke,",
+    "Hriday Men Prem Paa Karke (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रद्धा मन धारो यही, सन्त हरी रूप सही ।",
+        "सेवा करो सिर निवा करके ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Man Dhaaro Yahi, Sant Hari Rup Sahi.",
+        "Sevaa Karo Sir Nivaa Karke || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "व्यय",
+        "भोग विषयों से हटो, सन्त संग नाम रटो ।",
+        "पाओ सुख मन मिला करके ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vyay",
+        "Bhog Vishyon Se Hato, Sant Sang Naam Rato.",
+        "Paao Sukh Man Milaa Karke || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्तों से ज्ञान सुनो, तांको हृदय में गुनो ।",
+        "चलो यह लाभ उठा करके ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santon Se Gyaan Suno, Taanko Hriday Men Guno.",
+        "Chalo Yah Laabh Uthaa Karke || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ शरन गहो, परम आनन्द लहो ।",
+        "जन्म मरन को मिटा करके ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sharan Gaho, Param Aanand Laho.",
+        "Janm Maran Ko Mitaa Karke || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सत्संग सदा, सनतोन के दवार जा करके,",
-      "हरिदय मेन प्रेम पा करके (टेक)."
+      "श्रद्धा मन धारो यही, सन्त हरी रूप सही ।",
+      "सेवा करो सिर निवा करके ॥१ ॥"
     ],
     [
-      "शरदधा मन धारो यहि, संत हरि रुप सहि.",
-      "सेवा करो सिर निवा करके || 1 ||."
+      "व्यय",
+      "भोग विषयों से हटो, सन्त संग नाम रटो ।",
+      "पाओ सुख मन मिला करके ॥२ ॥"
     ],
     [
-      "वयय",
-      "भोग विशयोन से हतो, संत सनग नाम रतो."
+      "सन्तों से ज्ञान सुनो, तांको हृदय में गुनो ।",
+      "चलो यह लाभ उठा करके ॥३ ॥"
     ],
     [
-      "पाो सुख मन मिला करके ||.2 ||",
-      "सनतोन से ज्ञान सुनो, तानको हरिदय मेन गुनो."
-    ],
-    [
-      "चलो यह लाभ ुथा करके ||.3 ||",
-      "कहे तेऊँ शरन गहो, परम आनंद लहो."
-    ],
-    [
-      "जनम मरन को मिता करके || 4 ||"
+      "कहे टेऊँ शरन गहो, परम आनन्द लहो ।",
+      "जन्म मरन को मिटा करके ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke,",
-      "Hriday Men Prem Paa Karke (Tek)."
-    ],
-    [
       "Shraddhaa Man Dhaaro Yahi, Sant Hari Rup Sahi.",
-      "Sevaa Karo Sir Nivaa Karke || 1 ||."
+      "Sevaa Karo Sir Nivaa Karke || 1 ||"
     ],
     [
       "Vyay",
-      "Bhog Vishyon Se Hato, Sant Sang Naam Rato."
+      "Bhog Vishyon Se Hato, Sant Sang Naam Rato.",
+      "Paao Sukh Man Milaa Karke || 2 ||"
     ],
     [
-      "Paao Sukh Man Milaa Karke ||.2 ||",
-      "Santon Se Jnyaan Suno, Taanko Hriday Men Guno."
+      "Santon Se Gyaan Suno, Taanko Hriday Men Guno.",
+      "Chalo Yah Laabh Uthaa Karke || 3 ||"
     ],
     [
-      "Chalo Yah Laabh Uthaa Karke ||.3 ||",
-      "Kahe Teun Sharan Gaho, Param Aanand Laho."
-    ],
-    [
+      "Kahe Teun Sharan Gaho, Param Aanand Laho.",
       "Janm Maran Ko Mitaa Karke || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan. ||. 4Nd || 694 ||",
-    "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke",
-    "करो सत्संग सदा, सनतोन के दवार जा करके"
+    "करो सत्संग सदा, सन्तों के द्वार जा करके,",
+    "Karo Satsang Sadaa, Santon Ke Dvaar Jaa Karke,",
+    "राग पहाड़ी भजन 46",
+    "Raag Pahaari Bhajan 46"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 695,
+  "displayOrder": 46,
+  "overallOrder": 693,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 368",
+  "updatedAt": "2026-10-26"
 }

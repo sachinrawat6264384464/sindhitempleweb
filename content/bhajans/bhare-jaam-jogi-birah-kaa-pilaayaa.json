@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0906",
+  "id": "bhajan-0904",
   "slug": "bhare-jaam-jogi-birah-kaa-pilaayaa",
   "categoryId": "raag-jog",
-  "title": "भरे जाम जोगि, बिरह का पिलाया",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "भरे जाम जोगी, बिरह का पिलाया",
   "romanTitle": "Bhare Jaam Jogi, Birah Kaa Pilaayaa",
-  "firstLine": "Bhare Jaam Jogi, Birah Kaa Pilaayaa. Bhayaa Dev Darshan, Jahin Man Bhulaayaa (Tek).",
+  "firstLine": "Bhare Jaam Jogi, Birah Kaa Pilaayaa.",
+  "heading": "।। राग जोग भजन ।। ७६ ।। ९०६ ॥।",
+  "tek": [
+    "भरे जाम जोगी, बिरह का पिलाया ।",
+    "भया देव दर्शन, जहीं मन भुलाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhare Jaam Jogi, Birah Kaa Pilaayaa.",
+    "Bhayaa Dev Darshan, Jahin Man Bhulaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धरे चौ साधन को, हरे भव बन्धन को ।",
+        "विकारों के बन को, विरह अगि जलाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhare Chau Saadhan Ko, Hare Bhav Bandhan Ko.",
+        "Vikaaron Ke Ban Ko, Virah Agi Jalaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धरनि यह बदन है, इन्द्रियगण चिमन है ।",
+        "देवीगुण सुमन है, सुगन्ध सरिस लाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dharni Yah Badan Hai, Indriygan Chiman Hai.",
+        "Devigun Suman Hai, Sugandh Saris Laayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "खाया ज्ञान फल को , पीया प्रेम जल को ।",
+        "पाया ब्रह्म बल को, इन्द्र को गलाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Khaayaa Gyaan Phal Ko, Piyaa Prem Jal Ko.",
+        "Paayaa Brahm Bal Ko, Indr Ko Galaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "टेऊँ ताप जेई, गया सहज सेई ।",
+        "जो साक्षी सनेही, सो मोहन मिलाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Teun Taap Jei, Gayaa Sahaj Sei.",
+        "Jo Saakshi Sanehi, So Mohan Milaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भरे जाम जोगि, बिरह का पिलाया.",
-      "भया देव दरशन, जहिन मन भुलाया (टेक)."
+      "धरे चौ साधन को, हरे भव बन्धन को ।",
+      "विकारों के बन को, विरह अगि जलाया ॥१ ॥"
     ],
     [
-      "धरे चौ साधन को, हरे भव बनधन को.",
-      "विकारोन के बन को, विरह गि जलाया || 1 ||"
+      "धरनि यह बदन है, इन्द्रियगण चिमन है ।",
+      "देवीगुण सुमन है, सुगन्ध सरिस लाया ॥२ ॥"
     ],
     [
-      "धरनि यह बदन है, िनदरियगन चिमन है.",
-      "देविगुन सुमन है, सुगनध सरिस लाया ||.2 ||."
+      "खाया ज्ञान फल को , पीया प्रेम जल को ।",
+      "पाया ब्रह्म बल को, इन्द्र को गलाया ॥३ ॥"
     ],
     [
-      "खाया ज्ञान फल को, पिया प्रेम जल को.",
-      "पाया बरहम बल को, िनदर को गलाया ||.3 ||."
-    ],
-    [
-      "तेऊँ ताप जेि, गया सहज सेि.",
-      "जो साक्षी सनेहि, सो मोहन मिलाया || 4 ||"
+      "टेऊँ ताप जेई, गया सहज सेई ।",
+      "जो साक्षी सनेही, सो मोहन मिलाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Bhare Jaam Jogi, Birah Kaa Pilaayaa.",
-      "Bhayaa Dev Darshan, Jahin Man Bhulaayaa (Tek)."
-    ],
     [
       "Dhare Chau Saadhan Ko, Hare Bhav Bandhan Ko.",
       "Vikaaron Ke Ban Ko, Virah Agi Jalaayaa || 1 ||"
     ],
     [
       "Dharni Yah Badan Hai, Indriygan Chiman Hai.",
-      "Devigun Suman Hai, Sugandh Saris Laayaa ||.2 ||."
+      "Devigun Suman Hai, Sugandh Saris Laayaa || 2 ||"
     ],
     [
-      "Khaayaa Jnyaan Phal Ko, Piyaa Prem Jal Ko.",
-      "Paayaa Brahm Bal Ko, Indr Ko Galaayaa ||.3 ||."
+      "Khaayaa Gyaan Phal Ko, Piyaa Prem Jal Ko.",
+      "Paayaa Brahm Bal Ko, Indr Ko Galaayaa || 3 ||"
     ],
     [
       "Teun Taap Jei, Gayaa Sahaj Sei.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 76 || 906 ||.",
+    "भरे जाम जोगी, बिरह का पिलाया",
     "Bhare Jaam Jogi, Birah Kaa Pilaayaa",
-    "भरे जाम जोगि, बिरह का पिलाया"
+    "राग जोग भजन 76",
+    "Raag Jog Bhajan 76"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 906,
+  "displayOrder": 76,
+  "overallOrder": 904,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 476",
+  "updatedAt": "2026-10-26"
 }

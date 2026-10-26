@@ -2,58 +2,98 @@
   "id": "bhajan-0201",
   "slug": "samajh-man-jhuthaa-hai-sansaar",
   "categoryId": "raag-tori",
-  "title": "समझ मन झुथा है सनसार",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "समझ मन झूठा है संसार",
   "romanTitle": "Samajh Man Jhuthaa Hai Sansaar",
-  "firstLine": "Samajh Man Jhuthaa Hai Sansaar. Mrig Trishnaa Kaa Jal Jyon Mithyaa Taise Jagat Asaar (Tek).",
+  "firstLine": "Samajh Man Jhuthaa Hai Sansaar.",
+  "heading": "।। राग टोड़ी भजन ।। ९ ।। २०१॥।",
+  "tek": [
+    "समझ मन झूठा है संसार ।",
+    "मृग तृष्णा का जल ज्यों मिथ्या तैसे जगत असार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Samajh Man Jhuthaa Hai Sansaar.",
+    "Mrig Trishnaa Kaa Jal Jyon Mithyaa Taise Jagat Asaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता सुत त्रिया आदी झूठा सब परिवार ।",
+        "भूल न इससे प्रीति लगाओ तोड़ मोह का जार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Triyaa Aadi Jhuthaa Sab Parivaar.",
+        "Bhul Na Isse Priti Lagaao Tor Moh Kaa Jaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काल दमामा शिर पर बाजे सुनता क्यों न गँवार ।",
+        "इक दिन तुमको आय अचानक मार करे मुड़दार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaal Damaamaa Shir Par Baaje Suntaa Kyon Na Ganvaar.",
+        "Ik Din Tumko Aay Achaanak Maar Kare Murdaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गाफ़िल गफ्लत नीन्द त्यागे जल्दी हो हुशियार ।",
+        "कहे टेऊँ जप राम नाम को पावो मोक्ष द्वार ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Gaafil Gaphlat Nind Tyaage Jaldi Ho Hushiyaar.",
+        "Kahe Teun Jap Raam Naam Ko Paavo Moksh Dvaar || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "समझ मन झुथा है सनसार.",
-      "मरिग तरिशना का जल जयोन मिथया तैसे जगत सार (टेक)."
+      "मात पिता सुत त्रिया आदी झूठा सब परिवार ।",
+      "भूल न इससे प्रीति लगाओ तोड़ मोह का जार ॥१ ॥"
     ],
     [
-      "मात पिता सुत तरिया ादि झुथा सब परिवार.",
-      "भुल न िससे परिति लगाो तोर मोह का जार || 1 ||."
+      "काल दमामा शिर पर बाजे सुनता क्यों न गँवार ।",
+      "इक दिन तुमको आय अचानक मार करे मुड़दार ॥२ ॥"
     ],
     [
-      "काल दमामा शिर पर बाजे सुनता कयोन न गनवार.",
-      "िक दीन तुमको ाय चानक मार करे मुरदार || 2 ||."
-    ],
-    [
-      "गाfिल गफलत निनद तयागे जलदि हो हुशियार.",
-      "कहे तेऊँ जप राम नाम को पावो मोक्ष दवार || 3े ||."
+      "गाफ़िल गफ्लत नीन्द त्यागे जल्दी हो हुशियार ।",
+      "कहे टेऊँ जप राम नाम को पावो मोक्ष द्वार ॥३े ॥ ।"
     ]
   ],
   "romanLyrics": [
     [
-      "Samajh Man Jhuthaa Hai Sansaar.",
-      "Mrig Trishnaa Kaa Jal Jyon Mithyaa Taise Jagat Asaar (Tek)."
-    ],
-    [
       "Maat Pitaa Sut Triyaa Aadi Jhuthaa Sab Parivaar.",
-      "Bhul N Isse Priti Lagaao Tor Moh Kaa Jaar || 1 ||."
+      "Bhul Na Isse Priti Lagaao Tor Moh Kaa Jaar || 1 ||"
     ],
     [
-      "Kaal Damaamaa Shir Par Baaje Suntaa Kyon N Ganvaar.",
-      "Ik Din Tumko Aay Achaanak Maar Kare Murdaar || 2 ||."
+      "Kaal Damaamaa Shir Par Baaje Suntaa Kyon Na Ganvaar.",
+      "Ik Din Tumko Aay Achaanak Maar Kare Murdaar || 2 ||"
     ],
     [
       "Gaafil Gaphlat Nind Tyaage Jaldi Ho Hushiyaar.",
-      "Kahe Teun Jap Raam Naam Ko Paavo Moksh Dvaar || 3E ||."
+      "Kahe Teun Jap Raam Naam Ko Paavo Moksh Dvaar || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tori Bhajan || 9 || 201 ||.",
+    "समझ मन झूठा है संसार",
     "Samajh Man Jhuthaa Hai Sansaar",
-    "समझ मन झुथा है सनसार"
+    "राग तोड़ी भजन 9",
+    "Raag Tori Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 201,
+  "displayOrder": 9,
+  "overallOrder": 201,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 129",
+  "updatedAt": "2026-10-26"
 }

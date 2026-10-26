@@ -2,30 +2,68 @@
   "id": "bhajan-0314",
   "slug": "param-pyaari-praan-adhaari-murli-sadguru-vaali-hai",
   "categoryId": "raag-zilaa",
-  "title": "परम पयारि परान धारि, मुरलि सद्गुरु वालि है",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "परम प्यारी प्रान अधारी, मुरली सद्‌गुरु वाली है",
   "romanTitle": "Param Pyaari Praan Adhaari, Murli Sad‌Guru Vaali Hai",
   "firstLine": "Param Pyaari Praan Adhaari, Murli Sad‌Guru Vaali Hai (Tek).",
+  "heading": "।। राग ज़िला भजन ।। १ ।। ३१४।।",
+  "tek": [
+    "परम प्यारी प्रान अधारी, मुरली सद्‌गुरु वाली है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Param Pyaari Praan Adhaari, Murli Sad‌Guru Vaali Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जाहिं बजाकर मनमोहन भी, चालत चाल मराली है ।",
+        "जिसकी तान सुनत ही सबकी, होई मति मतिवाली है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaahin Bajaakar Manmohan Bhi, Chaalat Chaal Maraali Hai.",
+        "Jiski Taan Sunat Hi Sabki, Hoi Mati Mativaali Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जग में साज़ बजत बहुते पर, इसकी तान निराली है ।",
+        "जो जो सुनता सो वश होता, ज्यों मुरली प्रति व्याली है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jag Men Saaz Bajat Bahute Par, Iski Taan Niraali Hai.",
+        "Jo Jo Suntaa So Vash Hotaa, Jyon Murli Prati Vyaali Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ यह निर्गुण मुरली, अमृत रस की आली है ।",
+        "एक पलक नहिं भूलत मुझसे, आदि अन्त रखवाली है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Nirgun Murli, Amrit Ras Ki Aali Hai.",
+        "Ek Palak Nahin Bhulat Mujhse, Aadi Ant Rakhvaali Hai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परम पयारि परान धारि, मुरलि सद्गुरु वालि है (टेक)."
+      "जाहिं बजाकर मनमोहन भी, चालत चाल मराली है ।",
+      "जिसकी तान सुनत ही सबकी, होई मति मतिवाली है ॥१ ॥"
     ],
     [
-      "जाहिन बजाकर मनमोहन भि, चालत चाल मरालि है.",
-      "जिसकि तान सुनत हि सबकि, होि मति मतिवालि है || 1 ||"
+      "जग में साज़ बजत बहुते पर, इसकी तान निराली है ।",
+      "जो जो सुनता सो वश होता, ज्यों मुरली प्रति व्याली है ॥२ ॥"
     ],
     [
-      "जग मेन साz बजत बहुते पर, िसकि तान निरालि है.",
-      "जो जो सुनता सो वश होता, जयोन मुरलि परति वयालि है || 2 ||"
-    ],
-    [
-      "कहे तेऊँ यह निरगुन मुरलि, अमृत रस कि ालि है.",
-      "ेक पलक नहिन भुलत मुझसे, ादि नत रखवालि है || 3 ||."
+      "कहे टेऊँ यह निर्गुण मुरली, अमृत रस की आली है ।",
+      "एक पलक नहिं भूलत मुझसे, आदि अन्त रखवाली है ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Param Pyaari Praan Adhaari, Murli Sad‌Guru Vaali Hai (Tek)."
-    ],
     [
       "Jaahin Bajaakar Manmohan Bhi, Chaalat Chaal Maraali Hai.",
       "Jiski Taan Sunat Hi Sabki, Hoi Mati Mativaali Hai || 1 ||"
@@ -36,23 +74,24 @@
     ],
     [
       "Kahe Teun Yah Nirgun Murli, Amrit Ras Ki Aali Hai.",
-      "Ek Palak Nahin Bhulat Mujhse, Aadi Ant Rakhvaali Hai || 3 ||."
+      "Ek Palak Nahin Bhulat Mujhse, Aadi Ant Rakhvaali Hai || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 1 || 314 ||",
+    "परम प्यारी प्रान अधारी, मुरली सद्‌गुरु वाली है",
     "Param Pyaari Praan Adhaari, Murli Sad‌Guru Vaali Hai",
-    "परम पयारि परान धारि, मुरलि सद्गुरु वालि है"
+    "राग ज़िला भजन 1",
+    "Raag Zilaa Bhajan 1"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "zilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
     "bhajan"
   ],
-  "displayOrder": 314,
+  "displayOrder": 1,
+  "overallOrder": 314,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 189",
+  "updatedAt": "2026-10-26"
 }

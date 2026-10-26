@@ -1,57 +1,100 @@
 {
-  "id": "bhajan-0605",
+  "id": "bhajan-0603",
   "slug": "saajan-mujh-se-aan-milo-abdarshan-ki-mujh-pyaasaa-hai",
   "categoryId": "raag-kaamol",
-  "title": "साजन मुझ से ान मिलो बदरशन कि मुझ पयासा है",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "साजन मुझ से आन मिलो अब,दर्शन की मुझ प्यासा है",
   "romanTitle": "Saajan Mujh Se Aan Milo Ab,Darshan Ki Mujh Pyaasaa Hai",
   "firstLine": "Saajan Mujh Se Aan Milo Ab,Darshan Ki Mujh Pyaasaa Hai (Tek).",
+  "heading": "।। राग कामोल भजन ।। ६ ।। ६०४॥।",
+  "tek": [
+    "साजन मुझ से आन मिलो अब,दर्शन की मुझ प्यासा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saajan Mujh Se Aan Milo Ab,Darshan Ki Mujh Pyaasaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दिवस दिवस इक युग सम बीते ,पल पल जानूं मासा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Divas Divas Ik Yug Sam Bite,Pal Pal Jaanun Maasaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम बिन सारे जग के नाते, जानत मैं जम फासा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Bin Saare Jag Ke Naate, Jaanat Main Jam Phaasaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साजन तुम्हरे दरस बिना यह, दुखिया मेरा स्वासा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saajan Tumhare Daras Binaa Yah, Dukhiyaa Meraa Svaasaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ निज दर्शन दीजे, यह मेरी अरदासा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nij Darshan Dije, Yah Meri Ardaasaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साजन मुझ से ान मिलो बदरशन कि मुझ पयासा है (टेक)."
+      "दिवस दिवस इक युग सम बीते ,पल पल जानूं मासा है ॥१ ॥"
     ],
     [
-      "दिवस दिवस िक युग सम बितेपल पल जानुन मासा है || 1 ||."
+      "तुम बिन सारे जग के नाते, जानत मैं जम फासा है ॥२ ॥"
     ],
     [
-      "तुम बिन सारे जग के नाते, जानत मैं जम फासा है || 2 ||."
+      "साजन तुम्हरे दरस बिना यह, दुखिया मेरा स्वासा है ॥३ ॥"
     ],
     [
-      "साजन तुमहरे दरस बिना यह, दुखिया मेरा सवासा है || 3 ||"
-    ],
-    [
-      "कहे तेऊँ निज दरशन दिजे, यह मेरि रदासा है || 4 ||."
+      "कहे टेऊँ निज दर्शन दीजे, यह मेरी अरदासा है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saajan Mujh Se Aan Milo Ab,Darshan Ki Mujh Pyaasaa Hai (Tek)."
+      "Divas Divas Ik Yug Sam Bite,Pal Pal Jaanun Maasaa Hai || 1 ||"
     ],
     [
-      "Divas Divas Ik Yug Sam Bite,Pal Pal Jaanun Maasaa Hai || 1 ||."
-    ],
-    [
-      "Tum Bin Saare Jag Ke Naate, Jaanat Main Jam Phaasaa Hai || 2 ||."
+      "Tum Bin Saare Jag Ke Naate, Jaanat Main Jam Phaasaa Hai || 2 ||"
     ],
     [
       "Saajan Tumhare Daras Binaa Yah, Dukhiyaa Meraa Svaasaa Hai || 3 ||"
     ],
     [
-      "Kahe Teun Nij Darshan Dije, Yah Meri Ardaasaa Hai || 4 ||."
+      "Kahe Teun Nij Darshan Dije, Yah Meri Ardaasaa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kaamol Bhajan || 6 || 604 ||.",
+    "साजन मुझ से आन मिलो अब,दर्शन की मुझ प्यासा है",
     "Saajan Mujh Se Aan Milo Ab,Darshan Ki Mujh Pyaasaa Hai",
-    "साजन मुझ से ान मिलो बदरशन कि मुझ पयासा है"
+    "राग कामोल भजन 6",
+    "Raag Kaamol Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kaamol"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
+    "bhajan"
   ],
-  "displayOrder": 605,
+  "displayOrder": 6,
+  "overallOrder": 603,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 326",
+  "updatedAt": "2026-10-26"
 }

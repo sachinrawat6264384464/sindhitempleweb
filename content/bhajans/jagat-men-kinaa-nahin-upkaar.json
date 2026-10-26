@@ -2,64 +2,98 @@
   "id": "bhajan-0202",
   "slug": "jagat-men-kinaa-nahin-upkaar",
   "categoryId": "raag-tori",
-  "title": "जगत मेन किना नहिन ुपकार",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "जगत में कीना नहिं उपकार",
   "romanTitle": "Jagat Men Kinaa Nahin Upkaar",
-  "firstLine": "Jagat Men Kinaa Nahin Upkaar. Nishdin Pet Bharan Hit Tumne Karm Kiye Badkaar (Tek).",
+  "firstLine": "Jagat Men Kinaa Nahin Upkaar.",
+  "heading": "।। राग टोड़ी भजन ।। १० ।। २०२।॥।",
+  "tek": [
+    "जगत में कीना नहिं उपकार ।",
+    "निशदिन पेट भरन हित तुमने कर्म किये बदकार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jagat Men Kinaa Nahin Upkaar.",
+    "Nishdin Pet Bharan Hit Tumne Karm Kiye Badkaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आसा तृष्णा के वश होके कीने पाप अपार ।",
+        "नेक कर्म तुम एक न कीना पड़ा लोभ के लार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aasaa Trishnaa Ke Vash Hoke Kine Paap Apaar.",
+        "Nek Karm Tum Ek Na Kinaa Paraa Lobh Ke Laar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष तन दुर्लभ यह तुमने दिया भोग में डार ।",
+        "दीन जनों को सुख ना दीया तांते तोहि धिक्कार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Durlabh Yah Tumne Diyaa Bhog Men Daar.",
+        "Din Janon Ko Sukh Naa Diyaa Taante Tohi Dhikkaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दया धर्म बिन तेरा जीवन सारा है बेकार ।",
+        "कहे टेऊँं अब भी कछु करले जांते होय उद्धार ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Dayaa Dharm Bin Teraa Jivan Saaraa Hai Bekaar.",
+        "Kahe Teunn Ab Bhi Kachhu Karle Jaante Hoy Uddhaar || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जगत मेन किना नहिन ुपकार.",
-      "निशदिन पेत भरन हित तुमने करम किये बदकार (टेक)."
+      "आसा तृष्णा के वश होके कीने पाप अपार ।",
+      "नेक कर्म तुम एक न कीना पड़ा लोभ के लार ॥१ ॥"
     ],
     [
-      "ासा तरिशना के वश होके किने पाप पार.",
-      "नेक करम तुम ेक न किना परा लोभ के लार || 1 ||"
+      "मानुष तन दुर्लभ यह तुमने दिया भोग में डार ।",
+      "दीन जनों को सुख ना दीया तांते तोहि धिक्कार ॥२ ॥"
     ],
     [
-      "मानुश तन दुरलभ यह तुमने दिया भोग मेन दार.",
-      "दीन जनोन को सुख ना दिया तानते तोहि धिककार || 2 ||."
-    ],
-    [
-      "दया धरम बिन तेरा जिवन सारा है बेकार.",
-      "कहे तेुनन ब भि कचहु करले जानते होय ुदधार || 3े ||."
-    ],
-    [
-      "तह"
+      "दया धर्म बिन तेरा जीवन सारा है बेकार ।",
+      "कहे टेऊँं अब भी कछु करले जांते होय उद्धार ॥३े ॥ ।"
     ]
   ],
   "romanLyrics": [
     [
-      "Jagat Men Kinaa Nahin Upkaar.",
-      "Nishdin Pet Bharan Hit Tumne Karm Kiye Badkaar (Tek)."
-    ],
-    [
       "Aasaa Trishnaa Ke Vash Hoke Kine Paap Apaar.",
-      "Nek Karm Tum Ek N Kinaa Paraa Lobh Ke Laar || 1 ||"
+      "Nek Karm Tum Ek Na Kinaa Paraa Lobh Ke Laar || 1 ||"
     ],
     [
       "Maanush Tan Durlabh Yah Tumne Diyaa Bhog Men Daar.",
-      "Din Janon Ko Sukh Naa Diyaa Taante Tohi Dhikkaar || 2 ||."
+      "Din Janon Ko Sukh Naa Diyaa Taante Tohi Dhikkaar || 2 ||"
     ],
     [
       "Dayaa Dharm Bin Teraa Jivan Saaraa Hai Bekaar.",
-      "Kahe Teunn Ab Bhi Kachhu Karle Jaante Hoy Uddhaar || 3E ||."
-    ],
-    [
-      "Tah"
+      "Kahe Teunn Ab Bhi Kachhu Karle Jaante Hoy Uddhaar || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 10 || 202. ||.",
+    "जगत में कीना नहिं उपकार",
     "Jagat Men Kinaa Nahin Upkaar",
-    "जगत मेन किना नहिन ुपकार"
+    "राग तोड़ी भजन 10",
+    "Raag Tori Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 202,
+  "displayOrder": 10,
+  "overallOrder": 202,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 129",
+  "updatedAt": "2026-10-26"
 }

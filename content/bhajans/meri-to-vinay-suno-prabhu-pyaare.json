@@ -2,95 +2,131 @@
   "id": "bhajan-0072",
   "slug": "meri-to-vinay-suno-prabhu-pyaare",
   "categoryId": "raag-aasaa",
-  "title": "मेरि तो विनय सुनो प्रभु पयारे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मेरी तो विनय सुनो प्रभू प्यारे",
   "romanTitle": "Meri To Vinay Suno Prabhu Pyaare",
   "firstLine": "Meri To Vinay Suno Prabhu Pyaare (Tek).",
+  "heading": "।। राग आसा भजन ।। १० ।। ७२।।",
+  "tek": [
+    "मेरी तो विनय सुनो प्रभू प्यारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meri To Vinay Suno Prabhu Pyaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दिवस मन बीच सर्व झुरन्दे,",
+        "शोक सिन्धु माहिं सब जांदे लुढ़ंदे ।",
+        "करुणामय आप करो हमें किनारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Divas Man Bich Sarv Jhurande,",
+        "Shok Sindhu Maahin Sab Jaande Lurhande.",
+        "Karunaamay Aap Karo Hamen Kinaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काल रूप दुष्ट जन घेर मारंदे,",
+        "दशों दिशा आग देके हमें जारंदे ।",
+        "दया सिन्धू दूर करो कष्ट हमारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaal Rup Dusht Jan Gher Maarande,",
+        "Dashon Dishaa Aag Deke Hamen Jaarande.",
+        "Dayaa Sindhu Dur Karo Kasht Hamaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "रक्षा करो वेग नहीं लाओ देरियां,",
+        "और ओट नाहिं पड़े शरण तेरियां ।",
+        "तेरे बिना नाहिं कोई दूख निवारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Rakshaa Karo Veg Nahin Laao Deriyaan,",
+        "Aur Ot Naahin Pare Sharan Teriyaan.",
+        "Tere Binaa Naahin Koi Dukh Nivaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ दोष सब माफ कीजिये,",
+        "आप हो दयाल अभय दान दीजिये ।",
+        "हार पड़े आन अब तेरे द्वारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Dosh Sab Maaph Kijiye,",
+        "Aap Ho Dayal Abhay Daan Dijiye.",
+        "Haar Pare Aan Ab Tere Dvaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरि तो विनय सुनो प्रभु पयारे (टेक)."
+      "दिवस मन बीच सर्व झुरन्दे,",
+      "शोक सिन्धु माहिं सब जांदे लुढ़ंदे ।",
+      "करुणामय आप करो हमें किनारे ॥१ ॥"
     ],
     [
-      "दिवस मन बिच सर्व झुरनदे,",
-      "शोक सिनधु माहिन सब जानदे लुरहनदे."
+      "काल रूप दुष्ट जन घेर मारंदे,",
+      "दशों दिशा आग देके हमें जारंदे ।",
+      "दया सिन्धू दूर करो कष्ट हमारे ॥२ ॥"
     ],
     [
-      "करुनामय ाप करो हमेन किनारे || 1 ||."
+      "रक्षा करो वेग नहीं लाओ देरियां,",
+      "और ओट नाहिं पड़े शरण तेरियां ।",
+      "तेरे बिना नाहिं कोई दूख निवारे ॥३ ॥"
     ],
     [
-      "काल रुप दुशत जन घेर मारनदे,",
-      "दशोन दिशा ाग देके हमेन जारनदे."
-    ],
-    [
-      "दया सिनधु दुर करो कशत हमारे || 2 ||."
-    ],
-    [
-      "रकशा करो वेग नहिन लाो देरियान,",
-      "ौर ोत नाहिन परे शरन तेरियान."
-    ],
-    [
-      "तेरे बिना नाहिन कोि दुःख निवारे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ दोश सब माफ किजिये,",
-      "ाप हो दयाल भय दान दिजिये."
-    ],
-    [
-      "हार परे ान ब तेरे दवारे || 4 ||"
-    ],
-    [
-      "का"
+      "कहे टेऊँ दोष सब माफ कीजिये,",
+      "आप हो दयाल अभय दान दीजिये ।",
+      "हार पड़े आन अब तेरे द्वारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Meri To Vinay Suno Prabhu Pyaare (Tek)."
-    ],
-    [
       "Divas Man Bich Sarv Jhurande,",
-      "Shok Sindhu Maahin Sab Jaande Lurhande."
-    ],
-    [
-      "Karunaamay Aap Karo Hamen Kinaare || 1 ||."
+      "Shok Sindhu Maahin Sab Jaande Lurhande.",
+      "Karunaamay Aap Karo Hamen Kinaare || 1 ||"
     ],
     [
       "Kaal Rup Dusht Jan Gher Maarande,",
-      "Dashon Dishaa Aag Deke Hamen Jaarande."
-    ],
-    [
-      "Dayaa Sindhu Dur Karo Kasht Hamaare || 2 ||."
+      "Dashon Dishaa Aag Deke Hamen Jaarande.",
+      "Dayaa Sindhu Dur Karo Kasht Hamaare || 2 ||"
     ],
     [
       "Rakshaa Karo Veg Nahin Laao Deriyaan,",
-      "Aur Ot Naahin Pare Sharan Teriyaan."
-    ],
-    [
-      "Tere Binaa Naahin Koi Dukh Nivaare || 3 ||."
+      "Aur Ot Naahin Pare Sharan Teriyaan.",
+      "Tere Binaa Naahin Koi Dukh Nivaare || 3 ||"
     ],
     [
       "Kahe Teun Dosh Sab Maaph Kijiye,",
-      "Aap Ho Dayal Abhay Daan Dijiye."
-    ],
-    [
+      "Aap Ho Dayal Abhay Daan Dijiye.",
       "Haar Pare Aan Ab Tere Dvaare || 4 ||"
-    ],
-    [
-      "Kaa"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 10 || 72 ||",
+    "मेरी तो विनय सुनो प्रभू प्यारे",
     "Meri To Vinay Suno Prabhu Pyaare",
-    "मेरि तो विनय सुनो प्रभु पयारे"
+    "राग आसा भजन 10",
+    "Raag Aasaa Bhajan 10"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 72,
+  "displayOrder": 10,
+  "overallOrder": 72,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 61",
+  "updatedAt": "2026-10-26"
 }

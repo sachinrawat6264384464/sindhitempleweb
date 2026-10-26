@@ -2,78 +2,149 @@
   "id": "bhajan-0437",
   "slug": "sant-sajjan-avtaar-aaj-hamaare-ajir-padhaare",
   "categoryId": "raag-tilang",
-  "title": "संत सजजन वतार, ाज हमारे जिर पधारे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सन्त सज्जन अवतार, आज हमारे अजिर पधारे",
   "romanTitle": "Sant Sajjan Avtaar, Aaj Hamaare Ajir Padhaare",
   "firstLine": "Sant Sajjan Avtaar, Aaj Hamaare Ajir Padhaare (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ७४ ।। ४३८।।",
+  "tek": [
+    "सन्त सज्जन अवतार, आज हमारे अजिर पधारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sant Sajjan Avtaar, Aaj Hamaare Ajir Padhaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "परम वैरागी हरि अनुरागी, शान्त आत्मा सर्व त्यागी ।",
+        "निर्मल... निरहंकार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Param Vairaagi Hari Anuraagi, Shaant Aatmaa Sarv Tyaagi.",
+        "Nirmal... Nirhankaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तीन काल के जाननहारे, निर्वेरी निष्कामी न्यारे ।",
+        "दुख भज्जन सुखकार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tin Kaal Ke Jaannahaare, Nirveri Nishkaami Nyaare.",
+        "Dukh Bhajjan Sukhkaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जीवन मुक्ता ब्रह्मज्ञानी, धीरजधारी आत्म ध्यानी ।",
+        "दीनबन्धू . दातार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jivan Muktaa Brahmajnyaani, Dhirjadhaari Aatm Dhyaani.",
+        "Dinbandhu. Daataar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "प्रेम प्रकाशी पर उपकारी , इन्द्रिय जित नित धर्माचारी ।",
+        "पूरन पुरुष उदार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Prem Prakaashi Par Upkaari, Indriy Jit Nit Dharmaachaari.",
+        "Puran Purush Udaar || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ बड़ भाग हमारे, दर्शन से भये अनन्द अपारे ।",
+        "भक्ती ज्ञान भण्डार ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bar Bhaag Hamaare, Darshan Se Bhaye Anand Apaare.",
+        "Bhakti Gyaan Bhandaar || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "दर्द"
+      ],
+      "romanLines": [
+        "Dard"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "संत सजजन वतार, ाज हमारे जिर पधारे (टेक)."
+      "परम वैरागी हरि अनुरागी, शान्त आत्मा सर्व त्यागी ।",
+      "निर्मल... निरहंकार ॥१ ॥"
     ],
     [
-      "परम वैरागि हरि नुरागि, शानत ातमा सर्व तयागि.",
-      "निर्मल... निरहनकार || 1 ||."
+      "तीन काल के जाननहारे, निर्वेरी निष्कामी न्यारे ।",
+      "दुख भज्जन सुखकार ॥२ ॥"
     ],
     [
-      "तिन काल के जाननहारे, निरवेरि निशकामि नयारे.",
-      "दुःख भजजन सुखकार ||.2 ||."
+      "जीवन मुक्ता ब्रह्मज्ञानी, धीरजधारी आत्म ध्यानी ।",
+      "दीनबन्धू . दातार ॥३ ॥"
     ],
     [
-      "जिवन मुकता बरहमजनयानि, धिरजधारि ातम धयानि.",
-      "दिनबनधु. दातार. ||.3 ||."
+      "प्रेम प्रकाशी पर उपकारी , इन्द्रिय जित नित धर्माचारी ।",
+      "पूरन पुरुष उदार ॥४ ॥"
     ],
     [
-      "प्रेम परकाशि पर ुपकारि, िनदरिय जित नित धरमाचारि.",
-      "पुरन पुरुश ुदार ||.4. ||."
+      "कहे टेऊँ बड़ भाग हमारे, दर्शन से भये अनन्द अपारे ।",
+      "भक्ती ज्ञान भण्डार ॥५ ॥"
     ],
     [
-      "कहे तेऊँ बर भाग हमारे, दरशन से भये आनंद पारे.",
-      "भक्ति ज्ञान भनदार.5 ||."
-    ],
-    [
-      "दरद"
+      "दर्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Sant Sajjan Avtaar, Aaj Hamaare Ajir Padhaare (Tek)."
-    ],
-    [
       "Param Vairaagi Hari Anuraagi, Shaant Aatmaa Sarv Tyaagi.",
-      "Nirmal... Nirhankaar || 1 ||."
+      "Nirmal... Nirhankaar || 1 ||"
     ],
     [
       "Tin Kaal Ke Jaannahaare, Nirveri Nishkaami Nyaare.",
-      "Dukh Bhajjan Sukhkaar ||.2 ||."
+      "Dukh Bhajjan Sukhkaar || 2 ||"
     ],
     [
       "Jivan Muktaa Brahmajnyaani, Dhirjadhaari Aatm Dhyaani.",
-      "Dinbandhu. Daataar. ||.3 ||."
+      "Dinbandhu. Daataar || 3 ||"
     ],
     [
       "Prem Prakaashi Par Upkaari, Indriy Jit Nit Dharmaachaari.",
-      "Puran Purush Udaar ||.4. ||."
+      "Puran Purush Udaar || 4 ||"
     ],
     [
       "Kahe Teun Bar Bhaag Hamaare, Darshan Se Bhaye Anand Apaare.",
-      "Bhakti Jnyaan Bhandaar.5 ||."
+      "Bhakti Gyaan Bhandaar || 5 ||"
     ],
     [
       "Dard"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 74 || 438 ||",
+    "सन्त सज्जन अवतार, आज हमारे अजिर पधारे",
     "Sant Sajjan Avtaar, Aaj Hamaare Ajir Padhaare",
-    "संत सजजन वतार, ाज हमारे जिर पधारे"
+    "राग तिलंग भजन 74",
+    "Raag Tilang Bhajan 74"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 437,
+  "displayOrder": 74,
+  "overallOrder": 437,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 248",
+  "updatedAt": "2026-10-26"
 }

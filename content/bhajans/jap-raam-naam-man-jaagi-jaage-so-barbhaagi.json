@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0582",
+  "id": "bhajan-0580",
   "slug": "jap-raam-naam-man-jaagi-jaage-so-barbhaagi",
   "categoryId": "raag-saarang",
-  "title": "जप राम नाम मन जागि, जागे सो बरभागि",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "जप राम नाम मन जागी, जागे सो बड़भागी",
   "romanTitle": "Jap Raam Naam Man Jaagi, Jaage So Barbhaagi",
   "firstLine": "Jap Raam Naam Man Jaagi, Jaage So Barbhaagi (Tek).",
+  "heading": "।। राग सारंग भजन ।। ३ ।। ५८१।॥।",
+  "tek": [
+    "जप राम नाम मन जागी, जागे सो बड़भागी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jap Raam Naam Man Jaagi, Jaage So Barbhaagi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जागे मीना चाहत जल को, जागे सीप चहत बादल को ।",
+        "नाद कुरंग सुन रागी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaage Minaa Chaahat Jal Ko, Jaage Sip Chahat Baadal Ko.",
+        "Naad Kurang Sun Raagi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जागे पंछी अनल अकासे, जागे चकोर चन्द्र प्रकाशे ।",
+        "चकवी पति हित लागी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaage Panchhi Anal Akaase, Jaage Chakor Chandr Prakaashe.",
+        "Chakvi Pati Hit Laagi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जागे सोनारो सोना निरखे, जागे सराफ हीरा परखे ।",
+        "पांव पछाने पागी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaage Sonaaro Sonaa Nirkhe, Jaage Saraaph Hiraa Parkhe.",
+        "Paanv Pachhaane Paagi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ त्यों जागहिं हरिजन, हरि हित जागहिं सुरनर मुनिजन ।",
+        "जागहिं नित वैरागी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tyon Jaaghin Harijan, Hari Hit Jaaghin Surnar Munijan.",
+        "Jaaghin Nit Vairaagi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जप राम नाम मन जागि, जागे सो बरभागि (टेक)."
+      "जागे मीना चाहत जल को, जागे सीप चहत बादल को ।",
+      "नाद कुरंग सुन रागी ॥१ ॥"
     ],
     [
-      "जागे मिना चाहत जल को, जागे सिप चहत बादल को.",
-      "नाद कुरनग सुन रागि || 1 ||."
+      "जागे पंछी अनल अकासे, जागे चकोर चन्द्र प्रकाशे ।",
+      "चकवी पति हित लागी ॥२ ॥"
     ],
     [
-      "जागे पनचहि नल कासे, जागे चकोर चनदर परकाशे.",
-      "चकवि पति हित लागि || 2 ||."
+      "जागे सोनारो सोना निरखे, जागे सराफ हीरा परखे ।",
+      "पांव पछाने पागी ॥३ ॥"
     ],
     [
-      "जागे सोनारो सोना निरखे, जागे सराफ हिरा परखे.",
-      "पानव पचहाने पागि ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ तयोन जाघिन हरिजन, हरि हित जाघिन सुरनर मुनिजन.",
-      "जाघिन नित वैरागि || 4 ||"
-    ],
-    [
-      "गन"
+      "कहे टेऊँ त्यों जागहिं हरिजन, हरि हित जागहिं सुरनर मुनिजन ।",
+      "जागहिं नित वैरागी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jap Raam Naam Man Jaagi, Jaage So Barbhaagi (Tek)."
-    ],
-    [
       "Jaage Minaa Chaahat Jal Ko, Jaage Sip Chahat Baadal Ko.",
-      "Naad Kurang Sun Raagi || 1 ||."
+      "Naad Kurang Sun Raagi || 1 ||"
     ],
     [
       "Jaage Panchhi Anal Akaase, Jaage Chakor Chandr Prakaashe.",
-      "Chakvi Pati Hit Laagi || 2 ||."
+      "Chakvi Pati Hit Laagi || 2 ||"
     ],
     [
       "Jaage Sonaaro Sonaa Nirkhe, Jaage Saraaph Hiraa Parkhe.",
-      "Paanv Pachhaane Paagi ||.3 ||."
+      "Paanv Pachhaane Paagi || 3 ||"
     ],
     [
       "Kahe Teun Tyon Jaaghin Harijan, Hari Hit Jaaghin Surnar Munijan.",
       "Jaaghin Nit Vairaagi || 4 ||"
-    ],
-    [
-      "Gan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 3 || 581. ||.",
+    "जप राम नाम मन जागी, जागे सो बड़भागी",
     "Jap Raam Naam Man Jaagi, Jaage So Barbhaagi",
-    "जप राम नाम मन जागि, जागे सो बरभागि"
+    "राग सारंग भजन 3",
+    "Raag Saarang Bhajan 3"
   ],
   "tags": [
-    "teunram",
-    "saarang",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 582,
+  "displayOrder": 3,
+  "overallOrder": 580,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 315",
+  "updatedAt": "2026-10-26"
 }

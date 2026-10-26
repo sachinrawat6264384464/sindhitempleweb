@@ -2,35 +2,82 @@
   "id": "bhajan-0128",
   "slug": "tum-jit-jit-jit-karo",
   "categoryId": "raag-aasaa",
-  "title": "तुम जित जित जित करो",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "तुम जीत जीत जीत करो",
   "romanTitle": "Tum Jit Jit Jit Karo",
-  "firstLine": "Tum Jit Jit Jit Karo. Puran Guru Se Mantr Lekar, Man Dushman Par Jit Karo (Tek).",
+  "firstLine": "Tum Jit Jit Jit Karo.",
+  "heading": "।। राग आसा भजन ।। ६६ ।। १२८।।",
+  "tek": [
+    "तुम जीत जीत जीत करो ।",
+    "पूरण गुरु से मन्त्र लेकर, मन दुश्मन पर जीत करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Jit Jit Jit Karo.",
+    "Puran Guru Se Mantr Lekar, Man Dushman Par Jit Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पवन अश्व है मन असवारा, तांको रोको हृदय मंजझारा ।",
+        "पीछे मन वश होय तुम्हारा , प्राणायाम से प्रीत करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pavan Ashv Hai Man Asvaaraa, Taanko Roko Hriday Manjjhaaraa.",
+        "Pichhe Man Vash Hoy Tumhaaraa, Praanaayaam Se Prit Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्राणों रूपी लकड़ा गारे, ऊँचे नीचे चाढ़ उतारे ।",
+        "भूत रूप मन का बल हारे, अपने को निर्भीत करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Praanon Rupi Lakraa Gaare, Unche Niche Chaarh Utaare.",
+        "Bhut Rup Man Kaa Bal Haare, Apne Ko Nirbhit Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ मन जीते जोई, तांको दूख न व्यापे कोई ।",
+        "तुम भी जीते सुख पा सोई, गुरु बचने प्रतीत करो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Man Jite Joi, Taanko Dukh Na Vyaape Koi.",
+        "Tum Bhi Jite Sukh Paa Soi, Guru Bachne Pratit Karo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ठ्ठ"
+      ],
+      "romanLines": [
+        "Thth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम जित जित जित करो.",
-      "पुरन गुरु से मनतर लेकर, मन दुशमन पर जित करो (टेक)."
+      "पवन अश्व है मन असवारा, तांको रोको हृदय मंजझारा ।",
+      "पीछे मन वश होय तुम्हारा , प्राणायाम से प्रीत करो ॥१ ॥"
     ],
     [
-      "पवन शव है मन सवारा, तानको रोको हरिदय मनजझारा.",
-      "पिचहे मन वश होय तुमहारा, परानायाम से परित करो || 1 ||"
+      "प्राणों रूपी लकड़ा गारे, ऊँचे नीचे चाढ़ उतारे ।",
+      "भूत रूप मन का बल हारे, अपने को निर्भीत करो ॥२ ॥"
     ],
     [
-      "परानोन रुपि लकरा गारे, ुनचे निचे चारह ुतारे.",
-      "भुत रुप मन का बल हारे, पने को निरभित करो || 2 ||"
+      "कहे टेऊँ मन जीते जोई, तांको दूख न व्यापे कोई ।",
+      "तुम भी जीते सुख पा सोई, गुरु बचने प्रतीत करो ॥३ ॥"
     ],
     [
-      "कहे तेऊँ मन जिते जोि, तानको दुःख न वयापे कोि.",
-      "तुम भि जिते सुख पा सोि, गुरु बचने परतित करो ||. 3 ||"
-    ],
-    [
-      "थथ"
+      "ठ्ठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Tum Jit Jit Jit Karo.",
-      "Puran Guru Se Mantr Lekar, Man Dushman Par Jit Karo (Tek)."
-    ],
     [
       "Pavan Ashv Hai Man Asvaaraa, Taanko Roko Hriday Manjjhaaraa.",
       "Pichhe Man Vash Hoy Tumhaaraa, Praanaayaam Se Prit Karo || 1 ||"
@@ -40,27 +87,28 @@
       "Bhut Rup Man Kaa Bal Haare, Apne Ko Nirbhit Karo || 2 ||"
     ],
     [
-      "Kahe Teun Man Jite Joi, Taanko Dukh N Vyaape Koi.",
-      "Tum Bhi Jite Sukh Paa Soi, Guru Bachne Pratit Karo ||. 3 ||"
+      "Kahe Teun Man Jite Joi, Taanko Dukh Na Vyaape Koi.",
+      "Tum Bhi Jite Sukh Paa Soi, Guru Bachne Pratit Karo || 3 ||"
     ],
     [
       "Thth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 66 || 128 ||",
+    "तुम जीत जीत जीत करो",
     "Tum Jit Jit Jit Karo",
-    "तुम जित जित जित करो"
+    "राग आसा भजन 66",
+    "Raag Aasaa Bhajan 66"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 128,
+  "displayOrder": 66,
+  "overallOrder": 128,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 90",
+  "updatedAt": "2026-10-26"
 }

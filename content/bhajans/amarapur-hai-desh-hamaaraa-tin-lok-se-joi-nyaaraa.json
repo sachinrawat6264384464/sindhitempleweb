@@ -1,53 +1,100 @@
 {
-  "id": "bhajan-0903",
+  "id": "bhajan-0901",
   "slug": "amarapur-hai-desh-hamaaraa-tin-lok-se-joi-nyaaraa",
   "categoryId": "raag-jog",
-  "title": "अमरापुर है देश हमारा, तिन लोक से जोि नयारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "अमरापुर है देश हमारा, तीन लोक से जोई न्यारा",
   "romanTitle": "Amarapur Hai Desh Hamaaraa, Tin Lok Se Joi Nyaaraa",
   "firstLine": "Amarapur Hai Desh Hamaaraa, Tin Lok Se Joi Nyaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ७३ ।। ९०३ ॥।",
+  "tek": [
+    "अमरापुर है देश हमारा, तीन लोक से जोई न्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amarapur Hai Desh Hamaaraa, Tin Lok Se Joi Nyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जहां न रवि शशि नहिं दिन राती , जहां न दामिनि चमकत तारा ।4 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jahaan Na Ravi Shashi Nahin Din Raati, Jahaan Na Daamini Chamkat Taaraa.4 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जन्म मरण जहं काल न कोई, जीव ईंश नहिं को अवतारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Janm Maran Jahan Kaal Na Koi, Jiv Insh Nahin Ko Avtaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पाप पुण्य जहं कर्म न कर्त्ता, ना सुख दुख ना जग व्यवहारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paap Puny Jahan Karm Na Karttaa, Naa Sukh Dukh Naa Jag Vyavhaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ गुरु प्रसादे, पहुंचे तहं को गुरुमुख प्यारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Guru Prasaade, Pahunche Tahan Ko Gurumukh Pyaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमरापुर है देश हमारा, तिन लोक से जोि नयारा (टेक)."
+      "जहां न रवि शशि नहिं दिन राती , जहां न दामिनि चमकत तारा ।4 ॥१ ॥"
     ],
     [
-      "जहान न रवि शशि नहिन दीन राति, जहान न दामिनि चमकत तारा.41 ||.",
-      "जनम मरन जहन काल न कोि, जिव िनश नहिन को वतारा || 2 ||"
+      "जन्म मरण जहं काल न कोई, जीव ईंश नहिं को अवतारा ॥२ ॥"
     ],
     [
-      "पाप पुनय जहन करम न करतता, ना सुख दुःख ना जग वयवहारा || 3 ||"
+      "पाप पुण्य जहं कर्म न कर्त्ता, ना सुख दुख ना जग व्यवहारा ॥३ ॥"
     ],
     [
-      "कहता तेऊँ गुरु परसादे, पहुनचे तहन को गुरुमुख पयारा || 4 ||"
+      "कहता टेऊँ गुरु प्रसादे, पहुंचे तहं को गुरुमुख प्यारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amarapur Hai Desh Hamaaraa, Tin Lok Se Joi Nyaaraa (Tek)."
+      "Jahaan Na Ravi Shashi Nahin Din Raati, Jahaan Na Daamini Chamkat Taaraa.4 || 1 ||"
     ],
     [
-      "Jahaan N Ravi Shashi Nahin Din Raati, Jahaan N Daamini Chamkat Taaraa.41 ||.",
-      "Janm Maran Jahan Kaal N Koi, Jiv Insh Nahin Ko Avtaaraa || 2 ||"
+      "Janm Maran Jahan Kaal Na Koi, Jiv Insh Nahin Ko Avtaaraa || 2 ||"
     ],
     [
-      "Paap Puny Jahan Karm N Karttaa, Naa Sukh Dukh Naa Jag Vyavhaaraa || 3 ||"
+      "Paap Puny Jahan Karm Na Karttaa, Naa Sukh Dukh Naa Jag Vyavhaaraa || 3 ||"
     ],
     [
       "Kahtaa Teun Guru Prasaade, Pahunche Tahan Ko Gurumukh Pyaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 73 || 903 ||.",
+    "अमरापुर है देश हमारा, तीन लोक से जोई न्यारा",
     "Amarapur Hai Desh Hamaaraa, Tin Lok Se Joi Nyaaraa",
-    "अमरापुर है देश हमारा, तिन लोक से जोि नयारा"
+    "राग जोग भजन 73",
+    "Raag Jog Bhajan 73"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 903,
+  "displayOrder": 73,
+  "overallOrder": 901,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 475",
+  "updatedAt": "2026-10-26"
 }

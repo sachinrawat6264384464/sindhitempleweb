@@ -1,44 +1,91 @@
 {
   "id": "bhajan-0254",
   "slug": "aur-kaa-aur-dikhlaave-yahi-maayaa-yahi-avidyaa",
-  "categoryId": "raag-bhairav",
-  "title": "ौर का ौर दिखलावे, यहि माया यहि विदया",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "और का और दिखलावे, यही माया यही अविद्या",
   "romanTitle": "Aur Kaa Aur Dikhlaave, Yahi Maayaa Yahi Avidyaa",
   "firstLine": "Aur Kaa Aur Dikhlaave, Yahi Maayaa Yahi Avidyaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ३९ ।। २५४।।",
+  "tek": [
+    "और का और दिखलावे, यही माया यही अविद्या ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aur Kaa Aur Dikhlaave, Yahi Maayaa Yahi Avidyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बदन उपजा तत्वों से जो, तत्वों का रूप है सोई ।",
+        "उसी तन अहं बुद्धि लावे, यही माया यही अविद्या ॥१ ॥"
+      ],
+      "romanLines": [
+        "Badan Upjaa Tatvon Se Jo, Tatvon Kaa Rup Hai Soi.",
+        "Usi Tan Ahan Buddhi Laave, Yahi Maayaa Yahi Avidyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बना जो जगत माया से, असत्‌ स्वरूप है तांते ।",
+        "तिसे सत्‌ रूप दरसावे, यही माया यही अविद्या ॥२ ॥"
+      ],
+      "romanLines": [
+        "Banaa Jo Jagat Maayaa Se, Asat‌ Svarup Hai Taante.",
+        "Tise Sat‌ Rup Darsaave, Yahi Maayaa Yahi Avidyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्मा का अंश है जीवा, ब्रह्म का रूप है तांते ।",
+        "कहे टेऊँ भिन्न बतलावे, यही माया यही अविद्या ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Kaa Ansh Hai Jivaa, Brahm Kaa Rup Hai Taante.",
+        "Kahe Teun Bhinn Batlaave, Yahi Maayaa Yahi Avidyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गद्य"
+      ],
+      "romanLines": [
+        "Gady"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ौर का ौर दिखलावे, यहि माया यहि विदया (टेक)."
+      "बदन उपजा तत्वों से जो, तत्वों का रूप है सोई ।",
+      "उसी तन अहं बुद्धि लावे, यही माया यही अविद्या ॥१ ॥"
     ],
     [
-      "बदन ुपजा ततवोन से जो, ततवोन का रुप है सोि.",
-      "ुसि तन हन बुदधि लावे, यहि माया यहि विदया || 1. ||."
+      "बना जो जगत माया से, असत्‌ स्वरूप है तांते ।",
+      "तिसे सत्‌ रूप दरसावे, यही माया यही अविद्या ॥२ ॥"
     ],
     [
-      "बना जो जगत माया से, सत‌ सवरुप है तानते.",
-      "तिसे सत‌ रुप दरसावे, यहि माया यहि विदया || 2 ||."
+      "ब्रह्मा का अंश है जीवा, ब्रह्म का रूप है तांते ।",
+      "कहे टेऊँ भिन्न बतलावे, यही माया यही अविद्या ॥३ ॥"
     ],
     [
-      "बरहम का नश है जिवा, बरहम का रुप है तानते.",
-      "कहे तेऊँ भिनन बतलावे, यहि माया यहि विदया || 3 ||"
-    ],
-    [
-      "गदय"
+      "गद्य"
     ]
   ],
   "romanLyrics": [
     [
-      "Aur Kaa Aur Dikhlaave, Yahi Maayaa Yahi Avidyaa (Tek)."
-    ],
-    [
       "Badan Upjaa Tatvon Se Jo, Tatvon Kaa Rup Hai Soi.",
-      "Usi Tan Ahan Buddhi Laave, Yahi Maayaa Yahi Avidyaa || 1. ||."
+      "Usi Tan Ahan Buddhi Laave, Yahi Maayaa Yahi Avidyaa || 1 ||"
     ],
     [
       "Banaa Jo Jagat Maayaa Se, Asat‌ Svarup Hai Taante.",
-      "Tise Sat‌ Rup Darsaave, Yahi Maayaa Yahi Avidyaa || 2 ||."
+      "Tise Sat‌ Rup Darsaave, Yahi Maayaa Yahi Avidyaa || 2 ||"
     ],
     [
-      "Brahma Kaa Ansh Hai Jivaa, Brahm Kaa Rup Hai Taante.",
+      "Brahmaa Kaa Ansh Hai Jivaa, Brahm Kaa Rup Hai Taante.",
       "Kahe Teun Bhinn Batlaave, Yahi Maayaa Yahi Avidyaa || 3 ||"
     ],
     [
@@ -46,18 +93,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 39 || 254 ||",
+    "और का और दिखलावे, यही माया यही अविद्या",
     "Aur Kaa Aur Dikhlaave, Yahi Maayaa Yahi Avidyaa",
-    "ौर का ौर दिखलावे, यहि माया यहि विदया"
+    "राग भैरवी भजन 39",
+    "Raag Bhairvi Bhajan 39"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 254,
+  "displayOrder": 39,
+  "overallOrder": 254,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 158",
+  "updatedAt": "2026-10-26"
 }

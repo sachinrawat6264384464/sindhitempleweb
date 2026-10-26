@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0879",
+  "id": "bhajan-0877",
   "slug": "paar-brahm-hai-tere-paas-dur-taahin-naa-dhundh-ajaanaa",
   "categoryId": "raag-jog",
-  "title": "पार बरहम है तेरे पास, दुर ताहिन ना धुनध जाना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "पार ब्रह्म है तेरे पास, दूर ताहिं ना ढूंढ अजाना",
   "romanTitle": "Paar Brahm Hai Tere Paas, Dur Taahin Naa Dhundh Ajaanaa",
   "firstLine": "Paar Brahm Hai Tere Paas, Dur Taahin Naa Dhundh Ajaanaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ४९ ।। ८७९॥।",
+  "tek": [
+    "पार ब्रह्म है तेरे पास, दूर ताहिं ना ढूंढ अजाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Paar Brahm Hai Tere Paas, Dur Taahin Naa Dhundh Ajaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्यों सुत ले देखन गये मेला, भूला ताहिं देखके खेला ।",
+        "कन्थे पर है सुत का वास, ढूंढत इधर उधर देवाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jyon Sut Le Dekhan Gaye Melaa, Bhulaa Taahin Dekhke Khelaa.",
+        "Kanthe Par Hai Sut Kaa Vaas, Dhundhat Idhar Udhar Devaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मृग नाभि में ज्यों कस्तूरी, मूण्ड भ्रम वश ढूंढत दूरी ।",
+        "कंकण है ज्यों कर में खास, दूृण्डत आस पास नादाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mrig Naabhi Men Jyon Kasturi, Mund Bhram Vash Dhundhat Duri.",
+        "Kankan Hai Jyon Kar Men Khaas, Durindat Aas Paas Naadaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हनूमान में ज्यों बल भारा, याद न आता तिहं बल सारा ।",
+        "खड़ा अन्ध ज्यों निकट निवास, पूछे मेरा कहां मकाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hanumaan Men Jyon Bal Bhaaraa, Yaad Na Aataa Tihan Bal Saaraa.",
+        "Kharaa Andh Jyon Nikat Nivaas, Puchhe Meraa Kahaan Makaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तैसे प्रभु है पास तुम्हारे, भूल गये सो श्रम मंझारे ।",
+        "कहे टेऊँ कर श्रम विनाश, सत्‌गुरु से ले ब्रह्मज्ञाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Taise Prabhu Hai Paas Tumhaare, Bhul Gaye So Shram Manjhaare.",
+        "Kahe Teun Kar Shram Vinaash, Sat‌Guru Se Le Brahmajnyaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पार बरहम है तेरे पास, दुर ताहिन ना धुनध जाना (टेक)."
+      "ज्यों सुत ले देखन गये मेला, भूला ताहिं देखके खेला ।",
+      "कन्थे पर है सुत का वास, ढूंढत इधर उधर देवाना ॥१ ॥"
     ],
     [
-      "जयोन सुत ले देखन गये मेला, भुला ताहिन देखके खेला.",
-      "कनथे पर है सुत का वास, धुनधत िधर ुधर देवाना || 1. ||."
+      "मृग नाभि में ज्यों कस्तूरी, मूण्ड भ्रम वश ढूंढत दूरी ।",
+      "कंकण है ज्यों कर में खास, दूृण्डत आस पास नादाना ॥२ ॥"
     ],
     [
-      "मरिग नाभि मेन जयोन कसतुरि, मुनद भरम वश धुनधत दुरि.",
-      "कनकन है जयोन कर मेन खास, दुरिनदत ास पास नादाना || 2. ||."
+      "हनूमान में ज्यों बल भारा, याद न आता तिहं बल सारा ।",
+      "खड़ा अन्ध ज्यों निकट निवास, पूछे मेरा कहां मकाना ॥३ ॥"
     ],
     [
-      "हनुमान मेन जयोन बल भारा, याद न ाता तिहन बल सारा.",
-      "खरा नध जयोन निकत निवास, पुचहे मेरा कहान मकाना || 3 ||."
-    ],
-    [
-      "तैसे प्रभु है पास तुमहारे, भुल गये सो शरम मनझारे.",
-      "कहे तेऊँ कर शरम विनाश, सतगुरु से ले बरहमजनयाना || 4 ||"
+      "तैसे प्रभु है पास तुम्हारे, भूल गये सो श्रम मंझारे ।",
+      "कहे टेऊँ कर श्रम विनाश, सत्‌गुरु से ले ब्रह्मज्ञाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Paar Brahm Hai Tere Paas, Dur Taahin Naa Dhundh Ajaanaa (Tek)."
-    ],
-    [
       "Jyon Sut Le Dekhan Gaye Melaa, Bhulaa Taahin Dekhke Khelaa.",
-      "Kanthe Par Hai Sut Kaa Vaas, Dhundhat Idhar Udhar Devaanaa || 1. ||."
+      "Kanthe Par Hai Sut Kaa Vaas, Dhundhat Idhar Udhar Devaanaa || 1 ||"
     ],
     [
       "Mrig Naabhi Men Jyon Kasturi, Mund Bhram Vash Dhundhat Duri.",
-      "Kankan Hai Jyon Kar Men Khaas, Durindat Aas Paas Naadaanaa || 2. ||."
+      "Kankan Hai Jyon Kar Men Khaas, Durindat Aas Paas Naadaanaa || 2 ||"
     ],
     [
-      "Hanumaan Men Jyon Bal Bhaaraa, Yaad N Aataa Tihan Bal Saaraa.",
-      "Kharaa Andh Jyon Nikat Nivaas, Puchhe Meraa Kahaan Makaanaa || 3 ||."
+      "Hanumaan Men Jyon Bal Bhaaraa, Yaad Na Aataa Tihan Bal Saaraa.",
+      "Kharaa Andh Jyon Nikat Nivaas, Puchhe Meraa Kahaan Makaanaa || 3 ||"
     ],
     [
       "Taise Prabhu Hai Paas Tumhaare, Bhul Gaye So Shram Manjhaare.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 49 || 879 ||.",
+    "पार ब्रह्म है तेरे पास, दूर ताहिं ना ढूंढ अजाना",
     "Paar Brahm Hai Tere Paas, Dur Taahin Naa Dhundh Ajaanaa",
-    "पार बरहम है तेरे पास, दुर ताहिन ना धुनध जाना"
+    "राग जोग भजन 49",
+    "Raag Jog Bhajan 49"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 879,
+  "displayOrder": 49,
+  "overallOrder": 877,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 463",
+  "updatedAt": "2026-10-26"
 }

@@ -1,0 +1,97 @@
+{
+  "id": "bhajan-0294",
+  "slug": "sadaa-satsang-shraddhaa-se-karnaa-sun-saty-vachan-man-men-dharnaa",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सदा सत्संग श्रद्धा से करना, सुन सत्य वचन मन में धरना",
+  "romanTitle": "Sadaa Satsang Shraddhaa Se Karnaa, Sun Saty Vachan Man Men Dharnaa",
+  "firstLine": "Sadaa Satsang Shraddhaa Se Karnaa, Sun Saty Vachan Man Men Dharnaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७९ ।। २९४।।",
+  "tek": [
+    "सदा सत्संग श्रद्धा से करना, सुन सत्य वचन मन में धरना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sadaa Satsang Shraddhaa Se Karnaa, Sun Saty Vachan Man Men Dharnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "छोड़ सर्व सड्ट सत्सड्ठ जाओ, बैठ प्रेम से गोविन्द गुन गाओ ।",
+        "लेके ज्ञान सर्व बन्धन हरना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chhor Sarv Sadt Satsadth Jaao, Baith Prem Se Govind Gun Gaao.",
+        "Leke Gyaan Sarv Bandhan Harnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "संग दुर्जन का दुखदाई है, सत्‌पुरुषों का सुखदाई है ।",
+        "तांते सन्तों की शरणी पड़ना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sang Durjan Kaa Dukhdaai Hai, Sat‌Purushon Kaa Sukhdaai Hai.",
+        "Taante Santon Ki Sharni Parnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्संग में ही प्रभू बसता है, यही राम मिलन का रस्ता है ।",
+        "कहे टेऊँ करे सत्संग तरना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Satsang Men Hi Prabhu Bastaa Hai, Yahi Raam Milan Kaa Rastaa Hai.",
+        "Kahe Teun Kare Satsang Tarnaa || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "छोड़ सर्व सड्ट सत्सड्ठ जाओ, बैठ प्रेम से गोविन्द गुन गाओ ।",
+      "लेके ज्ञान सर्व बन्धन हरना ॥१ ॥"
+    ],
+    [
+      "संग दुर्जन का दुखदाई है, सत्‌पुरुषों का सुखदाई है ।",
+      "तांते सन्तों की शरणी पड़ना ॥२ ॥"
+    ],
+    [
+      "सत्संग में ही प्रभू बसता है, यही राम मिलन का रस्ता है ।",
+      "कहे टेऊँ करे सत्संग तरना ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Chhor Sarv Sadt Satsadth Jaao, Baith Prem Se Govind Gun Gaao.",
+      "Leke Gyaan Sarv Bandhan Harnaa || 1 ||"
+    ],
+    [
+      "Sang Durjan Kaa Dukhdaai Hai, Sat‌Purushon Kaa Sukhdaai Hai.",
+      "Taante Santon Ki Sharni Parnaa || 2 ||"
+    ],
+    [
+      "Satsang Men Hi Prabhu Bastaa Hai, Yahi Raam Milan Kaa Rastaa Hai.",
+      "Kahe Teun Kare Satsang Tarnaa || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "सदा सत्संग श्रद्धा से करना, सुन सत्य वचन मन में धरना",
+    "Sadaa Satsang Shraddhaa Se Karnaa, Sun Saty Vachan Man Men Dharnaa",
+    "राग भैरवी भजन 79",
+    "Raag Bhairvi Bhajan 79"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
+  ],
+  "displayOrder": 79,
+  "overallOrder": 294,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 178",
+  "updatedAt": "2026-10-26"
+}

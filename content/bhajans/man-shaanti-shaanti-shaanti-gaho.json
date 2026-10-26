@@ -2,39 +2,79 @@
   "id": "bhajan-0131",
   "slug": "man-shaanti-shaanti-shaanti-gaho",
   "categoryId": "raag-aasaa",
-  "title": "मन शांति शांति शांति गहो",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मन शान्ति शान्ति शान्ति गहो",
   "romanTitle": "Man Shaanti Shaanti Shaanti Gaho",
-  "firstLine": "Man Shaanti Shaanti Shaanti Gaho. Kalnaa Men Bahu Janm Ganvaayaa, Ab To Puran Shaanti Gaho (Tek).",
+  "firstLine": "Man Shaanti Shaanti Shaanti Gaho.",
+  "heading": "।। राग आसा भजन ।। ६९ ।। १३१।।",
+  "tek": [
+    "मन शान्ति शान्ति शान्ति गहो ।",
+    "कलना में बहु जन्म गंवाया, अब तो पूरण शान्ति गहो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Shaanti Shaanti Shaanti Gaho.",
+    "Kalnaa Men Bahu Janm Ganvaayaa, Ab To Puran Shaanti Gaho (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "संकल्प विकल्प मलिन त्यागो, आतम चिन्तन में नित लागो ।",
+        "जीव भाव से भय कर भागों, ब्रह्म भाव निर्भान्ति गहो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sankalp Vikalp Malin Tyaago, Aatam Chintan Men Nit Laago.",
+        "Jiv Bhaav Se Bhay Kar Bhaagon, Brahm Bhaav Nirbhaanti Gaho || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अविद्या से मिल जगत पसारा, रचिया तुमने बारम्बारा ।",
+        "अब तो लय कर सब विस्तारा, अफुर भवन इस भान्ति गहो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Avidyaa Se Mil Jagat Pasaaraa, Rachiyaa Tumne Baarambaaraa.",
+        "Ab To Lay Kar Sab Vistaaraa, Aphur Bhavan Is Bhaanti Gaho || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अपने घर से भूल अजाना, जग में स्वांग धरे तुम नाना ।",
+        "पशु पंछी कब भये इन्साना, अब तो अपनी क्रान्ति गहो ॥ डे ॥",
+        "कहता टेऊँ सुन मन मेरे, जग में तुमने बहु दुख हेरे ।",
+        "अब तो स्थित हो निज डेरे, पूरण गुरु की पान्ति गहो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Apne Ghar Se Bhul Ajaanaa, Jag Men Svaang Dhare Tum Naanaa.",
+        "Pashu Panchhi Kab Bhaye Insaanaa, Ab To Apni Kraanti Gaho || De ||",
+        "Kahtaa Teun Sun Man Mere, Jag Men Tumne Bahu Dukh Here.",
+        "Ab To Sthit Ho Nij Dere, Puran Guru Ki Paanti Gaho || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन शांति शांति शांति गहो.",
-      "कलना मेन बहु जनम गनवाया, ब तो पुरन शांति गहो (टेक)."
+      "संकल्प विकल्प मलिन त्यागो, आतम चिन्तन में नित लागो ।",
+      "जीव भाव से भय कर भागों, ब्रह्म भाव निर्भान्ति गहो ॥१ ॥"
     ],
     [
-      "सनकलप विकलप मलिन तयागो, ातम चिनतन मेन नित लागो.",
-      "जिव भाव से भय कर भागोन, बरहम भाव निरभानति गहो || 1 ||."
+      "अविद्या से मिल जगत पसारा, रचिया तुमने बारम्बारा ।",
+      "अब तो लय कर सब विस्तारा, अफुर भवन इस भान्ति गहो ॥२ ॥"
     ],
     [
-      "विदया से मिल जगत पसारा, रचिया तुमने बारमबारा.",
-      "ब तो लय कर सब विसतारा, फुर भवन िस भानति गहो || 2 ||"
-    ],
-    [
-      "पने घर से भुल जाना, जग मेन सवानग धरे तुम नाना.",
-      "पशु पनचहि कब भये िनसाना, ब तो पनि करानति गहो || दे ||"
-    ],
-    [
-      "कहता तेऊँ सुन मन मेरे, जग मेन तुमने बहु दुःख हेरे.",
-      "ब तो सथित हो निज देरे, पुरन गुरु कि पानति गहो || 4 ||"
+      "अपने घर से भूल अजाना, जग में स्वांग धरे तुम नाना ।",
+      "पशु पंछी कब भये इन्साना, अब तो अपनी क्रान्ति गहो ॥ डे ॥",
+      "कहता टेऊँ सुन मन मेरे, जग में तुमने बहु दुख हेरे ।",
+      "अब तो स्थित हो निज डेरे, पूरण गुरु की पान्ति गहो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Shaanti Shaanti Shaanti Gaho.",
-      "Kalnaa Men Bahu Janm Ganvaayaa, Ab To Puran Shaanti Gaho (Tek)."
-    ],
-    [
       "Sankalp Vikalp Malin Tyaago, Aatam Chintan Men Nit Laago.",
-      "Jiv Bhaav Se Bhay Kar Bhaagon, Brahm Bhaav Nirbhaanti Gaho || 1 ||."
+      "Jiv Bhaav Se Bhay Kar Bhaagon, Brahm Bhaav Nirbhaanti Gaho || 1 ||"
     ],
     [
       "Avidyaa Se Mil Jagat Pasaaraa, Rachiyaa Tumne Baarambaaraa.",
@@ -42,26 +82,26 @@
     ],
     [
       "Apne Ghar Se Bhul Ajaanaa, Jag Men Svaang Dhare Tum Naanaa.",
-      "Pashu Panchhi Kab Bhaye Insaanaa, Ab To Apni Kraanti Gaho || De ||"
-    ],
-    [
+      "Pashu Panchhi Kab Bhaye Insaanaa, Ab To Apni Kraanti Gaho || De ||",
       "Kahtaa Teun Sun Man Mere, Jag Men Tumne Bahu Dukh Here.",
       "Ab To Sthit Ho Nij Dere, Puran Guru Ki Paanti Gaho || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 69 || 131 ||",
+    "मन शान्ति शान्ति शान्ति गहो",
     "Man Shaanti Shaanti Shaanti Gaho",
-    "मन शांति शांति शांति गहो"
+    "राग आसा भजन 69",
+    "Raag Aasaa Bhajan 69"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 131,
+  "displayOrder": 69,
+  "overallOrder": 131,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 92",
+  "updatedAt": "2026-10-26"
 }

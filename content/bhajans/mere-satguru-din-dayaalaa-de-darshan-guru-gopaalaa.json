@@ -2,93 +2,122 @@
   "id": "bhajan-0153",
   "slug": "mere-satguru-din-dayaalaa-de-darshan-guru-gopaalaa",
   "categoryId": "raag-aasaa",
-  "title": "मेरे सतगुरु दीन दयाला, दे दरशन गुरु गोपाला",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मेरे सत्गुरु दीन दयाला, दे दर्शन गुरु गोपाला",
   "romanTitle": "Mere Satguru Din Dayaalaa, De Darshan Guru Gopaalaa",
-  "firstLine": "Mere Satguru Din Dayaalaa, De Darshan Guru Gopaalaa. Tere Darshan Kaaran Meraa, Manuvaa Hai Matvaalaa Re (Tek).",
+  "firstLine": "Mere Satguru Din Dayaalaa, De Darshan Guru Gopaalaa.",
+  "heading": "।। राग आसा भजन ।। ९१ ।। १५३।।",
+  "tek": [
+    "मेरे सत्गुरु दीन दयाला, दे दर्शन गुरु गोपाला ।",
+    "तेरे दर्शन कारण मेरा, मनुवा है मतवाला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Satguru Din Dayaalaa, De Darshan Guru Gopaalaa.",
+    "Tere Darshan Kaaran Meraa, Manuvaa Hai Matvaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चातक जैसे चाहे हरदम, स्वान्ति बूंद मुख पड़ने को ।",
+        "चकुवा चकुवी चाहत जैसे, रवि के दर्शन करने को ।",
+        "तैसे सत्गुरु तुम को चाहूं, जैसे धन कड्टाला रे ॥१ ॥",
+        "मछली जैसे जल को चाहत, भौंरा चाहत पुष्पनि को ।",
+        "भूखा जैसे अन्न को चाहे, प्रेमी चाहत सन्तनि को ।",
+        "तैसे सत्गुरु तुमको चाहूं, ज्यों सरवरहिं मराला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chaatak Jaise Chaahe Hardam, Svaanti Bund Mukh Parne Ko.",
+        "Chakuvaa Chakuvi Chaahat Jaise, Ravi Ke Darshan Karne Ko.",
+        "Taise Satguru Tum Ko Chaahun, Jaise Dhan Kadtaalaa Re || 1 ||",
+        "Machhli Jaise Jal Ko Chaahat, Bhaunraa Chaahat Pushpani Ko.",
+        "Bhukhaa Jaise Ann Ko Chaahe, Premi Chaahat Santani Ko.",
+        "Taise Satguru Tumko Chaahun, Jyon Sarvarhin Maraalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कामिनि जैसे कन्तहिं चाहे, देह अध्यासी जीवन को ।",
+        "बालक जैसे पय को चाहे, सुर ज्यों अमृत पीवन को ।",
+        "तैसे सत्गुरु तुम को चाहूं, ज्यों भूमिहिं भूपाला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaamini Jaise Kantahin Chaahe, Deh Adhyaasi Jivan Ko.",
+        "Baalak Jaise Pay Ko Chaahe, Sur Jyon Amrit Pivan Ko.",
+        "Taise Satguru Tum Ko Chaahun, Jyon Bhumihin Bhupaalaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "उमड़ उमड़ कर सागर उछले, जैसे शशि के मिलने को ।",
+        "कहे टेऊँ त्यों मनुवा चाहे, सत्गुरु तुम से रलने को ।",
+        "ये ही आशा पूर्ण करले, कर कृपा कृपाला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Umar Umar Kar Saagar Uchhle, Jaise Shashi Ke Milne Ko.",
+        "Kahe Teun Tyon Manuvaa Chaahe, Satguru Tum Se Ralne Ko.",
+        "Ye Hi Aashaa Purn Karle, Kar Kripaa Kripaalaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे सतगुरु दीन दयाला, दे दरशन गुरु गोपाला.",
-      "तेरे दरशन कारन मेरा, मनुवा है मतवाला रे (टेक)."
+      "चातक जैसे चाहे हरदम, स्वान्ति बूंद मुख पड़ने को ।",
+      "चकुवा चकुवी चाहत जैसे, रवि के दर्शन करने को ।",
+      "तैसे सत्गुरु तुम को चाहूं, जैसे धन कड्टाला रे ॥१ ॥",
+      "मछली जैसे जल को चाहत, भौंरा चाहत पुष्पनि को ।",
+      "भूखा जैसे अन्न को चाहे, प्रेमी चाहत सन्तनि को ।",
+      "तैसे सत्गुरु तुमको चाहूं, ज्यों सरवरहिं मराला रे ॥२ ॥"
     ],
     [
-      "चातक जैसे चाहे हरदम, सवानति बुनद मुख परने को.",
-      "चकुवा चकुवि चाहत जैसे, रवि के दरशन करने को."
+      "कामिनि जैसे कन्तहिं चाहे, देह अध्यासी जीवन को ।",
+      "बालक जैसे पय को चाहे, सुर ज्यों अमृत पीवन को ।",
+      "तैसे सत्गुरु तुम को चाहूं, ज्यों भूमिहिं भूपाला रे ॥३ ॥"
     ],
     [
-      "तैसे सतगुरु तुम को चाहुन, जैसे धन कदताला रे 1",
-      "मचहलि जैसे जल को चाहत, भौनरा चाहत पुशपनि को."
-    ],
-    [
-      "भुखा जैसे नन को चाहे, परेमि चाहत सनतनि को.",
-      "तैसे सतगुरु तुमको चाहुन, जयोन सरवरहिन मराला रे || 2 ||"
-    ],
-    [
-      "कामिनि जैसे कनतहिन चाहे, देह धयासि जिवन को.",
-      "बालक जैसे पय को चाहे, सुर जयोन अमृत पिवन को."
-    ],
-    [
-      "तैसे सतगुरु तुम को चाहुन, जयोन भुमिहिन भुपाला रे || 3 ||."
-    ],
-    [
-      "ुमर ुमर कर सागर ुचहले, जैसे शशि के मिलने को.",
-      "कहे तेऊँ तयोन मनुवा चाहे, सतगुरु तुम से रलने को."
-    ],
-    [
-      "ये हि ाशा पुरन करले, कर कृपा करिपाला रे || 4 ||"
-    ],
-    [
-      "थग"
+      "उमड़ उमड़ कर सागर उछले, जैसे शशि के मिलने को ।",
+      "कहे टेऊँ त्यों मनुवा चाहे, सत्गुरु तुम से रलने को ।",
+      "ये ही आशा पूर्ण करले, कर कृपा कृपाला रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Satguru Din Dayaalaa, De Darshan Guru Gopaalaa.",
-      "Tere Darshan Kaaran Meraa, Manuvaa Hai Matvaalaa Re (Tek)."
-    ],
-    [
       "Chaatak Jaise Chaahe Hardam, Svaanti Bund Mukh Parne Ko.",
-      "Chakuvaa Chakuvi Chaahat Jaise, Ravi Ke Darshan Karne Ko."
-    ],
-    [
-      "Taise Satguru Tum Ko Chaahun, Jaise Dhan Kadtaalaa Re 1",
-      "Machhli Jaise Jal Ko Chaahat, Bhaunraa Chaahat Pushpani Ko."
-    ],
-    [
+      "Chakuvaa Chakuvi Chaahat Jaise, Ravi Ke Darshan Karne Ko.",
+      "Taise Satguru Tum Ko Chaahun, Jaise Dhan Kadtaalaa Re || 1 ||",
+      "Machhli Jaise Jal Ko Chaahat, Bhaunraa Chaahat Pushpani Ko.",
       "Bhukhaa Jaise Ann Ko Chaahe, Premi Chaahat Santani Ko.",
       "Taise Satguru Tumko Chaahun, Jyon Sarvarhin Maraalaa Re || 2 ||"
     ],
     [
       "Kaamini Jaise Kantahin Chaahe, Deh Adhyaasi Jivan Ko.",
-      "Baalak Jaise Pay Ko Chaahe, Sur Jyon Amrit Pivan Ko."
-    ],
-    [
-      "Taise Satguru Tum Ko Chaahun, Jyon Bhumihin Bhupaalaa Re || 3 ||."
+      "Baalak Jaise Pay Ko Chaahe, Sur Jyon Amrit Pivan Ko.",
+      "Taise Satguru Tum Ko Chaahun, Jyon Bhumihin Bhupaalaa Re || 3 ||"
     ],
     [
       "Umar Umar Kar Saagar Uchhle, Jaise Shashi Ke Milne Ko.",
-      "Kahe Teun Tyon Manuvaa Chaahe, Satguru Tum Se Ralne Ko."
-    ],
-    [
+      "Kahe Teun Tyon Manuvaa Chaahe, Satguru Tum Se Ralne Ko.",
       "Ye Hi Aashaa Purn Karle, Kar Kripaa Kripaalaa Re || 4 ||"
-    ],
-    [
-      "Thag"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 91 || 153 ||",
+    "मेरे सत्गुरु दीन दयाला, दे दर्शन गुरु गोपाला",
     "Mere Satguru Din Dayaalaa, De Darshan Guru Gopaalaa",
-    "मेरे सतगुरु दीन दयाला, दे दरशन गुरु गोपाला"
+    "राग आसा भजन 91",
+    "Raag Aasaa Bhajan 91"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 153,
+  "displayOrder": 91,
+  "overallOrder": 153,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 105",
+  "updatedAt": "2026-10-26"
 }

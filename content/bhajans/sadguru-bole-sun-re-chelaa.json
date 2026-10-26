@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0651",
+  "id": "bhajan-0649",
   "slug": "sadguru-bole-sun-re-chelaa",
   "categoryId": "raag-pahaari",
-  "title": "सद्गुरु बोले सुन रे चेला",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "सद्‌गुरु बोले सुन रे चेला",
   "romanTitle": "Sad‌Guru Bole Sun Re Chelaa",
-  "firstLine": "Sad‌Guru Bole Sun Re Chelaa. Saadhu Kahaavan Sugam Nahin Hai, Saadhan Kaam Duhelaa (Tek).",
+  "firstLine": "Sad‌Guru Bole Sun Re Chelaa.",
+  "heading": "।। राग पहाड़ी भजन ।। २ ।। ६५०।।",
+  "tek": [
+    "सद्‌गुरु बोले सुन रे चेला ।",
+    "साधु कहावन सुगम नहीं है, साधन काम दुहेला ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Bole Sun Re Chelaa.",
+    "Saadhu Kahaavan Sugam Nahin Hai, Saadhan Kaam Duhelaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सेवा सुमरण निशदिन करना, काटन बुख का वेला ।",
+        "तांते समझी पांव सु धरना, आतप शीत सहेला ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sevaa Sumran Nishdin Karnaa, Kaatan Bukh Kaa Velaa.",
+        "Taante Samjhi Paanv Su Dharnaa, Aatap Shit Sahelaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लोक निन्‍्दा को सिर पर सहना, जग में चरत अभेला ।",
+        "तीन लज्जा को तोड़के चलना, भव ते रहन अकेला ॥२ ॥"
+      ],
+      "romanLines": [
+        "Lok Nin‍Daa Ko Sir Par Sahnaa, Jag Men Charat Abhelaa.",
+        "Tin Lajjaa Ko Torke Chalnaa, Bhav Te Rahan Akelaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच विषय की आस न करनी, इन्द्रियां जीत रहेला ।",
+        "अन्तर आतम चिन्तन करना, है यह अदृूभुत खेला ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Vishay Ki Aas Na Karni, Indriyaan Jit Rahelaa.",
+        "Antar Aatam Chintan Karnaa, Hai Yah Adriubhut Khelaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ कठिन फकीरी, यह ना गैल सुहेला ।",
+        "जीव इईश की कटे उपाधी, करन ब्रह्म से मेला ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Kathin Phakiri, Yah Naa Gail Suhelaa.",
+        "Jiv Iish Ki Kate Upaadhi, Karan Brahm Se Melaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु बोले सुन रे चेला.",
-      "साधु कहावन सुगम नहिन है, साधन काम दुहेला (टेक)."
+      "सेवा सुमरण निशदिन करना, काटन बुख का वेला ।",
+      "तांते समझी पांव सु धरना, आतप शीत सहेला ॥१ ॥"
     ],
     [
-      "सेवा सुमरन निशदिन करना, कातन बुख का वेला.",
-      "तानते समझि पानव सु धरना, ातप शित सहेला.1 ||."
+      "लोक निन्‍्दा को सिर पर सहना, जग में चरत अभेला ।",
+      "तीन लज्जा को तोड़के चलना, भव ते रहन अकेला ॥२ ॥"
     ],
     [
-      "लोक निनदा को सिर पर सहना, जग मेन चरत भेला.",
-      "तिन लजजा को तोरके चलना, भव ते रहन केला || 2. ||."
+      "पांच विषय की आस न करनी, इन्द्रियां जीत रहेला ।",
+      "अन्तर आतम चिन्तन करना, है यह अदृूभुत खेला ॥३ ॥"
     ],
     [
-      "पानच विशय कि ास न करनि, िनदरियान जित रहेला.",
-      "नतर ातम चिनतन करना, है यह दरिुभुत खेला || 3 ||."
-    ],
-    [
-      "कहता तेऊँ कथिन फकिरि, यह ना गैल सुहेला.",
-      "जिव ीश कि कते ुपाधि, करन बरहम से मेला || 4 ||"
+      "कहता टेऊँ कठिन फकीरी, यह ना गैल सुहेला ।",
+      "जीव इईश की कटे उपाधी, करन ब्रह्म से मेला ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Bole Sun Re Chelaa.",
-      "Saadhu Kahaavan Sugam Nahin Hai, Saadhan Kaam Duhelaa (Tek)."
-    ],
-    [
       "Sevaa Sumran Nishdin Karnaa, Kaatan Bukh Kaa Velaa.",
-      "Taante Samjhi Paanv Su Dharnaa, Aatap Shit Sahelaa.1 ||."
+      "Taante Samjhi Paanv Su Dharnaa, Aatap Shit Sahelaa || 1 ||"
     ],
     [
       "Lok Nin‍Daa Ko Sir Par Sahnaa, Jag Men Charat Abhelaa.",
-      "Tin Lajjaa Ko Torke Chalnaa, Bhav Te Rahan Akelaa || 2. ||."
+      "Tin Lajjaa Ko Torke Chalnaa, Bhav Te Rahan Akelaa || 2 ||"
     ],
     [
-      "Paanch Vishay Ki Aas N Karni, Indriyaan Jit Rahelaa.",
-      "Antar Aatam Chintan Karnaa, Hai Yah Adriubhut Khelaa || 3 ||."
+      "Paanch Vishay Ki Aas Na Karni, Indriyaan Jit Rahelaa.",
+      "Antar Aatam Chintan Karnaa, Hai Yah Adriubhut Khelaa || 3 ||"
     ],
     [
       "Kahtaa Teun Kathin Phakiri, Yah Naa Gail Suhelaa.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 2 || 650 ||",
+    "सद्‌गुरु बोले सुन रे चेला",
     "Sad‌Guru Bole Sun Re Chelaa",
-    "सद्गुरु बोले सुन रे चेला"
+    "राग पहाड़ी भजन 2",
+    "Raag Pahaari Bhajan 2"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 651,
+  "displayOrder": 2,
+  "overallOrder": 649,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 347",
+  "updatedAt": "2026-10-26"
 }

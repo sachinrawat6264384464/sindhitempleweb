@@ -2,47 +2,96 @@
   "id": "bhajan-0066",
   "slug": "karo-santon-kaa-sangaa-re-man-laage-rangaa",
   "categoryId": "raag-aasaa",
-  "title": "करो सनतोन का सनगा, रे मन लागे रनगा",
-  "romanTitle": "Karo Santon Kaa Sangaa, Re Man Laage Rangaa",
-  "firstLine": "Karo Santon Kaa Sangaa, Re Man Laage Rangaa, Hovai Changaa, Jaise Gangaa (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "करो सन्तों का संगा, रे मन लागे रंगा,",
+  "romanTitle": "Karo Santon Kaa Sangaa, Re Man Laage Rangaa,",
+  "firstLine": "Karo Santon Kaa Sangaa, Re Man Laage Rangaa,",
+  "heading": "।। राग आसा भजन ।। ४ ।। ६६॥।",
+  "tek": [
+    "करो सन्तों का संगा, रे मन लागे रंगा,",
+    "होवै चंगा, जैसे गंगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Santon Kaa Sangaa, Re Man Laage Rangaa,",
+    "Hovai Changaa, Jaise Gangaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सनक जनक सिद्ध सुर नर ज्ञानी, पाया संग से पद निर्बानी ।",
+        "गृही हो भावें नंगा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sanak Janak Siddh Sur Nar Jnyaani, Paayaa Sang Se Pad Nirbaani.",
+        "Grihi Ho Bhaaven Nangaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मुक्ति मन्दिर के चौ दर्बाना, तामें सत्संग है प्रधाना ।",
+        "कीजे धार उमंगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mukti Mandir Ke Chau Darbaanaa, Taamen Satsang Hai Pradhaanaa.",
+        "Kije Dhaar Umangaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चन्दन संग जिमि हो तरु चन्दन,सन्तों संग तिमि खल हो सज्जन ।",
+        "होवहिं कीट भृज्भा ॥ ३े ॥ ।"
+      ],
+      "romanLines": [
+        "Chandan Sang Jimi Ho Taru Chandan,Santon Sang Timi Khal Ho Sajjan.",
+        "Hovhin Kit Bhrijbhaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सत्संग सुरतरु वेद बतावहिं, कहे टेऊं सब आश पुजावहिं ।",
+        "मेटे मस्तक अंगा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Satsang Surtaru Ved Bataavhin, Kahe Teun Sab Aash Pujaavhin.",
+        "Mete Mastak Angaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सनतोन का सनगा, रे मन लागे रनगा,",
-      "होवै चनगा, जैसे गनगा (टेक)."
+      "सनक जनक सिद्ध सुर नर ज्ञानी, पाया संग से पद निर्बानी ।",
+      "गृही हो भावें नंगा ॥१ ॥"
     ],
     [
-      "सनक जनक सिदध सुर नर जनयानि, पाया सनग से पद निरबानि.",
-      "गरिहि हो भावेन ननगा || 1 ||"
+      "मुक्ति मन्दिर के चौ दर्बाना, तामें सत्संग है प्रधाना ।",
+      "कीजे धार उमंगा ॥२ ॥"
     ],
     [
-      "मुक्ति मनदिर के चौ दरबाना, तामेन सत्संग है परधाना.",
-      "किजे धार ुमनगा || 2 ||."
+      "चन्दन संग जिमि हो तरु चन्दन,सन्तों संग तिमि खल हो सज्जन ।",
+      "होवहिं कीट भृज्भा ॥ ३े ॥ ।"
     ],
     [
-      "चनदन सनग जिमि हो तरु चनदनसनतोन सनग तिमि खल हो सजजन.",
-      "होवहिन कित भरिजभा || 3े ||."
-    ],
-    [
-      "सत्संग सुरतरु वेद बतावहिन, कहे तेऊँ सब ाश पुजावहिन.",
-      "मेते मसतक नगा || 4 ||"
+      "सत्संग सुरतरु वेद बतावहिं, कहे टेऊं सब आश पुजावहिं ।",
+      "मेटे मस्तक अंगा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Karo Santon Kaa Sangaa, Re Man Laage Rangaa,",
-      "Hovai Changaa, Jaise Gangaa (Tek)."
-    ],
     [
       "Sanak Janak Siddh Sur Nar Jnyaani, Paayaa Sang Se Pad Nirbaani.",
       "Grihi Ho Bhaaven Nangaa || 1 ||"
     ],
     [
       "Mukti Mandir Ke Chau Darbaanaa, Taamen Satsang Hai Pradhaanaa.",
-      "Kije Dhaar Umangaa || 2 ||."
+      "Kije Dhaar Umangaa || 2 ||"
     ],
     [
       "Chandan Sang Jimi Ho Taru Chandan,Santon Sang Timi Khal Ho Sajjan.",
-      "Hovhin Kit Bhrijbhaa || 3E ||."
+      "Hovhin Kit Bhrijbhaa || 3E ||"
     ],
     [
       "Satsang Surtaru Ved Bataavhin, Kahe Teun Sab Aash Pujaavhin.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 4 || 66 ||.",
-    "Karo Santon Kaa Sangaa, Re Man Laage Rangaa",
-    "करो सनतोन का सनगा, रे मन लागे रनगा"
+    "करो सन्तों का संगा, रे मन लागे रंगा,",
+    "Karo Santon Kaa Sangaa, Re Man Laage Rangaa,",
+    "राग आसा भजन 4",
+    "Raag Aasaa Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 66,
+  "displayOrder": 4,
+  "overallOrder": 66,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 58",
+  "updatedAt": "2026-10-26"
 }

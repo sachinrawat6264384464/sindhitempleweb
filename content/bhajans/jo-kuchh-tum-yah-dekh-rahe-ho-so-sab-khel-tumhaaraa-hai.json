@@ -2,62 +2,114 @@
   "id": "bhajan-0408",
   "slug": "jo-kuchh-tum-yah-dekh-rahe-ho-so-sab-khel-tumhaaraa-hai",
   "categoryId": "raag-tilang",
-  "title": "जो कुचह तुम यह देख रहे हो, सो सब खेल तुमहारा है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "जो कुछ तुम यह देख रहे हो, सो सब खेल तुम्हारा है",
   "romanTitle": "Jo Kuchh Tum Yah Dekh Rahe Ho, So Sab Khel Tumhaaraa Hai",
   "firstLine": "Jo Kuchh Tum Yah Dekh Rahe Ho, So Sab Khel Tumhaaraa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ॥। ४५ ।। ४०९",
+  "tek": [
+    "जो कुछ तुम यह देख रहे हो, सो सब खेल तुम्हारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jo Kuchh Tum Yah Dekh Rahe Ho, So Sab Khel Tumhaaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम ही खेल बनाया सारा, तुम ही देखनहारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Hi Khel Banaayaa Saaraa, Tum Hi Dekhnahaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तेरे होते सब कुछ होवे, तुझ बिन नहिं संसारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tere Hote Sab Kuchh Hove, Tujh Bin Nahin Sansaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तेज तुम्हारे से प्रकाशत, अग्नी रवि शशि तारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tej Tumhaare Se Prakaashat, Agni Ravi Shashi Taaraa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सबके अन्दर तूंही रमिया, तूंही सबसे न्यारा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sabke Andar Tunhi Ramiyaa, Tunhi Sabse Nyaaraa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ तीन लोक में, तेरा ही दीदारा है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tin Lok Men, Teraa Hi Didaaraa Hai || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जो कुचह तुम यह देख रहे हो, सो सब खेल तुमहारा है (टेक)."
+      "तुम ही खेल बनाया सारा, तुम ही देखनहारा है ॥१ ॥"
     ],
     [
-      "तुम हि खेल बनाया सारा, तुम हि देखनहारा है || 1 ||."
+      "तेरे होते सब कुछ होवे, तुझ बिन नहिं संसारा है ॥२ ॥"
     ],
     [
-      "तेरे होते सब कुचह होवे, तुझ बिन नहिन सनसारा है || 2 ||."
+      "तेज तुम्हारे से प्रकाशत, अग्नी रवि शशि तारा है ॥३ ॥"
     ],
     [
-      "तेज तुमहारे से परकाशत, गनि रवि शशि तारा है || 3 ||."
+      "सबके अन्दर तूंही रमिया, तूंही सबसे न्यारा है ॥४ ॥"
     ],
     [
-      "सबके नदर तुनहि रमिया, तुनहि सबसे नयारा है || 4 ||."
-    ],
-    [
-      "कहता तेऊँ तिन लोक मेन, तेरा हि दिदारा है || 5 ||"
+      "कहता टेऊँ तीन लोक में, तेरा ही दीदारा है ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jo Kuchh Tum Yah Dekh Rahe Ho, So Sab Khel Tumhaaraa Hai (Tek)."
+      "Tum Hi Khel Banaayaa Saaraa, Tum Hi Dekhnahaaraa Hai || 1 ||"
     ],
     [
-      "Tum Hi Khel Banaayaa Saaraa, Tum Hi Dekhnahaaraa Hai || 1 ||."
+      "Tere Hote Sab Kuchh Hove, Tujh Bin Nahin Sansaaraa Hai || 2 ||"
     ],
     [
-      "Tere Hote Sab Kuchh Hove, Tujh Bin Nahin Sansaaraa Hai || 2 ||."
+      "Tej Tumhaare Se Prakaashat, Agni Ravi Shashi Taaraa Hai || 3 ||"
     ],
     [
-      "Tej Tumhaare Se Prakaashat, Agni Ravi Shashi Taaraa Hai || 3 ||."
-    ],
-    [
-      "Sabke Andar Tunhi Ramiyaa, Tunhi Sabse Nyaaraa Hai || 4 ||."
+      "Sabke Andar Tunhi Ramiyaa, Tunhi Sabse Nyaaraa Hai || 4 ||"
     ],
     [
       "Kahtaa Teun Tin Lok Men, Teraa Hi Didaaraa Hai || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan ||. 45 || 409",
+    "जो कुछ तुम यह देख रहे हो, सो सब खेल तुम्हारा है",
     "Jo Kuchh Tum Yah Dekh Rahe Ho, So Sab Khel Tumhaaraa Hai",
-    "जो कुचह तुम यह देख रहे हो, सो सब खेल तुमहारा है"
+    "राग तिलंग भजन 45",
+    "Raag Tilang Bhajan 45"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 408,
+  "displayOrder": 45,
+  "overallOrder": 408,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 238",
+  "updatedAt": "2026-10-26"
 }

@@ -2,41 +2,90 @@
   "id": "bhajan-0165",
   "slug": "apnaa-aap-pachhaan-bande-aadi-rup-hai-joy-tumhaaraa",
   "categoryId": "raag-vihaag",
-  "title": "पना ाप पचहान बनदे, ादि रुप है जोय तुमहारा",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "अपना आप पछान बन्दे, आदि रूप है जोय तुम्हारा",
   "romanTitle": "Apnaa Aap Pachhaan Bande, Aadi Rup Hai Joy Tumhaaraa",
   "firstLine": "Apnaa Aap Pachhaan Bande, Aadi Rup Hai Joy Tumhaaraa (Tek).",
+  "heading": "।। राग विहाग भजन ।। ७ ।। १६५।।",
+  "tek": [
+    "अपना आप पछान बन्दे, आदि रूप है जोय तुम्हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Apnaa Aap Pachhaan Bande, Aadi Rup Hai Joy Tumhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आतम इक रस ब्रह्म अतोला, अनन्त आनन्द अखण्ड अडोल ।",
+        "साक्षी सब घट जान बन्दे, सो है तेरा रूप उदारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aatam Ik Ras Brahm Atolaa, Anant Aanand Akhand Adol.",
+        "Saakshi Sab Ghat Jaan Bande, So Hai Teraa Rup Udaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "स्थूल सूक्ष्म कारण त्रेई, जाग्रत स्वप्न सुषुप्ति जेई ।",
+        "ये सब जड़ पहिचान बन्दे, तूं है चेतन जानन हारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sthul Sukshm Kaaran Trei, Jaagrat Svapn Sushupti Jei.",
+        "Ye Sab Jar Pahichaan Bande, Tu Hai Chetan Jaanan Haaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "माया अविद्या सम्बन्ध उपाधी, जीव इंश पुनि भेद अनादी ।",
+        "ये सब कल्पित जान बन्दे, तूं है इन सबका आधारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Avidyaa Sambandh Upaadhi, Jiv Insh Puni Bhed Anaadi.",
+        "Ye Sab Kalpit Jaan Bande, Tu Hai In Sabkaa Aadhaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह निश्चय कीजे, ब्रह्म भाव उर माहिं गहीजे ।",
+        "तन का तज अभिमान बन्दे, झूठा है यह सब आकारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Nishchay Kije, Brahm Bhaav Ur Maahin Gahije.",
+        "Tan Kaa Taj Abhimaan Bande, Jhuthaa Hai Yah Sab Aakaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पना ाप पचहान बनदे, ादि रुप है जोय तुमहारा (टेक)."
+      "आतम इक रस ब्रह्म अतोला, अनन्त आनन्द अखण्ड अडोल ।",
+      "साक्षी सब घट जान बन्दे, सो है तेरा रूप उदारा ॥१ ॥"
     ],
     [
-      "ातम िक रस बरहम तोला, ननत आनंद खनद दोल.",
-      "साक्षी सब घत जान बनदे, सो है तेरा रुप ुदारा.1. ||."
+      "स्थूल सूक्ष्म कारण त्रेई, जाग्रत स्वप्न सुषुप्ति जेई ।",
+      "ये सब जड़ पहिचान बन्दे, तूं है चेतन जानन हारा ॥२ ॥"
     ],
     [
-      "सथुल सुकशम कारन तरेि, जागरत सवपन सुशुपति जेि.",
-      "ये सब जर पहिचान बनदे, तु है चेतन जानन हारा || 2. ||."
+      "माया अविद्या सम्बन्ध उपाधी, जीव इंश पुनि भेद अनादी ।",
+      "ये सब कल्पित जान बन्दे, तूं है इन सबका आधारा ॥३ ॥"
     ],
     [
-      "माया विदया समबनध ुपाधि, जिव िनश पुनि भेद नादि.",
-      "ये सब कलपित जान बनदे, तु है िन सबका ाधारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ यह निशचय किजे, बरहम भाव ुर माहिन गहिजे.",
-      "तन का तज भिमान बनदे, झुथा है यह सब ाकारा || 4. ||."
+      "कहे टेऊँ यह निश्चय कीजे, ब्रह्म भाव उर माहिं गहीजे ।",
+      "तन का तज अभिमान बन्दे, झूठा है यह सब आकारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Apnaa Aap Pachhaan Bande, Aadi Rup Hai Joy Tumhaaraa (Tek)."
-    ],
-    [
       "Aatam Ik Ras Brahm Atolaa, Anant Aanand Akhand Adol.",
-      "Saakshi Sab Ghat Jaan Bande, So Hai Teraa Rup Udaaraa.1. ||."
+      "Saakshi Sab Ghat Jaan Bande, So Hai Teraa Rup Udaaraa || 1 ||"
     ],
     [
       "Sthul Sukshm Kaaran Trei, Jaagrat Svapn Sushupti Jei.",
-      "Ye Sab Jar Pahichaan Bande, Tu Hai Chetan Jaanan Haaraa || 2. ||."
+      "Ye Sab Jar Pahichaan Bande, Tu Hai Chetan Jaanan Haaraa || 2 ||"
     ],
     [
       "Maayaa Avidyaa Sambandh Upaadhi, Jiv Insh Puni Bhed Anaadi.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahe Teun Yah Nishchay Kije, Brahm Bhaav Ur Maahin Gahije.",
-      "Tan Kaa Taj Abhimaan Bande, Jhuthaa Hai Yah Sab Aakaaraa || 4. ||."
+      "Tan Kaa Taj Abhimaan Bande, Jhuthaa Hai Yah Sab Aakaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 7 || 165 ||",
+    "अपना आप पछान बन्दे, आदि रूप है जोय तुम्हारा",
     "Apnaa Aap Pachhaan Bande, Aadi Rup Hai Joy Tumhaaraa",
-    "पना ाप पचहान बनदे, ादि रुप है जोय तुमहारा"
+    "राग विहाग भजन 7",
+    "Raag Vihaag Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 165,
+  "displayOrder": 7,
+  "overallOrder": 165,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 112",
+  "updatedAt": "2026-10-26"
 }

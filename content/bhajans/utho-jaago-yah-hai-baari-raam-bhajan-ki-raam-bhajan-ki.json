@@ -1,57 +1,97 @@
 {
   "id": "bhajan-0232",
   "slug": "utho-jaago-yah-hai-baari-raam-bhajan-ki-raam-bhajan-ki",
-  "categoryId": "raag-bhairav",
-  "title": "ुथो जागो यह है बारि, राम भजन कि राम भजन कि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "उठो जागो यह है बारी, राम भजन की राम भजन की",
   "romanTitle": "Utho Jaago Yah Hai Baari, Raam Bhajan Ki Raam Bhajan Ki",
   "firstLine": "Utho Jaago Yah Hai Baari, Raam Bhajan Ki Raam Bhajan Ki (Tek).",
+  "heading": "।। राग भैरवी भजन ।। १७ ।। २३२।।",
+  "tek": [
+    "उठो जागो यह है बारी, राम भजन की राम भजन की ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Utho Jaago Yah Hai Baari, Raam Bhajan Ki Raam Bhajan Ki (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सोय सोय बहु जन्म बिताये, कबहूँ न गोबिन्द के गुण गाये ।",
+        "तज गफ़लत कर होशियारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Soy Soy Bahu Janm Bitaaye, Kabhun Na Gobind Ke Gun Gaaye.",
+        "Taj Gaflat Kar Hoshiyaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "और कर्म से हो न उद्धारा, राम भजन भव तारणहारा ।",
+        "जप तांते हरि सुखकारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aur Karm Se Ho Na Uddhaaraa, Raam Bhajan Bhav Taarnahaaraa.",
+        "Jap Taante Hari Sukhkaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम भजन सब साधन मूला, कहे टेऊँ हरि इन अनुकूला ।",
+        "यह बाणी वेद उच्चारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Sab Saadhan Mulaa, Kahe Teun Hari In Anukulaa.",
+        "Yah Baani Ved Uchchaari || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथो जागो यह है बारि, राम भजन कि राम भजन कि (टेक)."
+      "सोय सोय बहु जन्म बिताये, कबहूँ न गोबिन्द के गुण गाये ।",
+      "तज गफ़लत कर होशियारी ॥१ ॥"
     ],
     [
-      "सोय सोय बहु जनम बिताये, कभुन न गोबिनद के गुन गाये.",
-      "तज गfलत कर होशियारि || 1. ||."
+      "और कर्म से हो न उद्धारा, राम भजन भव तारणहारा ।",
+      "जप तांते हरि सुखकारी ॥२ ॥"
     ],
     [
-      "ौर करम से हो न ुदधारा, राम भजन भव तारनहारा.",
-      "जप तानते हरि सुखकारि || 2. ||."
-    ],
-    [
-      "राम भजन सब साधन मुला, कहे तेऊँ हरि िन नुकुला.",
-      "यह बानी वेद ुचचारि ||.3 ||."
+      "राम भजन सब साधन मूला, कहे टेऊँ हरि इन अनुकूला ।",
+      "यह बाणी वेद उच्चारी ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Utho Jaago Yah Hai Baari, Raam Bhajan Ki Raam Bhajan Ki (Tek)."
+      "Soy Soy Bahu Janm Bitaaye, Kabhun Na Gobind Ke Gun Gaaye.",
+      "Taj Gaflat Kar Hoshiyaari || 1 ||"
     ],
     [
-      "Soy Soy Bahu Janm Bitaaye, Kabhun N Gobind Ke Gun Gaaye.",
-      "Taj Gaflat Kar Hoshiyaari || 1. ||."
-    ],
-    [
-      "Aur Karm Se Ho N Uddhaaraa, Raam Bhajan Bhav Taarnahaaraa.",
-      "Jap Taante Hari Sukhkaari || 2. ||."
+      "Aur Karm Se Ho Na Uddhaaraa, Raam Bhajan Bhav Taarnahaaraa.",
+      "Jap Taante Hari Sukhkaari || 2 ||"
     ],
     [
       "Raam Bhajan Sab Saadhan Mulaa, Kahe Teun Hari In Anukulaa.",
-      "Yah Baani Ved Uchchaari ||.3 ||."
+      "Yah Baani Ved Uchchaari || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 17 || 232 ||",
+    "उठो जागो यह है बारी, राम भजन की राम भजन की",
     "Utho Jaago Yah Hai Baari, Raam Bhajan Ki Raam Bhajan Ki",
-    "ुथो जागो यह है बारि, राम भजन कि राम भजन कि"
+    "राग भैरवी भजन 17",
+    "Raag Bhairvi Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 232,
+  "displayOrder": 17,
+  "overallOrder": 232,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 145",
+  "updatedAt": "2026-10-26"
 }

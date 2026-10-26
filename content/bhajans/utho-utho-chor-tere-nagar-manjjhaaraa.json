@@ -1,59 +1,99 @@
 {
-  "id": "bhajan-0810",
+  "id": "bhajan-0808",
   "slug": "utho-utho-chor-tere-nagar-manjjhaaraa",
   "categoryId": "raag-pilaa",
-  "title": "ुथो ुथो चोर तेरे नगर मनजझारा",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "ऊठो ऊठो चोर तेरे नगर मंजझारा",
   "romanTitle": "Utho Utho Chor Tere Nagar Manjjhaaraa",
-  "firstLine": "Utho Utho Chor Tere Nagar Manjjhaaraa. Nagar Manjjhaaraa Luthin Daam Tumhaaraa Re (Tek).",
+  "firstLine": "Utho Utho Chor Tere Nagar Manjjhaaraa.",
+  "heading": "।। राग पीला भजन ।। ८८ ।। ८१०॥।",
+  "tek": [
+    "ऊठो ऊठो चोर तेरे नगर मंजझारा ।",
+    "नगर मंजझारा लूटहिं दाम तुम्हारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Utho Utho Chor Tere Nagar Manjjhaaraa.",
+    "Nagar Manjjhaaraa Luthin Daam Tumhaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देह नगर में चोर महाना, काम क्रोध लोभ मोह अभिमाना ।",
+        "आतम धन को हैं हरने हारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Deh Nagar Men Chor Mahaanaa, Kaam Krodh Lobh Moh Abhimaanaa.",
+        "Aatam Dhan Ko Hain Harne Haaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्ञान दीप ले चोर निहारो, उपशम लाठी ले तिह॑ं मारो ।",
+        "ज्ञान वैराग देवे गुरु दातारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Dip Le Chor Nihaaro, Upsham Laathi Le Tihn Maaro.",
+        "Gyaan Vairaag Deve Guru Daataaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु चरने लागो, मोह नींद से जल्दी जागो ।",
+        "अपने नगर का तुम हो रखवारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Charne Laago, Moh Nind Se Jaldi Jaago.",
+        "Apne Nagar Kaa Tum Ho Rakhvaaraa Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथो ुथो चोर तेरे नगर मनजझारा.",
-      "नगर मनजझारा लुथिन दाम तुमहारा रे (टेक)."
+      "देह नगर में चोर महाना, काम क्रोध लोभ मोह अभिमाना ।",
+      "आतम धन को हैं हरने हारा रे ॥१ ॥"
     ],
     [
-      "देह नगर मेन चोर महाना, काम करोध लोभ मोह भिमाना.",
-      "ातम धन को हैन हरने हारा रे.1 ||."
+      "ज्ञान दीप ले चोर निहारो, उपशम लाठी ले तिह॑ं मारो ।",
+      "ज्ञान वैराग देवे गुरु दातारा रे ॥२ ॥"
     ],
     [
-      "ज्ञान दिप ले चोर निहारो, ुपशम लाथि ले तिहन मारो.",
-      "ज्ञान वैराग देवे गुरु दातारा रे || 2 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु चरने लागो, मोह निनद से जलदि जागो.",
-      "पने नगर का तुम हो रखवारा रे.3 ||."
+      "कहे टेऊँ गुरु चरने लागो, मोह नींद से जल्दी जागो ।",
+      "अपने नगर का तुम हो रखवारा रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Utho Utho Chor Tere Nagar Manjjhaaraa.",
-      "Nagar Manjjhaaraa Luthin Daam Tumhaaraa Re (Tek)."
-    ],
-    [
       "Deh Nagar Men Chor Mahaanaa, Kaam Krodh Lobh Moh Abhimaanaa.",
-      "Aatam Dhan Ko Hain Harne Haaraa Re.1 ||."
+      "Aatam Dhan Ko Hain Harne Haaraa Re || 1 ||"
     ],
     [
-      "Jnyaan Dip Le Chor Nihaaro, Upsham Laathi Le Tihn Maaro.",
-      "Jnyaan Vairaag Deve Guru Daataaraa Re || 2 ||"
+      "Gyaan Dip Le Chor Nihaaro, Upsham Laathi Le Tihn Maaro.",
+      "Gyaan Vairaag Deve Guru Daataaraa Re || 2 ||"
     ],
     [
       "Kahe Teun Guru Charne Laago, Moh Nind Se Jaldi Jaago.",
-      "Apne Nagar Kaa Tum Ho Rakhvaaraa Re.3 ||."
+      "Apne Nagar Kaa Tum Ho Rakhvaaraa Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 88 || 810 ||.",
+    "ऊठो ऊठो चोर तेरे नगर मंजझारा",
     "Utho Utho Chor Tere Nagar Manjjhaaraa",
-    "ुथो ुथो चोर तेरे नगर मनजझारा"
+    "राग पीला भजन 87",
+    "Raag Pilaa Bhajan 87"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 810,
+  "displayOrder": 87,
+  "overallOrder": 808,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 429",
+  "updatedAt": "2026-10-26"
 }

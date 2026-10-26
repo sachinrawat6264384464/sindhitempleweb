@@ -2,39 +2,88 @@
   "id": "bhajan-0171",
   "slug": "e-siyaanaa-soch-dekho-naahin-tav-sansaar-ji",
   "categoryId": "raag-vihaag",
-  "title": "े सियाना सोच देखो नाहिन तव सनसार जी",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "ए सियाणा सोच देखो नाहिं तव संसार जी",
   "romanTitle": "E Siyaanaa Soch Dekho Naahin Tav Sansaar Ji",
-  "firstLine": "E Siyaanaa Soch Dekho Naahin Tav Sansaar Ji. Jagat Men Mamtaa Kare Kyon Janm Jaate Haar Ji (Tek).",
+  "firstLine": "E Siyaanaa Soch Dekho Naahin Tav Sansaar Ji.",
+  "heading": "।। राग विहाग भजन ।। १३ ।। १७१।।",
+  "tek": [
+    "ए सियाणा सोच देखो नाहिं तव संसार जी ।",
+    "जगत में ममता करे क्यों जन्म जाते हार जी ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "E Siyaanaa Soch Dekho Naahin Tav Sansaar Ji.",
+    "Jagat Men Mamtaa Kare Kyon Janm Jaate Haar Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धरनि पानी अग्नि वायू व्योम है कर्तार का ।",
+        "इन तत्वों से जो बना तन सो किमि होय तिहार जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharni Paani Agni Vaayu Vyom Hai Kartaar Kaa.",
+        "In Tatvon Se Jo Banaa Tan So Kimi Hoy Tihaar Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आपसे पहले जगत था है अभी होगा पिछे ।",
+        "ना बनाया आपने कछु क्यों बनत हकदार जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aapse Pahle Jagat Thaa Hai Abhi Hogaa Pichhe.",
+        "Naa Banaayaa Aapne Kachhu Kyon Banat Hakdaar Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पुत्र जाया. महल माया सब पदार्थ ईश के ।",
+        "गर्भ से कछु ले न आया क्यों करत अहंकार जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Putr Jaayaa. Mahal Maayaa Sab Padaarth Ish Ke.",
+        "Garbh Se Kachhu Le Na Aayaa Kyon Karat Ahankaar Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ सोचले नर कछु न तेरा है यहाँ ।",
+        "चार दिन महिमान हो तुम क्यों करत तकरार जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Sochle Nar Kachhu Na Teraa Hai Yahaan.",
+        "Chaar Din Mahimaan Ho Tum Kyon Karat Takraar Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "े सियाना सोच देखो नाहिन तव सनसार जी.",
-      "जगत मेन ममता करे कयोन जनम जाते हार जी (टेक)."
+      "धरनि पानी अग्नि वायू व्योम है कर्तार का ।",
+      "इन तत्वों से जो बना तन सो किमि होय तिहार जी ॥१ ॥"
     ],
     [
-      "धरनि पानि गनि वायु वयोम है करतार का.",
-      "िन ततवोन से जो बना तन सो किमि होय तिहार जी || 1 ||."
+      "आपसे पहले जगत था है अभी होगा पिछे ।",
+      "ना बनाया आपने कछु क्यों बनत हकदार जी ॥२ ॥"
     ],
     [
-      "ापसे पहले जगत था है भि होगा पिचहे.",
-      "ना बनाया ापने कचहु कयोन बनत हकदार जी || 2 ||"
+      "पुत्र जाया. महल माया सब पदार्थ ईश के ।",
+      "गर्भ से कछु ले न आया क्यों करत अहंकार जी ॥३ ॥"
     ],
     [
-      "पुतर जाया. महल माया सब पदारथ िश के.",
-      "गरभ से कचहु ले न ाया कयोन करत हनकार जी ||.3. ||."
-    ],
-    [
-      "कहत तेऊँ सोचले नर कचहु न तेरा है यहान.",
-      "चार दीन महिमान हो तुम कयोन करत तकरार जी || 4. ||."
+      "कहत टेऊँ सोचले नर कछु न तेरा है यहाँ ।",
+      "चार दिन महिमान हो तुम क्यों करत तकरार जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "E Siyaanaa Soch Dekho Naahin Tav Sansaar Ji.",
-      "Jagat Men Mamtaa Kare Kyon Janm Jaate Haar Ji (Tek)."
-    ],
-    [
       "Dharni Paani Agni Vaayu Vyom Hai Kartaar Kaa.",
-      "In Tatvon Se Jo Banaa Tan So Kimi Hoy Tihaar Ji || 1 ||."
+      "In Tatvon Se Jo Banaa Tan So Kimi Hoy Tihaar Ji || 1 ||"
     ],
     [
       "Aapse Pahle Jagat Thaa Hai Abhi Hogaa Pichhe.",
@@ -42,26 +91,28 @@
     ],
     [
       "Putr Jaayaa. Mahal Maayaa Sab Padaarth Ish Ke.",
-      "Garbh Se Kachhu Le N Aayaa Kyon Karat Ahankaar Ji ||.3. ||."
+      "Garbh Se Kachhu Le Na Aayaa Kyon Karat Ahankaar Ji || 3 ||"
     ],
     [
-      "Kahat Teun Sochle Nar Kachhu N Teraa Hai Yahaan.",
-      "Chaar Din Mahimaan Ho Tum Kyon Karat Takraar Ji || 4. ||."
+      "Kahat Teun Sochle Nar Kachhu Na Teraa Hai Yahaan.",
+      "Chaar Din Mahimaan Ho Tum Kyon Karat Takraar Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 13 || 171 ||",
+    "ए सियाणा सोच देखो नाहिं तव संसार जी",
     "E Siyaanaa Soch Dekho Naahin Tav Sansaar Ji",
-    "े सियाना सोच देखो नाहिन तव सनसार जी"
+    "राग विहाग भजन 13",
+    "Raag Vihaag Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 171,
+  "displayOrder": 13,
+  "overallOrder": 171,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 115",
+  "updatedAt": "2026-10-26"
 }

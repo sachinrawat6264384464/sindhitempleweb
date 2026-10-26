@@ -170,16 +170,28 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
               selectedBhajan.lyrics.map((stanza, sIdx) => (
                 <div
                   key={sIdx}
-                  className="bg-white/80 p-4 sm:p-5 rounded-xl border border-stone-200/70 shadow-2xs font-serif"
+                  className={`p-4 sm:p-5 rounded-xl border shadow-2xs font-serif ${
+                    sIdx === 0
+                      ? "bg-amber-50/80 border-amber-200"
+                      : "bg-white/80 border-stone-200/70"
+                  }`}
                   lang="hi"
                 >
-                  <div className="text-[11px] font-sans font-bold text-amber-800 uppercase tracking-wider mb-2">
-                    पद {sIdx + 1}
+                  <div className="text-[11px] font-sans font-bold uppercase tracking-wider mb-2">
+                    {sIdx === 0 ? (
+                      <span className="inline-flex items-center px-2.5 py-0.5 rounded-md bg-amber-200 text-amber-950">
+                        टेक (Tek)
+                      </span>
+                    ) : (
+                      <span className="text-amber-800">पद {sIdx}</span>
+                    )}
                   </div>
                   {stanza.map((line, lIdx) => (
                     <p
                       key={lIdx}
-                      className="text-stone-900 text-base sm:text-lg leading-relaxed devanagari-text mb-1"
+                      className={`text-base sm:text-lg leading-relaxed devanagari-text mb-1 ${
+                        sIdx === 0 ? "font-semibold text-amber-950" : "text-stone-900"
+                      }`}
                     >
                       {line}
                     </p>
@@ -190,16 +202,28 @@ export default function HomeLyricsPreview({ bhajans }: HomeLyricsPreviewProps) {
               selectedBhajan.romanLyrics.map((stanza, sIdx) => (
                 <div
                   key={sIdx}
-                  className="bg-white/80 p-4 sm:p-5 rounded-xl border border-stone-200/70 shadow-2xs font-serif"
+                  className={`p-4 sm:p-5 rounded-xl border shadow-2xs font-serif ${
+                    sIdx === 0
+                      ? "bg-amber-50/80 border-amber-200"
+                      : "bg-white/80 border-stone-200/70"
+                  }`}
                   lang="en-IN"
                 >
-                  <div className="text-[11px] font-sans font-bold text-amber-800 uppercase tracking-wider mb-2">
-                    Stanza {sIdx + 1}
+                  <div className="text-[11px] font-sans font-bold uppercase tracking-wider mb-2">
+                    {sIdx === 0 ? (
+                      <span className="inline-flex items-center px-2.5 py-0.5 rounded-md bg-amber-200 text-amber-950">
+                        Tek (Refrain)
+                      </span>
+                    ) : (
+                      <span className="text-amber-800">Verse {sIdx}</span>
+                    )}
                   </div>
                   {stanza.map((line, lIdx) => (
                     <p
                       key={lIdx}
-                      className="text-stone-800 text-base sm:text-lg leading-relaxed mb-1"
+                      className={`text-base sm:text-lg leading-relaxed mb-1 ${
+                        sIdx === 0 ? "font-semibold text-amber-950" : "text-stone-800"
+                      }`}
                     >
                       {line}
                     </p>

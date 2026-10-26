@@ -2,39 +2,88 @@
   "id": "bhajan-0212",
   "slug": "mere-man-santon-kaa-kar-sang",
   "categoryId": "raag-tori",
-  "title": "मेरे मन सनतोन का कर सनग",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "मेरे मन सनतों का कर संग",
   "romanTitle": "Mere Man Santon Kaa Kar Sang",
-  "firstLine": "Mere Man Santon Kaa Kar Sang. Sant Svarup Hari Kaa Jaano Nirmal Jaanke Ang (Tek).",
+  "firstLine": "Mere Man Santon Kaa Kar Sang.",
+  "heading": "।। राग टोड़ी भजन ।। २० ।। २१२।।",
+  "tek": [
+    "मेरे मन सनतों का कर संग ।",
+    "सन्त स्वरूप हरी का जानो निर्मल जांके अंग ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Santon Kaa Kar Sang.",
+    "Sant Svarup Hari Kaa Jaano Nirmal Jaanke Ang (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्त सज्जन दे सत्‌ उपदेशा करत कुमति को भंग ।",
+        "शम दम आदी साधन देके लावत आत्म रंग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sant Sajjan De Sat‌ Updeshaa Karat Kumti Ko Bhang.",
+        "Sham Dam Aadi Saadhan Deke Laavat Aatm Rang || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्त जनों के मुख से हरदम सुनो प्रेम प्रसंग ।",
+        "तांका मनन निदिध्यासन करके पाओ धाम उत्तंग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sant Janon Ke Mukh Se Hardam Suno Prem Prasang.",
+        "Taankaa Manan Nididhyaasan Karke Paao Dhaam Uttang || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सनतों का सत्संग जगत में करत कीट को भूड्ड ।",
+        "मैले मन को निर्मल करते जैसे पावन गंग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santon Kaa Satsang Jagat Men Karat Kit Ko Bhudd.",
+        "Maile Man Ko Nirmal Karte Jaise Paavan Gang || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर संग सन्तों का उर में धार उमंग ।",
+        "सनतों की कृपा से कबहूं काल न मारे डंग ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Sang Santon Kaa Ur Men Dhaar Umang.",
+        "Santon Ki Kripaa Se Kabhun Kaal Na Maare Dang || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन सनतोन का कर सनग.",
-      "संत सवरुप हरि का जानो निर्मल जानके नग (टेक)."
+      "सन्त सज्जन दे सत्‌ उपदेशा करत कुमति को भंग ।",
+      "शम दम आदी साधन देके लावत आत्म रंग ॥१ ॥"
     ],
     [
-      "संत सजजन दे सत‌ ुपदेशा करत कुमति को भनग.",
-      "शम दम ादि साधन देके लावत ातम रनग || 1. ||."
+      "सन्त जनों के मुख से हरदम सुनो प्रेम प्रसंग ।",
+      "तांका मनन निदिध्यासन करके पाओ धाम उत्तंग ॥२ ॥"
     ],
     [
-      "संत जनोन के मुख से हरदम सुनो प्रेम परसनग.",
-      "तानका मनन निदिधयासन करके पाो धाम ुततनग || 2 ||"
+      "सनतों का सत्संग जगत में करत कीट को भूड्ड ।",
+      "मैले मन को निर्मल करते जैसे पावन गंग ॥३ ॥"
     ],
     [
-      "सनतोन का सत्संग जगत मेन करत कित को भुदद.",
-      "मैले मन को निर्मल करते जैसे पावन गनग || 3 ||"
-    ],
-    [
-      "कहे तेऊँ कर सनग सनतोन का ुर मेन धार ुमनग.",
-      "सनतोन कि कृपा से कभुन काल न मारे दनग ||.4. ||."
+      "कहे टेऊँ कर संग सन्तों का उर में धार उमंग ।",
+      "सनतों की कृपा से कबहूं काल न मारे डंग ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Santon Kaa Kar Sang.",
-      "Sant Svarup Hari Kaa Jaano Nirmal Jaanke Ang (Tek)."
-    ],
-    [
       "Sant Sajjan De Sat‌ Updeshaa Karat Kumti Ko Bhang.",
-      "Sham Dam Aadi Saadhan Deke Laavat Aatm Rang || 1. ||."
+      "Sham Dam Aadi Saadhan Deke Laavat Aatm Rang || 1 ||"
     ],
     [
       "Sant Janon Ke Mukh Se Hardam Suno Prem Prasang.",
@@ -46,22 +95,24 @@
     ],
     [
       "Kahe Teun Kar Sang Santon Kaa Ur Men Dhaar Umang.",
-      "Santon Ki Kripaa Se Kabhun Kaal N Maare Dang ||.4. ||."
+      "Santon Ki Kripaa Se Kabhun Kaal Na Maare Dang || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 20 || 212 ||",
+    "मेरे मन सनतों का कर संग",
     "Mere Man Santon Kaa Kar Sang",
-    "मेरे मन सनतोन का कर सनग"
+    "राग तोड़ी भजन 20",
+    "Raag Tori Bhajan 20"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 212,
+  "displayOrder": 20,
+  "overallOrder": 212,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 134",
+  "updatedAt": "2026-10-26"
 }

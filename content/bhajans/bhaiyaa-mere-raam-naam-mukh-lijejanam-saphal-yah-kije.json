@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0828",
+  "id": "bhajan-0826",
   "slug": "bhaiyaa-mere-raam-naam-mukh-lijejanam-saphal-yah-kije",
   "categoryId": "raag-maanjh",
-  "title": "भैया मेरे राम नाम मुख लिजेजनम सफल यह किजे",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "भैया मेरे राम नाम मुख लीजे ,जनम सफल यह कीजे",
   "romanTitle": "Bhaiyaa Mere Raam Naam Mukh Lije,Janam Saphal Yah Kije",
   "firstLine": "Bhaiyaa Mere Raam Naam Mukh Lije,Janam Saphal Yah Kije (Tek).",
+  "heading": "।। राग मांझ भजन ।। १५ ।। ८२८।॥।",
+  "tek": [
+    "भैया मेरे राम नाम मुख लीजे ,जनम सफल यह कीजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhaiyaa Mere Raam Naam Mukh Lije,Janam Saphal Yah Kije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम का वखर विहाना, राम नाम का समर उठाना ।",
+        "जांसे सब दुख छीजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Vakhar Vihaanaa, Raam Naam Kaa Samar Uthaanaa.",
+        "Jaanse Sab Dukh Chhije || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम सम साधन नाहीं, ऐसे लिखा है वेदों माहीं ।",
+        "ताहीं में चित्त दीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Sam Saadhan Naahin, Aise Likhaa Hai Vedon Maahin.",
+        "Taahin Men Chitt Dije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम सब कर्महिं मूला, जांके सुमरे हरि अनुकूला ।",
+        "राम अमृत को पीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Sab Karmahin Mulaa, Jaanke Sumre Hari Anukulaa.",
+        "Raam Amrit Ko Pije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम राम उचारे, पाप ताप सन्ताप निवारे ।",
+        "आवागमन हरीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Raam Uchaare, Paap Taap Santaap Nivaare.",
+        "Aavaagman Harije || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भैया मेरे राम नाम मुख लिजेजनम सफल यह किजे (टेक)."
+      "राम नाम का वखर विहाना, राम नाम का समर उठाना ।",
+      "जांसे सब दुख छीजे ॥१ ॥"
     ],
     [
-      "राम नाम का वखर विहाना, राम नाम का समर ुथाना.",
-      "जानसे सब दुःख चहिजे || 1 ||."
+      "राम नाम सम साधन नाहीं, ऐसे लिखा है वेदों माहीं ।",
+      "ताहीं में चित्त दीजे ॥२ ॥"
     ],
     [
-      "राम नाम सम साधन नाहिन, ैसे लिखा है वेदोन माहिन.",
-      "ताहिन मेन चितत दिजे || 2 ||"
+      "राम नाम सब कर्महिं मूला, जांके सुमरे हरि अनुकूला ।",
+      "राम अमृत को पीजे ॥३ ॥"
     ],
     [
-      "राम नाम सब करमहिन मुला, जानके सुमरे हरि नुकुला.",
-      "राम अमृत को पिजे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ तुम राम ुचारे, पाप ताप सनताप निवारे.",
-      "ावागमन हरिजे ||.4. ||."
+      "कहे टेऊँ तुम राम उचारे, पाप ताप सन्ताप निवारे ।",
+      "आवागमन हरीजे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhaiyaa Mere Raam Naam Mukh Lije,Janam Saphal Yah Kije (Tek)."
-    ],
-    [
       "Raam Naam Kaa Vakhar Vihaanaa, Raam Naam Kaa Samar Uthaanaa.",
-      "Jaanse Sab Dukh Chhije || 1 ||."
+      "Jaanse Sab Dukh Chhije || 1 ||"
     ],
     [
       "Raam Naam Sam Saadhan Naahin, Aise Likhaa Hai Vedon Maahin.",
@@ -40,27 +89,28 @@
     ],
     [
       "Raam Naam Sab Karmahin Mulaa, Jaanke Sumre Hari Anukulaa.",
-      "Raam Amrit Ko Pije || 3 ||."
+      "Raam Amrit Ko Pije || 3 ||"
     ],
     [
       "Kahe Teun Tum Raam Uchaare, Paap Taap Santaap Nivaare.",
-      "Aavaagman Harije ||.4. ||."
+      "Aavaagman Harije || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maanjh Bhajan || 15 || 828. ||.",
+    "भैया मेरे राम नाम मुख लीजे ,जनम सफल यह कीजे",
     "Bhaiyaa Mere Raam Naam Mukh Lije,Janam Saphal Yah Kije",
-    "भैया मेरे राम नाम मुख लिजेजनम सफल यह किजे"
+    "राग मांझ भजन 15",
+    "Raag Maanjh Bhajan 15"
   ],
   "tags": [
-    "teunram",
-    "maanjh",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 828,
+  "displayOrder": 15,
+  "overallOrder": 826,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 439",
+  "updatedAt": "2026-10-26"
 }

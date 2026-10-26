@@ -1,79 +1,135 @@
 {
   "id": "bhajan-0287",
   "slug": "hai-santani-rahti-niraali-jag-se-ulti-chaali",
-  "categoryId": "raag-bhairav",
-  "title": "है सनतनि रहति निरालि, जग से ुलति चालि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "है सन्तनि रहति निराली, जग से उल्टी चाली",
   "romanTitle": "Hai Santani Rahti Niraali, Jag Se Ulti Chaali",
   "firstLine": "Hai Santani Rahti Niraali, Jag Se Ulti Chaali (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७२ ।। २८७।।",
+  "tek": [
+    "है सन्तनि रहति निराली, जग से उल्टी चाली ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hai Santani Rahti Niraali, Jag Se Ulti Chaali (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साधू अरु संसारी दोनों, देखन में इक जैसे ।",
+        "कर्म भाव में अन्तर बहुता, साची बात सुनाली ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadhu Aru Sansaari Donon, Dekhan Men Ik Jaise.",
+        "Karm Bhaav Men Antar Bahutaa, Saachi Baat Sunaali || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कोयल कौए का रंग एका, जानत है जग सारा ।",
+        "कौवा कड़वी बोली बोलत, कोयल करत रसाली ॥२ ॥"
+      ],
+      "romanLines": [
+        "Koyal Kaue Kaa Rang Ekaa, Jaanat Hai Jag Saaraa.",
+        "Kauvaa Karvi Boli Bolat, Koyal Karat Rasaali || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भंवर भूण्ड का एक रूप है, जानत सकल जहाना ।",
+        "भूण्ड मैल को खावे अहनिश, शभ्रमर पुष्प पराली ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhanvar Bhund Kaa Ek Rup Hai, Jaanat Sakal Jahaanaa.",
+        "Bhund Mail Ko Khaave Ahnish, Shabhramar Pushp Paraali || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हँंसे बगुले की इक सूरत, प्रसिद्ध है जग माहीं ।",
+        "बगुला मछली को नित खावे, मोती चुगत मराली ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hannse Bagule Ki Ik Surat, Prasiddh Hai Jag Maahin.",
+        "Bagulaa Machhli Ko Nit Khaave, Moti Chugat Maraali || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्यों संतों अरु संसारियों में, भेद वेद ने भाखा ।",
+        "कहे टेऊँ संसारी दुखिया, साधू रहत सुखाली ॥५ ॥"
+      ],
+      "romanLines": [
+        "Tyon Santon Aru Sansaariyon Men, Bhed Ved Ne Bhaakhaa.",
+        "Kahe Teun Sansaari Dukhiyaa, Saadhu Rahat Sukhaali || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "है सनतनि रहति निरालि, जग से ुलति चालि (टेक)."
+      "साधू अरु संसारी दोनों, देखन में इक जैसे ।",
+      "कर्म भाव में अन्तर बहुता, साची बात सुनाली ॥१ ॥"
     ],
     [
-      "साधु रु सनसारि दोनोन, देखन मेन िक जैसे.",
-      "करम भाव मेन नतर बहुता, साचि बात सुनालि ||.1 ||."
+      "कोयल कौए का रंग एका, जानत है जग सारा ।",
+      "कौवा कड़वी बोली बोलत, कोयल करत रसाली ॥२ ॥"
     ],
     [
-      "कोयल कौे का रनग ेका, जानत है जग सारा.",
-      "कौवा करवि बोलि बोलत, कोयल करत रसालि ||.2 ||."
+      "भंवर भूण्ड का एक रूप है, जानत सकल जहाना ।",
+      "भूण्ड मैल को खावे अहनिश, शभ्रमर पुष्प पराली ॥३ ॥"
     ],
     [
-      "भनवर भुनद का ेक रुप है, जानत सकल जहाना.",
-      "भुनद मैल को खावे हनिश, शभरमर पुशप परालि ||.3 ||"
+      "हँंसे बगुले की इक सूरत, प्रसिद्ध है जग माहीं ।",
+      "बगुला मछली को नित खावे, मोती चुगत मराली ॥४ ॥"
     ],
     [
-      "हननसे बगुले कि िक सुरत, परसिदध है जग माहिन.",
-      "बगुला मचहलि को नित खावे, मोति चुगत मरालि ||.4. ||."
-    ],
-    [
-      "तयोन सनतोन रु सनसारियोन मेन, भेद वेद ने भाखा.",
-      "कहे तेऊँ सनसारि दुखिया, साधु रहत सुखालि ||.5 ||."
-    ],
-    [
-      "गत"
+      "त्यों संतों अरु संसारियों में, भेद वेद ने भाखा ।",
+      "कहे टेऊँ संसारी दुखिया, साधू रहत सुखाली ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hai Santani Rahti Niraali, Jag Se Ulti Chaali (Tek)."
-    ],
-    [
       "Saadhu Aru Sansaari Donon, Dekhan Men Ik Jaise.",
-      "Karm Bhaav Men Antar Bahutaa, Saachi Baat Sunaali ||.1 ||."
+      "Karm Bhaav Men Antar Bahutaa, Saachi Baat Sunaali || 1 ||"
     ],
     [
       "Koyal Kaue Kaa Rang Ekaa, Jaanat Hai Jag Saaraa.",
-      "Kauvaa Karvi Boli Bolat, Koyal Karat Rasaali ||.2 ||."
+      "Kauvaa Karvi Boli Bolat, Koyal Karat Rasaali || 2 ||"
     ],
     [
       "Bhanvar Bhund Kaa Ek Rup Hai, Jaanat Sakal Jahaanaa.",
-      "Bhund Mail Ko Khaave Ahnish, Shabhramar Pushp Paraali ||.3 ||"
+      "Bhund Mail Ko Khaave Ahnish, Shabhramar Pushp Paraali || 3 ||"
     ],
     [
       "Hannse Bagule Ki Ik Surat, Prasiddh Hai Jag Maahin.",
-      "Bagulaa Machhli Ko Nit Khaave, Moti Chugat Maraali ||.4. ||."
+      "Bagulaa Machhli Ko Nit Khaave, Moti Chugat Maraali || 4 ||"
     ],
     [
       "Tyon Santon Aru Sansaariyon Men, Bhed Ved Ne Bhaakhaa.",
-      "Kahe Teun Sansaari Dukhiyaa, Saadhu Rahat Sukhaali ||.5 ||."
-    ],
-    [
-      "Gat"
+      "Kahe Teun Sansaari Dukhiyaa, Saadhu Rahat Sukhaali || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 72 || 287 ||",
+    "है सन्तनि रहति निराली, जग से उल्टी चाली",
     "Hai Santani Rahti Niraali, Jag Se Ulti Chaali",
-    "है सनतनि रहति निरालि, जग से ुलति चालि"
+    "राग भैरवी भजन 72",
+    "Raag Bhairvi Bhajan 72"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 287,
+  "displayOrder": 72,
+  "overallOrder": 287,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 174",
+  "updatedAt": "2026-10-26"
 }

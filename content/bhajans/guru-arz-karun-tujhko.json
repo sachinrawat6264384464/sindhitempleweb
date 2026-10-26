@@ -1,51 +1,109 @@
 {
-  "id": "bhajan-0719",
+  "id": "bhajan-0717",
   "slug": "guru-arz-karun-tujhko",
   "categoryId": "raag-pahaari",
-  "title": "गुरु रz करुन तुझको",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "गुरू अर्ज़ करूं तुझको",
   "romanTitle": "Guru Arz Karun Tujhko",
-  "firstLine": "Guru Arz Karun Tujhko. Kyon Jiv Dukhi Hote, Yah Uttar De Mujhko (Tek).",
+  "firstLine": "Guru Arz Karun Tujhko.",
+  "heading": "।। राग पहाड़ी भजन ।। ७० ।। ७१८",
+  "tek": [
+    "गुरू अर्ज़ करूं तुझको ।",
+    "क्यों जीव दुखी होते, यह उत्तर दे मुझको ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Arz Karun Tujhko.",
+    "Kyon Jiv Dukhi Hote, Yah Uttar De Mujhko (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो कर्म करे जैसा ।",
+        "सो निश्चय करके ही, फल पावत है तैसा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Karm Kare Jaisaa.",
+        "So Nishchay Karke Hi, Phal Paavat Hai Taisaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुख पापों का फल है ।",
+        "शुभकर्मों से सुख ही, सब जीवों को मिलहै ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dukh Paapon Kaa Phal Hai.",
+        "Shubhkarmon Se Sukh Hi, Sab Jivon Ko Milhai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मेरी शिक्षा सुन लीजे ।",
+        "तज पाप कपट छल को, नित पुण्य कर्म कीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Meri Shikshaa Sun Lije.",
+        "Taj Paap Kapat Chhal Ko, Nit Puny Karm Kije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पुण्य पाप लखूं कैसे ।",
+        "कहे टेऊँ गुरु ज्ञानी, सत्‌ शास्त्र कहें जैसे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Puny Paap Lakhun Kaise.",
+        "Kahe Teun Guru Jnyaani, Sat‌ Shaastr Kahen Jaise || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्ठ्ह"
+      ],
+      "romanLines": [
+        "Dthh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु रz करुन तुझको.",
-      "कयोन जिव दुखि होते, यह ुततर दे मुझको (टेक)."
+      "जो कर्म करे जैसा ।",
+      "सो निश्चय करके ही, फल पावत है तैसा ॥१ ॥"
     ],
     [
-      "जो करम करे जैसा.",
-      "सो निशचय करके हि, फल पावत है तैसा || 1 ||."
+      "दुख पापों का फल है ।",
+      "शुभकर्मों से सुख ही, सब जीवों को मिलहै ॥२ ॥"
     ],
     [
-      "दुःख पापोन का फल है.",
-      "शुभकरमोन से सुख हि, सब जिवोन को मिलहै || 2 ||."
+      "मेरी शिक्षा सुन लीजे ।",
+      "तज पाप कपट छल को, नित पुण्य कर्म कीजे ॥३ ॥"
     ],
     [
-      "मेरि शिकशा सुन लिजे.",
-      "तज पाप कपत चहल को, नित पुनय करम किजे || 3 ||."
+      "पुण्य पाप लखूं कैसे ।",
+      "कहे टेऊँ गुरु ज्ञानी, सत्‌ शास्त्र कहें जैसे ॥४ ॥"
     ],
     [
-      "पुनय पाप लखुन कैसे.",
-      "कहे तेऊँ गुरु जनयानि, सत‌ शासतर कहेन जैसे || 4 ||"
-    ],
-    [
-      "दथह"
+      "द्ठ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Arz Karun Tujhko.",
-      "Kyon Jiv Dukhi Hote, Yah Uttar De Mujhko (Tek)."
-    ],
-    [
       "Jo Karm Kare Jaisaa.",
-      "So Nishchay Karke Hi, Phal Paavat Hai Taisaa || 1 ||."
+      "So Nishchay Karke Hi, Phal Paavat Hai Taisaa || 1 ||"
     ],
     [
       "Dukh Paapon Kaa Phal Hai.",
-      "Shubhkarmon Se Sukh Hi, Sab Jivon Ko Milhai || 2 ||."
+      "Shubhkarmon Se Sukh Hi, Sab Jivon Ko Milhai || 2 ||"
     ],
     [
       "Meri Shikshaa Sun Lije.",
-      "Taj Paap Kapat Chhal Ko, Nit Puny Karm Kije || 3 ||."
+      "Taj Paap Kapat Chhal Ko, Nit Puny Karm Kije || 3 ||"
     ],
     [
       "Puny Paap Lakhun Kaise.",
@@ -56,19 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 70 || 718",
+    "गुरू अर्ज़ करूं तुझको",
     "Guru Arz Karun Tujhko",
-    "गुरु रz करुन तुझको"
+    "राग पहाड़ी भजन 70",
+    "Raag Pahaari Bhajan 70"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 719,
+  "displayOrder": 70,
+  "overallOrder": 717,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 380",
+  "updatedAt": "2026-10-26"
 }

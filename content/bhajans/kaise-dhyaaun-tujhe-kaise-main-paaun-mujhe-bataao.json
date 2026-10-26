@@ -2,45 +2,83 @@
   "id": "bhajan-0394",
   "slug": "kaise-dhyaaun-tujhe-kaise-main-paaun-mujhe-bataao",
   "categoryId": "raag-tilang",
-  "title": "कैसे धयाुन तुझे कैसे मैं पाुन, मुझे बताो",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "कैसे ध्याऊं तुझे कैसे मैं पाऊं, मुझे बताओ",
   "romanTitle": "Kaise Dhyaaun Tujhe Kaise Main Paaun, Mujhe Bataao",
   "firstLine": "Kaise Dhyaaun Tujhe Kaise Main Paaun, Mujhe Bataao (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ३१ ।। ३९५।।",
+  "tek": [
+    "कैसे ध्याऊं तुझे कैसे मैं पाऊं, मुझे बताओ ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Kaise Dhyaaun Tujhe Kaise Main Paaun, Mujhe Bataao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "या होवां गृहस्थी चित्त उदारी, दया धीरज सत्यव्रत धारी ।",
+        "तीर्थ नाऊं वा यज्ञ कराऊं ॥१ ॥",
+        "या होवां साधू निज संन्यासी, घर को छोड़ बनूं बनवासी ।",
+        "जटा बढ़ाऊँ वा मूण्ड मुण्डाऊँ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yaa Hovaan Grihasthi Chitt Udaari, Dayaa Dhiraj Satyavrat Dhaari.",
+        "Tirth Naaun Vaa Yajny Karaaun || 1 ||",
+        "Yaa Hovaan Saadhu Nij Sannyaasi, Ghar Ko Chhor Banun Banvaasi.",
+        "Jataa Barhaaun Vaa Mund Mundaaun || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "या होवां पण्डित कर्माचारी, ठाकुर पूजूं हो पूजारी ।",
+        "भोग लगाऊं वा घण्टी बजाऊं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Yaa Hovaan Pandit Karmaachaari, Thaakur Pujun Ho Pujaari.",
+        "Bhog Lagaaun Vaa Ghanti Bajaaun || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सो करूं सदूवारी, जिसमें हरि हो रुची तुम्हारी ।",
+        "मौन रहूं वा हरि गुण गाऊं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun So Karun Saduvaari, Jismen Hari Ho Ruchi Tumhaari.",
+        "Maun Rahun Vaa Hari Gun Gaaun || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कैसे धयाुन तुझे कैसे मैं पाुन, मुझे बताो (टेक)."
+      "या होवां गृहस्थी चित्त उदारी, दया धीरज सत्यव्रत धारी ।",
+      "तीर्थ नाऊं वा यज्ञ कराऊं ॥१ ॥",
+      "या होवां साधू निज संन्यासी, घर को छोड़ बनूं बनवासी ।",
+      "जटा बढ़ाऊँ वा मूण्ड मुण्डाऊँ ॥२ ॥"
     ],
     [
-      "या होवान गरिहसथि चितत ुदारि, दया धिरज सतयवरत धारि.",
-      "तिरथ नाुन वा यजनय कराुन 1"
+      "या होवां पण्डित कर्माचारी, ठाकुर पूजूं हो पूजारी ।",
+      "भोग लगाऊं वा घण्टी बजाऊं ॥३ ॥"
     ],
     [
-      "या होवान साधु निज सननयासि, घर को चहोर बनुन बनवासि.",
-      "जता बरहाुन वा मुनद मुनदाुन || 2 ||."
-    ],
-    [
-      "या होवान पनदित करमाचारि, थाकुर पुजुन हो पुजारि.",
-      "भोग लगाुन वा घनति बजाुन || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सो करुन सदुवारि, जिसमेन हरि हो रुचि तुमहारि.",
-      "मौन रहुन वा हरि गुन गाुन || 4 ||"
+      "कहे टेऊँ सो करूं सदूवारी, जिसमें हरि हो रुची तुम्हारी ।",
+      "मौन रहूं वा हरि गुण गाऊं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaise Dhyaaun Tujhe Kaise Main Paaun, Mujhe Bataao (Tek)."
-    ],
-    [
       "Yaa Hovaan Grihasthi Chitt Udaari, Dayaa Dhiraj Satyavrat Dhaari.",
-      "Tirth Naaun Vaa Yajny Karaaun 1"
-    ],
-    [
+      "Tirth Naaun Vaa Yajny Karaaun || 1 ||",
       "Yaa Hovaan Saadhu Nij Sannyaasi, Ghar Ko Chhor Banun Banvaasi.",
-      "Jataa Barhaaun Vaa Mund Mundaaun || 2 ||."
+      "Jataa Barhaaun Vaa Mund Mundaaun || 2 ||"
     ],
     [
       "Yaa Hovaan Pandit Karmaachaari, Thaakur Pujun Ho Pujaari.",
-      "Bhog Lagaaun Vaa Ghanti Bajaaun || 3 ||."
+      "Bhog Lagaaun Vaa Ghanti Bajaaun || 3 ||"
     ],
     [
       "Kahe Teun So Karun Saduvaari, Jismen Hari Ho Ruchi Tumhaari.",
@@ -48,18 +86,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 31 || 395 ||",
+    "कैसे ध्याऊं तुझे कैसे मैं पाऊं, मुझे बताओ",
     "Kaise Dhyaaun Tujhe Kaise Main Paaun, Mujhe Bataao",
-    "कैसे धयाुन तुझे कैसे मैं पाुन, मुझे बताो"
+    "राग तिलंग भजन 31",
+    "Raag Tilang Bhajan 31"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 394,
+  "displayOrder": 31,
+  "overallOrder": 394,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 231",
+  "updatedAt": "2026-10-26"
 }

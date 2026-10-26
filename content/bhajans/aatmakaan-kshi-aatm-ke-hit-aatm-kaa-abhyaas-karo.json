@@ -2,37 +2,86 @@
   "id": "bhajan-0057",
   "slug": "aatmakaan-kshi-aatm-ke-hit-aatm-kaa-abhyaas-karo",
   "categoryId": "raag-prabhaati",
-  "title": "ातमकान कशि ातम के हित, ातम का भयास करो",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "आत्मकां क्षी आत्म के हित, आत्म का अभ्यास करो",
   "romanTitle": "Aatmakaan Kshi Aatm Ke Hit, Aatm Kaa Abhyaas Karo",
   "firstLine": "Aatmakaan Kshi Aatm Ke Hit, Aatm Kaa Abhyaas Karo (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। २५ ।। ५७।।",
+  "tek": [
+    "आत्मकां क्षी आत्म के हित, आत्म का अभ्यास करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatmakaan Kshi Aatm Ke Hit, Aatm Kaa Abhyaas Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो जन प्रेम लगाकर जिसका, निशिदिन स्मरण करता है ।",
+        "सोई तांको अवसि मिलत है, ये मन में विश्वास करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Jan Prem Lagaakar Jiskaa, Nishidin Smaran Kartaa Hai.",
+        "Soi Taanko Avsi Milat Hai, Ye Man Men Vishvaas Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देवनदी पुनि श्वासों का ज्यों, चलत अखण्ड प्रवाह सदा ।",
+        "आत्म का त्यों स्मरण करके, संशय सबहीं नास करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Devnadi Puni Shvaason Kaa Jyon, Chalat Akhand Pravaah Sadaa.",
+        "Aatm Kaa Tyon Smaran Karke, Sanshay Sabhin Naas Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आत्म श्रवण आत्म कीर्तन, आत्म का कर चिन्तन ही ।",
+        "आत्म हूं मैं इसी भाव से, दूर देह अध्यास करो ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Aatm Shravan Aatm Kirtan, Aatm Kaa Kar Chintan Hi.",
+        "Aatm Hun Main Isi Bhaav Se, Dur Deh Adhyaas Karo || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरु को तन मन दक्षिणा देके, आत्म की गम लीजे रे ।",
+        "कहे टेऊँ तुम स्मरे तांको, आत्म माहिं निवास करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Ko Tan Man Dakshinaa Deke, Aatm Ki Gam Lije Re.",
+        "Kahe Teun Tum Smare Taanko, Aatm Maahin Nivaas Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ातमकान कशि ातम के हित, ातम का भयास करो (टेक)."
+      "जो जन प्रेम लगाकर जिसका, निशिदिन स्मरण करता है ।",
+      "सोई तांको अवसि मिलत है, ये मन में विश्वास करो ॥१ ॥"
     ],
     [
-      "जो जन प्रेम लगाकर जिसका, निशिदिन समरन करता है.",
-      "सोि तानको वसि मिलत है, ये मन मेन विशवास करो || 1 ||."
+      "देवनदी पुनि श्वासों का ज्यों, चलत अखण्ड प्रवाह सदा ।",
+      "आत्म का त्यों स्मरण करके, संशय सबहीं नास करो ॥२ ॥"
     ],
     [
-      "देवनदि पुनि शवासोन का जयोन, चलत खनद परवाह सदा.",
-      "ातम का तयोन समरन करके, सनशय सभिन नास करो || 2 ||"
+      "आत्म श्रवण आत्म कीर्तन, आत्म का कर चिन्तन ही ।",
+      "आत्म हूं मैं इसी भाव से, दूर देह अध्यास करो ॥ ३े ॥"
     ],
     [
-      "ातम शरवन ातम किरतन, ातम का कर चिनतन हि.",
-      "ातम हुन मैं िसि भाव से, दुर देह धयास करो || 3े ||"
-    ],
-    [
-      "गुरु को तन मन दकशिना देके, ातम कि गम लिजे रे.",
-      "कहे तेऊँ तुम समरे तानको, ातम माहिन निवास करो || 4 ||."
+      "गुरु को तन मन दक्षिणा देके, आत्म की गम लीजे रे ।",
+      "कहे टेऊँ तुम स्मरे तांको, आत्म माहिं निवास करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aatmakaan Kshi Aatm Ke Hit, Aatm Kaa Abhyaas Karo (Tek)."
-    ],
-    [
       "Jo Jan Prem Lagaakar Jiskaa, Nishidin Smaran Kartaa Hai.",
-      "Soi Taanko Avsi Milat Hai, Ye Man Men Vishvaas Karo || 1 ||."
+      "Soi Taanko Avsi Milat Hai, Ye Man Men Vishvaas Karo || 1 ||"
     ],
     [
       "Devnadi Puni Shvaason Kaa Jyon, Chalat Akhand Pravaah Sadaa.",
@@ -44,22 +93,24 @@
     ],
     [
       "Guru Ko Tan Man Dakshinaa Deke, Aatm Ki Gam Lije Re.",
-      "Kahe Teun Tum Smare Taanko, Aatm Maahin Nivaas Karo || 4 ||."
+      "Kahe Teun Tum Smare Taanko, Aatm Maahin Nivaas Karo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 25 || 57 ||",
+    "आत्मकां क्षी आत्म के हित, आत्म का अभ्यास करो",
     "Aatmakaan Kshi Aatm Ke Hit, Aatm Kaa Abhyaas Karo",
-    "ातमकान कशि ातम के हित, ातम का भयास करो"
+    "राग प्रभाती भजन 25",
+    "Raag Prabhaati Bhajan 25"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 57,
+  "displayOrder": 25,
+  "overallOrder": 57,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 54",
+  "updatedAt": "2026-10-26"
 }

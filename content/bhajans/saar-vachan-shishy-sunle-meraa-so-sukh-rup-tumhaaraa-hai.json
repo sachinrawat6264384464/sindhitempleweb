@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0646",
+  "id": "bhajan-0644",
   "slug": "saar-vachan-shishy-sunle-meraa-so-sukh-rup-tumhaaraa-hai",
   "categoryId": "raag-kanso",
-  "title": "सार वचन शिशय सुनले मेरा, सो सुख रुप तुमहारा है",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "सार वचन शिष्य सुनले मेरा, सो सुख रूप तुम्हारा है",
   "romanTitle": "Saar Vachan Shishy Sunle Meraa, So Sukh Rup Tumhaaraa Hai",
   "firstLine": "Saar Vachan Shishy Sunle Meraa, So Sukh Rup Tumhaaraa Hai (Tek).",
+  "heading": "।। राग कंसो भजन ।। १५ ।। द४५।॥।",
+  "tek": [
+    "सार वचन शिष्य सुनले मेरा, सो सुख रूप तुम्हारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saar Vachan Shishy Sunle Meraa, So Sukh Rup Tumhaaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सो सुख सागर के सम जानो, पूरण अखण्ड अपारा है ।",
+        "तिस सुख के लवलेश को पाए, होत सुखी संसारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "So Sukh Saagar Ke Sam Jaano, Puran Akhand Apaaraa Hai.",
+        "Tis Sukh Ke Lavlesh Ko Paae, Hot Sukhi Sansaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जनक जन्य तामें न उपाधी, पांच विषय आधारा है ।",
+        "देश काल पुनि वस्तु न छेदे, ऐसा वेद उच्चारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Janak Jany Taamen Na Upaadhi, Paanch Vishay Aadhaaraa Hai.",
+        "Desh Kaal Puni Vastu Na Chhede, Aisaa Ved Uchchaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच तत्त्व से पृथक सोई, नाम रूप से न्यारा है ।",
+        "अस्ति भाति पुनि प्रिय स्वरूपा, सर्व व्यापक सारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tattv Se Prithak Soi, Naam Rup Se Nyaaraa Hai.",
+        "Asti Bhaati Puni Priy Svarupaa, Sarv Vyaapak Saaraa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सुरनर मुनिजन यह सुख खोजत, पावत ना को पारा है ।",
+        "कहे टेऊँ को गुरुमुख पावे, जांके भाग उदारा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Surnar Munijan Yah Sukh Khojat, Paavat Naa Ko Paaraa Hai.",
+        "Kahe Teun Ko Gurumukh Paave, Jaanke Bhaag Udaaraa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सार वचन शिशय सुनले मेरा, सो सुख रुप तुमहारा है (टेक)."
+      "सो सुख सागर के सम जानो, पूरण अखण्ड अपारा है ।",
+      "तिस सुख के लवलेश को पाए, होत सुखी संसारा है ॥१ ॥"
     ],
     [
-      "सो सुख सागर के सम जानो, पुरन खनद पारा है.",
-      "तिस सुख के लवलेश को पाे, होत सुखि सनसारा है.1 ||."
+      "जनक जन्य तामें न उपाधी, पांच विषय आधारा है ।",
+      "देश काल पुनि वस्तु न छेदे, ऐसा वेद उच्चारा है ॥२ ॥"
     ],
     [
-      "जनक जनय तामेन न ुपाधि, पानच विशय ाधारा है.",
-      "देश काल पुनि वसतु न चहेदे, ैसा वेद ुचचारा है || 2 ||"
+      "पांच तत्त्व से पृथक सोई, नाम रूप से न्यारा है ।",
+      "अस्ति भाति पुनि प्रिय स्वरूपा, सर्व व्यापक सारा है ॥३ ॥"
     ],
     [
-      "पानच तततव से परिथक सोि, नाम रुप से नयारा है.",
-      "सति भाति पुनि परिय सवरुपा, सर्व वयापक सारा है.3 ||."
-    ],
-    [
-      "सुरनर मुनिजन यह सुख खोजत, पावत ना को पारा है.",
-      "कहे तेऊँ को गुरुमुख पावे, जानके भाग ुदारा है || 4 ||."
+      "सुरनर मुनिजन यह सुख खोजत, पावत ना को पारा है ।",
+      "कहे टेऊँ को गुरुमुख पावे, जांके भाग उदारा है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saar Vachan Shishy Sunle Meraa, So Sukh Rup Tumhaaraa Hai (Tek)."
-    ],
-    [
       "So Sukh Saagar Ke Sam Jaano, Puran Akhand Apaaraa Hai.",
-      "Tis Sukh Ke Lavlesh Ko Paae, Hot Sukhi Sansaaraa Hai.1 ||."
+      "Tis Sukh Ke Lavlesh Ko Paae, Hot Sukhi Sansaaraa Hai || 1 ||"
     ],
     [
-      "Janak Jany Taamen N Upaadhi, Paanch Vishay Aadhaaraa Hai.",
-      "Desh Kaal Puni Vastu N Chhede, Aisaa Ved Uchchaaraa Hai || 2 ||"
+      "Janak Jany Taamen Na Upaadhi, Paanch Vishay Aadhaaraa Hai.",
+      "Desh Kaal Puni Vastu Na Chhede, Aisaa Ved Uchchaaraa Hai || 2 ||"
     ],
     [
       "Paanch Tattv Se Prithak Soi, Naam Rup Se Nyaaraa Hai.",
-      "Asti Bhaati Puni Priy Svarupaa, Sarv Vyaapak Saaraa Hai.3 ||."
+      "Asti Bhaati Puni Priy Svarupaa, Sarv Vyaapak Saaraa Hai || 3 ||"
     ],
     [
       "Surnar Munijan Yah Sukh Khojat, Paavat Naa Ko Paaraa Hai.",
-      "Kahe Teun Ko Gurumukh Paave, Jaanke Bhaag Udaaraa Hai || 4 ||."
+      "Kahe Teun Ko Gurumukh Paave, Jaanke Bhaag Udaaraa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 15 || D45. ||.",
+    "सार वचन शिष्य सुनले मेरा, सो सुख रूप तुम्हारा है",
     "Saar Vachan Shishy Sunle Meraa, So Sukh Rup Tumhaaraa Hai",
-    "सार वचन शिशय सुनले मेरा, सो सुख रुप तुमहारा है"
+    "राग कंसो भजन 15",
+    "Raag Kanso Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 646,
+  "displayOrder": 15,
+  "overallOrder": 644,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 344",
+  "updatedAt": "2026-10-26"
 }

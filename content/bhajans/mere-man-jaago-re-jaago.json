@@ -1,29 +1,90 @@
 {
-  "id": "bhajan-0883",
+  "id": "bhajan-0881",
   "slug": "mere-man-jaago-re-jaago",
   "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
   "title": "मेरे मन जागो रे जागो",
   "romanTitle": "Mere Man Jaago Re Jaago",
   "firstLine": "Mere Man Jaago Re Jaago (Tek).",
+  "heading": "।। राग जोग भजन ।। ५३ ।। ८८ ३।।",
+  "tek": [
+    "मेरे मन जागो रे जागो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Jaago Re Jaago (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बहुत जन्म से सोये हो तुम, घोर नींद के माहीं ।",
+        "अब तो सन्त वचन को सुनके, अविद्या नींद त्यागो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Se Soye Ho Tum, Ghor Nind Ke Maahin.",
+        "Ab To Sant Vachan Ko Sunke, Avidyaa Nind Tyaago || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जागन से सब भयता भागे, चोर न कोई लूटे ।",
+        "तन नगरी में निर्भय होके, आतम में अनुरागो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaagan Se Sab Bhaytaa Bhaage, Chor Na Koi Lute.",
+        "Tan Nagri Men Nirbhay Hoke, Aatam Men Anuraago || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भूल किसीकी आश करो ना, जग झूठा यह सारा ।",
+        "हृदय अन्दर धर वैरागा, भोग विषय से भागों ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhul Kisiki Aash Karo Naa, Jag Jhuthaa Yah Saaraa.",
+        "Hriday Andar Dhar Vairaagaa, Bhog Vishay Se Bhaagon || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब बन्धन तोड़े, जीवन मुक्ती पाओ ।",
+        "परमानन्द के प्राप्ति कारण, सद्गुरु के पद लागो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Bandhan Tore, Jivan Mukti Paao.",
+        "Parmaanand Ke Praapti Kaaran, Sadguru Ke Pad Laago || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गया"
+      ],
+      "romanLines": [
+        "Gayaa"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन जागो रे जागो (टेक)."
+      "बहुत जन्म से सोये हो तुम, घोर नींद के माहीं ।",
+      "अब तो सन्त वचन को सुनके, अविद्या नींद त्यागो ॥१ ॥"
     ],
     [
-      "बहुत जनम से सोये हो तुम, घोर निनद के माहिन.",
-      "ब तो संत वचन को सुनके, विदया निनद तयागो || 1 ||"
+      "जागन से सब भयता भागे, चोर न कोई लूटे ।",
+      "तन नगरी में निर्भय होके, आतम में अनुरागो ॥२ ॥"
     ],
     [
-      "जागन से सब भयता भागे, चोर न कोि लुते.",
-      "तन नगरि मेन निरभय होके, ातम मेन नुरागो || 2 ||."
+      "भूल किसीकी आश करो ना, जग झूठा यह सारा ।",
+      "हृदय अन्दर धर वैरागा, भोग विषय से भागों ॥३ ॥"
     ],
     [
-      "भुल किसिकि ाश करो ना, जग झुथा यह सारा.",
-      "हरिदय नदर धर वैरागा, भोग विशय से भागोन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ सब बनधन तोरे, जिवन मुक्ति पाो.",
-      "परमाननद के परापति कारन, सद्गुरु के पद लागो || 4 ||."
+      "कहे टेऊँ सब बन्धन तोड़े, जीवन मुक्ती पाओ ।",
+      "परमानन्द के प्राप्ति कारण, सद्गुरु के पद लागो ॥४ ॥"
     ],
     [
       "गया"
@@ -31,15 +92,12 @@
   ],
   "romanLyrics": [
     [
-      "Mere Man Jaago Re Jaago (Tek)."
-    ],
-    [
       "Bahut Janm Se Soye Ho Tum, Ghor Nind Ke Maahin.",
       "Ab To Sant Vachan Ko Sunke, Avidyaa Nind Tyaago || 1 ||"
     ],
     [
-      "Jaagan Se Sab Bhaytaa Bhaage, Chor N Koi Lute.",
-      "Tan Nagri Men Nirbhay Hoke, Aatam Men Anuraago || 2 ||."
+      "Jaagan Se Sab Bhaytaa Bhaage, Chor Na Koi Lute.",
+      "Tan Nagri Men Nirbhay Hoke, Aatam Men Anuraago || 2 ||"
     ],
     [
       "Bhul Kisiki Aash Karo Naa, Jag Jhuthaa Yah Saaraa.",
@@ -47,25 +105,27 @@
     ],
     [
       "Kahe Teun Sab Bandhan Tore, Jivan Mukti Paao.",
-      "Parmaanand Ke Praapti Kaaran, Sadguru Ke Pad Laago || 4 ||."
+      "Parmaanand Ke Praapti Kaaran, Sadguru Ke Pad Laago || 4 ||"
     ],
     [
       "Gayaa"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 53 || 88 3 ||",
+    "मेरे मन जागो रे जागो",
     "Mere Man Jaago Re Jaago",
-    "मेरे मन जागो रे जागो"
+    "राग जोग भजन 53",
+    "Raag Jog Bhajan 53"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 883,
+  "displayOrder": 53,
+  "overallOrder": 881,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 465",
+  "updatedAt": "2026-10-26"
 }

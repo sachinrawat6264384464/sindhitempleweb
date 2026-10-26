@@ -1,68 +1,118 @@
 {
   "id": "bhajan-0309",
   "slug": "satguru-kini-purn-aasaa-meti-yam-ki-traasaa",
-  "categoryId": "raag-bhairav",
-  "title": "सतगुरु किनि पुरन ासा, मेति यम कि तरासा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सत्गुरु कीनी पूर्ण आसा, मेटी यम की त्रासा",
   "romanTitle": "Satguru Kini Purn Aasaa, Meti Yam Ki Traasaa",
-  "firstLine": "Satguru Kini Purn Aasaa, Meti Yam Ki Traasaa. Dayaa Kare Sab Indr Mitaayaa, Hriday Bhayaa Hulaasaa (Tek).",
+  "firstLine": "Satguru Kini Purn Aasaa, Meti Yam Ki Traasaa.",
+  "heading": "।। राग भैरवी भजन ।। ९४ ।। ३०९॥।",
+  "tek": [
+    "सत्गुरु कीनी पूर्ण आसा, मेटी यम की त्रासा ।",
+    "दया करे सब इन्द्र मिटाया, हृदय भया हुलासा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satguru Kini Purn Aasaa, Meti Yam Ki Traasaa.",
+    "Dayaa Kare Sab Indr Mitaayaa, Hriday Bhayaa Hulaasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शान्ति वधू से शादी करके, ज्ञान पुत्र मैं पाया ।",
+        "तिस प्रतापे भये मुक्त हम, होया वंश विकासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shaanti Vadhu Se Shaadi Karke, Gyaan Putr Main Paayaa.",
+        "Tis Prataape Bhaye Mukt Ham, Hoyaa Vansh Vikaasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कृत्रिम घर का त्याग करे मैं, आदी घर में आया ।",
+        "सूर्य चान्द ना तहं प्रकाशे, नहिं तां धरनि अकासा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kritrim Ghar Kaa Tyaag Kare Main, Aadi Ghar Men Aayaa.",
+        "Sury Chaand Naa Tahan Prakaashe, Nahin Taan Dharni Akaasaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म ज्ञान का अमृत भोजन, रज रज के मैं खाया ।",
+        "तृप्त भया अब मनुवा मेरा, रही न भूख प्यासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm Gyaan Kaa Amrit Bhojan, Raj Raj Ke Main Khaayaa.",
+        "Tript Bhayaa Ab Manuvaa Meraa, Rahi Na Bhukh Pyaasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आत्म धन मैं साचा पाया, खर्चत कभी न खूटे ।",
+        "कहे टेऊँ अब निर्भय होया, टूटी कर्मनि फासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aatm Dhan Main Saachaa Paayaa, Kharchat Kabhi Na Khute.",
+        "Kahe Teun Ab Nirbhay Hoyaa, Tuti Karmani Phaasaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु किनि पुरन ासा, मेति यम कि तरासा.",
-      "दया करे सब िनदर मिताया, हरिदय भया हुलासा (टेक)."
+      "शान्ति वधू से शादी करके, ज्ञान पुत्र मैं पाया ।",
+      "तिस प्रतापे भये मुक्त हम, होया वंश विकासा ॥१ ॥"
     ],
     [
-      "शांति वधु से शादि करके, ज्ञान पुतर मैं पाया.",
-      "तिस परतापे भये मुक्त हम, होया वनश विकासा || 1 ||."
+      "कृत्रिम घर का त्याग करे मैं, आदी घर में आया ।",
+      "सूर्य चान्द ना तहं प्रकाशे, नहिं तां धरनि अकासा ॥२ ॥"
     ],
     [
-      "करितरिम घर का तयाग करे मैं, ादि घर मेन ाया.",
-      "सुरय चानद ना तहन परकाशे, नहिन तान धरनि कासा || 2. ||."
+      "ब्रह्म ज्ञान का अमृत भोजन, रज रज के मैं खाया ।",
+      "तृप्त भया अब मनुवा मेरा, रही न भूख प्यासा ॥३ ॥"
     ],
     [
-      "बरहम ज्ञान का अमृत भोजन, रज रज के मैं खाया.",
-      "तरिपत भया ब मनुवा मेरा, रहि न भुख पयासा || 3 ||."
-    ],
-    [
-      "ातम धन मैं साचा पाया, खरचत कभि न खुते.",
-      "कहे तेऊँ ब निरभय होया, तुति करमनि फासा || 4. ||."
+      "आत्म धन मैं साचा पाया, खर्चत कभी न खूटे ।",
+      "कहे टेऊँ अब निर्भय होया, टूटी कर्मनि फासा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Satguru Kini Purn Aasaa, Meti Yam Ki Traasaa.",
-      "Dayaa Kare Sab Indr Mitaayaa, Hriday Bhayaa Hulaasaa (Tek)."
-    ],
-    [
-      "Shaanti Vadhu Se Shaadi Karke, Jnyaan Putr Main Paayaa.",
-      "Tis Prataape Bhaye Mukt Ham, Hoyaa Vansh Vikaasaa || 1 ||."
+      "Shaanti Vadhu Se Shaadi Karke, Gyaan Putr Main Paayaa.",
+      "Tis Prataape Bhaye Mukt Ham, Hoyaa Vansh Vikaasaa || 1 ||"
     ],
     [
       "Kritrim Ghar Kaa Tyaag Kare Main, Aadi Ghar Men Aayaa.",
-      "Sury Chaand Naa Tahan Prakaashe, Nahin Taan Dharni Akaasaa || 2. ||."
+      "Sury Chaand Naa Tahan Prakaashe, Nahin Taan Dharni Akaasaa || 2 ||"
     ],
     [
-      "Brahm Jnyaan Kaa Amrit Bhojan, Raj Raj Ke Main Khaayaa.",
-      "Tript Bhayaa Ab Manuvaa Meraa, Rahi N Bhukh Pyaasaa || 3 ||."
+      "Brahm Gyaan Kaa Amrit Bhojan, Raj Raj Ke Main Khaayaa.",
+      "Tript Bhayaa Ab Manuvaa Meraa, Rahi Na Bhukh Pyaasaa || 3 ||"
     ],
     [
-      "Aatm Dhan Main Saachaa Paayaa, Kharchat Kabhi N Khute.",
-      "Kahe Teun Ab Nirbhay Hoyaa, Tuti Karmani Phaasaa || 4. ||."
+      "Aatm Dhan Main Saachaa Paayaa, Kharchat Kabhi Na Khute.",
+      "Kahe Teun Ab Nirbhay Hoyaa, Tuti Karmani Phaasaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 94 || 309 ||.",
+    "सत्गुरु कीनी पूर्ण आसा, मेटी यम की त्रासा",
     "Satguru Kini Purn Aasaa, Meti Yam Ki Traasaa",
-    "सतगुरु किनि पुरन ासा, मेति यम कि तरासा"
+    "राग भैरवी भजन 94",
+    "Raag Bhairvi Bhajan 94"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 309,
+  "displayOrder": 94,
+  "overallOrder": 309,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 186",
+  "updatedAt": "2026-10-26"
 }

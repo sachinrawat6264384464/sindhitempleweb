@@ -2,28 +2,71 @@
   "id": "bhajan-0188",
   "slug": "sadguru-kaa-ho-daas-mere-man-sadguru-kaa-ho-daas",
   "categoryId": "raag-dhanaashri",
-  "title": "सद्गुरु का हो दास मेरे मन, सद्गुरु का हो दास",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "सद्‌गुरु का हो दास मेरे मन, सद्‌गुरु का हो दास",
   "romanTitle": "Sad‌Guru Kaa Ho Daas Mere Man, Sad‌Guru Kaa Ho Daas",
   "firstLine": "Sad‌Guru Kaa Ho Daas Mere Man, Sad‌Guru Kaa Ho Daas (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। ८ ।। १८८॥।",
+  "tek": [
+    "सद्‌गुरु का हो दास मेरे मन, सद्‌गुरु का हो दास ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Kaa Ho Daas Mere Man, Sad‌Guru Kaa Ho Daas (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इधर उधर का छोड़ भटकना, गुरु चरणे कर वास मेरे मन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Idhar Udhar Kaa Chhor Bhatkanaa, Guru Charne Kar Vaas Mere Man || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु आज्ञा से काम करो सब, धारे उर विश्वास मेरे मन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Aajnyaa Se Kaam Karo Sab, Dhaare Ur Vishvaas Mere Man || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रद्धा से गुरु मन्त्र लेके, तांका कर अभ्यास मेरे मन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Guru Mantr Leke, Taankaa Kar Abhyaas Mere Man || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु कृपा से सब, कारज होवहिं रास मेरे मन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kripaa Se Sab, Kaaraj Hovhin Raas Mere Man || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु का हो दास मेरे मन, सद्गुरु का हो दास (टेक)."
+      "इधर उधर का छोड़ भटकना, गुरु चरणे कर वास मेरे मन ॥१ ॥"
     ],
     [
-      "िधर ुधर का चहोर भतकना, गुरु चरने कर वास मेरे मन || 1 ||"
+      "गुरु आज्ञा से काम करो सब, धारे उर विश्वास मेरे मन ॥२ ॥"
     ],
     [
-      "गुरु ाजनया से काम करो सब, धारे ुर विशवास मेरे मन || 2 ||"
+      "श्रद्धा से गुरु मन्त्र लेके, तांका कर अभ्यास मेरे मन ॥३ ॥"
     ],
     [
-      "शरदधा से गुरु मनतर लेके, तानका कर भयास मेरे मन ||.3 ||",
-      "कहे तेऊँ गुरु कृपा से सब, कारज होवहिन रास मेरे मन || 4 ||"
+      "कहे टेऊँ गुरु कृपा से सब, कारज होवहिं रास मेरे मन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sad‌Guru Kaa Ho Daas Mere Man, Sad‌Guru Kaa Ho Daas (Tek)."
-    ],
     [
       "Idhar Udhar Kaa Chhor Bhatkanaa, Guru Charne Kar Vaas Mere Man || 1 ||"
     ],
@@ -31,24 +74,27 @@
       "Guru Aajnyaa Se Kaam Karo Sab, Dhaare Ur Vishvaas Mere Man || 2 ||"
     ],
     [
-      "Shraddhaa Se Guru Mantr Leke, Taankaa Kar Abhyaas Mere Man ||.3 ||",
+      "Shraddhaa Se Guru Mantr Leke, Taankaa Kar Abhyaas Mere Man || 3 ||"
+    ],
+    [
       "Kahe Teun Guru Kripaa Se Sab, Kaaraj Hovhin Raas Mere Man || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 8 || 188 ||.",
+    "सद्‌गुरु का हो दास मेरे मन, सद्‌गुरु का हो दास",
     "Sad‌Guru Kaa Ho Daas Mere Man, Sad‌Guru Kaa Ho Daas",
-    "सद्गुरु का हो दास मेरे मन, सद्गुरु का हो दास"
+    "राग धनाश्री भजन 8",
+    "Raag Dhanaashri Bhajan 8"
   ],
   "tags": [
-    "teunram",
-    "dhanaashri",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 188,
+  "displayOrder": 8,
+  "overallOrder": 188,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 123",
+  "updatedAt": "2026-10-26"
 }

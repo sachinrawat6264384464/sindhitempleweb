@@ -1,105 +1,154 @@
 {
   "id": "bhajan-0245",
   "slug": "parmeshvar-ko-man-men-laagat-premaa-bhakti-pyaari",
-  "categoryId": "raag-bhairav",
-  "title": "परमेशवर को मन मेन लागत परेमा भक्ति पयारि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "परमेश्वर को मन में लागत प्रेमा भक्ती प्यारी",
   "romanTitle": "Parmeshvar Ko Man Men Laagat Premaa Bhakti Pyaari",
-  "firstLine": "Parmeshvar Ko Man Men Laagat Premaa Bhakti Pyaari. Jaati Paati Kul Rup Daam Par Rijhat Naa Banvaari (Tek).",
+  "firstLine": "Parmeshvar Ko Man Men Laagat Premaa Bhakti Pyaari.",
+  "heading": "।। राग भैरवी भजन ।। ३० ।। २४५।।",
+  "tek": [
+    "परमेश्वर को मन में लागत प्रेमा भक्ती प्यारी ।",
+    "जाति पाति कुल रूप दाम पर रीझत ना बनवारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Parmeshvar Ko Man Men Laagat Premaa Bhakti Pyaari.",
+    "Jaati Paati Kul Rup Daam Par Rijhat Naa Banvaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "फ््",
+        "जीव जिसी में प्रेमा भक्ती सो प्रभू को प्यारा ।",
+        "भक्ति हीन भलि ब्राह्मण होवे लागत हरि को खारा ।",
+        "भक्ती वाला भलि चण्डाला भावत सो कतारा ।",
+        "केवल निज भक्ती पर प्रसन्न होते हरि हितकारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ph",
+        "Jiv Jisi Men Premaa Bhakti So Prabhu Ko Pyaaraa.",
+        "Bhakti Hin Bhali Braahman Hove Laagat Hari Ko Khaaraa.",
+        "Bhakti Vaalaa Bhali Chandaalaa Bhaavat So Kataaraa.",
+        "Keval Nij Bhakti Par Prasann Hote Hari Hitkaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भवसागर के तरने हित बहु साधन वेद बखाने ।",
+        "सबते प्रेमा भक्ती ऊँची कहते सन्त सयाने ।",
+        "प्रेम भक्ति में लागत हैजो तांको हरि सनमाने ।",
+        "तांते सर्व ओट तज करते प्रेम भक्ति हरबारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhavsaagar Ke Tarne Hit Bahu Saadhan Ved Bakhaane.",
+        "Sabte Premaa Bhakti Unchi Kahte Sant Sayaane.",
+        "Prem Bhakti Men Laagat Haijo Taanko Hari Sanmaane.",
+        "Taante Sarv Ot Taj Karte Prem Bhakti Harbaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्युग त्रेता द्वापुर युग में तप यज्ञ पूजा गाई ।",
+        "कलियुग में इक प्रेमा भक्ती भगवत के मन भाई ।",
+        "अन साधन से जो फल मिलता सो दे भक्ती सदाई ।",
+        "तीन लोक में प्रेम भक्ति सम और न को सुखकारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Satyug Tretaa Dvaapur Yug Men Tap Yajny Poojaa Gaai.",
+        "Kaliyug Men Ik Premaa Bhakti Bhagvat Ke Man Bhaai.",
+        "An Saadhan Se Jo Phal Miltaa So De Bhakti Sadaai.",
+        "Tin Lok Men Prem Bhakti Sam Aur Na Ko Sukhkaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ तांते हरि की प्रेमा भक्ति कीजे ।",
+        "प्रेम भक्ति के करने की तुम गुरु से युक्ती लीजे ।",
+        "मानुष तन को पाकर जग में प्रेम भक्ति रस पीजे ।",
+        "प्रेम भक्ति बिन जीवन वृथा जानो जगत मंजझारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Taante Hari Ki Premaa Bhakti Kije.",
+        "Prem Bhakti Ke Karne Ki Tum Guru Se Yukti Lije.",
+        "Maanush Tan Ko Paakar Jag Men Prem Bhakti Ras Pije.",
+        "Prem Bhakti Bin Jivan Vrithaa Jaano Jagat Manjjhaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परमेशवर को मन मेन लागत परेमा भक्ति पयारि.",
-      "जाति पाति कुल रुप दाम पर रिझत ना बनवारि (टेक)."
+      "फ््",
+      "जीव जिसी में प्रेमा भक्ती सो प्रभू को प्यारा ।",
+      "भक्ति हीन भलि ब्राह्मण होवे लागत हरि को खारा ।",
+      "भक्ती वाला भलि चण्डाला भावत सो कतारा ।",
+      "केवल निज भक्ती पर प्रसन्न होते हरि हितकारी ॥१ ॥"
     ],
     [
-      "फ",
-      "जिव जिसि मेन परेमा भक्ति सो प्रभु को पयारा."
+      "भवसागर के तरने हित बहु साधन वेद बखाने ।",
+      "सबते प्रेमा भक्ती ऊँची कहते सन्त सयाने ।",
+      "प्रेम भक्ति में लागत हैजो तांको हरि सनमाने ।",
+      "तांते सर्व ओट तज करते प्रेम भक्ति हरबारी ॥२ ॥"
     ],
     [
-      "भक्ति हिन भलि बराहमन होवे लागत हरि को खारा.",
-      "भक्ति वाला भलि चनदाला भावत सो कतारा."
+      "सत्युग त्रेता द्वापुर युग में तप यज्ञ पूजा गाई ।",
+      "कलियुग में इक प्रेमा भक्ती भगवत के मन भाई ।",
+      "अन साधन से जो फल मिलता सो दे भक्ती सदाई ।",
+      "तीन लोक में प्रेम भक्ति सम और न को सुखकारी ॥३ ॥"
     ],
     [
-      "केवल निज भक्ति पर परसनन होते हरि हितकारि || 1 ||."
-    ],
-    [
-      "भवसागर के तरने हित बहु साधन वेद बखाने.",
-      "सबते परेमा भक्ति ुनचि कहते संत सयाने."
-    ],
-    [
-      "प्रेम भक्ति मेन लागत हैजो तानको हरि सनमाने.",
-      "तानते सर्व ोत तज करते प्रेम भक्ति हरबारि || 2 ||"
-    ],
-    [
-      "सतयुग तरेता दवापुर युग मेन तप यजनय पुजा गाि.",
-      "कलियुग मेन िक परेमा भक्ति भगवत के मन भाि."
-    ],
-    [
-      "न साधन से जो फल मिलता सो दे भक्ति सदाि.",
-      "तिन लोक मेन प्रेम भक्ति सम ौर न को सुखकारि ||. 3 ||"
-    ],
-    [
-      "कहता तेऊँ तानते हरि कि परेमा भक्ति किजे.",
-      "प्रेम भक्ति के करने कि तुम गुरु से युकति लिजे."
-    ],
-    [
-      "मानुश तन को पाकर जग मेन प्रेम भक्ति रस पिजे.",
-      "प्रेम भक्ति बिन जिवन वरिथा जानो जगत मनजझारि || 4 ||"
+      "कहता टेऊँ तांते हरि की प्रेमा भक्ति कीजे ।",
+      "प्रेम भक्ति के करने की तुम गुरु से युक्ती लीजे ।",
+      "मानुष तन को पाकर जग में प्रेम भक्ति रस पीजे ।",
+      "प्रेम भक्ति बिन जीवन वृथा जानो जगत मंजझारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Parmeshvar Ko Man Men Laagat Premaa Bhakti Pyaari.",
-      "Jaati Paati Kul Rup Daam Par Rijhat Naa Banvaari (Tek)."
-    ],
-    [
       "Ph",
-      "Jiv Jisi Men Premaa Bhakti So Prabhu Ko Pyaaraa."
-    ],
-    [
+      "Jiv Jisi Men Premaa Bhakti So Prabhu Ko Pyaaraa.",
       "Bhakti Hin Bhali Braahman Hove Laagat Hari Ko Khaaraa.",
-      "Bhakti Vaalaa Bhali Chandaalaa Bhaavat So Kataaraa."
-    ],
-    [
-      "Keval Nij Bhakti Par Prasann Hote Hari Hitkaari || 1 ||."
+      "Bhakti Vaalaa Bhali Chandaalaa Bhaavat So Kataaraa.",
+      "Keval Nij Bhakti Par Prasann Hote Hari Hitkaari || 1 ||"
     ],
     [
       "Bhavsaagar Ke Tarne Hit Bahu Saadhan Ved Bakhaane.",
-      "Sabte Premaa Bhakti Unchi Kahte Sant Sayaane."
-    ],
-    [
+      "Sabte Premaa Bhakti Unchi Kahte Sant Sayaane.",
       "Prem Bhakti Men Laagat Haijo Taanko Hari Sanmaane.",
       "Taante Sarv Ot Taj Karte Prem Bhakti Harbaari || 2 ||"
     ],
     [
-      "Satyug Tretaa Dvaapur Yug Men Tap Yajny Pujaa Gaai.",
-      "Kaliyug Men Ik Premaa Bhakti Bhagvat Ke Man Bhaai."
-    ],
-    [
+      "Satyug Tretaa Dvaapur Yug Men Tap Yajny Poojaa Gaai.",
+      "Kaliyug Men Ik Premaa Bhakti Bhagvat Ke Man Bhaai.",
       "An Saadhan Se Jo Phal Miltaa So De Bhakti Sadaai.",
-      "Tin Lok Men Prem Bhakti Sam Aur N Ko Sukhkaari ||. 3 ||"
+      "Tin Lok Men Prem Bhakti Sam Aur Na Ko Sukhkaari || 3 ||"
     ],
     [
       "Kahtaa Teun Taante Hari Ki Premaa Bhakti Kije.",
-      "Prem Bhakti Ke Karne Ki Tum Guru Se Yukti Lije."
-    ],
-    [
+      "Prem Bhakti Ke Karne Ki Tum Guru Se Yukti Lije.",
       "Maanush Tan Ko Paakar Jag Men Prem Bhakti Ras Pije.",
       "Prem Bhakti Bin Jivan Vrithaa Jaano Jagat Manjjhaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 30 || 245 ||",
+    "परमेश्वर को मन में लागत प्रेमा भक्ती प्यारी",
     "Parmeshvar Ko Man Men Laagat Premaa Bhakti Pyaari",
-    "परमेशवर को मन मेन लागत परेमा भक्ति पयारि"
+    "राग भैरवी भजन 30",
+    "Raag Bhairvi Bhajan 30"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 245,
+  "displayOrder": 30,
+  "overallOrder": 245,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 151",
+  "updatedAt": "2026-10-26"
 }

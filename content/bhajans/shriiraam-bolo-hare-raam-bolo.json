@@ -1,79 +1,111 @@
 {
   "id": "bhajan-0224",
   "slug": "shriiraam-bolo-hare-raam-bolo",
-  "categoryId": "raag-bhairav",
-  "title": "शरीराम बोलो हरे राम बोलो",
-  "romanTitle": "Shriiraam Bolo Hare Raam Bolo",
-  "firstLine": "Shriiraam Bolo Hare Raam Bolo, Sadaa Prem Se Tum Shriiraam Bolo (Tek).",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "श्रीराम बोलो हरे राम बोलो,",
+  "romanTitle": "Shriiraam Bolo Hare Raam Bolo,",
+  "firstLine": "Shriiraam Bolo Hare Raam Bolo,",
+  "heading": "।। राग भैरवी भजन ।। ९ ।। २२४।।",
+  "tek": [
+    "श्रीराम बोलो हरे राम बोलो,",
+    "सदा प्रेम से तुम श्रीराम बोलो ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Shriiraam Bolo Hare Raam Bolo,",
+    "Sadaa Prem Se Tum Shriiraam Bolo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रीराम का नाम संकट हरे, श्रीराम सब काज पूरण करे ।",
+        "श्रीराम सुमरे अधम बहु तरे,",
+        "जपे राम तुम भी करो सफल चोलो ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shriiraam Kaa Naam Sankat Hare, Shriiraam Sab Kaaj Puran Kare.",
+        "Shriiraam Sumre Adham Bahu Tare,",
+        "Jape Raam Tum Bhi Karo Saphal Cholo || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "श्रीराम का नाम पल पल रटो , जपे नाम बन्धन जगत के कटो ।",
+        "चलो राम मग में न पीछे हटो,",
+        "विषय के रसों में जन्म नाहिं रोलो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shriiraam Kaa Naam Pal Pal Rato, Jape Naam Bandhan Jagat Ke Kato.",
+        "Chalo Raam Mag Men Na Pichhe Hato,",
+        "Vishay Ke Rason Men Janm Naahin Rolo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ जोई जपे राम को, नहीं जात सोई नरक धाम को ।",
+        "लहे लोक परलोक आराम को,",
+        "रही जग में पाए अभय पद अडोलो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Joi Jape Raam Ko, Nahin Jaat Soi Narak Dhaam Ko.",
+        "Lahe Lok Parlok Aaraam Ko,",
+        "Rahi Jag Men Paae Abhay Pad Adolo || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शरीराम बोलो हरे राम बोलो,",
-      "सदा प्रेम से तुम शरीराम बोलो (टेक)."
+      "श्रीराम का नाम संकट हरे, श्रीराम सब काज पूरण करे ।",
+      "श्रीराम सुमरे अधम बहु तरे,",
+      "जपे राम तुम भी करो सफल चोलो ॥१ ॥१ ॥"
     ],
     [
-      "शरीराम का नाम सनकत हरे, शरीराम सब काज पुरन करे.",
-      "शरीराम सुमरे धम बहु तरे,"
+      "श्रीराम का नाम पल पल रटो , जपे नाम बन्धन जगत के कटो ।",
+      "चलो राम मग में न पीछे हटो,",
+      "विषय के रसों में जन्म नाहिं रोलो ॥२ ॥"
     ],
     [
-      "जपे राम तुम भि करो सफल चोलो || 1$. ||.",
-      "शरीराम का नाम पल पल रतो, जपे नाम बनधन जगत के कतो."
-    ],
-    [
-      "चलो राम मग मेन न पिचहे हतो,",
-      "विशय के रसोन मेन जनम नाहिन रोलो || 2 ||."
-    ],
-    [
-      "कहे तेऊँ जोि जपे राम को, नहिन जात सोि नरक धाम को.",
-      "लहे लोक परलोक ाराम को,"
-    ],
-    [
-      "रहि जग मेन पाे भय पद दोलो || 3 ||."
-    ],
-    [
-      "गे"
+      "कहे टेऊँ जोई जपे राम को, नहीं जात सोई नरक धाम को ।",
+      "लहे लोक परलोक आराम को,",
+      "रही जग में पाए अभय पद अडोलो ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shriiraam Bolo Hare Raam Bolo,",
-      "Sadaa Prem Se Tum Shriiraam Bolo (Tek)."
-    ],
-    [
       "Shriiraam Kaa Naam Sankat Hare, Shriiraam Sab Kaaj Puran Kare.",
-      "Shriiraam Sumre Adham Bahu Tare,"
+      "Shriiraam Sumre Adham Bahu Tare,",
+      "Jape Raam Tum Bhi Karo Saphal Cholo || 1 || 1 ||"
     ],
     [
-      "Jape Raam Tum Bhi Karo Saphal Cholo || 1$. ||.",
-      "Shriiraam Kaa Naam Pal Pal Rato, Jape Naam Bandhan Jagat Ke Kato."
-    ],
-    [
-      "Chalo Raam Mag Men N Pichhe Hato,",
-      "Vishay Ke Rason Men Janm Naahin Rolo || 2 ||."
+      "Shriiraam Kaa Naam Pal Pal Rato, Jape Naam Bandhan Jagat Ke Kato.",
+      "Chalo Raam Mag Men Na Pichhe Hato,",
+      "Vishay Ke Rason Men Janm Naahin Rolo || 2 ||"
     ],
     [
       "Kahe Teun Joi Jape Raam Ko, Nahin Jaat Soi Narak Dhaam Ko.",
-      "Lahe Lok Parlok Aaraam Ko,"
-    ],
-    [
-      "Rahi Jag Men Paae Abhay Pad Adolo || 3 ||."
-    ],
-    [
-      "Ge"
+      "Lahe Lok Parlok Aaraam Ko,",
+      "Rahi Jag Men Paae Abhay Pad Adolo || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 9 || 224 ||",
-    "Shriiraam Bolo Hare Raam Bolo",
-    "शरीराम बोलो हरे राम बोलो"
+    "श्रीराम बोलो हरे राम बोलो,",
+    "Shriiraam Bolo Hare Raam Bolo,",
+    "राग भैरवी भजन 9",
+    "Raag Bhairvi Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 224,
+  "displayOrder": 9,
+  "overallOrder": 224,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 140",
+  "updatedAt": "2026-10-26"
 }

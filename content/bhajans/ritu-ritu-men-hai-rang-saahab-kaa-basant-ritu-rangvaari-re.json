@@ -1,71 +1,131 @@
 {
   "id": "bhajan-0344",
   "slug": "ritu-ritu-men-hai-rang-saahab-kaa-basant-ritu-rangvaari-re",
-  "categoryId": "raag-aasaa",
-  "title": "रितु रितु मेन है रनग साहब का, बसनत रितु रनगवारि रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "ऋतु ऋतु में है रंग साहब का, बसन्त ऋतु रंगवारी रे",
   "romanTitle": "Ritu Ritu Men Hai Rang Saahab Kaa, Basant Ritu Rangvaari Re",
   "firstLine": "Ritu Ritu Men Hai Rang Saahab Kaa, Basant Ritu Rangvaari Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १ ।। ३४४।॥।",
+  "tek": [
+    "ऋतु ऋतु में है रंग साहब का, बसन्त ऋतु रंगवारी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ritu Ritu Men Hai Rang Saahab Kaa, Basant Ritu Rangvaari Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सूके तरु भये पत्र अपारा, बन बन फूले बाग फुलारा ।",
+        "फूल रही फुलवारी रे ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Suke Taru Bhaye Patr Apaaraa, Ban Ban Phule Baag Phulaaraa.",
+        "Phul Rahi Phulvaari Re || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बसन्त ऋतु का देख निज़ारा, रिल मिल भँवरे करत गुउ्जारा ।",
+        "सुगन्ध ले सुखकारी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Basant Ritu Kaa Dekh Nizaaraa, Ril Mil Bhanvre Karat Guujaaraa.",
+        "Sugandh Le Sukhkaari Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बसन्त ऋतु को सब जन गावत, सुर नर मुनिजन के मन भावत,",
+        "मुझको लागत प्यारी रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Basant Ritu Ko Sab Jan Gaavat, Sur Nar Munijan Ke Man Bhaavat,",
+        "Mujhko Laagat Pyaari Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बसन्त ऋतु है बहुत रसाली, कहे टेऊँ भये सन्त सुखाली ।",
+        "जाऊँ बलि बलिहारी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Basant Ritu Hai Bahut Rasaali, Kahe Teun Bhaye Sant Sukhaali.",
+        "Jaaun Bali Balihaari Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "्ह्ठ"
+      ],
+      "romanLines": [
+        "Hth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रितु रितु मेन है रनग साहब का, बसनत रितु रनगवारि रे (टेक)."
+      "सूके तरु भये पत्र अपारा, बन बन फूले बाग फुलारा ।",
+      "फूल रही फुलवारी रे ॥8 ॥१ ॥"
     ],
     [
-      "सुके तरु भये पतर पारा, बन बन फुले बाग फुलारा.",
-      "फुल रहि फुलवारि रे || 8$ ||."
+      "बसन्त ऋतु का देख निज़ारा, रिल मिल भँवरे करत गुउ्जारा ।",
+      "सुगन्ध ले सुखकारी रे ॥२ ॥"
     ],
     [
-      "बसनत रितु का देख निzारा, रिल मिल भनवरे करत गूजारा.",
-      "सुगनध ले सुखकारि रे || 2 ||."
+      "बसन्त ऋतु को सब जन गावत, सुर नर मुनिजन के मन भावत,",
+      "मुझको लागत प्यारी रे ॥३ ॥"
     ],
     [
-      "बसनत रितु को सब जन गावत, सुर नर मुनिजन के मन भावत,",
-      "मुझको लागत पयारि रे || 3 ||."
+      "बसन्त ऋतु है बहुत रसाली, कहे टेऊँ भये सन्त सुखाली ।",
+      "जाऊँ बलि बलिहारी रे ॥४ ॥"
     ],
     [
-      "बसनत रितु है बहुत रसालि, कहे तेऊँ भये संत सुखालि.",
-      "जाुन बलि बलिहारि रे.4. ||."
-    ],
-    [
-      "हथ"
+      "्ह्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Ritu Ritu Men Hai Rang Saahab Kaa, Basant Ritu Rangvaari Re (Tek)."
-    ],
-    [
       "Suke Taru Bhaye Patr Apaaraa, Ban Ban Phule Baag Phulaaraa.",
-      "Phul Rahi Phulvaari Re || 8$ ||."
+      "Phul Rahi Phulvaari Re || 8 || 1 ||"
     ],
     [
       "Basant Ritu Kaa Dekh Nizaaraa, Ril Mil Bhanvre Karat Guujaaraa.",
-      "Sugandh Le Sukhkaari Re || 2 ||."
+      "Sugandh Le Sukhkaari Re || 2 ||"
     ],
     [
       "Basant Ritu Ko Sab Jan Gaavat, Sur Nar Munijan Ke Man Bhaavat,",
-      "Mujhko Laagat Pyaari Re || 3 ||."
+      "Mujhko Laagat Pyaari Re || 3 ||"
     ],
     [
       "Basant Ritu Hai Bahut Rasaali, Kahe Teun Bhaye Sant Sukhaali.",
-      "Jaaun Bali Balihaari Re.4. ||."
+      "Jaaun Bali Balihaari Re || 4 ||"
     ],
     [
       "Hth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 1 || 344. ||.",
+    "ऋतु ऋतु में है रंग साहब का, बसन्त ऋतु रंगवारी रे",
     "Ritu Ritu Men Hai Rang Saahab Kaa, Basant Ritu Rangvaari Re",
-    "रितु रितु मेन है रनग साहब का, बसनत रितु रनगवारि रे"
+    "राग बसंत भजन 1",
+    "Raag Basant Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 344,
+  "displayOrder": 1,
+  "overallOrder": 344,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 204",
+  "updatedAt": "2026-10-26"
 }

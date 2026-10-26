@@ -2,44 +2,102 @@
   "id": "bhajan-0395",
   "slug": "tum-maanush-dehi-paai-kuchh-karle-nek-kamaai",
   "categoryId": "raag-tilang",
-  "title": "तुम मानुश देही पाि, कुचह करले नेक कमाि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "तुम मानुष देही पाई, कुछ करले नेक कमाई",
   "romanTitle": "Tum Maanush Dehi Paai, Kuchh Karle Nek Kamaai",
   "firstLine": "Tum Maanush Dehi Paai, Kuchh Karle Nek Kamaai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ३२ ।। ३९६।।",
+  "tek": [
+    "तुम मानुष देही पाई, कुछ करले नेक कमाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Maanush Dehi Paai, Kuchh Karle Nek Kamaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन है निर्मल दर्पन, इसमें अपना करले दर्शन ।",
+        "दर्शन से मन होवे प्रसन्न, मिटे भेद मती दुखदाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Hai Nirmal Darpan, Ismen Apnaa Karle Darshan.",
+        "Darshan Se Man Hove Prasann, Mite Bhed Mati Dukhdaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष तन में जाग प्यारा, तस्कर पांचों कर परिहारा ।",
+        "अपने घर का हो रखवारा, चल मार्ग सूधे भाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Men Jaag Pyaaraa, Taskar Paanchon Kar Parihaaraa.",
+        "Apne Ghar Kaa Ho Rakhvaaraa, Chal Maarg Sudhe Bhaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मानुष तन है भूमि समाना , तामें शुभ गुण बीज लगाना ।",
+        "पाप वृक्ष को नाहिं जमाना, यह सन्तनि बात बताई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Hai Bhumi Samaanaa, Taamen Shubh Gun Bij Lagaanaa.",
+        "Paap Vriksh Ko Naahin Jamaanaa, Yah Santani Baat Bataai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ तोहि पुकारे, मानुष तन सम भानु उज्यारे ।",
+        "इसमें कर हरि भजन प्यारे, पाय पूरण पद सुखदाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tohi Pukaare, Maanush Tan Sam Bhaanu Ujyaare.",
+        "Ismen Kar Hari Bhajan Pyaare, Paay Puran Pad Sukhdaai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "तर्ठ"
+      ],
+      "romanLines": [
+        "Tarth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम मानुश देही पाि, कुचह करले नेक कमाि (टेक)."
+      "मानुष तन है निर्मल दर्पन, इसमें अपना करले दर्शन ।",
+      "दर्शन से मन होवे प्रसन्न, मिटे भेद मती दुखदाई ॥१ ॥"
     ],
     [
-      "मानुश तन है निर्मल दरपन, िसमेन पना करले दरशन.",
-      "दरशन से मन होवे परसनन, मिते भेद मति दुखदाि || 1 ||"
+      "मानुष तन में जाग प्यारा, तस्कर पांचों कर परिहारा ।",
+      "अपने घर का हो रखवारा, चल मार्ग सूधे भाई ॥२ ॥"
     ],
     [
-      "मानुश तन मेन जाग पयारा, तसकर पानचोन कर परिहारा.",
-      "पने घर का हो रखवारा, चल मारग सुधे भाि ||.2 ||"
+      "मानुष तन है भूमि समाना , तामें शुभ गुण बीज लगाना ।",
+      "पाप वृक्ष को नाहिं जमाना, यह सन्तनि बात बताई ॥३ ॥"
     ],
     [
-      "मानुश तन है भुमि समाना, तामेन शुभ गुन बिज लगाना.",
-      "पाप वरिकश को नाहिन जमाना, यह सनतनि बात बताि || 3 ||"
+      "कहता टेऊँ तोहि पुकारे, मानुष तन सम भानु उज्यारे ।",
+      "इसमें कर हरि भजन प्यारे, पाय पूरण पद सुखदाई ॥४ ॥"
     ],
     [
-      "कहता तेऊँ तोहि पुकारे, मानुश तन सम भानु ुजयारे.",
-      "िसमेन कर हरि भजन पयारे, पाय पुरन पद सुखदाि || 4. ||."
-    ],
-    [
-      "तरथ"
+      "तर्ठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Tum Maanush Dehi Paai, Kuchh Karle Nek Kamaai (Tek)."
-    ],
     [
       "Maanush Tan Hai Nirmal Darpan, Ismen Apnaa Karle Darshan.",
       "Darshan Se Man Hove Prasann, Mite Bhed Mati Dukhdaai || 1 ||"
     ],
     [
       "Maanush Tan Men Jaag Pyaaraa, Taskar Paanchon Kar Parihaaraa.",
-      "Apne Ghar Kaa Ho Rakhvaaraa, Chal Maarg Sudhe Bhaai ||.2 ||"
+      "Apne Ghar Kaa Ho Rakhvaaraa, Chal Maarg Sudhe Bhaai || 2 ||"
     ],
     [
       "Maanush Tan Hai Bhumi Samaanaa, Taamen Shubh Gun Bij Lagaanaa.",
@@ -47,25 +105,27 @@
     ],
     [
       "Kahtaa Teun Tohi Pukaare, Maanush Tan Sam Bhaanu Ujyaare.",
-      "Ismen Kar Hari Bhajan Pyaare, Paay Puran Pad Sukhdaai || 4. ||."
+      "Ismen Kar Hari Bhajan Pyaare, Paay Puran Pad Sukhdaai || 4 ||"
     ],
     [
       "Tarth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 32 || 396 ||",
+    "तुम मानुष देही पाई, कुछ करले नेक कमाई",
     "Tum Maanush Dehi Paai, Kuchh Karle Nek Kamaai",
-    "तुम मानुश देही पाि, कुचह करले नेक कमाि"
+    "राग तिलंग भजन 32",
+    "Raag Tilang Bhajan 32"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 395,
+  "displayOrder": 32,
+  "overallOrder": 395,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 231",
+  "updatedAt": "2026-10-26"
 }

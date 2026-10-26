@@ -2,35 +2,93 @@
   "id": "bhajan-0421",
   "slug": "agam-desh-men-alakh-biraaje-nahin-vaan-jagat-pasaaraa-hai",
   "categoryId": "raag-tilang",
-  "title": "गम देश मेन लख बिराजे, नहिन वान जगत पसारा है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "अगम देश में अलख बिराजे, नहिं वां जगत पसारा है",
   "romanTitle": "Agam Desh Men Alakh Biraaje, Nahin Vaan Jagat Pasaaraa Hai",
   "firstLine": "Agam Desh Men Alakh Biraaje, Nahin Vaan Jagat Pasaaraa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५८ ।। ४२ २।।",
+  "tek": [
+    "अगम देश में अलख बिराजे, नहिं वां जगत पसारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Agam Desh Men Alakh Biraaje, Nahin Vaan Jagat Pasaaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नहिं वां ब्रह्मा नहिं वां विष्णु, नहिं वां शिव का द्वारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nahin Vaan Brahmaa Nahin Vaan Vishnu, Nahin Vaan Shiv Kaa Dvaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नहिं वां सूर्य नहिं वां चन्दा, नहिं वां दामिन तारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nahin Vaan Sury Nahin Vaan Chandaa, Nahin Vaan Daamin Taaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नहिं वां भूमि न अग्नि अकाशा, नहिं वायू जल धारा है ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Nahin Vaan Bhumi Na Agni Akaashaa, Nahin Vaayu Jal Dhaaraa Hai || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नहिं वां नरक स्वर्ग नहिं देवा, नहिं वां अंग अकारा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nahin Vaan Narak Svarg Nahin Devaa, Nahin Vaan Ang Akaaraa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ नहिं तीन काल तहैं, नहिं त्रिगुण विस्तारा है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nahin Tin Kaal Tahain, Nahin Trigun Vistaaraa Hai || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गम देश मेन लख बिराजे, नहिन वान जगत पसारा है (टेक)."
+      "नहिं वां ब्रह्मा नहिं वां विष्णु, नहिं वां शिव का द्वारा है ॥१ ॥"
     ],
     [
-      "नहिन वान बरहम नहिन वान विशनु, नहिन वान शिव का दवारा है.1 ||.",
-      "नहिन वान सुरय नहिन वान चनदा, नहिन वान दामिन तारा है || 2 ||."
+      "नहिं वां सूर्य नहिं वां चन्दा, नहिं वां दामिन तारा है ॥२ ॥"
     ],
     [
-      "नहिन वान भुमि न गनि काशा, नहिन वायु जल धारा है || 3े ||",
-      "नहिन वान नरक सवरग नहिन देवा, नहिन वान नग कारा है || 4 ||"
+      "नहिं वां भूमि न अग्नि अकाशा, नहिं वायू जल धारा है ॥ ३े ॥"
     ],
     [
-      "कहे तेऊँ नहिन तिन काल तहैन, नहिन तरिगुन विसतारा है || 5 ||"
+      "नहिं वां नरक स्वर्ग नहिं देवा, नहिं वां अंग अकारा है ॥४ ॥"
+    ],
+    [
+      "कहे टेऊँ नहिं तीन काल तहैं, नहिं त्रिगुण विस्तारा है ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Agam Desh Men Alakh Biraaje, Nahin Vaan Jagat Pasaaraa Hai (Tek)."
+      "Nahin Vaan Brahmaa Nahin Vaan Vishnu, Nahin Vaan Shiv Kaa Dvaaraa Hai || 1 ||"
     ],
     [
-      "Nahin Vaan Brahma Nahin Vaan Vishnu, Nahin Vaan Shiv Kaa Dvaaraa Hai.1 ||.",
-      "Nahin Vaan Sury Nahin Vaan Chandaa, Nahin Vaan Daamin Taaraa Hai || 2 ||."
+      "Nahin Vaan Sury Nahin Vaan Chandaa, Nahin Vaan Daamin Taaraa Hai || 2 ||"
     ],
     [
-      "Nahin Vaan Bhumi N Agni Akaashaa, Nahin Vaayu Jal Dhaaraa Hai || 3E ||",
+      "Nahin Vaan Bhumi Na Agni Akaashaa, Nahin Vaayu Jal Dhaaraa Hai || 3E ||"
+    ],
+    [
       "Nahin Vaan Narak Svarg Nahin Devaa, Nahin Vaan Ang Akaaraa Hai || 4 ||"
     ],
     [
@@ -38,18 +96,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 58 || 42 2 ||",
+    "अगम देश में अलख बिराजे, नहिं वां जगत पसारा है",
     "Agam Desh Men Alakh Biraaje, Nahin Vaan Jagat Pasaaraa Hai",
-    "गम देश मेन लख बिराजे, नहिन वान जगत पसारा है"
+    "राग तिलंग भजन 58",
+    "Raag Tilang Bhajan 58"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 421,
+  "displayOrder": 58,
+  "overallOrder": 421,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 242",
+  "updatedAt": "2026-10-26"
 }

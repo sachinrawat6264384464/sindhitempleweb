@@ -1,91 +1,134 @@
 {
-  "id": "bhajan-0789",
+  "id": "bhajan-0787",
   "slug": "dhaaro-dil-men-dayaa-ko-udaari-dayaa-dharm-kaa-mul-uchaari",
   "categoryId": "raag-pilaa",
-  "title": "धारो दिल मेन दया को ुदारि, दया धरम का मुल ुचारि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "धारो दिल में दया को उदारी, दया धर्म का मूल उचारी",
   "romanTitle": "Dhaaro Dil Men Dayaa Ko Udaari, Dayaa Dharm Kaa Mul Uchaari",
-  "firstLine": "Dhaaro Dil Men Dayaa Ko Udaari, Dayaa Dharm Kaa Mul Uchaari. He Sansaari He Nar Naari (Tek).",
+  "firstLine": "Dhaaro Dil Men Dayaa Ko Udaari, Dayaa Dharm Kaa Mul Uchaari.",
+  "heading": "।। राग पीला भजन ।। ६७ ।। ७८९।।",
+  "tek": [
+    "धारो दिल में दया को उदारी, दया धर्म का मूल उचारी ।",
+    "हे संसारी हे नर नारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dhaaro Dil Men Dayaa Ko Udaari, Dayaa Dharm Kaa Mul Uchaari.",
+    "He Sansaari He Nar Naari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर दया शिवि भूप ने राखा कपोता कोल जी ।",
+        "बाज़ को निज मास दीना ताहिं बदले तोल जी ।",
+        "दोनों लोक भई जयकारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhar Dayaa Shivi Bhup Ne Raakhaa Kapotaa Kol Ji.",
+        "Baaz Ko Nij Maas Dinaa Taahin Badle Tol Ji.",
+        "Donon Lok Bhai Jaykaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्यों कपोत कपोतिनी मिल दया निज दिल में धरी ।",
+        "आपने तन को जलाके भूख अतिथी की हरी ।",
+        "दोनों भये परलोक सुखारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jyon Kapot Kapotini Mil Dayaa Nij Dil Men Dhari.",
+        "Aapne Tan Ko Jalaake Bhukh Atithi Ki Hari.",
+        "Donon Bhaye Parlok Sukhaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शेर का कांटा निकाला चोर बन में जायके ।",
+        "जान वांकी छोड़ दीनी शेर ने सिर नायके ।",
+        "देख विस्मय भया भूप भारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sher Kaa Kaantaa Nikaalaa Chor Ban Men Jaayke.",
+        "Jaan Vaanki Chhor Dini Sher Ne Sir Naayke.",
+        "Dekh Vismay Bhayaa Bhup Bhaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अगर चाहो राज़ हरि का तां दया मन धारिये ।",
+        "कहत टेऊँ प्राण रहने तक दया ना टारिये ।",
+        "ऐसी वाणी वेद उचारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Agar Chaaho Raaz Hari Kaa Taan Dayaa Man Dhaariye.",
+        "Kahat Teun Praan Rahne Tak Dayaa Naa Taariye.",
+        "Aisi Vaani Ved Uchaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धारो दिल मेन दया को ुदारि, दया धरम का मुल ुचारि.",
-      "हे सनसारि हे नर नारि (टेक)."
+      "धर दया शिवि भूप ने राखा कपोता कोल जी ।",
+      "बाज़ को निज मास दीना ताहिं बदले तोल जी ।",
+      "दोनों लोक भई जयकारी ॥१ ॥"
     ],
     [
-      "धर दया शिवि भुप ने राखा कपोता कोल जी.",
-      "बाz को निज मास दिना ताहिन बदले तोल जी."
+      "ज्यों कपोत कपोतिनी मिल दया निज दिल में धरी ।",
+      "आपने तन को जलाके भूख अतिथी की हरी ।",
+      "दोनों भये परलोक सुखारी ॥२ ॥"
     ],
     [
-      "दोनोन लोक भै जयकारि || 1 ||."
+      "शेर का कांटा निकाला चोर बन में जायके ।",
+      "जान वांकी छोड़ दीनी शेर ने सिर नायके ।",
+      "देख विस्मय भया भूप भारी ॥३ ॥"
     ],
     [
-      "जयोन कपोत कपोतिनि मिल दया निज दिल मेन धरि.",
-      "ापने तन को जलाके भुख तिथि कि हरि."
-    ],
-    [
-      "दोनोन भये परलोक सुखारि || 2 ||."
-    ],
-    [
-      "शेर का कानता निकाला चोर बन मेन जायके.",
-      "जान वानकि चहोर दिनि शेर ने सिर नायके."
-    ],
-    [
-      "देख विसमय भया भुप भारि || 3 ||"
-    ],
-    [
-      "गर चाहो राz हरि का तान दया मन धारिये.",
-      "कहत तेऊँ परान रहने तक दया ना तारिये."
-    ],
-    [
-      "ैसि वाणी वेद ुचारि || 4 ||."
+      "अगर चाहो राज़ हरि का तां दया मन धारिये ।",
+      "कहत टेऊँ प्राण रहने तक दया ना टारिये ।",
+      "ऐसी वाणी वेद उचारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dhaaro Dil Men Dayaa Ko Udaari, Dayaa Dharm Kaa Mul Uchaari.",
-      "He Sansaari He Nar Naari (Tek)."
-    ],
-    [
       "Dhar Dayaa Shivi Bhup Ne Raakhaa Kapotaa Kol Ji.",
-      "Baaz Ko Nij Maas Dinaa Taahin Badle Tol Ji."
-    ],
-    [
-      "Donon Lok Bhai Jaykaari || 1 ||."
+      "Baaz Ko Nij Maas Dinaa Taahin Badle Tol Ji.",
+      "Donon Lok Bhai Jaykaari || 1 ||"
     ],
     [
       "Jyon Kapot Kapotini Mil Dayaa Nij Dil Men Dhari.",
-      "Aapne Tan Ko Jalaake Bhukh Atithi Ki Hari."
-    ],
-    [
-      "Donon Bhaye Parlok Sukhaari || 2 ||."
+      "Aapne Tan Ko Jalaake Bhukh Atithi Ki Hari.",
+      "Donon Bhaye Parlok Sukhaari || 2 ||"
     ],
     [
       "Sher Kaa Kaantaa Nikaalaa Chor Ban Men Jaayke.",
-      "Jaan Vaanki Chhor Dini Sher Ne Sir Naayke."
-    ],
-    [
+      "Jaan Vaanki Chhor Dini Sher Ne Sir Naayke.",
       "Dekh Vismay Bhayaa Bhup Bhaari || 3 ||"
     ],
     [
       "Agar Chaaho Raaz Hari Kaa Taan Dayaa Man Dhaariye.",
-      "Kahat Teun Praan Rahne Tak Dayaa Naa Taariye."
-    ],
-    [
-      "Aisi Vaani Ved Uchaari || 4 ||."
+      "Kahat Teun Praan Rahne Tak Dayaa Naa Taariye.",
+      "Aisi Vaani Ved Uchaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 67 || 789 ||",
+    "धारो दिल में दया को उदारी, दया धर्म का मूल उचारी",
     "Dhaaro Dil Men Dayaa Ko Udaari, Dayaa Dharm Kaa Mul Uchaari",
-    "धारो दिल मेन दया को ुदारि, दया धरम का मुल ुचारि"
+    "राग पीला भजन 66",
+    "Raag Pilaa Bhajan 66"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 789,
+  "displayOrder": 66,
+  "overallOrder": 787,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 416",
+  "updatedAt": "2026-10-26"
 }

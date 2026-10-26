@@ -1,51 +1,108 @@
 {
-  "id": "bhajan-0553",
+  "id": "bhajan-0551",
   "slug": "prabal-teri-maayaa-prabhu-prabal-teri-maayaa",
   "categoryId": "raag-khambhaat",
-  "title": "परबल तेरि माया, प्रभु परबल तेरि माया",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "प्रबल तेरी माया, प्रभू प्रबल तेरी माया",
   "romanTitle": "Prabal Teri Maayaa, Prabhu Prabal Teri Maayaa",
-  "firstLine": "Prabal Teri Maayaa, Prabhu Prabal Teri Maayaa. Main Dekh Dekh Ghabraayaa (Tek).",
+  "firstLine": "Prabal Teri Maayaa, Prabhu Prabal Teri Maayaa.",
+  "heading": "।। राग खम्भाट भजन ।। ३ ।। ५५२।।",
+  "tek": [
+    "प्रबल तेरी माया, प्रभू प्रबल तेरी माया ।",
+    "मैं देख देख घबराया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabal Teri Maayaa, Prabhu Prabal Teri Maayaa.",
+    "Main Dekh Dekh Ghabraayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नारद ऊँचा भक्त ज्ञानी, काम जीत भये अति अभिमानी ।",
+        "ताहिं कुरूप बनाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naarad Unchaa Bhakt Jnyaani, Kaam Jit Bhaye Ati Abhimaani.",
+        "Taahin Kurup Banaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अर्जुन योधा भक्त प्यारा, माया देखन का हठ धारा ।",
+        "तांको बहुत रुआया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Arjun Yodhaa Bhakt Pyaaraa, Maayaa Dekhan Kaa Hath Dhaaraa.",
+        "Taanko Bahut Ruaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्ूंगी ऋषी ने अहँता धारी, माया तिस पर करी सवारी ।",
+        "पांव से ताहिं दबाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shungi Rishi Ne Ahantaa Dhaari, Maayaa Tis Par Kari Savaari.",
+        "Paanv Se Taahin Dabaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "माया बड़े बड़े गिरि डारे, तांके डर से डरके प्यारे ।",
+        "मैं तब शरनी आया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Bare Bare Giri Daare, Taanke Dar Se Darke Pyaare.",
+        "Main Tab Sharni Aayaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ यह निश्चय कीना, माया है इक तोहि अधीना ।",
+        "राख मोहि हरिराया ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Nishchay Kinaa, Maayaa Hai Ik Tohi Adhinaa.",
+        "Raakh Mohi Hariraayaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परबल तेरि माया, प्रभु परबल तेरि माया.",
-      "मैं देख देख घबराया (टेक)."
+      "नारद ऊँचा भक्त ज्ञानी, काम जीत भये अति अभिमानी ।",
+      "ताहिं कुरूप बनाया ॥१ ॥"
     ],
     [
-      "नारद ुनचा भकत जनयानि, काम जित भये ति भिमानि.",
-      "ताहिन कुरुप बनाया.1 ||."
+      "अर्जुन योधा भक्त प्यारा, माया देखन का हठ धारा ।",
+      "तांको बहुत रुआया ॥२ ॥"
     ],
     [
-      "रजुन योधा भकत पयारा, माया देखन का हथ धारा.",
-      "तानको बहुत रुाया || 2 ||."
+      "श्ूंगी ऋषी ने अहँता धारी, माया तिस पर करी सवारी ।",
+      "पांव से ताहिं दबाया ॥३ ॥"
     ],
     [
-      "शुनगि रिशि ने हनता धारि, माया तिस पर करि सवारि.",
-      "पानव से ताहिन दबाया || 3 ||"
+      "माया बड़े बड़े गिरि डारे, तांके डर से डरके प्यारे ।",
+      "मैं तब शरनी आया ॥४ ॥"
     ],
     [
-      "माया बरे बरे गिरि दारे, तानके दर से दरके पयारे.",
-      "मैं तब शरनि ाया || 4 ||"
-    ],
-    [
-      "कहे तेऊँ यह निशचय किना, माया है िक तोहि धिना.",
-      "राख मोहि हरिराया || 5 ||"
-    ],
-    [
-      "तर"
+      "कहे टेऊँ यह निश्चय कीना, माया है इक तोहि अधीना ।",
+      "राख मोहि हरिराया ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabal Teri Maayaa, Prabhu Prabal Teri Maayaa.",
-      "Main Dekh Dekh Ghabraayaa (Tek)."
-    ],
-    [
       "Naarad Unchaa Bhakt Jnyaani, Kaam Jit Bhaye Ati Abhimaani.",
-      "Taahin Kurup Banaayaa.1 ||."
+      "Taahin Kurup Banaayaa || 1 ||"
     ],
     [
       "Arjun Yodhaa Bhakt Pyaaraa, Maayaa Dekhan Kaa Hath Dhaaraa.",
-      "Taanko Bahut Ruaayaa || 2 ||."
+      "Taanko Bahut Ruaayaa || 2 ||"
     ],
     [
       "Shungi Rishi Ne Ahantaa Dhaari, Maayaa Tis Par Kari Savaari.",
@@ -58,25 +115,23 @@
     [
       "Kahe Teun Yah Nishchay Kinaa, Maayaa Hai Ik Tohi Adhinaa.",
       "Raakh Mohi Hariraayaa || 5 ||"
-    ],
-    [
-      "Tar"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 3 || 552 ||",
+    "प्रबल तेरी माया, प्रभू प्रबल तेरी माया",
     "Prabal Teri Maayaa, Prabhu Prabal Teri Maayaa",
-    "परबल तेरि माया, प्रभु परबल तेरि माया"
+    "राग खंभात भजन 3",
+    "Raag Khambhaat Bhajan 3"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "khambhaat",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
     "bhajan"
   ],
-  "displayOrder": 553,
+  "displayOrder": 3,
+  "overallOrder": 551,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 301",
+  "updatedAt": "2026-10-26"
 }

@@ -1,57 +1,97 @@
 {
-  "id": "bhajan-0591",
+  "id": "bhajan-0589",
   "slug": "kije-santani-sang-samajh-man-meraa",
   "categoryId": "raag-saarang",
-  "title": "किजे सनतनि सनग, समझ मन मेरा",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "कीजे सन्तनि संग, समझ मन मेरा",
   "romanTitle": "Kije Santani Sang, Samajh Man Meraa",
   "firstLine": "Kije Santani Sang, Samajh Man Meraa (Tek).",
+  "heading": "।। राग सारंग भजन ।। १२ ।। ५९०।॥।",
+  "tek": [
+    "कीजे सन्तनि संग, समझ मन मेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kije Santani Sang, Samajh Man Meraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पीवो पुर कर प्रेम प्याला, आठों याम रहो मतिवाला ।",
+        "निर्भय होय निसंग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pivo Pur Kar Prem Pyaalaa, Aathon Yaam Raho Mativaalaa.",
+        "Nirbhay Hoy Nisang || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌ असत्‌ का कर वीचारा, स्वप्ने सम जानो जग सारा ।",
+        "सत्‌ है ब्रह्मा असंग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌ Asat‌ Kaa Kar Vichaaraa, Svapne Sam Jaano Jag Saaraa.",
+        "Sat‌ Hai Brahmaa Asang || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌गुरु का सत्‌ शब्द उच्चारे, कहे टेऊँ सब श्रम निवारे ।",
+        "मेटो अविद्या अंग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Kaa Sat‌ Shabd Uchchaare, Kahe Teun Sab Shram Nivaare.",
+        "Meto Avidyaa Ang || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "किजे सनतनि सनग, समझ मन मेरा (टेक)."
+      "पीवो पुर कर प्रेम प्याला, आठों याम रहो मतिवाला ।",
+      "निर्भय होय निसंग ॥१ ॥"
     ],
     [
-      "पिवो पुर कर प्रेम पयाला, ाथोन याम रहो मतिवाला.",
-      "निरभय होय निसनग || 1 ||"
+      "सत्‌ असत्‌ का कर वीचारा, स्वप्ने सम जानो जग सारा ।",
+      "सत्‌ है ब्रह्मा असंग ॥२ ॥"
     ],
     [
-      "सत‌ सत‌ का कर विचारा, सवपने सम जानो जग सारा.",
-      "सत‌ है बरहम सनग ||.2 ||."
-    ],
-    [
-      "सतगुरु का सत‌ शबद ुचचारे, कहे तेऊँ सब शरम निवारे.",
-      "मेतो विदया नग ||.3 ||"
+      "सत्‌गुरु का सत्‌ शब्द उच्चारे, कहे टेऊँ सब श्रम निवारे ।",
+      "मेटो अविद्या अंग ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Kije Santani Sang, Samajh Man Meraa (Tek)."
-    ],
     [
       "Pivo Pur Kar Prem Pyaalaa, Aathon Yaam Raho Mativaalaa.",
       "Nirbhay Hoy Nisang || 1 ||"
     ],
     [
       "Sat‌ Asat‌ Kaa Kar Vichaaraa, Svapne Sam Jaano Jag Saaraa.",
-      "Sat‌ Hai Brahma Asang ||.2 ||."
+      "Sat‌ Hai Brahmaa Asang || 2 ||"
     ],
     [
       "Sat‌Guru Kaa Sat‌ Shabd Uchchaare, Kahe Teun Sab Shram Nivaare.",
-      "Meto Avidyaa Ang ||.3 ||"
+      "Meto Avidyaa Ang || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Saarang Bhajan || 12 || 590. ||.",
+    "कीजे सन्तनि संग, समझ मन मेरा",
     "Kije Santani Sang, Samajh Man Meraa",
-    "किजे सनतनि सनग, समझ मन मेरा"
+    "राग सारंग भजन 12",
+    "Raag Saarang Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 591,
+  "displayOrder": 12,
+  "overallOrder": 589,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 321",
+  "updatedAt": "2026-10-26"
 }

@@ -1,55 +1,102 @@
 {
-  "id": "bhajan-0506",
+  "id": "bhajan-0504",
   "slug": "sair-karat-hain-saadhu-shuraa",
   "categoryId": "raag-kohiyaari",
-  "title": "सैर करत हैन साधु शुरा",
-  "romanTitle": "Sair Karat Hain Saadhu Shuraa",
-  "firstLine": "Sair Karat Hain Saadhu Shuraa, Jag Se Rah Kar Nyaaraa, Pritam Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सैर करत हैं साधू शूरा,",
+  "romanTitle": "Sair Karat Hain Saadhu Shuraa,",
+  "firstLine": "Sair Karat Hain Saadhu Shuraa,",
+  "heading": "।। राग कोह्मारी भजन ।। २५ ।। ५०५।॥",
+  "tek": [
+    "सैर करत हैं साधू शूरा,",
+    "जग से रह कर न्यारा, प्रीतम प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sair Karat Hain Saadhu Shuraa,",
+    "Jag Se Rah Kar Nyaaraa, Pritam Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सारी उम्र रहत सैलानी, करे न कहेँ चौबारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saari Umr Rahat Sailaani, Kare Na Kahen Chaubaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "खुद मस्ती में मस्त फिरे नित, ज्ञान करत गजकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Khud Masti Men Mast Phire Nit, Gyaan Karat Gajkaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आतप शीत सहारे निज पर, अवबरां करत उद्धारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aatap Shit Sahaare Nij Par, Avbaraan Karat Uddhaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सर्व देश में, करहिं प्रेम प्रचारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sarv Desh Men, Karhin Prem Prachaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सैर करत हैन साधु शुरा,",
-      "जग से रह कर नयारा, परितम पयारा (टेक)."
+      "सारी उम्र रहत सैलानी, करे न कहेँ चौबारा ॥१ ॥"
     ],
     [
-      "सारि ुमर रहत सैलानि, करे न कहेन चौबारा || 1. ||."
+      "खुद मस्ती में मस्त फिरे नित, ज्ञान करत गजकारा ॥२ ॥"
     ],
     [
-      "खुद मसति मेन मसत फिरे नित, ज्ञान करत गजकारा || 2 ||."
+      "आतप शीत सहारे निज पर, अवबरां करत उद्धारा ॥३ ॥"
     ],
     [
-      "ातप शित सहारे निज पर, वबरान करत ुदधारा || 3े ||",
-      "कहता तेऊँ सर्व देश मेन, करहिन प्रेम परचारा || 4 ||."
+      "कहता टेऊँ सर्व देश में, करहिं प्रेम प्रचारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sair Karat Hain Saadhu Shuraa,",
-      "Jag Se Rah Kar Nyaaraa, Pritam Pyaaraa (Tek)."
+      "Saari Umr Rahat Sailaani, Kare Na Kahen Chaubaaraa || 1 ||"
     ],
     [
-      "Saari Umr Rahat Sailaani, Kare N Kahen Chaubaaraa || 1. ||."
+      "Khud Masti Men Mast Phire Nit, Gyaan Karat Gajkaaraa || 2 ||"
     ],
     [
-      "Khud Masti Men Mast Phire Nit, Jnyaan Karat Gajkaaraa || 2 ||."
+      "Aatap Shit Sahaare Nij Par, Avbaraan Karat Uddhaaraa || 3 ||"
     ],
     [
-      "Aatap Shit Sahaare Nij Par, Avbaraan Karat Uddhaaraa || 3E ||",
-      "Kahtaa Teun Sarv Desh Men, Karhin Prem Prachaaraa || 4 ||."
+      "Kahtaa Teun Sarv Desh Men, Karhin Prem Prachaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 25 || 505. ||",
-    "Sair Karat Hain Saadhu Shuraa",
-    "सैर करत हैन साधु शुरा"
+    "सैर करत हैं साधू शूरा,",
+    "Sair Karat Hain Saadhu Shuraa,",
+    "राग कोहियारी भजन 25",
+    "Raag Kohiyaari Bhajan 25"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 506,
+  "displayOrder": 25,
+  "overallOrder": 504,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 281",
+  "updatedAt": "2026-10-26"
 }

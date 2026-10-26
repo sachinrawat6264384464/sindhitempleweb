@@ -2,80 +2,129 @@
   "id": "bhajan-0365",
   "slug": "divy-rup-darshan-guraan-ke-nizaare",
   "categoryId": "raag-tilang",
-  "title": "दिवय रुप दरशन, गुरान के निzारे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "दिव्य रूप दर्शन, गुरां के निज़ारे",
   "romanTitle": "Divy Rup Darshan, Guraan Ke Nizaare",
-  "firstLine": "Divy Rup Darshan, Guraan Ke Nizaare. Dekhaa Melaa Kumbh Kaa, Gangaa Ke Kinaare (Tek).",
+  "firstLine": "Divy Rup Darshan, Guraan Ke Nizaare.",
+  "heading": "।। राग तिलंग भजन ।। २ ।। ३६६।।",
+  "tek": [
+    "दिव्य रूप दर्शन, गुरां के निज़ारे ।",
+    "देखा मेला कुम्भ का, गंगा के किनारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Divy Rup Darshan, Guraan Ke Nizaare.",
+    "Dekhaa Melaa Kumbh Kaa, Gangaa Ke Kinaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "योगी वैरागी, त्यागी बेरागी ।",
+        "रागी अनुरागी, हरी हर पुकारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yogi Vairaagi, Tyaagi Beraagi.",
+        "Raagi Anuraagi, Hari Har Pukaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "संन्यासी उदासी, प्रेम प्रकाशी ।",
+        "अकाशी बनवासी, नंगे थे हज़ारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sannyaasi Udaasi, Prem Prakaashi.",
+        "Akaashi Banvaasi, Nange The Hazaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्मचारी पुजारी, आर्य अचारी ।",
+        "संसारी उदारी, करत बहु भण्डारे ॥डे ॥",
+        "ग्द्द्",
+        "भेष पन्‍्थ बहुते, जड़ चेतन पूजते ।",
+        "सन्त महन्त वकक्‍ते, अखण्ड ज्ञान उच्चारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Brahmachaari Pujaari, Aary Achaari.",
+        "Sansaari Udaari, Karat Bahu Bhandaare || De ||",
+        "Gdd",
+        "Bhesh Pan‍Tha Bahute, Jar Chetan Pujte.",
+        "Sant Mahant Vakak‍Te, Akhand Gyaan Uchchaare || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ काहीं, ऐसा मेला नाहीं ।",
+        "देखे जो जन ताहीं, तिसे भाग भारे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kaahin, Aisaa Melaa Naahin.",
+        "Dekhe Jo Jan Taahin, Tise Bhaag Bhaare || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दिवय रुप दरशन, गुरान के निzारे.",
-      "देखा मेला कुमभ का, गनगा के किनारे (टेक)."
+      "योगी वैरागी, त्यागी बेरागी ।",
+      "रागी अनुरागी, हरी हर पुकारे ॥१ ॥"
     ],
     [
-      "योगि वैरागि, तयागि बेरागि.",
-      "रागि नुरागि, हरि हर पुकारे.1 ||."
+      "संन्यासी उदासी, प्रेम प्रकाशी ।",
+      "अकाशी बनवासी, नंगे थे हज़ारे ॥२ ॥"
     ],
     [
-      "सननयासि ुदासि, प्रेम परकाशि.",
-      "काशि बनवासि, ननगे थे हzारे || 2 ||."
+      "ब्रह्मचारी पुजारी, आर्य अचारी ।",
+      "संसारी उदारी, करत बहु भण्डारे ॥डे ॥",
+      "ग्द्द्",
+      "भेष पन्‍्थ बहुते, जड़ चेतन पूजते ।",
+      "सन्त महन्त वकक्‍ते, अखण्ड ज्ञान उच्चारे ॥४ ॥"
     ],
     [
-      "बरहमचारि पुजारि, ारय चारि.",
-      "सनसारि ुदारि, करत बहु भनदारे || दे ||"
-    ],
-    [
-      "गदद",
-      "भेश पनथ बहुते, जर चेतन पुजते."
-    ],
-    [
-      "संत महनत वककते, खनद ज्ञान ुचचारे || 4 ||"
-    ],
-    [
-      "कहे तेऊँ काहिन, ैसा मेला नाहिन.",
-      "देखे जो जन ताहिन, तिसे भाग भारे || 5 ||."
+      "कहे टेऊँ काहीं, ऐसा मेला नाहीं ।",
+      "देखे जो जन ताहीं, तिसे भाग भारे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Divy Rup Darshan, Guraan Ke Nizaare.",
-      "Dekhaa Melaa Kumbh Kaa, Gangaa Ke Kinaare (Tek)."
-    ],
-    [
       "Yogi Vairaagi, Tyaagi Beraagi.",
-      "Raagi Anuraagi, Hari Har Pukaare.1 ||."
+      "Raagi Anuraagi, Hari Har Pukaare || 1 ||"
     ],
     [
       "Sannyaasi Udaasi, Prem Prakaashi.",
-      "Akaashi Banvaasi, Nange The Hazaare || 2 ||."
+      "Akaashi Banvaasi, Nange The Hazaare || 2 ||"
     ],
     [
       "Brahmachaari Pujaari, Aary Achaari.",
-      "Sansaari Udaari, Karat Bahu Bhandaare || De ||"
-    ],
-    [
+      "Sansaari Udaari, Karat Bahu Bhandaare || De ||",
       "Gdd",
-      "Bhesh Pan‍Th Bahute, Jar Chetan Pujte."
-    ],
-    [
-      "Sant Mahant Vakak‍Te, Akhand Jnyaan Uchchaare || 4 ||"
+      "Bhesh Pan‍Tha Bahute, Jar Chetan Pujte.",
+      "Sant Mahant Vakak‍Te, Akhand Gyaan Uchchaare || 4 ||"
     ],
     [
       "Kahe Teun Kaahin, Aisaa Melaa Naahin.",
-      "Dekhe Jo Jan Taahin, Tise Bhaag Bhaare || 5 ||."
+      "Dekhe Jo Jan Taahin, Tise Bhaag Bhaare || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 2 || 366 ||",
+    "दिव्य रूप दर्शन, गुरां के निज़ारे",
     "Divy Rup Darshan, Guraan Ke Nizaare",
-    "दिवय रुप दरशन, गुरान के निzारे"
+    "राग तिलंग भजन 2",
+    "Raag Tilang Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 365,
+  "displayOrder": 2,
+  "overallOrder": 365,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 216",
+  "updatedAt": "2026-10-26"
 }

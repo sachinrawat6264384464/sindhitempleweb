@@ -2,66 +2,117 @@
   "id": "bhajan-0318",
   "slug": "sant-sachchaare-hari-ke-pyaare-sabko-saach-sunaate-hain",
   "categoryId": "raag-zilaa",
-  "title": "संत सचचारे हरि के पयारे, सबको साच सुनाते हैन",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "सन्त सच्चारे हरि के प्यारे, सबको साच सुनाते हैं",
   "romanTitle": "Sant Sachchaare Hari Ke Pyaare, Sabko Saach Sunaate Hain",
-  "firstLine": "Sant Sachchaare Hari Ke Pyaare, Sabko Saach Sunaate Hain. Khud Masti Men Mast Vichrate, Govind Ke Gun Gaate Hain (Tek).",
+  "firstLine": "Sant Sachchaare Hari Ke Pyaare, Sabko Saach Sunaate Hain.",
+  "heading": "।। राग ज़िला भजन ।। ५ ।। ३१८।॥।",
+  "tek": [
+    "सन्त सच्चारे हरि के प्यारे, सबको साच सुनाते हैं ।",
+    "खुद मस्ती में मस्त विचरते, गोविन्द के गुन गाते हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sant Sachchaare Hari Ke Pyaare, Sabko Saach Sunaate Hain.",
+    "Khud Masti Men Mast Vichrate, Govind Ke Gun Gaate Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जीव ब्रह्म का करके मेला, अकड़ कला में खेले खेला ।",
+        "धीरज धारे तत्व विचारे, सबसे सार उठाते हैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jiv Brahm Kaa Karke Melaa, Akar Kalaa Men Khele Khelaa.",
+        "Dhiraj Dhaare Tatv Vichaare, Sabse Saar Uthaate Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरि अनुरागी सर्व त्यागी, पांच विषय से हो वैरागी ।",
+        "एका एकी परम विवेकी, आतम ध्यान लगाते हैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Anuraagi Sarv Tyaagi, Paanch Vishay Se Ho Vairaagi.",
+        "Ekaa Eki Param Viveki, Aatam Dhyaan Lagaate Hain || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "निशदिन सुख दुख में सम रहते, अपना मान न कबहूं चहते ।",
+        "पर उपकारी पर दुखहारी, मार्ग धर्म चलाते हैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nishdin Sukh Dukh Men Sam Rahte, Apnaa Maan Na Kabhun Chahte.",
+        "Par Upkaari Par Dukhhaari, Maarg Dharm Chalaate Hain || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आतम अमृत को नित पीवत, कहता टेऊँ जुग जुग जीवत ।",
+        "छोड़ उपाधी लाइ समाधी, सुख स्वरूप समाते हैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aatam Amrit Ko Nit Pivat, Kahtaa Teun Jug Jug Jivat.",
+        "Chhor Upaadhi Laai Samaadhi, Sukh Svarup Samaate Hain || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "संत सचचारे हरि के पयारे, सबको साच सुनाते हैन.",
-      "खुद मसति मेन मसत विचरते, गोविंद के गुन गाते हैन (टेक)."
+      "जीव ब्रह्म का करके मेला, अकड़ कला में खेले खेला ।",
+      "धीरज धारे तत्व विचारे, सबसे सार उठाते हैं ॥१ ॥"
     ],
     [
-      "जिव बरहम का करके मेला, कर कला मेन खेले खेला.",
-      "धिरज धारे ततव विचारे, सबसे सार ुथाते हैन. || 1. ||."
+      "हरि अनुरागी सर्व त्यागी, पांच विषय से हो वैरागी ।",
+      "एका एकी परम विवेकी, आतम ध्यान लगाते हैं ॥२ ॥"
     ],
     [
-      "हरि नुरागि सर्व तयागि, पानच विशय से हो वैरागि.",
-      "ेका ेकि परम विवेकि, ातम ध्यान लगाते हैन || 2 ||"
+      "निशदिन सुख दुख में सम रहते, अपना मान न कबहूं चहते ।",
+      "पर उपकारी पर दुखहारी, मार्ग धर्म चलाते हैं ॥३ ॥"
     ],
     [
-      "निशदिन सुख दुःख मेन सम रहते, पना मान न कभुन चहते.",
-      "पर ुपकारि पर दुखहारि, मारग धरम चलाते हैन || 3 ||."
-    ],
-    [
-      "ातम अमृत को नित पिवत, कहता तेऊँ जुग जुग जिवत.",
-      "चहोर ुपाधि लाि समाधि, सुख सवरुप समाते हैन || 4. ||."
+      "आतम अमृत को नित पीवत, कहता टेऊँ जुग जुग जीवत ।",
+      "छोड़ उपाधी लाइ समाधी, सुख स्वरूप समाते हैं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sant Sachchaare Hari Ke Pyaare, Sabko Saach Sunaate Hain.",
-      "Khud Masti Men Mast Vichrate, Govind Ke Gun Gaate Hain (Tek)."
-    ],
-    [
       "Jiv Brahm Kaa Karke Melaa, Akar Kalaa Men Khele Khelaa.",
-      "Dhiraj Dhaare Tatv Vichaare, Sabse Saar Uthaate Hain. || 1. ||."
+      "Dhiraj Dhaare Tatv Vichaare, Sabse Saar Uthaate Hain || 1 ||"
     ],
     [
       "Hari Anuraagi Sarv Tyaagi, Paanch Vishay Se Ho Vairaagi.",
       "Ekaa Eki Param Viveki, Aatam Dhyaan Lagaate Hain || 2 ||"
     ],
     [
-      "Nishdin Sukh Dukh Men Sam Rahte, Apnaa Maan N Kabhun Chahte.",
-      "Par Upkaari Par Dukhhaari, Maarg Dharm Chalaate Hain || 3 ||."
+      "Nishdin Sukh Dukh Men Sam Rahte, Apnaa Maan Na Kabhun Chahte.",
+      "Par Upkaari Par Dukhhaari, Maarg Dharm Chalaate Hain || 3 ||"
     ],
     [
       "Aatam Amrit Ko Nit Pivat, Kahtaa Teun Jug Jug Jivat.",
-      "Chhor Upaadhi Laai Samaadhi, Sukh Svarup Samaate Hain || 4. ||."
+      "Chhor Upaadhi Laai Samaadhi, Sukh Svarup Samaate Hain || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Zilaa Bhajan || 5 || 318. ||.",
+    "सन्त सच्चारे हरि के प्यारे, सबको साच सुनाते हैं",
     "Sant Sachchaare Hari Ke Pyaare, Sabko Saach Sunaate Hain",
-    "संत सचचारे हरि के पयारे, सबको साच सुनाते हैन"
+    "राग ज़िला भजन 5",
+    "Raag Zilaa Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 318,
+  "displayOrder": 5,
+  "overallOrder": 318,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 191",
+  "updatedAt": "2026-10-26"
 }

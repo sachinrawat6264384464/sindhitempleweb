@@ -2,47 +2,96 @@
   "id": "bhajan-0154",
   "slug": "chaliye-pyaare-mitr-hamaare-santon-ke-satsang-men",
   "categoryId": "raag-aasaa",
-  "title": "चलिये पयारे मितर हमारे, सनतोन के सत्संग मेन",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "चलिये प्यारे मित्र हमारे, सन्तों के सत्संग में",
   "romanTitle": "Chaliye Pyaare Mitr Hamaare, Santon Ke Satsang Men",
-  "firstLine": "Chaliye Pyaare Mitr Hamaare, Santon Ke Satsang Men. Duniyaa Ke Sab Khyaal Hataakar,Chitt Laao Prasang Men (Tek).",
+  "firstLine": "Chaliye Pyaare Mitr Hamaare, Santon Ke Satsang Men.",
+  "heading": "।। राग आसा भजन ।। ९२ ।। १५४॥।",
+  "tek": [
+    "चलिये प्यारे मित्र हमारे, सन्तों के सत्संग में ।",
+    "दुनिया के सब ख्याल हटाकर ,चित्त लाओ प्रसंग में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chaliye Pyaare Mitr Hamaare, Santon Ke Satsang Men.",
+    "Duniyaa Ke Sab Khyaal Hataakar,Chitt Laao Prasang Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ऊंचे स्वर से सन्त बुलावें, आओ प्रेमी कथा सुनावें ।",
+        "कथा सुनाकर प्रेम जगाकर, मेलें अपने संग में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Unche Svar Se Sant Bulaaven, Aao Premi Kathaa Sunaaven.",
+        "Kathaa Sunaakar Prem Jagaakar, Melen Apne Sang Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "समय भया सत्संग करन का, सन्त वचन मन माहिं धरन का ।",
+        "देर न कीजे हरि रस पीजे, रंग जाओ हरि रंग में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Samay Bhayaa Satsang Karan Kaa, Sant Vachan Man Maahin Dharan Kaa.",
+        "Der Na Kije Hari Ras Pije, Rang Jaao Hari Rang Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आप चलो सत्संग मंजझारे, साथ सम्बन्धी लेकर सारे ।",
+        "रिलमिल गाओ आनन्द पाओ , नाय ज्ञान की गंग में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aap Chalo Satsang Manjjhaare, Saath Sambandhi Lekar Saare.",
+        "Rilmil Gaao Aanand Paao, Naay Gyaan Ki Gang Men || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्संगति करके, ब्रह्म भाव को हृदय भरके ।",
+        "भ्रम निवारो जन्म सुधारो, अंग अंग भरे उमंग में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Satsangti Karke, Brahm Bhaav Ko Hriday Bharke.",
+        "Bhram Nivaaro Janm Sudhaaro, Ang Ang Bhare Umang Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चलिये पयारे मितर हमारे, सनतोन के सत्संग मेन.",
-      "दुनिया के सब खयाल हताकरचितत लाो परसनग मेन (टेक)."
+      "ऊंचे स्वर से सन्त बुलावें, आओ प्रेमी कथा सुनावें ।",
+      "कथा सुनाकर प्रेम जगाकर, मेलें अपने संग में ॥१ ॥"
     ],
     [
-      "ुनचे सवर से संत बुलावेन, ाो परेमि कथा सुनावेन.",
-      "कथा सुनाकर प्रेम जगाकर, मेलेन पने सनग मेन || 1 ||"
+      "समय भया सत्संग करन का, सन्त वचन मन माहिं धरन का ।",
+      "देर न कीजे हरि रस पीजे, रंग जाओ हरि रंग में ॥२ ॥"
     ],
     [
-      "समय भया सत्संग करन का, संत वचन मन माहिन धरन का.",
-      "देर न किजे हरि रस पिजे, रनग जाो हरि रनग मेन || 2 ||"
+      "आप चलो सत्संग मंजझारे, साथ सम्बन्धी लेकर सारे ।",
+      "रिलमिल गाओ आनन्द पाओ , नाय ज्ञान की गंग में ॥३ ॥"
     ],
     [
-      "ाप चलो सत्संग मनजझारे, साथ समबनधि लेकर सारे.",
-      "रिलमिल गाो आनंद पाो, नाय ज्ञान कि गनग मेन.. 3 ||"
-    ],
-    [
-      "कहे तेऊँ सतसनगति करके, बरहम भाव को हरिदय भरके.",
-      "भरम निवारो जनम सुधारो, नग नग भरे ुमनग मेन || 4 ||"
+      "कहे टेऊँ सत्संगति करके, ब्रह्म भाव को हृदय भरके ।",
+      "भ्रम निवारो जन्म सुधारो, अंग अंग भरे उमंग में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Chaliye Pyaare Mitr Hamaare, Santon Ke Satsang Men.",
-      "Duniyaa Ke Sab Khyaal Hataakar,Chitt Laao Prasang Men (Tek)."
-    ],
     [
       "Unche Svar Se Sant Bulaaven, Aao Premi Kathaa Sunaaven.",
       "Kathaa Sunaakar Prem Jagaakar, Melen Apne Sang Men || 1 ||"
     ],
     [
       "Samay Bhayaa Satsang Karan Kaa, Sant Vachan Man Maahin Dharan Kaa.",
-      "Der N Kije Hari Ras Pije, Rang Jaao Hari Rang Men || 2 ||"
+      "Der Na Kije Hari Ras Pije, Rang Jaao Hari Rang Men || 2 ||"
     ],
     [
       "Aap Chalo Satsang Manjjhaare, Saath Sambandhi Lekar Saare.",
-      "Rilmil Gaao Aanand Paao, Naay Jnyaan Ki Gang Men.. 3 ||"
+      "Rilmil Gaao Aanand Paao, Naay Gyaan Ki Gang Men || 3 ||"
     ],
     [
       "Kahe Teun Satsangti Karke, Brahm Bhaav Ko Hriday Bharke.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 92 || 154 ||.",
+    "चलिये प्यारे मित्र हमारे, सन्तों के सत्संग में",
     "Chaliye Pyaare Mitr Hamaare, Santon Ke Satsang Men",
-    "चलिये पयारे मितर हमारे, सनतोन के सत्संग मेन"
+    "राग आसा भजन 92",
+    "Raag Aasaa Bhajan 92"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 154,
+  "displayOrder": 92,
+  "overallOrder": 154,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 106",
+  "updatedAt": "2026-10-26"
 }

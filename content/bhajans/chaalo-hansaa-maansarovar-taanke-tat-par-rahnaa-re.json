@@ -1,49 +1,100 @@
 {
-  "id": "bhajan-0600",
+  "id": "bhajan-0598",
   "slug": "chaalo-hansaa-maansarovar-taanke-tat-par-rahnaa-re",
   "categoryId": "raag-kaamol",
-  "title": "चालो हनसा मानसरोवर, तानके तत पर रहना रे",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "चालो हंसा मानसरोवर, तांके तट पर रहना रे",
   "romanTitle": "Chaalo Hansaa Maansarovar, Taanke Tat Par Rahnaa Re",
   "firstLine": "Chaalo Hansaa Maansarovar, Taanke Tat Par Rahnaa Re (Tek).",
+  "heading": "।। राग कामोल भजन ।। १ ।। ५९९।॥।",
+  "tek": [
+    "चालो हंसा मानसरोवर, तांके तट पर रहना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chaalo Hansaa Maansarovar, Taanke Tat Par Rahnaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अपनी चाली नित ही चलिये, बगों संग ना बहना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Apni Chaali Nit Hi Chaliye, Bagon Sang Naa Bahnaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मुख से मीठी बानी बोलो, कटू वचन मत कहना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mukh Se Mithi Baani Bolo, Katu Vachan Mat Kahnaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धर्म तुम्हारा मोती खाना, मछली को मत गहना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dharm Tumhaaraa Moti Khaanaa, Machhli Ko Mat Gahnaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ दूध पियो नित, पानी को मत छुहना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Dudh Piyo Nit, Paani Ko Mat Chhuhnaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चालो हनसा मानसरोवर, तानके तत पर रहना रे (टेक)."
+      "अपनी चाली नित ही चलिये, बगों संग ना बहना रे ॥१ ॥"
     ],
     [
-      "पनि चालि नित हि चलिये, बगोन सनग ना बहना रे.1 ||",
-      "मुख से मिथि बानी बोलो, कतु वचन मत कहना रे || 2 ||."
+      "मुख से मीठी बानी बोलो, कटू वचन मत कहना रे ॥२ ॥"
     ],
     [
-      "धरम तुमहारा मोति खाना, मचहलि को मत गहना रे.3 ||.",
-      "कहता तेऊँ दुध पियो नित, पानि को मत चहुहना रे || 4 ||."
+      "धर्म तुम्हारा मोती खाना, मछली को मत गहना रे ॥३ ॥"
+    ],
+    [
+      "कहता टेऊँ दूध पियो नित, पानी को मत छुहना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Chaalo Hansaa Maansarovar, Taanke Tat Par Rahnaa Re (Tek)."
+      "Apni Chaali Nit Hi Chaliye, Bagon Sang Naa Bahnaa Re || 1 ||"
     ],
     [
-      "Apni Chaali Nit Hi Chaliye, Bagon Sang Naa Bahnaa Re.1 ||",
-      "Mukh Se Mithi Baani Bolo, Katu Vachan Mat Kahnaa Re || 2 ||."
+      "Mukh Se Mithi Baani Bolo, Katu Vachan Mat Kahnaa Re || 2 ||"
     ],
     [
-      "Dharm Tumhaaraa Moti Khaanaa, Machhli Ko Mat Gahnaa Re.3 ||.",
-      "Kahtaa Teun Dudh Piyo Nit, Paani Ko Mat Chhuhnaa Re || 4 ||."
+      "Dharm Tumhaaraa Moti Khaanaa, Machhli Ko Mat Gahnaa Re || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Dudh Piyo Nit, Paani Ko Mat Chhuhnaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kaamol Bhajan || 1 || 599. ||.",
+    "चालो हंसा मानसरोवर, तांके तट पर रहना रे",
     "Chaalo Hansaa Maansarovar, Taanke Tat Par Rahnaa Re",
-    "चालो हनसा मानसरोवर, तानके तत पर रहना रे"
+    "राग कामोल भजन 1",
+    "Raag Kaamol Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kaamol"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
+    "bhajan"
   ],
-  "displayOrder": 600,
+  "displayOrder": 1,
+  "overallOrder": 598,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 324",
+  "updatedAt": "2026-10-26"
 }

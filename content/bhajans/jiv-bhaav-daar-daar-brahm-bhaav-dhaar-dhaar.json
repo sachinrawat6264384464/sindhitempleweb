@@ -1,105 +1,150 @@
 {
-  "id": "bhajan-0589",
+  "id": "bhajan-0587",
   "slug": "jiv-bhaav-daar-daar-brahm-bhaav-dhaar-dhaar",
   "categoryId": "raag-saarang",
-  "title": "जिव भाव दार दार, बरहम भाव धार धार",
-  "romanTitle": "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar",
-  "firstLine": "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar, Bhram Ko Bhulaanaa (Tek).",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "जीव भाव डार डार, ब्रह्म भाव धार धार,",
+  "romanTitle": "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar,",
+  "firstLine": "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar,",
+  "heading": "।। राग सारंग भजन ।। १० ।। ५८८।॥।",
+  "tek": [
+    "जीव भाव डार डार, ब्रह्म भाव धार धार,",
+    "भ्रम को भुलाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar,",
+    "Bhram Ko Bhulaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "परम पवीत्र निर्मल चेतन आत्म रूप न्यारा,",
+        "पुरुष निरज्जन सर्व व्यापी साक्षी रूप तुम्हारा ।",
+        "पांचों नहिं कोष कोष, राग नहीं रोष रोष,",
+        "अहंब्रह्मा गाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Param Pavitr Nirmal Chetan Aatm Rup Nyaaraa,",
+        "Purush Nirajjan Sarv Vyaapi Saakshi Rup Tumhaaraa.",
+        "Paanchon Nahin Kosh Kosh, Raag Nahin Rosh Rosh,",
+        "Ahambrahmaa Gaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया से मिल इंश्वर भासे अविद्या से मिल जीवा,",
+        "दोनों की जब मिटे उपाधी जीव रहे ना शीवा ।",
+        "चेतन इक सार सार, सो तूं निर्धार धार,",
+        "भेद को मिटाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Se Mil Inshvar Bhaase Avidyaa Se Mil Jivaa,",
+        "Donon Ki Jab Mite Upaadhi Jiv Rahe Naa Shivaa.",
+        "Chetan Ik Saar Saar, So Tu Nirdhaar Dhaar,",
+        "Bhed Ko Mitaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शेर बहादुर होके प्यारा मन में क्यों तुम डरता,",
+        "भेद भ्रम में भूल अयाने अजा संग क्यों मरता ।",
+        "शर्म नहीं तोहि तोहि, बैठा निज खोहि खोहि,",
+        "होड़के अजाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sher Bahaadur Hoke Pyaaraa Man Men Kyon Tum Dartaa,",
+        "Bhed Bhram Men Bhul Ayaane Ajaa Sang Kyon Martaa.",
+        "Sharm Nahin Tohi Tohi, Baithaa Nij Khohi Khohi,",
+        "Horke Ajaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिमि कंचन भूषण सूत बसन इक होई,",
+        "लहर सिन्धु ज्यों जीव ब्रह्म में जानो भेद न कोई ।",
+        "दूर करो खेद खेद, पावो निज भेद भेद,",
+        "गुरु से ले ज्ञाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jimi Kanchan Bhushan Sut Basan Ik Hoi,",
+        "Lahar Sindhu Jyon Jiv Brahm Men Jaano Bhed Na Koi.",
+        "Dur Karo Khed Khed, Paavo Nij Bhed Bhed,",
+        "Guru Se Le Jnyaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिव भाव दार दार, बरहम भाव धार धार,",
-      "भरम को भुलाना (टेक)."
+      "परम पवीत्र निर्मल चेतन आत्म रूप न्यारा,",
+      "पुरुष निरज्जन सर्व व्यापी साक्षी रूप तुम्हारा ।",
+      "पांचों नहिं कोष कोष, राग नहीं रोष रोष,",
+      "अहंब्रह्मा गाना ॥१ ॥"
     ],
     [
-      "परम पवित्र निर्मल चेतन ातम रुप नयारा,",
-      "पुरुश निरजजन सर्व वयापि साक्षी रुप तुमहारा."
+      "माया से मिल इंश्वर भासे अविद्या से मिल जीवा,",
+      "दोनों की जब मिटे उपाधी जीव रहे ना शीवा ।",
+      "चेतन इक सार सार, सो तूं निर्धार धार,",
+      "भेद को मिटाना ॥२ ॥"
     ],
     [
-      "पानचोन नहिन कोश कोश, राग नहिन रोश रोश,",
-      "हमबरहमा गाना || 1 ||."
+      "शेर बहादुर होके प्यारा मन में क्यों तुम डरता,",
+      "भेद भ्रम में भूल अयाने अजा संग क्यों मरता ।",
+      "शर्म नहीं तोहि तोहि, बैठा निज खोहि खोहि,",
+      "होड़के अजाना ॥३ ॥"
     ],
     [
-      "माया से मिल िनशवर भासे विदया से मिल जिवा,",
-      "दोनोन कि जब मिते ुपाधि जिव रहे ना शिवा."
-    ],
-    [
-      "चेतन िक सार सार, सो तु निरधार धार,",
-      "भेद को मिताना || 2 ||."
-    ],
-    [
-      "शेर बहादुर होके पयारा मन मेन कयोन तुम दरता,",
-      "भेद भरम मेन भुल याने जा सनग कयोन मरता."
-    ],
-    [
-      "शरम नहिन तोहि तोहि, बैथा निज खोहि खोहि,",
-      "होरके जाना ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ जिमि कनचन भुशन सुत बसन िक होि,",
-      "लहर सिनधु जयोन जिव बरहम मेन जानो भेद न कोि."
-    ],
-    [
-      "दुर करो खेद खेद, पावो निज भेद भेद,",
-      "गुरु से ले जनयाना || 4 ||"
-    ],
-    [
-      "गन"
+      "कहे टेऊँ जिमि कंचन भूषण सूत बसन इक होई,",
+      "लहर सिन्धु ज्यों जीव ब्रह्म में जानो भेद न कोई ।",
+      "दूर करो खेद खेद, पावो निज भेद भेद,",
+      "गुरु से ले ज्ञाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar,",
-      "Bhram Ko Bhulaanaa (Tek)."
-    ],
-    [
       "Param Pavitr Nirmal Chetan Aatm Rup Nyaaraa,",
-      "Purush Nirajjan Sarv Vyaapi Saakshi Rup Tumhaaraa."
-    ],
-    [
+      "Purush Nirajjan Sarv Vyaapi Saakshi Rup Tumhaaraa.",
       "Paanchon Nahin Kosh Kosh, Raag Nahin Rosh Rosh,",
-      "Ahambrahmaa Gaanaa || 1 ||."
+      "Ahambrahmaa Gaanaa || 1 ||"
     ],
     [
       "Maayaa Se Mil Inshvar Bhaase Avidyaa Se Mil Jivaa,",
-      "Donon Ki Jab Mite Upaadhi Jiv Rahe Naa Shivaa."
-    ],
-    [
+      "Donon Ki Jab Mite Upaadhi Jiv Rahe Naa Shivaa.",
       "Chetan Ik Saar Saar, So Tu Nirdhaar Dhaar,",
-      "Bhed Ko Mitaanaa || 2 ||."
+      "Bhed Ko Mitaanaa || 2 ||"
     ],
     [
       "Sher Bahaadur Hoke Pyaaraa Man Men Kyon Tum Dartaa,",
-      "Bhed Bhram Men Bhul Ayaane Ajaa Sang Kyon Martaa."
-    ],
-    [
+      "Bhed Bhram Men Bhul Ayaane Ajaa Sang Kyon Martaa.",
       "Sharm Nahin Tohi Tohi, Baithaa Nij Khohi Khohi,",
-      "Horke Ajaanaa ||.3 ||."
+      "Horke Ajaanaa || 3 ||"
     ],
     [
       "Kahe Teun Jimi Kanchan Bhushan Sut Basan Ik Hoi,",
-      "Lahar Sindhu Jyon Jiv Brahm Men Jaano Bhed N Koi."
-    ],
-    [
+      "Lahar Sindhu Jyon Jiv Brahm Men Jaano Bhed Na Koi.",
       "Dur Karo Khed Khed, Paavo Nij Bhed Bhed,",
       "Guru Se Le Jnyaanaa || 4 ||"
-    ],
-    [
-      "Gan"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Saarang Bhajan || 10 || 588. ||.",
-    "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar",
-    "जिव भाव दार दार, बरहम भाव धार धार"
+    "जीव भाव डार डार, ब्रह्म भाव धार धार,",
+    "Jiv Bhaav Daar Daar, Brahm Bhaav Dhaar Dhaar,",
+    "राग सारंग भजन 10",
+    "Raag Saarang Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 589,
+  "displayOrder": 10,
+  "overallOrder": 587,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 319",
+  "updatedAt": "2026-10-26"
 }

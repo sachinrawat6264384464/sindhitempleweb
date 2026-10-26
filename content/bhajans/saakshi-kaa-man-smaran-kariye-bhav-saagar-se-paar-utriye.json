@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0908",
+  "id": "bhajan-0906",
   "slug": "saakshi-kaa-man-smaran-kariye-bhav-saagar-se-paar-utriye",
   "categoryId": "raag-jog",
-  "title": "साक्षी का मन समरन करिये, भव सागर से पार ुतरिये",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "साक्षी का मन स्मरण करिये , भव सागर से पार उतरिये",
   "romanTitle": "Saakshi Kaa Man Smaran Kariye, Bhav Saagar Se Paar Utriye",
   "firstLine": "Saakshi Kaa Man Smaran Kariye, Bhav Saagar Se Paar Utriye (Tek).",
+  "heading": "।। राग जोग भजन ।। ७८ ।। ९०८ ॥।",
+  "tek": [
+    "साक्षी का मन स्मरण करिये , भव सागर से पार उतरिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saakshi Kaa Man Smaran Kariye, Bhav Saagar Se Paar Utriye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साक्षी का है सब घट वासा, अन्तर बाहर करत प्रकाशा ।",
+        "ध्यान उसी का हृदय धरिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saakshi Kaa Hai Sab Ghat Vaasaa, Antar Baahar Karat Prakaashaa.",
+        "Dhyaan Usi Kaa Hriday Dhariye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साक्षी चेतन ब्रह्म स्वरूपा, सोई तेरा है निज रूपा ।",
+        "कर विश्वासा ना कब डरिये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saakshi Chetan Brahm Svarupaa, Soi Teraa Hai Nij Rupaa.",
+        "Kar Vishvaasaa Naa Kab Dariye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साक्षी का ले गुरु से ज्ञाना, तांको जानो तज अभिमाना ।",
+        "जिसके जाने फिर ना मरिये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saakshi Kaa Le Guru Se Jnyaanaa, Taanko Jaano Taj Abhimaanaa.",
+        "Jiske Jaane Phir Naa Mariye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सब देवों का है सो देवा, कहे टेऊँ कर उसकी सेवा ।",
+        "जन्म मरण के दुख को हरिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sab Devon Kaa Hai So Devaa, Kahe Teun Kar Uski Sevaa.",
+        "Janm Maran Ke Dukh Ko Hariye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साक्षी का मन समरन करिये, भव सागर से पार ुतरिये (टेक)."
+      "साक्षी का है सब घट वासा, अन्तर बाहर करत प्रकाशा ।",
+      "ध्यान उसी का हृदय धरिये ॥१ ॥"
     ],
     [
-      "साक्षी का है सब घत वासा, नतर बाहर करत परकाशा.",
-      "ध्यान ुसि का हरिदय धरिये || 1 ||"
+      "साक्षी चेतन ब्रह्म स्वरूपा, सोई तेरा है निज रूपा ।",
+      "कर विश्वासा ना कब डरिये ॥२ ॥"
     ],
     [
-      "साक्षी चेतन बरहम सवरुपा, सोि तेरा है निज रुपा.",
-      "कर विशवासा ना कब दरिये ||.2 ||"
+      "साक्षी का ले गुरु से ज्ञाना, तांको जानो तज अभिमाना ।",
+      "जिसके जाने फिर ना मरिये ॥३ ॥"
     ],
     [
-      "साक्षी का ले गुरु से जनयाना, तानको जानो तज भिमाना.",
-      "जिसके जाने फिर ना मरिये ||.3 ||"
-    ],
-    [
-      "सब देवोन का है सो देवा, कहे तेऊँ कर ुसकि सेवा.",
-      "जनम मरन के दुःख को हरिये || 4. ||."
+      "सब देवों का है सो देवा, कहे टेऊँ कर उसकी सेवा ।",
+      "जन्म मरण के दुख को हरिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Saakshi Kaa Man Smaran Kariye, Bhav Saagar Se Paar Utriye (Tek)."
-    ],
     [
       "Saakshi Kaa Hai Sab Ghat Vaasaa, Antar Baahar Karat Prakaashaa.",
       "Dhyaan Usi Kaa Hriday Dhariye || 1 ||"
     ],
     [
       "Saakshi Chetan Brahm Svarupaa, Soi Teraa Hai Nij Rupaa.",
-      "Kar Vishvaasaa Naa Kab Dariye ||.2 ||"
+      "Kar Vishvaasaa Naa Kab Dariye || 2 ||"
     ],
     [
       "Saakshi Kaa Le Guru Se Jnyaanaa, Taanko Jaano Taj Abhimaanaa.",
-      "Jiske Jaane Phir Naa Mariye ||.3 ||"
+      "Jiske Jaane Phir Naa Mariye || 3 ||"
     ],
     [
       "Sab Devon Kaa Hai So Devaa, Kahe Teun Kar Uski Sevaa.",
-      "Janm Maran Ke Dukh Ko Hariye || 4. ||."
+      "Janm Maran Ke Dukh Ko Hariye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 78 || 908 ||.",
+    "साक्षी का मन स्मरण करिये , भव सागर से पार उतरिये",
     "Saakshi Kaa Man Smaran Kariye, Bhav Saagar Se Paar Utriye",
-    "साक्षी का मन समरन करिये, भव सागर से पार ुतरिये"
+    "राग जोग भजन 78",
+    "Raag Jog Bhajan 78"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 908,
+  "displayOrder": 78,
+  "overallOrder": 906,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 477",
+  "updatedAt": "2026-10-26"
 }

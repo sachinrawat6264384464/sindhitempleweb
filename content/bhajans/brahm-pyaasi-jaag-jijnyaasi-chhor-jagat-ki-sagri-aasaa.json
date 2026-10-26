@@ -2,84 +2,120 @@
   "id": "bhajan-0339",
   "slug": "brahm-pyaasi-jaag-jijnyaasi-chhor-jagat-ki-sagri-aasaa",
   "categoryId": "raag-zilaa",
-  "title": "बरहम पयासि जाग जिजनयासि, चहोर जगत कि सगरि ासा",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "ब्रह्म प्यासी जाग जिज्ञासी , छोड़ जगत की सगरी आसा",
   "romanTitle": "Brahm Pyaasi Jaag Jijnyaasi, Chhor Jagat Ki Sagri Aasaa",
   "firstLine": "Brahm Pyaasi Jaag Jijnyaasi, Chhor Jagat Ki Sagri Aasaa (Tek).",
+  "heading": "।। राग ज़िला भजन ॥।। २६ ।। ३३९॥।",
+  "tek": [
+    "ब्रह्म प्यासी जाग जिज्ञासी , छोड़ जगत की सगरी आसा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Brahm Pyaasi Jaag Jijnyaasi, Chhor Jagat Ki Sagri Aasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वपने सम जग मिधथ्या जानो, मृग तृष्णा के जल सम मानो ।",
+        "मृगा धावे बून्द न पावे,",
+        "भटकत भटकत दे निज श्वासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Svapne Sam Jag Midhathyaa Jaano, Mrig Trishnaa Ke Jal Sam Maano.",
+        "Mrigaa Dhaave Bund Na Paave,",
+        "Bhatkat Bhatkat De Nij Shvaasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मेघ मान ज्यों चातक धावे, धूम्र में निज नैन गंवावे ।",
+        "गुज्ज को आगी लखि हो रागी,",
+        "कम्पत कपि त्यों जगत विलासा ॥? ॥२ ॥",
+        "जादूगर की मिथ्या माया, देखन मात्र है खग छाया ।",
+        "ज्यों नट केला नाटक खेला,",
+        "जानो वैसे जगत तमासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Megh Maan Jyon Chaatak Dhaave, Dhumr Men Nij Nain Ganvaave.",
+        "Gujj Ko Aagi Lakhi Ho Raagi,",
+        "Kampat Kapi Tyon Jagat Vilaasaa || ? || 2 ||",
+        "Jaadugar Ki Mithyaa Maayaa, Dekhan Maatr Hai Khag Chhaayaa.",
+        "Jyon Nat Kelaa Naatak Khelaa,",
+        "Jaano Vaise Jagat Tamaasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "छोड़ अनात्म कलना सारी, स्मरो आत्म ब्रह्म उदारी ।",
+        "कहता टेऊँ जिसके स्मरे,",
+        "मन में होवे ज्ञान प्रकासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Chhor Anaatm Kalnaa Saari, Smaro Aatm Brahm Udaari.",
+        "Kahtaa Teun Jiske Smare,",
+        "Man Men Hove Gyaan Prakaasaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बरहम पयासि जाग जिजनयासि, चहोर जगत कि सगरि ासा (टेक)."
+      "स्वपने सम जग मिधथ्या जानो, मृग तृष्णा के जल सम मानो ।",
+      "मृगा धावे बून्द न पावे,",
+      "भटकत भटकत दे निज श्वासा ॥१ ॥"
     ],
     [
-      "सवपने सम जग मिधथया जानो, मरिग तरिशना के जल सम मानो.",
-      "मरिगा धावे बुनद न पावे,"
+      "मेघ मान ज्यों चातक धावे, धूम्र में निज नैन गंवावे ।",
+      "गुज्ज को आगी लखि हो रागी,",
+      "कम्पत कपि त्यों जगत विलासा ॥? ॥२ ॥",
+      "जादूगर की मिथ्या माया, देखन मात्र है खग छाया ।",
+      "ज्यों नट केला नाटक खेला,",
+      "जानो वैसे जगत तमासा ॥३ ॥"
     ],
     [
-      "भतकत भतकत दे निज शवासा.1 ||",
-      "मेघ मान जयोन चातक धावे, धुमर मेन निज नैन गनवावे."
-    ],
-    [
-      "गुजज को ागि लखि हो रागि,",
-      "कमपत कपि तयोन जगत विलासा ||?2 ||"
-    ],
-    [
-      "जादुगर कि मिथया माया, देखन मातर है खग चहाया.",
-      "जयोन नत केला नातक खेला,"
-    ],
-    [
-      "जानो वैसे जगत तमासा || 3 ||"
-    ],
-    [
-      "चहोर नातम कलना सारि, समरो ातम बरहम ुदारि.",
-      "कहता तेऊँ जिसके समरे,"
-    ],
-    [
-      "मन मेन होवे ज्ञान परकासा || 4. ||."
+      "छोड़ अनात्म कलना सारी, स्मरो आत्म ब्रह्म उदारी ।",
+      "कहता टेऊँ जिसके स्मरे,",
+      "मन में होवे ज्ञान प्रकासा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Brahm Pyaasi Jaag Jijnyaasi, Chhor Jagat Ki Sagri Aasaa (Tek)."
-    ],
-    [
       "Svapne Sam Jag Midhathyaa Jaano, Mrig Trishnaa Ke Jal Sam Maano.",
-      "Mrigaa Dhaave Bund N Paave,"
+      "Mrigaa Dhaave Bund Na Paave,",
+      "Bhatkat Bhatkat De Nij Shvaasaa || 1 ||"
     ],
     [
-      "Bhatkat Bhatkat De Nij Shvaasaa.1 ||",
-      "Megh Maan Jyon Chaatak Dhaave, Dhumr Men Nij Nain Ganvaave."
-    ],
-    [
+      "Megh Maan Jyon Chaatak Dhaave, Dhumr Men Nij Nain Ganvaave.",
       "Gujj Ko Aagi Lakhi Ho Raagi,",
-      "Kampat Kapi Tyon Jagat Vilaasaa ||?2 ||"
-    ],
-    [
+      "Kampat Kapi Tyon Jagat Vilaasaa || ? || 2 ||",
       "Jaadugar Ki Mithyaa Maayaa, Dekhan Maatr Hai Khag Chhaayaa.",
-      "Jyon Nat Kelaa Naatak Khelaa,"
-    ],
-    [
+      "Jyon Nat Kelaa Naatak Khelaa,",
       "Jaano Vaise Jagat Tamaasaa || 3 ||"
     ],
     [
       "Chhor Anaatm Kalnaa Saari, Smaro Aatm Brahm Udaari.",
-      "Kahtaa Teun Jiske Smare,"
-    ],
-    [
-      "Man Men Hove Jnyaan Prakaasaa || 4. ||."
+      "Kahtaa Teun Jiske Smare,",
+      "Man Men Hove Gyaan Prakaasaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || || 26 || 339 ||.",
+    "ब्रह्म प्यासी जाग जिज्ञासी , छोड़ जगत की सगरी आसा",
     "Brahm Pyaasi Jaag Jijnyaasi, Chhor Jagat Ki Sagri Aasaa",
-    "बरहम पयासि जाग जिजनयासि, चहोर जगत कि सगरि ासा"
+    "राग ज़िला भजन 26",
+    "Raag Zilaa Bhajan 26"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 339,
+  "displayOrder": 26,
+  "overallOrder": 339,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 202",
+  "updatedAt": "2026-10-26"
 }

@@ -2,72 +2,121 @@
   "id": "bhajan-0323",
   "slug": "balvaan-bano-buddhimaan-bano",
   "categoryId": "raag-zilaa",
-  "title": "बलवान बनो बुदधिमान बनो",
-  "romanTitle": "Balvaan Bano Buddhimaan Bano",
-  "firstLine": "Balvaan Bano Buddhimaan Bano, Man Dushman Ko Dal Sahit Hano (Tek).",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "बलवान बनो बुद्धिमान बनो,",
+  "romanTitle": "Balvaan Bano Buddhimaan Bano,",
+  "firstLine": "Balvaan Bano Buddhimaan Bano,",
+  "heading": "।। राग ज़िला भजन ।। १० ।। ३२३।।",
+  "tek": [
+    "बलवान बनो बुद्धिमान बनो,",
+    "मन दुश्मन को दल सहित हनो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Balvaan Bano Buddhimaan Bano,",
+    "Man Dushman Ko Dal Sahit Hano (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अकाम कर्म की कुश्ती खेलो, धनुष ध्यान का कर में मेलो ।",
+        "तीर शब्द का मारे मन को, नाश करो तुम धीर जनो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Akaam Karm Ki Kushti Khelo, Dhanush Dhyaan Kaa Kar Men Melo.",
+        "Tir Shabd Kaa Maare Man Ko, Naash Karo Tum Dhir Jano || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "त्द",
+        "त्याग तमंचा तैयार करो तुम, बिरह बन्दूक बारूद भरो दम ।",
+        "ढाल विरागी ज्ञान तेग कर, अहँ ब्रह्मा आवाज़ भनो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Td",
+        "Tyaag Tamanchaa Taiyaar Karo Tum, Birah Banduk Baarud Bharo Dam.",
+        "Dhaal Viraagi Gyaan Teg Kar, Ahan Brahmaa Aavaaz Bhano || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अर्जुन सुत ज्यों रण में चलकर , भ्रम व्यूह को भेदो बलकर ।",
+        "बहुत जन्म का मन है दुश्मन, मारो क्षमा ताहिं खनो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Arjun Sut Jyon Ran Men Chalkar, Bhram Vyuh Ko Bhedo Balkar.",
+        "Bahut Janm Kaa Man Hai Dushman, Maaro Kshamaa Taahin Khano || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हनूमान ज्यों निज बल भूला, याद दिलाता हैँ तुझ मूला ।",
+        "कहे टेऊँ तुम ब्रह्म स्वरूपा, गीता का यह ज्ञान गुनो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hanumaan Jyon Nij Bal Bhulaa, Yaad Dilaataa Hain Tujh Mulaa.",
+        "Kahe Teun Tum Brahm Svarupaa, Gitaa Kaa Yah Gyaan Guno || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बलवान बनो बुदधिमान बनो,",
-      "मन दुशमन को दल सहित हनो (टेक)."
+      "अकाम कर्म की कुश्ती खेलो, धनुष ध्यान का कर में मेलो ।",
+      "तीर शब्द का मारे मन को, नाश करो तुम धीर जनो ॥१ ॥"
     ],
     [
-      "काम करम कि कुशति खेलो, धनुश ध्यान का कर मेन मेलो.",
-      "तिर शबद का मारे मन को, नाश करो तुम धिर जनो || 1 ||."
+      "त्द",
+      "त्याग तमंचा तैयार करो तुम, बिरह बन्दूक बारूद भरो दम ।",
+      "ढाल विरागी ज्ञान तेग कर, अहँ ब्रह्मा आवाज़ भनो ॥२ ॥"
     ],
     [
-      "तद",
-      "तयाग तमनचा तैयार करो तुम, बिरह बनदुक बारुद भरो दम."
+      "अर्जुन सुत ज्यों रण में चलकर , भ्रम व्यूह को भेदो बलकर ।",
+      "बहुत जन्म का मन है दुश्मन, मारो क्षमा ताहिं खनो ॥३ ॥"
     ],
     [
-      "धाल विरागि ज्ञान तेग कर, हन बरहम ावाz भनो || 2 ||."
-    ],
-    [
-      "रजुन सुत जयोन रन मेन चलकर, भरम वयुह को भेदो बलकर.",
-      "बहुत जनम का मन है दुशमन, मारो कशमा ताहिन खनो || 3 ||."
-    ],
-    [
-      "हनुमान जयोन निज बल भुला, याद दिलाता हैन तुझ मुला.",
-      "कहे तेऊँ तुम बरहम सवरुपा, गिता का यह ज्ञान गुनो || 4 ||."
+      "हनूमान ज्यों निज बल भूला, याद दिलाता हैँ तुझ मूला ।",
+      "कहे टेऊँ तुम ब्रह्म स्वरूपा, गीता का यह ज्ञान गुनो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Balvaan Bano Buddhimaan Bano,",
-      "Man Dushman Ko Dal Sahit Hano (Tek)."
-    ],
-    [
       "Akaam Karm Ki Kushti Khelo, Dhanush Dhyaan Kaa Kar Men Melo.",
-      "Tir Shabd Kaa Maare Man Ko, Naash Karo Tum Dhir Jano || 1 ||."
+      "Tir Shabd Kaa Maare Man Ko, Naash Karo Tum Dhir Jano || 1 ||"
     ],
     [
       "Td",
-      "Tyaag Tamanchaa Taiyaar Karo Tum, Birah Banduk Baarud Bharo Dam."
-    ],
-    [
-      "Dhaal Viraagi Jnyaan Teg Kar, Ahan Brahma Aavaaz Bhano || 2 ||."
+      "Tyaag Tamanchaa Taiyaar Karo Tum, Birah Banduk Baarud Bharo Dam.",
+      "Dhaal Viraagi Gyaan Teg Kar, Ahan Brahmaa Aavaaz Bhano || 2 ||"
     ],
     [
       "Arjun Sut Jyon Ran Men Chalkar, Bhram Vyuh Ko Bhedo Balkar.",
-      "Bahut Janm Kaa Man Hai Dushman, Maaro Kshamaa Taahin Khano || 3 ||."
+      "Bahut Janm Kaa Man Hai Dushman, Maaro Kshamaa Taahin Khano || 3 ||"
     ],
     [
       "Hanumaan Jyon Nij Bal Bhulaa, Yaad Dilaataa Hain Tujh Mulaa.",
-      "Kahe Teun Tum Brahm Svarupaa, Gitaa Kaa Yah Jnyaan Guno || 4 ||."
+      "Kahe Teun Tum Brahm Svarupaa, Gitaa Kaa Yah Gyaan Guno || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 10 || 323 ||",
-    "Balvaan Bano Buddhimaan Bano",
-    "बलवान बनो बुदधिमान बनो"
+    "बलवान बनो बुद्धिमान बनो,",
+    "Balvaan Bano Buddhimaan Bano,",
+    "राग ज़िला भजन 10",
+    "Raag Zilaa Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 323,
+  "displayOrder": 10,
+  "overallOrder": 323,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 193",
+  "updatedAt": "2026-10-26"
 }

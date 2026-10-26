@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0884",
+  "slug": "ghamandi-maan-na-kar-man-men",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "घमण्डी मान न कर मन में",
+  "romanTitle": "Ghamandi Maan Na Kar Man Men",
+  "firstLine": "Ghamandi Maan Na Kar Man Men (Tek).",
+  "heading": "।। राग जोग भजन ।। ५६ ।। ८८६।॥।",
+  "tek": [
+    "घमण्डी मान न कर मन में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ghamandi Maan Na Kar Man Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "लोकों से निज महिमा सुन कर, मूर्ख फूल न जाना ।",
+        "फेर करेंगे निन्‍्दा तेरी, लोक वही क्षन में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Lokon Se Nij Mahimaa Sun Kar, Murkh Phul Na Jaanaa.",
+        "Pher Karenge Nin‍Daa Teri, Lok Vahi Kshan Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "महिमा मन को हर्षित करके, बेमुख हरि से करती ।",
+        "निन्‍दा सर्व पाप को धोके, भेजत देवन में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mahimaa Man Ko Harshit Karke, Bemukh Hari Se Karti.",
+        "Nin‍Daa Sarv Paap Ko Dhoke, Bhejat Devan Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "महिमा तेरी होवे जबहीं, तब निज अवगुन देखो ।",
+        "ऐसे करने से तव लागे, चित्त हरि सुमरन में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mahimaa Teri Hove Jabhin, Tab Nij Avgun Dekho.",
+        "Aise Karne Se Tav Laage, Chitt Hari Sumran Men || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "लोक निन्‍्दा स्तुति के ऊपर, डारो भर भर धूली ।",
+        "कहे टेऊँ यह गुरु की शिक्षा, धारो मन तन में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Lok Nin‍Daa Stuti Ke Upar, Daaro Bhar Bhar Dhuli.",
+        "Kahe Teun Yah Guru Ki Shikshaa, Dhaaro Man Tan Men || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "लोकों से निज महिमा सुन कर, मूर्ख फूल न जाना ।",
+      "फेर करेंगे निन्‍्दा तेरी, लोक वही क्षन में ॥१ ॥"
+    ],
+    [
+      "महिमा मन को हर्षित करके, बेमुख हरि से करती ।",
+      "निन्‍दा सर्व पाप को धोके, भेजत देवन में ॥२ ॥"
+    ],
+    [
+      "महिमा तेरी होवे जबहीं, तब निज अवगुन देखो ।",
+      "ऐसे करने से तव लागे, चित्त हरि सुमरन में ॥३ ॥"
+    ],
+    [
+      "लोक निन्‍्दा स्तुति के ऊपर, डारो भर भर धूली ।",
+      "कहे टेऊँ यह गुरु की शिक्षा, धारो मन तन में ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Lokon Se Nij Mahimaa Sun Kar, Murkh Phul Na Jaanaa.",
+      "Pher Karenge Nin‍Daa Teri, Lok Vahi Kshan Men || 1 ||"
+    ],
+    [
+      "Mahimaa Man Ko Harshit Karke, Bemukh Hari Se Karti.",
+      "Nin‍Daa Sarv Paap Ko Dhoke, Bhejat Devan Men || 2 ||"
+    ],
+    [
+      "Mahimaa Teri Hove Jabhin, Tab Nij Avgun Dekho.",
+      "Aise Karne Se Tav Laage, Chitt Hari Sumran Men || 3 ||"
+    ],
+    [
+      "Lok Nin‍Daa Stuti Ke Upar, Daaro Bhar Bhar Dhuli.",
+      "Kahe Teun Yah Guru Ki Shikshaa, Dhaaro Man Tan Men || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "घमण्डी मान न कर मन में",
+    "Ghamandi Maan Na Kar Man Men",
+    "राग जोग भजन 56",
+    "Raag Jog Bhajan 56"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 56,
+  "overallOrder": 884,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 467",
+  "updatedAt": "2026-10-26"
+}

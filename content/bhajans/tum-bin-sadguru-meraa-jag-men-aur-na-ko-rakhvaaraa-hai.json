@@ -1,0 +1,100 @@
+{
+  "id": "bhajan-0601",
+  "slug": "tum-bin-sadguru-meraa-jag-men-aur-na-ko-rakhvaaraa-hai",
+  "categoryId": "raag-kaamol",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "तुम बिन सद्‌गुरु मेरा जग में , और न को रखवारा है",
+  "romanTitle": "Tum Bin Sad‌Guru Meraa Jag Men, Aur Na Ko Rakhvaaraa Hai",
+  "firstLine": "Tum Bin Sad‌Guru Meraa Jag Men, Aur Na Ko Rakhvaaraa Hai (Tek).",
+  "heading": "।। राग कामोल भजन ।। ४ ।। ६०२॥।",
+  "tek": [
+    "तुम बिन सद्‌गुरु मेरा जग में , और न को रखवारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Bin Sad‌Guru Meraa Jag Men, Aur Na Ko Rakhvaaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम ही सद्गुरु मात पिता सम, पालन पोषण हारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Hi Sadguru Maat Pitaa Sam, Paalan Poshan Haaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं हूं बालक मूंढ अज्ञानी, तेरा मोहि सहारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Baalak Mundh Ajnyaani, Teraa Mohi Sahaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जे जन शरण तुम्हारी आये, तिनको तुमने तारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Je Jan Sharan Tumhaari Aaye, Tinko Tumne Taaraa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मोहे पार उतारो, भारी भव जल धारा है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mohe Paar Utaaro, Bhaari Bhav Jal Dhaaraa Hai || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "तुम ही सद्गुरु मात पिता सम, पालन पोषण हारा है ॥१ ॥"
+    ],
+    [
+      "मैं हूं बालक मूंढ अज्ञानी, तेरा मोहि सहारा है ॥२ ॥"
+    ],
+    [
+      "जे जन शरण तुम्हारी आये, तिनको तुमने तारा है ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ मोहे पार उतारो, भारी भव जल धारा है ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Tum Hi Sadguru Maat Pitaa Sam, Paalan Poshan Haaraa Hai || 1 ||"
+    ],
+    [
+      "Main Hun Baalak Mundh Ajnyaani, Teraa Mohi Sahaaraa Hai || 2 ||"
+    ],
+    [
+      "Je Jan Sharan Tumhaari Aaye, Tinko Tumne Taaraa Hai || 3 ||"
+    ],
+    [
+      "Kahe Teun Mohe Paar Utaaro, Bhaari Bhav Jal Dhaaraa Hai || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "तुम बिन सद्‌गुरु मेरा जग में , और न को रखवारा है",
+    "Tum Bin Sad‌Guru Meraa Jag Men, Aur Na Ko Rakhvaaraa Hai",
+    "राग कामोल भजन 4",
+    "Raag Kaamol Bhajan 4"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
+    "bhajan"
+  ],
+  "displayOrder": 4,
+  "overallOrder": 601,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 325",
+  "updatedAt": "2026-10-26"
+}

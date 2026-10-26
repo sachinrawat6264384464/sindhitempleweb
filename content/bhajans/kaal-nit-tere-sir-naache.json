@@ -1,71 +1,116 @@
 {
   "id": "bhajan-0311",
   "slug": "kaal-nit-tere-sir-naache",
-  "categoryId": "raag-bhairav",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
   "title": "काल नित तेरे सिर नाचे",
   "romanTitle": "Kaal Nit Tere Sir Naache",
   "firstLine": "Kaal Nit Tere Sir Naache (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ९६ ।। ३११॥।",
+  "tek": [
+    "काल नित तेरे सिर नाचे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaal Nit Tere Sir Naache (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आयू के दिन घटते जाते, तुम जानत हो बढ़ते जाते ।",
+        "माया के तुम रंग राचे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aayu Ke Din Ghatte Jaate, Tum Jaanat Ho Barhte Jaate.",
+        "Maayaa Ke Tum Rang Raache || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बैठा कांधे डंडा लेकर, तोहि अचानक मारे सिर पर ।",
+        "तन टूटे जिमि घट काचे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baithaa Kaandhe Dandaa Lekar, Tohi Achaanak Maare Sir Par.",
+        "Tan Tute Jimi Ghat Kaache || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बालक बूढ़ा जवान संहारे, धीर वीर गम्भीरनि गारे ।",
+        "काल से ना कोई बाचे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Baalak Burhaa Javaan Sanhaare, Dhir Vir Gambhirni Gaare.",
+        "Kaal Se Naa Koi Baache || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नैन खोल कर देख प्यारे, कहे टेऊँ गये मित्र तुम्हारे ।",
+        "तांते तुम जप हरि साचे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nain Khol Kar Dekh Pyaare, Kahe Teun Gaye Mitr Tumhaare.",
+        "Taante Tum Jap Hari Saache || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "काल नित तेरे सिर नाचे (टेक)."
+      "आयू के दिन घटते जाते, तुम जानत हो बढ़ते जाते ।",
+      "माया के तुम रंग राचे ॥१ ॥"
     ],
     [
-      "ायु के दीन घतते जाते, तुम जानत हो बरहते जाते.",
-      "माया के तुम रनग राचे || 1 ||."
+      "बैठा कांधे डंडा लेकर, तोहि अचानक मारे सिर पर ।",
+      "तन टूटे जिमि घट काचे ॥२ ॥"
     ],
     [
-      "तह",
-      "बैथा कानधे दनदा लेकर, तोहि चानक मारे सिर पर."
+      "बालक बूढ़ा जवान संहारे, धीर वीर गम्भीरनि गारे ।",
+      "काल से ना कोई बाचे ॥३ ॥"
     ],
     [
-      "तन तुते जिमि घत काचे || 2 ||."
-    ],
-    [
-      "बालक बुरहा जवान सनहारे, धिर विर गमभिरनि गारे.",
-      "काल से ना कोि बाचे ||.3 ||"
-    ],
-    [
-      "नैन खोल कर देख पयारे, कहे तेऊँ गये मितर तुमहारे.",
-      "तानते तुम जप हरि साचे || 4 ||."
+      "नैन खोल कर देख प्यारे, कहे टेऊँ गये मित्र तुम्हारे ।",
+      "तांते तुम जप हरि साचे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaal Nit Tere Sir Naache (Tek)."
-    ],
-    [
       "Aayu Ke Din Ghatte Jaate, Tum Jaanat Ho Barhte Jaate.",
-      "Maayaa Ke Tum Rang Raache || 1 ||."
+      "Maayaa Ke Tum Rang Raache || 1 ||"
     ],
     [
-      "Tah",
-      "Baithaa Kaandhe Dandaa Lekar, Tohi Achaanak Maare Sir Par."
-    ],
-    [
-      "Tan Tute Jimi Ghat Kaache || 2 ||."
+      "Baithaa Kaandhe Dandaa Lekar, Tohi Achaanak Maare Sir Par.",
+      "Tan Tute Jimi Ghat Kaache || 2 ||"
     ],
     [
       "Baalak Burhaa Javaan Sanhaare, Dhir Vir Gambhirni Gaare.",
-      "Kaal Se Naa Koi Baache ||.3 ||"
+      "Kaal Se Naa Koi Baache || 3 ||"
     ],
     [
       "Nain Khol Kar Dekh Pyaare, Kahe Teun Gaye Mitr Tumhaare.",
-      "Taante Tum Jap Hari Saache || 4 ||."
+      "Taante Tum Jap Hari Saache || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 96 || 311 ||.",
+    "काल नित तेरे सिर नाचे",
     "Kaal Nit Tere Sir Naache",
-    "काल नित तेरे सिर नाचे"
+    "राग भैरवी भजन 96",
+    "Raag Bhairvi Bhajan 96"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 311,
+  "displayOrder": 96,
+  "overallOrder": 311,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 187",
+  "updatedAt": "2026-10-26"
 }

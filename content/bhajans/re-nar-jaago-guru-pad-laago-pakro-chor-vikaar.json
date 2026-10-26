@@ -2,34 +2,83 @@
   "id": "bhajan-0009",
   "slug": "re-nar-jaago-guru-pad-laago-pakro-chor-vikaar",
   "categoryId": "raag-bhairav",
-  "title": "रे नर जागो, गुरु पद लागो, पकरो चोर विकार",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "रे नर जागो, गुरु पद लागो, पकड़ो चोर विकार",
   "romanTitle": "Re Nar Jaago, Guru Pad Laago, Pakro Chor Vikaar",
   "firstLine": "Re Nar Jaago, Guru Pad Laago, Pakro Chor Vikaar (Tek).",
+  "heading": "।। राग भैरव भजन ।। ९ ॥।",
+  "tek": [
+    "रे नर जागो, गुरु पद लागो, पकड़ो चोर विकार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Nar Jaago, Guru Pad Laago, Pakro Chor Vikaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह जगत मुसाफिरखाना, तुम दो दिन का महिमाना ।",
+        "है आखिर तुझको जाना, करिये वेग संभार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Jagat Musaaphirkhaanaa, Tum Do Din Kaa Mahimaanaa.",
+        "Hai Aakhir Tujhko Jaanaa, Kariye Veg Sambhaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जप राम नाम दिन राती, पावो उर अन्तर झाती ।",
+        "तुम देखो अपनी जाती, गुरु का शब्द उचार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jap Raam Naam Din Raati, Paavo Ur Antar Jhaati.",
+        "Tum Dekho Apni Jaati, Guru Kaa Shabd Uchaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कर साध संगति निर्धारा, पावो शम दम वीचारा ।",
+        "तुम धारे धर्म अचारा, देखो हरि दीदार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kar Saadh Sangti Nirdhaaraa, Paavo Sham Dam Vichaaraa.",
+        "Tum Dhaare Dharm Achaaraa, Dekho Hari Didaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तुम पांच पांच को हरले, उर चार चार को धरले ।",
+        "कहे टेऊँ हरी सुमरले, जांसे होय उधार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tum Paanch Paanch Ko Harle, Ur Chaar Chaar Ko Dharle.",
+        "Kahe Teun Hari Sumrale, Jaanse Hoy Udhaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे नर जागो, गुरु पद लागो, पकरो चोर विकार (टेक)."
+      "यह जगत मुसाफिरखाना, तुम दो दिन का महिमाना ।",
+      "है आखिर तुझको जाना, करिये वेग संभार ॥१ ॥"
     ],
     [
-      "यह जगत मुसाफिरखाना, तुम दो दीन का महिमाना.",
-      "है ाखिर तुझको जाना, करिये वेग समभार || 1 ||"
+      "जप राम नाम दिन राती, पावो उर अन्तर झाती ।",
+      "तुम देखो अपनी जाती, गुरु का शब्द उचार ॥२ ॥"
     ],
     [
-      "जप राम नाम दीन राति, पावो ुर नतर झाति.",
-      "तुम देखो पनि जाति, गुरु का शबद ुचार || 2 ||"
+      "कर साध संगति निर्धारा, पावो शम दम वीचारा ।",
+      "तुम धारे धर्म अचारा, देखो हरि दीदार ॥३ ॥"
     ],
     [
-      "कर साध सनगति निरधारा, पावो शम दम विचारा.",
-      "तुम धारे धरम चारा, देखो हरि दिदार ||.3 ||."
-    ],
-    [
-      "तुम पानच पानच को हरले, ुर चार चार को धरले.",
-      "कहे तेऊँ हरि सुमरले, जानसे होय ुधार ||.4 ||."
+      "तुम पांच पांच को हरले, उर चार चार को धरले ।",
+      "कहे टेऊँ हरी सुमरले, जांसे होय उधार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Re Nar Jaago, Guru Pad Laago, Pakro Chor Vikaar (Tek)."
-    ],
     [
       "Yah Jagat Musaaphirkhaanaa, Tum Do Din Kaa Mahimaanaa.",
       "Hai Aakhir Tujhko Jaanaa, Kariye Veg Sambhaar || 1 ||"
@@ -40,27 +89,28 @@
     ],
     [
       "Kar Saadh Sangti Nirdhaaraa, Paavo Sham Dam Vichaaraa.",
-      "Tum Dhaare Dharm Achaaraa, Dekho Hari Didaar ||.3 ||."
+      "Tum Dhaare Dharm Achaaraa, Dekho Hari Didaar || 3 ||"
     ],
     [
       "Tum Paanch Paanch Ko Harle, Ur Chaar Chaar Ko Dharle.",
-      "Kahe Teun Hari Sumrale, Jaanse Hoy Udhaar ||.4 ||."
+      "Kahe Teun Hari Sumrale, Jaanse Hoy Udhaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairav Bhajan || 9 ||.",
+    "रे नर जागो, गुरु पद लागो, पकड़ो चोर विकार",
     "Re Nar Jaago, Guru Pad Laago, Pakro Chor Vikaar",
-    "रे नर जागो, गुरु पद लागो, पकरो चोर विकार"
+    "राग भैरव भजन 9",
+    "Raag Bhairav Bhajan 9"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 9,
+  "overallOrder": 9,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 30",
+  "updatedAt": "2026-10-26"
 }

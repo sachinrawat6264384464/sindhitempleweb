@@ -1,59 +1,115 @@
 {
-  "id": "bhajan-0860",
+  "id": "bhajan-0858",
   "slug": "meri-mati-yah-machhli-maano-sarvar-ki-taj-aasaa-ri",
   "categoryId": "raag-jog",
-  "title": "मेरि मति यह मचहलि मानो, सरवर कि तज ासा रि",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मेरी मति यह मछली मानो, सरवर की तज आसा री",
   "romanTitle": "Meri Mati Yah Machhli Maano, Sarvar Ki Taj Aasaa Ri",
   "firstLine": "Meri Mati Yah Machhli Maano, Sarvar Ki Taj Aasaa Ri (Tek).",
+  "heading": "।। राग जोग भजन ।। ३० ।। ८६०॥।",
+  "tek": [
+    "मेरी मति यह मछली मानो, सरवर की तज आसा री ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meri Mati Yah Machhli Maano, Sarvar Ki Taj Aasaa Ri (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सरवर तज जो सागर जावे, होय न तांका नासा री ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sarvar Taj Jo Saagar Jaave, Hoy Na Taankaa Naasaa Ri || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सागर तज जो सरवर आवे, ताहिं पड़े गल फासा री ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saagar Taj Jo Sarvar Aave, Taahin Pare Gal Phaasaa Ri || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सरवर से हो पंक प्राप्त, पुनि दुखिया हो श्वासा री ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sarvar Se Ho Pank Praapt, Puni Dukhiyaa Ho Shvaasaa Ri || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले सागर शरनी, पाओ निर्भय वासा री ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Saagar Sharni, Paao Nirbhay Vaasaa Ri || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द्ध"
+      ],
+      "romanLines": [
+        "Gddh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरि मति यह मचहलि मानो, सरवर कि तज ासा रि (टेक)."
+      "सरवर तज जो सागर जावे, होय न तांका नासा री ॥१ ॥"
     ],
     [
-      "सरवर तज जो सागर जावे, होय न तानका नासा रि.1 ||.",
-      "सागर तज जो सरवर ावे, ताहिन परे गल फासा रि || 2. ||."
+      "सागर तज जो सरवर आवे, ताहिं पड़े गल फासा री ॥२ ॥"
     ],
     [
-      "सरवर से हो पनक परापत, पुनि दुखिया हो शवासा रि || 3 ||"
+      "सरवर से हो पंक प्राप्त, पुनि दुखिया हो श्वासा री ॥३ ॥"
     ],
     [
-      "कहे तेऊँ ले सागर शरनि, पाो निरभय वासा रि || 4. ||."
+      "कहे टेऊँ ले सागर शरनी, पाओ निर्भय वासा री ॥४ ॥"
     ],
     [
-      "गदध"
+      "ग््द्ध"
     ]
   ],
   "romanLyrics": [
     [
-      "Meri Mati Yah Machhli Maano, Sarvar Ki Taj Aasaa Ri (Tek)."
+      "Sarvar Taj Jo Saagar Jaave, Hoy Na Taankaa Naasaa Ri || 1 ||"
     ],
     [
-      "Sarvar Taj Jo Saagar Jaave, Hoy N Taankaa Naasaa Ri.1 ||.",
-      "Saagar Taj Jo Sarvar Aave, Taahin Pare Gal Phaasaa Ri || 2. ||."
+      "Saagar Taj Jo Sarvar Aave, Taahin Pare Gal Phaasaa Ri || 2 ||"
     ],
     [
       "Sarvar Se Ho Pank Praapt, Puni Dukhiyaa Ho Shvaasaa Ri || 3 ||"
     ],
     [
-      "Kahe Teun Le Saagar Sharni, Paao Nirbhay Vaasaa Ri || 4. ||."
+      "Kahe Teun Le Saagar Sharni, Paao Nirbhay Vaasaa Ri || 4 ||"
     ],
     [
       "Gddh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 30 || 860 ||.",
+    "मेरी मति यह मछली मानो, सरवर की तज आसा री",
     "Meri Mati Yah Machhli Maano, Sarvar Ki Taj Aasaa Ri",
-    "मेरि मति यह मचहलि मानो, सरवर कि तज ासा रि"
+    "राग जोग भजन 30",
+    "Raag Jog Bhajan 30"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 860,
+  "displayOrder": 30,
+  "overallOrder": 858,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 453",
+  "updatedAt": "2026-10-26"
 }

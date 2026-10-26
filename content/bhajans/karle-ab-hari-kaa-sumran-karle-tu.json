@@ -1,74 +1,111 @@
 {
   "id": "bhajan-0238",
   "slug": "karle-ab-hari-kaa-sumran-karle-tu",
-  "categoryId": "raag-bhairav",
-  "title": "करले ब हरि का सुमरन करले तु",
-  "romanTitle": "Karle Ab Hari Kaa Sumran Karle Tu",
-  "firstLine": "Karle Ab Hari Kaa Sumran Karle Tu, Dharle Man Dhyaan Prabhu Kaa Dharle Tu (Tek).",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "करले अब हरि का सुमरण करले तूं,",
+  "romanTitle": "Karle Ab Hari Kaa Sumran Karle Tu,",
+  "firstLine": "Karle Ab Hari Kaa Sumran Karle Tu,",
+  "heading": "।। राग भैरवी भजन ।। २३ ।। २३८॥।",
+  "tek": [
+    "करले अब हरि का सुमरण करले तूं,",
+    "धरले मन ध्यान प्रभू का धरले तूं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Ab Hari Kaa Sumran Karle Tu,",
+    "Dharle Man Dhyaan Prabhu Kaa Dharle Tu (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह बेला जान सुहेला, फिर होय न ऐसा मेला ।",
+        "कर सन्त गुरू की सेवा, श्रद्धा से बनकर चेला ।",
+        "भक्ति भाव भरले तूं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Belaa Jaan Suhelaa, Phir Hoy Na Aisaa Melaa.",
+        "Kar Sant Guru Ki Sevaa, Shraddhaa Se Bankar Chelaa.",
+        "Bhakti Bhaav Bharle Tu || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया की ममता छोड़ो, तुम मोह कुट्म्ब का तोड़ो ।",
+        "सब जग के भोग त्यागे, जीउ जगतपती से जोड़ो ।",
+        "पाप को हरले तूं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Ki Mamtaa Chhoro, Tum Moh Kutmb Kaa Toro.",
+        "Sab Jag Ke Bhog Tyaage, Jiu Jagatpati Se Joro.",
+        "Paap Ko Harle Tu || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "उठ ग़ाफ़िल ग़फ्लत तजले, कहे टेऊँ हरि को भजले ।",
+        "तृष्णा और तमना टारे, मन को सन्तोष से रजले ।",
+        "इसी विधि तरले तूं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Uth Ghaafil Ghaphlat Tajle, Kahe Teun Hari Ko Bhajle.",
+        "Trishnaa Aur Tamnaa Taare, Man Ko Santosh Se Rajle.",
+        "Isi Vidhi Tarle Tu || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले ब हरि का सुमरन करले तु,",
-      "धरले मन ध्यान प्रभु का धरले तु (टेक)."
+      "यह बेला जान सुहेला, फिर होय न ऐसा मेला ।",
+      "कर सन्त गुरू की सेवा, श्रद्धा से बनकर चेला ।",
+      "भक्ति भाव भरले तूं ॥१ ॥"
     ],
     [
-      "यह बेला जान सुहेला, फिर होय न ैसा मेला.",
-      "कर संत गुरु कि सेवा, शरदधा से बनकर चेला."
+      "माया की ममता छोड़ो, तुम मोह कुट्म्ब का तोड़ो ।",
+      "सब जग के भोग त्यागे, जीउ जगतपती से जोड़ो ।",
+      "पाप को हरले तूं ॥२ ॥"
     ],
     [
-      "भक्ति भाव भरले तु.1 ||.",
-      "माया कि ममता चहोरो, तुम मोह कुतमब का तोरो."
-    ],
-    [
-      "सब जग के भोग तयागे, जिु जगतपति से जोरो.",
-      "पाप को हरले तु || 2 ||"
-    ],
-    [
-      "ुथ घाfिल घफलत तजले, कहे तेऊँ हरि को भजले.",
-      "तरिशना ौर तमना तारे, मन को सनतोश से रजले."
-    ],
-    [
-      "िसि विधि तरले तु || 3े ||"
+      "उठ ग़ाफ़िल ग़फ्लत तजले, कहे टेऊँ हरि को भजले ।",
+      "तृष्णा और तमना टारे, मन को सन्तोष से रजले ।",
+      "इसी विधि तरले तूं ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Ab Hari Kaa Sumran Karle Tu,",
-      "Dharle Man Dhyaan Prabhu Kaa Dharle Tu (Tek)."
+      "Yah Belaa Jaan Suhelaa, Phir Hoy Na Aisaa Melaa.",
+      "Kar Sant Guru Ki Sevaa, Shraddhaa Se Bankar Chelaa.",
+      "Bhakti Bhaav Bharle Tu || 1 ||"
     ],
     [
-      "Yah Belaa Jaan Suhelaa, Phir Hoy N Aisaa Melaa.",
-      "Kar Sant Guru Ki Sevaa, Shraddhaa Se Bankar Chelaa."
-    ],
-    [
-      "Bhakti Bhaav Bharle Tu.1 ||.",
-      "Maayaa Ki Mamtaa Chhoro, Tum Moh Kutmb Kaa Toro."
-    ],
-    [
-      "Sab Jag Ke Bhog Tyaage, Jiu Jagtapti Se Joro.",
+      "Maayaa Ki Mamtaa Chhoro, Tum Moh Kutmb Kaa Toro.",
+      "Sab Jag Ke Bhog Tyaage, Jiu Jagatpati Se Joro.",
       "Paap Ko Harle Tu || 2 ||"
     ],
     [
       "Uth Ghaafil Ghaphlat Tajle, Kahe Teun Hari Ko Bhajle.",
-      "Trishnaa Aur Tamnaa Taare, Man Ko Santosh Se Rajle."
-    ],
-    [
-      "Isi Vidhi Tarle Tu || 3E ||"
+      "Trishnaa Aur Tamnaa Taare, Man Ko Santosh Se Rajle.",
+      "Isi Vidhi Tarle Tu || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 23 || 238 ||.",
-    "Karle Ab Hari Kaa Sumran Karle Tu",
-    "करले ब हरि का सुमरन करले तु"
+    "करले अब हरि का सुमरण करले तूं,",
+    "Karle Ab Hari Kaa Sumran Karle Tu,",
+    "राग भैरवी भजन 23",
+    "Raag Bhairvi Bhajan 23"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 238,
+  "displayOrder": 23,
+  "overallOrder": 238,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 148",
+  "updatedAt": "2026-10-26"
 }

@@ -1,38 +1,76 @@
 {
-  "id": "bhajan-0760",
+  "id": "bhajan-0758",
   "slug": "prabhu-dinaa-naath-mere-dukh-haro",
   "categoryId": "raag-pilaa",
-  "title": "प्रभु दिना नाथ, मेरे दुःख हरो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "प्रभू दीना नाथ, मेरे दूख हरो",
   "romanTitle": "Prabhu Dinaa Naath, Mere Dukh Haro",
   "firstLine": "Prabhu Dinaa Naath, Mere Dukh Haro (Tek).",
+  "heading": "।। राग पीला भजन ॥। ३८ ।। ७६०।।",
+  "tek": [
+    "प्रभू दीना नाथ, मेरे दूख हरो ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Prabhu Dinaa Naath, Mere Dukh Haro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दुख भज्जन है नाम तुम्हारा, तुम भक्तों के दूख निवारा ।",
+        "प्रगट है ये गाथ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dukh Bhajjan Hai Naam Tumhaaraa, Tum Bhakton Ke Dukh Nivaaraa.",
+        "Pragat Hai Ye Gaath || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "डूबत हूं मैं भवसिन्धु माहीं, नाथ निकारो पकड़े बाहीं ।",
+        "राखो शिर पर हाथ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dubat Hun Main Bhavsindhu Maahin, Naath Nikaaro Pakre Baahin.",
+        "Raakho Shir Par Haath || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ कर जोड़ अर्दासा, कष्ट विध्न कट यम की फासा ।",
+        "दया करे रघुनाथ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Ardaasaa, Kasht Vidhn Kat Yam Ki Phaasaa.",
+        "Dayaa Kare Raghunaath || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु दिना नाथ, मेरे दुःख हरो (टेक)."
+      "दुख भज्जन है नाम तुम्हारा, तुम भक्तों के दूख निवारा ।",
+      "प्रगट है ये गाथ ॥१ ॥"
     ],
     [
-      "दुःख भजजन है नाम तुमहारा, तुम भकतोन के दुःख निवारा.",
-      "परगत है ये गाथ || 1 ||."
+      "डूबत हूं मैं भवसिन्धु माहीं, नाथ निकारो पकड़े बाहीं ।",
+      "राखो शिर पर हाथ ॥२ ॥"
     ],
     [
-      "दुबत हुन मैं भवसिनधु माहिन, नाथ निकारो पकरे बाहिन.",
-      "राखो शिर पर हाथ || 2 ||."
-    ],
-    [
-      "कहे तेऊँ कर जोर रदासा, कशत विधन कत यम कि फासा.",
-      "दया करे रघुनाथ || 3 ||"
+      "कहे टेऊँ कर जोड़ अर्दासा, कष्ट विध्न कट यम की फासा ।",
+      "दया करे रघुनाथ ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Dinaa Naath, Mere Dukh Haro (Tek)."
-    ],
-    [
       "Dukh Bhajjan Hai Naam Tumhaaraa, Tum Bhakton Ke Dukh Nivaaraa.",
-      "Pragat Hai Ye Gaath || 1 ||."
+      "Pragat Hai Ye Gaath || 1 ||"
     ],
     [
       "Dubat Hun Main Bhavsindhu Maahin, Naath Nikaaro Pakre Baahin.",
-      "Raakho Shir Par Haath || 2 ||."
+      "Raakho Shir Par Haath || 2 ||"
     ],
     [
       "Kahe Teun Kar Jor Ardaasaa, Kasht Vidhn Kat Yam Ki Phaasaa.",
@@ -40,19 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan ||. 38 || 760 ||",
+    "प्रभू दीना नाथ, मेरे दूख हरो",
     "Prabhu Dinaa Naath, Mere Dukh Haro",
-    "प्रभु दिना नाथ, मेरे दुःख हरो"
+    "राग पीला भजन 37",
+    "Raag Pilaa Bhajan 37"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 760,
+  "displayOrder": 37,
+  "overallOrder": 758,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 402",
+  "updatedAt": "2026-10-26"
 }

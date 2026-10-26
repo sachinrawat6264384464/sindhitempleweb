@@ -1,67 +1,107 @@
 {
-  "id": "bhajan-0832",
+  "id": "bhajan-0830",
   "slug": "prabal-hai-ati-hari-ki-maayaa",
   "categoryId": "raag-jog",
-  "title": "परबल है ति हरि कि माया",
-  "romanTitle": "Prabal Hai Ati Hari Ki Maayaa",
-  "firstLine": "Prabal Hai Ati Hari Ki Maayaa, Jisne Sab Jag Jiv Bhulaayaa (Tek).",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "प्रबल है अति हरि की माया,",
+  "romanTitle": "Prabal Hai Ati Hari Ki Maayaa,",
+  "firstLine": "Prabal Hai Ati Hari Ki Maayaa,",
+  "heading": "।। राग जोग भजन ।। २ ।। ८३२।।",
+  "tek": [
+    "प्रबल है अति हरि की माया,",
+    "जिसने सब जग जीव भुलाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabal Hai Ati Hari Ki Maayaa,",
+    "Jisne Sab Jag Jiv Bhulaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "केते शब्द स्पर्श में बांधे, केते रूप रसों में साधे ।",
+        "केते गन्ध के बीच गलाया ॥१ ॥",
+        "केते काम क्रोध में जारे, केते लाभ मोह में मारे ।",
+        "केते मद के सिन्धु बहाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kete Shabd Sparsh Men Baandhe, Kete Rup Rason Men Saadhe.",
+        "Kete Gandh Ke Bich Galaayaa || 1 ||",
+        "Kete Kaam Krodh Men Jaare, Kete Laabh Moh Men Maare.",
+        "Kete Mad Ke Sindhu Bahaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "केते योगी पण्डित ज्ञानी, केते त्यागी तपसी ध्यानी ।",
+        "केते मुनिवर खाक मिलाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kete Yogi Pandit Jnyaani, Kete Tyaagi Tapsi Dhyaani.",
+        "Kete Munivar Khaak Milaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ इस सबको लूटा, कोई इससे विरला छूटा ।",
+        "जिसने गुरु का चरण ध्याया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Is Sabko Lutaa, Koi Isse Virlaa Chhutaa.",
+        "Jisne Guru Kaa Charan Dhyaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परबल है ति हरि कि माया,",
-      "जिसने सब जग जिव भुलाया (टेक)."
+      "केते शब्द स्पर्श में बांधे, केते रूप रसों में साधे ।",
+      "केते गन्ध के बीच गलाया ॥१ ॥",
+      "केते काम क्रोध में जारे, केते लाभ मोह में मारे ।",
+      "केते मद के सिन्धु बहाया ॥२ ॥"
     ],
     [
-      "केते शबद सपरश मेन बानधे, केते रुप रसोन मेन साधे.",
-      "केते गनध के बिच गलाया || ₹ ||."
+      "केते योगी पण्डित ज्ञानी, केते त्यागी तपसी ध्यानी ।",
+      "केते मुनिवर खाक मिलाया ॥३ ॥"
     ],
     [
-      "केते काम करोध मेन जारे, केते लाभ मोह मेन मारे.",
-      "केते मद के सिनधु बहाया || 2 ||"
-    ],
-    [
-      "केते योगि पनदित जनयानि, केते तयागि तपसि धयानि.",
-      "केते मुनिवर खाक मिलाया ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ िस सबको लुता, कोि िससे विरला चहुता.",
-      "जिसने गुरु का चरण धयाया || 4 ||."
+      "कहे टेऊँ इस सबको लूटा, कोई इससे विरला छूटा ।",
+      "जिसने गुरु का चरण ध्याया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabal Hai Ati Hari Ki Maayaa,",
-      "Jisne Sab Jag Jiv Bhulaayaa (Tek)."
-    ],
-    [
       "Kete Shabd Sparsh Men Baandhe, Kete Rup Rason Men Saadhe.",
-      "Kete Gandh Ke Bich Galaayaa || ₹ ||."
-    ],
-    [
+      "Kete Gandh Ke Bich Galaayaa || 1 ||",
       "Kete Kaam Krodh Men Jaare, Kete Laabh Moh Men Maare.",
       "Kete Mad Ke Sindhu Bahaayaa || 2 ||"
     ],
     [
       "Kete Yogi Pandit Jnyaani, Kete Tyaagi Tapsi Dhyaani.",
-      "Kete Munivar Khaak Milaayaa ||.3 ||"
+      "Kete Munivar Khaak Milaayaa || 3 ||"
     ],
     [
       "Kahe Teun Is Sabko Lutaa, Koi Isse Virlaa Chhutaa.",
-      "Jisne Guru Kaa Charan Dhyaayaa || 4 ||."
+      "Jisne Guru Kaa Charan Dhyaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 2 || 832 ||",
-    "Prabal Hai Ati Hari Ki Maayaa",
-    "परबल है ति हरि कि माया"
+    "प्रबल है अति हरि की माया,",
+    "Prabal Hai Ati Hari Ki Maayaa,",
+    "राग जोग भजन 2",
+    "Raag Jog Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 832,
+  "displayOrder": 2,
+  "overallOrder": 830,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 441",
+  "updatedAt": "2026-10-26"
 }

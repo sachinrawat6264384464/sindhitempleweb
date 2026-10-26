@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0846",
+  "slug": "mere-man-kar-kapat-na-kaanse-kapti-kaa-munh-kaalaa-re",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मेरे मन कर कपट न कांसे, कपटी का मुंह काला रे",
+  "romanTitle": "Mere Man Kar Kapat Na Kaanse, Kapti Kaa Munh Kaalaa Re",
+  "firstLine": "Mere Man Kar Kapat Na Kaanse, Kapti Kaa Munh Kaalaa Re (Tek).",
+  "heading": "।। राग जोग भजन ।। १८ ।। ८४८ ॥।",
+  "tek": [
+    "मेरे मन कर कपट न कांसे, कपटी का मुंह काला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Kar Kapat Na Kaanse, Kapti Kaa Munh Kaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वार्थ हित जिन कपट कमाया, नाम बुरा कर तिन दुख पाया ।",
+        "अन्त पड़े जमजाला रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Hit Jin Kapat Kamaayaa, Naam Buraa Kar Tin Dukh Paayaa.",
+        "Ant Pare Jamjaalaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कालनेमि मारीच सुपनखा, कपट किया तिहें फल को देखा ।",
+        "रावण निज कुल घाला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaalnemi Maarich Supnakhaa, Kapat Kiyaa Tihen Phal Ko Dekhaa.",
+        "Raavan Nij Kul Ghaalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जयन्त पुनि दुर्योधन राहू, कीन कपट फल मिलिया ताहू ।",
+        "लागा तिन घर ताला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jayant Puni Duryodhan Raahu, Kin Kapat Phal Miliyaa Taahu.",
+        "Laagaa Tin Ghar Taalaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम कपट त्यागो, सन्त जनों के चरने लागो ।",
+        "अन्तर हो उज्याला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Kapat Tyaago, Sant Janon Ke Charne Laago.",
+        "Antar Ho Ujyaalaa Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "स्वार्थ हित जिन कपट कमाया, नाम बुरा कर तिन दुख पाया ।",
+      "अन्त पड़े जमजाला रे ॥१ ॥"
+    ],
+    [
+      "कालनेमि मारीच सुपनखा, कपट किया तिहें फल को देखा ।",
+      "रावण निज कुल घाला रे ॥२ ॥"
+    ],
+    [
+      "जयन्त पुनि दुर्योधन राहू, कीन कपट फल मिलिया ताहू ।",
+      "लागा तिन घर ताला रे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ तुम कपट त्यागो, सन्त जनों के चरने लागो ।",
+      "अन्तर हो उज्याला रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Svaarth Hit Jin Kapat Kamaayaa, Naam Buraa Kar Tin Dukh Paayaa.",
+      "Ant Pare Jamjaalaa Re || 1 ||"
+    ],
+    [
+      "Kaalnemi Maarich Supnakhaa, Kapat Kiyaa Tihen Phal Ko Dekhaa.",
+      "Raavan Nij Kul Ghaalaa Re || 2 ||"
+    ],
+    [
+      "Jayant Puni Duryodhan Raahu, Kin Kapat Phal Miliyaa Taahu.",
+      "Laagaa Tin Ghar Taalaa Re || 3 ||"
+    ],
+    [
+      "Kahe Teun Tum Kapat Tyaago, Sant Janon Ke Charne Laago.",
+      "Antar Ho Ujyaalaa Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मेरे मन कर कपट न कांसे, कपटी का मुंह काला रे",
+    "Mere Man Kar Kapat Na Kaanse, Kapti Kaa Munh Kaalaa Re",
+    "राग जोग भजन 18",
+    "Raag Jog Bhajan 18"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 18,
+  "overallOrder": 846,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 449",
+  "updatedAt": "2026-10-26"
+}

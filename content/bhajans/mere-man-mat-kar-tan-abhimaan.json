@@ -2,66 +2,117 @@
   "id": "bhajan-0199",
   "slug": "mere-man-mat-kar-tan-abhimaan",
   "categoryId": "raag-tori",
-  "title": "मेरे मन मत कर तन भिमान",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "मेरे मन मत कर तन अभिमान",
   "romanTitle": "Mere Man Mat Kar Tan Abhimaan",
-  "firstLine": "Mere Man Mat Kar Tan Abhimaan. Paanch Tatv Kaa Tan Yah Kshanbhadt Ik Din Jarat Masaan (Tek).",
+  "firstLine": "Mere Man Mat Kar Tan Abhimaan.",
+  "heading": "।। राग टोड़ी भजन ।। ७ ।। १९९।।",
+  "tek": [
+    "मेरे मन मत कर तन अभिमान ।",
+    "पांच तत्व का तन यह क्षणभड्ट इक दिन जरत मसान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Mat Kar Tan Abhimaan.",
+    "Paanch Tatv Kaa Tan Yah Kshanbhadt Ik Din Jarat Masaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन अभिमान हरनाकश कीना कहलाया भगवान ।",
+        "नरसिंह रूप धरे हरि तिसका तुरत निकाला प्रान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Abhimaan Harnaakash Kinaa Kahlaayaa Bhagvaan.",
+        "Narsinh Rup Dhare Hari Tiskaa Turat Nikaalaa Praan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन अभिमान लडूपति कीना कहलाया बलवान ।",
+        "राम उसीका शीश उड़ाया रहा न नाम निशान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Abhimaan Ladupti Kinaa Kahlaayaa Balvaan.",
+        "Raam Usikaa Shish Uraayaa Rahaa Na Naam Nishaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन अभिमान दुर्योधन कीना कहलाया सुल्तान ।",
+        "भीम गदा से मारा तांको टूटा सब मद मान ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Tan Abhimaan Duryodhan Kinaa Kahlaayaa Sultaan.",
+        "Bhim Gadaa Se Maaraa Taanko Tutaa Sab Mad Maan || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हस्ती उनकी नाहिं रही जिन कीया गर्व गुमान ।",
+        "कहे टेऊँ तुम तांते उर में धार ग़रीबी ज्ञान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hasti Unki Naahin Rahi Jin Kiyaa Garv Gumaan.",
+        "Kahe Teun Tum Taante Ur Men Dhaar Gharibi Gyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन मत कर तन भिमान.",
-      "पानच ततव का तन यह कशनभदत िक दीन जरत मसान (टेक)."
+      "तन अभिमान हरनाकश कीना कहलाया भगवान ।",
+      "नरसिंह रूप धरे हरि तिसका तुरत निकाला प्रान ॥१ ॥"
     ],
     [
-      "तन भिमान हरनाकश किना कहलाया भगवान.",
-      "नरसिनह रुप धरे हरि तिसका तुरत निकाला परान.1 ||."
+      "तन अभिमान लडूपति कीना कहलाया बलवान ।",
+      "राम उसीका शीश उड़ाया रहा न नाम निशान ॥२ ॥"
     ],
     [
-      "तन भिमान लदुपति किना कहलाया बलवान.",
-      "राम ुसिका शिश ुराया रहा न नाम निशान || 2 ||"
+      "तन अभिमान दुर्योधन कीना कहलाया सुल्तान ।",
+      "भीम गदा से मारा तांको टूटा सब मद मान ॥ ।३े ॥"
     ],
     [
-      "तन भिमान दुरयोधन किना कहलाया सुलतान.",
-      "भिम गदा से मारा तानको तुता सब मद मान ||.3े ||"
-    ],
-    [
-      "हसति ुनकि नाहिन रहि जिन किया गरव गुमान.",
-      "कहे तेऊँ तुम तानते ुर मेन धार घरिबि ज्ञान || 4. ||."
+      "हस्ती उनकी नाहिं रही जिन कीया गर्व गुमान ।",
+      "कहे टेऊँ तुम तांते उर में धार ग़रीबी ज्ञान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Mat Kar Tan Abhimaan.",
-      "Paanch Tatv Kaa Tan Yah Kshanbhadt Ik Din Jarat Masaan (Tek)."
-    ],
-    [
       "Tan Abhimaan Harnaakash Kinaa Kahlaayaa Bhagvaan.",
-      "Narsinh Rup Dhare Hari Tiskaa Turat Nikaalaa Praan.1 ||."
+      "Narsinh Rup Dhare Hari Tiskaa Turat Nikaalaa Praan || 1 ||"
     ],
     [
       "Tan Abhimaan Ladupti Kinaa Kahlaayaa Balvaan.",
-      "Raam Usikaa Shish Uraayaa Rahaa N Naam Nishaan || 2 ||"
+      "Raam Usikaa Shish Uraayaa Rahaa Na Naam Nishaan || 2 ||"
     ],
     [
       "Tan Abhimaan Duryodhan Kinaa Kahlaayaa Sultaan.",
-      "Bhim Gadaa Se Maaraa Taanko Tutaa Sab Mad Maan ||.3E ||"
+      "Bhim Gadaa Se Maaraa Taanko Tutaa Sab Mad Maan || 3E ||"
     ],
     [
       "Hasti Unki Naahin Rahi Jin Kiyaa Garv Gumaan.",
-      "Kahe Teun Tum Taante Ur Men Dhaar Gharibi Jnyaan || 4. ||."
+      "Kahe Teun Tum Taante Ur Men Dhaar Gharibi Gyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 7 || 199 ||",
+    "मेरे मन मत कर तन अभिमान",
     "Mere Man Mat Kar Tan Abhimaan",
-    "मेरे मन मत कर तन भिमान"
+    "राग तोड़ी भजन 7",
+    "Raag Tori Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 199,
+  "displayOrder": 7,
+  "overallOrder": 199,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 128",
+  "updatedAt": "2026-10-26"
 }

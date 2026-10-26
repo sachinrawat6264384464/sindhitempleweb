@@ -1,51 +1,109 @@
 {
-  "id": "bhajan-0547",
+  "id": "bhajan-0545",
   "slug": "karo-tum-saadh-sangti-sadvaar-jisi-se-sukh-paavoge",
   "categoryId": "raag-sorath",
-  "title": "करो तुम साध सनगति सदवार, जिसि से सुख पावोगे",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "करो तुम साध संगति सद्‌वार, जिसी से सूख पावोगे",
   "romanTitle": "Karo Tum Saadh Sangti Sad‌Vaar, Jisi Se Sukh Paavoge",
-  "firstLine": "Karo Tum Saadh Sangti Sad‌Vaar, Jisi Se Sukh Paavoge. Aur Naa Ko Yatan Jag Men, Isi Se Dukh Mitaavoge (Tek).",
+  "firstLine": "Karo Tum Saadh Sangti Sad‌Vaar, Jisi Se Sukh Paavoge.",
+  "heading": "।। राग सोरठ भजन ।। १५ ।। '५४६।।",
+  "tek": [
+    "करो तुम साध संगति सद्‌वार, जिसी से सूख पावोगे ।",
+    "और ना को यतन जग में, इसी से दुख मिटावोगे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Tum Saadh Sangti Sad‌Vaar, Jisi Se Sukh Paavoge.",
+    "Aur Naa Ko Yatan Jag Men, Isi Se Dukh Mitaavoge (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गंगा यमुना सभी तीर्थ, बसत है संत संग माहीं ।",
+        "करेंगे पाप सब तेरे, जभी इसमें नहावोगे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gangaa Yamunaa Sabhi Tirth, Basat Hai Sant Sang Maahin.",
+        "Karenge Paap Sab Tere, Jabhi Ismen Nahaavoge || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कहा भगवान सुन नारद, न मैं वैकुण्ठ योगियों में ।",
+        "जहां मिल भक्तजन गावें, तहां मम दरस पावोगे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kahaa Bhagvaan Sun Naarad, Na Main Vaikunth Yogiyon Men.",
+        "Jahaan Mil Bhaktajan Gaaven, Tahaan Mam Daras Paavoge || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त के शरण पड़ने से, कर्म की रेख मिटती है ।",
+        "बड़ी विपता भी हट जावे, जभी तुम शिर निवावोगे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Ke Sharan Parne Se, Karm Ki Rekh Mitti Hai.",
+        "Bari Viptaa Bhi Hat Jaave, Jabhi Tum Shir Nivaavoge || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बिना सत्संग के किसका, कभी ना होय कल्याना ।",
+        "कहे टेऊँ साध सड्ति से, सहज पद में समावोगे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Binaa Satsang Ke Kiskaa, Kabhi Naa Hoy Kalyaanaa.",
+        "Kahe Teun Saadh Sadti Se, Sahaj Pad Men Samaavoge || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्न्द"
+      ],
+      "romanLines": [
+        "Tnd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो तुम साध सनगति सदवार, जिसि से सुख पावोगे.",
-      "ौर ना को यतन जग मेन, िसि से दुःख मितावोगे (टेक)."
+      "गंगा यमुना सभी तीर्थ, बसत है संत संग माहीं ।",
+      "करेंगे पाप सब तेरे, जभी इसमें नहावोगे ॥१ ॥"
     ],
     [
-      "गनगा यमुना सभि तिरथ, बसत है संत सनग माहिन.",
-      "करेनगे पाप सब तेरे, जभि िसमेन नहावोगे || $ ||."
+      "कहा भगवान सुन नारद, न मैं वैकुण्ठ योगियों में ।",
+      "जहां मिल भक्तजन गावें, तहां मम दरस पावोगे ॥२ ॥"
     ],
     [
-      "कहा भगवान सुन नारद, न मैं वैकुनथ योगियोन मेन.",
-      "जहान मिल भकतजन गावेन, तहान मम दरस पावोगे || 2 ||"
+      "सन्त के शरण पड़ने से, कर्म की रेख मिटती है ।",
+      "बड़ी विपता भी हट जावे, जभी तुम शिर निवावोगे ॥३ ॥"
     ],
     [
-      "संत के शरन परने से, करम कि रेख मितति है.",
-      "बरि विपता भि हत जावे, जभि तुम शिर निवावोगे || 3 ||."
+      "बिना सत्संग के किसका, कभी ना होय कल्याना ।",
+      "कहे टेऊँ साध सड्ति से, सहज पद में समावोगे ॥४ ॥"
     ],
     [
-      "बिना सत्संग के किसका, कभि ना होय कलयाना.",
-      "कहे तेऊँ साध सदति से, सहज पद मेन समावोगे || 4 ||"
-    ],
-    [
-      "तनद"
+      "त्न्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Tum Saadh Sangti Sad‌Vaar, Jisi Se Sukh Paavoge.",
-      "Aur Naa Ko Yatan Jag Men, Isi Se Dukh Mitaavoge (Tek)."
-    ],
-    [
       "Gangaa Yamunaa Sabhi Tirth, Basat Hai Sant Sang Maahin.",
-      "Karenge Paap Sab Tere, Jabhi Ismen Nahaavoge || $ ||."
+      "Karenge Paap Sab Tere, Jabhi Ismen Nahaavoge || 1 ||"
     ],
     [
-      "Kahaa Bhagvaan Sun Naarad, N Main Vaikunth Yogiyon Men.",
+      "Kahaa Bhagvaan Sun Naarad, Na Main Vaikunth Yogiyon Men.",
       "Jahaan Mil Bhaktajan Gaaven, Tahaan Mam Daras Paavoge || 2 ||"
     ],
     [
       "Sant Ke Sharan Parne Se, Karm Ki Rekh Mitti Hai.",
-      "Bari Viptaa Bhi Hat Jaave, Jabhi Tum Shir Nivaavoge || 3 ||."
+      "Bari Viptaa Bhi Hat Jaave, Jabhi Tum Shir Nivaavoge || 3 ||"
     ],
     [
       "Binaa Satsang Ke Kiskaa, Kabhi Naa Hoy Kalyaanaa.",
@@ -56,18 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 15 || '546 ||",
+    "करो तुम साध संगति सद्‌वार, जिसी से सूख पावोगे",
     "Karo Tum Saadh Sangti Sad‌Vaar, Jisi Se Sukh Paavoge",
-    "करो तुम साध सनगति सदवार, जिसि से सुख पावोगे"
+    "राग सोरठ भजन 15",
+    "Raag Sorath Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 547,
+  "displayOrder": 15,
+  "overallOrder": 545,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 298",
+  "updatedAt": "2026-10-26"
 }

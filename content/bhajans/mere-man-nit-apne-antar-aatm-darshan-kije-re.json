@@ -1,49 +1,107 @@
 {
-  "id": "bhajan-0847",
+  "id": "bhajan-0845",
   "slug": "mere-man-nit-apne-antar-aatm-darshan-kije-re",
   "categoryId": "raag-jog",
-  "title": "मेरे मन नित पने नतर, ातम दरशन किजे रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मेरे मन नित अपने अन्तर, आत्म दर्शन कीजे रे",
   "romanTitle": "Mere Man Nit Apne Antar, Aatm Darshan Kije Re",
   "firstLine": "Mere Man Nit Apne Antar, Aatm Darshan Kije Re (Tek).",
+  "heading": "।। राग जोग भजन ।। १७ ।। ८४७।।",
+  "tek": [
+    "मेरे मन नित अपने अन्तर, आत्म दर्शन कीजे रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Nit Apne Antar, Aatm Darshan Kije Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और दरस हैं जग में जेते, निश्चय जानो मिथ्या तेते ।",
+        "तामें चित्त ना दीजे रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Daras Hain Jag Men Jete, Nishchay Jaano Mithyaa Tete.",
+        "Taamen Chitt Naa Dije Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया मय अन दर्शन सारे, जन्म मरन का दुख ना टारे ।",
+        "तांते तिनहिं तजीजे रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa May An Darshan Saare, Janm Maran Kaa Dukh Naa Taare.",
+        "Taante Tinhin Tajije Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "और दरस की तजले आसा, आतम दर्शन की कर प्यासा ।",
+        "जांते बन्धन छीजे रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aur Daras Ki Tajle Aasaa, Aatam Darshan Ki Kar Pyaasaa.",
+        "Jaante Bandhan Chhije Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शरनी जाकर, निर्मल आत्म दर्शन पाकर ।",
+        "देख देख रस पीजे रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharni Jaakar, Nirmal Aatm Darshan Paakar.",
+        "Dekh Dekh Ras Pije Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द्ध"
+      ],
+      "romanLines": [
+        "Gddh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन नित पने नतर, ातम दरशन किजे रे (टेक)."
+      "और दरस हैं जग में जेते, निश्चय जानो मिथ्या तेते ।",
+      "तामें चित्त ना दीजे रे ॥१ ॥"
     ],
     [
-      "ौर दरस हैन जग मेन जेते, निशचय जानो मिथया तेते.",
-      "तामेन चितत ना दिजे रे.$ ||"
+      "माया मय अन दर्शन सारे, जन्म मरन का दुख ना टारे ।",
+      "तांते तिनहिं तजीजे रे ॥२ ॥"
     ],
     [
-      "माया मय न दरशन सारे, जनम मरन का दुःख ना तारे.",
-      "तानते तिनहिन तजिजे रे.2. ||."
+      "और दरस की तजले आसा, आतम दर्शन की कर प्यासा ।",
+      "जांते बन्धन छीजे रे ॥३ ॥"
     ],
     [
-      "ौर दरस कि तजले ासा, ातम दरशन कि कर पयासा.",
-      "जानते बनधन चहिजे रे ||.3 ||."
+      "कहे टेऊँ गुरु शरनी जाकर, निर्मल आत्म दर्शन पाकर ।",
+      "देख देख रस पीजे रे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु शरनि जाकर, निर्मल ातम दरशन पाकर.",
-      "देख देख रस पिजे रे || 4 ||"
-    ],
-    [
-      "गदध"
+      "ग््द्ध"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Nit Apne Antar, Aatm Darshan Kije Re (Tek)."
-    ],
-    [
       "Aur Daras Hain Jag Men Jete, Nishchay Jaano Mithyaa Tete.",
-      "Taamen Chitt Naa Dije Re.$ ||"
+      "Taamen Chitt Naa Dije Re || 1 ||"
     ],
     [
       "Maayaa May An Darshan Saare, Janm Maran Kaa Dukh Naa Taare.",
-      "Taante Tinhin Tajije Re.2. ||."
+      "Taante Tinhin Tajije Re || 2 ||"
     ],
     [
       "Aur Daras Ki Tajle Aasaa, Aatam Darshan Ki Kar Pyaasaa.",
-      "Jaante Bandhan Chhije Re ||.3 ||."
+      "Jaante Bandhan Chhije Re || 3 ||"
     ],
     [
       "Kahe Teun Guru Sharni Jaakar, Nirmal Aatm Darshan Paakar.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 17 || 847 ||",
+    "मेरे मन नित अपने अन्तर, आत्म दर्शन कीजे रे",
     "Mere Man Nit Apne Antar, Aatm Darshan Kije Re",
-    "मेरे मन नित पने नतर, ातम दरशन किजे रे"
+    "राग जोग भजन 17",
+    "Raag Jog Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 847,
+  "displayOrder": 17,
+  "overallOrder": 845,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 448",
+  "updatedAt": "2026-10-26"
 }

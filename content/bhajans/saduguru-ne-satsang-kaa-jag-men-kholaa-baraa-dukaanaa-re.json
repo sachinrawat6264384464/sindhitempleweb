@@ -1,32 +1,77 @@
 {
-  "id": "bhajan-0452",
+  "id": "bhajan-0451",
   "slug": "saduguru-ne-satsang-kaa-jag-men-kholaa-baraa-dukaanaa-re",
   "categoryId": "raag-tilang",
-  "title": "सदुगुरु ने सत्संग का जग मेन, खोला बरा दुकाना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सदूगुरु ने सत्संग का जग में, खोला बड़ा दुकाना रे",
   "romanTitle": "Saduguru Ne Satsang Kaa Jag Men, Kholaa Baraa Dukaanaa Re",
   "firstLine": "Saduguru Ne Satsang Kaa Jag Men, Kholaa Baraa Dukaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८८ ।। ४५२",
+  "tek": [
+    "सदूगुरु ने सत्संग का जग में, खोला बड़ा दुकाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saduguru Ne Satsang Kaa Jag Men, Kholaa Baraa Dukaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कर्म धर्म गुण ज्ञान भक्ति का, धरे पदार्थ नाना रे ।8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Karm Dharm Gun Gyaan Bhakti Kaa, Dhare Padaarth Naanaa Re.8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसा प्रेमी गाहक आवे, तैसा देत समाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaisaa Premi Gaahak Aave, Taisaa Det Samaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रद्धा का धन जो ले आवे, दे तिस नाम निधाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Kaa Dhan Jo Le Aave, De Tis Naam Nidhaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गर लेना चाहो, मन का तज अभिमाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Gar Lenaa Chaaho, Man Kaa Taj Abhimaanaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदुगुरु ने सत्संग का जग मेन, खोला बरा दुकाना रे (टेक)."
+      "कर्म धर्म गुण ज्ञान भक्ति का, धरे पदार्थ नाना रे ।8 ॥१ ॥"
     ],
     [
-      "करम धरम गुन ज्ञान भक्ति का, धरे पदारथ नाना रे.81. ||.",
-      "जैसा परेमि गाहक ावे, तैसा देत समाना रे.2 ||."
+      "जैसा प्रेमी गाहक आवे, तैसा देत समाना रे ॥२ ॥"
     ],
     [
-      "शरदधा का धन जो ले ावे, दे तिस नाम निधाना रे || 3 ||"
+      "श्रद्धा का धन जो ले आवे, दे तिस नाम निधाना रे ॥३ ॥"
     ],
     [
-      "कहे तेऊँ गर लेना चाहो, मन का तज भिमाना रे || 4 ||"
+      "कहे टेऊँ गर लेना चाहो, मन का तज अभिमाना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saduguru Ne Satsang Kaa Jag Men, Kholaa Baraa Dukaanaa Re (Tek)."
+      "Karm Dharm Gun Gyaan Bhakti Kaa, Dhare Padaarth Naanaa Re.8 || 1 ||"
     ],
     [
-      "Karm Dharm Gun Jnyaan Bhakti Kaa, Dhare Padaarth Naanaa Re.81. ||.",
-      "Jaisaa Premi Gaahak Aave, Taisaa Det Samaanaa Re.2 ||."
+      "Jaisaa Premi Gaahak Aave, Taisaa Det Samaanaa Re || 2 ||"
     ],
     [
       "Shraddhaa Kaa Dhan Jo Le Aave, De Tis Naam Nidhaanaa Re || 3 ||"
@@ -36,19 +81,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 88 || 452",
+    "सदूगुरु ने सत्संग का जग में, खोला बड़ा दुकाना रे",
     "Saduguru Ne Satsang Kaa Jag Men, Kholaa Baraa Dukaanaa Re",
-    "सदुगुरु ने सत्संग का जग मेन, खोला बरा दुकाना रे"
+    "राग तिलंग भजन 88",
+    "Raag Tilang Bhajan 88"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 452,
+  "displayOrder": 88,
+  "overallOrder": 451,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 254",
+  "updatedAt": "2026-10-26"
 }

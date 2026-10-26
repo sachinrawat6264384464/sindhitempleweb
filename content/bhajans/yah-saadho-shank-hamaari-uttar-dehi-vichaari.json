@@ -1,57 +1,97 @@
 {
   "id": "bhajan-0280",
   "slug": "yah-saadho-shank-hamaari-uttar-dehi-vichaari",
-  "categoryId": "raag-bhairav",
-  "title": "यह साधो शनक हमारि, ुततर देही विचारि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "यह साधो शंक हमारी, उत्तर देहि विचारी",
   "romanTitle": "Yah Saadho Shank Hamaari, Uttar Dehi Vichaari",
   "firstLine": "Yah Saadho Shank Hamaari, Uttar Dehi Vichaari (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६५ ।। २८०।।",
+  "tek": [
+    "यह साधो शंक हमारी, उत्तर देहि विचारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Saadho Shank Hamaari, Uttar Dehi Vichaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "एक नारि के तीन पुत्र हैं, ताँकी बहु कन्याएँ ।",
+        "आपस में नित झगड़ा करती, किसकी हो जयकारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ek Naari Ke Tin Putr Hain, Taanki Bahu Kanyaaen.",
+        "Aapas Men Nit Jhagraa Karti, Kiski Ho Jaykaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पुरुष नपूंसक नारि बांझ को, उभय रूप सुत जमिया ।",
+        "हाथ पांव बिन कहो कौन जो, जीते सृष्टी सारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Purush Napunsak Naari Baanjh Ko, Ubhay Rup Sut Jamiyaa.",
+        "Haath Paanv Bin Kaho Kaun Jo, Jite Srishti Saari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "एक पुरुष को बहुत कुट्म्ब है, तीन लोक में छाए ।",
+        "कहे टेऊँ सुत कौन उसीमें, जिहं निज जाति संहारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ek Purush Ko Bahut Kutmb Hai, Tin Lok Men Chhaae.",
+        "Kahe Teun Sut Kaun Usimen, Jihan Nij Jaati Sanhaari || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह साधो शनक हमारि, ुततर देही विचारि (टेक)."
+      "एक नारि के तीन पुत्र हैं, ताँकी बहु कन्याएँ ।",
+      "आपस में नित झगड़ा करती, किसकी हो जयकारी ॥१ ॥"
     ],
     [
-      "ेक नारि के तिन पुतर हैन, तानकि बहु कनयाेन.",
-      "ापस मेन नित झगरा करति, किसकि हो जयकारि || 1 ||."
+      "पुरुष नपूंसक नारि बांझ को, उभय रूप सुत जमिया ।",
+      "हाथ पांव बिन कहो कौन जो, जीते सृष्टी सारी ॥२ ॥"
     ],
     [
-      "पुरुश नपुनसक नारि बानझ को, ुभय रुप सुत जमिया.",
-      "हाथ पानव बिन कहो कौन जो, जिते सरिशति सारि.2 ||"
-    ],
-    [
-      "ेक पुरुश को बहुत कुतमब है, तिन लोक मेन चहाे.",
-      "कहे तेऊँ सुत कौन ुसिमेन, जिहन निज जाति सनहारि || 3 ||."
+      "एक पुरुष को बहुत कुट्म्ब है, तीन लोक में छाए ।",
+      "कहे टेऊँ सुत कौन उसीमें, जिहं निज जाति संहारी ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Saadho Shank Hamaari, Uttar Dehi Vichaari (Tek)."
-    ],
-    [
       "Ek Naari Ke Tin Putr Hain, Taanki Bahu Kanyaaen.",
-      "Aapas Men Nit Jhagraa Karti, Kiski Ho Jaykaari || 1 ||."
+      "Aapas Men Nit Jhagraa Karti, Kiski Ho Jaykaari || 1 ||"
     ],
     [
       "Purush Napunsak Naari Baanjh Ko, Ubhay Rup Sut Jamiyaa.",
-      "Haath Paanv Bin Kaho Kaun Jo, Jite Srishti Saari.2 ||"
+      "Haath Paanv Bin Kaho Kaun Jo, Jite Srishti Saari || 2 ||"
     ],
     [
       "Ek Purush Ko Bahut Kutmb Hai, Tin Lok Men Chhaae.",
-      "Kahe Teun Sut Kaun Usimen, Jihan Nij Jaati Sanhaari || 3 ||."
+      "Kahe Teun Sut Kaun Usimen, Jihan Nij Jaati Sanhaari || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 65 || 280 ||",
+    "यह साधो शंक हमारी, उत्तर देहि विचारी",
     "Yah Saadho Shank Hamaari, Uttar Dehi Vichaari",
-    "यह साधो शनक हमारि, ुततर देही विचारि"
+    "राग भैरवी भजन 65",
+    "Raag Bhairvi Bhajan 65"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 280,
+  "displayOrder": 65,
+  "overallOrder": 280,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 171",
+  "updatedAt": "2026-10-26"
 }

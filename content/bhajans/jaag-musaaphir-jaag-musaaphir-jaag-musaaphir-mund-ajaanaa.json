@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0772",
+  "id": "bhajan-0770",
   "slug": "jaag-musaaphir-jaag-musaaphir-jaag-musaaphir-mund-ajaanaa",
   "categoryId": "raag-pilaa",
-  "title": "जाग मुसाफिर जाग मुसाफिर, जाग मुसाफिर मुनद जाना",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "जाग मुसाफिर जाग मुसाफिर, जाग मुसाफिर मूण्ड अजाना",
   "romanTitle": "Jaag Musaaphir Jaag Musaaphir, Jaag Musaaphir Mund Ajaanaa",
-  "firstLine": "Jaag Musaaphir Jaag Musaaphir, Jaag Musaaphir Mund Ajaanaa. Nindan Kije Guru Mati Lije,Hari Ras Pije Kar Gun Gaanaa (Tek).",
+  "firstLine": "Jaag Musaaphir Jaag Musaaphir, Jaag Musaaphir Mund Ajaanaa.",
+  "heading": "।। राग पीला भजन ॥।। ५० ।। ७७२।।",
+  "tek": [
+    "जाग मुसाफिर जाग मुसाफिर, जाग मुसाफिर मूण्ड अजाना ।",
+    "नींदन कीजे गुरु मति लीजे,हरि रस पीजे कर गुन गाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaag Musaaphir Jaag Musaaphir, Jaag Musaaphir Mund Ajaanaa.",
+    "Nindan Kije Guru Mati Lije,Hari Ras Pije Kar Gun Gaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मारग में तुम बैठ न जाओ, उठ कर आगे पांव बढ़ाओ ।",
+        "यह संसारा चलने हारा, कछु न तुम्हारा क्यों लपटाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maarag Men Tum Baith Na Jaao, Uth Kar Aage Paanv Barhaao.",
+        "Yah Sansaaraa Chalne Haaraa, Kachhu Na Tumhaaraa Kyon Laptaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुर्लभ पाया मानुष चोला, खोय न वृथा जन्म अमोला ।",
+        "ध्यान धरीजे भजन करीजे, भ्रम हरीजे ले गुरु ज्ञाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Durlabh Paayaa Maanush Cholaa, Khoy Na Vrithaa Janm Amolaa.",
+        "Dhyaan Dharije Bhajan Karije, Bhram Harije Le Guru Jnyaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ऊठ मुसाफिर समय न खोना, गफ्लत में ना इतना सोना ।",
+        "ना को तेरा ना को मेरा, जगत बखेरा छोड़ सुजाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Uth Musaaphir Samay Na Khonaa, Gaphlat Men Naa Itnaa Sonaa.",
+        "Naa Ko Teraa Naa Ko Meraa, Jagat Bakheraa Chhor Sujaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ करे सुजागी, हरि चरनों में हो अनुरागी ।",
+        "श्रद्धा धर के सत्संग करके , भव से तरके मिल भगवाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Kare Sujaagi, Hari Charnon Men Ho Anuraagi.",
+        "Shraddhaa Dhar Ke Satsang Karke, Bhav Se Tarke Mil Bhagvaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जाग मुसाफिर जाग मुसाफिर, जाग मुसाफिर मुनद जाना.",
-      "निनदन किजे गुरु मति लिजेहरि रस पिजे कर गुन गाना (टेक)."
+      "मारग में तुम बैठ न जाओ, उठ कर आगे पांव बढ़ाओ ।",
+      "यह संसारा चलने हारा, कछु न तुम्हारा क्यों लपटाना ॥१ ॥"
     ],
     [
-      "मारग मेन तुम बैथ न जाो, ुथ कर ागे पानव बरहाो.",
-      "यह सनसारा चलने हारा, कचहु न तुमहारा कयोन लपताना || 1 ||."
+      "दुर्लभ पाया मानुष चोला, खोय न वृथा जन्म अमोला ।",
+      "ध्यान धरीजे भजन करीजे, भ्रम हरीजे ले गुरु ज्ञाना ॥२ ॥"
     ],
     [
-      "दुरलभ पाया मानुश चोला, खोय न वरिथा जनम मोला.",
-      "ध्यान धरिजे भजन करिजे, भरम हरिजे ले गुरु जनयाना || 2 ||."
+      "ऊठ मुसाफिर समय न खोना, गफ्लत में ना इतना सोना ।",
+      "ना को तेरा ना को मेरा, जगत बखेरा छोड़ सुजाना ॥३ ॥"
     ],
     [
-      "ुथ मुसाफिर समय न खोना, गफलत मेन ना ितना सोना.",
-      "ना को तेरा ना को मेरा, जगत बखेरा चहोर सुजाना || 3 ||."
-    ],
-    [
-      "कहता तेऊँ करे सुजागि, हरि चरनोन मेन हो नुरागि.",
-      "शरदधा धर के सत्संग करके, भव से तरके मिल भगवाना || 4 ||"
+      "कहता टेऊँ करे सुजागी, हरि चरनों में हो अनुरागी ।",
+      "श्रद्धा धर के सत्संग करके , भव से तरके मिल भगवाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jaag Musaaphir Jaag Musaaphir, Jaag Musaaphir Mund Ajaanaa.",
-      "Nindan Kije Guru Mati Lije,Hari Ras Pije Kar Gun Gaanaa (Tek)."
+      "Maarag Men Tum Baith Na Jaao, Uth Kar Aage Paanv Barhaao.",
+      "Yah Sansaaraa Chalne Haaraa, Kachhu Na Tumhaaraa Kyon Laptaanaa || 1 ||"
     ],
     [
-      "Maarag Men Tum Baith N Jaao, Uth Kar Aage Paanv Barhaao.",
-      "Yah Sansaaraa Chalne Haaraa, Kachhu N Tumhaaraa Kyon Laptaanaa || 1 ||."
+      "Durlabh Paayaa Maanush Cholaa, Khoy Na Vrithaa Janm Amolaa.",
+      "Dhyaan Dharije Bhajan Karije, Bhram Harije Le Guru Jnyaanaa || 2 ||"
     ],
     [
-      "Durlabh Paayaa Maanush Cholaa, Khoy N Vrithaa Janm Amolaa.",
-      "Dhyaan Dharije Bhajan Karije, Bhram Harije Le Guru Jnyaanaa || 2 ||."
-    ],
-    [
-      "Uth Musaaphir Samay N Khonaa, Gaphlat Men Naa Itnaa Sonaa.",
-      "Naa Ko Teraa Naa Ko Meraa, Jagat Bakheraa Chhor Sujaanaa || 3 ||."
+      "Uth Musaaphir Samay Na Khonaa, Gaphlat Men Naa Itnaa Sonaa.",
+      "Naa Ko Teraa Naa Ko Meraa, Jagat Bakheraa Chhor Sujaanaa || 3 ||"
     ],
     [
       "Kahtaa Teun Kare Sujaagi, Hari Charnon Men Ho Anuraagi.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || || 50 || 772 ||",
+    "जाग मुसाफिर जाग मुसाफिर, जाग मुसाफिर मूण्ड अजाना",
     "Jaag Musaaphir Jaag Musaaphir, Jaag Musaaphir Mund Ajaanaa",
-    "जाग मुसाफिर जाग मुसाफिर, जाग मुसाफिर मुनद जाना"
+    "राग पीला भजन 49",
+    "Raag Pilaa Bhajan 49"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 772,
+  "displayOrder": 49,
+  "overallOrder": 770,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 408",
+  "updatedAt": "2026-10-26"
 }

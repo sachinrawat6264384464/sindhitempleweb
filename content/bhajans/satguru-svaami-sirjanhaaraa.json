@@ -2,43 +2,92 @@
   "id": "bhajan-0146",
   "slug": "satguru-svaami-sirjanhaaraa",
   "categoryId": "raag-aasaa",
-  "title": "सतगुरु स्वामी सिरजनहारा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सत्गुरु स्वामी सिरजनहारा",
   "romanTitle": "Satguru Svaami Sirjanhaaraa",
-  "firstLine": "Satguru Svaami Sirjanhaaraa. Devo Sadaa Mohi Gang Kinaaraa (Tek).",
+  "firstLine": "Satguru Svaami Sirjanhaaraa.",
+  "heading": "।। राग आसा भजन ।। ८४ ।। १४६।॥।",
+  "tek": [
+    "सत्गुरु स्वामी सिरजनहारा ।",
+    "देवो सदा मोहि गंग किनारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satguru Svaami Sirjanhaaraa.",
+    "Devo Sadaa Mohi Gang Kinaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सनतों का संग होवे, कथा प्रसंग होवे ।",
+        "मन में उमंग होवे, चिन्ता परिहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Kaa Sang Hove, Kathaa Prasang Hove.",
+        "Man Men Umang Hove, Chintaa Parihaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रहने को झाड़ी होवे, आगे फुलवाड़ी होवे ।",
+        "चन्द्र उज्यारी होवे, गिरि का निज़ारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Rahne Ko Jhaari Hove, Aage Phulvaari Hove.",
+        "Chandr Ujyaari Hove, Giri Kaa Nizaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "महा एकान्ती होवे, मन में शान्ती होवे ।",
+        "स्मरण ज़ाती होवे, ओम उच्चारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mahaa Ekaanti Hove, Man Men Shaanti Hove.",
+        "Smaran Zaati Hove, Om Uchchaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जानो मुझ अपना चेरा, हृदय में करलो डेरा ।",
+        "कहे टेऊँ काटो मेरा, मोह विकारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jaano Mujh Apnaa Cheraa, Hriday Men Karlo Deraa.",
+        "Kahe Teun Kaato Meraa, Moh Vikaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु स्वामी सिरजनहारा.",
-      "देवो सदा मोहि गनग किनारा (टेक)."
+      "सनतों का संग होवे, कथा प्रसंग होवे ।",
+      "मन में उमंग होवे, चिन्ता परिहारा ॥१ ॥"
     ],
     [
-      "सनतोन का सनग होवे, कथा परसनग होवे.",
-      "मन मेन ुमनग होवे, चिनता परिहारा. || 1 ||."
+      "रहने को झाड़ी होवे, आगे फुलवाड़ी होवे ।",
+      "चन्द्र उज्यारी होवे, गिरि का निज़ारा ॥२ ॥"
     ],
     [
-      "रहने को झारि होवे, ागे फुलवारि होवे.",
-      "चनदर ुजयारि होवे, गिरि का निzारा.2 ||."
+      "महा एकान्ती होवे, मन में शान्ती होवे ।",
+      "स्मरण ज़ाती होवे, ओम उच्चारा ॥३ ॥"
     ],
     [
-      "महा ेकानति होवे, मन मेन शांति होवे.",
-      "समरन zाति होवे, ॐ ुचचारा || 3 ||"
-    ],
-    [
-      "जानो मुझ पना चेरा, हरिदय मेन करलो देरा.",
-      "कहे तेऊँ कातो मेरा, मोह विकारा || 4 ||"
+      "जानो मुझ अपना चेरा, हृदय में करलो डेरा ।",
+      "कहे टेऊँ काटो मेरा, मोह विकारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Satguru Svaami Sirjanhaaraa.",
-      "Devo Sadaa Mohi Gang Kinaaraa (Tek)."
-    ],
-    [
       "Santon Kaa Sang Hove, Kathaa Prasang Hove.",
-      "Man Men Umang Hove, Chintaa Parihaaraa. || 1 ||."
+      "Man Men Umang Hove, Chintaa Parihaaraa || 1 ||"
     ],
     [
       "Rahne Ko Jhaari Hove, Aage Phulvaari Hove.",
-      "Chandr Ujyaari Hove, Giri Kaa Nizaaraa.2 ||."
+      "Chandr Ujyaari Hove, Giri Kaa Nizaaraa || 2 ||"
     ],
     [
       "Mahaa Ekaanti Hove, Man Men Shaanti Hove.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 84 || 146. ||.",
+    "सत्गुरु स्वामी सिरजनहारा",
     "Satguru Svaami Sirjanhaaraa",
-    "सतगुरु स्वामी सिरजनहारा"
+    "राग आसा भजन 84",
+    "Raag Aasaa Bhajan 84"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 146,
+  "displayOrder": 84,
+  "overallOrder": 146,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 102",
+  "updatedAt": "2026-10-26"
 }

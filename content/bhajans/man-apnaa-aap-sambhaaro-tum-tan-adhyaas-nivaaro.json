@@ -2,64 +2,104 @@
   "id": "bhajan-0398",
   "slug": "man-apnaa-aap-sambhaaro-tum-tan-adhyaas-nivaaro",
   "categoryId": "raag-tilang",
-  "title": "मन पना ाप समभारो, तुम तन धयास निवारो",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मन अपना आप सम्भारो, तुम तन अध्यास निवारो",
   "romanTitle": "Man Apnaa Aap Sambhaaro, Tum Tan Adhyaas Nivaaro",
   "firstLine": "Man Apnaa Aap Sambhaaro, Tum Tan Adhyaas Nivaaro (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ३५ ।। ३९९।।",
+  "tek": [
+    "मन अपना आप सम्भारो, तुम तन अध्यास निवारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Apnaa Aap Sambhaaro, Tum Tan Adhyaas Nivaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह तन कारज भूतन केरा, जड़ परिणामी दुख का डेरा ।",
+        "सत्‌्चित्‌ आनन्द स्वरूप तेरा, यह निश्चय उर में धारो ॥१ ॥",
+        "तन के गिरते तूं ना गिरता, तन के जरते तूं ना जरता ।",
+        "तन के मरते तूं ना मरता, इस तन से तूं है न्यारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yah Tan Kaaraj Bhutan Keraa, Jar Parinaami Dukh Kaa Deraa.",
+        "Sat‌Chit‌ Aanand Svarup Teraa, Yah Nishchay Ur Men Dhaaro || 1 ||",
+        "Tan Ke Girte Tu Naa Girtaa, Tan Ke Jarte Tu Naa Jartaa.",
+        "Tan Ke Marte Tu Naa Martaa, Is Tan Se Tu Hai Nyaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "छिन छिन पलटत जात शरीरा, तुम हो चेतन इक रस धीरा ।",
+        "कर्मों से तन भोगत पीरा, नहिं तूं है भोगनहारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chhin Chhin Paltat Jaat Shariraa, Tum Ho Chetan Ik Ras Dhiraa.",
+        "Karmon Se Tan Bhogat Piraa, Nahin Tu Hai Bhognahaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सिर सड़ट सहना, अपने को तन भूल न कहना ।",
+        "आतम में नित स्थित रहना, यह मानो वचन हमारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sir Sarat Sahnaa, Apne Ko Tan Bhul Na Kahnaa.",
+        "Aatam Men Nit Sthit Rahnaa, Yah Maano Vachan Hamaaro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन पना ाप समभारो, तुम तन धयास निवारो (टेक)."
+      "यह तन कारज भूतन केरा, जड़ परिणामी दुख का डेरा ।",
+      "सत्‌्चित्‌ आनन्द स्वरूप तेरा, यह निश्चय उर में धारो ॥१ ॥",
+      "तन के गिरते तूं ना गिरता, तन के जरते तूं ना जरता ।",
+      "तन के मरते तूं ना मरता, इस तन से तूं है न्यारो ॥२ ॥"
     ],
     [
-      "यह तन कारज भुतन केरा, जर परिनामि दुःख का देरा.",
-      "सतचित‌ आनंद सवरुप तेरा, यह निशचय ुर मेन धारो 1"
+      "छिन छिन पलटत जात शरीरा, तुम हो चेतन इक रस धीरा ।",
+      "कर्मों से तन भोगत पीरा, नहिं तूं है भोगनहारो ॥३ ॥"
     ],
     [
-      "तन के गिरते तु ना गिरता, तन के जरते तु ना जरता.",
-      "तन के मरते तु ना मरता, िस तन से तु है नयारो || 2 ||."
-    ],
-    [
-      "चहिन चहिन पलतत जात शरिरा, तुम हो चेतन िक रस धिरा.",
-      "करमोन से तन भोगत पिरा, नहिन तु है भोगनहारो || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सिर सरत सहना, पने को तन भुल न कहना.",
-      "ातम मेन नित सथित रहना, यह मानो वचन हमारो || 4 ||"
+      "कहे टेऊँ सिर सड़ट सहना, अपने को तन भूल न कहना ।",
+      "आतम में नित स्थित रहना, यह मानो वचन हमारो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Apnaa Aap Sambhaaro, Tum Tan Adhyaas Nivaaro (Tek)."
-    ],
-    [
       "Yah Tan Kaaraj Bhutan Keraa, Jar Parinaami Dukh Kaa Deraa.",
-      "Sat‌Chit‌ Aanand Svarup Teraa, Yah Nishchay Ur Men Dhaaro 1"
-    ],
-    [
+      "Sat‌Chit‌ Aanand Svarup Teraa, Yah Nishchay Ur Men Dhaaro || 1 ||",
       "Tan Ke Girte Tu Naa Girtaa, Tan Ke Jarte Tu Naa Jartaa.",
-      "Tan Ke Marte Tu Naa Martaa, Is Tan Se Tu Hai Nyaaro || 2 ||."
+      "Tan Ke Marte Tu Naa Martaa, Is Tan Se Tu Hai Nyaaro || 2 ||"
     ],
     [
       "Chhin Chhin Paltat Jaat Shariraa, Tum Ho Chetan Ik Ras Dhiraa.",
-      "Karmon Se Tan Bhogat Piraa, Nahin Tu Hai Bhognahaaro || 3 ||."
+      "Karmon Se Tan Bhogat Piraa, Nahin Tu Hai Bhognahaaro || 3 ||"
     ],
     [
-      "Kahe Teun Sir Sarat Sahnaa, Apne Ko Tan Bhul N Kahnaa.",
+      "Kahe Teun Sir Sarat Sahnaa, Apne Ko Tan Bhul Na Kahnaa.",
       "Aatam Men Nit Sthit Rahnaa, Yah Maano Vachan Hamaaro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 35 || 399 ||",
+    "मन अपना आप सम्भारो, तुम तन अध्यास निवारो",
     "Man Apnaa Aap Sambhaaro, Tum Tan Adhyaas Nivaaro",
-    "मन पना ाप समभारो, तुम तन धयास निवारो"
+    "राग तिलंग भजन 35",
+    "Raag Tilang Bhajan 35"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 398,
+  "displayOrder": 35,
+  "overallOrder": 398,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 233",
+  "updatedAt": "2026-10-26"
 }

@@ -1,57 +1,97 @@
 {
   "id": "bhajan-0350",
   "slug": "santon-ke-sang-hori-khelo-pivo-prem-pyaalaa-re",
-  "categoryId": "raag-aasaa",
-  "title": "सनतोन के सनग होरि खेलो, पिवो प्रेम पयाला रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "सन्तों के संग होरी खेलो, पीवो प्रेम प्याला रे",
   "romanTitle": "Santon Ke Sang Hori Khelo, Pivo Prem Pyaalaa Re",
   "firstLine": "Santon Ke Sang Hori Khelo, Pivo Prem Pyaalaa Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। ७ ।। ३५०",
+  "tek": [
+    "सन्तों के संग होरी खेलो, पीवो प्रेम प्याला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Ke Sang Hori Khelo, Pivo Prem Pyaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जांके पीवत होय बहारी, दिन दिन बढ़ती जाय खुमारी ।",
+        "होवे मन मतिवाला रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaanke Pivat Hoy Bahaari, Din Din Barhti Jaay Khumaari.",
+        "Hove Man Mativaalaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "श्रद्धा की तुम केसर करिये, इत्र अम्बीर श्रेष्ठ गुण धरिये ।",
+        "लाओ ज्ञान गुलाला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Ki Tum Kesar Kariye, Itr Ambir Shreshth Gun Dhariye.",
+        "Laao Gyaan Gulaalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ यह होरी गाये, ब्रह्मानन्द में वृत्ति मिलाये ।",
+        "पाओ आनन्द विशाला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Hori Gaaye, Brahmaanand Men Vritti Milaaye.",
+        "Paao Aanand Vishaalaa Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन के सनग होरि खेलो, पिवो प्रेम पयाला रे (टेक)."
+      "जांके पीवत होय बहारी, दिन दिन बढ़ती जाय खुमारी ।",
+      "होवे मन मतिवाला रे ॥१ ॥"
     ],
     [
-      "जानके पिवत होय बहारि, दीन दीन बरहति जाय खुमारि.",
-      "होवे मन मतिवाला रे || 1. ||."
+      "श्रद्धा की तुम केसर करिये, इत्र अम्बीर श्रेष्ठ गुण धरिये ।",
+      "लाओ ज्ञान गुलाला रे ॥२ ॥"
     ],
     [
-      "शरदधा कि तुम केसर करिये, ितर मबिर शरेशथ गुन धरिये.",
-      "लाो ज्ञान गुलाला रे. || 2 ||."
-    ],
-    [
-      "कहे तेऊँ यह होरि गाये, बरहमाननद मेन वरितति मिलाये.",
-      "पाो आनंद विशाला रे || 3 ||."
+      "कहे टेऊँ यह होरी गाये, ब्रह्मानन्द में वृत्ति मिलाये ।",
+      "पाओ आनन्द विशाला रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Santon Ke Sang Hori Khelo, Pivo Prem Pyaalaa Re (Tek)."
-    ],
-    [
       "Jaanke Pivat Hoy Bahaari, Din Din Barhti Jaay Khumaari.",
-      "Hove Man Mativaalaa Re || 1. ||."
+      "Hove Man Mativaalaa Re || 1 ||"
     ],
     [
       "Shraddhaa Ki Tum Kesar Kariye, Itr Ambir Shreshth Gun Dhariye.",
-      "Laao Jnyaan Gulaalaa Re. || 2 ||."
+      "Laao Gyaan Gulaalaa Re || 2 ||"
     ],
     [
       "Kahe Teun Yah Hori Gaaye, Brahmaanand Men Vritti Milaaye.",
-      "Paao Aanand Vishaalaa Re || 3 ||."
+      "Paao Aanand Vishaalaa Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 7 || 350",
+    "सन्तों के संग होरी खेलो, पीवो प्रेम प्याला रे",
     "Santon Ke Sang Hori Khelo, Pivo Prem Pyaalaa Re",
-    "सनतोन के सनग होरि खेलो, पिवो प्रेम पयाला रे"
+    "राग बसंत भजन 7",
+    "Raag Basant Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 350,
+  "displayOrder": 7,
+  "overallOrder": 350,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 207",
+  "updatedAt": "2026-10-26"
 }

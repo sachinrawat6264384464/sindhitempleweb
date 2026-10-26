@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0644",
+  "id": "bhajan-0642",
   "slug": "tumho-saakshi-chetan-chidughan-teraa-jag-aabhaas-hai",
   "categoryId": "raag-kanso",
-  "title": "तुमहो साक्षी चेतन चिदुघन, तेरा जग ाभास है",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "तुमहो साक्षी चेतन चिदूघन, तेरा जग आभास है",
   "romanTitle": "Tumho Saakshi Chetan Chidughan, Teraa Jag Aabhaas Hai",
   "firstLine": "Tumho Saakshi Chetan Chidughan, Teraa Jag Aabhaas Hai (Tek).",
+  "heading": "।। राग कंसो भजन ।। १३ ।। ६४३।।",
+  "tek": [
+    "तुमहो साक्षी चेतन चिदूघन, तेरा जग आभास है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tumho Saakshi Chetan Chidughan, Teraa Jag Aabhaas Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जाग्रत स्वपन सुषोपति तुरिया, तामें तब प्रकाश है ।",
+        "अपने आप में स्थित हो तुम, ज्यों स्थित आकाश है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapan Sushopti Turiyaa, Taamen Tab Prakaash Hai.",
+        "Apne Aap Men Sthit Ho Tum, Jyon Sthit Aakaash Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अन्तर बाहर खेल तुम्हारा, नवखंड माहिं निवास है ।",
+        "चींटी कुंचर माहिं व्यापक, एक अखंड अविनाश है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Antar Baahar Khel Tumhaaraa, Navkhand Maahin Nivaas Hai.",
+        "Chinti Kunchar Maahin Vyaapak, Ek Akhand Avinaash Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सगुन निर्गुन नाम तुम्हारा, करते वेद विलास है ।",
+        "अपनी मौज बढ़ावन कारन, कीना स्वयं विकास है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sagun Nirgun Naam Tumhaaraa, Karte Ved Vilaas Hai.",
+        "Apni Mauj Barhaavan Kaaran, Kinaa Svayan Vikaas Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आना जाना तुझमें नाहीं, ना तेरा कब नास है ।",
+        "कहे टेऊँ यह निश्चय करले, तूं स्वामी तूं दास है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aanaa Jaanaa Tujhmen Naahin, Naa Teraa Kab Naas Hai.",
+        "Kahe Teun Yah Nishchay Karle, Tu Svaami Tu Daas Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुमहो साक्षी चेतन चिदुघन, तेरा जग ाभास है (टेक)."
+      "जाग्रत स्वपन सुषोपति तुरिया, तामें तब प्रकाश है ।",
+      "अपने आप में स्थित हो तुम, ज्यों स्थित आकाश है ॥१ ॥"
     ],
     [
-      "जागरत सवपन सुशोपति तुरिया, तामेन तब प्रकाश है.",
-      "पने ाप मेन सथित हो तुम, जयोन सथित ाकाश है || 1 ||"
+      "अन्तर बाहर खेल तुम्हारा, नवखंड माहिं निवास है ।",
+      "चींटी कुंचर माहिं व्यापक, एक अखंड अविनाश है ॥२ ॥"
     ],
     [
-      "नतर बाहर खेल तुमहारा, नवखनद माहिन निवास है.",
-      "चिनति कुनचर माहिन वयापक, ेक खनद विनाश है || 2 ||."
+      "सगुन निर्गुन नाम तुम्हारा, करते वेद विलास है ।",
+      "अपनी मौज बढ़ावन कारन, कीना स्वयं विकास है ॥३ ॥"
     ],
     [
-      "सगुन निरगुन नाम तुमहारा, करते वेद विलास है.",
-      "पनि मौज बरहावन कारन, किना सवयन विकास है || 3 ||."
-    ],
-    [
-      "ाना जाना तुझमेन नाहिन, ना तेरा कब नास है.",
-      "कहे तेऊँ यह निशचय करले, तु स्वामी तु दास है || 4 ||"
+      "आना जाना तुझमें नाहीं, ना तेरा कब नास है ।",
+      "कहे टेऊँ यह निश्चय करले, तूं स्वामी तूं दास है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tumho Saakshi Chetan Chidughan, Teraa Jag Aabhaas Hai (Tek)."
-    ],
-    [
-      "Jaagrat Svapan Sushopti Turiyaa, Taamen Tab Prakash Hai.",
+      "Jaagrat Svapan Sushopti Turiyaa, Taamen Tab Prakaash Hai.",
       "Apne Aap Men Sthit Ho Tum, Jyon Sthit Aakaash Hai || 1 ||"
     ],
     [
       "Antar Baahar Khel Tumhaaraa, Navkhand Maahin Nivaas Hai.",
-      "Chinti Kunchar Maahin Vyaapak, Ek Akhand Avinaash Hai || 2 ||."
+      "Chinti Kunchar Maahin Vyaapak, Ek Akhand Avinaash Hai || 2 ||"
     ],
     [
       "Sagun Nirgun Naam Tumhaaraa, Karte Ved Vilaas Hai.",
-      "Apni Mauj Barhaavan Kaaran, Kinaa Svayan Vikaas Hai || 3 ||."
+      "Apni Mauj Barhaavan Kaaran, Kinaa Svayan Vikaas Hai || 3 ||"
     ],
     [
       "Aanaa Jaanaa Tujhmen Naahin, Naa Teraa Kab Naas Hai.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 13 || 643 ||",
+    "तुमहो साक्षी चेतन चिदूघन, तेरा जग आभास है",
     "Tumho Saakshi Chetan Chidughan, Teraa Jag Aabhaas Hai",
-    "तुमहो साक्षी चेतन चिदुघन, तेरा जग ाभास है"
+    "राग कंसो भजन 13",
+    "Raag Kanso Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 644,
+  "displayOrder": 13,
+  "overallOrder": 642,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 343",
+  "updatedAt": "2026-10-26"
 }

@@ -1,28 +1,90 @@
 {
-  "id": "bhajan-0854",
+  "id": "bhajan-0852",
   "slug": "sadguru-ye-mujh-bhed-bataao-jan-se-maayaa-kyon-larti",
   "categoryId": "raag-jog",
-  "title": "सद्गुरु ये मुझ भेद बताो, जन से माया कयोन लरति",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सद्‌गुरु ये मुझ भेद बताओ, जन से माया क्यों लड़ती",
   "romanTitle": "Sad‌Guru Ye Mujh Bhed Bataao, Jan Se Maayaa Kyon Larti",
   "firstLine": "Sad‌Guru Ye Mujh Bhed Bataao, Jan Se Maayaa Kyon Larti (Tek).",
+  "heading": "।। राग जोग भजन ।। र४ ।। ८५४।॥",
+  "tek": [
+    "सद्‌गुरु ये मुझ भेद बताओ, जन से माया क्यों लड़ती ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Ye Mujh Bhed Bataao, Jan Se Maayaa Kyon Larti (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अपनी सौकन जन को जाने, हरि ढिग आने से डरती ॥१ ॥"
+      ],
+      "romanLines": [
+        "Apni Saukan Jan Ko Jaane, Hari Dhig Aane Se Darti || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "और मुझे शंका है मनमें, आखिर किसकी हो चढ़ती ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aur Mujhe Shankaa Hai Manmen, Aakhir Kiski Ho Charhti || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हाथ पकड़ हरि खींचे जनको, पीछे माया जा पड़ती ॥३ ॥"
+      ],
+      "romanLines": [
+        "Haath Pakar Hari Khinche Janko, Pichhe Maayaa Jaa Parti || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हरि कृपा से दासी बनकर, हरिजन के पग सिर धरती ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hari Kripaa Se Daasi Bankar, Harijan Ke Pag Sir Dharti || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ हरि राखा जन का, माया तिहं सेवा करती ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Raakhaa Jan Kaa, Maayaa Tihan Sevaa Karti || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "गदर"
+      ],
+      "romanLines": [
+        "Gadar"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु ये मुझ भेद बताो, जन से माया कयोन लरति (टेक)."
+      "अपनी सौकन जन को जाने, हरि ढिग आने से डरती ॥१ ॥"
     ],
     [
-      "पनि सौकन जन को जाने, हरि धिग ाने से दरति || 1 ||"
+      "और मुझे शंका है मनमें, आखिर किसकी हो चढ़ती ॥२ ॥"
     ],
     [
-      "ौर मुझे शनका है मनमेन, ाखिर किसकि हो चरहति || 2 ||."
+      "हाथ पकड़ हरि खींचे जनको, पीछे माया जा पड़ती ॥३ ॥"
     ],
     [
-      "हाथ पकर हरि खिनचे जनको, पिचहे माया जा परति || 3 ||."
+      "हरि कृपा से दासी बनकर, हरिजन के पग सिर धरती ॥४ ॥"
     ],
     [
-      "हरि कृपा से दासि बनकर, हरिजन के पग सिर धरति || 4 ||"
-    ],
-    [
-      "कहे तेऊँ हरि राखा जन का, माया तिहन सेवा करति || 5. ||."
+      "कहे टेऊँ हरि राखा जन का, माया तिहं सेवा करती ॥५ ॥"
     ],
     [
       "गदर"
@@ -30,41 +92,39 @@
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Ye Mujh Bhed Bataao, Jan Se Maayaa Kyon Larti (Tek)."
-    ],
-    [
       "Apni Saukan Jan Ko Jaane, Hari Dhig Aane Se Darti || 1 ||"
     ],
     [
-      "Aur Mujhe Shankaa Hai Manmen, Aakhir Kiski Ho Charhti || 2 ||."
+      "Aur Mujhe Shankaa Hai Manmen, Aakhir Kiski Ho Charhti || 2 ||"
     ],
     [
-      "Haath Pakar Hari Khinche Janko, Pichhe Maayaa Jaa Parti || 3 ||."
+      "Haath Pakar Hari Khinche Janko, Pichhe Maayaa Jaa Parti || 3 ||"
     ],
     [
       "Hari Kripaa Se Daasi Bankar, Harijan Ke Pag Sir Dharti || 4 ||"
     ],
     [
-      "Kahe Teun Hari Raakhaa Jan Kaa, Maayaa Tihan Sevaa Karti || 5. ||."
+      "Kahe Teun Hari Raakhaa Jan Kaa, Maayaa Tihan Sevaa Karti || 5 ||"
     ],
     [
       "Gadar"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || R4 || 854. ||",
+    "सद्‌गुरु ये मुझ भेद बताओ, जन से माया क्यों लड़ती",
     "Sad‌Guru Ye Mujh Bhed Bataao, Jan Se Maayaa Kyon Larti",
-    "सद्गुरु ये मुझ भेद बताो, जन से माया कयोन लरति"
+    "राग जोग भजन 24",
+    "Raag Jog Bhajan 24"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 854,
+  "displayOrder": 24,
+  "overallOrder": 852,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 451",
+  "updatedAt": "2026-10-26"
 }

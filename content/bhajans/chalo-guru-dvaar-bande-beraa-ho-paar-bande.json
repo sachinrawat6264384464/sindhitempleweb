@@ -1,72 +1,109 @@
 {
-  "id": "bhajan-0798",
+  "id": "bhajan-0796",
   "slug": "chalo-guru-dvaar-bande-beraa-ho-paar-bande",
   "categoryId": "raag-pilaa",
-  "title": "चलो गुरु दवार बनदे, बेरा हो पार बनदे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "चलो गुरु द्वार बन्दे, बेड़ा हो पार बन्दे",
   "romanTitle": "Chalo Guru Dvaar Bande, Beraa Ho Paar Bande",
   "firstLine": "Chalo Guru Dvaar Bande, Beraa Ho Paar Bande (Tek).",
+  "heading": "।। राग पीला भजन ।। ७६ ।। ७९८।।",
+  "tek": [
+    "चलो गुरु द्वार बन्दे, बेड़ा हो पार बन्दे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chalo Guru Dvaar Bande, Beraa Ho Paar Bande (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरुदेव जगत में हैं ज्ञानी सच्चे, जो शरनि पड़े सो रंग में रचे ।",
+        "माया मोह ममत से सोई बचे, कभी नरक अग्नि में नाहिं पचे ।",
+        "पाए फल चार बन्दे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gurudev Jagat Men Hain Jnyaani Sachche, Jo Sharni Pare So Rang Men Rache.",
+        "Maayaa Moh Mamat Se Soi Bache, Kabhi Narak Agni Men Naahin Pache.",
+        "Paae Phal Chaar Bande || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरुदेव सर्व हितकारी है, पुनि पूरण पर उपकारी है ।",
+        "जांकी वाणी मधुर प्यारी है, दे दिल को आनन्द भारी है ।",
+        "सुनो सद्वार बन्दे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gurudev Sarv Hitkaari Hai, Puni Puran Par Upkaari Hai.",
+        "Jaanki Vaani Madhur Pyaari Hai, De Dil Ko Aanand Bhaari Hai.",
+        "Suno Sadvaar Bande || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरुदेव का जोई ध्यान धरे, कहे टेऊँ सो भव सिन्धु तरे ।",
+        "हो अमर सदा जन्मे न मरे, जा देश अमर में वास करे ।",
+        "ध्यान मन धार बन्दे ॥डे ॥"
+      ],
+      "romanLines": [
+        "Gurudev Kaa Joi Dhyaan Dhare, Kahe Teun So Bhav Sindhu Tare.",
+        "Ho Amar Sadaa Janme Na Mare, Jaa Desh Amar Men Vaas Kare.",
+        "Dhyaan Man Dhaar Bande || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चलो गुरु दवार बनदे, बेरा हो पार बनदे (टेक)."
+      "गुरुदेव जगत में हैं ज्ञानी सच्चे, जो शरनि पड़े सो रंग में रचे ।",
+      "माया मोह ममत से सोई बचे, कभी नरक अग्नि में नाहिं पचे ।",
+      "पाए फल चार बन्दे ॥१ ॥"
     ],
     [
-      "गुरुदेव जगत मेन हैन जनयानि सचचे, जो शरनि परे सो रनग मेन रचे.",
-      "माया मोह ममत से सोि बचे, कभि नरक गनि मेन नाहिन पचे."
+      "गुरुदेव सर्व हितकारी है, पुनि पूरण पर उपकारी है ।",
+      "जांकी वाणी मधुर प्यारी है, दे दिल को आनन्द भारी है ।",
+      "सुनो सद्वार बन्दे ॥२ ॥"
     ],
     [
-      "पाे फल चार बनदे || $ ||",
-      "गुरुदेव सर्व हितकारि है, पुनि पुरन पर ुपकारि है."
-    ],
-    [
-      "जानकि वाणी मधुर पयारि है, दे दिल को आनंद भारि है.",
-      "सुनो सदवार बनदे || 2 ||"
-    ],
-    [
-      "गुरुदेव का जोि ध्यान धरे, कहे तेऊँ सो भव सिनधु तरे.",
-      "हो मर सदा जनमे न मरे, जा देश मर मेन वास करे."
-    ],
-    [
-      "ध्यान मन धार बनदे || दे ||"
+      "गुरुदेव का जोई ध्यान धरे, कहे टेऊँ सो भव सिन्धु तरे ।",
+      "हो अमर सदा जन्मे न मरे, जा देश अमर में वास करे ।",
+      "ध्यान मन धार बन्दे ॥डे ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Chalo Guru Dvaar Bande, Beraa Ho Paar Bande (Tek)."
-    ],
-    [
       "Gurudev Jagat Men Hain Jnyaani Sachche, Jo Sharni Pare So Rang Men Rache.",
-      "Maayaa Moh Mamat Se Soi Bache, Kabhi Narak Agni Men Naahin Pache."
+      "Maayaa Moh Mamat Se Soi Bache, Kabhi Narak Agni Men Naahin Pache.",
+      "Paae Phal Chaar Bande || 1 ||"
     ],
     [
-      "Paae Phal Chaar Bande || $ ||",
-      "Gurudev Sarv Hitkaari Hai, Puni Puran Par Upkaari Hai."
-    ],
-    [
+      "Gurudev Sarv Hitkaari Hai, Puni Puran Par Upkaari Hai.",
       "Jaanki Vaani Madhur Pyaari Hai, De Dil Ko Aanand Bhaari Hai.",
       "Suno Sadvaar Bande || 2 ||"
     ],
     [
       "Gurudev Kaa Joi Dhyaan Dhare, Kahe Teun So Bhav Sindhu Tare.",
-      "Ho Amar Sadaa Janme N Mare, Jaa Desh Amar Men Vaas Kare."
-    ],
-    [
+      "Ho Amar Sadaa Janme Na Mare, Jaa Desh Amar Men Vaas Kare.",
       "Dhyaan Man Dhaar Bande || De ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 76 || 798 ||",
+    "चलो गुरु द्वार बन्दे, बेड़ा हो पार बन्दे",
     "Chalo Guru Dvaar Bande, Beraa Ho Paar Bande",
-    "चलो गुरु दवार बनदे, बेरा हो पार बनदे"
+    "राग पीला भजन 75",
+    "Raag Pilaa Bhajan 75"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 798,
+  "displayOrder": 75,
+  "overallOrder": 796,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 422",
+  "updatedAt": "2026-10-26"
 }

@@ -1,71 +1,116 @@
 {
   "id": "bhajan-0298",
   "slug": "kar-raam-charan-ki-aas-re-tere-kaaraj-hovhin-raas-re",
-  "categoryId": "raag-bhairav",
-  "title": "कर राम चरण कि ास रे, तेरे कारज होवहिन रास रे",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "कर राम चरण की आस रे, तेरे कारज होवहिं रास रे",
   "romanTitle": "Kar Raam Charan Ki Aas Re, Tere Kaaraj Hovhin Raas Re",
   "firstLine": "Kar Raam Charan Ki Aas Re, Tere Kaaraj Hovhin Raas Re (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ८३ ।। २९८।।",
+  "tek": [
+    "कर राम चरण की आस रे, तेरे कारज होवहिं रास रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kar Raam Charan Ki Aas Re, Tere Kaaraj Hovhin Raas Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राज कामना मन में धारे, राम शरण सुग्रीव सिधारे ।",
+        "किया राज तख़त पर वास रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raaj Kaamnaa Man Men Dhaare, Raam Sharan Sugriv Sidhaare.",
+        "Kiyaa Raaj Takhat Par Vaas Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शबरी ने मन प्रीति बढ़ाई, देख राम को अति हर्षाई ।",
+        "किया वैकुण्ठ माहिं निवास रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shabri Ne Man Priti Barhaai, Dekh Raam Ko Ati Harshaai.",
+        "Kiyaa Vaikunth Maahin Nivaas Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भक्त विभीषण प्रेम लगाये, शरण राम की वेग सिधाये ।",
+        "भयी पूर्ण तांकी प्यास रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhakt Vibhishan Prem Lagaaye, Sharan Raam Ki Veg Sidhaaye.",
+        "Bhayi Purn Taanki Pyaas Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिस जैसी प्यासा, राम करे तिस पूर्ण आसा ।",
+        "यह साखी है इतिहास रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jis Jaisi Pyaasaa, Raam Kare Tis Purn Aasaa.",
+        "Yah Saakhi Hai Itihaas Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कर राम चरण कि ास रे, तेरे कारज होवहिन रास रे (टेक)."
+      "राज कामना मन में धारे, राम शरण सुग्रीव सिधारे ।",
+      "किया राज तख़त पर वास रे ॥१ ॥"
     ],
     [
-      "राज कामना मन मेन धारे, राम शरन सुगरिव सिधारे.",
-      "किया राज तखत पर वास रे || 1 ||"
+      "शबरी ने मन प्रीति बढ़ाई, देख राम को अति हर्षाई ।",
+      "किया वैकुण्ठ माहिं निवास रे ॥२ ॥"
     ],
     [
-      "शबरि ने मन परिति बरहाि, देख राम को ति हरशाि.",
-      "किया वैकुनथ माहिन निवास रे || 2 ||."
+      "भक्त विभीषण प्रेम लगाये, शरण राम की वेग सिधाये ।",
+      "भयी पूर्ण तांकी प्यास रे ॥३ ॥"
     ],
     [
-      "ह",
-      "भकत विभिशन प्रेम लगाये, शरन राम कि वेग सिधाये."
-    ],
-    [
-      "भयि पुरन तानकि पयास रे. || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिस जैसि पयासा, राम करे तिस पुरन ासा.",
-      "यह साखि है ितिहास रे || 4. ||."
+      "कहे टेऊँ जिस जैसी प्यासा, राम करे तिस पूर्ण आसा ।",
+      "यह साखी है इतिहास रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Kar Raam Charan Ki Aas Re, Tere Kaaraj Hovhin Raas Re (Tek)."
-    ],
     [
       "Raaj Kaamnaa Man Men Dhaare, Raam Sharan Sugriv Sidhaare.",
       "Kiyaa Raaj Takhat Par Vaas Re || 1 ||"
     ],
     [
       "Shabri Ne Man Priti Barhaai, Dekh Raam Ko Ati Harshaai.",
-      "Kiyaa Vaikunth Maahin Nivaas Re || 2 ||."
+      "Kiyaa Vaikunth Maahin Nivaas Re || 2 ||"
     ],
     [
-      "H",
-      "Bhakt Vibhishan Prem Lagaaye, Sharan Raam Ki Veg Sidhaaye."
-    ],
-    [
-      "Bhayi Purn Taanki Pyaas Re. || 3 ||."
+      "Bhakt Vibhishan Prem Lagaaye, Sharan Raam Ki Veg Sidhaaye.",
+      "Bhayi Purn Taanki Pyaas Re || 3 ||"
     ],
     [
       "Kahe Teun Jis Jaisi Pyaasaa, Raam Kare Tis Purn Aasaa.",
-      "Yah Saakhi Hai Itihaas Re || 4. ||."
+      "Yah Saakhi Hai Itihaas Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 83 || 298 ||",
+    "कर राम चरण की आस रे, तेरे कारज होवहिं रास रे",
     "Kar Raam Charan Ki Aas Re, Tere Kaaraj Hovhin Raas Re",
-    "कर राम चरण कि ास रे, तेरे कारज होवहिन रास रे"
+    "राग भैरवी भजन 83",
+    "Raag Bhairvi Bhajan 83"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 298,
+  "displayOrder": 83,
+  "overallOrder": 298,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 179",
+  "updatedAt": "2026-10-26"
 }

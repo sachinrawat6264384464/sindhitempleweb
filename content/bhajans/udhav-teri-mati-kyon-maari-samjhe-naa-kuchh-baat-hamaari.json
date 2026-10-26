@@ -2,70 +2,119 @@
   "id": "bhajan-0340",
   "slug": "udhav-teri-mati-kyon-maari-samjhe-naa-kuchh-baat-hamaari",
   "categoryId": "raag-zilaa",
-  "title": "ुधव तेरि मति कयोन मारि, समझे ना कुचह बात हमारि",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "ऊधव तेरी मति क्यों मारी, समझे ना कुछ बात हमारी",
   "romanTitle": "Udhav Teri Mati Kyon Maari, Samjhe Naa Kuchh Baat Hamaari",
   "firstLine": "Udhav Teri Mati Kyon Maari, Samjhe Naa Kuchh Baat Hamaari (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २७ ।। ३४०॥।",
+  "tek": [
+    "ऊधव तेरी मति क्यों मारी, समझे ना कुछ बात हमारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Udhav Teri Mati Kyon Maari, Samjhe Naa Kuchh Baat Hamaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुनो हमारे प्रीतम भाई, योग बतावत लाज न आई ।",
+        "जिसको मैंने देखा नैनें, सो क्यों भूले ब्रज बिहारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Suno Hamaare Pritam Bhaai, Yog Bataavat Laaj Na Aai.",
+        "Jisko Mainne Dekhaa Nainen, So Kyon Bhule Braj Bihaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ग्त्ह",
+        "निर्गुण तेरा मोहि न भावत, सगुण रूप को हम नित चाहत ।",
+        "बीन बजाई रास रचाई, पूछत हैं सो गिरिवरधारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gth",
+        "Nirgun Teraa Mohi Na Bhaavat, Sagun Rup Ko Ham Nit Chaahat.",
+        "Bin Bajaai Raas Rachaai, Puchhat Hain So Girivradhaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गोपनि संग गऊ चारनहारा, पूछ रही सो नन्द दुलारा ।",
+        "केशी मारे कंस संहारे, ब्रज मण्डल की की रखवारी ॥ । ३े ॥"
+      ],
+      "romanLines": [
+        "Gopni Sang Gau Chaarnahaaraa, Puchh Rahi So Nand Dulaaraa.",
+        "Keshi Maare Kans Sanhaare, Braj Mandal Ki Ki Rakhvaari || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम जानत नाहीं, जो वेदनि हमरे मन माहीं ।",
+        "और न चाहत इक ही भावत, मोहि मिलाओ मदन मुरारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Jaanat Naahin, Jo Vedni Hamre Man Maahin.",
+        "Aur Na Chaahat Ik Hi Bhaavat, Mohi Milaao Madan Muraari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुधव तेरि मति कयोन मारि, समझे ना कुचह बात हमारि (टेक)."
+      "सुनो हमारे प्रीतम भाई, योग बतावत लाज न आई ।",
+      "जिसको मैंने देखा नैनें, सो क्यों भूले ब्रज बिहारी ॥१ ॥"
     ],
     [
-      "सुनो हमारे परितम भाि, योग बतावत लाज न ाि.",
-      "जिसको मैनने देखा नैनेन, सो कयोन भुले बरज बिहारि.1 ||."
+      "ग्त्ह",
+      "निर्गुण तेरा मोहि न भावत, सगुण रूप को हम नित चाहत ।",
+      "बीन बजाई रास रचाई, पूछत हैं सो गिरिवरधारी ॥२ ॥"
     ],
     [
-      "गथ",
-      "निरगुन तेरा मोहि न भावत, सगुन रुप को हम नित चाहत."
+      "गोपनि संग गऊ चारनहारा, पूछ रही सो नन्द दुलारा ।",
+      "केशी मारे कंस संहारे, ब्रज मण्डल की की रखवारी ॥ । ३े ॥"
     ],
     [
-      "बिन बजाि रास रचाि, पुचहत हैन सो गिरिवरधारि || 2 ||."
-    ],
-    [
-      "गोपनि सनग गौ चारनहारा, पुचह रहि सो ननद दुलारा.",
-      "केशि मारे कनस सनहारे, बरज मनदल कि कि रखवारि ||. 3े ||"
-    ],
-    [
-      "कहे तेऊँ तुम जानत नाहिन, जो वेदनि हमरे मन माहिन.",
-      "ौर न चाहत िक हि भावत, मोहि मिलाो मदन मुरारि || 4 ||"
+      "कहे टेऊँ तुम जानत नाहीं, जो वेदनि हमरे मन माहीं ।",
+      "और न चाहत इक ही भावत, मोहि मिलाओ मदन मुरारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Udhav Teri Mati Kyon Maari, Samjhe Naa Kuchh Baat Hamaari (Tek)."
-    ],
-    [
-      "Suno Hamaare Pritam Bhaai, Yog Bataavat Laaj N Aai.",
-      "Jisko Mainne Dekhaa Nainen, So Kyon Bhule Braj Bihaari.1 ||."
+      "Suno Hamaare Pritam Bhaai, Yog Bataavat Laaj Na Aai.",
+      "Jisko Mainne Dekhaa Nainen, So Kyon Bhule Braj Bihaari || 1 ||"
     ],
     [
       "Gth",
-      "Nirgun Teraa Mohi N Bhaavat, Sagun Rup Ko Ham Nit Chaahat."
-    ],
-    [
-      "Bin Bajaai Raas Rachaai, Puchhat Hain So Girivradhaari || 2 ||."
+      "Nirgun Teraa Mohi Na Bhaavat, Sagun Rup Ko Ham Nit Chaahat.",
+      "Bin Bajaai Raas Rachaai, Puchhat Hain So Girivradhaari || 2 ||"
     ],
     [
       "Gopni Sang Gau Chaarnahaaraa, Puchh Rahi So Nand Dulaaraa.",
-      "Keshi Maare Kans Sanhaare, Braj Mandal Ki Ki Rakhvaari ||. 3E ||"
+      "Keshi Maare Kans Sanhaare, Braj Mandal Ki Ki Rakhvaari || 3E ||"
     ],
     [
       "Kahe Teun Tum Jaanat Naahin, Jo Vedni Hamre Man Maahin.",
-      "Aur N Chaahat Ik Hi Bhaavat, Mohi Milaao Madan Muraari || 4 ||"
+      "Aur Na Chaahat Ik Hi Bhaavat, Mohi Milaao Madan Muraari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 27 || 340 ||.",
+    "ऊधव तेरी मति क्यों मारी, समझे ना कुछ बात हमारी",
     "Udhav Teri Mati Kyon Maari, Samjhe Naa Kuchh Baat Hamaari",
-    "ुधव तेरि मति कयोन मारि, समझे ना कुचह बात हमारि"
+    "राग ज़िला भजन 27",
+    "Raag Zilaa Bhajan 27"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 340,
+  "displayOrder": 27,
+  "overallOrder": 340,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 202",
+  "updatedAt": "2026-10-26"
 }

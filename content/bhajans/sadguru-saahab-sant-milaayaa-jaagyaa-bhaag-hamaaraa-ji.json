@@ -1,66 +1,116 @@
 {
   "id": "bhajan-0345",
   "slug": "sadguru-saahab-sant-milaayaa-jaagyaa-bhaag-hamaaraa-ji",
-  "categoryId": "raag-aasaa",
-  "title": "सद्गुरु साहब संत मिलाया, जागया भाग हमारा जी",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "सद्‌गुरु साहब सन्त मिलाया, जाग्या भाग हमारा जी",
   "romanTitle": "Sad‌Guru Saahab Sant Milaayaa, Jaagyaa Bhaag Hamaaraa Ji",
   "firstLine": "Sad‌Guru Saahab Sant Milaayaa, Jaagyaa Bhaag Hamaaraa Ji (Tek).",
+  "heading": "।। राग बसन्त भजन ।। २ ।। रेड ।।",
+  "tek": [
+    "सद्‌गुरु साहब सन्त मिलाया, जाग्या भाग हमारा जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Saahab Sant Milaayaa, Jaagyaa Bhaag Hamaaraa Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नित अवतारी पर उपकारी, कर्म भ्रम की काटत जारी ।",
+        "लेकर ज्ञान कटारा जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nit Avtaari Par Upkaari, Karm Bhram Ki Kaatat Jaari.",
+        "Lekar Gyaan Kataaraa Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "द्वैत बिना जे सन्त विदेही, प्रकट नाम सुणावहिं सेई ।",
+        "हरत अज्ञान अन्धारा जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dvait Binaa Je Sant Videhi, Prakat Naam Sunaavhin Sei.",
+        "Harat Ajnyaan Andhaaraa Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जो घर बिछुड़ा सो घर पाया, हर सनतों को सीस निवाया ।",
+        "भव सागर जिन तारा जी ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Jo Ghar Bichhuraa So Ghar Paayaa, Har Santon Ko Sis Nivaayaa.",
+        "Bhav Saagar Jin Taaraa Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ पुण्य पूर्व फलिया , सन्त सज्जन मन मेली मिलिया ।",
+        "वर्ष अमृत धारा जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Puny Purv Phaliyaa, Sant Sajjan Man Meli Miliyaa.",
+        "Varsh Amrit Dhaaraa Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु साहब संत मिलाया, जागया भाग हमारा जी (टेक)."
+      "नित अवतारी पर उपकारी, कर्म भ्रम की काटत जारी ।",
+      "लेकर ज्ञान कटारा जी ॥१ ॥"
     ],
     [
-      "नित वतारि पर ुपकारि, करम भरम कि कातत जारि.",
-      "लेकर ज्ञान कतारा जी || 1 ||."
+      "द्वैत बिना जे सन्त विदेही, प्रकट नाम सुणावहिं सेई ।",
+      "हरत अज्ञान अन्धारा जी ॥२ ॥"
     ],
     [
-      "दवैत बिना जे संत विदेहि, परकत नाम सुनावहिन सेि.",
-      "हरत जनयान नधारा जी ||.2 ||"
+      "जो घर बिछुड़ा सो घर पाया, हर सनतों को सीस निवाया ।",
+      "भव सागर जिन तारा जी ॥ ।३े ॥"
     ],
     [
-      "जो घर बिचहुरा सो घर पाया, हर सनतोन को सिस निवाया.",
-      "भव सागर जिन तारा जी ||.3े ||"
-    ],
-    [
-      "कहे तेऊँ पुनय पुरव फलिया, संत सजजन मन मेलि मिलिया.",
-      "वरश अमृत धारा जी ||.4 ||."
+      "कहे टेऊँ पुण्य पूर्व फलिया , सन्त सज्जन मन मेली मिलिया ।",
+      "वर्ष अमृत धारा जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Saahab Sant Milaayaa, Jaagyaa Bhaag Hamaaraa Ji (Tek)."
-    ],
-    [
       "Nit Avtaari Par Upkaari, Karm Bhram Ki Kaatat Jaari.",
-      "Lekar Jnyaan Kataaraa Ji || 1 ||."
+      "Lekar Gyaan Kataaraa Ji || 1 ||"
     ],
     [
       "Dvait Binaa Je Sant Videhi, Prakat Naam Sunaavhin Sei.",
-      "Harat Ajnyaan Andhaaraa Ji ||.2 ||"
+      "Harat Ajnyaan Andhaaraa Ji || 2 ||"
     ],
     [
       "Jo Ghar Bichhuraa So Ghar Paayaa, Har Santon Ko Sis Nivaayaa.",
-      "Bhav Saagar Jin Taaraa Ji ||.3E ||"
+      "Bhav Saagar Jin Taaraa Ji || 3E ||"
     ],
     [
       "Kahe Teun Puny Purv Phaliyaa, Sant Sajjan Man Meli Miliyaa.",
-      "Varsh Amrit Dhaaraa Ji ||.4 ||."
+      "Varsh Amrit Dhaaraa Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 2 || Red ||",
+    "सद्‌गुरु साहब सन्त मिलाया, जाग्या भाग हमारा जी",
     "Sad‌Guru Saahab Sant Milaayaa, Jaagyaa Bhaag Hamaaraa Ji",
-    "सद्गुरु साहब संत मिलाया, जागया भाग हमारा जी"
+    "राग बसंत भजन 2",
+    "Raag Basant Bhajan 2"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
     "bhajan"
   ],
-  "displayOrder": 345,
+  "displayOrder": 2,
+  "overallOrder": 345,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 205",
+  "updatedAt": "2026-10-26"
 }

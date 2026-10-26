@@ -8,18 +8,31 @@ export interface Category {
   updatedAt: string;
 }
 
+export interface BhajanVerse {
+  verseNumber: number;
+  lines: string[];
+  romanLines: string[];
+}
+
 export interface Bhajan {
   id: string;
   slug: string;
   categoryId: string;
+  categoryName?: string;
+  romanCategoryName?: string;
   title: string;
   romanTitle: string;
   firstLine: string;
-  lyrics: string[][]; // Array of stanzas, each containing an array of lines
+  heading?: string;
+  tek?: string[];
+  romanTek?: string[];
+  verses?: BhajanVerse[];
+  lyrics: string[][]; // Array of stanzas, where lyrics[0] is Tek, followed by verses
   romanLyrics: string[][]; // Transliterated stanzas
   alternateSpellings: string[];
   tags: string[];
   displayOrder: number;
+  overallOrder?: number;
   isDemo: boolean;
   source: string;
   updatedAt: string;

@@ -1,48 +1,97 @@
 {
   "id": "bhajan-0236",
   "slug": "maanush-janm-paaye-karo-shubh-kaariyaan",
-  "categoryId": "raag-bhairav",
-  "title": "मानुश जनम पाये, करो शुभ कारियान",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मानुष जन्म पाये, करो शुभ कारियां",
   "romanTitle": "Maanush Janm Paaye, Karo Shubh Kaariyaan",
-  "firstLine": "Maanush Janm Paaye, Karo Shubh Kaariyaan. Dhaaro Dharm Ke Ang, Je Khat Chaariyaan (Tek).",
+  "firstLine": "Maanush Janm Paaye, Karo Shubh Kaariyaan.",
+  "heading": "।। राग भैरवी भजन ।। २१ ।। २३६।।",
+  "tek": [
+    "मानुष जन्म पाये, करो शुभ कारियां ।",
+    "धारो धर्म के अँग, जे खट चारियां ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Janm Paaye, Karo Shubh Kaariyaan.",
+    "Dhaaro Dharm Ke Ang, Je Khat Chaariyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दया को धारो प्रानी, क्षमा की राखो खानी ।",
+        "बोलो नित मीठी बानी, दे ना गारियां ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dayaa Ko Dhaaro Praani, Kshamaa Ki Raakho Khaani.",
+        "Bolo Nit Mithi Baani, De Naa Gaariyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लेवो तुम हरि का नामा, देवो दीनों को दामा ।",
+        "कीजे नित पर के कामा, परम उदारियां ॥२ ॥"
+      ],
+      "romanLines": [
+        "Levo Tum Hari Kaa Naamaa, Devo Dinon Ko Daamaa.",
+        "Kije Nit Par Ke Kaamaa, Param Udaariyaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भ्रमों की मटकी फोड़ो , भोगों से मन को मोड़ो ।",
+        "सन्तों से जीउ जोड़ो, तजे जग यारियां ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhramon Ki Matki Phoro, Bhogon Se Man Ko Moro.",
+        "Santon Se Jiu Joro, Taje Jag Yaariyaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आशा चिन्ता को त्यागो, तोड़े तृष्णा को तागो ।",
+        "कहे टेऊँ जल्दी जागो, नींद से प्यारियां ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aashaa Chintaa Ko Tyaago, Tore Trishnaa Ko Taago.",
+        "Kahe Teun Jaldi Jaago, Nind Se Pyaariyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश जनम पाये, करो शुभ कारियान.",
-      "धारो धरम के नग, जे खत चारियान (टेक)."
+      "दया को धारो प्रानी, क्षमा की राखो खानी ।",
+      "बोलो नित मीठी बानी, दे ना गारियां ॥१ ॥"
     ],
     [
-      "दया को धारो परानि, कशमा कि राखो खानि.",
-      "बोलो नित मिथि बानी, दे ना गारियान || 1 ||"
+      "लेवो तुम हरि का नामा, देवो दीनों को दामा ।",
+      "कीजे नित पर के कामा, परम उदारियां ॥२ ॥"
     ],
     [
-      "लेवो तुम हरि का नामा, देवो दिनोन को दामा.",
-      "किजे नित पर के कामा, परम ुदारियान || 2 ||."
+      "भ्रमों की मटकी फोड़ो , भोगों से मन को मोड़ो ।",
+      "सन्तों से जीउ जोड़ो, तजे जग यारियां ॥३ ॥"
     ],
     [
-      "भरमोन कि मतकि फोरो, भोगोन से मन को मोरो.",
-      "सनतोन से जिु जोरो, तजे जग यारियान || 3 ||."
-    ],
-    [
-      "ाशा चिनता को तयागो, तोरे तरिशना को तागो.",
-      "कहे तेऊँ जलदि जागो, निनद से पयारियान || 4 ||"
+      "आशा चिन्ता को त्यागो, तोड़े तृष्णा को तागो ।",
+      "कहे टेऊँ जल्दी जागो, नींद से प्यारियां ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Maanush Janm Paaye, Karo Shubh Kaariyaan.",
-      "Dhaaro Dharm Ke Ang, Je Khat Chaariyaan (Tek)."
-    ],
     [
       "Dayaa Ko Dhaaro Praani, Kshamaa Ki Raakho Khaani.",
       "Bolo Nit Mithi Baani, De Naa Gaariyaan || 1 ||"
     ],
     [
       "Levo Tum Hari Kaa Naamaa, Devo Dinon Ko Daamaa.",
-      "Kije Nit Par Ke Kaamaa, Param Udaariyaan || 2 ||."
+      "Kije Nit Par Ke Kaamaa, Param Udaariyaan || 2 ||"
     ],
     [
       "Bhramon Ki Matki Phoro, Bhogon Se Man Ko Moro.",
-      "Santon Se Jiu Joro, Taje Jag Yaariyaan || 3 ||."
+      "Santon Se Jiu Joro, Taje Jag Yaariyaan || 3 ||"
     ],
     [
       "Aashaa Chintaa Ko Tyaago, Tore Trishnaa Ko Taago.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 21 || 236 ||",
+    "मानुष जन्म पाये, करो शुभ कारियां",
     "Maanush Janm Paaye, Karo Shubh Kaariyaan",
-    "मानुश जनम पाये, करो शुभ कारियान"
+    "राग भैरवी भजन 21",
+    "Raag Bhairvi Bhajan 21"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 236,
+  "displayOrder": 21,
+  "overallOrder": 236,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 147",
+  "updatedAt": "2026-10-26"
 }

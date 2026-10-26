@@ -1,38 +1,76 @@
 {
-  "id": "bhajan-0718",
+  "id": "bhajan-0716",
   "slug": "uth-musaaphir-samar-saadho-dur-desh-hai-tujhko-jaanaa",
   "categoryId": "raag-pahaari",
-  "title": "ुथ मुसाफिर समर साधो, दुर देश है तुझको जाना",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "ऊठ मुसाफिर समर साधो, दूर देश है तुझको जाना",
   "romanTitle": "Uth Musaaphir Samar Saadho, Dur Desh Hai Tujhko Jaanaa",
   "firstLine": "Uth Musaaphir Samar Saadho, Dur Desh Hai Tujhko Jaanaa (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ६९ ।। ७१७।।",
+  "tek": [
+    "ऊठ मुसाफिर समर साधो, दूर देश है तुझको जाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Uth Musaaphir Samar Saadho, Dur Desh Hai Tujhko Jaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्त ग्रन्थ नित करत पुकारा, ऊँचे स्वर से गायके ।",
+        "पूर्ण श्रद्धा मन में धारे, वचन सुनो वह देकर काना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sant Granth Nit Karat Pukaaraa, Unche Svar Se Gaayke.",
+        "Purn Shraddhaa Man Men Dhaare, Vachan Suno Vah Dekar Kaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सोवत सारी रैन गंवाई, दिवस गया व्यवहार में ।",
+        "अब भी तुम कुछ सोचत नाहीं ,देख दुनिया को भया दिवाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sovat Saari Rain Ganvaai, Divas Gayaa Vyavhaar Men.",
+        "Ab Bhi Tum Kuchh Sochat Naahin,Dekh Duniyaa Ko Bhayaa Divaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ अब करो तयारी,आलस को तुम त्याग के ।",
+        "वबणज ले लो शुभ कर्म का, हृदय हरि का धरो ध्याना ॥ डे ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Karo Tayaari,Aalas Ko Tum Tyaag Ke.",
+        "Vabnaj Le Lo Shubh Karm Kaa, Hriday Hari Kaa Dharo Dhyaanaa || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथ मुसाफिर समर साधो, दुर देश है तुझको जाना (टेक)."
+      "सन्त ग्रन्थ नित करत पुकारा, ऊँचे स्वर से गायके ।",
+      "पूर्ण श्रद्धा मन में धारे, वचन सुनो वह देकर काना ॥१ ॥"
     ],
     [
-      "संत गरनथ नित करत पुकारा, ुनचे सवर से गायके.",
-      "पुरन शरदधा मन मेन धारे, वचन सुनो वह देकर काना || 1 ||"
+      "सोवत सारी रैन गंवाई, दिवस गया व्यवहार में ।",
+      "अब भी तुम कुछ सोचत नाहीं ,देख दुनिया को भया दिवाना ॥२ ॥"
     ],
     [
-      "सोवत सारि रैन गनवाि, दिवस गया वयवहार मेन.",
-      "ब भि तुम कुचह सोचत नाहिनदेख दुनिया को भया दिवाना || 2 ||."
-    ],
-    [
-      "कहे तेऊँ ब करो तयारिालस को तुम तयाग के.",
-      "वबनज ले लो शुभ करम का, हरिदय हरि का धरो धयाना || दे ||"
+      "कहे टेऊँ अब करो तयारी,आलस को तुम त्याग के ।",
+      "वबणज ले लो शुभ कर्म का, हृदय हरि का धरो ध्याना ॥ डे ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Uth Musaaphir Samar Saadho, Dur Desh Hai Tujhko Jaanaa (Tek)."
-    ],
     [
       "Sant Granth Nit Karat Pukaaraa, Unche Svar Se Gaayke.",
       "Purn Shraddhaa Man Men Dhaare, Vachan Suno Vah Dekar Kaanaa || 1 ||"
     ],
     [
       "Sovat Saari Rain Ganvaai, Divas Gayaa Vyavhaar Men.",
-      "Ab Bhi Tum Kuchh Sochat Naahin,Dekh Duniyaa Ko Bhayaa Divaanaa || 2 ||."
+      "Ab Bhi Tum Kuchh Sochat Naahin,Dekh Duniyaa Ko Bhayaa Divaanaa || 2 ||"
     ],
     [
       "Kahe Teun Ab Karo Tayaari,Aalas Ko Tum Tyaag Ke.",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 69 || 717 ||",
+    "ऊठ मुसाफिर समर साधो, दूर देश है तुझको जाना",
     "Uth Musaaphir Samar Saadho, Dur Desh Hai Tujhko Jaanaa",
-    "ुथ मुसाफिर समर साधो, दुर देश है तुझको जाना"
+    "राग पहाड़ी भजन 69",
+    "Raag Pahaari Bhajan 69"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 718,
+  "displayOrder": 69,
+  "overallOrder": 716,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 380",
+  "updatedAt": "2026-10-26"
 }

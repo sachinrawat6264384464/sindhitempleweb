@@ -2,22 +2,77 @@
   "id": "bhajan-0416",
   "slug": "sadguru-pure-kripaa-karke-apnaa-naam-japaayaa-hai",
   "categoryId": "raag-tilang",
-  "title": "सद्गुरु पुरे कृपा करके, पना नाम जपाया है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सद्‌गुरु पूरे कृपा करके, अपना नाम जपाया है",
   "romanTitle": "Sad‌Guru Pure Kripaa Karke, Apnaa Naam Japaayaa Hai",
   "firstLine": "Sad‌Guru Pure Kripaa Karke, Apnaa Naam Japaayaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५३ ।। ४१७।।",
+  "tek": [
+    "सद्‌गुरु पूरे कृपा करके, अपना नाम जपाया है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Pure Kripaa Karke, Apnaa Naam Japaayaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्ञान भानु उर माहिं उदय कर, तम अज्ञान मिटाया है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Bhaanu Ur Maahin Uday Kar, Tam Ajnyaan Mitaayaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जन्म मरन का फेरा मेटे, निज घर माहिं समाया है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Janm Maran Kaa Pheraa Mete, Nij Ghar Maahin Samaayaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जीव ईश की कटे उपाधी, एको ब्रह्मा लखाया है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jiv Ish Ki Kate Upaadhi, Eko Brahmaa Lakhaayaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु पै बलिहारी, जिसने भ्रम नसाया है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Pai Balihaari, Jisne Bhram Nasaayaa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गाल"
+      ],
+      "romanLines": [
+        "Gaal"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु पुरे कृपा करके, पना नाम जपाया है (टेक)."
+      "ज्ञान भानु उर माहिं उदय कर, तम अज्ञान मिटाया है ॥१ ॥"
     ],
     [
-      "ज्ञान भानु ुर माहिन ुदय कर, तम जनयान मिताया है || 1. ||."
+      "जन्म मरन का फेरा मेटे, निज घर माहिं समाया है ॥२ ॥"
     ],
     [
-      "जनम मरन का फेरा मेते, निज घर माहिन समाया है.2 ||",
-      "जिव िश कि कते ुपाधि, ेको बरहम लखाया है || 3 ||."
+      "जीव ईश की कटे उपाधी, एको ब्रह्मा लखाया है ॥३ ॥"
     ],
     [
-      "कहे तेऊँ गुरु पै बलिहारि, जिसने भरम नसाया है || 4 ||."
+      "कहे टेऊँ गुरु पै बलिहारी, जिसने भ्रम नसाया है ॥४ ॥"
     ],
     [
       "गाल"
@@ -25,37 +80,36 @@
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Pure Kripaa Karke, Apnaa Naam Japaayaa Hai (Tek)."
+      "Gyaan Bhaanu Ur Maahin Uday Kar, Tam Ajnyaan Mitaayaa Hai || 1 ||"
     ],
     [
-      "Jnyaan Bhaanu Ur Maahin Uday Kar, Tam Ajnyaan Mitaayaa Hai || 1. ||."
+      "Janm Maran Kaa Pheraa Mete, Nij Ghar Maahin Samaayaa Hai || 2 ||"
     ],
     [
-      "Janm Maran Kaa Pheraa Mete, Nij Ghar Maahin Samaayaa Hai.2 ||",
-      "Jiv Ish Ki Kate Upaadhi, Eko Brahma Lakhaayaa Hai || 3 ||."
+      "Jiv Ish Ki Kate Upaadhi, Eko Brahmaa Lakhaayaa Hai || 3 ||"
     ],
     [
-      "Kahe Teun Guru Pai Balihaari, Jisne Bhram Nasaayaa Hai || 4 ||."
+      "Kahe Teun Guru Pai Balihaari, Jisne Bhram Nasaayaa Hai || 4 ||"
     ],
     [
       "Gaal"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 53 || 417 ||",
+    "सद्‌गुरु पूरे कृपा करके, अपना नाम जपाया है",
     "Sad‌Guru Pure Kripaa Karke, Apnaa Naam Japaayaa Hai",
-    "सद्गुरु पुरे कृपा करके, पना नाम जपाया है"
+    "राग तिलंग भजन 53",
+    "Raag Tilang Bhajan 53"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 416,
+  "displayOrder": 53,
+  "overallOrder": 416,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 240",
+  "updatedAt": "2026-10-26"
 }

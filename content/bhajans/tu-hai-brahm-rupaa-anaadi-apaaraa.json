@@ -1,67 +1,118 @@
 {
   "id": "bhajan-0217",
   "slug": "tu-hai-brahm-rupaa-anaadi-apaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "तु है बरहम रुपा, नादि पारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "तूं है ब्रह्म रूपा, अनादी अपारा",
   "romanTitle": "Tu Hai Brahm Rupaa, Anaadi Apaaraa",
-  "firstLine": "Tu Hai Brahm Rupaa, Anaadi Apaaraa. Akhand Tu Anupaa, Kahat Ved Chaaraa (Tek).",
+  "firstLine": "Tu Hai Brahm Rupaa, Anaadi Apaaraa.",
+  "heading": "।। राग भैरवी भजन ।। २ ।। २१७।।",
+  "tek": [
+    "तूं है ब्रह्म रूपा, अनादी अपारा ।",
+    "अखण्ड तूं अनूपा, कहत वेद चारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tu Hai Brahm Rupaa, Anaadi Apaaraa.",
+    "Akhand Tu Anupaa, Kahat Ved Chaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "न तूं ध्येय ध्याना, न तूं ज्ञेय ज्ञाना ।",
+        "न तूं इन्द्रिय प्राना, मिला नाहिं न्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Na Tu Dhyey Dhyaanaa, Na Tu Jnyey Jnyaanaa.",
+        "Na Tu Indriy Praanaa, Milaa Naahin Nyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "न तूं कर्म करता, न तूं धर्म धरता ।",
+        "न जमता न मरता, न तूं अंग अकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Na Tu Karm Kartaa, Na Tu Dharm Dhartaa.",
+        "Na Jamtaa Na Martaa, Na Tu Ang Akaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नहीं आदि तेरी, नहीं अन्त हेरी ।",
+        "नहीं मित्र वैरी, न तूं तम उज्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nahin Aadi Teri, Nahin Ant Heri.",
+        "Nahin Mitr Vairi, Na Tu Tam Ujyaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "न तूं मूण्ड ज्ञानी, न तूं भिक्षुक दानी ।",
+        "कहे टेऊँ बानी, नहीं तो मँझारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Na Tu Mund Jnyaani, Na Tu Bhikshuk Daani.",
+        "Kahe Teun Baani, Nahin To Manjhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तु है बरहम रुपा, नादि पारा.",
-      "खनद तु नुपा, कहत वेद चारा (टेक)."
+      "न तूं ध्येय ध्याना, न तूं ज्ञेय ज्ञाना ।",
+      "न तूं इन्द्रिय प्राना, मिला नाहिं न्यारा ॥१ ॥"
     ],
     [
-      "न तु धयेय धयाना, न तु जनयेय जनयाना.",
-      "न तु िनदरिय पराना, मिला नाहिन नयारा || 1 ||."
+      "न तूं कर्म करता, न तूं धर्म धरता ।",
+      "न जमता न मरता, न तूं अंग अकारा ॥२ ॥"
     ],
     [
-      "न तु करम करता, न तु धरम धरता.",
-      "न जमता न मरता, न तु नग कारा || 2 ||."
+      "नहीं आदि तेरी, नहीं अन्त हेरी ।",
+      "नहीं मित्र वैरी, न तूं तम उज्यारा ॥३ ॥"
     ],
     [
-      "नहिन ादि तेरि, नहिन नत हेरि.",
-      "नहिन मितर वैरि, न तु तम ुजयारा || 3. ||."
-    ],
-    [
-      "न तु मुनद जनयानि, न तु भिकशुक दानि.",
-      "कहे तेऊँ बानी, नहिन तो मनझारा || 4. ||."
+      "न तूं मूण्ड ज्ञानी, न तूं भिक्षुक दानी ।",
+      "कहे टेऊँ बानी, नहीं तो मँझारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tu Hai Brahm Rupaa, Anaadi Apaaraa.",
-      "Akhand Tu Anupaa, Kahat Ved Chaaraa (Tek)."
+      "Na Tu Dhyey Dhyaanaa, Na Tu Jnyey Jnyaanaa.",
+      "Na Tu Indriy Praanaa, Milaa Naahin Nyaaraa || 1 ||"
     ],
     [
-      "N Tu Dhyey Dhyaanaa, N Tu Jnyey Jnyaanaa.",
-      "N Tu Indriy Praanaa, Milaa Naahin Nyaaraa || 1 ||."
-    ],
-    [
-      "N Tu Karm Kartaa, N Tu Dharm Dhartaa.",
-      "N Jamtaa N Martaa, N Tu Ang Akaaraa || 2 ||."
+      "Na Tu Karm Kartaa, Na Tu Dharm Dhartaa.",
+      "Na Jamtaa Na Martaa, Na Tu Ang Akaaraa || 2 ||"
     ],
     [
       "Nahin Aadi Teri, Nahin Ant Heri.",
-      "Nahin Mitr Vairi, N Tu Tam Ujyaaraa || 3. ||."
+      "Nahin Mitr Vairi, Na Tu Tam Ujyaaraa || 3 ||"
     ],
     [
-      "N Tu Mund Jnyaani, N Tu Bhikshuk Daani.",
-      "Kahe Teun Baani, Nahin To Manjhaaraa || 4. ||."
+      "Na Tu Mund Jnyaani, Na Tu Bhikshuk Daani.",
+      "Kahe Teun Baani, Nahin To Manjhaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 2 || 217 ||",
+    "तूं है ब्रह्म रूपा, अनादी अपारा",
     "Tu Hai Brahm Rupaa, Anaadi Apaaraa",
-    "तु है बरहम रुपा, नादि पारा"
+    "राग भैरवी भजन 2",
+    "Raag Bhairvi Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 217,
+  "displayOrder": 2,
+  "overallOrder": 217,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 137",
+  "updatedAt": "2026-10-26"
 }

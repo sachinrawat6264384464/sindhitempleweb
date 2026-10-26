@@ -2,67 +2,117 @@
   "id": "bhajan-0068",
   "slug": "sadguru-sharni-aayaa-re-main-darshan-paayaa",
   "categoryId": "raag-aasaa",
-  "title": "सद्गुरु शरनि ाया, रे मैं दरशन पाया",
-  "romanTitle": "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa",
-  "firstLine": "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa, Paap Mitaayaa, Aanand Chhaayaa (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सद्‌गुरु शरणी आया, रे मैं दर्शन पाया,",
+  "romanTitle": "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa,",
+  "firstLine": "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa,",
+  "heading": "।। राग आसा भजन ।। ६ ।। ६८।।",
+  "tek": [
+    "सद्‌गुरु शरणी आया, रे मैं दर्शन पाया,",
+    "पाप मिटाया, आनन्द छाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa,",
+    "Paap Mitaayaa, Aanand Chhaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दर्शन करके प्रसन्न होया, तन मन के सब संकट खोया ।",
+        "सुख के माहिं समाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Darshan Karke Prasann Hoyaa, Tan Man Ke Sab Sankat Khoyaa.",
+        "Sukh Ke Maahin Samaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सदूगुरु वचन सुना मैं जबहीं, भेद भ्रम सब मिटिया तबहीं ।",
+        "आतम घर में आया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saduguru Vachan Sunaa Main Jabhin, Bhed Bhram Sab Mitiyaa Tabhin.",
+        "Aatam Ghar Men Aayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्‌ूगुरु का जब दर्शन देखा, धर्मराज का चूका लेखा ।",
+        "जन्म मरण दुःख जाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Uguru Kaa Jab Darshan Dekhaa, Dharmaraaj Kaa Chukaa Lekhaa.",
+        "Janm Maran Duhkh Jaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ भये भाग विशाला, मिलिया सद्‌गुरु दीन दयाला ।",
+        "चरण कमल चित्त लाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bhaye Bhaag Vishaalaa, Miliyaa Sad‌Guru Din Dayaalaa.",
+        "Charan Kamal Chitt Laayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु शरनि ाया, रे मैं दरशन पाया,",
-      "पाप मिताया, आनंद चहाया (टेक)."
+      "दर्शन करके प्रसन्न होया, तन मन के सब संकट खोया ।",
+      "सुख के माहिं समाया ॥१ ॥"
     ],
     [
-      "दरशन करके परसनन होया, तन मन के सब सनकत खोया.",
-      "सुख के माहिन समाया.1 ||."
+      "सदूगुरु वचन सुना मैं जबहीं, भेद भ्रम सब मिटिया तबहीं ।",
+      "आतम घर में आया ॥२ ॥"
     ],
     [
-      "सदुगुरु वचन सुना मैं जभिन, भेद भरम सब मितिया तभिन.",
-      "ातम घर मेन ाया ||.2 ||."
+      "सद्‌ूगुरु का जब दर्शन देखा, धर्मराज का चूका लेखा ।",
+      "जन्म मरण दुःख जाया ॥३ ॥"
     ],
     [
-      "सदुगुरु का जब दरशन देखा, धरमराज का चुका लेखा.",
-      "जनम मरन दुःख जाया || 3 ||."
-    ],
-    [
-      "कहे तेऊँ भये भाग विशाला, मिलिया सद्गुरु दीन दयाला.",
-      "चरण कमल चितत लाया || 4 ||."
+      "कहे टेऊँ भये भाग विशाला, मिलिया सद्‌गुरु दीन दयाला ।",
+      "चरण कमल चित्त लाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa,",
-      "Paap Mitaayaa, Aanand Chhaayaa (Tek)."
-    ],
-    [
       "Darshan Karke Prasann Hoyaa, Tan Man Ke Sab Sankat Khoyaa.",
-      "Sukh Ke Maahin Samaayaa.1 ||."
+      "Sukh Ke Maahin Samaayaa || 1 ||"
     ],
     [
       "Saduguru Vachan Sunaa Main Jabhin, Bhed Bhram Sab Mitiyaa Tabhin.",
-      "Aatam Ghar Men Aayaa ||.2 ||."
+      "Aatam Ghar Men Aayaa || 2 ||"
     ],
     [
       "Sad‌Uguru Kaa Jab Darshan Dekhaa, Dharmaraaj Kaa Chukaa Lekhaa.",
-      "Janm Maran Duhkh Jaayaa || 3 ||."
+      "Janm Maran Duhkh Jaayaa || 3 ||"
     ],
     [
       "Kahe Teun Bhaye Bhaag Vishaalaa, Miliyaa Sad‌Guru Din Dayaalaa.",
-      "Charan Kamal Chitt Laayaa || 4 ||."
+      "Charan Kamal Chitt Laayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 6 || 68 ||",
-    "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa",
-    "सद्गुरु शरनि ाया, रे मैं दरशन पाया"
+    "सद्‌गुरु शरणी आया, रे मैं दर्शन पाया,",
+    "Sad‌Guru Sharni Aayaa, Re Main Darshan Paayaa,",
+    "राग आसा भजन 6",
+    "Raag Aasaa Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 68,
+  "displayOrder": 6,
+  "overallOrder": 68,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 59",
+  "updatedAt": "2026-10-26"
 }

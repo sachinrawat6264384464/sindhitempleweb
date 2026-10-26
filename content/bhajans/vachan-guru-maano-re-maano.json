@@ -1,80 +1,139 @@
 {
-  "id": "bhajan-0897",
+  "id": "bhajan-0895",
   "slug": "vachan-guru-maano-re-maano",
   "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
   "title": "वचन गुरु मानो रे मानो",
   "romanTitle": "Vachan Guru Maano Re Maano",
   "firstLine": "Vachan Guru Maano Re Maano (Tek).",
+  "heading": "।। राग जोग भजन ।। ६७ ।। ८९७ ॥।",
+  "tek": [
+    "वचन गुरु मानो रे मानो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vachan Guru Maano Re Maano (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "वचन गुरू का जिसने माना, गुहज भेद तिहँं पाया ।",
+        "बिन माने किस भेद न जाना, वेदनि यही बखानो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vachan Guru Kaa Jisne Maanaa, Guhaj Bhed Tihann Paayaa.",
+        "Bin Maane Kis Bhed Na Jaanaa, Vedni Yahi Bakhaano || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वचन गुरू का मानत है जो, तिह॑ं कछु दुर्लभ नाहीं ।",
+        "ऋद्धि सिद्धि नवनिधि मुक्ती तांके, घर की चेरी जानो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vachan Guru Kaa Maanat Hai Jo, Tihn Kachhu Durlabh Naahin.",
+        "Riddhi Siddhi Navnidhi Mukti Taanke, Ghar Ki Cheri Jaano || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वचन गुरू का माने जो तिस, महिमा कही न जावे ।",
+        "आप हरी तिहें घर चल आवे, शबरी को प्रमानो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vachan Guru Kaa Maane Jo Tis, Mahimaa Kahi Na Jaave.",
+        "Aap Hari Tihen Ghar Chal Aave, Shabri Ko Pramaano || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ग्रह",
+        "बचन गुरू का नारद माने, मेटी जोनि चुरासी ।",
+        "वचन गुरू का मान आरुणी, वेद का अर्थ पछानो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Grah",
+        "Bachan Guru Kaa Naarad Maane, Meti Joni Churaasi.",
+        "Vachan Guru Kaa Maan Aaruni, Ved Kaa Arth Pachhaano || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "वचन गुरू के पालन में कर, तन मन धन कुर्बानी ।",
+        "कहे टेऊँ परमानन्द पाए, सर्व दुखों को हानो ॥५ ॥"
+      ],
+      "romanLines": [
+        "Vachan Guru Ke Paalan Men Kar, Tan Man Dhan Kurbaani.",
+        "Kahe Teun Parmaanand Paae, Sarv Dukhon Ko Haano || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "वचन गुरु मानो रे मानो (टेक)."
+      "वचन गुरू का जिसने माना, गुहज भेद तिहँं पाया ।",
+      "बिन माने किस भेद न जाना, वेदनि यही बखानो ॥१ ॥"
     ],
     [
-      "वचन गुरु का जिसने माना, गुहज भेद तिहनन पाया.",
-      "बिन माने किस भेद न जाना, वेदनि यहि बखानो || 1 ||"
+      "वचन गुरू का मानत है जो, तिह॑ं कछु दुर्लभ नाहीं ।",
+      "ऋद्धि सिद्धि नवनिधि मुक्ती तांके, घर की चेरी जानो ॥२ ॥"
     ],
     [
-      "वचन गुरु का मानत है जो, तिहन कचहु दुरलभ नाहिन.",
-      "रिदधि सिदधि नवनिधि मुक्ति तानके, घर कि चेरि जानो || 2 ||."
+      "वचन गुरू का माने जो तिस, महिमा कही न जावे ।",
+      "आप हरी तिहें घर चल आवे, शबरी को प्रमानो ॥३ ॥"
     ],
     [
-      "वचन गुरु का माने जो तिस, महिमा कहि न जावे.",
-      "ाप हरि तिहेन घर चल ावे, शबरि को परमानो || 3 ||."
+      "ग्रह",
+      "बचन गुरू का नारद माने, मेटी जोनि चुरासी ।",
+      "वचन गुरू का मान आरुणी, वेद का अर्थ पछानो ॥४ ॥"
     ],
     [
-      "गरह",
-      "बचन गुरु का नारद माने, मेति जोनि चुरासि."
-    ],
-    [
-      "वचन गुरु का मान ारुनि, वेद का रथ पचहानो || 4 ||."
-    ],
-    [
-      "वचन गुरु के पालन मेन कर, तन मन धन कुरबानि.",
-      "कहे तेऊँ परमाननद पाे, सर्व दुखोन को हानो || 5 ||."
+      "वचन गुरू के पालन में कर, तन मन धन कुर्बानी ।",
+      "कहे टेऊँ परमानन्द पाए, सर्व दुखों को हानो ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vachan Guru Maano Re Maano (Tek)."
-    ],
-    [
       "Vachan Guru Kaa Jisne Maanaa, Guhaj Bhed Tihann Paayaa.",
-      "Bin Maane Kis Bhed N Jaanaa, Vedni Yahi Bakhaano || 1 ||"
+      "Bin Maane Kis Bhed Na Jaanaa, Vedni Yahi Bakhaano || 1 ||"
     ],
     [
       "Vachan Guru Kaa Maanat Hai Jo, Tihn Kachhu Durlabh Naahin.",
-      "Riddhi Siddhi Navnidhi Mukti Taanke, Ghar Ki Cheri Jaano || 2 ||."
+      "Riddhi Siddhi Navnidhi Mukti Taanke, Ghar Ki Cheri Jaano || 2 ||"
     ],
     [
-      "Vachan Guru Kaa Maane Jo Tis, Mahimaa Kahi N Jaave.",
-      "Aap Hari Tihen Ghar Chal Aave, Shabri Ko Pramaano || 3 ||."
+      "Vachan Guru Kaa Maane Jo Tis, Mahimaa Kahi Na Jaave.",
+      "Aap Hari Tihen Ghar Chal Aave, Shabri Ko Pramaano || 3 ||"
     ],
     [
       "Grah",
-      "Bachan Guru Kaa Naarad Maane, Meti Joni Churaasi."
-    ],
-    [
-      "Vachan Guru Kaa Maan Aaruni, Ved Kaa Arth Pachhaano || 4 ||."
+      "Bachan Guru Kaa Naarad Maane, Meti Joni Churaasi.",
+      "Vachan Guru Kaa Maan Aaruni, Ved Kaa Arth Pachhaano || 4 ||"
     ],
     [
       "Vachan Guru Ke Paalan Men Kar, Tan Man Dhan Kurbaani.",
-      "Kahe Teun Parmaanand Paae, Sarv Dukhon Ko Haano || 5 ||."
+      "Kahe Teun Parmaanand Paae, Sarv Dukhon Ko Haano || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 67 || 897 ||.",
+    "वचन गुरु मानो रे मानो",
     "Vachan Guru Maano Re Maano",
-    "वचन गुरु मानो रे मानो"
+    "राग जोग भजन 67",
+    "Raag Jog Bhajan 67"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 897,
+  "displayOrder": 67,
+  "overallOrder": 895,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 472",
+  "updatedAt": "2026-10-26"
 }

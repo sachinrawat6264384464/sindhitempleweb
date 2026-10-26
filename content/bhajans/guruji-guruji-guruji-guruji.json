@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0744",
+  "id": "bhajan-0742",
   "slug": "guruji-guruji-guruji-guruji",
   "categoryId": "raag-pilaa",
-  "title": "गुरुजि गुरुजि गुरुजि गुरुजि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "गुरूजी गुरूजी गुरूजी गुरूजी",
   "romanTitle": "Guruji Guruji Guruji Guruji",
   "firstLine": "Guruji Guruji Guruji Guruji (Tek).",
+  "heading": "।। राग पीला भजन ॥।। २२ ।। ७४४।॥।",
+  "tek": [
+    "गुरूजी गुरूजी गुरूजी गुरूजी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guruji Guruji Guruji Guruji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम सर्व देवन के देवा हो, तुम आनन्द रूप अखेवा हो ।",
+        "तुम आतम एक अभेवा हो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Sarv Devan Ke Devaa Ho, Tum Aanand Rup Akhevaa Ho.",
+        "Tum Aatam Ek Abhevaa Ho || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम आदि पुरुष अवतारी हो, तुम पावन परम उदारी हो ।",
+        "तुम पूरण पर उपकारी हो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Aadi Purush Avtaari Ho, Tum Paavan Param Udaari Ho.",
+        "Tum Puran Par Upkaari Ho || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम सब जग के पित माता हो, तुम दीनबन्धु सुखदाता हो ।",
+        "तुम तीन काल का ज्ञाता हो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Sab Jag Ke Pit Maataa Ho, Tum Dinbandhu Sukhdaataa Ho.",
+        "Tum Tin Kaal Kaa Jnyaataa Ho || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तुम पूरण प्रेम प्रकाशी हो, तुम अमर देश के वासी हो ।",
+        "तुम कहे टेऊँ सुखरासी हो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tum Puran Prem Prakaashi Ho, Tum Amar Desh Ke Vaasi Ho.",
+        "Tum Kahe Teun Sukhraasi Ho || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुजि गुरुजि गुरुजि गुरुजि (टेक)."
+      "तुम सर्व देवन के देवा हो, तुम आनन्द रूप अखेवा हो ।",
+      "तुम आतम एक अभेवा हो ॥१ ॥"
     ],
     [
-      "तुम सर्व देवन के देवा हो, तुम आनंद रुप खेवा हो.",
-      "तुम ातम ेक भेवा हो.1. ||."
+      "तुम आदि पुरुष अवतारी हो, तुम पावन परम उदारी हो ।",
+      "तुम पूरण पर उपकारी हो ॥२ ॥"
     ],
     [
-      "तुम ादि पुरुश वतारि हो, तुम पावन परम ुदारि हो.",
-      "तुम पुरन पर ुपकारि हो || 2 ||"
+      "तुम सब जग के पित माता हो, तुम दीनबन्धु सुखदाता हो ।",
+      "तुम तीन काल का ज्ञाता हो ॥३ ॥"
     ],
     [
-      "तुम सब जग के पित माता हो, तुम दिनबनधु सुखदाता हो.",
-      "तुम तिन काल का जनयाता हो ||.3 ||"
-    ],
-    [
-      "तुम पुरन प्रेम परकाशि हो, तुम मर देश के वासि हो.",
-      "तुम कहे तेऊँ सुखरासि हो || 4 ||"
+      "तुम पूरण प्रेम प्रकाशी हो, तुम अमर देश के वासी हो ।",
+      "तुम कहे टेऊँ सुखरासी हो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guruji Guruji Guruji Guruji (Tek)."
-    ],
-    [
       "Tum Sarv Devan Ke Devaa Ho, Tum Aanand Rup Akhevaa Ho.",
-      "Tum Aatam Ek Abhevaa Ho.1. ||."
+      "Tum Aatam Ek Abhevaa Ho || 1 ||"
     ],
     [
       "Tum Aadi Purush Avtaari Ho, Tum Paavan Param Udaari Ho.",
@@ -40,7 +89,7 @@
     ],
     [
       "Tum Sab Jag Ke Pit Maataa Ho, Tum Dinbandhu Sukhdaataa Ho.",
-      "Tum Tin Kaal Kaa Jnyaataa Ho ||.3 ||"
+      "Tum Tin Kaal Kaa Jnyaataa Ho || 3 ||"
     ],
     [
       "Tum Puran Prem Prakaashi Ho, Tum Amar Desh Ke Vaasi Ho.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || || 22 || 744. ||.",
+    "गुरूजी गुरूजी गुरूजी गुरूजी",
     "Guruji Guruji Guruji Guruji",
-    "गुरुजि गुरुजि गुरुजि गुरुजि"
+    "राग पीला भजन 21",
+    "Raag Pilaa Bhajan 21"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 744,
+  "displayOrder": 21,
+  "overallOrder": 742,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 394",
+  "updatedAt": "2026-10-26"
 }

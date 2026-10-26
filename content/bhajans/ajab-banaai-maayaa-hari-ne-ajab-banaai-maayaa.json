@@ -1,49 +1,78 @@
 {
-  "id": "bhajan-0643",
+  "id": "bhajan-0641",
   "slug": "ajab-banaai-maayaa-hari-ne-ajab-banaai-maayaa",
   "categoryId": "raag-kanso",
-  "title": "जब बनाि माया हरि ने, जब बनाि माया",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "अजब बनाई माया हरि ने, अजब बनाई माया",
   "romanTitle": "Ajab Banaai Maayaa Hari Ne, Ajab Banaai Maayaa",
   "firstLine": "Ajab Banaai Maayaa Hari Ne, Ajab Banaai Maayaa (Tek).",
+  "heading": "।। राग कंसो भजन ।। १२ ।। ६४२।॥।",
+  "tek": [
+    "अजब बनाई माया हरि ने, अजब बनाई माया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ajab Banaai Maayaa Hari Ne, Ajab Banaai Maayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "क्या कहूं कछु कहत न आवे, अदूभुत खेल खिलाया ।",
+        "चौरासी लख जोनि उपाए, सबके माहिं समाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kyaa Kahun Kachhu Kahat Na Aave, Adubhut Khel Khilaayaa.",
+        "Chauraasi Lakh Joni Upaae, Sabke Maahin Samaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निर्गुन से वह सगुन होयके, राम कृष्ण कहलाया ।",
+        "कहता टेऊँ खोजत केते, पार किसे ना पाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nirgun Se Vah Sagun Hoyke, Raam Krishn Kahlaayaa.",
+        "Kahtaa Teun Khojat Kete, Paar Kise Naa Paayaa || 2 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब बनाि माया हरि ने, जब बनाि माया (टेक)."
+      "क्या कहूं कछु कहत न आवे, अदूभुत खेल खिलाया ।",
+      "चौरासी लख जोनि उपाए, सबके माहिं समाया ॥१ ॥"
     ],
     [
-      "कया कहुन कचहु कहत न ावे, दुभुत खेल खिलाया.",
-      "चौरासि लख जोनि ुपाे, सबके माहिन समाया || 1 ||"
-    ],
-    [
-      "निरगुन से वह सगुन होयके, राम करिशन कहलाया.",
-      "कहता तेऊँ खोजत केते, पार किसे ना पाया || 2 ||."
+      "निर्गुन से वह सगुन होयके, राम कृष्ण कहलाया ।",
+      "कहता टेऊँ खोजत केते, पार किसे ना पाया ॥२ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ajab Banaai Maayaa Hari Ne, Ajab Banaai Maayaa (Tek)."
-    ],
-    [
-      "Kyaa Kahun Kachhu Kahat N Aave, Adubhut Khel Khilaayaa.",
+      "Kyaa Kahun Kachhu Kahat Na Aave, Adubhut Khel Khilaayaa.",
       "Chauraasi Lakh Joni Upaae, Sabke Maahin Samaayaa || 1 ||"
     ],
     [
       "Nirgun Se Vah Sagun Hoyke, Raam Krishn Kahlaayaa.",
-      "Kahtaa Teun Khojat Kete, Paar Kise Naa Paayaa || 2 ||."
+      "Kahtaa Teun Khojat Kete, Paar Kise Naa Paayaa || 2 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 12 || 642. ||.",
+    "अजब बनाई माया हरि ने, अजब बनाई माया",
     "Ajab Banaai Maayaa Hari Ne, Ajab Banaai Maayaa",
-    "जब बनाि माया हरि ने, जब बनाि माया"
+    "राग कंसो भजन 12",
+    "Raag Kanso Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 643,
+  "displayOrder": 12,
+  "overallOrder": 641,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 343",
+  "updatedAt": "2026-10-26"
 }

@@ -2,48 +2,99 @@
   "id": "bhajan-0192",
   "slug": "aaj-mere-ghar-sant-padhaare-mohi-mile-bhagvaan-sakhiri",
   "categoryId": "raag-dhanaashri",
-  "title": "ाज मेरे घर संत पधारे, मोहि मिले भगवान सखिरि",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "आज मेरे घर सन्त पधारे, मोहि मिले भगवान सखीरी",
   "romanTitle": "Aaj Mere Ghar Sant Padhaare, Mohi Mile Bhagvaan Sakhiri",
   "firstLine": "Aaj Mere Ghar Sant Padhaare, Mohi Mile Bhagvaan Sakhiri (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। १२ ।। १९२।।",
+  "tek": [
+    "आज मेरे घर सन्त पधारे, मोहि मिले भगवान सखीरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Mere Ghar Sant Padhaare, Mohi Mile Bhagvaan Sakhiri (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पर उपकारी धीरज धारी, पूर्ण पुरुष सुजान सखीरी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Par Upkaari Dhiraj Dhaari, Purn Purush Sujaan Sakhiri || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निष्कामी निर्मोही निर्मल, निर्द्दोही निर्मान सखीरी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nishkaami Nirmohi Nirmal, Nirddohi Nirmaan Sakhiri || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सहनशील समदर्शी शीतल, सर्व सुखों की खान सखीरी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sahnashil Samdarshi Shital, Sarv Sukhon Ki Khaan Sakhiri || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कृपा कर आये, ज्ञानवान गुणवान सखीरी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kripaa Kar Aaye, Jnyaanvaan Gunvaan Sakhiri || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज मेरे घर संत पधारे, मोहि मिले भगवान सखिरि (टेक)."
+      "पर उपकारी धीरज धारी, पूर्ण पुरुष सुजान सखीरी ॥१ ॥"
     ],
     [
-      "पर ुपकारि धिरज धारि, पुरन पुरुश सुजान सखिरि ||.1 ||.",
-      "निशकामि निरमोहि निर्मल, निरददोहि निरमान सखिरि ||.2 ||"
+      "निष्कामी निर्मोही निर्मल, निर्द्दोही निर्मान सखीरी ॥२ ॥"
     ],
     [
-      "सहनशिल समदरशि शितल, सर्व सुखोन कि खान सखिरि.. 3 ||",
-      "कहे तेऊँ कृपा कर ाये, जनयानवान गुनवान सखिरि || 4 ||."
+      "सहनशील समदर्शी शीतल, सर्व सुखों की खान सखीरी ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ कृपा कर आये, ज्ञानवान गुणवान सखीरी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaj Mere Ghar Sant Padhaare, Mohi Mile Bhagvaan Sakhiri (Tek)."
+      "Par Upkaari Dhiraj Dhaari, Purn Purush Sujaan Sakhiri || 1 ||"
     ],
     [
-      "Par Upkaari Dhiraj Dhaari, Purn Purush Sujaan Sakhiri ||.1 ||.",
-      "Nishkaami Nirmohi Nirmal, Nirddohi Nirmaan Sakhiri ||.2 ||"
+      "Nishkaami Nirmohi Nirmal, Nirddohi Nirmaan Sakhiri || 2 ||"
     ],
     [
-      "Sahnashil Samdarshi Shital, Sarv Sukhon Ki Khaan Sakhiri.. 3 ||",
-      "Kahe Teun Kripaa Kar Aaye, Jnyaanvaan Gunvaan Sakhiri || 4 ||."
+      "Sahnashil Samdarshi Shital, Sarv Sukhon Ki Khaan Sakhiri || 3 ||"
+    ],
+    [
+      "Kahe Teun Kripaa Kar Aaye, Jnyaanvaan Gunvaan Sakhiri || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 12 || 192 ||",
+    "आज मेरे घर सन्त पधारे, मोहि मिले भगवान सखीरी",
     "Aaj Mere Ghar Sant Padhaare, Mohi Mile Bhagvaan Sakhiri",
-    "ाज मेरे घर संत पधारे, मोहि मिले भगवान सखिरि"
+    "राग धनाश्री भजन 12",
+    "Raag Dhanaashri Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 192,
+  "displayOrder": 12,
+  "overallOrder": 192,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 124",
+  "updatedAt": "2026-10-26"
 }

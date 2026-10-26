@@ -2,81 +2,131 @@
   "id": "bhajan-0078",
   "slug": "prabhu-de-milaane-vaalaa-saadhu-sang-hai",
   "categoryId": "raag-aasaa",
-  "title": "प्रभु दे मिलाने वाला साधु सनग है",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "प्रभू दे मिलाने वाला साधू संग है",
   "romanTitle": "Prabhu De Milaane Vaalaa Saadhu Sang Hai",
   "firstLine": "Prabhu De Milaane Vaalaa Saadhu Sang Hai (Tek).",
+  "heading": "।। राग आसा भजन ।। १६ ।। ७८।।",
+  "tek": [
+    "प्रभू दे मिलाने वाला साधू संग है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu De Milaane Vaalaa Saadhu Sang Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जैसे ताल नीर पहले सरित रलंदा,",
+        "नदी केरा नीर जाय सिन्धु मिलंदा ।",
+        "सिन्धु से मिलाने वाला नदी अंग है ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaise Taal Nir Pahle Sarit Ralandaa,",
+        "Nadi Keraa Nir Jaay Sindhu Milandaa.",
+        "Sindhu Se Milaane Vaalaa Nadi Ang Hai || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसे नर पहले जा बवज़ीर भेटंदा,",
+        "भूप से वज़ीर मेल दुख मेटंदा ।",
+        "नूप से मिलाने वाला मन्त्री ढंग है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaise Nar Pahle Jaa Bavzir Bhetandaa,",
+        "Bhup Se Vazir Mel Dukh Metandaa.",
+        "Nup Se Milaane Vaalaa Mantri Dhang Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जैसे फूल बीच जाय चींटी बैठंदी ,",
+        "फूल संग जाय फिर ठाकुर चढ़ंदी ।",
+        "ठाकुर से मिलाने वाला पुष्प पंग है ॥ ३े ॥ ।"
+      ],
+      "romanLines": [
+        "Jaise Phul Bich Jaay Chinti Baithandi,",
+        "Phul Sang Jaay Phir Thaakur Charhandi.",
+        "Thaakur Se Milaane Vaalaa Pushp Pang Hai || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तैसे साध संग करले,",
+        "साध संग ब्रह्म पाय भेद हरले ।",
+        "साध संग माहिं चढ़े राम रंग है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taise Saadh Sang Karle,",
+        "Saadh Sang Brahm Paay Bhed Harle.",
+        "Saadh Sang Maahin Charhe Raam Rang Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु दे मिलाने वाला साधु सनग है (टेक)."
+      "जैसे ताल नीर पहले सरित रलंदा,",
+      "नदी केरा नीर जाय सिन्धु मिलंदा ।",
+      "सिन्धु से मिलाने वाला नदी अंग है ॥१ ॥१ ॥"
     ],
     [
-      "जैसे ताल निर पहले सरित रलनदा,",
-      "नदि केरा निर जाय सिनधु मिलनदा."
+      "जैसे नर पहले जा बवज़ीर भेटंदा,",
+      "भूप से वज़ीर मेल दुख मेटंदा ।",
+      "नूप से मिलाने वाला मन्त्री ढंग है ॥२ ॥"
     ],
     [
-      "सिनधु से मिलाने वाला नदि नग है || $₹ ||.",
-      "जैसे नर पहले जा बवzिर भेतनदा,"
+      "जैसे फूल बीच जाय चींटी बैठंदी ,",
+      "फूल संग जाय फिर ठाकुर चढ़ंदी ।",
+      "ठाकुर से मिलाने वाला पुष्प पंग है ॥ ३े ॥ ।"
     ],
     [
-      "भुप से वzिर मेल दुःख मेतनदा.",
-      "नुप से मिलाने वाला मनतरि धनग है || 2 ||."
-    ],
-    [
-      "जैसे फुल बिच जाय चिनति बैथनदि,",
-      "फुल सनग जाय फिर थाकुर चरहनदि."
-    ],
-    [
-      "थाकुर से मिलाने वाला पुशप पनग है || 3े ||.",
-      "कहे तेऊँ तैसे साध सनग करले,"
-    ],
-    [
-      "साध सनग बरहम पाय भेद हरले.",
-      "साध सनग माहिन चरहे राम रनग है || 4 ||"
+      "कहे टेऊँ तैसे साध संग करले,",
+      "साध संग ब्रह्म पाय भेद हरले ।",
+      "साध संग माहिं चढ़े राम रंग है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu De Milaane Vaalaa Saadhu Sang Hai (Tek)."
-    ],
-    [
       "Jaise Taal Nir Pahle Sarit Ralandaa,",
-      "Nadi Keraa Nir Jaay Sindhu Milandaa."
+      "Nadi Keraa Nir Jaay Sindhu Milandaa.",
+      "Sindhu Se Milaane Vaalaa Nadi Ang Hai || 1 || 1 ||"
     ],
     [
-      "Sindhu Se Milaane Vaalaa Nadi Ang Hai || $₹ ||.",
-      "Jaise Nar Pahle Jaa Bavzir Bhetandaa,"
-    ],
-    [
+      "Jaise Nar Pahle Jaa Bavzir Bhetandaa,",
       "Bhup Se Vazir Mel Dukh Metandaa.",
-      "Nup Se Milaane Vaalaa Mantri Dhang Hai || 2 ||."
+      "Nup Se Milaane Vaalaa Mantri Dhang Hai || 2 ||"
     ],
     [
       "Jaise Phul Bich Jaay Chinti Baithandi,",
-      "Phul Sang Jaay Phir Thaakur Charhandi."
+      "Phul Sang Jaay Phir Thaakur Charhandi.",
+      "Thaakur Se Milaane Vaalaa Pushp Pang Hai || 3E ||"
     ],
     [
-      "Thaakur Se Milaane Vaalaa Pushp Pang Hai || 3E ||.",
-      "Kahe Teun Taise Saadh Sang Karle,"
-    ],
-    [
+      "Kahe Teun Taise Saadh Sang Karle,",
       "Saadh Sang Brahm Paay Bhed Harle.",
       "Saadh Sang Maahin Charhe Raam Rang Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 16 || 78 ||",
+    "प्रभू दे मिलाने वाला साधू संग है",
     "Prabhu De Milaane Vaalaa Saadhu Sang Hai",
-    "प्रभु दे मिलाने वाला साधु सनग है"
+    "राग आसा भजन 16",
+    "Raag Aasaa Bhajan 16"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 78,
+  "displayOrder": 16,
+  "overallOrder": 78,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 65",
+  "updatedAt": "2026-10-26"
 }

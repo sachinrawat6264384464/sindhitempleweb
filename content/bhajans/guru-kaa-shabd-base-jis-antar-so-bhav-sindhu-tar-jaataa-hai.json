@@ -1,66 +1,116 @@
 {
   "id": "bhajan-0353",
   "slug": "guru-kaa-shabd-base-jis-antar-so-bhav-sindhu-tar-jaataa-hai",
-  "categoryId": "raag-aasaa",
-  "title": "गुरु का शबद बसे जिस नतर, सो भव सिनधु तर जाता है",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "गुरु का शब्द बसे जिस अन्तर, सो भव सिन्धु तर जाता है",
   "romanTitle": "Guru Kaa Shabd Base Jis Antar, So Bhav Sindhu Tar Jaataa Hai",
   "firstLine": "Guru Kaa Shabd Base Jis Antar, So Bhav Sindhu Tar Jaataa Hai (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १० ।। रे५३।॥।",
+  "tek": [
+    "गुरु का शब्द बसे जिस अन्तर, सो भव सिन्धु तर जाता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Kaa Shabd Base Jis Antar, So Bhav Sindhu Tar Jaataa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु का शब्द कटे अज्ञाना, निश्चय देवत आतम ज्ञाना ।",
+        "पूर्ण पद पहुँचाता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Shabd Kate Ajnyaanaa, Nishchay Devat Aatam Jnyaanaa.",
+        "Purn Pad Pahunchaataa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु शब्दे तांका मन लागे, जांके पूरब के पुण्य जागे ।",
+        "बड़भागी कहलाता है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Shabde Taankaa Man Laage, Jaanke Purab Ke Puny Jaage.",
+        "Barbhaagi Kahlaataa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जो गुरु शब्द जपे दिन राती, मेटे पांचों भेद श्रान्ती ।",
+        "आतम रंग सो राता है ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Jo Guru Shabd Jape Din Raati, Mete Paanchon Bhed Shraanti.",
+        "Aatam Rang So Raataa Hai || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो गुरु शब्द करे वीचारा, कहे टेऊँ पाय मोक्ष द्वारा ।",
+        "आवागमन मिटाता है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jo Guru Shabd Kare Vichaaraa, Kahe Teun Paay Moksh Dvaaraa.",
+        "Aavaagman Mitaataa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु का शबद बसे जिस नतर, सो भव सिनधु तर जाता है (टेक)."
+      "गुरु का शब्द कटे अज्ञाना, निश्चय देवत आतम ज्ञाना ।",
+      "पूर्ण पद पहुँचाता है ॥१ ॥"
     ],
     [
-      "गुरु का शबद कते जनयाना, निशचय देवत ातम जनयाना.",
-      "पुरन पद पहुनचाता है || 1 ||."
+      "गुरु शब्दे तांका मन लागे, जांके पूरब के पुण्य जागे ।",
+      "बड़भागी कहलाता है ॥२ ॥"
     ],
     [
-      "गुरु शबदे तानका मन लागे, जानके पुरब के पुनय जागे.",
-      "बरभागि कहलाता है || 2 ||."
+      "जो गुरु शब्द जपे दिन राती, मेटे पांचों भेद श्रान्ती ।",
+      "आतम रंग सो राता है ॥ ।३े ॥ ।"
     ],
     [
-      "जो गुरु शबद जपे दीन राति, मेते पानचोन भेद शरानति.",
-      "ातम रनग सो राता है ||.3े ||."
-    ],
-    [
-      "जो गुरु शबद करे विचारा, कहे तेऊँ पाय मोक्ष दवारा.",
-      "ावागमन मिताता है || 4. ||."
+      "जो गुरु शब्द करे वीचारा, कहे टेऊँ पाय मोक्ष द्वारा ।",
+      "आवागमन मिटाता है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Kaa Shabd Base Jis Antar, So Bhav Sindhu Tar Jaataa Hai (Tek)."
-    ],
-    [
       "Guru Kaa Shabd Kate Ajnyaanaa, Nishchay Devat Aatam Jnyaanaa.",
-      "Purn Pad Pahunchaataa Hai || 1 ||."
+      "Purn Pad Pahunchaataa Hai || 1 ||"
     ],
     [
       "Guru Shabde Taankaa Man Laage, Jaanke Purab Ke Puny Jaage.",
-      "Barbhaagi Kahlaataa Hai || 2 ||."
+      "Barbhaagi Kahlaataa Hai || 2 ||"
     ],
     [
       "Jo Guru Shabd Jape Din Raati, Mete Paanchon Bhed Shraanti.",
-      "Aatam Rang So Raataa Hai ||.3E ||."
+      "Aatam Rang So Raataa Hai || 3E ||"
     ],
     [
       "Jo Guru Shabd Kare Vichaaraa, Kahe Teun Paay Moksh Dvaaraa.",
-      "Aavaagman Mitaataa Hai || 4. ||."
+      "Aavaagman Mitaataa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 10 || Re53. ||.",
+    "गुरु का शब्द बसे जिस अन्तर, सो भव सिन्धु तर जाता है",
     "Guru Kaa Shabd Base Jis Antar, So Bhav Sindhu Tar Jaataa Hai",
-    "गुरु का शबद बसे जिस नतर, सो भव सिनधु तर जाता है"
+    "राग बसंत भजन 10",
+    "Raag Basant Bhajan 10"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
     "bhajan"
   ],
-  "displayOrder": 353,
+  "displayOrder": 10,
+  "overallOrder": 353,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 209",
+  "updatedAt": "2026-10-26"
 }

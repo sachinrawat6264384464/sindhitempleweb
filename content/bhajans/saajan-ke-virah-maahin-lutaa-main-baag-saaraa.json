@@ -1,65 +1,116 @@
 {
   "id": "bhajan-0233",
   "slug": "saajan-ke-virah-maahin-lutaa-main-baag-saaraa",
-  "categoryId": "raag-bhairav",
-  "title": "साजन के विरह माहिन लुता मैं बाग सारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "साजन के विरह माहीं लूटा मैं बाग सारा",
   "romanTitle": "Saajan Ke Virah Maahin Lutaa Main Baag Saaraa",
   "firstLine": "Saajan Ke Virah Maahin Lutaa Main Baag Saaraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। १८ ।। २३३।।",
+  "tek": [
+    "साजन के विरह माहीं लूटा मैं बाग सारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saajan Ke Virah Maahin Lutaa Main Baag Saaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आशा का त्याग कीया, तृष्णा को तर्क दीया ।",
+        "खोजन लगा सु पीया, गुरु शब्द ले सहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aashaa Kaa Tyaag Kiyaa, Trishnaa Ko Tark Diyaa.",
+        "Khojan Lagaa Su Piyaa, Guru Shabd Le Sahaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दिन रात इन्तज़ारी, दिल को नहीं करारी ।",
+        "दुनिया लगे न प्यारी, नैनें बहाऊं धारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Din Raat Intazaari, Dil Ko Nahin Karaari.",
+        "Duniyaa Lage Na Pyaari, Nainen Bahaaun Dhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "विरहा अग्नि में जरके, संसा विकार हरके ।",
+        "पावन अक्षर सुमरके, पाऊं परम प्यारा ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Virhaa Agni Men Jarke, Sansaa Vikaar Harke.",
+        "Paavan Akshar Sumrake, Paaun Param Pyaaraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ज्यों नीर बिगर मीना, तैसे हमार जीना ।",
+        "भावे न खान पीना, कहे टेऊँ कर पुकारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jyon Nir Bigar Minaa, Taise Hamaar Jinaa.",
+        "Bhaave Na Khaan Pinaa, Kahe Teun Kar Pukaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साजन के विरह माहिन लुता मैं बाग सारा (टेक)."
+      "आशा का त्याग कीया, तृष्णा को तर्क दीया ।",
+      "खोजन लगा सु पीया, गुरु शब्द ले सहारा ॥१ ॥"
     ],
     [
-      "ाशा का तयाग किया, तरिशना को तरक दिया.",
-      "खोजन लगा सु पिया, गुरु शबद ले सहारा || 1 ||."
+      "दिन रात इन्तज़ारी, दिल को नहीं करारी ।",
+      "दुनिया लगे न प्यारी, नैनें बहाऊं धारा ॥२ ॥"
     ],
     [
-      "दीन रात िनतzारि, दिल को नहिन करारि.",
-      "दुनिया लगे न पयारि, नैनेन बहाुन धारा || 2 ||."
+      "विरहा अग्नि में जरके, संसा विकार हरके ।",
+      "पावन अक्षर सुमरके, पाऊं परम प्यारा ॥ ।३े ॥ ।"
     ],
     [
-      "विरहा गनि मेन जरके, सनसा विकार हरके.",
-      "पावन कशर सुमरके, पाुन परम पयारा ||.3े ||."
-    ],
-    [
-      "जयोन निर बिगर मिना, तैसे हमार जिना.",
-      "भावे न खान पिना, कहे तेऊँ कर पुकारा || 4 ||."
+      "ज्यों नीर बिगर मीना, तैसे हमार जीना ।",
+      "भावे न खान पीना, कहे टेऊँ कर पुकारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saajan Ke Virah Maahin Lutaa Main Baag Saaraa (Tek)."
-    ],
-    [
       "Aashaa Kaa Tyaag Kiyaa, Trishnaa Ko Tark Diyaa.",
-      "Khojan Lagaa Su Piyaa, Guru Shabd Le Sahaaraa || 1 ||."
+      "Khojan Lagaa Su Piyaa, Guru Shabd Le Sahaaraa || 1 ||"
     ],
     [
       "Din Raat Intazaari, Dil Ko Nahin Karaari.",
-      "Duniyaa Lage N Pyaari, Nainen Bahaaun Dhaaraa || 2 ||."
+      "Duniyaa Lage Na Pyaari, Nainen Bahaaun Dhaaraa || 2 ||"
     ],
     [
       "Virhaa Agni Men Jarke, Sansaa Vikaar Harke.",
-      "Paavan Akshar Sumrake, Paaun Param Pyaaraa ||.3E ||."
+      "Paavan Akshar Sumrake, Paaun Param Pyaaraa || 3E ||"
     ],
     [
       "Jyon Nir Bigar Minaa, Taise Hamaar Jinaa.",
-      "Bhaave N Khaan Pinaa, Kahe Teun Kar Pukaaraa || 4 ||."
+      "Bhaave Na Khaan Pinaa, Kahe Teun Kar Pukaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 18 || 233 ||",
+    "साजन के विरह माहीं लूटा मैं बाग सारा",
     "Saajan Ke Virah Maahin Lutaa Main Baag Saaraa",
-    "साजन के विरह माहिन लुता मैं बाग सारा"
+    "राग भैरवी भजन 18",
+    "Raag Bhairvi Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 233,
+  "displayOrder": 18,
+  "overallOrder": 233,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 145",
+  "updatedAt": "2026-10-26"
 }

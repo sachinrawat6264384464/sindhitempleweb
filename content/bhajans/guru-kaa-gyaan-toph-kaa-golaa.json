@@ -1,0 +1,102 @@
+{
+  "id": "bhajan-0508",
+  "slug": "guru-kaa-gyaan-toph-kaa-golaa",
+  "categoryId": "raag-kohiyaari",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "गुरु का ज्ञान तोफ का गोला,",
+  "romanTitle": "Guru Kaa Gyaan Toph Kaa Golaa,",
+  "firstLine": "Guru Kaa Gyaan Toph Kaa Golaa,",
+  "heading": "।। राग कोह्मारी भजन ।। २९ ।। ५०९।।",
+  "tek": [
+    "गुरु का ज्ञान तोफ का गोला,",
+    "मन को मार मुकावे, सन्त बतावे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Kaa Gyaan Toph Kaa Golaa,",
+    "Man Ko Maar Mukaave, Sant Bataave (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु का ज्ञान सिंह के सदृश, संसा स्याल भगावे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Gyaan Sinh Ke Sadrish, Sansaa Syaal Bhagaave || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु का ज्ञान सूर्य की न्याई, अविद्या रैन मिटावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Gyaan Sury Ki Nyaai, Avidyaa Rain Mitaave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु का ज्ञान पवन के समसर, बादल श्रम उड़ावे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Gyaan Pavan Ke Samsar, Baadal Shram Uraave || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान अग्नि सम, विषय विकार जलावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Agni Sam, Vishay Vikaar Jalaave || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "गुरु का ज्ञान सिंह के सदृश, संसा स्याल भगावे ॥१ ॥"
+    ],
+    [
+      "गुरु का ज्ञान सूर्य की न्याई, अविद्या रैन मिटावे ॥२ ॥"
+    ],
+    [
+      "गुरु का ज्ञान पवन के समसर, बादल श्रम उड़ावे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु ज्ञान अग्नि सम, विषय विकार जलावे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Guru Kaa Gyaan Sinh Ke Sadrish, Sansaa Syaal Bhagaave || 1 ||"
+    ],
+    [
+      "Guru Kaa Gyaan Sury Ki Nyaai, Avidyaa Rain Mitaave || 2 ||"
+    ],
+    [
+      "Guru Kaa Gyaan Pavan Ke Samsar, Baadal Shram Uraave || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Gyaan Agni Sam, Vishay Vikaar Jalaave || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "गुरु का ज्ञान तोफ का गोला,",
+    "Guru Kaa Gyaan Toph Kaa Golaa,",
+    "राग कोहियारी भजन 29",
+    "Raag Kohiyaari Bhajan 29"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
+    "bhajan"
+  ],
+  "displayOrder": 29,
+  "overallOrder": 508,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 282",
+  "updatedAt": "2026-10-26"
+}

@@ -1,37 +1,86 @@
 {
-  "id": "bhajan-0821",
+  "id": "bhajan-0819",
   "slug": "bhagvaan-par-hameshaa-vishvaas-dhar-pyaaraa",
   "categoryId": "raag-maanjh",
-  "title": "भगवान पर हमेशा, विशवास धर पयारा",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "भगवान पर हमेशा, विश्वास धर प्यारा",
   "romanTitle": "Bhagvaan Par Hameshaa, Vishvaas Dhar Pyaaraa",
-  "firstLine": "Bhagvaan Par Hameshaa, Vishvaas Dhar Pyaaraa. Nishchay Bhalaa Karegaa, Prabhu Sadaa Tumhaaraa (Tek).",
+  "firstLine": "Bhagvaan Par Hameshaa, Vishvaas Dhar Pyaaraa.",
+  "heading": "।। राग मांझ भजन ।। ८ ।। ८२१।॥।",
+  "tek": [
+    "भगवान पर हमेशा, विश्वास धर प्यारा ।",
+    "निश्चय भला करेगा, प्रभू सदा तुम्हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhagvaan Par Hameshaa, Vishvaas Dhar Pyaaraa.",
+    "Nishchay Bhalaa Karegaa, Prabhu Sadaa Tumhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दिलगीर होय दुख में, भगवान ना भुलाओ ।",
+        "धीरज धरे हृदय में, ले राम का सहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dilgir Hoy Dukh Men, Bhagvaan Naa Bhulaao.",
+        "Dhiraj Dhare Hriday Men, Le Raam Kaa Sahaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "समर्थ सर्व॑ व्यापक, कृपा निधान जोई ।",
+        "जहं तहं रक्षा करे सो, हर काल के मंजझारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Samarth Sarv Vyaapak, Kripaa Nidhaan Joi.",
+        "Jahan Tahan Rakshaa Kare So, Har Kaal Ke Manjjhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "विश्वास है जिसीको, बेड़ा डुबे न तिसका ।",
+        "विश्वास से ज़हर भी, अमृत भया उदारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vishvaas Hai Jisiko, Beraa Dube Na Tiskaa.",
+        "Vishvaas Se Zahar Bhi, Amrit Bhayaa Udaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "प्रहलाद कर यकीना, प्रकट कीया हरी को ।",
+        "कहे टेऊँ कष्ट तांके, नरसिंह ने निवारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Prahlaad Kar Yakinaa, Prakat Kiyaa Hari Ko.",
+        "Kahe Teun Kasht Taanke, Narsinh Ne Nivaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भगवान पर हमेशा, विशवास धर पयारा.",
-      "निशचय भला करेगा, प्रभु सदा तुमहारा (टेक)."
+      "दिलगीर होय दुख में, भगवान ना भुलाओ ।",
+      "धीरज धरे हृदय में, ले राम का सहारा ॥१ ॥"
     ],
     [
-      "दिलगिर होय दुःख मेन, भगवान ना भुलाो.",
-      "धिरज धरे हरिदय मेन, ले राम का सहारा || 1 ||"
+      "समर्थ सर्व॑ व्यापक, कृपा निधान जोई ।",
+      "जहं तहं रक्षा करे सो, हर काल के मंजझारा ॥२ ॥"
     ],
     [
-      "समरथ सर्व वयापक, कृपा निधान जोि.",
-      "जहन तहन रकशा करे सो, हर काल के मनजझारा || 2 ||"
+      "विश्वास है जिसीको, बेड़ा डुबे न तिसका ।",
+      "विश्वास से ज़हर भी, अमृत भया उदारा ॥३ ॥"
     ],
     [
-      "विशवास है जिसिको, बेरा दुबे न तिसका.",
-      "विशवास से zहर भि, अमृत भया ुदारा || 3"
-    ],
-    [
-      "परहलाद कर यकिना, परकत किया हरि को.",
-      "कहे तेऊँ कशत तानके, नरसिनह ने निवारा || 4 ||"
+      "प्रहलाद कर यकीना, प्रकट कीया हरी को ।",
+      "कहे टेऊँ कष्ट तांके, नरसिंह ने निवारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Bhagvaan Par Hameshaa, Vishvaas Dhar Pyaaraa.",
-      "Nishchay Bhalaa Karegaa, Prabhu Sadaa Tumhaaraa (Tek)."
-    ],
     [
       "Dilgir Hoy Dukh Men, Bhagvaan Naa Bhulaao.",
       "Dhiraj Dhare Hriday Men, Le Raam Kaa Sahaaraa || 1 ||"
@@ -41,8 +90,8 @@
       "Jahan Tahan Rakshaa Kare So, Har Kaal Ke Manjjhaaraa || 2 ||"
     ],
     [
-      "Vishvaas Hai Jisiko, Beraa Dube N Tiskaa.",
-      "Vishvaas Se Zahar Bhi, Amrit Bhayaa Udaaraa || 3"
+      "Vishvaas Hai Jisiko, Beraa Dube Na Tiskaa.",
+      "Vishvaas Se Zahar Bhi, Amrit Bhayaa Udaaraa || 3 ||"
     ],
     [
       "Prahlaad Kar Yakinaa, Prakat Kiyaa Hari Ko.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maanjh Bhajan || 8 || 821. ||.",
+    "भगवान पर हमेशा, विश्वास धर प्यारा",
     "Bhagvaan Par Hameshaa, Vishvaas Dhar Pyaaraa",
-    "भगवान पर हमेशा, विशवास धर पयारा"
+    "राग मांझ भजन 8",
+    "Raag Maanjh Bhajan 8"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "maanjh",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
     "bhajan"
   ],
-  "displayOrder": 821,
+  "displayOrder": 8,
+  "overallOrder": 819,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 435",
+  "updatedAt": "2026-10-26"
 }

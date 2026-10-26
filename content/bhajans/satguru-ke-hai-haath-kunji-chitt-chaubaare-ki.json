@@ -1,64 +1,112 @@
 {
-  "id": "bhajan-0712",
+  "id": "bhajan-0710",
   "slug": "satguru-ke-hai-haath-kunji-chitt-chaubaare-ki",
   "categoryId": "raag-pahaari",
-  "title": "सतगुरु के है हाथ, कुनजि चितत चौबारे कि",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "सत्‌गुरु के है हाथ, कुंजी चित्त चौबारे की ॥",
   "romanTitle": "Sat‌Guru Ke Hai Haath, Kunji Chitt Chaubaare Ki",
   "firstLine": "Sat‌Guru Ke Hai Haath, Kunji Chitt Chaubaare Ki (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ६३ ।। ७११॥।",
+  "tek": [
+    "सत्‌गुरु के है हाथ, कुंजी चित्त चौबारे की ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Ke Hai Haath, Kunji Chitt Chaubaare Ki (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पूर्ण गुरु की शरणी जाकर, राज योग की युक्ती पाकर ।",
+        "खोलो श्रद्धा साथ, खिड़की दसम द्वार की ॥१ ॥"
+      ],
+      "romanLines": [
+        "Purn Guru Ki Sharni Jaakar, Raaj Yog Ki Yukti Paakar.",
+        "Kholo Shraddhaa Saath, Khirki Dasam Dvaar Ki || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भेद भ्रम सब करके नासा, पूरण मन में धर विश्वासा ।",
+        "सत्‌गुरु से सुन गाथ, साक्षी सिरजण हारे की ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhed Bhram Sab Karke Naasaa, Puran Man Men Dhar Vishvaasaa.",
+        "Sat‌Guru Se Sun Gaath, Saakshi Sirjan Haare Ki || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ सत्‌गुरु संग में, रंगले मन को आत्म रंग में ।",
+        "पीवो अमृत पाथ, मिटे भय काल करारे की ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sat‌Guru Sang Men, Rangle Man Ko Aatm Rang Men.",
+        "Pivo Amrit Paath, Mite Bhay Kaal Karaare Ki || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द्च्ठ"
+      ],
+      "romanLines": [
+        "Dchth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु के है हाथ, कुनजि चितत चौबारे कि (टेक)."
+      "पूर्ण गुरु की शरणी जाकर, राज योग की युक्ती पाकर ।",
+      "खोलो श्रद्धा साथ, खिड़की दसम द्वार की ॥१ ॥"
     ],
     [
-      "पुरन गुरु कि शरनि जाकर, राज योग कि युकति पाकर.",
-      "खोलो शरदधा साथ, खिरकि दसम दवार कि || 1 ||"
+      "भेद भ्रम सब करके नासा, पूरण मन में धर विश्वासा ।",
+      "सत्‌गुरु से सुन गाथ, साक्षी सिरजण हारे की ॥२ ॥"
     ],
     [
-      "भेद भरम सब करके नासा, पुरन मन मेन धर विशवासा.",
-      "सतगुरु से सुन गाथ, साक्षी सिरजन हारे कि || 2 ||."
+      "कहता टेऊँ सत्‌गुरु संग में, रंगले मन को आत्म रंग में ।",
+      "पीवो अमृत पाथ, मिटे भय काल करारे की ॥३ ॥"
     ],
     [
-      "कहता तेऊँ सतगुरु सनग मेन, रनगले मन को ातम रनग मेन.",
-      "पिवो अमृत पाथ, मिते भय काल करारे कि ||.3 ||"
-    ],
-    [
-      "दचथ"
+      "द्च्ठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sat‌Guru Ke Hai Haath, Kunji Chitt Chaubaare Ki (Tek)."
-    ],
     [
       "Purn Guru Ki Sharni Jaakar, Raaj Yog Ki Yukti Paakar.",
       "Kholo Shraddhaa Saath, Khirki Dasam Dvaar Ki || 1 ||"
     ],
     [
       "Bhed Bhram Sab Karke Naasaa, Puran Man Men Dhar Vishvaasaa.",
-      "Sat‌Guru Se Sun Gaath, Saakshi Sirjan Haare Ki || 2 ||."
+      "Sat‌Guru Se Sun Gaath, Saakshi Sirjan Haare Ki || 2 ||"
     ],
     [
       "Kahtaa Teun Sat‌Guru Sang Men, Rangle Man Ko Aatm Rang Men.",
-      "Pivo Amrit Paath, Mite Bhay Kaal Karaare Ki ||.3 ||"
+      "Pivo Amrit Paath, Mite Bhay Kaal Karaare Ki || 3 ||"
     ],
     [
       "Dchth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 63 || 711 ||.",
+    "सत्‌गुरु के है हाथ, कुंजी चित्त चौबारे की ॥",
     "Sat‌Guru Ke Hai Haath, Kunji Chitt Chaubaare Ki",
-    "सतगुरु के है हाथ, कुनजि चितत चौबारे कि"
+    "राग पहाड़ी भजन 63",
+    "Raag Pahaari Bhajan 63"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 712,
+  "displayOrder": 63,
+  "overallOrder": 710,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 377",
+  "updatedAt": "2026-10-26"
 }

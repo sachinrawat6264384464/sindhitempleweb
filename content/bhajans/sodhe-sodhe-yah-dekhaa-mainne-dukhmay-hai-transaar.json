@@ -1,65 +1,116 @@
 {
   "id": "bhajan-0268",
   "slug": "sodhe-sodhe-yah-dekhaa-mainne-dukhmay-hai-transaar",
-  "categoryId": "raag-bhairav",
-  "title": "सोधे सोधे यह देखा मैनने दुखमय है तरनसार",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सोधे सोधे यह देखा मैंने दुखमय है त्रंसार",
   "romanTitle": "Sodhe Sodhe Yah Dekhaa Mainne Dukhmay Hai Transaar",
   "firstLine": "Sodhe Sodhe Yah Dekhaa Mainne Dukhmay Hai Transaar (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५३ ।। २६८।॥",
+  "tek": [
+    "सोधे सोधे यह देखा मैंने दुखमय है त्रंसार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sodhe Sodhe Yah Dekhaa Mainne Dukhmay Hai Transaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तीन लोक को देखा मैंने माया का विस्तार ।",
+        "शान्ती सुख ना इसमें देखा देखे द्वन्द्व अपार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tin Lok Ko Dekhaa Mainne Maayaa Kaa Vistaar.",
+        "Shaanti Sukh Naa Ismen Dekhaa Dekhe Dvandv Apaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मात पिता भाई सुत दारा देखा कुल परिवार ।",
+        "साचा सुख ना किस में देखा सब मतलब का प्यार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Bhaai Sut Daaraa Dekhaa Kul Parivaar.",
+        "Saachaa Sukh Naa Kis Men Dekhaa Sab Matlab Kaa Pyaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन रोगी मन भोगी देखा धन भी दुख आगार ।",
+        "शब्द रूप रस स्पर्श आदी देखा नरक द्वार ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Tan Rogi Man Bhogi Dekhaa Dhan Bhi Dukh Aagaar.",
+        "Shabd Rup Ras Sparsh Aadi Dekhaa Narak Dvaar || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आनन्दमय इक आत्म देखा करके सत्‌ वीचार ।",
+        "कहे टेऊँ तिस सुमरन कर मैं पाया शान्ति भण्डार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aanandamay Ik Aatm Dekhaa Karke Sat‌ Vichaar.",
+        "Kahe Teun Tis Sumran Kar Main Paayaa Shaanti Bhandaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सोधे सोधे यह देखा मैनने दुखमय है तरनसार (टेक)."
+      "तीन लोक को देखा मैंने माया का विस्तार ।",
+      "शान्ती सुख ना इसमें देखा देखे द्वन्द्व अपार ॥१ ॥"
     ],
     [
-      "तिन लोक को देखा मैनने माया का विसतार.",
-      "शांति सुख ना िसमेन देखा देखे दवनदव पार.1. ||."
+      "मात पिता भाई सुत दारा देखा कुल परिवार ।",
+      "साचा सुख ना किस में देखा सब मतलब का प्यार ॥२ ॥"
     ],
     [
-      "मात पिता भाि सुत दारा देखा कुल परिवार.",
-      "साचा सुख ना किस मेन देखा सब मतलब का पयार || 2 ||."
+      "तन रोगी मन भोगी देखा धन भी दुख आगार ।",
+      "शब्द रूप रस स्पर्श आदी देखा नरक द्वार ॥३े ॥ ।"
     ],
     [
-      "तन रोगि मन भोगि देखा धन भि दुःख ागार.",
-      "शबद रुप रस सपरश ादि देखा नरक दवार || 3े ||."
-    ],
-    [
-      "ाननदमय िक ातम देखा करके सत‌ विचार.",
-      "कहे तेऊँ तिस सुमरन कर मैं पाया शांति भनदार || 4 ||."
+      "आनन्दमय इक आत्म देखा करके सत्‌ वीचार ।",
+      "कहे टेऊँ तिस सुमरन कर मैं पाया शान्ति भण्डार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sodhe Sodhe Yah Dekhaa Mainne Dukhmay Hai Transaar (Tek)."
-    ],
-    [
       "Tin Lok Ko Dekhaa Mainne Maayaa Kaa Vistaar.",
-      "Shaanti Sukh Naa Ismen Dekhaa Dekhe Dvandv Apaar.1. ||."
+      "Shaanti Sukh Naa Ismen Dekhaa Dekhe Dvandv Apaar || 1 ||"
     ],
     [
       "Maat Pitaa Bhaai Sut Daaraa Dekhaa Kul Parivaar.",
-      "Saachaa Sukh Naa Kis Men Dekhaa Sab Matlab Kaa Pyaar || 2 ||."
+      "Saachaa Sukh Naa Kis Men Dekhaa Sab Matlab Kaa Pyaar || 2 ||"
     ],
     [
       "Tan Rogi Man Bhogi Dekhaa Dhan Bhi Dukh Aagaar.",
-      "Shabd Rup Ras Sparsh Aadi Dekhaa Narak Dvaar || 3E ||."
+      "Shabd Rup Ras Sparsh Aadi Dekhaa Narak Dvaar || 3E ||"
     ],
     [
       "Aanandamay Ik Aatm Dekhaa Karke Sat‌ Vichaar.",
-      "Kahe Teun Tis Sumran Kar Main Paayaa Shaanti Bhandaar || 4 ||."
+      "Kahe Teun Tis Sumran Kar Main Paayaa Shaanti Bhandaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 53 || 268. ||",
+    "सोधे सोधे यह देखा मैंने दुखमय है त्रंसार",
     "Sodhe Sodhe Yah Dekhaa Mainne Dukhmay Hai Transaar",
-    "सोधे सोधे यह देखा मैनने दुखमय है तरनसार"
+    "राग भैरवी भजन 53",
+    "Raag Bhairvi Bhajan 53"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 268,
+  "displayOrder": 53,
+  "overallOrder": 268,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 165",
+  "updatedAt": "2026-10-26"
 }

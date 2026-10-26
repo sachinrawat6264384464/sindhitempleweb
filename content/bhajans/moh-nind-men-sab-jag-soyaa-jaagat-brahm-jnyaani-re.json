@@ -1,49 +1,100 @@
 {
-  "id": "bhajan-0604",
+  "id": "bhajan-0602",
   "slug": "moh-nind-men-sab-jag-soyaa-jaagat-brahm-jnyaani-re",
   "categoryId": "raag-kaamol",
-  "title": "मोह निनद मेन सब जग सोया, जागत बरहम जनयानि रे",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "मोह नींद में सब जग सोया, जागत ब्रह्म ज्ञानी रे",
   "romanTitle": "Moh Nind Men Sab Jag Soyaa, Jaagat Brahm Jnyaani Re",
   "firstLine": "Moh Nind Men Sab Jag Soyaa, Jaagat Brahm Jnyaani Re (Tek).",
+  "heading": "।। राग कामोल भजन ।। ५ ।। ६०३।।",
+  "tek": [
+    "मोह नींद में सब जग सोया, जागत ब्रह्म ज्ञानी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Moh Nind Men Sab Jag Soyaa, Jaagat Brahm Jnyaani Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जग स्वप्ने को सत्य समझ कर, सोय रहा अज्ञानी रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jag Svapne Ko Saty Samajh Kar, Soy Rahaa Ajnyaani Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्ञानी जग को असत्‌ समझता, दृष्टा आपहिं जानी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jnyaani Jag Ko Asat‌ Samjhataa, Drishtaa Aaphin Jaani Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हानि लाभ और हर्ष शोक कर, रोबत तन अभिमानी रे ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Haani Laabh Aur Harsh Shok Kar, Robat Tan Abhimaani Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ इन्द्व बाद में, रहते सम विज्ञानी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Indv Baad Men, Rahte Sam Vijnyaani Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोह निनद मेन सब जग सोया, जागत बरहम जनयानि रे (टेक)."
+      "जग स्वप्ने को सत्य समझ कर, सोय रहा अज्ञानी रे ॥१ ॥"
     ],
     [
-      "जग सवपने को सतय समझ कर, सोय रहा जनयानि रे.$ ||.",
-      "जनयानि जग को सत‌ समझता, दरिशता ाफिन जानि रे || 2 ||."
+      "ज्ञानी जग को असत्‌ समझता, दृष्टा आपहिं जानी रे ॥२ ॥"
     ],
     [
-      "हानि लाभ ौर हरश शोक कर, रोबत तन भिमानि रे || 3े ||",
-      "कहता तेऊँ िनदव बाद मेन, रहते सम विजनयानि रे || 4 ||"
+      "हानि लाभ और हर्ष शोक कर, रोबत तन अभिमानी रे ॥ ३े ॥"
+    ],
+    [
+      "कहता टेऊँ इन्द्व बाद में, रहते सम विज्ञानी रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Moh Nind Men Sab Jag Soyaa, Jaagat Brahm Jnyaani Re (Tek)."
+      "Jag Svapne Ko Saty Samajh Kar, Soy Rahaa Ajnyaani Re || 1 ||"
     ],
     [
-      "Jag Svapne Ko Saty Samajh Kar, Soy Rahaa Ajnyaani Re.$ ||.",
-      "Jnyaani Jag Ko Asat‌ Samjhataa, Drishtaa Aaphin Jaani Re || 2 ||."
+      "Jnyaani Jag Ko Asat‌ Samjhataa, Drishtaa Aaphin Jaani Re || 2 ||"
     ],
     [
-      "Haani Laabh Aur Harsh Shok Kar, Robat Tan Abhimaani Re || 3E ||",
+      "Haani Laabh Aur Harsh Shok Kar, Robat Tan Abhimaani Re || 3E ||"
+    ],
+    [
       "Kahtaa Teun Indv Baad Men, Rahte Sam Vijnyaani Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kaamol Bhajan || 5 || 603 ||",
+    "मोह नींद में सब जग सोया, जागत ब्रह्म ज्ञानी रे",
     "Moh Nind Men Sab Jag Soyaa, Jaagat Brahm Jnyaani Re",
-    "मोह निनद मेन सब जग सोया, जागत बरहम जनयानि रे"
+    "राग कामोल भजन 5",
+    "Raag Kaamol Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kaamol"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
+    "bhajan"
   ],
-  "displayOrder": 604,
+  "displayOrder": 5,
+  "overallOrder": 602,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 325",
+  "updatedAt": "2026-10-26"
 }

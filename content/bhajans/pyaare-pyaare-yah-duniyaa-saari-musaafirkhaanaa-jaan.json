@@ -1,41 +1,87 @@
 {
   "id": "bhajan-0269",
   "slug": "pyaare-pyaare-yah-duniyaa-saari-musaafirkhaanaa-jaan",
-  "categoryId": "raag-bhairav",
-  "title": "पयारे पयारे यह दुनिया सारि मुसाfिरखाना जान",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "प्यारे प्यारे यह दुनिया सारी मुसाफ़िरखाना जान",
   "romanTitle": "Pyaare Pyaare Yah Duniyaa Saari Musaafirkhaanaa Jaan",
   "firstLine": "Pyaare Pyaare Yah Duniyaa Saari Musaafirkhaanaa Jaan (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५४ ।। २६९।।",
+  "tek": [
+    "प्यारे प्यारे यह दुनिया सारी मुसाफ़िरखाना जान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pyaare Pyaare Yah Duniyaa Saari Musaafirkhaanaa Jaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जगत मुसाफ़िरखाने में सब दो दिन के महिमान ।",
+        "हरदम कोई रह न सकत है यह निश्चय कर मान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jagat Musaafirkhaane Men Sab Do Din Ke Mahimaan.",
+        "Hardam Koi Rah Na Sakat Hai Yah Nishchay Kar Maan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मोह ममत ना राखो किससे झूठा जग पहिचान ।",
+        "ले आया नहीं ले जावोगे धन संपति सामान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Moh Mamat Naa Raakho Kisse Jhuthaa Jag Pahichaan.",
+        "Le Aayaa Nahin Le Jaavoge Dhan Sampti Saamaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कुल कुटुम्ब भी ना है तेरा जांका करत गुमान ।",
+        "अन्तकाल में नाहिं छुड़ावत जबहीं जम ले प्रान ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Kul Kutumb Bhi Naa Hai Teraa Jaankaa Karat Gumaan.",
+        "Antakaal Men Naahin Chhuraavat Jabhin Jam Le Praan || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "रावन जैसे चले गये बहु वीर धीर बलवान ।",
+        "कहता टेऊँ थिर न रहे को बिना एक भगवान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raavan Jaise Chale Gaye Bahu Vir Dhir Balvaan.",
+        "Kahtaa Teun Thir Na Rahe Ko Binaa Ek Bhagvaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पयारे पयारे यह दुनिया सारि मुसाfिरखाना जान (टेक)."
+      "जगत मुसाफ़िरखाने में सब दो दिन के महिमान ।",
+      "हरदम कोई रह न सकत है यह निश्चय कर मान ॥१ ॥"
     ],
     [
-      "जगत मुसाfिरखाने मेन सब दो दीन के महिमान.",
-      "हरदम कोि रह न सकत है यह निशचय कर मान || 1 ||."
+      "मोह ममत ना राखो किससे झूठा जग पहिचान ।",
+      "ले आया नहीं ले जावोगे धन संपति सामान ॥२ ॥"
     ],
     [
-      "मोह ममत ना राखो किससे झुथा जग पहिचान.",
-      "ले ाया नहिन ले जावोगे धन समपति सामान || 2 ||"
+      "कुल कुटुम्ब भी ना है तेरा जांका करत गुमान ।",
+      "अन्तकाल में नाहिं छुड़ावत जबहीं जम ले प्रान ॥ ३े ॥"
     ],
     [
-      "कुल कुतुमब भि ना है तेरा जानका करत गुमान.",
-      "नतकाल मेन नाहिन चहुरावत जभिन जम ले परान || 3े ||"
-    ],
-    [
-      "रावन जैसे चले गये बहु विर धिर बलवान.",
-      "कहता तेऊँ थिर न रहे को बिना ेक भगवान || 4 ||."
-    ],
-    [
-      "ये"
+      "रावन जैसे चले गये बहु वीर धीर बलवान ।",
+      "कहता टेऊँ थिर न रहे को बिना एक भगवान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Pyaare Pyaare Yah Duniyaa Saari Musaafirkhaanaa Jaan (Tek)."
-    ],
-    [
       "Jagat Musaafirkhaane Men Sab Do Din Ke Mahimaan.",
-      "Hardam Koi Rah N Sakat Hai Yah Nishchay Kar Maan || 1 ||."
+      "Hardam Koi Rah Na Sakat Hai Yah Nishchay Kar Maan || 1 ||"
     ],
     [
       "Moh Mamat Naa Raakho Kisse Jhuthaa Jag Pahichaan.",
@@ -47,25 +93,24 @@
     ],
     [
       "Raavan Jaise Chale Gaye Bahu Vir Dhir Balvaan.",
-      "Kahtaa Teun Thir N Rahe Ko Binaa Ek Bhagvaan || 4 ||."
-    ],
-    [
-      "Ye"
+      "Kahtaa Teun Thir Na Rahe Ko Binaa Ek Bhagvaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 54 || 269 ||",
+    "प्यारे प्यारे यह दुनिया सारी मुसाफ़िरखाना जान",
     "Pyaare Pyaare Yah Duniyaa Saari Musaafirkhaanaa Jaan",
-    "पयारे पयारे यह दुनिया सारि मुसाfिरखाना जान"
+    "राग भैरवी भजन 54",
+    "Raag Bhairvi Bhajan 54"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 269,
+  "displayOrder": 54,
+  "overallOrder": 269,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 165",
+  "updatedAt": "2026-10-26"
 }

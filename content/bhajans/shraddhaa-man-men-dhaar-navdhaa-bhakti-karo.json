@@ -1,73 +1,135 @@
 {
-  "id": "bhajan-0766",
+  "id": "bhajan-0764",
   "slug": "shraddhaa-man-men-dhaar-navdhaa-bhakti-karo",
   "categoryId": "raag-pilaa",
-  "title": "शरदधा मन मेन धार, नवधा भक्ति करो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "श्रद्धा मन में धार, नवधा भक्ति करो",
   "romanTitle": "Shraddhaa Man Men Dhaar, Navdhaa Bhakti Karo",
   "firstLine": "Shraddhaa Man Men Dhaar, Navdhaa Bhakti Karo (Tek).",
+  "heading": "।। राग पीला भजन ।। ४४ ।। ७६६।।",
+  "tek": [
+    "श्रद्धा मन में धार, नवधा भक्ति करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shraddhaa Man Men Dhaar, Navdhaa Bhakti Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रवण भक्ति परीक्षित कीनी, कीर्तन में शुक की मति भीनी ।",
+        "त्यों तुम कर सद्वार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shravan Bhakti Parikshit Kini, Kirtan Men Shuk Ki Mati Bhini.",
+        "Tyon Tum Kar Sadvaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुमरन भक्त प्रहलाद ने कीया, पद सेवन लक्ष्मी चित्त दीया ।",
+        "त्यों तुम करो उदार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sumran Bhakt Prahlaad Ne Kiyaa, Pad Sevan Lakshmi Chitt Diyaa.",
+        "Tyon Tum Karo Udaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अर्चन भक्ति पृथू ने धारी, वन्दन की अक्रूर प्यारी ।",
+        "त्यों तुम कर हरबार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Archan Bhakti Prithu Ne Dhaari, Vandan Ki Akrur Pyaari.",
+        "Tyon Tum Kar Harbaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "दासी भक्ति कीन हनुमाना, सखा भक्ति पार्थ प्रधाना ।",
+        "त्यों हरि से कर प्यार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Daasi Bhakti Kin Hanumaanaa, Sakhaa Bhakti Paarth Pradhaanaa.",
+        "Tyon Hari Se Kar Pyaar || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "आतम अर्पन कर बलि राजा, कहे टेऊँ पाया रघुराजा ।",
+        "त्यों तुम पा दीदार ॥५ ॥"
+      ],
+      "romanLines": [
+        "Aatam Arpan Kar Bali Raajaa, Kahe Teun Paayaa Raghuraajaa.",
+        "Tyon Tum Paa Didaar || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शरदधा मन मेन धार, नवधा भक्ति करो (टेक)."
+      "श्रवण भक्ति परीक्षित कीनी, कीर्तन में शुक की मति भीनी ।",
+      "त्यों तुम कर सद्वार ॥१ ॥"
     ],
     [
-      "शरवन भक्ति परिकशित किनि, किरतन मेन शुक कि मति भिनि.",
-      "तयोन तुम कर सदवार || 1 ||."
+      "सुमरन भक्त प्रहलाद ने कीया, पद सेवन लक्ष्मी चित्त दीया ।",
+      "त्यों तुम करो उदार ॥२ ॥"
     ],
     [
-      "सुमरन भकत परहलाद ने किया, पद सेवन लकशमि चितत दिया.",
-      "तयोन तुम करो ुदार ||.2 ||."
+      "अर्चन भक्ति पृथू ने धारी, वन्दन की अक्रूर प्यारी ।",
+      "त्यों तुम कर हरबार ॥३ ॥"
     ],
     [
-      "रचन भक्ति परिथु ने धारि, वनदन कि करुर पयारि.",
-      "तयोन तुम कर हरबार ||.3 ||."
+      "दासी भक्ति कीन हनुमाना, सखा भक्ति पार्थ प्रधाना ।",
+      "त्यों हरि से कर प्यार ॥४ ॥"
     ],
     [
-      "दासि भक्ति किन हनुमाना, सखा भक्ति पारथ परधाना.",
-      "तयोन हरि से कर पयार || 4. ||."
-    ],
-    [
-      "ातम रपन कर बलि राजा, कहे तेऊँ पाया रघुराजा.",
-      "तयोन तुम पा दिदार. ||.5 ||"
+      "आतम अर्पन कर बलि राजा, कहे टेऊँ पाया रघुराजा ।",
+      "त्यों तुम पा दीदार ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shraddhaa Man Men Dhaar, Navdhaa Bhakti Karo (Tek)."
-    ],
-    [
       "Shravan Bhakti Parikshit Kini, Kirtan Men Shuk Ki Mati Bhini.",
-      "Tyon Tum Kar Sadvaar || 1 ||."
+      "Tyon Tum Kar Sadvaar || 1 ||"
     ],
     [
       "Sumran Bhakt Prahlaad Ne Kiyaa, Pad Sevan Lakshmi Chitt Diyaa.",
-      "Tyon Tum Karo Udaar ||.2 ||."
+      "Tyon Tum Karo Udaar || 2 ||"
     ],
     [
       "Archan Bhakti Prithu Ne Dhaari, Vandan Ki Akrur Pyaari.",
-      "Tyon Tum Kar Harbaar ||.3 ||."
+      "Tyon Tum Kar Harbaar || 3 ||"
     ],
     [
       "Daasi Bhakti Kin Hanumaanaa, Sakhaa Bhakti Paarth Pradhaanaa.",
-      "Tyon Hari Se Kar Pyaar || 4. ||."
+      "Tyon Hari Se Kar Pyaar || 4 ||"
     ],
     [
       "Aatam Arpan Kar Bali Raajaa, Kahe Teun Paayaa Raghuraajaa.",
-      "Tyon Tum Paa Didaar. ||.5 ||"
+      "Tyon Tum Paa Didaar || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 44 || 766 ||",
+    "श्रद्धा मन में धार, नवधा भक्ति करो",
     "Shraddhaa Man Men Dhaar, Navdhaa Bhakti Karo",
-    "शरदधा मन मेन धार, नवधा भक्ति करो"
+    "राग पीला भजन 43",
+    "Raag Pilaa Bhajan 43"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 766,
+  "displayOrder": 43,
+  "overallOrder": 764,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 405",
+  "updatedAt": "2026-10-26"
 }

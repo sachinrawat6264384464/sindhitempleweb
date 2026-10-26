@@ -1,41 +1,101 @@
 {
-  "id": "bhajan-0566",
+  "id": "bhajan-0564",
   "slug": "agar-naa-raam-ko-paayaa-aur-paayaa-to-kyaa-phaaydaa",
   "categoryId": "raag-khambhaat",
-  "title": "गर ना राम को पाया, ौर पाया तो कया फायदा",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "अगर ना राम को पाया, और पाया तो क्या फायदा",
   "romanTitle": "Agar Naa Raam Ko Paayaa, Aur Paayaa To Kyaa Phaaydaa",
-  "firstLine": "Agar Naa Raam Ko Paayaa, Aur Paayaa To Kyaa Phaaydaa. Zaraa Naa Prem Ras Piyaa, Aur Piyaa To Kyaa Phaaydaa (Tek).",
+  "firstLine": "Agar Naa Raam Ko Paayaa, Aur Paayaa To Kyaa Phaaydaa.",
+  "heading": "।॥। राग खम्भाट भजन ।। १६ ।। ५६८५॥।",
+  "tek": [
+    "अगर ना राम को पाया, और पाया तो क्या फायदा ।",
+    "ज़रा ना प्रेम रस पीया, और पीया तो क्या फायदा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Agar Naa Raam Ko Paayaa, Aur Paayaa To Kyaa Phaaydaa.",
+    "Zaraa Naa Prem Ras Piyaa, Aur Piyaa To Kyaa Phaaydaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्म से जिहें अलग करके, फसाया जीव कोटी में ।",
+        "अगर ना नफ्स वो मारा, और मारा तो क्या फायदा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahm Se Jihen Alag Karke, Phasaayaa Jiv Koti Men.",
+        "Agar Naa Naphs Vo Maaraa, Aur Maaraa To Kyaa Phaaydaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बदन के मैल को तुमने, सफा धोया बहुत बारी ।",
+        "मगर दिल को नहीं धोया, और धोया तो क्या फायदा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Badan Ke Mail Ko Tumne, Saphaa Dhoyaa Bahut Baari.",
+        "Magar Dil Ko Nahin Dhoyaa, Aur Dhoyaa To Kyaa Phaaydaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नदी तालाब सर सागर, तरे तुमने बहुत बारी ।",
+        "मगर भव सिन्धु ना तरिया, और तरिया तो क्या फायदा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nadi Taalaab Sar Saagar, Tare Tumne Bahut Baari.",
+        "Magar Bhav Sindhu Naa Tariyaa, Aur Tariyaa To Kyaa Phaaydaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "देव मन्त्र पितृ मन्त्र, प्रेत मन्त्र बहुत जपिया ।",
+        "मगर गुरु मन्त्र ना जपिया, और जपिया तो क्या फायदा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Dev Mantr Pitri Mantr, Pret Mantr Bahut Japiyaa.",
+        "Magar Guru Mantr Naa Japiyaa, Aur Japiyaa To Kyaa Phaaydaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ यतन करके, सदा तुम और को खोजा ।",
+        "अगर आतम नहीं खोजा, और खोजा तो क्या फायदा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yatan Karke, Sadaa Tum Aur Ko Khojaa.",
+        "Agar Aatam Nahin Khojaa, Aur Khojaa To Kyaa Phaaydaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गर ना राम को पाया, ौर पाया तो कया फायदा.",
-      "zरा ना प्रेम रस पिया, ौर पिया तो कया फायदा (टेक)."
+      "ब्रह्म से जिहें अलग करके, फसाया जीव कोटी में ।",
+      "अगर ना नफ्स वो मारा, और मारा तो क्या फायदा ॥१ ॥"
     ],
     [
-      "बरहम से जिहेन लग करके, फसाया जिव कोति मेन.",
-      "गर ना नफस वो मारा, ौर मारा तो कया फायदा || 1 ||"
+      "बदन के मैल को तुमने, सफा धोया बहुत बारी ।",
+      "मगर दिल को नहीं धोया, और धोया तो क्या फायदा ॥२ ॥"
     ],
     [
-      "बदन के मैल को तुमने, सफा धोया बहुत बारि.",
-      "मगर दिल को नहिन धोया, ौर धोया तो कया फायदा || 2 ||"
+      "नदी तालाब सर सागर, तरे तुमने बहुत बारी ।",
+      "मगर भव सिन्धु ना तरिया, और तरिया तो क्या फायदा ॥३ ॥"
     ],
     [
-      "नदि तालाब सर सागर, तरे तुमने बहुत बारि.",
-      "मगर भव सिनधु ना तरिया, ौर तरिया तो कया फायदा || 3 ||."
+      "देव मन्त्र पितृ मन्त्र, प्रेत मन्त्र बहुत जपिया ।",
+      "मगर गुरु मन्त्र ना जपिया, और जपिया तो क्या फायदा ॥४ ॥"
     ],
     [
-      "देव मनतर पितरि मनतर, परेत मनतर बहुत जपिया.",
-      "मगर गुरु मनतर ना जपिया, ौर जपिया तो कया फायदा || 4. ||."
-    ],
-    [
-      "कहे तेऊँ यतन करके, सदा तुम ौर को खोजा.",
-      "गर ातम नहिन खोजा, ौर खोजा तो कया फायदा || 5 ||"
+      "कहे टेऊँ यतन करके, सदा तुम और को खोजा ।",
+      "अगर आतम नहीं खोजा, और खोजा तो क्या फायदा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Agar Naa Raam Ko Paayaa, Aur Paayaa To Kyaa Phaaydaa.",
-      "Zaraa Naa Prem Ras Piyaa, Aur Piyaa To Kyaa Phaaydaa (Tek)."
-    ],
     [
       "Brahm Se Jihen Alag Karke, Phasaayaa Jiv Koti Men.",
       "Agar Naa Naphs Vo Maaraa, Aur Maaraa To Kyaa Phaaydaa || 1 ||"
@@ -46,11 +106,11 @@
     ],
     [
       "Nadi Taalaab Sar Saagar, Tare Tumne Bahut Baari.",
-      "Magar Bhav Sindhu Naa Tariyaa, Aur Tariyaa To Kyaa Phaaydaa || 3 ||."
+      "Magar Bhav Sindhu Naa Tariyaa, Aur Tariyaa To Kyaa Phaaydaa || 3 ||"
     ],
     [
       "Dev Mantr Pitri Mantr, Pret Mantr Bahut Japiyaa.",
-      "Magar Guru Mantr Naa Japiyaa, Aur Japiyaa To Kyaa Phaaydaa || 4. ||."
+      "Magar Guru Mantr Naa Japiyaa, Aur Japiyaa To Kyaa Phaaydaa || 4 ||"
     ],
     [
       "Kahe Teun Yatan Karke, Sadaa Tum Aur Ko Khojaa.",
@@ -58,18 +118,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|. Raag Khambhaat Bhajan || 16 || 5685 ||.",
+    "अगर ना राम को पाया, और पाया तो क्या फायदा",
     "Agar Naa Raam Ko Paayaa, Aur Paayaa To Kyaa Phaaydaa",
-    "गर ना राम को पाया, ौर पाया तो कया फायदा"
+    "राग खंभात भजन 16",
+    "Raag Khambhaat Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 566,
+  "displayOrder": 16,
+  "overallOrder": 564,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 308",
+  "updatedAt": "2026-10-26"
 }

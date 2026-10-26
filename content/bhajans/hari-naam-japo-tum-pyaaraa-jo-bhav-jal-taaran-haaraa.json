@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0728",
+  "id": "bhajan-0726",
   "slug": "hari-naam-japo-tum-pyaaraa-jo-bhav-jal-taaran-haaraa",
   "categoryId": "raag-pilaa",
-  "title": "हरि नाम जपो तुम पयारा, जो भव जल तारन हारा",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "हरि नाम जपो तुम प्यारा, जो भव जल तारण हारा",
   "romanTitle": "Hari Naam Japo Tum Pyaaraa, Jo Bhav Jal Taaran Haaraa",
   "firstLine": "Hari Naam Japo Tum Pyaaraa, Jo Bhav Jal Taaran Haaraa (Tek).",
+  "heading": "।। राग पीला भजन ॥। ६ ।। ७२८।॥।",
+  "tek": [
+    "हरि नाम जपो तुम प्यारा, जो भव जल तारण हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Naam Japo Tum Pyaaraa, Jo Bhav Jal Taaran Haaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम जपे भव तरिया पीपा, नाभा नापा नामा छीपा ।",
+        "दादू तरे . पिंजारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Jape Bhav Tariyaa Pipaa, Naabhaa Naapaa Naamaa Chhipaa.",
+        "Daadu Tare. Pinjaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बालमीक दो भील चण्डाला, भक्त सुदामा तरे कंगाला ।",
+        "भया अजामिल पारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baalmik Do Bhil Chandaalaa, Bhakt Sudaamaa Tare Kangaalaa.",
+        "Bhayaa Ajaamil Paaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तरे कबीरा सैना नाई, जाट धनना सधना कासाई ।",
+        "पुनि रविदास चमारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tare Kabiraa Sainaa Naai, Jaat Dhannaa Sadhnaa Kaasaai.",
+        "Puni Ravidaas Chamaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि नाम उचारे, उधरे नीच ऊँच नर सारे ।",
+        "पाया. हरि. दीदारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Naam Uchaare, Udhre Nich Unch Nar Saare.",
+        "Paayaa. Hari. Didaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि नाम जपो तुम पयारा, जो भव जल तारन हारा (टेक)."
+      "नाम जपे भव तरिया पीपा, नाभा नापा नामा छीपा ।",
+      "दादू तरे . पिंजारा ॥१ ॥"
     ],
     [
-      "नाम जपे भव तरिया पिपा, नाभा नापा नामा चहिपा.",
-      "दादु तरे. पिनजारा || 1 ||."
+      "बालमीक दो भील चण्डाला, भक्त सुदामा तरे कंगाला ।",
+      "भया अजामिल पारा ॥२ ॥"
     ],
     [
-      "बालमिक दो भिल चनदाला, भकत सुदामा तरे कनगाला.",
-      "भया जामिल पारा || 2 ||."
+      "तरे कबीरा सैना नाई, जाट धनना सधना कासाई ।",
+      "पुनि रविदास चमारा ॥३ ॥"
     ],
     [
-      "तरे कबिरा सैना नाि, जात धनना सधना कासाि.",
-      "पुनि रविदास चमारा ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि नाम ुचारे, ुधरे निच ुनच नर सारे.",
-      "पाया. हरि. दिदारा || 4. ||."
-    ],
-    [
-      "हर"
+      "कहे टेऊँ हरि नाम उचारे, उधरे नीच ऊँच नर सारे ।",
+      "पाया. हरि. दीदारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Naam Japo Tum Pyaaraa, Jo Bhav Jal Taaran Haaraa (Tek)."
-    ],
-    [
       "Naam Jape Bhav Tariyaa Pipaa, Naabhaa Naapaa Naamaa Chhipaa.",
-      "Daadu Tare. Pinjaaraa || 1 ||."
+      "Daadu Tare. Pinjaaraa || 1 ||"
     ],
     [
       "Baalmik Do Bhil Chandaalaa, Bhakt Sudaamaa Tare Kangaalaa.",
-      "Bhayaa Ajaamil Paaraa || 2 ||."
+      "Bhayaa Ajaamil Paaraa || 2 ||"
     ],
     [
       "Tare Kabiraa Sainaa Naai, Jaat Dhannaa Sadhnaa Kaasaai.",
-      "Puni Ravidaas Chamaaraa ||.3 ||"
+      "Puni Ravidaas Chamaaraa || 3 ||"
     ],
     [
       "Kahe Teun Hari Naam Uchaare, Udhre Nich Unch Nar Saare.",
-      "Paayaa. Hari. Didaaraa || 4. ||."
-    ],
-    [
-      "Har"
+      "Paayaa. Hari. Didaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan ||. 6 || 728. ||.",
+    "हरि नाम जपो तुम प्यारा, जो भव जल तारण हारा",
     "Hari Naam Japo Tum Pyaaraa, Jo Bhav Jal Taaran Haaraa",
-    "हरि नाम जपो तुम पयारा, जो भव जल तारन हारा"
+    "राग पीला भजन 5",
+    "Raag Pilaa Bhajan 5"
   ],
   "tags": [
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 728,
+  "displayOrder": 5,
+  "overallOrder": 726,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 386",
+  "updatedAt": "2026-10-26"
 }

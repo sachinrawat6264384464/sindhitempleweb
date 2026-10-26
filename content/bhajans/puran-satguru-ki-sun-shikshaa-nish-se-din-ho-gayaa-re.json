@@ -1,23 +1,78 @@
 {
-  "id": "bhajan-0595",
+  "id": "bhajan-0593",
   "slug": "puran-satguru-ki-sun-shikshaa-nish-se-din-ho-gayaa-re",
   "categoryId": "raag-purab",
-  "title": "पुरन सतगुरु कि सुन शिकशा, निश से दीन हो गया रे",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "पूरण सत्‌गुरु की सुन शिक्षा, निश से दिन हो गया रे",
   "romanTitle": "Puran Sat‌Guru Ki Sun Shikshaa, Nish Se Din Ho Gayaa Re",
   "firstLine": "Puran Sat‌Guru Ki Sun Shikshaa, Nish Se Din Ho Gayaa Re (Tek).",
+  "heading": "।। राग पूरब भजन ।। डे ।। ५९४।।",
+  "tek": [
+    "पूरण सत्‌गुरु की सुन शिक्षा, निश से दिन हो गया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Puran Sat‌Guru Ki Sun Shikshaa, Nish Se Din Ho Gayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बगुला हंसा कौआ कोयल, अगय्ि सलिल हो रहिया रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bagulaa Hansaa Kauaa Koyal, Agayi Salil Ho Rahiyaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जीवित मुड़दा मुड़दा जीवित, जड़ चेतन को लहिया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jivit Murdaa Murdaa Jivit, Jar Chetan Ko Lahiyaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मच्छक सुमेर धरनि अकासा, सरवर सागर भड़या रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Machchhak Sumer Dharni Akaasaa, Sarvar Saagar Bharyaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु वचनों का यश, मुख से जात न कहिया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Vachnon Kaa Yash, Mukh Se Jaat Na Kahiyaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "तरह"
+      ],
+      "romanLines": [
+        "Tarah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पुरन सतगुरु कि सुन शिकशा, निश से दीन हो गया रे (टेक)."
+      "बगुला हंसा कौआ कोयल, अगय्ि सलिल हो रहिया रे ॥१ ॥"
     ],
     [
-      "बगुला हनसा कौा कोयल, गयि सलिल हो रहिया रे || 1 ||"
+      "जीवित मुड़दा मुड़दा जीवित, जड़ चेतन को लहिया रे ॥२ ॥"
     ],
     [
-      "जिवित मुरदा मुरदा जिवित, जर चेतन को लहिया रे || 2 ||."
+      "मच्छक सुमेर धरनि अकासा, सरवर सागर भड़या रे ॥३ ॥"
     ],
     [
-      "मचचहक सुमेर धरनि कासा, सरवर सागर भरया रे.3 ||.",
-      "कहे तेऊँ गुरु वचनोन का यश, मुख से जात न कहिया रे || 4 ||"
+      "कहे टेऊँ गुरु वचनों का यश, मुख से जात न कहिया रे ॥४ ॥"
     ],
     [
       "तरह"
@@ -25,36 +80,36 @@
   ],
   "romanLyrics": [
     [
-      "Puran Sat‌Guru Ki Sun Shikshaa, Nish Se Din Ho Gayaa Re (Tek)."
-    ],
-    [
       "Bagulaa Hansaa Kauaa Koyal, Agayi Salil Ho Rahiyaa Re || 1 ||"
     ],
     [
-      "Jivit Murdaa Murdaa Jivit, Jar Chetan Ko Lahiyaa Re || 2 ||."
+      "Jivit Murdaa Murdaa Jivit, Jar Chetan Ko Lahiyaa Re || 2 ||"
     ],
     [
-      "Machchhak Sumer Dharni Akaasaa, Sarvar Saagar Bharyaa Re.3 ||.",
-      "Kahe Teun Guru Vachnon Kaa Yash, Mukh Se Jaat N Kahiyaa Re || 4 ||"
+      "Machchhak Sumer Dharni Akaasaa, Sarvar Saagar Bharyaa Re || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Vachnon Kaa Yash, Mukh Se Jaat Na Kahiyaa Re || 4 ||"
     ],
     [
       "Tarah"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Purab Bhajan || De || 594 ||",
+    "पूरण सत्‌गुरु की सुन शिक्षा, निश से दिन हो गया रे",
     "Puran Sat‌Guru Ki Sun Shikshaa, Nish Se Din Ho Gayaa Re",
-    "पुरन सतगुरु कि सुन शिकशा, निश से दीन हो गया रे"
+    "राग पूरब भजन 3",
+    "Raag Purab Bhajan 3"
   ],
   "tags": [
-    "teunram",
-    "purab",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 595,
+  "displayOrder": 3,
+  "overallOrder": 593,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 322",
+  "updatedAt": "2026-10-26"
 }

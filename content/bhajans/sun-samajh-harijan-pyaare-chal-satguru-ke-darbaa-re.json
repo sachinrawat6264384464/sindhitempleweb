@@ -1,50 +1,100 @@
 {
-  "id": "bhajan-0737",
+  "id": "bhajan-0735",
   "slug": "sun-samajh-harijan-pyaare-chal-satguru-ke-darbaa-re",
   "categoryId": "raag-pilaa",
-  "title": "सुन समझ हरिजन पयारे, चल सतगुरु के दरबा रे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सुन समझ हरीजन प्यारे, चल सत्‌गुरु के दर्बा रे",
   "romanTitle": "Sun Samajh Harijan Pyaare, Chal Sat‌Guru Ke Darbaa Re",
   "firstLine": "Sun Samajh Harijan Pyaare, Chal Sat‌Guru Ke Darbaa Re (Tek).",
+  "heading": "।। राग पीला भजन ।। १५ ।। ७३७।।",
+  "tek": [
+    "सुन समझ हरीजन प्यारे, चल सत्‌गुरु के दर्बा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sun Samajh Harijan Pyaare, Chal Sat‌Guru Ke Darbaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रद्धा से कर सेवा गुरु की, लेवो नाम मुरारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Kar Sevaa Guru Ki, Levo Naam Muraare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन मन धन दे दक्षिणा गुरु को, आपा सर्व निवारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Dhan De Dakshinaa Guru Ko, Aapaa Sarv Nivaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाम नाव में चढ़ कर बैठो, सत्‌गुरु पार उतारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naam Naav Men Charh Kar Baitho, Sat‌Guru Paar Utaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु संगति करके, पापी तरे अपारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sangti Karke, Paapi Tare Apaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुन समझ हरिजन पयारे, चल सतगुरु के दरबा रे (टेक)."
+      "श्रद्धा से कर सेवा गुरु की, लेवो नाम मुरारे ॥१ ॥"
     ],
     [
-      "शरदधा से कर सेवा गुरु कि, लेवो नाम मुरारे.1. ||.",
-      "तन मन धन दे दकशिना गुरु को, ापा सर्व निवारे || 2 ||."
+      "तन मन धन दे दक्षिणा गुरु को, आपा सर्व निवारे ॥२ ॥"
     ],
     [
-      "नाम नाव मेन चरह कर बैथो, सतगुरु पार ुतारे.3 ||.",
-      "कहे तेऊँ गुरु सनगति करके, पापि तरे पारे || 4 ||."
+      "नाम नाव में चढ़ कर बैठो, सत्‌गुरु पार उतारे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु संगति करके, पापी तरे अपारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sun Samajh Harijan Pyaare, Chal Sat‌Guru Ke Darbaa Re (Tek)."
+      "Shraddhaa Se Kar Sevaa Guru Ki, Levo Naam Muraare || 1 ||"
     ],
     [
-      "Shraddhaa Se Kar Sevaa Guru Ki, Levo Naam Muraare.1. ||.",
-      "Tan Man Dhan De Dakshinaa Guru Ko, Aapaa Sarv Nivaare || 2 ||."
+      "Tan Man Dhan De Dakshinaa Guru Ko, Aapaa Sarv Nivaare || 2 ||"
     ],
     [
-      "Naam Naav Men Charh Kar Baitho, Sat‌Guru Paar Utaare.3 ||.",
-      "Kahe Teun Guru Sangti Karke, Paapi Tare Apaare || 4 ||."
+      "Naam Naav Men Charh Kar Baitho, Sat‌Guru Paar Utaare || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Sangti Karke, Paapi Tare Apaare || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 15 || 737 ||",
+    "सुन समझ हरीजन प्यारे, चल सत्‌गुरु के दर्बा रे",
     "Sun Samajh Harijan Pyaare, Chal Sat‌Guru Ke Darbaa Re",
-    "सुन समझ हरिजन पयारे, चल सतगुरु के दरबा रे"
+    "राग पीला भजन 14",
+    "Raag Pilaa Bhajan 14"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 737,
+  "displayOrder": 14,
+  "overallOrder": 735,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 391",
+  "updatedAt": "2026-10-26"
 }

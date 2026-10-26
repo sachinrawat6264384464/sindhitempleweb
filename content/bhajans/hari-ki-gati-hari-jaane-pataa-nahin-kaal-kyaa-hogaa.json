@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0561",
+  "id": "bhajan-0559",
   "slug": "hari-ki-gati-hari-jaane-pataa-nahin-kaal-kyaa-hogaa",
   "categoryId": "raag-khambhaat",
-  "title": "हरि कि गति हरि जाने, पता नहिन काल कया होगा",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "हरी की गति हरी जाने, पता नहिं काल क्या होगा",
   "romanTitle": "Hari Ki Gati Hari Jaane, Pataa Nahin Kaal Kyaa Hogaa",
   "firstLine": "Hari Ki Gati Hari Jaane, Pataa Nahin Kaal Kyaa Hogaa (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। ११ ।। ५६०॥।",
+  "tek": [
+    "हरी की गति हरी जाने, पता नहिं काल क्या होगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Ki Gati Hari Jaane, Pataa Nahin Kaal Kyaa Hogaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कभी जिस बात का दिल में, ज़रा भी ख़्याल नहीं हूआ ।",
+        "अभी वह देखता प्रत्यक्ष , पता नहिं काल क्या होगा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kabhi Jis Baat Kaa Dil Men, Zaraa Bhi Khyaal Nahin Huaa.",
+        "Abhi Vah Dekhtaa Pratyaksh, Pataa Nahin Kaal Kyaa Hogaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "उद्यम आराम के खातिर, करत बहु लोग दुनिया में ।",
+        "अचानक तिहँ पड़े सडूट, पता नहिं काल क्या होगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Udyam Aaraam Ke Khaatir, Karat Bahu Log Duniyaa Men.",
+        "Achaanak Tihan Pare Sadut, Pataa Nahin Kaal Kyaa Hogaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नूप दशरथ करी त्यारी, तिलक कल राम को दूंगा ।",
+        "गया रघुनाथ बन माहीं, पता नहिं काल क्या होगा ॥ । ३े ॥"
+      ],
+      "romanLines": [
+        "Nup Dashrath Kari Tyaari, Tilak Kal Raam Ko Dungaa.",
+        "Gayaa Raghunaath Ban Maahin, Pataa Nahin Kaal Kyaa Hogaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सर्व व्यापक, हरी त्रिकाल का ज्ञाता ।",
+        "मनुष को सूझ नहिं पड़ती, पता नहिं काल क्या होगा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sarv Vyaapak, Hari Trikaal Kaa Jnyaataa.",
+        "Manush Ko Sujh Nahin Parti, Pataa Nahin Kaal Kyaa Hogaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि कि गति हरि जाने, पता नहिन काल कया होगा (टेक)."
+      "कभी जिस बात का दिल में, ज़रा भी ख़्याल नहीं हूआ ।",
+      "अभी वह देखता प्रत्यक्ष , पता नहिं काल क्या होगा ॥१ ॥"
     ],
     [
-      "कभि जिस बात का दिल मेन, zरा भि खयाल नहिन हुा.",
-      "भि वह देखता परतयकश, पता नहिन काल कया होगा || 1 ||."
+      "उद्यम आराम के खातिर, करत बहु लोग दुनिया में ।",
+      "अचानक तिहँ पड़े सडूट, पता नहिं काल क्या होगा ॥२ ॥"
     ],
     [
-      "ुदयम ाराम के खातिर, करत बहु लोग दुनिया मेन.",
-      "चानक तिहन परे सदुत, पता नहिन काल कया होगा || 2 ||."
+      "नूप दशरथ करी त्यारी, तिलक कल राम को दूंगा ।",
+      "गया रघुनाथ बन माहीं, पता नहिं काल क्या होगा ॥ । ३े ॥"
     ],
     [
-      "नुप दशरथ करि तयारि, तिलक कल राम को दुनगा.",
-      "गया रघुनाथ बन माहिन, पता नहिन काल कया होगा ||. 3े ||"
-    ],
-    [
-      "कहे तेऊँ सर्व वयापक, हरि तरिकाल का जनयाता.",
-      "मनुश को सुझ नहिन परति, पता नहिन काल कया होगा || 4 ||"
-    ],
-    [
-      "गज"
+      "कहे टेऊँ सर्व व्यापक, हरी त्रिकाल का ज्ञाता ।",
+      "मनुष को सूझ नहिं पड़ती, पता नहिं काल क्या होगा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Ki Gati Hari Jaane, Pataa Nahin Kaal Kyaa Hogaa (Tek)."
-    ],
-    [
       "Kabhi Jis Baat Kaa Dil Men, Zaraa Bhi Khyaal Nahin Huaa.",
-      "Abhi Vah Dekhtaa Pratyaksh, Pataa Nahin Kaal Kyaa Hogaa || 1 ||."
+      "Abhi Vah Dekhtaa Pratyaksh, Pataa Nahin Kaal Kyaa Hogaa || 1 ||"
     ],
     [
       "Udyam Aaraam Ke Khaatir, Karat Bahu Log Duniyaa Men.",
-      "Achaanak Tihan Pare Sadut, Pataa Nahin Kaal Kyaa Hogaa || 2 ||."
+      "Achaanak Tihan Pare Sadut, Pataa Nahin Kaal Kyaa Hogaa || 2 ||"
     ],
     [
       "Nup Dashrath Kari Tyaari, Tilak Kal Raam Ko Dungaa.",
-      "Gayaa Raghunaath Ban Maahin, Pataa Nahin Kaal Kyaa Hogaa ||. 3E ||"
+      "Gayaa Raghunaath Ban Maahin, Pataa Nahin Kaal Kyaa Hogaa || 3E ||"
     ],
     [
       "Kahe Teun Sarv Vyaapak, Hari Trikaal Kaa Jnyaataa.",
       "Manush Ko Sujh Nahin Parti, Pataa Nahin Kaal Kyaa Hogaa || 4 ||"
-    ],
-    [
-      "Gaj"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 11 || 560 ||.",
+    "हरी की गति हरी जाने, पता नहिं काल क्या होगा",
     "Hari Ki Gati Hari Jaane, Pataa Nahin Kaal Kyaa Hogaa",
-    "हरि कि गति हरि जाने, पता नहिन काल कया होगा"
+    "राग खंभात भजन 11",
+    "Raag Khambhaat Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 561,
+  "displayOrder": 11,
+  "overallOrder": 559,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 305",
+  "updatedAt": "2026-10-26"
 }

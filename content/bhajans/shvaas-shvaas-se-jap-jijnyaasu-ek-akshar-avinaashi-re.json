@@ -1,53 +1,100 @@
 {
   "id": "bhajan-0355",
   "slug": "shvaas-shvaas-se-jap-jijnyaasu-ek-akshar-avinaashi-re",
-  "categoryId": "raag-aasaa",
-  "title": "शवास शवास से जप जिजनयासु, ेक कशर अविनाशी रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "श्वास श्वास से जप जिज्ञासू, एक अक्षर अविनाशी रे",
   "romanTitle": "Shvaas Shvaas Se Jap Jijnyaasu, Ek Akshar Avinaashi Re",
   "firstLine": "Shvaas Shvaas Se Jap Jijnyaasu, Ek Akshar Avinaashi Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १२ ।। रे५५।॥।",
+  "tek": [
+    "श्वास श्वास से जप जिज्ञासू, एक अक्षर अविनाशी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shvaas Shvaas Se Jap Jijnyaasu, Ek Akshar Avinaashi Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिससे होया यह जग सारा, तांका होय प्यासी रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jisse Hoyaa Yah Jag Saaraa, Taankaa Hoy Pyaasi Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिससे चारों वेद बने हैं, सो तुम जप सुख रासी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jisse Chaaron Ved Bane Hain, So Tum Jap Sukh Raasi Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिससे यन्त्र मन्त्र सब निकले, तांका हो अभ्यासी रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jisse Yantr Mantr Sab Nikle, Taankaa Ho Abhyaasi Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तिहँँ निशदिन ध्याए, हो अमरापुर वासी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tihann Nishdin Dhyaae, Ho Amarapur Vaasi Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शवास शवास से जप जिजनयासु, ेक कशर अविनाशी रे (टेक)."
+      "जिससे होया यह जग सारा, तांका होय प्यासी रे ॥१ ॥"
     ],
     [
-      "जिससे होया यह जग सारा, तानका होय पयासि रे || 1 ||."
+      "जिससे चारों वेद बने हैं, सो तुम जप सुख रासी रे ॥२ ॥"
     ],
     [
-      "जिससे चारोन वेद बने हैन, सो तुम जप सुख रासि रे || 2 ||."
+      "जिससे यन्त्र मन्त्र सब निकले, तांका हो अभ्यासी रे ॥३ ॥"
     ],
     [
-      "जिससे यनतर मनतर सब निकले, तानका हो भयासि रे.3 ||.",
-      "कहे तेऊँ तिहनन निशदिन धयाे, हो अमरापुर वासि रे || 4. ||."
+      "कहे टेऊँ तिहँँ निशदिन ध्याए, हो अमरापुर वासी रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shvaas Shvaas Se Jap Jijnyaasu, Ek Akshar Avinaashi Re (Tek)."
+      "Jisse Hoyaa Yah Jag Saaraa, Taankaa Hoy Pyaasi Re || 1 ||"
     ],
     [
-      "Jisse Hoyaa Yah Jag Saaraa, Taankaa Hoy Pyaasi Re || 1 ||."
+      "Jisse Chaaron Ved Bane Hain, So Tum Jap Sukh Raasi Re || 2 ||"
     ],
     [
-      "Jisse Chaaron Ved Bane Hain, So Tum Jap Sukh Raasi Re || 2 ||."
+      "Jisse Yantr Mantr Sab Nikle, Taankaa Ho Abhyaasi Re || 3 ||"
     ],
     [
-      "Jisse Yantr Mantr Sab Nikle, Taankaa Ho Abhyaasi Re.3 ||.",
-      "Kahe Teun Tihann Nishdin Dhyaae, Ho Amarapur Vaasi Re || 4. ||."
+      "Kahe Teun Tihann Nishdin Dhyaae, Ho Amarapur Vaasi Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 12 || Re55. ||.",
+    "श्वास श्वास से जप जिज्ञासू, एक अक्षर अविनाशी रे",
     "Shvaas Shvaas Se Jap Jijnyaasu, Ek Akshar Avinaashi Re",
-    "शवास शवास से जप जिजनयासु, ेक कशर अविनाशी रे"
+    "राग बसंत भजन 12",
+    "Raag Basant Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 355,
+  "displayOrder": 12,
+  "overallOrder": 355,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 210",
+  "updatedAt": "2026-10-26"
 }

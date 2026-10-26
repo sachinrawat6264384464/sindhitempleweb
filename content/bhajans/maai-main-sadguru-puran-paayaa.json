@@ -1,29 +1,92 @@
 {
-  "id": "bhajan-0610",
+  "id": "bhajan-0608",
   "slug": "maai-main-sadguru-puran-paayaa",
   "categoryId": "raag-kalyaan",
-  "title": "माि मैं सद्गुरु पुरन पाया",
-  "romanTitle": "Maai Main Sadguru Puran Paayaa",
-  "firstLine": "Maai Main Sadguru Puran Paayaa, Tan Man Dhan De Bhet Guru Ko Le Hari Naam Dhyaayaa (Tek).",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "माई मैं सद्गुरु पूरण पाया,",
+  "romanTitle": "Maai Main Sadguru Puran Paayaa,",
+  "firstLine": "Maai Main Sadguru Puran Paayaa,",
+  "heading": "।। राग कल्याण भजन ।। २ ।। ६०९।।",
+  "tek": [
+    "माई मैं सद्गुरु पूरण पाया,",
+    "तन मन धन दे भेट गुरू को ले हरि नाम ध्याया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maai Main Sadguru Puran Paayaa,",
+    "Tan Man Dhan De Bhet Guru Ko Le Hari Naam Dhyaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दर्शन गुरु का है सुखदाई, देख देख दुख जाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Darshan Guru Kaa Hai Sukhdaai, Dekh Dekh Dukh Jaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु को बार बार कर वन्दन, चरण कमल चित्त लाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Ko Baar Baar Kar Vandan, Charan Kamal Chitt Laayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु की सेव करे दिन राती, मन के पाप मिटाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Sev Kare Din Raati, Man Ke Paap Mitaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरु का शब्द सुमर घट माहीं, धुनि में ध्यान लगाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Shabd Sumar Ghat Maahin, Dhuni Men Dhyaan Lagaayaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान पिराये, सहज स्वरूप समाया ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Piraaye, Sahaj Svarup Samaayaa || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "कान"
+      ],
+      "romanLines": [
+        "Kaan"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "माि मैं सद्गुरु पुरन पाया,",
-      "तन मन धन दे भेत गुरु को ले हरि नाम धयाया (टेक)."
+      "दर्शन गुरु का है सुखदाई, देख देख दुख जाया ॥१ ॥"
     ],
     [
-      "दरशन गुरु का है सुखदाि, देख देख दुःख जाया || || 1 ||."
+      "गुरु को बार बार कर वन्दन, चरण कमल चित्त लाया ॥२ ॥"
     ],
     [
-      "गुरु को बार बार कर वनदन, चरण कमल चितत लाया || 2 ||."
+      "गुरु की सेव करे दिन राती, मन के पाप मिटाया ॥३ ॥"
     ],
     [
-      "गुरु कि सेव करे दीन राति, मन के पाप मिताया || 3 ||."
+      "गुरु का शब्द सुमर घट माहीं, धुनि में ध्यान लगाया ॥४ ॥"
     ],
     [
-      "गुरु का शबद सुमर घत माहिन, धुनि मेन ध्यान लगाया || 4. ||."
-    ],
-    [
-      "कहे तेऊँ गुरु ज्ञान पिराये, सहज सवरुप समाया || 5. ||."
+      "कहे टेऊँ गुरु ज्ञान पिराये, सहज स्वरूप समाया ॥५ ॥"
     ],
     [
       "कान"
@@ -31,43 +94,39 @@
   ],
   "romanLyrics": [
     [
-      "Maai Main Sadguru Puran Paayaa,",
-      "Tan Man Dhan De Bhet Guru Ko Le Hari Naam Dhyaayaa (Tek)."
+      "Darshan Guru Kaa Hai Sukhdaai, Dekh Dekh Dukh Jaayaa || 1 ||"
     ],
     [
-      "Darshan Guru Kaa Hai Sukhdaai, Dekh Dekh Dukh Jaayaa || || 1 ||."
+      "Guru Ko Baar Baar Kar Vandan, Charan Kamal Chitt Laayaa || 2 ||"
     ],
     [
-      "Guru Ko Baar Baar Kar Vandan, Charan Kamal Chitt Laayaa || 2 ||."
+      "Guru Ki Sev Kare Din Raati, Man Ke Paap Mitaayaa || 3 ||"
     ],
     [
-      "Guru Ki Sev Kare Din Raati, Man Ke Paap Mitaayaa || 3 ||."
+      "Guru Kaa Shabd Sumar Ghat Maahin, Dhuni Men Dhyaan Lagaayaa || 4 ||"
     ],
     [
-      "Guru Kaa Shabd Sumar Ghat Maahin, Dhuni Men Dhyaan Lagaayaa || 4. ||."
-    ],
-    [
-      "Kahe Teun Guru Jnyaan Piraaye, Sahaj Svarup Samaayaa || 5. ||."
+      "Kahe Teun Guru Gyaan Piraaye, Sahaj Svarup Samaayaa || 5 ||"
     ],
     [
       "Kaan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 2 || 609 ||",
-    "Maai Main Sadguru Puran Paayaa",
-    "माि मैं सद्गुरु पुरन पाया"
+    "माई मैं सद्गुरु पूरण पाया,",
+    "Maai Main Sadguru Puran Paayaa,",
+    "राग कल्याण भजन 2",
+    "Raag Kalyaan Bhajan 2"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "kalyaan",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 610,
+  "displayOrder": 2,
+  "overallOrder": 608,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 327",
+  "updatedAt": "2026-10-26"
 }

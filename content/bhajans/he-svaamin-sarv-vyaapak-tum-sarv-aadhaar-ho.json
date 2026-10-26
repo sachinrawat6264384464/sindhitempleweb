@@ -2,64 +2,113 @@
   "id": "bhajan-0176",
   "slug": "he-svaamin-sarv-vyaapak-tum-sarv-aadhaar-ho",
   "categoryId": "raag-vihaag",
-  "title": "हे सवामिन‌ सर्व वयापक तुम सर्व ाधार हो",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "हे स्वामिन्‌ सर्व व्यापक तुम सर्व आधार हो",
   "romanTitle": "He Svaamin‌ Sarv Vyaapak Tum Sarv Aadhaar Ho",
-  "firstLine": "He Svaamin‌ Sarv Vyaapak Tum Sarv Aadhaar Ho. Din Bandhu Jnyaan Sindhu Mahir Ke Bhandaar Ho (Tek).",
+  "firstLine": "He Svaamin‌ Sarv Vyaapak Tum Sarv Aadhaar Ho.",
+  "heading": "।। राग विहाग भजन ।। १८ ।। १७६।॥।",
+  "tek": [
+    "हे स्वामिन्‌ सर्व व्यापक तुम सर्व आधार हो ।",
+    "दीन बन्धू ज्ञान सिन्धू महिर के भण्डार हो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "He Svaamin‌ Sarv Vyaapak Tum Sarv Aadhaar Ho.",
+    "Din Bandhu Gyaan Sindhu Mahir Ke Bhandaar Ho (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सर्व सृष्टी के रचानेहार तुम कर्तार हो ।",
+        "पालना करके सर्व का फिर करत संहार हो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sarv Srishti Ke Rachaanehaar Tum Kartaar Ho.",
+        "Paalnaa Karke Sarv Kaa Phir Karat Sanhaar Ho || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जगत के व्यवहार का तुम एक ही संचार हो ।",
+        "अन्त तेरा को न जानत आप अपरम्पार हो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jagat Ke Vyavhaar Kaa Tum Ek Hi Sanchaar Ho.",
+        "Ant Teraa Ko Na Jaanat Aap Aprampaar Ho || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहत टेऊँ ओट मेरी तुम हरी हरबार हो ।",
+        "नैन चाहत हैं हमारे आप का दीदार हो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Ot Meri Tum Hari Harbaar Ho.",
+        "Nain Chaahat Hain Hamaare Aap Kaa Didaar Ho || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ठ्ठ"
+      ],
+      "romanLines": [
+        "Thth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे सवामिन‌ सर्व वयापक तुम सर्व ाधार हो.",
-      "दीन बनधु ज्ञान सिनधु महिर के भनदार हो (टेक)."
+      "सर्व सृष्टी के रचानेहार तुम कर्तार हो ।",
+      "पालना करके सर्व का फिर करत संहार हो ॥१ ॥"
     ],
     [
-      "सर्व सरिशति के रचानेहार तुम करतार हो.",
-      "पालना करके सर्व का फिर करत सनहार हो || 1 ||."
+      "जगत के व्यवहार का तुम एक ही संचार हो ।",
+      "अन्त तेरा को न जानत आप अपरम्पार हो ॥२ ॥"
     ],
     [
-      "जगत के वयवहार का तुम ेक हि सनचार हो.",
-      "नत तेरा को न जानत ाप परमपार हो || 2 ||."
+      "कहत टेऊँ ओट मेरी तुम हरी हरबार हो ।",
+      "नैन चाहत हैं हमारे आप का दीदार हो ॥३ ॥"
     ],
     [
-      "कहत तेऊँ ोत मेरि तुम हरि हरबार हो.",
-      "नैन चाहत हैन हमारे ाप का दिदार हो ||.3 ||."
-    ],
-    [
-      "थथ"
+      "ठ्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "He Svaamin‌ Sarv Vyaapak Tum Sarv Aadhaar Ho.",
-      "Din Bandhu Jnyaan Sindhu Mahir Ke Bhandaar Ho (Tek)."
-    ],
-    [
       "Sarv Srishti Ke Rachaanehaar Tum Kartaar Ho.",
-      "Paalnaa Karke Sarv Kaa Phir Karat Sanhaar Ho || 1 ||."
+      "Paalnaa Karke Sarv Kaa Phir Karat Sanhaar Ho || 1 ||"
     ],
     [
       "Jagat Ke Vyavhaar Kaa Tum Ek Hi Sanchaar Ho.",
-      "Ant Teraa Ko N Jaanat Aap Aprampaar Ho || 2 ||."
+      "Ant Teraa Ko Na Jaanat Aap Aprampaar Ho || 2 ||"
     ],
     [
       "Kahat Teun Ot Meri Tum Hari Harbaar Ho.",
-      "Nain Chaahat Hain Hamaare Aap Kaa Didaar Ho ||.3 ||."
+      "Nain Chaahat Hain Hamaare Aap Kaa Didaar Ho || 3 ||"
     ],
     [
       "Thth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 18 || 176. ||.",
+    "हे स्वामिन्‌ सर्व व्यापक तुम सर्व आधार हो",
     "He Svaamin‌ Sarv Vyaapak Tum Sarv Aadhaar Ho",
-    "हे सवामिन‌ सर्व वयापक तुम सर्व ाधार हो"
+    "राग विहाग भजन 18",
+    "Raag Vihaag Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 176,
+  "displayOrder": 18,
+  "overallOrder": 176,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 117",
+  "updatedAt": "2026-10-26"
 }

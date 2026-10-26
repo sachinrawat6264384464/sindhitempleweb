@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0617",
+  "id": "bhajan-0615",
   "slug": "karo-aarti-sadguru-charnaa-jis-kripaa-te-bhav-jal-tarnaa",
   "categoryId": "raag-kalyaan",
-  "title": "करो आरती सद्गुरु चरना, जिस कृपा ते भव जल तरना",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "करो आरती सद्‌गुरु चरना, जिस कृपा ते भव जल तरना",
   "romanTitle": "Karo Aarti Sad‌Guru Charnaa, Jis Kripaa Te Bhav Jal Tarnaa",
   "firstLine": "Karo Aarti Sad‌Guru Charnaa, Jis Kripaa Te Bhav Jal Tarnaa (Tek).",
+  "heading": "।। राग कल्याण भजन ।। ९ ।। ६१६।।",
+  "tek": [
+    "करो आरती सद्‌गुरु चरना, जिस कृपा ते भव जल तरना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Aarti Sad‌Guru Charnaa, Jis Kripaa Te Bhav Jal Tarnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु चरने ध्यान लगाये, अहंता ममता रोग मिटाये ।",
+        "हृदय के दुख हरना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Charne Dhyaan Lagaaye, Ahantaa Mamtaa Rog Mitaaye.",
+        "Hriday Ke Dukh Harnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु मन्त्र का कर अभ्यासा, देखो दम में अजब तमासा ।",
+        "ध्यान उसीका धरना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Mantr Kaa Kar Abhyaasaa, Dekho Dam Men Ajab Tamaasaa.",
+        "Dhyaan Usikaa Dharnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गगन मण्डल में अनाहत बाजे, तांका सुन्दर सुन आवाजे ।",
+        "मेटो मन के फुरना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gagan Mandal Men Anaahat Baaje, Taankaa Sundar Sun Aavaaje.",
+        "Meto Man Ke Phurnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सद्गुरु प्रसादी, लाए सुन में सहज समाधी ।",
+        "आतम दर्शन करना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sadguru Prasaadi, Laae Sun Men Sahaj Samaadhi.",
+        "Aatam Darshan Karnaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो आरती सद्गुरु चरना, जिस कृपा ते भव जल तरना (टेक)."
+      "सद्‌गुरु चरने ध्यान लगाये, अहंता ममता रोग मिटाये ।",
+      "हृदय के दुख हरना ॥१ ॥"
     ],
     [
-      "सद्गुरु चरने ध्यान लगाये, हनता ममता रोग मिताये.",
-      "हरिदय के दुःख हरना || 1 ||."
+      "गुरु मन्त्र का कर अभ्यासा, देखो दम में अजब तमासा ।",
+      "ध्यान उसीका धरना ॥२ ॥"
     ],
     [
-      "गुरु मनतर का कर भयासा, देखो दम मेन जब तमासा.",
-      "ध्यान ुसिका धरना || 2 ||"
+      "गगन मण्डल में अनाहत बाजे, तांका सुन्दर सुन आवाजे ।",
+      "मेटो मन के फुरना ॥३ ॥"
     ],
     [
-      "गगन मनदल मेन नाहत बाजे, तानका सुनदर सुन ावाजे.",
-      "मेतो मन के फुरना ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ सद्गुरु परसादि, लाे सुन मेन सहज समाधि.",
-      "ातम दरशन करना ||.4 ||"
+      "कहे टेऊँ सद्गुरु प्रसादी, लाए सुन में सहज समाधी ।",
+      "आतम दर्शन करना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Aarti Sad‌Guru Charnaa, Jis Kripaa Te Bhav Jal Tarnaa (Tek)."
-    ],
-    [
       "Sad‌Guru Charne Dhyaan Lagaaye, Ahantaa Mamtaa Rog Mitaaye.",
-      "Hriday Ke Dukh Harnaa || 1 ||."
+      "Hriday Ke Dukh Harnaa || 1 ||"
     ],
     [
       "Guru Mantr Kaa Kar Abhyaasaa, Dekho Dam Men Ajab Tamaasaa.",
@@ -40,28 +89,28 @@
     ],
     [
       "Gagan Mandal Men Anaahat Baaje, Taankaa Sundar Sun Aavaaje.",
-      "Meto Man Ke Phurnaa ||.3 ||"
+      "Meto Man Ke Phurnaa || 3 ||"
     ],
     [
       "Kahe Teun Sadguru Prasaadi, Laae Sun Men Sahaj Samaadhi.",
-      "Aatam Darshan Karnaa ||.4 ||"
+      "Aatam Darshan Karnaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 9 || 616 ||",
+    "करो आरती सद्‌गुरु चरना, जिस कृपा ते भव जल तरना",
     "Karo Aarti Sad‌Guru Charnaa, Jis Kripaa Te Bhav Jal Tarnaa",
-    "करो आरती सद्गुरु चरना, जिस कृपा ते भव जल तरना"
+    "राग कल्याण भजन 9",
+    "Raag Kalyaan Bhajan 9"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani",
-    "aarti"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 617,
+  "displayOrder": 9,
+  "overallOrder": 615,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 330",
+  "updatedAt": "2026-10-26"
 }

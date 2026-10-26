@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0002",
+  "slug": "bhakti-gyaan-daan-dehi-din-ke-dayal-ji",
+  "categoryId": "raag-bhairav",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "भक्ति ज्ञान दान देहि दीन के दयाल जी",
+  "romanTitle": "Bhakti Gyaan Daan Dehi Din Ke Dayal Ji",
+  "firstLine": "Bhakti Gyaan Daan Dehi Din Ke Dayal Ji.",
+  "heading": "।। राग भैरव भजन ।। २ ॥।",
+  "tek": [
+    "भक्ति ज्ञान दान देहि दीन के दयाल जी ।",
+    "दीन के दयाल मोहि जान अबुद्ध बाल जी ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Bhakti Gyaan Daan Dehi Din Ke Dayal Ji.",
+    "Din Ke Dayal Mohi Jaan Abuddh Baal Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "वाम धाम सुत न मंगूं नहीं रतन लाल जी ।",
+        "अखण्ड अभय दान मंगूं हरो कठिन काल जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vaam Dhaam Sut Na Mangun Nahin Ratan Laal Ji.",
+        "Akhand Abhay Daan Mangun Haro Kathin Kaal Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ऋद्धि न मंगूं सिद्धि न मंगूं नहीं मंगूं माल जी ।",
+        "साध संगति सेव मंगूं तोड़ जगत जाल जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Riddhi Na Mangun Siddhi Na Mangun Nahin Mangun Maal Ji.",
+        "Saadh Sangti Sev Mangun Tor Jagat Jaal Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राज ताज नाहिं मंगूं विषय सुख विशाल जी ।",
+        "धर्म दया धीर मंगूं करो उर उजाल जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raaj Taaj Naahin Mangun Vishay Sukh Vishaal Ji.",
+        "Dharm Dayaa Dhir Mangun Karo Ur Ujaal Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "स्वर्ग सूख नाहिं मंगूं मंगूं पद अकाल जी ।",
+        "कहत टेऊँ नज़र धरे नाथ कर निहाल जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Svarg Sukh Naahin Mangun Mangun Pad Akaal Ji.",
+        "Kahat Teun Nazar Dhare Naath Kar Nihaal Ji || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "वाम धाम सुत न मंगूं नहीं रतन लाल जी ।",
+      "अखण्ड अभय दान मंगूं हरो कठिन काल जी ॥१ ॥"
+    ],
+    [
+      "ऋद्धि न मंगूं सिद्धि न मंगूं नहीं मंगूं माल जी ।",
+      "साध संगति सेव मंगूं तोड़ जगत जाल जी ॥२ ॥"
+    ],
+    [
+      "राज ताज नाहिं मंगूं विषय सुख विशाल जी ।",
+      "धर्म दया धीर मंगूं करो उर उजाल जी ॥३ ॥"
+    ],
+    [
+      "स्वर्ग सूख नाहिं मंगूं मंगूं पद अकाल जी ।",
+      "कहत टेऊँ नज़र धरे नाथ कर निहाल जी ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Vaam Dhaam Sut Na Mangun Nahin Ratan Laal Ji.",
+      "Akhand Abhay Daan Mangun Haro Kathin Kaal Ji || 1 ||"
+    ],
+    [
+      "Riddhi Na Mangun Siddhi Na Mangun Nahin Mangun Maal Ji.",
+      "Saadh Sangti Sev Mangun Tor Jagat Jaal Ji || 2 ||"
+    ],
+    [
+      "Raaj Taaj Naahin Mangun Vishay Sukh Vishaal Ji.",
+      "Dharm Dayaa Dhir Mangun Karo Ur Ujaal Ji || 3 ||"
+    ],
+    [
+      "Svarg Sukh Naahin Mangun Mangun Pad Akaal Ji.",
+      "Kahat Teun Nazar Dhare Naath Kar Nihaal Ji || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "भक्ति ज्ञान दान देहि दीन के दयाल जी",
+    "Bhakti Gyaan Daan Dehi Din Ke Dayal Ji",
+    "राग भैरव भजन 2",
+    "Raag Bhairav Bhajan 2"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
+  ],
+  "displayOrder": 2,
+  "overallOrder": 2,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 26",
+  "updatedAt": "2026-10-26"
+}

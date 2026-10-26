@@ -1,39 +1,99 @@
 {
-  "id": "bhajan-0892",
+  "id": "bhajan-0890",
   "slug": "hari-main-teraa-hun-teraa",
   "categoryId": "raag-jog",
-  "title": "हरि मैं तेरा हुन तेरा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हरी मैं तेरा हूं तेरा",
   "romanTitle": "Hari Main Teraa Hun Teraa",
   "firstLine": "Hari Main Teraa Hun Teraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ६२ ।। ८९२।।",
+  "tek": [
+    "हरी मैं तेरा हूं तेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Main Teraa Hun Teraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन मन तेरा धन भी तेरा, बल बुद्धि बाणी तेरी ।",
+        "जो कछु है सो सबहीं तेरा, ना कछु इसमें मेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Teraa Dhan Bhi Teraa, Bal Buddhi Baani Teri.",
+        "Jo Kachhu Hai So Sabhin Teraa, Naa Kachhu Ismen Meraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम हो मालिक मैं हूं मिलिक्यत, हरदम हूं वश तेरे ।",
+        "जो जो काज कराओ मुझसे, सोय करूं बन चेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Maalik Main Hun Milikyat, Hardam Hun Vash Tere.",
+        "Jo Jo Kaaj Karaao Mujhse, Soy Karun Ban Cheraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम हो नटवर मैं हूं पुतली, हुक्म डोर में बांधे ।",
+        "जैसे नाच नचाना चाहो, तैसे देवूं फेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Natvar Main Hun Putli, Hukm Dor Men Baandhe.",
+        "Jaise Naach Nachaanaa Chaaho, Taise Devun Pheraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तुम हो चित्र बनाने वाले, मैं हूं चित्र तुम्हारा ।",
+        "नाम रूप यश रंग ढंग यह, सब कछु हरि तो केरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Chitr Banaane Vaale, Main Hun Chitr Tumhaaraa.",
+        "Naam Rup Yash Rang Dhang Yah, Sab Kachhu Hari To Keraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "आप अंगी मैं अंग हूं तेरा, अलग सत्ता नहिं मेरी ।",
+        "कहे टेऊँ मैं कहने मात्र, सब तूं है मैं हेरा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Aap Angi Main Ang Hun Teraa, Alag Sattaa Nahin Meri.",
+        "Kahe Teun Main Kahne Maatr, Sab Tu Hai Main Heraa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि मैं तेरा हुन तेरा (टेक)."
+      "तन मन तेरा धन भी तेरा, बल बुद्धि बाणी तेरी ।",
+      "जो कछु है सो सबहीं तेरा, ना कछु इसमें मेरा ॥१ ॥"
     ],
     [
-      "तन मन तेरा धन भि तेरा, बल बुदधि बानी तेरि.",
-      "जो कचहु है सो सभिन तेरा, ना कचहु िसमेन मेरा || 1 ||"
+      "तुम हो मालिक मैं हूं मिलिक्यत, हरदम हूं वश तेरे ।",
+      "जो जो काज कराओ मुझसे, सोय करूं बन चेरा ॥२ ॥"
     ],
     [
-      "तुम हो मालिक मैं हुन मिलिकयत, हरदम हुन वश तेरे.",
-      "जो जो काज कराो मुझसे, सोय करुन बन चेरा || 2 ||"
+      "तुम हो नटवर मैं हूं पुतली, हुक्म डोर में बांधे ।",
+      "जैसे नाच नचाना चाहो, तैसे देवूं फेरा ॥३ ॥"
     ],
     [
-      "तुम हो नतवर मैं हुन पुतलि, हुकम दोर मेन बानधे.",
-      "जैसे नाच नचाना चाहो, तैसे देवुन फेरा || 3 ||"
+      "तुम हो चित्र बनाने वाले, मैं हूं चित्र तुम्हारा ।",
+      "नाम रूप यश रंग ढंग यह, सब कछु हरि तो केरा ॥४ ॥"
     ],
     [
-      "तुम हो चितर बनाने वाले, मैं हुन चितर तुमहारा.",
-      "नाम रुप यश रनग धनग यह, सब कचहु हरि तो केरा || 4. ||."
-    ],
-    [
-      "ाप नगि मैं नग हुन तेरा, लग सतता नहिन मेरि.",
-      "कहे तेऊँ मैं कहने मातर, सब तु है मैं हेरा || 5 ||"
+      "आप अंगी मैं अंग हूं तेरा, अलग सत्ता नहिं मेरी ।",
+      "कहे टेऊँ मैं कहने मात्र, सब तूं है मैं हेरा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Hari Main Teraa Hun Teraa (Tek)."
-    ],
     [
       "Tan Man Teraa Dhan Bhi Teraa, Bal Buddhi Baani Teri.",
       "Jo Kachhu Hai So Sabhin Teraa, Naa Kachhu Ismen Meraa || 1 ||"
@@ -48,7 +108,7 @@
     ],
     [
       "Tum Ho Chitr Banaane Vaale, Main Hun Chitr Tumhaaraa.",
-      "Naam Rup Yash Rang Dhang Yah, Sab Kachhu Hari To Keraa || 4. ||."
+      "Naam Rup Yash Rang Dhang Yah, Sab Kachhu Hari To Keraa || 4 ||"
     ],
     [
       "Aap Angi Main Ang Hun Teraa, Alag Sattaa Nahin Meri.",
@@ -56,18 +116,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 62 || 892 ||",
+    "हरी मैं तेरा हूं तेरा",
     "Hari Main Teraa Hun Teraa",
-    "हरि मैं तेरा हुन तेरा"
+    "राग जोग भजन 62",
+    "Raag Jog Bhajan 62"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 892,
+  "displayOrder": 62,
+  "overallOrder": 890,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 470",
+  "updatedAt": "2026-10-26"
 }

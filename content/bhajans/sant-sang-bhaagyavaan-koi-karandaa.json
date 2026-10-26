@@ -2,90 +2,135 @@
   "id": "bhajan-0071",
   "slug": "sant-sang-bhaagyavaan-koi-karandaa",
   "categoryId": "raag-aasaa",
-  "title": "संत सनग भागयवान कोि करनदा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सन्त संग भाग्यवान कोई करन्दा",
   "romanTitle": "Sant Sang Bhaagyavaan Koi Karandaa",
   "firstLine": "Sant Sang Bhaagyavaan Koi Karandaa (Tek).",
+  "heading": "।। राग आसा भजन ।। ९ ।। ७१॥।",
+  "tek": [
+    "सन्त संग भाग्यवान कोई करन्दा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sant Sang Bhaagyavaan Koi Karandaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्त सभा सज्जन जहां आय जुड़ंदी,",
+        "अमृतमय ज्ञान कथा ताहिं टुरंदी ।",
+        "सन्तनि दा वाक्य सुन भ्रम टरन्दा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sant Sabhaa Sajjan Jahaan Aay Jurandi,",
+        "Amritmay Gyaan Kathaa Taahin Turandi.",
+        "Santani Daa Vaaky Sun Bhram Tarandaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गाम सभा राज सभा देव सभा में,",
+        "एहा न विचार जेहा सन्त सभा में ।",
+        "सन्तनि दे संग माहिं रंग चढ़न्दा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gaam Sabhaa Raaj Sabhaa Dev Sabhaa Men,",
+        "Ehaa Na Vichaar Jehaa Sant Sabhaa Men.",
+        "Santani De Sang Maahin Rang Charhandaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ठ्ह",
+        "इन्द्र लोक विष्णु लोक ब्रह्म लोक में,",
+        "एहा सुख नाहिं जेहा सन्त ओक में ।",
+        "सन्तनि के दर्शन से नैन ठरन्दा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Thh",
+        "Indr Lok Vishnu Lok Brahm Lok Men,",
+        "Ehaa Sukh Naahin Jehaa Sant Ok Men.",
+        "Santani Ke Darshan Se Nain Tharandaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जन्म जन्म केरे यदी कर्म फलन्दे,",
+        "सन्त सज्जन नेक तदी आय मिलन्दे ।",
+        "कहे टेऊँ सन्त संग काज सरन्दा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Janm Janm Kere Yadi Karm Phalande,",
+        "Sant Sajjan Nek Tadi Aay Milande.",
+        "Kahe Teun Sant Sang Kaaj Sarandaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "संत सनग भागयवान कोि करनदा (टेक)."
+      "सन्त सभा सज्जन जहां आय जुड़ंदी,",
+      "अमृतमय ज्ञान कथा ताहिं टुरंदी ।",
+      "सन्तनि दा वाक्य सुन भ्रम टरन्दा ॥१ ॥"
     ],
     [
-      "संत सभा सजजन जहान ाय जुरनदि,",
-      "मरितमय ज्ञान कथा ताहिन तुरनदि."
+      "गाम सभा राज सभा देव सभा में,",
+      "एहा न विचार जेहा सन्त सभा में ।",
+      "सन्तनि दे संग माहिं रंग चढ़न्दा ॥२ ॥"
     ],
     [
-      "सनतनि दा वाकय सुन भरम तरनदा || 1 ||."
+      "ठ्ह",
+      "इन्द्र लोक विष्णु लोक ब्रह्म लोक में,",
+      "एहा सुख नाहिं जेहा सन्त ओक में ।",
+      "सन्तनि के दर्शन से नैन ठरन्दा ॥३ ॥"
     ],
     [
-      "गाम सभा राज सभा देव सभा मेन,",
-      "ेहा न विचार जेहा संत सभा मेन."
-    ],
-    [
-      "सनतनि दे सनग माहिन रनग चरहनदा || 2 ||."
-    ],
-    [
-      "थह",
-      "िनदर लोक विशनु लोक बरहम लोक मेन,"
-    ],
-    [
-      "ेहा सुख नाहिन जेहा संत ोक मेन.",
-      "सनतनि के दरशन से नैन थरनदा || 3 ||."
-    ],
-    [
-      "जनम जनम केरे यदि करम फलनदे,",
-      "संत सजजन नेक तदि ाय मिलनदे."
-    ],
-    [
-      "कहे तेऊँ संत सनग काज सरनदा || 4. ||."
+      "जन्म जन्म केरे यदी कर्म फलन्दे,",
+      "सन्त सज्जन नेक तदी आय मिलन्दे ।",
+      "कहे टेऊँ सन्त संग काज सरन्दा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sant Sang Bhaagyavaan Koi Karandaa (Tek)."
-    ],
-    [
       "Sant Sabhaa Sajjan Jahaan Aay Jurandi,",
-      "Amritmay Jnyaan Kathaa Taahin Turandi."
-    ],
-    [
-      "Santani Daa Vaaky Sun Bhram Tarandaa || 1 ||."
+      "Amritmay Gyaan Kathaa Taahin Turandi.",
+      "Santani Daa Vaaky Sun Bhram Tarandaa || 1 ||"
     ],
     [
       "Gaam Sabhaa Raaj Sabhaa Dev Sabhaa Men,",
-      "Ehaa N Vichaar Jehaa Sant Sabhaa Men."
-    ],
-    [
-      "Santani De Sang Maahin Rang Charhandaa || 2 ||."
+      "Ehaa Na Vichaar Jehaa Sant Sabhaa Men.",
+      "Santani De Sang Maahin Rang Charhandaa || 2 ||"
     ],
     [
       "Thh",
-      "Indr Lok Vishnu Lok Brahm Lok Men,"
-    ],
-    [
+      "Indr Lok Vishnu Lok Brahm Lok Men,",
       "Ehaa Sukh Naahin Jehaa Sant Ok Men.",
-      "Santani Ke Darshan Se Nain Tharandaa || 3 ||."
+      "Santani Ke Darshan Se Nain Tharandaa || 3 ||"
     ],
     [
       "Janm Janm Kere Yadi Karm Phalande,",
-      "Sant Sajjan Nek Tadi Aay Milande."
-    ],
-    [
-      "Kahe Teun Sant Sang Kaaj Sarandaa || 4. ||."
+      "Sant Sajjan Nek Tadi Aay Milande.",
+      "Kahe Teun Sant Sang Kaaj Sarandaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 9 || 71 ||.",
+    "सन्त संग भाग्यवान कोई करन्दा",
     "Sant Sang Bhaagyavaan Koi Karandaa",
-    "संत सनग भागयवान कोि करनदा"
+    "राग आसा भजन 9",
+    "Raag Aasaa Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 71,
+  "displayOrder": 9,
+  "overallOrder": 71,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 60",
+  "updatedAt": "2026-10-26"
 }

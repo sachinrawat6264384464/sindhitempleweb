@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0544",
+  "id": "bhajan-0542",
   "slug": "raam-naam-ko-japle-praani-yahi-japan-ki-vaari-re",
   "categoryId": "raag-sorath",
-  "title": "राम नाम को जपले परानि, यहि जपन कि वारि रे",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "राम नाम को जपले प्रानी, यही जपन की वारी रे",
   "romanTitle": "Raam Naam Ko Japle Praani, Yahi Japan Ki Vaari Re",
-  "firstLine": "Raam Naam Ko Japle Praani, Yahi Japan Ki Vaari Re. Raam Bhajan Bin Tum Paavegaa, Janm Maran Dukh Bhaari Re (Tek).",
+  "firstLine": "Raam Naam Ko Japle Praani, Yahi Japan Ki Vaari Re.",
+  "heading": "।। राग सोरठ भजन ।। १२ ।। '५४३॥।",
+  "tek": [
+    "राम नाम को जपले प्रानी, यही जपन की वारी रे ।",
+    "राम भजन बिन तुम पावेगा, जन्म मरण दुख भारी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Naam Ko Japle Praani, Yahi Japan Ki Vaari Re.",
+    "Raam Bhajan Bin Tum Paavegaa, Janm Maran Dukh Bhaari Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बहुत जन्म से भ्रमत आये, बहुते दूख सहारा रे ।",
+        "अब शुभ अवसर आय बना है, पाओ मोक्ष द्वारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Se Bhramat Aaye, Bahute Dukh Sahaaraa Re.",
+        "Ab Shubh Avsar Aay Banaa Hai, Paao Moksh Dvaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष देही पुण्य ते पाई, भजन करो मन मेरा रे ।",
+        "राम भजन बिन इस जग माहीं, संगी नहीं को तेरा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Dehi Puny Te Paai, Bhajan Karo Man Meraa Re.",
+        "Raam Bhajan Bin Is Jag Maahin, Sangi Nahin Ko Teraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पूर्ण हृदय धर विश्वासा, साध सड्ति में जाओ रे ।",
+        "सार वचन की शिक्षा सुनकर, अविनाशी पद पाओ रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Purn Hriday Dhar Vishvaasaa, Saadh Sadti Men Jaao Re.",
+        "Saar Vachan Ki Shikshaa Sunkar, Avinaashi Pad Paao Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्‌गुरु के संग से, खोले दिल का ताला रे ।",
+        "आंख उलटकर अन्तर देखो, आत्म देव विशाला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sat‌Guru Ke Sang Se, Khole Dil Kaa Taalaa Re.",
+        "Aankh Ultakar Antar Dekho, Aatm Dev Vishaalaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम नाम को जपले परानि, यहि जपन कि वारि रे.",
-      "राम भजन बिन तुम पावेगा, जनम मरन दुःख भारि रे (टेक)."
+      "बहुत जन्म से भ्रमत आये, बहुते दूख सहारा रे ।",
+      "अब शुभ अवसर आय बना है, पाओ मोक्ष द्वारा रे ॥१ ॥"
     ],
     [
-      "बहुत जनम से भरमत ाये, बहुते दुःख सहारा रे.",
-      "ब शुभ वसर ाय बना है, पाो मोक्ष दवारा रे || 1 ||."
+      "मानुष देही पुण्य ते पाई, भजन करो मन मेरा रे ।",
+      "राम भजन बिन इस जग माहीं, संगी नहीं को तेरा रे ॥२ ॥"
     ],
     [
-      "मानुश देही पुनय ते पाि, भजन करो मन मेरा रे.",
-      "राम भजन बिन िस जग माहिन, सनगि नहिन को तेरा रे || 2 ||"
+      "पूर्ण हृदय धर विश्वासा, साध सड्ति में जाओ रे ।",
+      "सार वचन की शिक्षा सुनकर, अविनाशी पद पाओ रे ॥३ ॥"
     ],
     [
-      "पुरन हरिदय धर विशवासा, साध सदति मेन जाो रे.",
-      "सार वचन कि शिकशा सुनकर, अविनाशी पद पाो रे.3 ||."
-    ],
-    [
-      "कहे तेऊँ सतगुरु के सनग से, खोले दिल का ताला रे.",
-      "ानख ुलतकर नतर देखो, ातम देव विशाला रे || 4 ||"
+      "कहे टेऊँ सत्‌गुरु के संग से, खोले दिल का ताला रे ।",
+      "आंख उलटकर अन्तर देखो, आत्म देव विशाला रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Naam Ko Japle Praani, Yahi Japan Ki Vaari Re.",
-      "Raam Bhajan Bin Tum Paavegaa, Janm Maran Dukh Bhaari Re (Tek)."
-    ],
-    [
       "Bahut Janm Se Bhramat Aaye, Bahute Dukh Sahaaraa Re.",
-      "Ab Shubh Avsar Aay Banaa Hai, Paao Moksh Dvaaraa Re || 1 ||."
+      "Ab Shubh Avsar Aay Banaa Hai, Paao Moksh Dvaaraa Re || 1 ||"
     ],
     [
       "Maanush Dehi Puny Te Paai, Bhajan Karo Man Meraa Re.",
@@ -42,7 +91,7 @@
     ],
     [
       "Purn Hriday Dhar Vishvaasaa, Saadh Sadti Men Jaao Re.",
-      "Saar Vachan Ki Shikshaa Sunkar, Avinaashi Pad Paao Re.3 ||."
+      "Saar Vachan Ki Shikshaa Sunkar, Avinaashi Pad Paao Re || 3 ||"
     ],
     [
       "Kahe Teun Sat‌Guru Ke Sang Se, Khole Dil Kaa Taalaa Re.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Sorath Bhajan || 12 || '543 ||.",
+    "राम नाम को जपले प्रानी, यही जपन की वारी रे",
     "Raam Naam Ko Japle Praani, Yahi Japan Ki Vaari Re",
-    "राम नाम को जपले परानि, यहि जपन कि वारि रे"
+    "राग सोरठ भजन 12",
+    "Raag Sorath Bhajan 12"
   ],
   "tags": [
-    "teunram",
-    "sorath",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 544,
+  "displayOrder": 12,
+  "overallOrder": 542,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 297",
+  "updatedAt": "2026-10-26"
 }

@@ -2,73 +2,121 @@
   "id": "bhajan-0390",
   "slug": "sumrale-naam-ishvar-kaa-jagat-naataa-sakal-harke",
   "categoryId": "raag-tilang",
-  "title": "सुमरले नाम िशवर का, जगत नाता सकल हरके",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सुमरले नाम ईश्वर का, जगत नाता सकल हरके",
   "romanTitle": "Sumrale Naam Ishvar Kaa, Jagat Naataa Sakal Harke",
-  "firstLine": "Sumrale Naam Ishvar Kaa, Jagat Naataa Sakal Harke. Bano Vaasi Amar Ghar Ke, Janm Marnaa Mitaao Ji (Tek).",
+  "firstLine": "Sumrale Naam Ishvar Kaa, Jagat Naataa Sakal Harke.",
+  "heading": "।। राग तिलंग भजन ।। २७ ।। ३९१।।",
+  "tek": [
+    "सुमरले नाम ईश्वर का, जगत नाता सकल हरके ।",
+    "बनो वासी अमर घर के, जन्म मरना मिटाओ जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sumrale Naam Ishvar Kaa, Jagat Naataa Sakal Harke.",
+    "Bano Vaasi Amar Ghar Ke, Janm Marnaa Mitaao Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बैठ सत्संग हरवारी, सफल करले उम्र सारी ।",
+        "विश्व में देख गिरधारी, किसी को ना सताओ जी ॥8 ॥"
+      ],
+      "romanLines": [
+        "Baith Satsang Harvaari, Saphal Karle Umr Saari.",
+        "Vishv Men Dekh Girdhaari, Kisi Ko Naa Sataao Ji || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "त्र्त्य",
+        "गुरू से ज्ञान गम लीजे, नाश आअज्ञान तम कीजे ।",
+        "सर्व संशय श्रम छीजे, मुक्ति का गैल पाओ जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Trty",
+        "Guru Se Gyaan Gam Lije, Naash Aajnyaan Tam Kije.",
+        "Sarv Sanshay Shram Chhije, Mukti Kaa Gail Paao Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सदा सन्तोष मन धर के, हरी की आस इक करके ।",
+        "भक्ति अरु भाव उर भरके, हरी से हेत लाओ जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadaa Santosh Man Dhar Ke, Hari Ki Aas Ik Karke.",
+        "Bhakti Aru Bhaav Ur Bharke, Hari Se Het Laao Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कहा मानो, सचे स्वरूप को जानो ।",
+        "उत्तम गुण को हृदय आनो, सकल अवगुण मिटाओ जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kahaa Maano, Sache Svarup Ko Jaano.",
+        "Uttam Gun Ko Hriday Aano, Sakal Avgun Mitaao Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुमरले नाम िशवर का, जगत नाता सकल हरके.",
-      "बनो वासि मर घर के, जनम मरना मिताो जी (टेक)."
+      "बैठ सत्संग हरवारी, सफल करले उम्र सारी ।",
+      "विश्व में देख गिरधारी, किसी को ना सताओ जी ॥8 ॥"
     ],
     [
-      "बैथ सत्संग हरवारि, सफल करले ुमर सारि.",
-      "विशव मेन देख गिरधारि, किसि को ना सताो जी ||.8 ||"
+      "त्र्त्य",
+      "गुरू से ज्ञान गम लीजे, नाश आअज्ञान तम कीजे ।",
+      "सर्व संशय श्रम छीजे, मुक्ति का गैल पाओ जी ॥२ ॥"
     ],
     [
-      "तरतय",
-      "गुरु से ज्ञान गम लिजे, नाश ाजनयान तम किजे."
+      "सदा सन्तोष मन धर के, हरी की आस इक करके ।",
+      "भक्ति अरु भाव उर भरके, हरी से हेत लाओ जी ॥३ ॥"
     ],
     [
-      "सर्व सनशय शरम चहिजे, मुक्ति का गैल पाो जी || 2 ||"
-    ],
-    [
-      "सदा सनतोश मन धर के, हरि कि ास िक करके.",
-      "भक्ति रु भाव ुर भरके, हरि से हेत लाो जी ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ कहा मानो, सचे सवरुप को जानो.",
-      "ुततम गुन को हरिदय ानो, सकल वगुन मिताो जी || 4. ||."
+      "कहे टेऊँ कहा मानो, सचे स्वरूप को जानो ।",
+      "उत्तम गुण को हृदय आनो, सकल अवगुण मिटाओ जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sumrale Naam Ishvar Kaa, Jagat Naataa Sakal Harke.",
-      "Bano Vaasi Amar Ghar Ke, Janm Marnaa Mitaao Ji (Tek)."
-    ],
-    [
       "Baith Satsang Harvaari, Saphal Karle Umr Saari.",
-      "Vishv Men Dekh Girdhaari, Kisi Ko Naa Sataao Ji ||.8 ||"
+      "Vishv Men Dekh Girdhaari, Kisi Ko Naa Sataao Ji || 8 ||"
     ],
     [
       "Trty",
-      "Guru Se Jnyaan Gam Lije, Naash Aajnyaan Tam Kije."
-    ],
-    [
+      "Guru Se Gyaan Gam Lije, Naash Aajnyaan Tam Kije.",
       "Sarv Sanshay Shram Chhije, Mukti Kaa Gail Paao Ji || 2 ||"
     ],
     [
       "Sadaa Santosh Man Dhar Ke, Hari Ki Aas Ik Karke.",
-      "Bhakti Aru Bhaav Ur Bharke, Hari Se Het Laao Ji ||.3 ||."
+      "Bhakti Aru Bhaav Ur Bharke, Hari Se Het Laao Ji || 3 ||"
     ],
     [
       "Kahe Teun Kahaa Maano, Sache Svarup Ko Jaano.",
-      "Uttam Gun Ko Hriday Aano, Sakal Avgun Mitaao Ji || 4. ||."
+      "Uttam Gun Ko Hriday Aano, Sakal Avgun Mitaao Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 27 || 391 ||",
+    "सुमरले नाम ईश्वर का, जगत नाता सकल हरके",
     "Sumrale Naam Ishvar Kaa, Jagat Naataa Sakal Harke",
-    "सुमरले नाम िशवर का, जगत नाता सकल हरके"
+    "राग तिलंग भजन 27",
+    "Raag Tilang Bhajan 27"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 390,
+  "displayOrder": 27,
+  "overallOrder": 390,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 228",
+  "updatedAt": "2026-10-26"
 }

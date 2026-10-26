@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0491",
+  "id": "bhajan-0490",
   "slug": "aatm-chintan-nishdin-karle",
   "categoryId": "raag-kohiyaari",
-  "title": "ातम चिनतन निशदिन करले",
-  "romanTitle": "Aatm Chintan Nishdin Karle",
-  "firstLine": "Aatm Chintan Nishdin Karle, Guru Ke Charan Dhyaao, Shaanti Paao (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "आत्म चिन्तन निशदिन करले,",
+  "romanTitle": "Aatm Chintan Nishdin Karle,",
+  "firstLine": "Aatm Chintan Nishdin Karle,",
+  "heading": "।। राग कोद्यारी भजन ।। ११ ।। ४९१॥।",
+  "tek": [
+    "आत्म चिन्तन निशदिन करले,",
+    "गुरु के चरन ध्याओ, शान्ती पाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatm Chintan Nishdin Karle,",
+    "Guru Ke Charan Dhyaao, Shaanti Paao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "काम क्रोध लोभ अहंकारा,",
+        "ममता मोह मिटाओ, शान्ती पाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Lobh Ahankaaraa,",
+        "Mamtaa Moh Mitaao, Shaanti Paao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पांचों इन्द्रिय पांच विषय से,",
+        "सम दम साधि हटाओ, शान्ती पाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paanchon Indriy Paanch Vishay Se,",
+        "Sam Dam Saadhi Hataao, Shaanti Paao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन को मार दृढ़ कर आसन,",
+        "इत उत नाहिं डुलाओ, शान्ती पाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man Ko Maar Drirh Kar Aasan,",
+        "It Ut Naahin Dulaao, Shaanti Paao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ गगन मण्डल में,",
+        "अपनी श्रुति समाओ, शान्ती पाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Gagan Mandal Men,",
+        "Apni Shruti Samaao, Shaanti Paao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ातम चिनतन निशदिन करले,",
-      "गुरु के चरण धयाो, शांति पाो (टेक)."
+      "काम क्रोध लोभ अहंकारा,",
+      "ममता मोह मिटाओ, शान्ती पाओ ॥१ ॥"
     ],
     [
-      "काम करोध लोभ हनकारा,",
-      "ममता मोह मिताो, शांति पाो. ||.1. ||."
+      "पांचों इन्द्रिय पांच विषय से,",
+      "सम दम साधि हटाओ, शान्ती पाओ ॥२ ॥"
     ],
     [
-      "पानचोन िनदरिय पानच विशय से,",
-      "सम दम साधि हताो, शांति पाो ||.2 ||"
+      "मन को मार दृढ़ कर आसन,",
+      "इत उत नाहिं डुलाओ, शान्ती पाओ ॥३ ॥"
     ],
     [
-      "मन को मार दरिरह कर ासन,",
-      "ित ुत नाहिन दुलाो, शांति पाो. ||.3 ||"
-    ],
-    [
-      "कहता तेऊँ गगन मनदल मेन,",
-      "पनि शरुति समाो, शांति पाो || 4 ||."
+      "कहता टेऊँ गगन मण्डल में,",
+      "अपनी श्रुति समाओ, शान्ती पाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aatm Chintan Nishdin Karle,",
-      "Guru Ke Charan Dhyaao, Shaanti Paao (Tek)."
-    ],
-    [
       "Kaam Krodh Lobh Ahankaaraa,",
-      "Mamtaa Moh Mitaao, Shaanti Paao. ||.1. ||."
+      "Mamtaa Moh Mitaao, Shaanti Paao || 1 ||"
     ],
     [
       "Paanchon Indriy Paanch Vishay Se,",
-      "Sam Dam Saadhi Hataao, Shaanti Paao ||.2 ||"
+      "Sam Dam Saadhi Hataao, Shaanti Paao || 2 ||"
     ],
     [
       "Man Ko Maar Drirh Kar Aasan,",
-      "It Ut Naahin Dulaao, Shaanti Paao. ||.3 ||"
+      "It Ut Naahin Dulaao, Shaanti Paao || 3 ||"
     ],
     [
       "Kahtaa Teun Gagan Mandal Men,",
-      "Apni Shruti Samaao, Shaanti Paao || 4 ||."
+      "Apni Shruti Samaao, Shaanti Paao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kodyaari Bhajan || 11 || 491 ||.",
-    "Aatm Chintan Nishdin Karle",
-    "ातम चिनतन निशदिन करले"
+    "आत्म चिन्तन निशदिन करले,",
+    "Aatm Chintan Nishdin Karle,",
+    "राग कोहियारी भजन 11",
+    "Raag Kohiyaari Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 491,
+  "displayOrder": 11,
+  "overallOrder": 490,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 274",
+  "updatedAt": "2026-10-26"
 }

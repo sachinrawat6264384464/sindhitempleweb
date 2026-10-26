@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0910",
+  "id": "bhajan-0908",
   "slug": "karo-man-saakshi-kaa-smaran",
   "categoryId": "raag-jog",
-  "title": "करो मन साक्षी का समरन",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "करो मन साक्षी का स्मरन",
   "romanTitle": "Karo Man Saakshi Kaa Smaran",
   "firstLine": "Karo Man Saakshi Kaa Smaran (Tek).",
+  "heading": "।। राग जोग भजन ।। ८० ।। ९१० ॥।",
+  "tek": [
+    "करो मन साक्षी का स्मरन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Man Saakshi Kaa Smaran (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "उभय पक्ष से रहत उदासी, समीपवर्ती जोई ।",
+        "चेतन मय निज पर को जाने, यह साक्षी का लक्षन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ubhay Paksh Se Rahat Udaasi, Samipvarti Joi.",
+        "Chetan May Nij Par Ko Jaane, Yah Saakshi Kaa Lakshan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साक्षी को निज रूप लखे लख, साक्षी ब्रह्म स्वरूपा ।",
+        "मैं हूं पूर्ण ब्रह्मा व्यापक, नित ऐसा कर चिन्तन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saakshi Ko Nij Rup Lakhe Lakh, Saakshi Brahm Svarupaa.",
+        "Main Hun Purn Brahmaa Vyaapak, Nit Aisaa Kar Chintan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सकल सृष्टि का साक्षी सृष्टा, सकल दृश्य का दृष्टा ।",
+        "साक्षी का को और न साक्षी, कर अनुभव से दर्शन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sakal Srishti Kaa Saakshi Srishtaa, Sakal Drishy Kaa Drishtaa.",
+        "Saakshi Kaa Ko Aur Na Saakshi, Kar Anubhav Se Darshan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले ज्ञान गुरू से, देह श्रान्ती छोड़ो ।",
+        "साक्षी का तुम स्मरन करके, काटो जग के बन्धन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Gyaan Guru Se, Deh Shraanti Chhoro.",
+        "Saakshi Kaa Tum Smaran Karke, Kaato Jag Ke Bandhan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो मन साक्षी का समरन (टेक)."
+      "उभय पक्ष से रहत उदासी, समीपवर्ती जोई ।",
+      "चेतन मय निज पर को जाने, यह साक्षी का लक्षन ॥१ ॥"
     ],
     [
-      "ुभय पकश से रहत ुदासि, समिपवरति जोि.",
-      "चेतन मय निज पर को जाने, यह साक्षी का लकशन || 1 ||"
+      "साक्षी को निज रूप लखे लख, साक्षी ब्रह्म स्वरूपा ।",
+      "मैं हूं पूर्ण ब्रह्मा व्यापक, नित ऐसा कर चिन्तन ॥२ ॥"
     ],
     [
-      "साक्षी को निज रुप लखे लख, साक्षी बरहम सवरुपा.",
-      "मैं हुन पुरन बरहम वयापक, नित ैसा कर चिनतन || 2 ||"
+      "सकल सृष्टि का साक्षी सृष्टा, सकल दृश्य का दृष्टा ।",
+      "साक्षी का को और न साक्षी, कर अनुभव से दर्शन ॥३ ॥"
     ],
     [
-      "सकल सरिशति का साक्षी सरिशता, सकल दरिशय का दरिशता.",
-      "साक्षी का को ौर न साक्षी, कर नुभव से दरशन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ ले ज्ञान गुरु से, देह शरानति चहोरो.",
-      "साक्षी का तुम समरन करके, कातो जग के बनधन ||.4. ||."
+      "कहे टेऊँ ले ज्ञान गुरू से, देह श्रान्ती छोड़ो ।",
+      "साक्षी का तुम स्मरन करके, काटो जग के बन्धन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Karo Man Saakshi Kaa Smaran (Tek)."
-    ],
     [
       "Ubhay Paksh Se Rahat Udaasi, Samipvarti Joi.",
       "Chetan May Nij Par Ko Jaane, Yah Saakshi Kaa Lakshan || 1 ||"
     ],
     [
       "Saakshi Ko Nij Rup Lakhe Lakh, Saakshi Brahm Svarupaa.",
-      "Main Hun Purn Brahma Vyaapak, Nit Aisaa Kar Chintan || 2 ||"
+      "Main Hun Purn Brahmaa Vyaapak, Nit Aisaa Kar Chintan || 2 ||"
     ],
     [
       "Sakal Srishti Kaa Saakshi Srishtaa, Sakal Drishy Kaa Drishtaa.",
-      "Saakshi Kaa Ko Aur N Saakshi, Kar Anubhav Se Darshan || 3 ||"
+      "Saakshi Kaa Ko Aur Na Saakshi, Kar Anubhav Se Darshan || 3 ||"
     ],
     [
-      "Kahe Teun Le Jnyaan Guru Se, Deh Shraanti Chhoro.",
-      "Saakshi Kaa Tum Smaran Karke, Kaato Jag Ke Bandhan ||.4. ||."
+      "Kahe Teun Le Gyaan Guru Se, Deh Shraanti Chhoro.",
+      "Saakshi Kaa Tum Smaran Karke, Kaato Jag Ke Bandhan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 80 || 910 ||.",
+    "करो मन साक्षी का स्मरन",
     "Karo Man Saakshi Kaa Smaran",
-    "करो मन साक्षी का समरन"
+    "राग जोग भजन 80",
+    "Raag Jog Bhajan 80"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 910,
+  "displayOrder": 80,
+  "overallOrder": 908,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 478",
+  "updatedAt": "2026-10-26"
 }

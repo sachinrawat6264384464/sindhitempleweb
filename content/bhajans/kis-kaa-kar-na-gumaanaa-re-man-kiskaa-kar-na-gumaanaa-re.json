@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0029",
+  "slug": "kis-kaa-kar-na-gumaanaa-re-man-kiskaa-kar-na-gumaanaa-re",
+  "categoryId": "raag-raamkali",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "किस का कर न गुमाना रे मन किसका कर न गुमाना रे",
+  "romanTitle": "Kis Kaa Kar Na Gumaanaa Re Man Kiskaa Kar Na Gumaanaa Re",
+  "firstLine": "Kis Kaa Kar Na Gumaanaa Re Man Kiskaa Kar Na Gumaanaa Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। १७ ।। २९।।",
+  "tek": [
+    "किस का कर न गुमाना रे मन किसका कर न गुमाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kis Kaa Kar Na Gumaanaa Re Man Kiskaa Kar Na Gumaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अंतकाल में इस तन को जब छोड़ चलेगा प्राना रे ।",
+        "तब ही यह तन चिक्षा ऊपर जल जावत शमशाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Antkaal Men Is Tan Ko Jab Chhor Chalegaa Praanaa Re.",
+        "Tab Hi Yah Tan Chikshaa Upar Jal Jaavat Shamshaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धन दौलत भी थिर न रहत है नहिं थिर महल मकाना रे ।",
+        "मात पिता सुत दारा को तज तोहि अकेला जाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dhan Daulat Bhi Thir Na Rahat Hai Nahin Thir Mahal Makaanaa Re.",
+        "Maat Pitaa Sut Daaraa Ko Taj Tohi Akelaa Jaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जगत मुसाफिरखाने में तुम दो दिन का महिमाना रे ।",
+        "आखिर इसको छोड़ चलेंगे तेरा यह न ठिकाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jagat Musaaphirkhaane Men Tum Do Din Kaa Mahimaanaa Re.",
+        "Aakhir Isko Chhor Chalenge Teraa Yah Na Thikaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "रावण कौरव हरनाकस का रहा न नाम निशाना रे ।",
+        "कहे टेऊँ तुम तांते हरि जप जांते हो कल्याना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raavan Kaurav Harnaakas Kaa Rahaa Na Naam Nishaanaa Re.",
+        "Kahe Teun Tum Taante Hari Jap Jaante Ho Kalyaanaa Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "अंतकाल में इस तन को जब छोड़ चलेगा प्राना रे ।",
+      "तब ही यह तन चिक्षा ऊपर जल जावत शमशाना रे ॥१ ॥"
+    ],
+    [
+      "धन दौलत भी थिर न रहत है नहिं थिर महल मकाना रे ।",
+      "मात पिता सुत दारा को तज तोहि अकेला जाना रे ॥२ ॥"
+    ],
+    [
+      "जगत मुसाफिरखाने में तुम दो दिन का महिमाना रे ।",
+      "आखिर इसको छोड़ चलेंगे तेरा यह न ठिकाना रे ॥३ ॥"
+    ],
+    [
+      "रावण कौरव हरनाकस का रहा न नाम निशाना रे ।",
+      "कहे टेऊँ तुम तांते हरि जप जांते हो कल्याना रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Antkaal Men Is Tan Ko Jab Chhor Chalegaa Praanaa Re.",
+      "Tab Hi Yah Tan Chikshaa Upar Jal Jaavat Shamshaanaa Re || 1 ||"
+    ],
+    [
+      "Dhan Daulat Bhi Thir Na Rahat Hai Nahin Thir Mahal Makaanaa Re.",
+      "Maat Pitaa Sut Daaraa Ko Taj Tohi Akelaa Jaanaa Re || 2 ||"
+    ],
+    [
+      "Jagat Musaaphirkhaane Men Tum Do Din Kaa Mahimaanaa Re.",
+      "Aakhir Isko Chhor Chalenge Teraa Yah Na Thikaanaa Re || 3 ||"
+    ],
+    [
+      "Raavan Kaurav Harnaakas Kaa Rahaa Na Naam Nishaanaa Re.",
+      "Kahe Teun Tum Taante Hari Jap Jaante Ho Kalyaanaa Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "किस का कर न गुमाना रे मन किसका कर न गुमाना रे",
+    "Kis Kaa Kar Na Gumaanaa Re Man Kiskaa Kar Na Gumaanaa Re",
+    "राग रामकली भजन 17",
+    "Raag Raamkali Bhajan 17"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
+    "bhajan"
+  ],
+  "displayOrder": 17,
+  "overallOrder": 29,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 40",
+  "updatedAt": "2026-10-26"
+}

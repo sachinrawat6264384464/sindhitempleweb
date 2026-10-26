@@ -1,56 +1,102 @@
 {
-  "id": "bhajan-0512",
+  "id": "bhajan-0510",
   "slug": "purab-puny-se-miliyaa-mujhko",
   "categoryId": "raag-kohiyaari",
-  "title": "पुरब पुनय से मिलिया मुझको",
-  "romanTitle": "Purab Puny Se Miliyaa Mujhko",
-  "firstLine": "Purab Puny Se Miliyaa Mujhko, Sad‌Guru Brahmajnyaani, Aatm Dhyaani (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "पूरब पुण्य से मिलिया मुझको ,",
+  "romanTitle": "Purab Puny Se Miliyaa Mujhko,",
+  "firstLine": "Purab Puny Se Miliyaa Mujhko,",
+  "heading": "।। राग कोह्यारी भजन ॥। ३१ ।। ५११॥।",
+  "tek": [
+    "पूरब पुण्य से मिलिया मुझको ,",
+    "सद्‌गुरु ब्रह्मज्ञानी, आत्म ध्यानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Purab Puny Se Miliyaa Mujhko,",
+    "Sad‌Guru Brahmajnyaani, Aatm Dhyaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कृपा सागर आनन्द आगर, पूरण परम विज्ञानी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kripaa Saagar Aanand Aagar, Puran Param Vijnyaani || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्म नेष्ठी, ब्रह्म श्रोत्री, बोलत अमृत बानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahm Neshthi, Brahm Shrotri, Bolat Amrit Baani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नित अवतारी जगत उद्धारी, निर्वेरी निर्मानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nit Avtaari Jagat Uddhaari, Nirveri Nirmaani || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शिव स्वरूपा, अभय दान का दानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Shiv Svarupaa, Abhay Daan Kaa Daani || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पुरब पुनय से मिलिया मुझको,",
-      "सद्गुरु बरहमजनयानि, ातम धयानि (टेक)."
+      "कृपा सागर आनन्द आगर, पूरण परम विज्ञानी ॥१ ॥"
     ],
     [
-      "कृपा सागर आनंद ागर, पुरन परम विजनयानि || 1. ||."
+      "ब्रह्म नेष्ठी, ब्रह्म श्रोत्री, बोलत अमृत बानी ॥२ ॥"
     ],
     [
-      "बरहम नेशथि, बरहम शरोतरि, बोलत अमृत बानी ||.2 ||.",
-      "नित वतारि जगत ुदधारि, निरवेरि निरमानि || 3 ||."
+      "नित अवतारी जगत उद्धारी, निर्वेरी निर्मानी ॥३ ॥"
     ],
     [
-      "कहे तेऊँ गुरु शिव सवरुपा, भय दान का दानि ||.4. ||."
+      "कहे टेऊँ गुरु शिव स्वरूपा, अभय दान का दानी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Purab Puny Se Miliyaa Mujhko,",
-      "Sad‌Guru Brahmajnyaani, Aatm Dhyaani (Tek)."
+      "Kripaa Saagar Aanand Aagar, Puran Param Vijnyaani || 1 ||"
     ],
     [
-      "Kripaa Saagar Aanand Aagar, Puran Param Vijnyaani || 1. ||."
+      "Brahm Neshthi, Brahm Shrotri, Bolat Amrit Baani || 2 ||"
     ],
     [
-      "Brahm Neshthi, Brahm Shrotri, Bolat Amrit Baani ||.2 ||.",
-      "Nit Avtaari Jagat Uddhaari, Nirveri Nirmaani || 3 ||."
+      "Nit Avtaari Jagat Uddhaari, Nirveri Nirmaani || 3 ||"
     ],
     [
-      "Kahe Teun Guru Shiv Svarupaa, Abhay Daan Kaa Daani ||.4. ||."
+      "Kahe Teun Guru Shiv Svarupaa, Abhay Daan Kaa Daani || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohyaari Bhajan ||. 31 || 511 ||.",
-    "Purab Puny Se Miliyaa Mujhko",
-    "पुरब पुनय से मिलिया मुझको"
+    "पूरब पुण्य से मिलिया मुझको ,",
+    "Purab Puny Se Miliyaa Mujhko,",
+    "राग कोहियारी भजन 31",
+    "Raag Kohiyaari Bhajan 31"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 512,
+  "displayOrder": 31,
+  "overallOrder": 510,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 283",
+  "updatedAt": "2026-10-26"
 }

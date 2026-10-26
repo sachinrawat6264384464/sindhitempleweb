@@ -1,72 +1,120 @@
 {
-  "id": "bhajan-0616",
+  "id": "bhajan-0614",
   "slug": "hari-kripaa-se-sadguru-paayaa-jisne-mainnun-alakh-lakhaayaa",
   "categoryId": "raag-kalyaan",
-  "title": "हरि कृपा से सद्गुरु पाया, जिसने मैननुन लख लखाया",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "हरि कृपा से सद्गुरु पाया , जिसने मैंनूं अलख लखाया",
   "romanTitle": "Hari Kripaa Se Sadguru Paayaa, Jisne Mainnun Alakh Lakhaayaa",
   "firstLine": "Hari Kripaa Se Sadguru Paayaa, Jisne Mainnun Alakh Lakhaayaa (Tek).",
+  "heading": "।। राग कल्याण भजन ।। ८ ।। द६१५।।",
+  "tek": [
+    "हरि कृपा से सद्गुरु पाया , जिसने मैंनूं अलख लखाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Kripaa Se Sadguru Paayaa, Jisne Mainnun Alakh Lakhaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु को भेटा देके तन मन, सर्वस्व अपना करके अर्पन ।",
+        "हरि का ध्यान लगाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Ko Bhetaa Deke Tan Man, Sarvasv Apnaa Karke Arpan.",
+        "Hari Kaa Dhyaan Lagaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु को बार बार कर वन्दन, अपना सीस धरे गुरु चरननि ।",
+        "मन का मान हटाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Ko Baar Baar Kar Vandan, Apnaa Sis Dhare Guru Charnani.",
+        "Man Kaa Maan Hataayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कान",
+        "गुरु घर की नित करके सेवा, पाया चार पदार्थ मेवा ।",
+        "आवागमन मिटाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaan",
+        "Guru Ghar Ki Nit Karke Sevaa, Paayaa Chaar Padaarth Mevaa.",
+        "Aavaagman Mitaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु सैन लखाई, ब्रह्म ज्ञान की ज्योति जगाई ।",
+        "पांचों भ्रम नसाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sain Lakhaai, Brahm Gyaan Ki Jyoti Jagaai.",
+        "Paanchon Bhram Nasaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि कृपा से सद्गुरु पाया, जिसने मैननुन लख लखाया (टेक)."
+      "गुरु को भेटा देके तन मन, सर्वस्व अपना करके अर्पन ।",
+      "हरि का ध्यान लगाया ॥१ ॥"
     ],
     [
-      "गुरु को भेता देके तन मन, सरवसव पना करके रपन.",
-      "हरि का ध्यान लगाया || 1. ||."
-    ],
-    [
-      "गुरु को बार बार कर वनदन, पना सिस धरे गुरु चरननि.",
-      "मन का मान हताया ||.2 ||"
+      "गुरु को बार बार कर वन्दन, अपना सीस धरे गुरु चरननि ।",
+      "मन का मान हटाया ॥२ ॥"
     ],
     [
       "कान",
-      "गुरु घर कि नित करके सेवा, पाया चार पदारथ मेवा."
+      "गुरु घर की नित करके सेवा, पाया चार पदार्थ मेवा ।",
+      "आवागमन मिटाया ॥३ ॥"
     ],
     [
-      "ावागमन मिताया ||.3. ||.",
-      "कहे तेऊँ गुरु सैन लखाि, बरहम ज्ञान कि जयोति जगाि."
-    ],
-    [
-      "पानचोन भरम नसाया || 4. ||."
+      "कहे टेऊँ गुरु सैन लखाई, ब्रह्म ज्ञान की ज्योति जगाई ।",
+      "पांचों भ्रम नसाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Kripaa Se Sadguru Paayaa, Jisne Mainnun Alakh Lakhaayaa (Tek)."
-    ],
-    [
       "Guru Ko Bhetaa Deke Tan Man, Sarvasv Apnaa Karke Arpan.",
-      "Hari Kaa Dhyaan Lagaayaa || 1. ||."
+      "Hari Kaa Dhyaan Lagaayaa || 1 ||"
     ],
     [
       "Guru Ko Baar Baar Kar Vandan, Apnaa Sis Dhare Guru Charnani.",
-      "Man Kaa Maan Hataayaa ||.2 ||"
+      "Man Kaa Maan Hataayaa || 2 ||"
     ],
     [
       "Kaan",
-      "Guru Ghar Ki Nit Karke Sevaa, Paayaa Chaar Padaarth Mevaa."
+      "Guru Ghar Ki Nit Karke Sevaa, Paayaa Chaar Padaarth Mevaa.",
+      "Aavaagman Mitaayaa || 3 ||"
     ],
     [
-      "Aavaagman Mitaayaa ||.3. ||.",
-      "Kahe Teun Guru Sain Lakhaai, Brahm Jnyaan Ki Jyoti Jagaai."
-    ],
-    [
-      "Paanchon Bhram Nasaayaa || 4. ||."
+      "Kahe Teun Guru Sain Lakhaai, Brahm Gyaan Ki Jyoti Jagaai.",
+      "Paanchon Bhram Nasaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 8 || D615 ||",
+    "हरि कृपा से सद्गुरु पाया , जिसने मैंनूं अलख लखाया",
     "Hari Kripaa Se Sadguru Paayaa, Jisne Mainnun Alakh Lakhaayaa",
-    "हरि कृपा से सद्गुरु पाया, जिसने मैननुन लख लखाया"
+    "राग कल्याण भजन 8",
+    "Raag Kalyaan Bhajan 8"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 616,
+  "displayOrder": 8,
+  "overallOrder": 614,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 329",
+  "updatedAt": "2026-10-26"
 }

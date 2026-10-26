@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0641",
+  "id": "bhajan-0639",
   "slug": "kaato-kasht-hamaaraa-prabhuji-kaato-kasht-hamaaraa",
   "categoryId": "raag-kanso",
-  "title": "कातो कशत हमारा परभुजि, कातो कशत हमारा",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "काटो कष्ट हमारा प्रभुजी, काटो कष्ट हमारा",
   "romanTitle": "Kaato Kasht Hamaaraa Prabhuji, Kaato Kasht Hamaaraa",
-  "firstLine": "Kaato Kasht Hamaaraa Prabhuji, Kaato Kasht Hamaaraa. Jan Man Rajjan Bhav Bhay Bhajjan, Hai Yah Birad Tumhaaraa (Tek).",
+  "firstLine": "Kaato Kasht Hamaaraa Prabhuji, Kaato Kasht Hamaaraa.",
+  "heading": "।। राग कंसो भजन ।। १० ।। ६४०॥।",
+  "tek": [
+    "काटो कष्ट हमारा प्रभुजी, काटो कष्ट हमारा ।",
+    "जन मन रज्जन भव भय भज्जन, है यह बिरद तुम्हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaato Kasht Hamaaraa Prabhuji, Kaato Kasht Hamaaraa.",
+    "Jan Man Rajjan Bhav Bhay Bhajjan, Hai Yah Birad Tumhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भक्तों पर जब भीड़ पड़त है, तब धारत अवतारा ।",
+        "निज भक्तों की रक्षा करते, दुष्टों को संहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhakton Par Jab Bhir Parat Hai, Tab Dhaarat Avtaaraa.",
+        "Nij Bhakton Ki Rakshaa Karte, Dushton Ko Sanhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हिरणकश्यप प्रहलाद भक्त को, दीना दूख अपारा ।",
+        "नरसिंह रूप धार तब तुमने, हिरणकश्यप को मारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hirnakashyap Prahlaad Bhakt Ko, Dinaa Dukh Apaaraa.",
+        "Narsinh Rup Dhaar Tab Tumne, Hirnakashyap Ko Maaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्रोपदा को बीच सभा में, दीना चीर हज़ारा ।",
+        "कौरव का कुल नास कराया, कंस के प्रान निकारा ॥ । ३े ॥"
+      ],
+      "romanLines": [
+        "Dropdaa Ko Bich Sabhaa Men, Dinaa Chir Hazaaraa.",
+        "Kaurav Kaa Kul Naas Karaayaa, Kans Ke Praan Nikaaraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ में और त्यागे, लीना तव आधारा ।",
+        "कलूकाल के कठिन समय में, मेरा हो रखवारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Men Aur Tyaage, Linaa Tav Aadhaaraa.",
+        "Kalukaal Ke Kathin Samay Men, Meraa Ho Rakhvaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कातो कशत हमारा परभुजि, कातो कशत हमारा.",
-      "जन मन रजजन भव भय भजजन, है यह बिरद तुमहारा (टेक)."
+      "भक्तों पर जब भीड़ पड़त है, तब धारत अवतारा ।",
+      "निज भक्तों की रक्षा करते, दुष्टों को संहारा ॥१ ॥"
     ],
     [
-      "भकतोन पर जब भिर परत है, तब धारत वतारा.",
-      "निज भकतोन कि रकशा करते, दुशतोन को सनहारा || 1. ||."
+      "हिरणकश्यप प्रहलाद भक्त को, दीना दूख अपारा ।",
+      "नरसिंह रूप धार तब तुमने, हिरणकश्यप को मारा ॥२ ॥"
     ],
     [
-      "हिरनकशयप परहलाद भकत को, दिना दुःख पारा.",
-      "नरसिनह रुप धार तब तुमने, हिरनकशयप को मारा || 2 ||."
+      "द्रोपदा को बीच सभा में, दीना चीर हज़ारा ।",
+      "कौरव का कुल नास कराया, कंस के प्रान निकारा ॥ । ३े ॥"
     ],
     [
-      "दरोपदा को बिच सभा मेन, दिना चिर हzारा.",
-      "कौरव का कुल नास कराया, कनस के परान निकारा ||. 3े ||"
-    ],
-    [
-      "कहे तेऊँ मेन ौर तयागे, लिना तव ाधारा.",
-      "कलुकाल के कथिन समय मेन, मेरा हो रखवारा ||.4. ||."
+      "कहे टेऊँ में और त्यागे, लीना तव आधारा ।",
+      "कलूकाल के कठिन समय में, मेरा हो रखवारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaato Kasht Hamaaraa Prabhuji, Kaato Kasht Hamaaraa.",
-      "Jan Man Rajjan Bhav Bhay Bhajjan, Hai Yah Birad Tumhaaraa (Tek)."
-    ],
-    [
       "Bhakton Par Jab Bhir Parat Hai, Tab Dhaarat Avtaaraa.",
-      "Nij Bhakton Ki Rakshaa Karte, Dushton Ko Sanhaaraa || 1. ||."
+      "Nij Bhakton Ki Rakshaa Karte, Dushton Ko Sanhaaraa || 1 ||"
     ],
     [
       "Hirnakashyap Prahlaad Bhakt Ko, Dinaa Dukh Apaaraa.",
-      "Narsinh Rup Dhaar Tab Tumne, Hirnakashyap Ko Maaraa || 2 ||."
+      "Narsinh Rup Dhaar Tab Tumne, Hirnakashyap Ko Maaraa || 2 ||"
     ],
     [
       "Dropdaa Ko Bich Sabhaa Men, Dinaa Chir Hazaaraa.",
-      "Kaurav Kaa Kul Naas Karaayaa, Kans Ke Praan Nikaaraa ||. 3E ||"
+      "Kaurav Kaa Kul Naas Karaayaa, Kans Ke Praan Nikaaraa || 3E ||"
     ],
     [
       "Kahe Teun Men Aur Tyaage, Linaa Tav Aadhaaraa.",
-      "Kalukaal Ke Kathin Samay Men, Meraa Ho Rakhvaaraa ||.4. ||."
+      "Kalukaal Ke Kathin Samay Men, Meraa Ho Rakhvaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 10 || 640 ||.",
+    "काटो कष्ट हमारा प्रभुजी, काटो कष्ट हमारा",
     "Kaato Kasht Hamaaraa Prabhuji, Kaato Kasht Hamaaraa",
-    "कातो कशत हमारा परभुजि, कातो कशत हमारा"
+    "राग कंसो भजन 10",
+    "Raag Kanso Bhajan 10"
   ],
   "tags": [
-    "prarthana",
-    "kanso",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
     "bhajan"
   ],
-  "displayOrder": 641,
+  "displayOrder": 10,
+  "overallOrder": 639,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 342",
+  "updatedAt": "2026-10-26"
 }

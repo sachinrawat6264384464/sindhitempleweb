@@ -2,70 +2,115 @@
   "id": "bhajan-0085",
   "slug": "main-sev-guraan-ki-paai-sakhi-devo-mohi-badhaai",
   "categoryId": "raag-aasaa",
-  "title": "मैं सेव गुरान कि पाि, सखि देवो मोहि बधाि",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मैं सेव गुरां की पाई, सखी देवो मोहि बधाई",
   "romanTitle": "Main Sev Guraan Ki Paai, Sakhi Devo Mohi Badhaai",
   "firstLine": "Main Sev Guraan Ki Paai, Sakhi Devo Mohi Badhaai (Tek).",
+  "heading": "।। राग आसा भजन ।। २३ ।। ८५।॥",
+  "tek": [
+    "मैं सेव गुरां की पाई, सखी देवो मोहि बधाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Sev Guraan Ki Paai, Sakhi Devo Mohi Badhaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बहुत जन्म से भटक रही थी, तन मन में अति पीड़ सही थी ।",
+        "गुरु अपने चरण लगाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Se Bhatak Rahi Thi, Tan Man Men Ati Pir Sahi Thi.",
+        "Guru Apne Charan Lagaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गली गली में फिरत दुखारी, कोय न बूझत बात हमारी ।",
+        "गुरु अपने पास बिठाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gali Gali Men Phirat Dukhaari, Koy Na Bujhat Baat Hamaari.",
+        "Guru Apne Paas Bithaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मात पिता मोहि बहिन न भाई, निबल कुरूप नहीं चतुराई ।",
+        "गुरु कृपा कर अपनाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Mohi Bahin Na Bhaai, Nibal Kurup Nahin Chaturaai.",
+        "Guru Kripaa Kar Apnaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु किया उपकारा, जाऊँ गुरु पै मैं बलिहारा ।",
+        "जिहं मन की आस पुजाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kiyaa Upkaaraa, Jaaun Guru Pai Main Balihaaraa.",
+        "Jihan Man Ki Aas Pujaai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं सेव गुरान कि पाि, सखि देवो मोहि बधाि (टेक)."
+      "बहुत जन्म से भटक रही थी, तन मन में अति पीड़ सही थी ।",
+      "गुरु अपने चरण लगाई ॥१ ॥"
     ],
     [
-      "बहुत जनम से भतक रहि थि, तन मन मेन ति पिर सहि थि.",
-      "गुरु पने चरण लगाि || || 1. ||."
+      "गली गली में फिरत दुखारी, कोय न बूझत बात हमारी ।",
+      "गुरु अपने पास बिठाई ॥२ ॥"
     ],
     [
-      "गलि गलि मेन फिरत दुखारि, कोय न बुझत बात हमारि.",
-      "गुरु पने पास बिथाि || 2 ||."
+      "मात पिता मोहि बहिन न भाई, निबल कुरूप नहीं चतुराई ।",
+      "गुरु कृपा कर अपनाई ॥३ ॥"
     ],
     [
-      "मात पिता मोहि बहिन न भाि, निबल कुरुप नहिन चतुराि.",
-      "गुरु कृपा कर पनाि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु किया ुपकारा, जाुन गुरु पै मैं बलिहारा.",
-      "जिहन मन कि ास पुजाि ||.4. ||."
-    ],
-    [
-      "तय"
+      "कहे टेऊँ गुरु किया उपकारा, जाऊँ गुरु पै मैं बलिहारा ।",
+      "जिहं मन की आस पुजाई ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Sev Guraan Ki Paai, Sakhi Devo Mohi Badhaai (Tek)."
-    ],
-    [
       "Bahut Janm Se Bhatak Rahi Thi, Tan Man Men Ati Pir Sahi Thi.",
-      "Guru Apne Charan Lagaai || || 1. ||."
+      "Guru Apne Charan Lagaai || 1 ||"
     ],
     [
-      "Gali Gali Men Phirat Dukhaari, Koy N Bujhat Baat Hamaari.",
-      "Guru Apne Paas Bithaai || 2 ||."
+      "Gali Gali Men Phirat Dukhaari, Koy Na Bujhat Baat Hamaari.",
+      "Guru Apne Paas Bithaai || 2 ||"
     ],
     [
-      "Maat Pitaa Mohi Bahin N Bhaai, Nibal Kurup Nahin Chaturaai.",
+      "Maat Pitaa Mohi Bahin Na Bhaai, Nibal Kurup Nahin Chaturaai.",
       "Guru Kripaa Kar Apnaai || 3 ||"
     ],
     [
       "Kahe Teun Guru Kiyaa Upkaaraa, Jaaun Guru Pai Main Balihaaraa.",
-      "Jihan Man Ki Aas Pujaai ||.4. ||."
-    ],
-    [
-      "Tay"
+      "Jihan Man Ki Aas Pujaai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 23 || 85. ||",
+    "मैं सेव गुरां की पाई, सखी देवो मोहि बधाई",
     "Main Sev Guraan Ki Paai, Sakhi Devo Mohi Badhaai",
-    "मैं सेव गुरान कि पाि, सखि देवो मोहि बधाि"
+    "राग आसा भजन 23",
+    "Raag Aasaa Bhajan 23"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 85,
+  "displayOrder": 23,
+  "overallOrder": 85,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 68",
+  "updatedAt": "2026-10-26"
 }

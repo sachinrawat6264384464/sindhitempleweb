@@ -1,104 +1,163 @@
 {
-  "id": "bhajan-0679",
+  "id": "bhajan-0677",
   "slug": "raam-naam-mukh-bol-re-pritam-pyaare",
   "categoryId": "raag-pahaari",
-  "title": "राम नाम मुख बोल रे, परितम पयारे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "राम नाम मुख बोल रे, प्रीतम प्यारे",
   "romanTitle": "Raam Naam Mukh Bol Re, Pritam Pyaare",
   "firstLine": "Raam Naam Mukh Bol Re, Pritam Pyaare (Tek).",
+  "heading": "।। राग पहाड़ी भजन ॥। ३० ॥। ६७८॥।",
+  "tek": [
+    "राम नाम मुख बोल रे, प्रीतम प्यारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Naam Mukh Bol Re, Pritam Pyaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम का सुमरन करके, सगले पाप मिटाओ ।",
+        "परम पवीत्र नाम प्रभू का, प्रेम उसी से पाओ ।",
+        "पीले प्रेम प्याला, करले हिरदा उेला ।",
+        "हरले जगत जंजाला, अविद्या ताला खोल रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Sumran Karke, Sagle Paap Mitaao.",
+        "Param Pavitr Naam Prabhu Kaa, Prem Usi Se Paao.",
+        "Pile Prem Pyaalaa, Karle Hirdaa Uelaa.",
+        "Harle Jagat Janjaalaa, Avidyaa Taalaa Khol Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम का सुमरण करके, ऋद्धि सिद्धि नव निधि पाओ ।",
+        "कल्प बिरछ है नाम हरी का, शरण उसी की जाओ ।",
+        "प्रभू कृपा धारे, तुम्हरे काज संवारे ।",
+        "सब दुख दर्द निवारे, दर्शन दे अनमोल रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Sumran Karke, Riddhi Siddhi Nav Nidhi Paao.",
+        "Kalp Birachh Hai Naam Hari Kaa, Sharan Usi Ki Jaao.",
+        "Prabhu Kripaa Dhaare, Tumhare Kaaj Sanvaare.",
+        "Sab Dukh Dard Nivaare, Darshan De Anmol Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम का सुमरण करके, भव सिन्धु से तर जाओ ।",
+        "परम जहाज़ा नाम हरी का, तां पर तुम चढ़ जाओ ।",
+        "निश्चय पूरण राखो, प्रेम से हरि हरि भाखो ।",
+        "अमृत रस को चाखो, जन्म न जग में रोल रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Sumran Karke, Bhav Sindhu Se Tar Jaao.",
+        "Param Jahaazaa Naam Hari Kaa, Taan Par Tum Charh Jaao.",
+        "Nishchay Puran Raakho, Prem Se Hari Hari Bhaakho.",
+        "Amrit Ras Ko Chaakho, Janm Na Jag Men Rol Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि सुमरन करके, तर गये अधम अनारी ।",
+        "विदुर सुदामा कुब्जा कर्मा, तर गई गौतमनारी ।",
+        "अजामिल सधन कसाई, गनिका सैना नाई ।",
+        "शबरी मीराबाई, हरि ने किये सब कोल रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Sumran Karke, Tar Gaye Adham Anaari.",
+        "Vidur Sudaamaa Kubjaa Karmaa, Tar Gai Gautmanaari.",
+        "Ajaamil Sadhan Kasaai, Ganikaa Sainaa Naai.",
+        "Shabri Miraabaai, Hari Ne Kiye Sab Kol Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्ह"
+      ],
+      "romanLines": [
+        "Ddh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम नाम मुख बोल रे, परितम पयारे (टेक)."
+      "राम नाम का सुमरन करके, सगले पाप मिटाओ ।",
+      "परम पवीत्र नाम प्रभू का, प्रेम उसी से पाओ ।",
+      "पीले प्रेम प्याला, करले हिरदा उेला ।",
+      "हरले जगत जंजाला, अविद्या ताला खोल रे ॥१ ॥"
     ],
     [
-      "राम नाम का सुमरन करके, सगले पाप मिताो.",
-      "परम पवित्र नाम प्रभु का, प्रेम ुसि से पाो."
+      "राम नाम का सुमरण करके, ऋद्धि सिद्धि नव निधि पाओ ।",
+      "कल्प बिरछ है नाम हरी का, शरण उसी की जाओ ।",
+      "प्रभू कृपा धारे, तुम्हरे काज संवारे ।",
+      "सब दुख दर्द निवारे, दर्शन दे अनमोल रे ॥२ ॥"
     ],
     [
-      "पिले प्रेम पयाला, करले हिरदा ुेला.",
-      "हरले जगत जनजाला, विदया ताला खोल रे || 1 ||."
+      "राम नाम का सुमरण करके, भव सिन्धु से तर जाओ ।",
+      "परम जहाज़ा नाम हरी का, तां पर तुम चढ़ जाओ ।",
+      "निश्चय पूरण राखो, प्रेम से हरि हरि भाखो ।",
+      "अमृत रस को चाखो, जन्म न जग में रोल रे ॥३ ॥"
     ],
     [
-      "राम नाम का सुमरन करके, रिदधि सिदधि नव निधि पाो.",
-      "कलप बिरचह है नाम हरि का, शरन ुसि कि जाो."
+      "कहे टेऊँ हरि सुमरन करके, तर गये अधम अनारी ।",
+      "विदुर सुदामा कुब्जा कर्मा, तर गई गौतमनारी ।",
+      "अजामिल सधन कसाई, गनिका सैना नाई ।",
+      "शबरी मीराबाई, हरि ने किये सब कोल रे ॥४ ॥"
     ],
     [
-      "प्रभु कृपा धारे, तुमहरे काज सनवारे.",
-      "सब दुःख दरद निवारे, दरशन दे नमोल रे ||.2. ||."
-    ],
-    [
-      "राम नाम का सुमरन करके, भव सिनधु से तर जाो.",
-      "परम जहाzा नाम हरि का, तान पर तुम चरह जाो."
-    ],
-    [
-      "निशचय पुरन राखो, प्रेम से हरि हरि भाखो.",
-      "अमृत रस को चाखो, जनम न जग मेन रोल रे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ हरि सुमरन करके, तर गये धम नारि.",
-      "विदुर सुदामा कुबजा करमा, तर गै गौतमनारि."
-    ],
-    [
-      "जामिल सधन कसाि, गनिका सैना नाि.",
-      "शबरि मिराबाि, हरि ने किये सब कोल रे ||.4 ||"
-    ],
-    [
-      "दध"
+      "द्द्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Naam Mukh Bol Re, Pritam Pyaare (Tek)."
-    ],
-    [
       "Raam Naam Kaa Sumran Karke, Sagle Paap Mitaao.",
-      "Param Pavitr Naam Prabhu Kaa, Prem Usi Se Paao."
-    ],
-    [
+      "Param Pavitr Naam Prabhu Kaa, Prem Usi Se Paao.",
       "Pile Prem Pyaalaa, Karle Hirdaa Uelaa.",
-      "Harle Jagat Janjaalaa, Avidyaa Taalaa Khol Re || 1 ||."
+      "Harle Jagat Janjaalaa, Avidyaa Taalaa Khol Re || 1 ||"
     ],
     [
       "Raam Naam Kaa Sumran Karke, Riddhi Siddhi Nav Nidhi Paao.",
-      "Kalp Birachh Hai Naam Hari Kaa, Sharan Usi Ki Jaao."
-    ],
-    [
+      "Kalp Birachh Hai Naam Hari Kaa, Sharan Usi Ki Jaao.",
       "Prabhu Kripaa Dhaare, Tumhare Kaaj Sanvaare.",
-      "Sab Dukh Dard Nivaare, Darshan De Anmol Re ||.2. ||."
+      "Sab Dukh Dard Nivaare, Darshan De Anmol Re || 2 ||"
     ],
     [
       "Raam Naam Kaa Sumran Karke, Bhav Sindhu Se Tar Jaao.",
-      "Param Jahaazaa Naam Hari Kaa, Taan Par Tum Charh Jaao."
-    ],
-    [
+      "Param Jahaazaa Naam Hari Kaa, Taan Par Tum Charh Jaao.",
       "Nishchay Puran Raakho, Prem Se Hari Hari Bhaakho.",
-      "Amrit Ras Ko Chaakho, Janm N Jag Men Rol Re || 3 ||."
+      "Amrit Ras Ko Chaakho, Janm Na Jag Men Rol Re || 3 ||"
     ],
     [
       "Kahe Teun Hari Sumran Karke, Tar Gaye Adham Anaari.",
-      "Vidur Sudaamaa Kubjaa Karmaa, Tar Gai Gautmanaari."
-    ],
-    [
+      "Vidur Sudaamaa Kubjaa Karmaa, Tar Gai Gautmanaari.",
       "Ajaamil Sadhan Kasaai, Ganikaa Sainaa Naai.",
-      "Shabri Miraabaai, Hari Ne Kiye Sab Kol Re ||.4 ||"
+      "Shabri Miraabaai, Hari Ne Kiye Sab Kol Re || 4 ||"
     ],
     [
       "Ddh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan ||. 30 ||. 678 ||.",
+    "राम नाम मुख बोल रे, प्रीतम प्यारे",
     "Raam Naam Mukh Bol Re, Pritam Pyaare",
-    "राम नाम मुख बोल रे, परितम पयारे"
+    "राग पहाड़ी भजन 30",
+    "Raag Pahaari Bhajan 30"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 679,
+  "displayOrder": 30,
+  "overallOrder": 677,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 360",
+  "updatedAt": "2026-10-26"
 }

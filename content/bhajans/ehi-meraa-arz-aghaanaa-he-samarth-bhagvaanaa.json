@@ -1,83 +1,156 @@
 {
   "id": "bhajan-0306",
   "slug": "ehi-meraa-arz-aghaanaa-he-samarth-bhagvaanaa",
-  "categoryId": "raag-bhairav",
-  "title": "ेहि मेरा रz घाना, हे समरथ भगवाना",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "एही मेरा अर्ज़ अघाना, हे समर्थ भगवाना",
   "romanTitle": "Ehi Meraa Arz Aghaanaa, He Samarth Bhagvaanaa",
-  "firstLine": "Ehi Meraa Arz Aghaanaa, He Samarth Bhagvaanaa. Dayaa Kare Sab Avgun Mete, Apne Charan Lagaanaa (Tek).",
+  "firstLine": "Ehi Meraa Arz Aghaanaa, He Samarth Bhagvaanaa.",
+  "heading": "।। राग भैरवी भजन ।। ९१ ।। ३०६।।",
+  "tek": [
+    "एही मेरा अर्ज़ अघाना, हे समर्थ भगवाना ।",
+    "दया करे सब अवगुण मेटे, अपने चरन लगाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ehi Meraa Arz Aghaanaa, He Samarth Bhagvaanaa.",
+    "Dayaa Kare Sab Avgun Mete, Apne Charan Lagaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कली काल के देख कर्म को, डरपत है मन मेरा ।",
+        "एक सहारा मुझको तेरा, हमरी लाज बचाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kali Kaal Ke Dekh Karm Ko, Darpat Hai Man Meraa.",
+        "Ek Sahaaraa Mujhko Teraa, Hamri Laaj Bachaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कंचन कामिनी कीर्ति जग की, ये हैं शत्रू भारी ।",
+        "राख लेहु तुम इन से मुझको , हे हरि कृपा निधाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kanchan Kaamini Kirti Jag Ki, Ye Hain Shatru Bhaari.",
+        "Raakh Lehu Tum In Se Mujhko, He Hari Kripaa Nidhaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काम क्रोध पुनि लोभ मोह मद, मत्सर ममता माया ।",
+        "मुक्ति पन्‍्थ में ये हैं कण्टक, इनको दूर हटाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Puni Lobh Moh Mad, Matsar Mamtaa Maayaa.",
+        "Mukti Pan‍Tha Men Ye Hain Kantak, Inko Dur Hataanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तीन इंष्णा तीन वासना, तीन लज्जा गुण तीनों ।",
+        "इन बन्धनों से मोहि छुड़ाके, अपना दास बनाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tin Inshnaa Tin Vaasnaa, Tin Lajjaa Gun Tinon.",
+        "In Bandhanon Se Mohi Chhuraake, Apnaa Daas Banaanaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "सब दोषों की जननी अविद्या, पुनि मूण्ढों की संगति ।",
+        "इन दोनों से मोहि बचाके, सन्तों संग बसाना ॥५ ॥"
+      ],
+      "romanLines": [
+        "Sab Doshon Ki Janni Avidyaa, Puni Mundhon Ki Sangti.",
+        "In Donon Se Mohi Bachaake, Santon Sang Basaanaa || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "कहे टेऊँ मैं और न मांगूं, मांगूं तुम से येही ।",
+        "अनन्य भक्ती दे हरि मुझको, अपने साथ मिलाना ॥६ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Aur Na Maangun, Maangun Tum Se Yehi.",
+        "Anany Bhakti De Hari Mujhko, Apne Saath Milaanaa || 6 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ेहि मेरा रz घाना, हे समरथ भगवाना.",
-      "दया करे सब वगुन मेते, पने चरण लगाना (टेक)."
+      "कली काल के देख कर्म को, डरपत है मन मेरा ।",
+      "एक सहारा मुझको तेरा, हमरी लाज बचाना ॥१ ॥"
     ],
     [
-      "कलि काल के देख करम को, दरपत है मन मेरा.",
-      "ेक सहारा मुझको तेरा, हमरि लाज बचाना || 1. ||."
+      "कंचन कामिनी कीर्ति जग की, ये हैं शत्रू भारी ।",
+      "राख लेहु तुम इन से मुझको , हे हरि कृपा निधाना ॥२ ॥"
     ],
     [
-      "कनचन कामिनि किरति जग कि, ये हैन शतरु भारि.",
-      "राख लेहु तुम िन से मुझको, हे हरि कृपा निधाना || 2 ||."
+      "काम क्रोध पुनि लोभ मोह मद, मत्सर ममता माया ।",
+      "मुक्ति पन्‍्थ में ये हैं कण्टक, इनको दूर हटाना ॥३ ॥"
     ],
     [
-      "काम करोध पुनि लोभ मोह मद, मतसर ममता माया.",
-      "मुक्ति पनथ मेन ये हैन कनतक, िनको दुर हताना ||.3 ||"
+      "तीन इंष्णा तीन वासना, तीन लज्जा गुण तीनों ।",
+      "इन बन्धनों से मोहि छुड़ाके, अपना दास बनाना ॥४ ॥"
     ],
     [
-      "तिन िनशना तिन वासना, तिन लजजा गुन तिनोन.",
-      "िन बनधनोन से मोहि चहुराके, पना दास बनाना || 4. ||."
+      "सब दोषों की जननी अविद्या, पुनि मूण्ढों की संगति ।",
+      "इन दोनों से मोहि बचाके, सन्तों संग बसाना ॥५ ॥"
     ],
     [
-      "सब दोशोन कि जननि विदया, पुनि मुनधोन कि सनगति.",
-      "िन दोनोन से मोहि बचाके, सनतोन सनग बसाना || 5 ||."
-    ],
-    [
-      "कहे तेऊँ मैं ौर न मानगुन, मानगुन तुम से येहि.",
-      "ननय भक्ति दे हरि मुझको, पने साथ मिलाना || 6. ||."
+      "कहे टेऊँ मैं और न मांगूं, मांगूं तुम से येही ।",
+      "अनन्य भक्ती दे हरि मुझको, अपने साथ मिलाना ॥६ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ehi Meraa Arz Aghaanaa, He Samarth Bhagvaanaa.",
-      "Dayaa Kare Sab Avgun Mete, Apne Charan Lagaanaa (Tek)."
-    ],
-    [
       "Kali Kaal Ke Dekh Karm Ko, Darpat Hai Man Meraa.",
-      "Ek Sahaaraa Mujhko Teraa, Hamri Laaj Bachaanaa || 1. ||."
+      "Ek Sahaaraa Mujhko Teraa, Hamri Laaj Bachaanaa || 1 ||"
     ],
     [
       "Kanchan Kaamini Kirti Jag Ki, Ye Hain Shatru Bhaari.",
-      "Raakh Lehu Tum In Se Mujhko, He Hari Kripaa Nidhaanaa || 2 ||."
+      "Raakh Lehu Tum In Se Mujhko, He Hari Kripaa Nidhaanaa || 2 ||"
     ],
     [
       "Kaam Krodh Puni Lobh Moh Mad, Matsar Mamtaa Maayaa.",
-      "Mukti Pan‍Th Men Ye Hain Kantak, Inko Dur Hataanaa ||.3 ||"
+      "Mukti Pan‍Tha Men Ye Hain Kantak, Inko Dur Hataanaa || 3 ||"
     ],
     [
       "Tin Inshnaa Tin Vaasnaa, Tin Lajjaa Gun Tinon.",
-      "In Bandhanon Se Mohi Chhuraake, Apnaa Daas Banaanaa || 4. ||."
+      "In Bandhanon Se Mohi Chhuraake, Apnaa Daas Banaanaa || 4 ||"
     ],
     [
       "Sab Doshon Ki Janni Avidyaa, Puni Mundhon Ki Sangti.",
-      "In Donon Se Mohi Bachaake, Santon Sang Basaanaa || 5 ||."
+      "In Donon Se Mohi Bachaake, Santon Sang Basaanaa || 5 ||"
     ],
     [
-      "Kahe Teun Main Aur N Maangun, Maangun Tum Se Yehi.",
-      "Anany Bhakti De Hari Mujhko, Apne Saath Milaanaa || 6. ||."
+      "Kahe Teun Main Aur Na Maangun, Maangun Tum Se Yehi.",
+      "Anany Bhakti De Hari Mujhko, Apne Saath Milaanaa || 6 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 91 || 306 ||",
+    "एही मेरा अर्ज़ अघाना, हे समर्थ भगवाना",
     "Ehi Meraa Arz Aghaanaa, He Samarth Bhagvaanaa",
-    "ेहि मेरा रz घाना, हे समरथ भगवाना"
+    "राग भैरवी भजन 91",
+    "Raag Bhairvi Bhajan 91"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 306,
+  "displayOrder": 91,
+  "overallOrder": 306,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 185",
+  "updatedAt": "2026-10-26"
 }

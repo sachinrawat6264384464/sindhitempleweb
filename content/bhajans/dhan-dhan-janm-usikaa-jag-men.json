@@ -1,61 +1,102 @@
 {
-  "id": "bhajan-0501",
+  "id": "bhajan-0500",
   "slug": "dhan-dhan-janm-usikaa-jag-men",
   "categoryId": "raag-kohiyaari",
-  "title": "धन धन जनम ुसिका जग मेन",
-  "romanTitle": "Dhan Dhan Janm Usikaa Jag Men",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "धन धन जन्म उसीका जग में,",
+  "romanTitle": "Dhan Dhan Janm Usikaa Jag Men,",
   "firstLine": "Dhan Dhan Janm Usikaa Jag Men,",
+  "heading": "।। राग कोद्यारी भजन ।। २१ ।। ५०१।॥।",
+  "tek": [
+    "धन धन जन्म उसीका जग में,",
+    "जो नित भक्ति कमावे, हरि गुन गावे ॥ टेक) ।"
+  ],
+  "romanTek": [
+    "Dhan Dhan Janm Usikaa Jag Men,",
+    "Jo Nit Bhakti Kamaave, Hari Gun Gaave )."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रद्धा धार चले सत्संग में, सन्त चरन शिर नावे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Dhaar Chale Satsang Men, Sant Charan Shir Naave || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्न्तों की अति सेवा करके, मन का मान मिटावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pnton Ki Ati Sevaa Karke, Man Kaa Maan Mitaave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पन्‍्तों की नित बानी सुनके, हृदय माहिं हंडावे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pan‍Ton Ki Nit Baani Sunke, Hriday Maahin Handaave || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पर टेऊँ सन्त शरन में, परमानन्द को पावे ॥ ।४ ॥9 ॥"
+      ],
+      "romanLines": [
+        "Par Teun Sant Sharan Men, Parmaanand Ko Paave || 4 || 9 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धन धन जनम ुसिका जग मेन,",
-      "जो नित भक्ति कमावे, हरि गुन गावे )."
+      "श्रद्धा धार चले सत्संग में, सन्त चरन शिर नावे ॥१ ॥"
     ],
     [
-      "शरदधा धार चले सत्संग मेन, संत चरण शिर नावे || 1 ||."
+      "प्न्तों की अति सेवा करके, मन का मान मिटावे ॥२ ॥"
     ],
     [
-      "पनतोन कि ति सेवा करके, मन का मान मितावे || 2 ||."
+      "पन्‍्तों की नित बानी सुनके, हृदय माहिं हंडावे ॥३ ॥"
     ],
     [
-      "पनतोन कि नित बानी सुनके, हरिदय माहिन हनदावे || 3 ||."
-    ],
-    [
-      "पर तेऊँ संत शरन मेन, परमाननद को पावे ||.49.",
-      "गज"
+      "पर टेऊँ सन्त शरन में, परमानन्द को पावे ॥ ।४ ॥9 ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dhan Dhan Janm Usikaa Jag Men,",
-      "Jo Nit Bhakti Kamaave, Hari Gun Gaave )."
+      "Shraddhaa Dhaar Chale Satsang Men, Sant Charan Shir Naave || 1 ||"
     ],
     [
-      "Shraddhaa Dhaar Chale Satsang Men, Sant Charan Shir Naave || 1 ||."
+      "Pnton Ki Ati Sevaa Karke, Man Kaa Maan Mitaave || 2 ||"
     ],
     [
-      "Pnton Ki Ati Sevaa Karke, Man Kaa Maan Mitaave || 2 ||."
+      "Pan‍Ton Ki Nit Baani Sunke, Hriday Maahin Handaave || 3 ||"
     ],
     [
-      "Pan‍Ton Ki Nit Baani Sunke, Hriday Maahin Handaave || 3 ||."
-    ],
-    [
-      "Par Teun Sant Sharan Men, Parmaanand Ko Paave ||.49.",
-      "Gaj"
+      "Par Teun Sant Sharan Men, Parmaanand Ko Paave || 4 || 9 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kodyaari Bhajan || 21 || 501. ||.",
-    "Dhan Dhan Janm Usikaa Jag Men",
-    "धन धन जनम ुसिका जग मेन"
+    "धन धन जन्म उसीका जग में,",
+    "Dhan Dhan Janm Usikaa Jag Men,",
+    "राग कोहियारी भजन 21",
+    "Raag Kohiyaari Bhajan 21"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 501,
+  "displayOrder": 21,
+  "overallOrder": 500,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 279",
+  "updatedAt": "2026-10-26"
 }

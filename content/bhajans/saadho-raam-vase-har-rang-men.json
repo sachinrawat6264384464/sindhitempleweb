@@ -2,48 +2,90 @@
   "id": "bhajan-0384",
   "slug": "saadho-raam-vase-har-rang-men",
   "categoryId": "raag-tilang",
-  "title": "साधो राम वसे हर रनग मेन",
-  "romanTitle": "Saadho Raam Vase Har Rang Men",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "साधो राम वसे हर रंग में,",
+  "romanTitle": "Saadho Raam Vase Har Rang Men,",
   "firstLine": "Saadho Raam Vase Har Rang Men,",
+  "heading": "।। राग तिलंग भजन ।। २१ ।। ३८५॥।",
+  "tek": [
+    "साधो राम वसे हर रंग में,",
+    "राम रंग बिन रंग न खाली, रंग रंग में लालन की लाली ।",
+    "देख देख मति भई मतिवाली , झूम रहा झर झंग में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho Raam Vase Har Rang Men,",
+    "Raam Rang Bin Rang Na Khaali, Rang Rang Men Laalan Ki Laali.",
+    "Dekh Dekh Mati Bhai Mativaali, Jhum Rahaa Jhar Jhang Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जेते रंग इस जगत मंजझारे, राम रंग से शोभत सारे ।",
+        "तिस बिन सकले रंग असारे, पढ़ देखो प्रसंग में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jete Rang Is Jagat Manjjhaare, Raam Rang Se Shobhat Saare.",
+        "Tis Bin Sakle Rang Asaare, Parh Dekho Prasang Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चान्द सूर में चमके सोई, दामिनि में भी दमके सोई ।",
+        "सब ज्योतियों में झमके सोई, झलकत नाना नंग में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chaand Sur Men Chamke Soi, Daamini Men Bhi Damke Soi.",
+        "Sab Jyotiyon Men Jhamke Soi, Jhalkat Naanaa Nang Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देखत नैनों से दीदारा, बोलत मुख से वचन अपारा ।",
+        "सुनत शब्द श्रवण से सारा, फैल रहा अंग अंग में ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Dekhat Nainon Se Didaaraa, Bolat Mukh Se Vachan Apaaraa.",
+        "Sunat Shabd Shravan Se Saaraa, Phail Rahaa Ang Ang Men || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सागर लहरों के भी अन्तर, झूल रहा है राम निरन्तर ।",
+        "कहे टेऊँ ले तिसका मन्तर, सुमरो सत्‌गुरु संग में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Saagar Lahron Ke Bhi Antar, Jhul Rahaa Hai Raam Nirantar.",
+        "Kahe Teun Le Tiskaa Mantar, Sumro Sat‌Guru Sang Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधो राम वसे हर रनग मेन,",
-      "राम रनग बिन रनग न खालि, रनग रनग मेन लालन कि लालि."
+      "जेते रंग इस जगत मंजझारे, राम रंग से शोभत सारे ।",
+      "तिस बिन सकले रंग असारे, पढ़ देखो प्रसंग में ॥१ ॥"
     ],
     [
-      "देख देख मति भै मतिवालि, झुम रहा झर झनग मेन (टेक)."
+      "चान्द सूर में चमके सोई, दामिनि में भी दमके सोई ।",
+      "सब ज्योतियों में झमके सोई, झलकत नाना नंग में ॥२ ॥"
     ],
     [
-      "जेते रनग िस जगत मनजझारे, राम रनग से शोभत सारे.",
-      "तिस बिन सकले रनग सारे, परह देखो परसनग मेन || 1. ||."
+      "देखत नैनों से दीदारा, बोलत मुख से वचन अपारा ।",
+      "सुनत शब्द श्रवण से सारा, फैल रहा अंग अंग में ॥ ३े ॥"
     ],
     [
-      "चानद सुर मेन चमके सोि, दामिनि मेन भि दमके सोि.",
-      "सब जयोतियोन मेन झमके सोि, झलकत नाना ननग मेन || 2 ||"
-    ],
-    [
-      "देखत नैनोन से दिदारा, बोलत मुख से वचन पारा.",
-      "सुनत शबद शरवन से सारा, फैल रहा नग नग मेन || 3े ||"
-    ],
-    [
-      "सागर लहरोन के भि नतर, झुल रहा है राम निरनतर.",
-      "कहे तेऊँ ले तिसका मनतर, सुमरो सतगुरु सनग मेन || 4 ||."
-    ],
-    [
-      "तर"
+      "सागर लहरों के भी अन्तर, झूल रहा है राम निरन्तर ।",
+      "कहे टेऊँ ले तिसका मन्तर, सुमरो सत्‌गुरु संग में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadho Raam Vase Har Rang Men,",
-      "Raam Rang Bin Rang N Khaali, Rang Rang Men Laalan Ki Laali."
-    ],
-    [
-      "Dekh Dekh Mati Bhai Mativaali, Jhum Rahaa Jhar Jhang Men (Tek)."
-    ],
-    [
       "Jete Rang Is Jagat Manjjhaare, Raam Rang Se Shobhat Saare.",
-      "Tis Bin Sakle Rang Asaare, Parh Dekho Prasang Men || 1. ||."
+      "Tis Bin Sakle Rang Asaare, Parh Dekho Prasang Men || 1 ||"
     ],
     [
       "Chaand Sur Men Chamke Soi, Daamini Men Bhi Damke Soi.",
@@ -55,25 +97,24 @@
     ],
     [
       "Saagar Lahron Ke Bhi Antar, Jhul Rahaa Hai Raam Nirantar.",
-      "Kahe Teun Le Tiskaa Mantar, Sumro Sat‌Guru Sang Men || 4 ||."
-    ],
-    [
-      "Tar"
+      "Kahe Teun Le Tiskaa Mantar, Sumro Sat‌Guru Sang Men || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 21 || 385 ||.",
-    "Saadho Raam Vase Har Rang Men",
-    "साधो राम वसे हर रनग मेन"
+    "साधो राम वसे हर रंग में,",
+    "Saadho Raam Vase Har Rang Men,",
+    "राग तिलंग भजन 21",
+    "Raag Tilang Bhajan 21"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 384,
+  "displayOrder": 21,
+  "overallOrder": 384,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 225",
+  "updatedAt": "2026-10-26"
 }

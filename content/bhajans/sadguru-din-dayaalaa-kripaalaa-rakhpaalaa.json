@@ -2,97 +2,133 @@
   "id": "bhajan-0391",
   "slug": "sadguru-din-dayaalaa-kripaalaa-rakhpaalaa",
   "categoryId": "raag-tilang",
-  "title": "सद्गुरु दीन दयाला करिपाला रखपाला",
-  "romanTitle": "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa",
-  "firstLine": "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa, Meraa Dukh Harije Devaa (Tek).",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सद्‌गुरु दीन दयाला कृपाला रखपाला,",
+  "romanTitle": "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa,",
+  "firstLine": "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa,",
+  "heading": "।। राग तिलंग भजन ।। २८ ।। ३९२।।",
+  "tek": [
+    "सद्‌गुरु दीन दयाला कृपाला रखपाला,",
+    "मेरा दूख हरीजे देवा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa,",
+    "Meraa Dukh Harije Devaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं पापी तुम पातक हर्ता, मैं मेला तुम निर्मल कर्ता ।",
+        "भगवन्‌ बख्शणहारा दातारा हितकारा,",
+        "मन शान्ति भरीजे देवा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Paapi Tum Paatak Hartaa, Main Melaa Tum Nirmal Kartaa.",
+        "Bhagvan‌ Bakhshanhaaraa Daataaraa Hitkaaraa,",
+        "Man Shaanti Bharije Devaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं हूँ बालक तुम पितु माता, मैं हूँ मूरख तुम हो ज्ञाता ।",
+        "पूरण पर उपकारी भयहारी दुखटारी,",
+        "जम जाल जरीजे देवा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Baalak Tum Pitu Maataa, Main Hun Murakh Tum Ho Jnyaataa.",
+        "Puran Par Upkaari Bhayhaari Dukhtaari,",
+        "Jam Jaal Jarije Devaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं लोहा तुम सद्गुरु बेड़ा, मुझको एक आसरा तेरा ।",
+        "भव से पार तराओ अब आओ उर लाओ,",
+        "सिर हाथ धरीजे देवा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Lohaa Tum Sadguru Beraa, Mujhko Ek Aasraa Teraa.",
+        "Bhav Se Paar Taraao Ab Aao Ur Laao,",
+        "Sir Haath Dharije Devaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं शरण तुम्हारी, सद्गुरु राखो पैज हमारी ।",
+        "अपना किडर कीजे रख लीजे भय छीजे,",
+        "सब काज करीजे देवा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Sharan Tumhaari, Sadguru Raakho Paij Hamaari.",
+        "Apnaa Kidar Kije Rakh Lije Bhay Chhije,",
+        "Sab Kaaj Karije Devaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु दीन दयाला करिपाला रखपाला,",
-      "मेरा दुःख हरिजे देवा (टेक)."
+      "मैं पापी तुम पातक हर्ता, मैं मेला तुम निर्मल कर्ता ।",
+      "भगवन्‌ बख्शणहारा दातारा हितकारा,",
+      "मन शान्ति भरीजे देवा ॥१ ॥"
     ],
     [
-      "मैं पापि तुम पातक हरता, मैं मेला तुम निर्मल करता.",
-      "भगवन‌ बखशनहारा दातारा हितकारा,"
+      "मैं हूँ बालक तुम पितु माता, मैं हूँ मूरख तुम हो ज्ञाता ।",
+      "पूरण पर उपकारी भयहारी दुखटारी,",
+      "जम जाल जरीजे देवा ॥२ ॥"
     ],
     [
-      "मन शांति भरिजे देवा || 1 ||."
+      "मैं लोहा तुम सद्गुरु बेड़ा, मुझको एक आसरा तेरा ।",
+      "भव से पार तराओ अब आओ उर लाओ,",
+      "सिर हाथ धरीजे देवा ॥३ ॥"
     ],
     [
-      "मैं हुन बालक तुम पितु माता, मैं हुन मुरख तुम हो जनयाता.",
-      "पुरन पर ुपकारि भयहारि दुखतारि,"
-    ],
-    [
-      "जम जाल जरिजे देवा || 2 ||."
-    ],
-    [
-      "मैं लोहा तुम सद्गुरु बेरा, मुझको ेक ासरा तेरा.",
-      "भव से पार तराो ब ाो ुर लाो,"
-    ],
-    [
-      "सिर हाथ धरिजे देवा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ मैं शरन तुमहारि, सद्गुरु राखो पैज हमारि.",
-      "पना किदर किजे रख लिजे भय चहिजे,"
-    ],
-    [
-      "सब काज करिजे देवा || 4. ||."
-    ],
-    [
-      "ुथ"
+      "कहे टेऊँ मैं शरण तुम्हारी, सद्गुरु राखो पैज हमारी ।",
+      "अपना किडर कीजे रख लीजे भय छीजे,",
+      "सब काज करीजे देवा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa,",
-      "Meraa Dukh Harije Devaa (Tek)."
-    ],
-    [
       "Main Paapi Tum Paatak Hartaa, Main Melaa Tum Nirmal Kartaa.",
-      "Bhagvan‌ Bakhshanhaaraa Daataaraa Hitkaaraa,"
-    ],
-    [
-      "Man Shaanti Bharije Devaa || 1 ||."
+      "Bhagvan‌ Bakhshanhaaraa Daataaraa Hitkaaraa,",
+      "Man Shaanti Bharije Devaa || 1 ||"
     ],
     [
       "Main Hun Baalak Tum Pitu Maataa, Main Hun Murakh Tum Ho Jnyaataa.",
-      "Puran Par Upkaari Bhayhaari Dukhtaari,"
-    ],
-    [
-      "Jam Jaal Jarije Devaa || 2 ||."
+      "Puran Par Upkaari Bhayhaari Dukhtaari,",
+      "Jam Jaal Jarije Devaa || 2 ||"
     ],
     [
       "Main Lohaa Tum Sadguru Beraa, Mujhko Ek Aasraa Teraa.",
-      "Bhav Se Paar Taraao Ab Aao Ur Laao,"
-    ],
-    [
+      "Bhav Se Paar Taraao Ab Aao Ur Laao,",
       "Sir Haath Dharije Devaa || 3 ||"
     ],
     [
       "Kahe Teun Main Sharan Tumhaari, Sadguru Raakho Paij Hamaari.",
-      "Apnaa Kidar Kije Rakh Lije Bhay Chhije,"
-    ],
-    [
-      "Sab Kaaj Karije Devaa || 4. ||."
-    ],
-    [
-      "Uth"
+      "Apnaa Kidar Kije Rakh Lije Bhay Chhije,",
+      "Sab Kaaj Karije Devaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 28 || 392 ||",
-    "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa",
-    "सद्गुरु दीन दयाला करिपाला रखपाला"
+    "सद्‌गुरु दीन दयाला कृपाला रखपाला,",
+    "Sad‌Guru Din Dayaalaa Kripaalaa Rakhpaalaa,",
+    "राग तिलंग भजन 28",
+    "Raag Tilang Bhajan 28"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 391,
+  "displayOrder": 28,
+  "overallOrder": 391,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 229",
+  "updatedAt": "2026-10-26"
 }

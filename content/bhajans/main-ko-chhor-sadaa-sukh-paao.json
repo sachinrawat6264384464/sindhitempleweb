@@ -1,41 +1,106 @@
 {
-  "id": "bhajan-0504",
+  "id": "bhajan-0503",
   "slug": "main-ko-chhor-sadaa-sukh-paao",
   "categoryId": "raag-kohiyaari",
-  "title": "मैं को चहोर सदा सुख पाो",
-  "romanTitle": "Main Ko Chhor Sadaa Sukh Paao",
-  "firstLine": "Main Ko Chhor Sadaa Sukh Paao, Gaaphil Kar N Gumaanaa, Samajh Siyaanaa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "मैं को छोड़ सदा सुख पाओ,",
+  "romanTitle": "Main Ko Chhor Sadaa Sukh Paao,",
+  "firstLine": "Main Ko Chhor Sadaa Sukh Paao,",
+  "heading": "।। राग कोह्यारी भजन ॥।। २४ ।। ५०४।॥।",
+  "tek": [
+    "मैं को छोड़ सदा सुख पाओ,",
+    "गाफिल कर न गुमाना, समझ सियाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Ko Chhor Sadaa Sukh Paao,",
+    "Gaaphil Kar Na Gumaanaa, Samajh Siyaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गजल",
+        "मैं में करके योगी भूले, बड़े बड़े विद्वाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gajal",
+        "Main Men Karke Yogi Bhule, Bare Bare Vidvaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं में करके तपस्वी गिर गये, शूरवीर बलवाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Main Men Karke Tapasvi Gir Gaye, Shurvir Balvaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं मैं करके केते मर गये, सालिक शाह सुल्ताना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Main Karke Kete Mar Gaye, Saalik Shaah Sultaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिसने मैं मारी, सोई सन्त सुजाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jisne Main Maari, Soi Sant Sujaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं को चहोर सदा सुख पाो,",
-      "गाफिल कर न गुमाना, समझ सियाना (टेक)."
+      "गजल",
+      "मैं में करके योगी भूले, बड़े बड़े विद्वाना ॥१ ॥"
     ],
     [
-      "गजल"
+      "मैं में करके तपस्वी गिर गये, शूरवीर बलवाना ॥२ ॥"
+    ],
+    [
+      "मैं मैं करके केते मर गये, सालिक शाह सुल्ताना ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ जिसने मैं मारी, सोई सन्त सुजाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Ko Chhor Sadaa Sukh Paao,",
-      "Gaaphil Kar N Gumaanaa, Samajh Siyaanaa (Tek)."
+      "Gajal",
+      "Main Men Karke Yogi Bhule, Bare Bare Vidvaanaa || 1 ||"
     ],
     [
-      "Gajal"
+      "Main Men Karke Tapasvi Gir Gaye, Shurvir Balvaanaa || 2 ||"
+    ],
+    [
+      "Main Main Karke Kete Mar Gaye, Saalik Shaah Sultaanaa || 3 ||"
+    ],
+    [
+      "Kahe Teun Jisne Main Maari, Soi Sant Sujaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohyaari Bhajan || || 24 || 504. ||.",
-    "Main Ko Chhor Sadaa Sukh Paao",
-    "मैं को चहोर सदा सुख पाो"
+    "मैं को छोड़ सदा सुख पाओ,",
+    "Main Ko Chhor Sadaa Sukh Paao,",
+    "राग कोहियारी भजन 24",
+    "Raag Kohiyaari Bhajan 24"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 504,
+  "displayOrder": 24,
+  "overallOrder": 503,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 280",
+  "updatedAt": "2026-10-26"
 }

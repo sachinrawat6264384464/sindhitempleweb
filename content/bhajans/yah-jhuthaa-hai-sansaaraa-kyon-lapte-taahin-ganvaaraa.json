@@ -1,73 +1,135 @@
 {
   "id": "bhajan-0257",
   "slug": "yah-jhuthaa-hai-sansaaraa-kyon-lapte-taahin-ganvaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "यह झुथा है सनसारा, कयोन लपते ताहिन गनवारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "यह झूठा है संसारा, क्यों लपटे ताहिं गंवारा",
   "romanTitle": "Yah Jhuthaa Hai Sansaaraa, Kyon Lapte Taahin Ganvaaraa",
   "firstLine": "Yah Jhuthaa Hai Sansaaraa, Kyon Lapte Taahin Ganvaaraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ४२ ।। २५७।।",
+  "tek": [
+    "यह झूठा है संसारा, क्यों लपटे ताहिं गंवारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Jhuthaa Hai Sansaaraa, Kyon Lapte Taahin Ganvaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्यों धात्री सुतनि सुनाया, अनहोता प्रसंग गाया ।",
+        "तां सुन सुन सुत हर्षाया, ना तरु सर नगरी दारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jyon Dhaatri Sutni Sunaayaa, Anhotaa Prasang Gaayaa.",
+        "Taan Sun Sun Sut Harshaayaa, Naa Taru Sar Nagri Daaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिमि चाकर घट सिर चाया, बहु मन में ठाठ बनाया ।",
+        "खुश होके सीस हिलाया, घट गिरते रोया भारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jimi Chaakar Ghat Sir Chaayaa, Bahu Man Men Thaath Banaayaa.",
+        "Khush Hoke Sis Hilaayaa, Ghat Girte Royaa Bhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज्यों मंगता इक दिन सोया, सोते ही स्वपना जोया ।",
+        "बहु सम्पति राज अलोया, जब जागे फिर पेनारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jyon Mangtaa Ik Din Soyaa, Sote Hi Svapnaa Joyaa.",
+        "Bahu Sampati Raaj Aloyaa, Jab Jaage Phir Penaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ज्यों सर्प रज्जू में भासे, पुनि रजत सीप प्रकासे ।",
+        "जग तेसे ब्रह्मा विभासे, यह वेदों का वीचारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jyon Sarp Rajju Men Bhaase, Puni Rajat Sip Prakaase.",
+        "Jag Tese Brahmaa Vibhaase, Yah Vedon Kaa Vichaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "जग सारा कल्पित मानो, सत्‌ आतम को पहिचानो ।",
+        "कहे टेऊँ आतम जानो, तज कल्पित जगत असारा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Jag Saaraa Kalpit Maano, Sat‌ Aatam Ko Pahichaano.",
+        "Kahe Teun Aatam Jaano, Taj Kalpit Jagat Asaaraa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह झुथा है सनसारा, कयोन लपते ताहिन गनवारा (टेक)."
+      "ज्यों धात्री सुतनि सुनाया, अनहोता प्रसंग गाया ।",
+      "तां सुन सुन सुत हर्षाया, ना तरु सर नगरी दारा ॥१ ॥"
     ],
     [
-      "जयोन धातरि सुतनि सुनाया, नहोता परसनग गाया.",
-      "तान सुन सुन सुत हरशाया, ना तरु सर नगरि दारा.1 ||"
+      "जिमि चाकर घट सिर चाया, बहु मन में ठाठ बनाया ।",
+      "खुश होके सीस हिलाया, घट गिरते रोया भारा ॥२ ॥"
     ],
     [
-      "जिमि चाकर घत सिर चाया, बहु मन मेन थाथ बनाया.",
-      "खुश होके सिस हिलाया, घत गिरते रोया भारा || 2 ||."
+      "ज्यों मंगता इक दिन सोया, सोते ही स्वपना जोया ।",
+      "बहु सम्पति राज अलोया, जब जागे फिर पेनारा ॥३ ॥"
     ],
     [
-      "जयोन मनगता िक दीन सोया, सोते हि सवपना जोया.",
-      "बहु समपति राज लोया, जब जागे फिर पेनारा || 3 ||."
+      "ज्यों सर्प रज्जू में भासे, पुनि रजत सीप प्रकासे ।",
+      "जग तेसे ब्रह्मा विभासे, यह वेदों का वीचारा ॥४ ॥"
     ],
     [
-      "जयोन सरप रजजु मेन भासे, पुनि रजत सिप परकासे.",
-      "जग तेसे बरहम विभासे, यह वेदोन का विचारा || 4 ||"
-    ],
-    [
-      "जग सारा कलपित मानो, सत‌ ातम को पहिचानो.",
-      "कहे तेऊँ ातम जानो, तज कलपित जगत सारा || 5 ||."
+      "जग सारा कल्पित मानो, सत्‌ आतम को पहिचानो ।",
+      "कहे टेऊँ आतम जानो, तज कल्पित जगत असारा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Jhuthaa Hai Sansaaraa, Kyon Lapte Taahin Ganvaaraa (Tek)."
-    ],
-    [
       "Jyon Dhaatri Sutni Sunaayaa, Anhotaa Prasang Gaayaa.",
-      "Taan Sun Sun Sut Harshaayaa, Naa Taru Sar Nagri Daaraa.1 ||"
+      "Taan Sun Sun Sut Harshaayaa, Naa Taru Sar Nagri Daaraa || 1 ||"
     ],
     [
       "Jimi Chaakar Ghat Sir Chaayaa, Bahu Man Men Thaath Banaayaa.",
-      "Khush Hoke Sis Hilaayaa, Ghat Girte Royaa Bhaaraa || 2 ||."
+      "Khush Hoke Sis Hilaayaa, Ghat Girte Royaa Bhaaraa || 2 ||"
     ],
     [
       "Jyon Mangtaa Ik Din Soyaa, Sote Hi Svapnaa Joyaa.",
-      "Bahu Sampati Raaj Aloyaa, Jab Jaage Phir Penaaraa || 3 ||."
+      "Bahu Sampati Raaj Aloyaa, Jab Jaage Phir Penaaraa || 3 ||"
     ],
     [
       "Jyon Sarp Rajju Men Bhaase, Puni Rajat Sip Prakaase.",
-      "Jag Tese Brahma Vibhaase, Yah Vedon Kaa Vichaaraa || 4 ||"
+      "Jag Tese Brahmaa Vibhaase, Yah Vedon Kaa Vichaaraa || 4 ||"
     ],
     [
       "Jag Saaraa Kalpit Maano, Sat‌ Aatam Ko Pahichaano.",
-      "Kahe Teun Aatam Jaano, Taj Kalpit Jagat Asaaraa || 5 ||."
+      "Kahe Teun Aatam Jaano, Taj Kalpit Jagat Asaaraa || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 42 || 257 ||",
+    "यह झूठा है संसारा, क्यों लपटे ताहिं गंवारा",
     "Yah Jhuthaa Hai Sansaaraa, Kyon Lapte Taahin Ganvaaraa",
-    "यह झुथा है सनसारा, कयोन लपते ताहिन गनवारा"
+    "राग भैरवी भजन 42",
+    "Raag Bhairvi Bhajan 42"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 257,
+  "displayOrder": 42,
+  "overallOrder": 257,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 160",
+  "updatedAt": "2026-10-26"
 }

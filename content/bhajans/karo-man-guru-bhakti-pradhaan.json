@@ -2,65 +2,102 @@
   "id": "bhajan-0209",
   "slug": "karo-man-guru-bhakti-pradhaan",
   "categoryId": "raag-tori",
-  "title": "करो मन गुरु भक्ति परधान",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "करो मन गुरु भक्ती प्रधान",
   "romanTitle": "Karo Man Guru Bhakti Pradhaan",
-  "firstLine": "Karo Man Guru Bhakti Pradhaan. Guru Bhakti Ki Mahimaa Kahte Shaastr Sant Sujaan (Tek).",
+  "firstLine": "Karo Man Guru Bhakti Pradhaan.",
+  "heading": "।। राग टोड़ी भजन ।। १७ ।। २०९।।",
+  "tek": [
+    "करो मन गुरु भक्ती प्रधान ।",
+    "गुरु भक्ती की महिमा कहते शास्त्र सन्त सुजान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Man Guru Bhakti Pradhaan.",
+    "Guru Bhakti Ki Mahimaa Kahte Shaastr Sant Sujaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पूरण श्रद्धा गुरु में धारे सेव करो तज मान ।",
+        "पाद पद्म पर दण्डबत करके लीजे आतम ज्ञान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Puran Shraddhaa Guru Men Dhaare Sev Karo Taj Maan.",
+        "Paad Padm Par Dandabat Karke Lije Aatam Gyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "्ठ्ह",
+        "तर्क तजे विश्वास धरे उर मानो गुरु फरमान ।",
+        "गुरु ऊपर तुम सर्वस्व वारे तन मन धन दे दान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Thh",
+        "Tark Taje Vishvaas Dhare Ur Maano Guru Pharmaan.",
+        "Guru Upar Tum Sarvasv Vaare Tan Man Dhan De Daan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पारब्रह्म का रूप समझ कर धरले गुरु का ध्यान ।",
+        "कहता टेऊँ इस विधि तेरा निश्चय हो कल्यान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paarabrahm Kaa Rup Samajh Kar Dharle Guru Kaa Dhyaan.",
+        "Kahtaa Teun Is Vidhi Teraa Nishchay Ho Kalyaan || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो मन गुरु भक्ति परधान.",
-      "गुरु भक्ति कि महिमा कहते शासतर संत सुजान (टेक)."
+      "पूरण श्रद्धा गुरु में धारे सेव करो तज मान ।",
+      "पाद पद्म पर दण्डबत करके लीजे आतम ज्ञान ॥१ ॥"
     ],
     [
-      "पुरन शरदधा गुरु मेन धारे सेव करो तज मान.",
-      "पाद पदम पर दनदबत करके लिजे ातम ज्ञान.1 ||"
+      "्ठ्ह",
+      "तर्क तजे विश्वास धरे उर मानो गुरु फरमान ।",
+      "गुरु ऊपर तुम सर्वस्व वारे तन मन धन दे दान ॥२ ॥"
     ],
     [
-      "थह",
-      "तरक तजे विशवास धरे ुर मानो गुरु फरमान."
-    ],
-    [
-      "गुरु ुपर तुम सरवसव वारे तन मन धन दे दान || 2 ||."
-    ],
-    [
-      "पारबरहम का रुप समझ कर धरले गुरु का ध्यान.",
-      "कहता तेऊँ िस विधि तेरा निशचय हो कलयान || 3 ||."
+      "पारब्रह्म का रूप समझ कर धरले गुरु का ध्यान ।",
+      "कहता टेऊँ इस विधि तेरा निश्चय हो कल्यान ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Man Guru Bhakti Pradhaan.",
-      "Guru Bhakti Ki Mahimaa Kahte Shaastr Sant Sujaan (Tek)."
-    ],
-    [
       "Puran Shraddhaa Guru Men Dhaare Sev Karo Taj Maan.",
-      "Paad Padm Par Dandabat Karke Lije Aatam Jnyaan.1 ||"
+      "Paad Padm Par Dandabat Karke Lije Aatam Gyaan || 1 ||"
     ],
     [
       "Thh",
-      "Tark Taje Vishvaas Dhare Ur Maano Guru Pharmaan."
-    ],
-    [
-      "Guru Upar Tum Sarvasv Vaare Tan Man Dhan De Daan || 2 ||."
+      "Tark Taje Vishvaas Dhare Ur Maano Guru Pharmaan.",
+      "Guru Upar Tum Sarvasv Vaare Tan Man Dhan De Daan || 2 ||"
     ],
     [
       "Paarabrahm Kaa Rup Samajh Kar Dharle Guru Kaa Dhyaan.",
-      "Kahtaa Teun Is Vidhi Teraa Nishchay Ho Kalyaan || 3 ||."
+      "Kahtaa Teun Is Vidhi Teraa Nishchay Ho Kalyaan || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 17 || 209 ||",
+    "करो मन गुरु भक्ती प्रधान",
     "Karo Man Guru Bhakti Pradhaan",
-    "करो मन गुरु भक्ति परधान"
+    "राग तोड़ी भजन 17",
+    "Raag Tori Bhajan 17"
   ],
   "tags": [
-    "tori",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
     "bhajan"
   ],
-  "displayOrder": 209,
+  "displayOrder": 17,
+  "overallOrder": 209,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 132",
+  "updatedAt": "2026-10-26"
 }

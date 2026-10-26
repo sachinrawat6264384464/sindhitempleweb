@@ -1,69 +1,118 @@
 {
-  "id": "bhajan-0659",
+  "id": "bhajan-0657",
   "slug": "guru-hai-hamaaraa-prabhu-kaa-piyaaraa",
   "categoryId": "raag-pahaari",
-  "title": "गुरु है हमारा, प्रभु का पियारा",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "गुरू है हमारा, प्रभू का पियारा",
   "romanTitle": "Guru Hai Hamaaraa, Prabhu Kaa Piyaaraa",
-  "firstLine": "Guru Hai Hamaaraa, Prabhu Kaa Piyaaraa. Dhare Sis Taan Pag, Karun Main Juhaaraa (Tek).",
+  "firstLine": "Guru Hai Hamaaraa, Prabhu Kaa Piyaaraa.",
+  "heading": "।। राग पहाड़ी भजन ।। १० ।। ६५८",
+  "tek": [
+    "गुरू है हमारा, प्रभू का पियारा ।",
+    "धरे सीस तां पग, करूं मैं जुहारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Hai Hamaaraa, Prabhu Kaa Piyaaraa.",
+    "Dhare Sis Taan Pag, Karun Main Juhaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्ञानी ध्यानी, अभय दान दानी ।",
+        "कथे ब्रह्म बानी, हरत श्रम सारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jnyaani Dhyaani, Abhay Daan Daani.",
+        "Kathe Brahm Baani, Harat Shram Saaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "त्यागी विरागी, निजातम रागी ।",
+        "श्रुति के सुजागी, रहत निर्विकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tyaagi Viraagi, Nijaatam Raagi.",
+        "Shruti Ke Sujaagi, Rahat Nirvikaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "करुणाकर कृपालू, दीनों पर दयालू ।",
+        "करत शिष्य निहालू, लगावत न बारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Karunaakar Kripaalu, Dinon Par Dayaalu.",
+        "Karat Shishy Nihaalu, Lagaavat Na Baaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "टेऊँ ब्रह्मा रूपा, सदा शिव स्वरूपा ।",
+        "अनामी अरूपा, अखण्ड है अपारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Teun Brahmaa Rupaa, Sadaa Shiv Svarupaa.",
+        "Anaami Arupaa, Akhand Hai Apaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु है हमारा, प्रभु का पियारा.",
-      "धरे सिस तान पग, करुन मैं जुहारा (टेक)."
+      "ज्ञानी ध्यानी, अभय दान दानी ।",
+      "कथे ब्रह्म बानी, हरत श्रम सारा ॥१ ॥"
     ],
     [
-      "जनयानि धयानि, भय दान दानि.",
-      "कथे बरहम बानी, हरत शरम सारा.1 ||."
+      "त्यागी विरागी, निजातम रागी ।",
+      "श्रुति के सुजागी, रहत निर्विकारा ॥२ ॥"
     ],
     [
-      "तयागि विरागि, निजातम रागि.",
-      "शरुति के सुजागि, रहत निरविकारा || 2 ||."
+      "करुणाकर कृपालू, दीनों पर दयालू ।",
+      "करत शिष्य निहालू, लगावत न बारा ॥३ ॥"
     ],
     [
-      "करुनाकर करिपालु, दिनोन पर दयालु.",
-      "करत शिशय निहालु, लगावत न बारा || 3े ||"
-    ],
-    [
-      "तेऊँ बरहम रुपा, सदा शिव सवरुपा.",
-      "नामि रुपा, खनद है पारा ||.4 ||"
+      "टेऊँ ब्रह्मा रूपा, सदा शिव स्वरूपा ।",
+      "अनामी अरूपा, अखण्ड है अपारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Hai Hamaaraa, Prabhu Kaa Piyaaraa.",
-      "Dhare Sis Taan Pag, Karun Main Juhaaraa (Tek)."
-    ],
-    [
       "Jnyaani Dhyaani, Abhay Daan Daani.",
-      "Kathe Brahm Baani, Harat Shram Saaraa.1 ||."
+      "Kathe Brahm Baani, Harat Shram Saaraa || 1 ||"
     ],
     [
       "Tyaagi Viraagi, Nijaatam Raagi.",
-      "Shruti Ke Sujaagi, Rahat Nirvikaaraa || 2 ||."
+      "Shruti Ke Sujaagi, Rahat Nirvikaaraa || 2 ||"
     ],
     [
       "Karunaakar Kripaalu, Dinon Par Dayaalu.",
-      "Karat Shishy Nihaalu, Lagaavat N Baaraa || 3E ||"
+      "Karat Shishy Nihaalu, Lagaavat Na Baaraa || 3 ||"
     ],
     [
-      "Teun Brahma Rupaa, Sadaa Shiv Svarupaa.",
-      "Anaami Arupaa, Akhand Hai Apaaraa ||.4 ||"
+      "Teun Brahmaa Rupaa, Sadaa Shiv Svarupaa.",
+      "Anaami Arupaa, Akhand Hai Apaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 10 || 658",
+    "गुरू है हमारा, प्रभू का पियारा",
     "Guru Hai Hamaaraa, Prabhu Kaa Piyaaraa",
-    "गुरु है हमारा, प्रभु का पियारा"
+    "राग पहाड़ी भजन 10",
+    "Raag Pahaari Bhajan 10"
   ],
   "tags": [
-    "prarthana",
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 659,
+  "displayOrder": 10,
+  "overallOrder": 657,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 350",
+  "updatedAt": "2026-10-26"
 }

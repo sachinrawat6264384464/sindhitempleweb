@@ -1,64 +1,105 @@
 {
-  "id": "bhajan-0795",
+  "id": "bhajan-0793",
   "slug": "satguru-apnaa-naam-japaao-mujhe",
   "categoryId": "raag-pilaa",
-  "title": "सतगुरु पना नाम जपाो मुझे",
-  "romanTitle": "Sat‌Guru Apnaa Naam Japaao Mujhe",
-  "firstLine": "Sat‌Guru Apnaa Naam Japaao Mujhe, Bhar Kar Prem Kaa Pyaalaa Pilaao Mujhe (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्‌गुरु अपना नाम जपाओ मुझे,",
+  "romanTitle": "Sat‌Guru Apnaa Naam Japaao Mujhe,",
+  "firstLine": "Sat‌Guru Apnaa Naam Japaao Mujhe,",
+  "heading": "।। राग पीला भजन ।। ७३ ।। ७९५।।",
+  "tek": [
+    "सत्‌गुरु अपना नाम जपाओ मुझे,",
+    "भर कर प्रेम का प्याला पिलाओ मुझे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Apnaa Naam Japaao Mujhe,",
+    "Bhar Kar Prem Kaa Pyaalaa Pilaao Mujhe (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मूण्ठ मति हूं अति अज्ञानी, बहु बुरा बदकार मैं ।",
+        "काम आदिक में उलझ कर, ना कीया वीचार मैं ।",
+        "पांचों दुष्टों से आप बचाओ मुझे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Munth Mati Hun Ati Ajnyaani, Bahu Buraa Badkaar Main.",
+        "Kaam Aadik Men Ulajh Kar, Naa Kiyaa Vichaar Main.",
+        "Paanchon Dushton Se Aap Bachaao Mujhe || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुमति सम्पति भाव भक्ती, जोग जुगती दीजिये ।",
+        "ब्रह्म का निज ज्ञान देके, भ्रम सब हर लीजिये ।",
+        "कृपा करके मोक्ष मिलाओ मुझे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sumti Sampati Bhaav Bhakti, Jog Jugti Dijiye.",
+        "Brahm Kaa Nij Gyaan Deke, Bhram Sab Har Lijiye.",
+        "Kripaa Karke Moksh Milaao Mujhe || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहत टेऊँ नाथ मेरी, सुन यही अरदास जी ।",
+        "दास को दिन रात दीजे, चरण माहिं निवास जी ।",
+        "अपने मन से नाहिं भुलाओ मुझे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Naath Meri, Sun Yahi Ardaas Ji.",
+        "Daas Ko Din Raat Dije, Charan Maahin Nivaas Ji.",
+        "Apne Man Se Naahin Bhulaao Mujhe || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द््ठ"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु पना नाम जपाो मुझे,",
-      "भर कर प्रेम का पयाला पिलाो मुझे (टेक)."
+      "मूण्ठ मति हूं अति अज्ञानी, बहु बुरा बदकार मैं ।",
+      "काम आदिक में उलझ कर, ना कीया वीचार मैं ।",
+      "पांचों दुष्टों से आप बचाओ मुझे ॥१ ॥"
     ],
     [
-      "मुनथ मति हुन ति जनयानि, बहु बुरा बदकार मैं.",
-      "काम ादिक मेन ुलझ कर, ना किया विचार मैं."
+      "सुमति सम्पति भाव भक्ती, जोग जुगती दीजिये ।",
+      "ब्रह्म का निज ज्ञान देके, भ्रम सब हर लीजिये ।",
+      "कृपा करके मोक्ष मिलाओ मुझे ॥२ ॥"
     ],
     [
-      "पानचोन दुशतोन से ाप बचाो मुझे || 1 ||."
+      "कहत टेऊँ नाथ मेरी, सुन यही अरदास जी ।",
+      "दास को दिन रात दीजे, चरण माहिं निवास जी ।",
+      "अपने मन से नाहिं भुलाओ मुझे ॥३ ॥"
     ],
     [
-      "सुमति समपति भाव भक्ति, जोग जुगति दिजिये.",
-      "बरहम का निज ज्ञान देके, भरम सब हर लिजिये."
-    ],
-    [
-      "कृपा करके मोक्ष मिलाो मुझे || 2 ||"
-    ],
-    [
-      "कहत तेऊँ नाथ मेरि, सुन यहि रदास जी.",
-      "दास को दीन रात दिजे, चरण माहिन निवास जी."
-    ],
-    [
-      "पने मन से नाहिन भुलाो मुझे || 3 ||"
-    ],
-    [
-      "दथ"
+      "द््ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Apnaa Naam Japaao Mujhe,",
-      "Bhar Kar Prem Kaa Pyaalaa Pilaao Mujhe (Tek)."
-    ],
-    [
       "Munth Mati Hun Ati Ajnyaani, Bahu Buraa Badkaar Main.",
-      "Kaam Aadik Men Ulajh Kar, Naa Kiyaa Vichaar Main."
-    ],
-    [
-      "Paanchon Dushton Se Aap Bachaao Mujhe || 1 ||."
+      "Kaam Aadik Men Ulajh Kar, Naa Kiyaa Vichaar Main.",
+      "Paanchon Dushton Se Aap Bachaao Mujhe || 1 ||"
     ],
     [
       "Sumti Sampati Bhaav Bhakti, Jog Jugti Dijiye.",
-      "Brahm Kaa Nij Jnyaan Deke, Bhram Sab Har Lijiye."
-    ],
-    [
+      "Brahm Kaa Nij Gyaan Deke, Bhram Sab Har Lijiye.",
       "Kripaa Karke Moksh Milaao Mujhe || 2 ||"
     ],
     [
       "Kahat Teun Naath Meri, Sun Yahi Ardaas Ji.",
-      "Daas Ko Din Raat Dije, Charan Maahin Nivaas Ji."
-    ],
-    [
+      "Daas Ko Din Raat Dije, Charan Maahin Nivaas Ji.",
       "Apne Man Se Naahin Bhulaao Mujhe || 3 ||"
     ],
     [
@@ -66,20 +107,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 73 || 795 ||",
-    "Sat‌Guru Apnaa Naam Japaao Mujhe",
-    "सतगुरु पना नाम जपाो मुझे"
+    "सत्‌गुरु अपना नाम जपाओ मुझे,",
+    "Sat‌Guru Apnaa Naam Japaao Mujhe,",
+    "राग पीला भजन 72",
+    "Raag Pilaa Bhajan 72"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 795,
+  "displayOrder": 72,
+  "overallOrder": 793,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 420",
+  "updatedAt": "2026-10-26"
 }

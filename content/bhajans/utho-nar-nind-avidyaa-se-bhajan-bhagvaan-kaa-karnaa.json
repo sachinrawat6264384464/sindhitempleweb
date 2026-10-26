@@ -1,67 +1,118 @@
 {
   "id": "bhajan-0255",
   "slug": "utho-nar-nind-avidyaa-se-bhajan-bhagvaan-kaa-karnaa",
-  "categoryId": "raag-bhairav",
-  "title": "ुथो नर निनद विदया से, भजन भगवान का करना",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "उठो नर नींद अविद्या से, भजन भगवान का करना",
   "romanTitle": "Utho Nar Nind Avidyaa Se, Bhajan Bhagvaan Kaa Karnaa",
-  "firstLine": "Utho Nar Nind Avidyaa Se, Bhajan Bhagvaan Kaa Karnaa. Taje Sab Aas Is Jagki, Dhyaan Ik Insh Kaa Dharnaa (Tek).",
+  "firstLine": "Utho Nar Nind Avidyaa Se, Bhajan Bhagvaan Kaa Karnaa.",
+  "heading": "।। राग भैरवी भजन ।। ४० ।। २५५।।",
+  "tek": [
+    "उठो नर नींद अविद्या से, भजन भगवान का करना ।",
+    "तजे सब आस इस जगकी, ध्यान इक इंश का धरना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Utho Nar Nind Avidyaa Se, Bhajan Bhagvaan Kaa Karnaa.",
+    "Taje Sab Aas Is Jagki, Dhyaan Ik Insh Kaa Dharnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मिली तुझको मनुष देही, हरी के भजन हित प्यारा ।",
+        "भुलाओ ना कभी हरि को, पकड़ले ताहिं के चरना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mili Tujhko Manush Dehi, Hari Ke Bhajan Hit Pyaaraa.",
+        "Bhulaao Naa Kabhi Hari Ko, Pakrale Taahin Ke Charnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व को काल संहारे, समझले तूं सजन मन में ।",
+        "निडर हो पाप मत करले, सदा तुम काल से डरना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Ko Kaal Sanhaare, Samjhale Tu Sajan Man Men.",
+        "Nidar Ho Paap Mat Karle, Sadaa Tum Kaal Se Darnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिन्‍्हों से प्रीति तुम पाई, सँगी नहिं अन्त वे होंगे ।",
+        "तजे नाता कुटुंब कुल का, प्रभू के शरन में पड़ना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jin‍Hon Se Priti Tum Paai, Sangi Nahin Ant Ve Honge.",
+        "Taje Naataa Kutunb Kul Kaa, Prabhu Ke Sharan Men Parnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ बन्धन तोड़े, करो नित सड् सनतों का ।",
+        "हरे अभिमान तन धन का, हृदय में भाव को भरना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bandhan Tore, Karo Nit Sad Santon Kaa.",
+        "Hare Abhimaan Tan Dhan Kaa, Hriday Men Bhaav Ko Bharnaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथो नर निनद विदया से, भजन भगवान का करना.",
-      "तजे सब ास िस जगकि, ध्यान िक िनश का धरना (टेक)."
+      "मिली तुझको मनुष देही, हरी के भजन हित प्यारा ।",
+      "भुलाओ ना कभी हरि को, पकड़ले ताहिं के चरना ॥१ ॥"
     ],
     [
-      "मिलि तुझको मनुश देही, हरि के भजन हित पयारा.",
-      "भुलाो ना कभि हरि को, पकरले ताहिन के चरना || $."
+      "सर्व को काल संहारे, समझले तूं सजन मन में ।",
+      "निडर हो पाप मत करले, सदा तुम काल से डरना ॥२ ॥"
     ],
     [
-      "सर्व को काल सनहारे, समझले तु सजन मन मेन.",
-      "निदर हो पाप मत करले, सदा तुम काल से दरना || 2 ||."
+      "जिन्‍्हों से प्रीति तुम पाई, सँगी नहिं अन्त वे होंगे ।",
+      "तजे नाता कुटुंब कुल का, प्रभू के शरन में पड़ना ॥३ ॥"
     ],
     [
-      "जिनहोन से परिति तुम पाि, सनगि नहिन नत वे होनगे.",
-      "तजे नाता कुतुनब कुल का, प्रभु के शरन मेन परना || 3 ||."
-    ],
-    [
-      "कहे तेऊँ बनधन तोरे, करो नित सद सनतोन का.",
-      "हरे भिमान तन धन का, हरिदय मेन भाव को भरना || 4 ||."
+      "कहे टेऊँ बन्धन तोड़े, करो नित सड् सनतों का ।",
+      "हरे अभिमान तन धन का, हृदय में भाव को भरना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Utho Nar Nind Avidyaa Se, Bhajan Bhagvaan Kaa Karnaa.",
-      "Taje Sab Aas Is Jagki, Dhyaan Ik Insh Kaa Dharnaa (Tek)."
-    ],
-    [
       "Mili Tujhko Manush Dehi, Hari Ke Bhajan Hit Pyaaraa.",
-      "Bhulaao Naa Kabhi Hari Ko, Pakrale Taahin Ke Charnaa || $."
+      "Bhulaao Naa Kabhi Hari Ko, Pakrale Taahin Ke Charnaa || 1 ||"
     ],
     [
       "Sarv Ko Kaal Sanhaare, Samjhale Tu Sajan Man Men.",
-      "Nidar Ho Paap Mat Karle, Sadaa Tum Kaal Se Darnaa || 2 ||."
+      "Nidar Ho Paap Mat Karle, Sadaa Tum Kaal Se Darnaa || 2 ||"
     ],
     [
       "Jin‍Hon Se Priti Tum Paai, Sangi Nahin Ant Ve Honge.",
-      "Taje Naataa Kutunb Kul Kaa, Prabhu Ke Sharan Men Parnaa || 3 ||."
+      "Taje Naataa Kutunb Kul Kaa, Prabhu Ke Sharan Men Parnaa || 3 ||"
     ],
     [
       "Kahe Teun Bandhan Tore, Karo Nit Sad Santon Kaa.",
-      "Hare Abhimaan Tan Dhan Kaa, Hriday Men Bhaav Ko Bharnaa || 4 ||."
+      "Hare Abhimaan Tan Dhan Kaa, Hriday Men Bhaav Ko Bharnaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 40 || 255 ||",
+    "उठो नर नींद अविद्या से, भजन भगवान का करना",
     "Utho Nar Nind Avidyaa Se, Bhajan Bhagvaan Kaa Karnaa",
-    "ुथो नर निनद विदया से, भजन भगवान का करना"
+    "राग भैरवी भजन 40",
+    "Raag Bhairvi Bhajan 40"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 255,
+  "displayOrder": 40,
+  "overallOrder": 255,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 159",
+  "updatedAt": "2026-10-26"
 }

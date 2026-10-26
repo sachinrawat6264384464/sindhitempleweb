@@ -1,65 +1,101 @@
 {
-  "id": "bhajan-0666",
+  "id": "bhajan-0664",
   "slug": "bhaag-jaage-bhaag-jaage-aaj-hamaare",
   "categoryId": "raag-pahaari",
-  "title": "भाग जागे भाग जागे ाज हमारे",
-  "romanTitle": "Bhaag Jaage Bhaag Jaage Aaj Hamaare",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "भाग जागे भाग जागे आज हमारे,",
+  "romanTitle": "Bhaag Jaage Bhaag Jaage Aaj Hamaare,",
   "firstLine": "Bhaag Jaage Bhaag Jaage Aaj Hamaare,",
+  "heading": "।। राग पहाड़ी भजन ।। १७ ।। ६६५।।",
+  "tek": [
+    "भाग जागे भाग जागे आज हमारे,",
+    "मन मेली सन्त सज्जन धाम पधारे,",
+    "बलि बलि जाऊँ बलिहारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhaag Jaage Bhaag Jaage Aaj Hamaare,",
+    "Man Meli Sant Sajjan Dhaam Padhaare,",
+    "Bali Bali Jaaun Balihaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सनतों का दर्शन सुखदाई, वेद ने जिसकी महिमा गाई ।",
+        "दूख दर्द निवारे, ओ प्रीतम, करत सुखारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Kaa Darshan Sukhdaai, Ved Ne Jiski Mahimaa Gaai.",
+        "Dukh Dard Nivaare, O Pritam, Karat Sukhaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्त जगत में ज्ञान के दाते, राम रंग में निशदिन राते ।",
+        "अखण्ड ज्ञान उचारे, ओ प्रीतम, भ्रम निवारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sant Jagat Men Gyaan Ke Daate, Raam Rang Men Nishdin Raate.",
+        "Akhand Gyaan Uchaare, O Pritam, Bhram Nivaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त वचन मोती सम जानो, कहे टेऊँ चुन हृदय आनो ।",
+        "पाओ भक्ति भण्डारे, ओ प्रीतम, मुक्ति द्वार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Vachan Moti Sam Jaano, Kahe Teun Chun Hriday Aano.",
+        "Paao Bhakti Bhandaare, O Pritam, Mukti Dvaar || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भाग जागे भाग जागे ाज हमारे,",
-      "मन मेलि संत सजजन धाम पधारे,"
+      "सनतों का दर्शन सुखदाई, वेद ने जिसकी महिमा गाई ।",
+      "दूख दर्द निवारे, ओ प्रीतम, करत सुखारे ॥१ ॥"
     ],
     [
-      "बलि बलि जाुन बलिहारे (टेक)."
+      "सन्त जगत में ज्ञान के दाते, राम रंग में निशदिन राते ।",
+      "अखण्ड ज्ञान उचारे, ओ प्रीतम, भ्रम निवारे ॥२ ॥"
     ],
     [
-      "सनतोन का दरशन सुखदाि, वेद ने जिसकि महिमा गाि.",
-      "दुःख दरद निवारे, ो परितम, करत सुखारे || 1 ||"
-    ],
-    [
-      "संत जगत मेन ज्ञान के दाते, राम रनग मेन निशदिन राते.",
-      "खनद ज्ञान ुचारे, ो परितम, भरम निवारे || 2 ||."
-    ],
-    [
-      "संत वचन मोति सम जानो, कहे तेऊँ चुन हरिदय ानो.",
-      "पाो भक्ति भनदारे, ो परितम, मुक्ति दवार ||.3 ||"
+      "सन्त वचन मोती सम जानो, कहे टेऊँ चुन हृदय आनो ।",
+      "पाओ भक्ति भण्डारे, ओ प्रीतम, मुक्ति द्वार ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Bhaag Jaage Bhaag Jaage Aaj Hamaare,",
-      "Man Meli Sant Sajjan Dhaam Padhaare,"
-    ],
-    [
-      "Bali Bali Jaaun Balihaare (Tek)."
-    ],
     [
       "Santon Kaa Darshan Sukhdaai, Ved Ne Jiski Mahimaa Gaai.",
       "Dukh Dard Nivaare, O Pritam, Karat Sukhaare || 1 ||"
     ],
     [
-      "Sant Jagat Men Jnyaan Ke Daate, Raam Rang Men Nishdin Raate.",
-      "Akhand Jnyaan Uchaare, O Pritam, Bhram Nivaare || 2 ||."
+      "Sant Jagat Men Gyaan Ke Daate, Raam Rang Men Nishdin Raate.",
+      "Akhand Gyaan Uchaare, O Pritam, Bhram Nivaare || 2 ||"
     ],
     [
       "Sant Vachan Moti Sam Jaano, Kahe Teun Chun Hriday Aano.",
-      "Paao Bhakti Bhandaare, O Pritam, Mukti Dvaar ||.3 ||"
+      "Paao Bhakti Bhandaare, O Pritam, Mukti Dvaar || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 17 || 665 ||",
-    "Bhaag Jaage Bhaag Jaage Aaj Hamaare",
-    "भाग जागे भाग जागे ाज हमारे"
+    "भाग जागे भाग जागे आज हमारे,",
+    "Bhaag Jaage Bhaag Jaage Aaj Hamaare,",
+    "राग पहाड़ी भजन 17",
+    "Raag Pahaari Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 666,
+  "displayOrder": 17,
+  "overallOrder": 664,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 354",
+  "updatedAt": "2026-10-26"
 }

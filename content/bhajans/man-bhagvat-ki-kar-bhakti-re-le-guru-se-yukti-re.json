@@ -1,76 +1,126 @@
 {
   "id": "bhajan-0362",
   "slug": "man-bhagvat-ki-kar-bhakti-re-le-guru-se-yukti-re",
-  "categoryId": "raag-aasaa",
-  "title": "मन भगवत कि कर भक्ति रे, ले गुरु से युकति रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "मन भगवत की कर भक्ती रे, ले गुरु से युक्ती रे",
   "romanTitle": "Man Bhagvat Ki Kar Bhakti Re, Le Guru Se Yukti Re",
   "firstLine": "Man Bhagvat Ki Kar Bhakti Re, Le Guru Se Yukti Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १९ ।। ३६२।॥।",
+  "tek": [
+    "मन भगवत की कर भक्ती रे, ले गुरु से युक्ती रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Bhagvat Ki Kar Bhakti Re, Le Guru Se Yukti Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सर्व कामना छोड़ जगत की, आसा हरि की कीजे ।",
+        "मन बुद्धि इन्द्रियां निश्चल करके, नाम हरी का लीजे ।",
+        "हरि भक्ती देती मुक्ती रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sarv Kaamnaa Chhor Jagat Ki, Aasaa Hari Ki Kije.",
+        "Man Buddhi Indriyaan Nishchal Karke, Naam Hari Kaa Lije.",
+        "Hari Bhakti Deti Mukti Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरि भक्ती है सब ते ऊँची, सर्व सुखों की मूला ।",
+        "मूल सींचन से सींचा जावे, डार पात फल फूला ।",
+        "हरि भक्ती दे गुण शक्ती रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Bhakti Hai Sab Te Unchi, Sarv Sukhon Ki Mulaa.",
+        "Mul Sinchan Se Sinchaa Jaave, Daar Paat Phal Phulaa.",
+        "Hari Bhakti De Gun Shakti Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चतुर भांति के भक्त जगत में, मुझको प्रिय हैं सारे ।",
+        "तामें निष्कामी निर्मानी, ज्ञानी अधिक प्यारे ।",
+        "यह ईश्वर की है उक्ती रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chatur Bhaanti Ke Bhakt Jagat Men, Mujhko Priy Hain Saare.",
+        "Taamen Nishkaami Nirmaani, Jnyaani Adhik Pyaare.",
+        "Yah Ishvar Ki Hai Ukti Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सोई सन्त गुरू है सोई, मात पिता सो मानो ।",
+        "कहे टेऊँ सो साचा बन्धू, सोई मीत पछानो ।",
+        "जो हरि में ही अनुरक्ती रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Soi Sant Guru Hai Soi, Maat Pitaa So Maano.",
+        "Kahe Teun So Saachaa Bandhu, Soi Mit Pachhaano.",
+        "Jo Hari Men Hi Anurakti Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गठ्ठ"
+      ],
+      "romanLines": [
+        "Gathth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन भगवत कि कर भक्ति रे, ले गुरु से युकति रे (टेक)."
+      "सर्व कामना छोड़ जगत की, आसा हरि की कीजे ।",
+      "मन बुद्धि इन्द्रियां निश्चल करके, नाम हरी का लीजे ।",
+      "हरि भक्ती देती मुक्ती रे ॥१ ॥"
     ],
     [
-      "सर्व कामना चहोर जगत कि, ासा हरि कि किजे.",
-      "मन बुदधि िनदरियान निशचल करके, नाम हरि का लिजे."
+      "हरि भक्ती है सब ते ऊँची, सर्व सुखों की मूला ।",
+      "मूल सींचन से सींचा जावे, डार पात फल फूला ।",
+      "हरि भक्ती दे गुण शक्ती रे ॥२ ॥"
     ],
     [
-      "हरि भक्ति देति मुक्ति रे. || 1 ||."
+      "चतुर भांति के भक्त जगत में, मुझको प्रिय हैं सारे ।",
+      "तामें निष्कामी निर्मानी, ज्ञानी अधिक प्यारे ।",
+      "यह ईश्वर की है उक्ती रे ॥३ ॥"
     ],
     [
-      "हरि भक्ति है सब ते ुनचि, सर्व सुखोन कि मुला.",
-      "मुल सिनचन से सिनचा जावे, दार पात फल फुला."
+      "सोई सन्त गुरू है सोई, मात पिता सो मानो ।",
+      "कहे टेऊँ सो साचा बन्धू, सोई मीत पछानो ।",
+      "जो हरि में ही अनुरक्ती रे ॥४ ॥"
     ],
     [
-      "हरि भक्ति दे गुन शकति रे || 2 ||"
-    ],
-    [
-      "चतुर भानति के भकत जगत मेन, मुझको परिय हैन सारे.",
-      "तामेन निशकामि निरमानि, जनयानि धिक पयारे."
-    ],
-    [
-      "यह िशवर कि है ुकति रे || 3 ||."
-    ],
-    [
-      "सोि संत गुरु है सोि, मात पिता सो मानो.",
-      "कहे तेऊँ सो साचा बनधु, सोि मित पचहानो."
-    ],
-    [
-      "जो हरि मेन हि नुरकति रे || 4 ||"
-    ],
-    [
-      "गथथ"
+      "गठ्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Bhagvat Ki Kar Bhakti Re, Le Guru Se Yukti Re (Tek)."
-    ],
-    [
       "Sarv Kaamnaa Chhor Jagat Ki, Aasaa Hari Ki Kije.",
-      "Man Buddhi Indriyaan Nishchal Karke, Naam Hari Kaa Lije."
-    ],
-    [
-      "Hari Bhakti Deti Mukti Re. || 1 ||."
+      "Man Buddhi Indriyaan Nishchal Karke, Naam Hari Kaa Lije.",
+      "Hari Bhakti Deti Mukti Re || 1 ||"
     ],
     [
       "Hari Bhakti Hai Sab Te Unchi, Sarv Sukhon Ki Mulaa.",
-      "Mul Sinchan Se Sinchaa Jaave, Daar Paat Phal Phulaa."
-    ],
-    [
+      "Mul Sinchan Se Sinchaa Jaave, Daar Paat Phal Phulaa.",
       "Hari Bhakti De Gun Shakti Re || 2 ||"
     ],
     [
       "Chatur Bhaanti Ke Bhakt Jagat Men, Mujhko Priy Hain Saare.",
-      "Taamen Nishkaami Nirmaani, Jnyaani Adhik Pyaare."
-    ],
-    [
-      "Yah Ishvar Ki Hai Ukti Re || 3 ||."
+      "Taamen Nishkaami Nirmaani, Jnyaani Adhik Pyaare.",
+      "Yah Ishvar Ki Hai Ukti Re || 3 ||"
     ],
     [
       "Soi Sant Guru Hai Soi, Maat Pitaa So Maano.",
-      "Kahe Teun So Saachaa Bandhu, Soi Mit Pachhaano."
-    ],
-    [
+      "Kahe Teun So Saachaa Bandhu, Soi Mit Pachhaano.",
       "Jo Hari Men Hi Anurakti Re || 4 ||"
     ],
     [
@@ -78,19 +128,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 19 || 362. ||.",
+    "मन भगवत की कर भक्ती रे, ले गुरु से युक्ती रे",
     "Man Bhagvat Ki Kar Bhakti Re, Le Guru Se Yukti Re",
-    "मन भगवत कि कर भक्ति रे, ले गुरु से युकति रे"
+    "राग बसंत भजन 19",
+    "Raag Basant Bhajan 19"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
     "bhajan"
   ],
-  "displayOrder": 362,
+  "displayOrder": 19,
+  "overallOrder": 362,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 214",
+  "updatedAt": "2026-10-26"
 }

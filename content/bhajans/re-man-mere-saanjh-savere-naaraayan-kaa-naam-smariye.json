@@ -2,71 +2,119 @@
   "id": "bhajan-0338",
   "slug": "re-man-mere-saanjh-savere-naaraayan-kaa-naam-smariye",
   "categoryId": "raag-zilaa",
-  "title": "रे मन मेरे सानझ सवेरे, नारायन का नाम समरिये",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "रे मन मेरे सांझ सवेरे, नारायण का नाम स्मरिये",
   "romanTitle": "Re Man Mere Saanjh Savere, Naaraayan Kaa Naam Smariye",
   "firstLine": "Re Man Mere Saanjh Savere, Naaraayan Kaa Naam Smariye (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २५ ।। ३३८॥।",
+  "tek": [
+    "रे मन मेरे सांझ सवेरे, नारायण का नाम स्मरिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Mere Saanjh Savere, Naaraayan Kaa Naam Smariye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्म ज्ञानिन की ज्ञेय नारायण, ध्यानिन की है ध्येय नारायण ।",
+        "भक्त जनों का इष्ट नारायण, नारायण को हृदय धरिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahm Jnyaanin Ki Jnyey Naaraayan, Dhyaanin Ki Hai Dhyey Naaraayan.",
+        "Bhakt Janon Kaa Isht Naaraayan, Naaraayan Ko Hriday Dhariye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सब धर्मों का फल नारायण, सब कर्मों का बल नारायण ।",
+        "सन्तजनों का धन नारायण, नारायण से जीउ जकड़िये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sab Dharmon Kaa Phal Naaraayan, Sab Karmon Kaa Bal Naaraayan.",
+        "Santajnon Kaa Dhan Naaraayan, Naaraayan Se Jiu Jakriye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "्त्त",
+        "आदि नारायण, अन्त नारायण, मध्य नारायण नित्य नारायण ।",
+        "यहां नारायण वहां नारायण, नारायण के पांव पकड़िये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tt",
+        "Aadi Naaraayan, Ant Naaraayan, Madhy Naaraayan Nity Naaraayan.",
+        "Yahaan Naaraayan Vahaan Naaraayan, Naaraayan Ke Paanv Pakriye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नारायण का नाम उच्चारे, भक्त गये हरिलोक मंझारे ।",
+        "कहे टेऊँ तुम नारायण का,स्मरण करके सब दुख हरिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Naaraayan Kaa Naam Uchchaare, Bhakt Gaye Harilok Manjhaare.",
+        "Kahe Teun Tum Naaraayan Kaa,Smaran Karke Sab Dukh Hariye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरे सानझ सवेरे, नारायन का नाम समरिये (टेक)."
+      "ब्रह्म ज्ञानिन की ज्ञेय नारायण, ध्यानिन की है ध्येय नारायण ।",
+      "भक्त जनों का इष्ट नारायण, नारायण को हृदय धरिये ॥१ ॥"
     ],
     [
-      "बरहम जनयानिन कि जनयेय नारायन, धयानिन कि है धयेय नारायन.",
-      "भकत जनोन का िशत नारायन, नारायन को हरिदय धरिये || 1 ||"
+      "सब धर्मों का फल नारायण, सब कर्मों का बल नारायण ।",
+      "सन्तजनों का धन नारायण, नारायण से जीउ जकड़िये ॥२ ॥"
     ],
     [
-      "सब धरमोन का फल नारायन, सब करमोन का बल नारायन.",
-      "सनतजनोन का धन नारायन, नारायन से जिु जकरिये || 2 ||."
+      "्त्त",
+      "आदि नारायण, अन्त नारायण, मध्य नारायण नित्य नारायण ।",
+      "यहां नारायण वहां नारायण, नारायण के पांव पकड़िये ॥३ ॥"
     ],
     [
-      "तत",
-      "ादि नारायन, नत नारायन, मधय नारायन नितय नारायन."
-    ],
-    [
-      "यहान नारायन वहान नारायन, नारायन के पानव पकरिये.. 3 ||",
-      "नारायन का नाम ुचचारे, भकत गये हरिलोक मनझारे."
-    ],
-    [
-      "कहे तेऊँ तुम नारायन कासमरन करके सब दुःख हरिये.. 4 ||"
+      "नारायण का नाम उच्चारे, भक्त गये हरिलोक मंझारे ।",
+      "कहे टेऊँ तुम नारायण का,स्मरण करके सब दुख हरिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Re Man Mere Saanjh Savere, Naaraayan Kaa Naam Smariye (Tek)."
-    ],
     [
       "Brahm Jnyaanin Ki Jnyey Naaraayan, Dhyaanin Ki Hai Dhyey Naaraayan.",
       "Bhakt Janon Kaa Isht Naaraayan, Naaraayan Ko Hriday Dhariye || 1 ||"
     ],
     [
       "Sab Dharmon Kaa Phal Naaraayan, Sab Karmon Kaa Bal Naaraayan.",
-      "Santajnon Kaa Dhan Naaraayan, Naaraayan Se Jiu Jakriye || 2 ||."
+      "Santajnon Kaa Dhan Naaraayan, Naaraayan Se Jiu Jakriye || 2 ||"
     ],
     [
       "Tt",
-      "Aadi Naaraayan, Ant Naaraayan, Madhy Naaraayan Nity Naaraayan."
+      "Aadi Naaraayan, Ant Naaraayan, Madhy Naaraayan Nity Naaraayan.",
+      "Yahaan Naaraayan Vahaan Naaraayan, Naaraayan Ke Paanv Pakriye || 3 ||"
     ],
     [
-      "Yahaan Naaraayan Vahaan Naaraayan, Naaraayan Ke Paanv Pakriye.. 3 ||",
-      "Naaraayan Kaa Naam Uchchaare, Bhakt Gaye Harilok Manjhaare."
-    ],
-    [
-      "Kahe Teun Tum Naaraayan Kaa,Smaran Karke Sab Dukh Hariye.. 4 ||"
+      "Naaraayan Kaa Naam Uchchaare, Bhakt Gaye Harilok Manjhaare.",
+      "Kahe Teun Tum Naaraayan Kaa,Smaran Karke Sab Dukh Hariye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 25 || 338 ||.",
+    "रे मन मेरे सांझ सवेरे, नारायण का नाम स्मरिये",
     "Re Man Mere Saanjh Savere, Naaraayan Kaa Naam Smariye",
-    "रे मन मेरे सानझ सवेरे, नारायन का नाम समरिये"
+    "राग ज़िला भजन 25",
+    "Raag Zilaa Bhajan 25"
   ],
   "tags": [
-    "teunram",
-    "zilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 338,
+  "displayOrder": 25,
+  "overallOrder": 338,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 201",
+  "updatedAt": "2026-10-26"
 }

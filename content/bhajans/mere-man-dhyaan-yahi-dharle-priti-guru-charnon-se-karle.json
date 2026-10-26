@@ -2,59 +2,98 @@
   "id": "bhajan-0439",
   "slug": "mere-man-dhyaan-yahi-dharle-priti-guru-charnon-se-karle",
   "categoryId": "raag-tilang",
-  "title": "मेरे मन ध्यान यहि धरले, परिति गुरु चरनोन से करले",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मेरे मन ध्यान यही धरले, प्रीति गुरु चरणों से करले",
   "romanTitle": "Mere Man Dhyaan Yahi Dharle, Priti Guru Charnon Se Karle",
-  "firstLine": "Mere Man Dhyaan Yahi Dharle, Priti Guru Charnon Se Karle. Hovegaa Teraa Beraa Paar (Tek).",
+  "firstLine": "Mere Man Dhyaan Yahi Dharle, Priti Guru Charnon Se Karle.",
+  "heading": "।। राग तिलंग भजन ।। ७६ ।। ४४०।।",
+  "tek": [
+    "मेरे मन ध्यान यही धरले, प्रीति गुरु चरणों से करले ।",
+    "होवेगा तेरा बेड़ा पार ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Dhyaan Yahi Dharle, Priti Guru Charnon Se Karle.",
+    "Hovegaa Teraa Beraa Paar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जगत की प्रीति कच्ची जानो , गुरू की प्रीति सच्ची मानो ।",
+        "हृदय में भाव भक्ति भरले , भ्रम अरु संशय को हरले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jagat Ki Priti Kachchi Jaano, Guru Ki Priti Sachchi Maano.",
+        "Hriday Men Bhaav Bhakti Bharle, Bhram Aru Sanshay Ko Harle || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरू बिन कोय नहीं तरता, चाहे को पुण्य दान करता ।",
+        "गुरू से आदी मन्तर ले, स्वास से उसको स्मरले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Koy Nahin Tartaa, Chaahe Ko Puny Daan Kartaa.",
+        "Guru Se Aadi Mantar Le, Svaas Se Usko Smarle || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरू का ज्ञान है सुखदाई, कहे टेऊँ सुनले भाई ।",
+        "तुरत भवसागर से तरले, फेर ना गर्भ माहिं पड़ले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Gyaan Hai Sukhdaai, Kahe Teun Sunle Bhaai.",
+        "Turat Bhavsaagar Se Tarle, Pher Naa Garbh Maahin Parle || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन ध्यान यहि धरले, परिति गुरु चरनोन से करले.",
-      "होवेगा तेरा बेरा पार (टेक)."
+      "जगत की प्रीति कच्ची जानो , गुरू की प्रीति सच्ची मानो ।",
+      "हृदय में भाव भक्ति भरले , भ्रम अरु संशय को हरले ॥१ ॥"
     ],
     [
-      "जगत कि परिति कचचि जानो, गुरु कि परिति सचचि मानो.",
-      "हरिदय मेन भाव भक्ति भरले, भरम रु सनशय को हरले || 1 ||"
+      "गुरू बिन कोय नहीं तरता, चाहे को पुण्य दान करता ।",
+      "गुरू से आदी मन्तर ले, स्वास से उसको स्मरले ॥२ ॥"
     ],
     [
-      "गुरु बिन कोय नहिन तरता, चाहे को पुनय दान करता.",
-      "गुरु से ादि मनतर ले, सवास से ुसको समरले || 2. ||."
-    ],
-    [
-      "गुरु का ज्ञान है सुखदाि, कहे तेऊँ सुनले भाि.",
-      "तुरत भवसागर से तरले, फेर ना गरभ माहिन परले || 3 ||."
+      "गुरू का ज्ञान है सुखदाई, कहे टेऊँ सुनले भाई ।",
+      "तुरत भवसागर से तरले, फेर ना गर्भ माहिं पड़ले ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mere Man Dhyaan Yahi Dharle, Priti Guru Charnon Se Karle.",
-      "Hovegaa Teraa Beraa Paar (Tek)."
-    ],
     [
       "Jagat Ki Priti Kachchi Jaano, Guru Ki Priti Sachchi Maano.",
       "Hriday Men Bhaav Bhakti Bharle, Bhram Aru Sanshay Ko Harle || 1 ||"
     ],
     [
       "Guru Bin Koy Nahin Tartaa, Chaahe Ko Puny Daan Kartaa.",
-      "Guru Se Aadi Mantar Le, Svaas Se Usko Smarle || 2. ||."
+      "Guru Se Aadi Mantar Le, Svaas Se Usko Smarle || 2 ||"
     ],
     [
-      "Guru Kaa Jnyaan Hai Sukhdaai, Kahe Teun Sunle Bhaai.",
-      "Turat Bhavsaagar Se Tarle, Pher Naa Garbh Maahin Parle || 3 ||."
+      "Guru Kaa Gyaan Hai Sukhdaai, Kahe Teun Sunle Bhaai.",
+      "Turat Bhavsaagar Se Tarle, Pher Naa Garbh Maahin Parle || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 76 || 440 ||",
+    "मेरे मन ध्यान यही धरले, प्रीति गुरु चरणों से करले",
     "Mere Man Dhyaan Yahi Dharle, Priti Guru Charnon Se Karle",
-    "मेरे मन ध्यान यहि धरले, परिति गुरु चरनोन से करले"
+    "राग तिलंग भजन 76",
+    "Raag Tilang Bhajan 76"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 439,
+  "displayOrder": 76,
+  "overallOrder": 439,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 249",
+  "updatedAt": "2026-10-26"
 }

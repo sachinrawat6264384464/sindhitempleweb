@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0803",
+  "id": "bhajan-0801",
   "slug": "man-karle-hari-bhajan-karle-shri-raam-sadaa-tu-sumrale",
   "categoryId": "raag-pilaa",
-  "title": "मन करले हरि भजन करले, श्री राम सदा तु सुमरले",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मन करले हरी भजन करले, श्री राम सदा तूं सुमरले",
   "romanTitle": "Man Karle Hari Bhajan Karle, Shri Raam Sadaa Tu Sumrale",
   "firstLine": "Man Karle Hari Bhajan Karle, Shri Raam Sadaa Tu Sumrale (Tek).",
+  "heading": "।। राग पीला भजन ॥।। ८१ ।। ८०३ ॥।",
+  "tek": [
+    "मन करले हरी भजन करले, श्री राम सदा तूं सुमरले ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Karle Hari Bhajan Karle, Shri Raam Sadaa Tu Sumrale (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम मानुष चोला पाया, क्यों विषयों में वृथा गंवाया,",
+        "तुझे शर्म जरा नहीं आया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Maanush Cholaa Paayaa, Kyon Vishyon Men Vrithaa Ganvaayaa,",
+        "Tujhe Sharm Jaraa Nahin Aayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नहिं साथ चले कछु माया, ना थिर ही रहेगी काया,",
+        "क्यों मोह जगत से बढ़ाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nahin Saath Chale Kachhu Maayaa, Naa Thir Hi Rahegi Kaayaa,",
+        "Kyon Moh Jagat Se Barhaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम दो दिन का महिमाना, क्यों गाफ़िल करत गुमाना,",
+        "है तुझको अकेला जाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Do Din Kaa Mahimaanaa, Kyon Gaafil Karat Gumaanaa,",
+        "Hai Tujhko Akelaa Jaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जे हित चाहो, जा सत्संग में हरि गुन गाओ,",
+        "उर ज्ञान की ज्योति जगाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Hit Chaaho, Jaa Satsang Men Hari Gun Gaao,",
+        "Ur Gyaan Ki Jyoti Jagaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन करले हरि भजन करले, श्री राम सदा तु सुमरले (टेक)."
+      "तुम मानुष चोला पाया, क्यों विषयों में वृथा गंवाया,",
+      "तुझे शर्म जरा नहीं आया ॥१ ॥"
     ],
     [
-      "तुम मानुश चोला पाया, कयोन विशयोन मेन वरिथा गनवाया,",
-      "तुझे शरम जरा नहिन ाया || 1. ||."
+      "नहिं साथ चले कछु माया, ना थिर ही रहेगी काया,",
+      "क्यों मोह जगत से बढ़ाया ॥२ ॥"
     ],
     [
-      "नहिन साथ चले कचहु माया, ना थिर हि रहेगि काया,",
-      "कयोन मोह जगत से बरहाया || 2 ||"
+      "तुम दो दिन का महिमाना, क्यों गाफ़िल करत गुमाना,",
+      "है तुझको अकेला जाना ॥३ ॥"
     ],
     [
-      "तुम दो दीन का महिमाना, कयोन गाfिल करत गुमाना,",
-      "है तुझको केला जाना ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ जे हित चाहो, जा सत्संग मेन हरि गुन गाो,",
-      "ुर ज्ञान कि जयोति जगाो || 4. ||."
+      "कहे टेऊँ जे हित चाहो, जा सत्संग में हरि गुन गाओ,",
+      "उर ज्ञान की ज्योति जगाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Karle Hari Bhajan Karle, Shri Raam Sadaa Tu Sumrale (Tek)."
-    ],
-    [
       "Tum Maanush Cholaa Paayaa, Kyon Vishyon Men Vrithaa Ganvaayaa,",
-      "Tujhe Sharm Jaraa Nahin Aayaa || 1. ||."
+      "Tujhe Sharm Jaraa Nahin Aayaa || 1 ||"
     ],
     [
       "Nahin Saath Chale Kachhu Maayaa, Naa Thir Hi Rahegi Kaayaa,",
@@ -40,26 +89,28 @@
     ],
     [
       "Tum Do Din Kaa Mahimaanaa, Kyon Gaafil Karat Gumaanaa,",
-      "Hai Tujhko Akelaa Jaanaa ||.3. ||."
+      "Hai Tujhko Akelaa Jaanaa || 3 ||"
     ],
     [
       "Kahe Teun Je Hit Chaaho, Jaa Satsang Men Hari Gun Gaao,",
-      "Ur Jnyaan Ki Jyoti Jagaao || 4. ||."
+      "Ur Gyaan Ki Jyoti Jagaao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 81 || 803 ||.",
+    "मन करले हरी भजन करले, श्री राम सदा तूं सुमरले",
     "Man Karle Hari Bhajan Karle, Shri Raam Sadaa Tu Sumrale",
-    "मन करले हरि भजन करले, श्री राम सदा तु सुमरले"
+    "राग पीला भजन 80",
+    "Raag Pilaa Bhajan 80"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 803,
+  "displayOrder": 80,
+  "overallOrder": 801,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 425",
+  "updatedAt": "2026-10-26"
 }

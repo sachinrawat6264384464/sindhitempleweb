@@ -1,49 +1,107 @@
 {
-  "id": "bhajan-0704",
+  "id": "bhajan-0702",
   "slug": "saadh-sangti-ke-dvaar-shaanti-paavo-re",
   "categoryId": "raag-pahaari",
-  "title": "साध सनगति के दवार, शांति पावो रे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "साध संगति के द्वार, शान्ती पावो रे",
   "romanTitle": "Saadh Sangti Ke Dvaar, Shaanti Paavo Re",
   "firstLine": "Saadh Sangti Ke Dvaar, Shaanti Paavo Re (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ५५ ।। ७० ३॥।",
+  "tek": [
+    "साध संगति के द्वार, शान्ती पावो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadh Sangti Ke Dvaar, Shaanti Paavo Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साध संगति में बैठ प्यारा, सन्त वचन सुन कर वीचारा ।",
+        "संसा सकल निवार, शान्ती पावो रे ॥4 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Men Baith Pyaaraa, Sant Vachan Sun Kar Vichaaraa.",
+        "Sansaa Sakal Nivaar, Shaanti Paavo Re || 4 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साध संगति की करके सेवा, पाये पूरण आतम देवा ।",
+        "लेखा यम का वार, शान्ती पावो रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Ki Karke Sevaa, Paaye Puran Aatam Devaa.",
+        "Lekhaa Yam Kaa Vaar, Shaanti Paavo Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साध संगति है गंग समाना, तांमें डुबकी मार सुजाना ।",
+        "पापनि मैल उतार, शान्ती पावो रे ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Saadh Sangti Hai Gang Samaanaa, Taanmen Dubki Maar Sujaanaa.",
+        "Paapni Mail Utaar, Shaanti Paavo Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "साध संगति की बड़ी बड़ाई, कहे टेऊँ सन्तों ने गाई ।",
+        "तांमें श्रद्धा धार, शान्ती पावो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Ki Bari Baraai, Kahe Teun Santon Ne Gaai.",
+        "Taanmen Shraddhaa Dhaar, Shaanti Paavo Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्य्"
+      ],
+      "romanLines": [
+        "Dy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साध सनगति के दवार, शांति पावो रे (टेक)."
+      "साध संगति में बैठ प्यारा, सन्त वचन सुन कर वीचारा ।",
+      "संसा सकल निवार, शान्ती पावो रे ॥4 ॥१ ॥"
     ],
     [
-      "साध सनगति मेन बैथ पयारा, संत वचन सुन कर विचारा.",
-      "सनसा सकल निवार, शांति पावो रे || 41 ||"
+      "साध संगति की करके सेवा, पाये पूरण आतम देवा ।",
+      "लेखा यम का वार, शान्ती पावो रे ॥२ ॥"
     ],
     [
-      "साध सनगति कि करके सेवा, पाये पुरन ातम देवा.",
-      "लेखा यम का वार, शांति पावो रे.2 ||"
+      "साध संगति है गंग समाना, तांमें डुबकी मार सुजाना ।",
+      "पापनि मैल उतार, शान्ती पावो रे ॥३े ॥ ।"
     ],
     [
-      "साध सनगति है गनग समाना, तानमेन दुबकि मार सुजाना.",
-      "पापनि मैल ुतार, शांति पावो रे || 3े ||."
+      "साध संगति की बड़ी बड़ाई, कहे टेऊँ सन्तों ने गाई ।",
+      "तांमें श्रद्धा धार, शान्ती पावो रे ॥४ ॥"
     ],
     [
-      "साध सनगति कि बरि बराि, कहे तेऊँ सनतोन ने गाि.",
-      "तानमेन शरदधा धार, शांति पावो रे || 4 ||"
-    ],
-    [
-      "दय"
+      "द्य्"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadh Sangti Ke Dvaar, Shaanti Paavo Re (Tek)."
-    ],
-    [
       "Saadh Sangti Men Baith Pyaaraa, Sant Vachan Sun Kar Vichaaraa.",
-      "Sansaa Sakal Nivaar, Shaanti Paavo Re || 41 ||"
+      "Sansaa Sakal Nivaar, Shaanti Paavo Re || 4 || 1 ||"
     ],
     [
       "Saadh Sangti Ki Karke Sevaa, Paaye Puran Aatam Devaa.",
-      "Lekhaa Yam Kaa Vaar, Shaanti Paavo Re.2 ||"
+      "Lekhaa Yam Kaa Vaar, Shaanti Paavo Re || 2 ||"
     ],
     [
       "Saadh Sangti Hai Gang Samaanaa, Taanmen Dubki Maar Sujaanaa.",
-      "Paapni Mail Utaar, Shaanti Paavo Re || 3E ||."
+      "Paapni Mail Utaar, Shaanti Paavo Re || 3E ||"
     ],
     [
       "Saadh Sangti Ki Bari Baraai, Kahe Teun Santon Ne Gaai.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 55 || 70 3 ||.",
+    "साध संगति के द्वार, शान्ती पावो रे",
     "Saadh Sangti Ke Dvaar, Shaanti Paavo Re",
-    "साध सनगति के दवार, शांति पावो रे"
+    "राग पहाड़ी भजन 55",
+    "Raag Pahaari Bhajan 55"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 704,
+  "displayOrder": 55,
+  "overallOrder": 702,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 373",
+  "updatedAt": "2026-10-26"
 }

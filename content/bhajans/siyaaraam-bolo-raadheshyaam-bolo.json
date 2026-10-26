@@ -1,73 +1,133 @@
 {
-  "id": "bhajan-0741",
+  "id": "bhajan-0739",
   "slug": "siyaaraam-bolo-raadheshyaam-bolo",
   "categoryId": "raag-pilaa",
-  "title": "सियाराम बोलो, राधेशयाम बोलो",
-  "romanTitle": "Siyaaraam Bolo, Raadheshyaam Bolo",
-  "firstLine": "Siyaaraam Bolo, Raadheshyaam Bolo, Sab Mil Kar Bolo Raam Raam Raam (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सीयाराम बोलो, राधेश्याम बोलो,",
+  "romanTitle": "Siyaaraam Bolo, Raadheshyaam Bolo,",
+  "firstLine": "Siyaaraam Bolo, Raadheshyaam Bolo,",
+  "heading": "।। राग पीला भजन ।। १९ ।। ७४१।॥।",
+  "tek": [
+    "सीयाराम बोलो, राधेश्याम बोलो,",
+    "सब मिल कर बोलो राम राम राम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Siyaaraam Bolo, Raadheshyaam Bolo,",
+    "Sab Mil Kar Bolo Raam Raam Raam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग में बैठ प्यारे, श्रीराम जो उच्चारे ।",
+        "अपना सु आप तारे, परिवार पुनि उधारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Men Baith Pyaare, Shriiraam Jo Uchchaare.",
+        "Apnaa Su Aap Taare, Parivaar Puni Udhaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जो राम नाम बोले, अपना सो भाग्य खोले ।",
+        "भव सिन्धु में न डोले, भगवान पाय चोले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jo Raam Naam Bole, Apnaa So Bhaagy Khole.",
+        "Bhav Sindhu Men Na Dole, Bhagvaan Paay Chole || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जो राम को ध्यावे, दुख दर्द ताहिं जावे ।",
+        "पद परम सोई पावे, फिर जोनि में न आवे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jo Raam Ko Dhyaave, Dukh Dard Taahin Jaave.",
+        "Pad Param Soi Paave, Phir Joni Men Na Aave || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ साफ प्यारा, है राम सब अधारा ।",
+        "जिहं नीच ऊँच तारा, सुमरो तिसे उदारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Saaph Pyaaraa, Hai Raam Sab Adhaaraa.",
+        "Jihan Nich Unch Taaraa, Sumro Tise Udaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ढ्ह"
+      ],
+      "romanLines": [
+        "Thdhh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सियाराम बोलो, राधेशयाम बोलो,",
-      "सब मिल कर बोलो राम राम राम (टेक)."
+      "सत्संग में बैठ प्यारे, श्रीराम जो उच्चारे ।",
+      "अपना सु आप तारे, परिवार पुनि उधारे ॥१ ॥"
     ],
     [
-      "सत्संग मेन बैथ पयारे, शरीराम जो ुचचारे.",
-      "पना सु ाप तारे, परिवार पुनि ुधारे.1. ||."
+      "जो राम नाम बोले, अपना सो भाग्य खोले ।",
+      "भव सिन्धु में न डोले, भगवान पाय चोले ॥२ ॥"
     ],
     [
-      "जो राम नाम बोले, पना सो भागय खोले.",
-      "भव सिनधु मेन न दोले, भगवान पाय चोले || 2 ||"
+      "जो राम को ध्यावे, दुख दर्द ताहिं जावे ।",
+      "पद परम सोई पावे, फिर जोनि में न आवे ॥३ ॥"
     ],
     [
-      "जो राम को धयावे, दुःख दरद ताहिन जावे.",
-      "पद परम सोि पावे, फिर जोनि मेन न ावे || 3 ||"
+      "कहे टेऊँ साफ प्यारा, है राम सब अधारा ।",
+      "जिहं नीच ऊँच तारा, सुमरो तिसे उदारा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ साफ पयारा, है राम सब धारा.",
-      "जिहन निच ुनच तारा, सुमरो तिसे ुदारा || 4 ||."
-    ],
-    [
-      "थधह"
+      "ठ्ढ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Siyaaraam Bolo, Raadheshyaam Bolo,",
-      "Sab Mil Kar Bolo Raam Raam Raam (Tek)."
-    ],
-    [
       "Satsang Men Baith Pyaare, Shriiraam Jo Uchchaare.",
-      "Apnaa Su Aap Taare, Parivaar Puni Udhaare.1. ||."
+      "Apnaa Su Aap Taare, Parivaar Puni Udhaare || 1 ||"
     ],
     [
       "Jo Raam Naam Bole, Apnaa So Bhaagy Khole.",
-      "Bhav Sindhu Men N Dole, Bhagvaan Paay Chole || 2 ||"
+      "Bhav Sindhu Men Na Dole, Bhagvaan Paay Chole || 2 ||"
     ],
     [
       "Jo Raam Ko Dhyaave, Dukh Dard Taahin Jaave.",
-      "Pad Param Soi Paave, Phir Joni Men N Aave || 3 ||"
+      "Pad Param Soi Paave, Phir Joni Men Na Aave || 3 ||"
     ],
     [
       "Kahe Teun Saaph Pyaaraa, Hai Raam Sab Adhaaraa.",
-      "Jihan Nich Unch Taaraa, Sumro Tise Udaaraa || 4 ||."
+      "Jihan Nich Unch Taaraa, Sumro Tise Udaaraa || 4 ||"
     ],
     [
       "Thdhh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 19 || 741. ||.",
-    "Siyaaraam Bolo, Raadheshyaam Bolo",
-    "सियाराम बोलो, राधेशयाम बोलो"
+    "सीयाराम बोलो, राधेश्याम बोलो,",
+    "Siyaaraam Bolo, Raadheshyaam Bolo,",
+    "राग पीला भजन 18",
+    "Raag Pilaa Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 741,
+  "displayOrder": 18,
+  "overallOrder": 739,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 392",
+  "updatedAt": "2026-10-26"
 }

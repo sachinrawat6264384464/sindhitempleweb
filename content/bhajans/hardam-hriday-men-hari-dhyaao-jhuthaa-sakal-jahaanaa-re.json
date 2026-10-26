@@ -2,64 +2,115 @@
   "id": "bhajan-0021",
   "slug": "hardam-hriday-men-hari-dhyaao-jhuthaa-sakal-jahaanaa-re",
   "categoryId": "raag-raamkali",
-  "title": "हरदम हरिदय मेन हरि धयाो झुथा सकल जहाना रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "हरदम हृदय में हरि ध्याओ झूठा सकल जहाना रे",
   "romanTitle": "Hardam Hriday Men Hari Dhyaao Jhuthaa Sakal Jahaanaa Re",
   "firstLine": "Hardam Hriday Men Hari Dhyaao Jhuthaa Sakal Jahaanaa Re (Tek).",
+  "heading": "।। राग रामकली भजन ॥।। ९ ।। २१॥।",
+  "tek": [
+    "हरदम हृदय में हरि ध्याओ झूठा सकल जहाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hardam Hriday Men Hari Dhyaao Jhuthaa Sakal Jahaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वार्थ के ये साथी सारे अन्त काम नहिं आना रे ।",
+        "मग पन्‍्थी सम जान कुटुम्ब यह वृथा नेह लगाना रे ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Ke Ye Saathi Saare Ant Kaam Nahin Aanaa Re.",
+        "Mag Pan‍Thi Sam Jaan Kutumb Yah Vrithaa Neh Lagaanaa Re || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तेरे देखत केते चल गये रहा न को सुलिताना रे ।",
+        "इक दिन तुझको भी है जाना किसका यह न ठिकाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tere Dekhat Kete Chal Gaye Rahaa Na Ko Sulitaanaa Re.",
+        "Ik Din Tujhko Bhi Hai Jaanaa Kiskaa Yah Na Thikaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साथ नहीं कुछ ले आया तुम नहीं साथ ले जाना रे ।",
+        "मेरा मेरा कहके मूखं काहिं करत अभिमाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saath Nahin Kuchh Le Aayaa Tum Nahin Saath Le Jaanaa Re.",
+        "Meraa Meraa Kahke Mukhan Kaahin Karat Abhimaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जा सन्त शरन में चाहत जे कल्याना रे ।",
+        "साध सँगति बिन कोय न तरिया भाखत वेद पुराना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jaa Sant Sharan Men Chaahat Je Kalyaanaa Re.",
+        "Saadh Sangti Bin Koy Na Tariyaa Bhaakhat Ved Puraanaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरदम हरिदय मेन हरि धयाो झुथा सकल जहाना रे (टेक)."
+      "स्वार्थ के ये साथी सारे अन्त काम नहिं आना रे ।",
+      "मग पन्‍्थी सम जान कुटुम्ब यह वृथा नेह लगाना रे ॥8 ॥१ ॥"
     ],
     [
-      "सवारथ के ये साथि सारे नत काम नहिन ाना रे.",
-      "मग पनथि सम जान कुतुमब यह वरिथा नेह लगाना रे || 8₹. ||."
+      "तेरे देखत केते चल गये रहा न को सुलिताना रे ।",
+      "इक दिन तुझको भी है जाना किसका यह न ठिकाना रे ॥२ ॥"
     ],
     [
-      "तेरे देखत केते चल गये रहा न को सुलिताना रे.",
-      "िक दीन तुझको भि है जाना किसका यह न थिकाना रे || 2 ||"
+      "साथ नहीं कुछ ले आया तुम नहीं साथ ले जाना रे ।",
+      "मेरा मेरा कहके मूखं काहिं करत अभिमाना रे ॥३ ॥"
     ],
     [
-      "साथ नहिन कुचह ले ाया तुम नहिन साथ ले जाना रे.",
-      "मेरा मेरा कहके मुखन काहिन करत भिमाना रे ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ जा संत शरन मेन चाहत जे कलयाना रे.",
-      "साध सनगति बिन कोय न तरिया भाखत वेद पुराना रे || 4 ||"
+      "कहे टेऊँ जा सन्त शरन में चाहत जे कल्याना रे ।",
+      "साध सँगति बिन कोय न तरिया भाखत वेद पुराना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hardam Hriday Men Hari Dhyaao Jhuthaa Sakal Jahaanaa Re (Tek)."
-    ],
-    [
       "Svaarth Ke Ye Saathi Saare Ant Kaam Nahin Aanaa Re.",
-      "Mag Pan‍Thi Sam Jaan Kutumb Yah Vrithaa Neh Lagaanaa Re || 8₹. ||."
+      "Mag Pan‍Thi Sam Jaan Kutumb Yah Vrithaa Neh Lagaanaa Re || 8 || 1 ||"
     ],
     [
-      "Tere Dekhat Kete Chal Gaye Rahaa N Ko Sulitaanaa Re.",
-      "Ik Din Tujhko Bhi Hai Jaanaa Kiskaa Yah N Thikaanaa Re || 2 ||"
+      "Tere Dekhat Kete Chal Gaye Rahaa Na Ko Sulitaanaa Re.",
+      "Ik Din Tujhko Bhi Hai Jaanaa Kiskaa Yah Na Thikaanaa Re || 2 ||"
     ],
     [
       "Saath Nahin Kuchh Le Aayaa Tum Nahin Saath Le Jaanaa Re.",
-      "Meraa Meraa Kahke Mukhan Kaahin Karat Abhimaanaa Re ||.3 ||."
+      "Meraa Meraa Kahke Mukhan Kaahin Karat Abhimaanaa Re || 3 ||"
     ],
     [
       "Kahe Teun Jaa Sant Sharan Men Chaahat Je Kalyaanaa Re.",
-      "Saadh Sangti Bin Koy N Tariyaa Bhaakhat Ved Puraanaa Re || 4 ||"
+      "Saadh Sangti Bin Koy Na Tariyaa Bhaakhat Ved Puraanaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || || 9 || 21 ||.",
+    "हरदम हृदय में हरि ध्याओ झूठा सकल जहाना रे",
     "Hardam Hriday Men Hari Dhyaao Jhuthaa Sakal Jahaanaa Re",
-    "हरदम हरिदय मेन हरि धयाो झुथा सकल जहाना रे"
+    "राग रामकली भजन 9",
+    "Raag Raamkali Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 21,
+  "displayOrder": 9,
+  "overallOrder": 21,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 36",
+  "updatedAt": "2026-10-26"
 }

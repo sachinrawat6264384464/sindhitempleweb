@@ -2,64 +2,115 @@
   "id": "bhajan-0025",
   "slug": "ek-nagar-main-adbhut-dekhaa-jaanki-chaal-niraali-re",
   "categoryId": "raag-raamkali",
-  "title": "ेक नगर मैं दभुत देखा जानकि चाल निरालि रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "एक नगर मैं अद्भुत देखा जांकी चाल निराली रे",
   "romanTitle": "Ek Nagar Main Adbhut Dekhaa Jaanki Chaal Niraali Re",
   "firstLine": "Ek Nagar Main Adbhut Dekhaa Jaanki Chaal Niraali Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। १३ ।। २५।।",
+  "tek": [
+    "एक नगर मैं अद्भुत देखा जांकी चाल निराली रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ek Nagar Main Adbhut Dekhaa Jaanki Chaal Niraali Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नीर बिना इक सागर देखा जांकी लहर कराली रे ।",
+        "मच्छ कच्छ मांगर मछली तांमें सरिता जात उछाली रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nir Binaa Ik Saagar Dekhaa Jaanki Lahar Karaali Re.",
+        "Machchh Kachchh Maangar Machhli Taanmen Saritaa Jaat Uchhaali Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पुरुष नपुंसक बांझ नारि को जन्मिया पूत सुचाली रे ।",
+        "रूप न रड्ड न अड्ड उसीका सकल सृष्टि विस्ताली रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Purush Napunsak Baanjh Naari Ko Janmiyaa Put Suchaali Re.",
+        "Rup Na Radd Na Add Usikaa Sakal Srishti Vistaali Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बाँझ नपुंसक से सुत उपज्या शोभा जाहिं विशाली रे ।",
+        "जन्मत मात पिता को मारे सारी सृष्टी घाली रे ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Baanjh Napunsak Se Sut Upajyaa Shobhaa Jaahin Vishaali Re.",
+        "Janmat Maat Pitaa Ko Maare Saari Srishti Ghaali Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बादल बिन तां वर्षा बरसे बिन रवि शशि उजियाली रे ।",
+        "कहे टेऊँ जो यह पद बूझे सो जन होय सुखाली रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Baadal Bin Taan Varshaa Barse Bin Ravi Shashi Ujiyaali Re.",
+        "Kahe Teun Jo Yah Pad Bujhe So Jan Hoy Sukhaali Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ेक नगर मैं दभुत देखा जानकि चाल निरालि रे (टेक)."
+      "नीर बिना इक सागर देखा जांकी लहर कराली रे ।",
+      "मच्छ कच्छ मांगर मछली तांमें सरिता जात उछाली रे ॥१ ॥"
     ],
     [
-      "निर बिना िक सागर देखा जानकि लहर करालि रे.",
-      "मचचह कचचह मानगर मचहलि तानमेन सरिता जात ुचहालि रे || 1 ||."
+      "पुरुष नपुंसक बांझ नारि को जन्मिया पूत सुचाली रे ।",
+      "रूप न रड्ड न अड्ड उसीका सकल सृष्टि विस्ताली रे ॥२ ॥"
     ],
     [
-      "पुरुश नपुनसक बानझ नारि को जनमिया पुत सुचालि रे.",
-      "रुप न रदद न दद ुसिका सकल सरिशति विसतालि रे || 2 ||"
+      "बाँझ नपुंसक से सुत उपज्या शोभा जाहिं विशाली रे ।",
+      "जन्मत मात पिता को मारे सारी सृष्टी घाली रे ॥ ।३े ॥"
     ],
     [
-      "बानझ नपुनसक से सुत ुपजया शोभा जाहिन विशालि रे.",
-      "जनमत मात पिता को मारे सारि सरिशति घालि रे ||.3े ||"
-    ],
-    [
-      "बादल बिन तान वरशा बरसे बिन रवि शशि ुजियालि रे.",
-      "कहे तेऊँ जो यह पद बुझे सो जन होय सुखालि रे || 4. ||."
+      "बादल बिन तां वर्षा बरसे बिन रवि शशि उजियाली रे ।",
+      "कहे टेऊँ जो यह पद बूझे सो जन होय सुखाली रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ek Nagar Main Adbhut Dekhaa Jaanki Chaal Niraali Re (Tek)."
-    ],
-    [
       "Nir Binaa Ik Saagar Dekhaa Jaanki Lahar Karaali Re.",
-      "Machchh Kachchh Maangar Machhli Taanmen Saritaa Jaat Uchhaali Re || 1 ||."
+      "Machchh Kachchh Maangar Machhli Taanmen Saritaa Jaat Uchhaali Re || 1 ||"
     ],
     [
       "Purush Napunsak Baanjh Naari Ko Janmiyaa Put Suchaali Re.",
-      "Rup N Radd N Add Usikaa Sakal Srishti Vistaali Re || 2 ||"
+      "Rup Na Radd Na Add Usikaa Sakal Srishti Vistaali Re || 2 ||"
     ],
     [
       "Baanjh Napunsak Se Sut Upajyaa Shobhaa Jaahin Vishaali Re.",
-      "Janmat Maat Pitaa Ko Maare Saari Srishti Ghaali Re ||.3E ||"
+      "Janmat Maat Pitaa Ko Maare Saari Srishti Ghaali Re || 3E ||"
     ],
     [
       "Baadal Bin Taan Varshaa Barse Bin Ravi Shashi Ujiyaali Re.",
-      "Kahe Teun Jo Yah Pad Bujhe So Jan Hoy Sukhaali Re || 4. ||."
+      "Kahe Teun Jo Yah Pad Bujhe So Jan Hoy Sukhaali Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 13 || 25 ||",
+    "एक नगर मैं अद्भुत देखा जांकी चाल निराली रे",
     "Ek Nagar Main Adbhut Dekhaa Jaanki Chaal Niraali Re",
-    "ेक नगर मैं दभुत देखा जानकि चाल निरालि रे"
+    "राग रामकली भजन 13",
+    "Raag Raamkali Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 25,
+  "displayOrder": 13,
+  "overallOrder": 25,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 38",
+  "updatedAt": "2026-10-26"
 }

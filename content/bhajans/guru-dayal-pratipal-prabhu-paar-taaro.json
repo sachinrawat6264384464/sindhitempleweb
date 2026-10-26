@@ -2,68 +2,117 @@
   "id": "bhajan-0001",
   "slug": "guru-dayal-pratipal-prabhu-paar-taaro",
   "categoryId": "raag-bhairav",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
   "title": "गुरु दयाल प्रतिपाल प्रभु पार तारो",
   "romanTitle": "Guru Dayal Pratipal Prabhu Paar Taaro",
-  "firstLine": "Guru Dayal Pratipal Prabhu Paar Taaro. Prabhu Paar Taaro Hari Daas Main Tumhaaro (Tek).",
+  "firstLine": "Guru Dayal Pratipal Prabhu Paar Taaro.",
+  "heading": "।। राग भैरव भजन ।। १॥।",
+  "tek": [
+    "गुरु दयाल प्रतिपाल प्रभु पार तारो ।",
+    "प्रभु पार तारो हरी दास मैं तुम्हारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Dayal Pratipal Prabhu Paar Taaro.",
+    "Prabhu Paar Taaro Hari Daas Main Tumhaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तूं अडोल तूं अबोल तूं अमोल सारो ।",
+        "तूं अकाल सर्वकाल कठिन काल टारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tu Adol Tu Abol Tu Amol Saaro.",
+        "Tu Akaal Sarvakaal Kathin Kaal Taaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व॑ सार तूं सतार अगम तूं अपारो ।",
+        "निरहंकार निर्विकार नाम दे उबारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Saar Tu Sataar Agam Tu Apaaro.",
+        "Nirhankaar Nirvikaar Naam De Ubaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जीव पिण्ड ब्रह्मण्ड सर्व॑ तव पसारो ।",
+        "परम चण्ड हे अखण्ड नाथ मोहि सुधारों ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jiv Pind Brahmand Sarv Tav Pasaaro.",
+        "Param Chand He Akhand Naath Mohi Sudhaaron || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "विश्वपाल तुम गोपाल मैं हूं बाल थारो ।",
+        "कहे टेऊँ ताप तीन पाप सब निवारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Vishwapal Tum Gopal Main Hun Baal Thaaro.",
+        "Kahe Teun Taap Tin Paap Sab Nivaaro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु दयाल प्रतिपाल प्रभु पार तारो.",
-      "प्रभु पार तारो हरि दास मैं तुम्हारो (टेक)."
+      "तूं अडोल तूं अबोल तूं अमोल सारो ।",
+      "तूं अकाल सर्वकाल कठिन काल टारो ॥१ ॥"
     ],
     [
-      "तु दोल तु बोल तु मोल सारो.",
-      "तु अकाल सरवकाल कथिन काल तारो || 1 ||"
+      "सर्व॑ सार तूं सतार अगम तूं अपारो ।",
+      "निरहंकार निर्विकार नाम दे उबारो ॥२ ॥"
     ],
     [
-      "सर्व सार तु सतार गम तु पारो.",
-      "निरहनकार निरविकार नाम दे ुबारो || 2 ||."
+      "जीव पिण्ड ब्रह्मण्ड सर्व॑ तव पसारो ।",
+      "परम चण्ड हे अखण्ड नाथ मोहि सुधारों ॥३ ॥"
     ],
     [
-      "जिव पिनद बरहमनद सर्व तव पसारो.",
-      "परम चनद हे खनद नाथ मोहि सुधारोन || 3 ||."
-    ],
-    [
-      "विशwपल तुम गोपाल मैं हुन बाल थारो.",
-      "कहे तेऊँ ताप तिन पाप सब निवारो || 4 ||."
+      "विश्वपाल तुम गोपाल मैं हूं बाल थारो ।",
+      "कहे टेऊँ ताप तीन पाप सब निवारो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Guru Dayal Pratipal Prabhu Paar Taaro.",
-      "Prabhu Paar Taaro Hari Daas Main Tumhaaro (Tek)."
-    ],
     [
       "Tu Adol Tu Abol Tu Amol Saaro.",
       "Tu Akaal Sarvakaal Kathin Kaal Taaro || 1 ||"
     ],
     [
       "Sarv Saar Tu Sataar Agam Tu Apaaro.",
-      "Nirhankaar Nirvikaar Naam De Ubaaro || 2 ||."
+      "Nirhankaar Nirvikaar Naam De Ubaaro || 2 ||"
     ],
     [
       "Jiv Pind Brahmand Sarv Tav Pasaaro.",
-      "Param Chand He Akhand Naath Mohi Sudhaaron || 3 ||."
+      "Param Chand He Akhand Naath Mohi Sudhaaron || 3 ||"
     ],
     [
       "Vishwapal Tum Gopal Main Hun Baal Thaaro.",
-      "Kahe Teun Taap Tin Paap Sab Nivaaro || 4 ||."
+      "Kahe Teun Taap Tin Paap Sab Nivaaro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairav Bhajan || 1 ||.",
+    "गुरु दयाल प्रतिपाल प्रभु पार तारो",
     "Guru Dayal Pratipal Prabhu Paar Taaro",
-    "गुरु दयाल प्रतिपाल प्रभु पार तारो"
+    "राग भैरव भजन 1",
+    "Raag Bhairav Bhajan 1"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 1,
+  "overallOrder": 1,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 26",
+  "updatedAt": "2026-10-26"
 }

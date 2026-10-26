@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0733",
+  "id": "bhajan-0731",
   "slug": "guru-murat-man-dhaaro-tum-guru-kaa-naam-uchchaaro",
   "categoryId": "raag-pilaa",
-  "title": "गुरु मुरत मन धारो, तुम गुरु का नाम ुचचारो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "गुरु मूरत मन धारो, तुम गुरु का नाम उच्चारो",
   "romanTitle": "Guru Murat Man Dhaaro, Tum Guru Kaa Naam Uchchaaro",
   "firstLine": "Guru Murat Man Dhaaro, Tum Guru Kaa Naam Uchchaaro (Tek).",
+  "heading": "।। राग पीला भजन ।। ११ ।। ७३ ३।।",
+  "tek": [
+    "गुरु मूरत मन धारो, तुम गुरु का नाम उच्चारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Murat Man Dhaaro, Tum Guru Kaa Naam Uchchaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पहले गुरु को तन मन धन दे, पीछे गुरु से नाम रतन ले ।",
+        "सुमरो नाहिं बिसारो ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pahle Guru Ko Tan Man Dhan De, Pichhe Guru Se Naam Ratan Le.",
+        "Sumro Naahin Bisaaro || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नैन कान मुख को बन्द करके, अन्तर्मुख हो नाम सुमरके ।",
+        "तांका अर्थ विचारों ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nain Kaan Mukh Ko Band Karke, Antarmukh Ho Naam Sumrake.",
+        "Taankaa Arth Vichaaron || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इड़ा पिज्ञला सुषुम्न नाड़ी, इन से सुमरन कर सदूवारी ।",
+        "खोलो दसम द्वारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Iraa Pijnyalaa Sushumn Naari, In Se Sumran Kar Saduvaari.",
+        "Kholo Dasam Dvaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि सुमरन कीजे, अमर प्याला भर भर पीजे ।",
+        "आवागमन निवारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Sumran Kije, Amar Pyaalaa Bhar Bhar Pije.",
+        "Aavaagman Nivaaro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु मुरत मन धारो, तुम गुरु का नाम ुचचारो (टेक)."
+      "पहले गुरु को तन मन धन दे, पीछे गुरु से नाम रतन ले ।",
+      "सुमरो नाहिं बिसारो ॥१ ॥१ ॥"
     ],
     [
-      "पहले गुरु को तन मन धन दे, पिचहे गुरु से नाम रतन ले.",
-      "सुमरो नाहिन बिसारो || 1$ ||"
+      "नैन कान मुख को बन्द करके, अन्तर्मुख हो नाम सुमरके ।",
+      "तांका अर्थ विचारों ॥२ ॥"
     ],
     [
-      "नैन कान मुख को बनद करके, नतरमुख हो नाम सुमरके.",
-      "तानका रथ विचारोन || 2 ||"
+      "इड़ा पिज्ञला सुषुम्न नाड़ी, इन से सुमरन कर सदूवारी ।",
+      "खोलो दसम द्वारो ॥३ ॥"
     ],
     [
-      "िरा पिजनयला सुशुमन नारि, िन से सुमरन कर सदुवारि.",
-      "खोलो दसम दवारो || 3 ||."
-    ],
-    [
-      "कहे तेऊँ हरि सुमरन किजे, मर पयाला भर भर पिजे.",
-      "ावागमन निवारो || 4. ||."
+      "कहे टेऊँ हरि सुमरन कीजे, अमर प्याला भर भर पीजे ।",
+      "आवागमन निवारो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Murat Man Dhaaro, Tum Guru Kaa Naam Uchchaaro (Tek)."
-    ],
-    [
       "Pahle Guru Ko Tan Man Dhan De, Pichhe Guru Se Naam Ratan Le.",
-      "Sumro Naahin Bisaaro || 1$ ||"
+      "Sumro Naahin Bisaaro || 1 || 1 ||"
     ],
     [
       "Nain Kaan Mukh Ko Band Karke, Antarmukh Ho Naam Sumrake.",
@@ -40,28 +89,28 @@
     ],
     [
       "Iraa Pijnyalaa Sushumn Naari, In Se Sumran Kar Saduvaari.",
-      "Kholo Dasam Dvaaro || 3 ||."
+      "Kholo Dasam Dvaaro || 3 ||"
     ],
     [
       "Kahe Teun Hari Sumran Kije, Amar Pyaalaa Bhar Bhar Pije.",
-      "Aavaagman Nivaaro || 4. ||."
+      "Aavaagman Nivaaro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 11 || 73 3 ||",
+    "गुरु मूरत मन धारो, तुम गुरु का नाम उच्चारो",
     "Guru Murat Man Dhaaro, Tum Guru Kaa Naam Uchchaaro",
-    "गुरु मुरत मन धारो, तुम गुरु का नाम ुचचारो"
+    "राग पीला भजन 10",
+    "Raag Pilaa Bhajan 10"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 733,
+  "displayOrder": 10,
+  "overallOrder": 731,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 389",
+  "updatedAt": "2026-10-26"
 }

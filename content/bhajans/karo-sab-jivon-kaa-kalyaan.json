@@ -2,66 +2,117 @@
   "id": "bhajan-0210",
   "slug": "karo-sab-jivon-kaa-kalyaan",
   "categoryId": "raag-tori",
-  "title": "करो सब जिवोन का कलयान",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "करो सब जीवों का कल्यान",
   "romanTitle": "Karo Sab Jivon Kaa Kalyaan",
-  "firstLine": "Karo Sab Jivon Kaa Kalyaan. Din Dayaalu Araz Hamaaraa Suniye Dekar Kaan (Tek).",
+  "firstLine": "Karo Sab Jivon Kaa Kalyaan.",
+  "heading": "।। राग टोड़ी भजन ।। १८ ।। २१०।।",
+  "tek": [
+    "करो सब जीवों का कल्यान ।",
+    "दीन दयालू अरज़ हमारा सुनिये देकर कान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Sab Jivon Kaa Kalyaan.",
+    "Din Dayaalu Araz Hamaaraa Suniye Dekar Kaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "महा भयानक देख समय को डरपत सकल जहान ।",
+        "कृपा कर सब जीवों को तुम देवो निर्भय दान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mahaa Bhayaanak Dekh Samay Ko Darpat Sakal Jahaan.",
+        "Kripaa Kar Sab Jivon Ko Tum Devo Nirbhay Daan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भव सागर के घोर चक्कर में भरमत जीव अजान ।",
+        "चरण कमल की नाव चढ़ाकर पार करो भगवान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhav Saagar Ke Ghor Chakkar Men Bharmat Jiv Ajaan.",
+        "Charan Kamal Ki Naav Charhaakar Paar Karo Bhagvaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सड्ट मोचन भव दुख भज्जन तेरा नाम सुजान ।",
+        "दूख हरो सब जीवन के तुम अपना बिरद पछान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadt Mochan Bhav Dukh Bhajjan Teraa Naam Sujaan.",
+        "Dukh Haro Sab Jivan Ke Tum Apnaa Birad Pachhaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ अरिदासा महिर करे महिरबान ।",
+        "सब जीवन को देवों प्रभू शान्ति सुमति गुण ज्ञान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Aridaasaa Mahir Kare Mahirbaan.",
+        "Sab Jivan Ko Devon Prabhu Shaanti Sumti Gun Gyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सब जिवोन का कलयान.",
-      "दीन दयालु रz हमारा सुनिये देकर कान (टेक)."
+      "महा भयानक देख समय को डरपत सकल जहान ।",
+      "कृपा कर सब जीवों को तुम देवो निर्भय दान ॥१ ॥"
     ],
     [
-      "महा भयानक देख समय को दरपत सकल जहान.",
-      "कृपा कर सब जिवोन को तुम देवो निरभय दान ||.8 ||."
+      "भव सागर के घोर चक्कर में भरमत जीव अजान ।",
+      "चरण कमल की नाव चढ़ाकर पार करो भगवान ॥२ ॥"
     ],
     [
-      "भव सागर के घोर चककर मेन भरमत जिव जान.",
-      "चरण कमल कि नाव चरहाकर पार करो भगवान || || 2 ||"
+      "सड्ट मोचन भव दुख भज्जन तेरा नाम सुजान ।",
+      "दूख हरो सब जीवन के तुम अपना बिरद पछान ॥३ ॥"
     ],
     [
-      "सदत मोचन भव दुःख भजजन तेरा नाम सुजान.",
-      "दुःख हरो सब जिवन के तुम पना बिरद पचहान || 3 ||."
-    ],
-    [
-      "कहे तेऊँ कर जोर रिदासा महिर करे महिरबान.",
-      "सब जिवन को देवोन प्रभु शांति सुमति गुन ज्ञान || 4 ||"
+      "कहे टेऊँ कर जोड़ अरिदासा महिर करे महिरबान ।",
+      "सब जीवन को देवों प्रभू शान्ति सुमति गुण ज्ञान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Sab Jivon Kaa Kalyaan.",
-      "Din Dayaalu Araz Hamaaraa Suniye Dekar Kaan (Tek)."
-    ],
-    [
       "Mahaa Bhayaanak Dekh Samay Ko Darpat Sakal Jahaan.",
-      "Kripaa Kar Sab Jivon Ko Tum Devo Nirbhay Daan ||.8 ||."
+      "Kripaa Kar Sab Jivon Ko Tum Devo Nirbhay Daan || 1 ||"
     ],
     [
       "Bhav Saagar Ke Ghor Chakkar Men Bharmat Jiv Ajaan.",
-      "Charan Kamal Ki Naav Charhaakar Paar Karo Bhagvaan || || 2 ||"
+      "Charan Kamal Ki Naav Charhaakar Paar Karo Bhagvaan || 2 ||"
     ],
     [
       "Sadt Mochan Bhav Dukh Bhajjan Teraa Naam Sujaan.",
-      "Dukh Haro Sab Jivan Ke Tum Apnaa Birad Pachhaan || 3 ||."
+      "Dukh Haro Sab Jivan Ke Tum Apnaa Birad Pachhaan || 3 ||"
     ],
     [
       "Kahe Teun Kar Jor Aridaasaa Mahir Kare Mahirbaan.",
-      "Sab Jivan Ko Devon Prabhu Shaanti Sumti Gun Jnyaan || 4 ||"
+      "Sab Jivan Ko Devon Prabhu Shaanti Sumti Gun Gyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 18 || 210 ||",
+    "करो सब जीवों का कल्यान",
     "Karo Sab Jivon Kaa Kalyaan",
-    "करो सब जिवोन का कलयान"
+    "राग तोड़ी भजन 18",
+    "Raag Tori Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 210,
+  "displayOrder": 18,
+  "overallOrder": 210,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 133",
+  "updatedAt": "2026-10-26"
 }

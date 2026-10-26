@@ -1,42 +1,91 @@
 {
   "id": "bhajan-0297",
   "slug": "tum-bhajan-karo-bhagvaan-kaa-yah-maarg-hai-kalyaan-kaa",
-  "categoryId": "raag-bhairav",
-  "title": "तुम भजन करो भगवान का, यह मारग है कलयान का",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "तुम भजन करो भगवान का, यह मार्ग है कल्यान का",
   "romanTitle": "Tum Bhajan Karo Bhagvaan Kaa, Yah Maarg Hai Kalyaan Kaa",
   "firstLine": "Tum Bhajan Karo Bhagvaan Kaa, Yah Maarg Hai Kalyaan Kaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ८२ ।। २९७।।",
+  "tek": [
+    "तुम भजन करो भगवान का, यह मार्ग है कल्यान का ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Bhajan Karo Bhagvaan Kaa, Yah Maarg Hai Kalyaan Kaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कलीकाल में मुक्ति करन का, सुगम यत्न है हरि स्मरन का ।",
+        "यह कहना वेद पुरान का ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kalikaal Men Mukti Karan Kaa, Sugam Yatn Hai Hari Smaran Kaa.",
+        "Yah Kahnaa Ved Puraan Kaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "और युगों में औरे साधन, कलि में केवल हरि का स्मरन ।",
+        "गुन गाइये कृपा निधान का ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aur Yugon Men Aure Saadhan, Kali Men Keval Hari Kaa Smaran.",
+        "Gun Gaaiye Kripaa Nidhaan Kaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब सन्तों मिल निर्णय कीना, हरि स्मरण को उत्तम चीना ।",
+        "कर स्मरन राम महान का ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sab Santon Mil Nirnay Kinaa, Hari Smaran Ko Uttam Chinaa.",
+        "Kar Smaran Raam Mahaan Kaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ हरि को रटले, जन्म मरण के बन्धन कटले ।",
+        "तज झूठा मोह जहान का ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Hari Ko Ratle, Janm Maran Ke Bandhan Katle.",
+        "Taj Jhuthaa Moh Jahaan Kaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम भजन करो भगवान का, यह मारग है कलयान का (टेक)."
+      "कलीकाल में मुक्ति करन का, सुगम यत्न है हरि स्मरन का ।",
+      "यह कहना वेद पुरान का ॥१ ॥"
     ],
     [
-      "कलिकाल मेन मुक्ति करन का, सुगम यतन है हरि समरन का.",
-      "यह कहना वेद पुरान का || 1. || ||"
+      "और युगों में औरे साधन, कलि में केवल हरि का स्मरन ।",
+      "गुन गाइये कृपा निधान का ॥२ ॥"
     ],
     [
-      "ौर युगोन मेन ौरे साधन, कलि मेन केवल हरि का समरन.",
-      "गुन गािये कृपा निधान का ||.2 ||"
+      "सब सन्तों मिल निर्णय कीना, हरि स्मरण को उत्तम चीना ।",
+      "कर स्मरन राम महान का ॥३ ॥"
     ],
     [
-      "सब सनतोन मिल निरनय किना, हरि समरन को ुततम चिना.",
-      "कर समरन राम महान का || 3 ||"
-    ],
-    [
-      "कहता तेऊँ हरि को रतले, जनम मरन के बनधन कतले.",
-      "तज झुथा मोह जहान का ||.4 ||."
+      "कहता टेऊँ हरि को रटले, जन्म मरण के बन्धन कटले ।",
+      "तज झूठा मोह जहान का ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Bhajan Karo Bhagvaan Kaa, Yah Maarg Hai Kalyaan Kaa (Tek)."
-    ],
-    [
       "Kalikaal Men Mukti Karan Kaa, Sugam Yatn Hai Hari Smaran Kaa.",
-      "Yah Kahnaa Ved Puraan Kaa || 1. || ||"
+      "Yah Kahnaa Ved Puraan Kaa || 1 ||"
     ],
     [
       "Aur Yugon Men Aure Saadhan, Kali Men Keval Hari Kaa Smaran.",
-      "Gun Gaaiye Kripaa Nidhaan Kaa ||.2 ||"
+      "Gun Gaaiye Kripaa Nidhaan Kaa || 2 ||"
     ],
     [
       "Sab Santon Mil Nirnay Kinaa, Hari Smaran Ko Uttam Chinaa.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahtaa Teun Hari Ko Ratle, Janm Maran Ke Bandhan Katle.",
-      "Taj Jhuthaa Moh Jahaan Kaa ||.4 ||."
+      "Taj Jhuthaa Moh Jahaan Kaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 82 || 297 ||",
+    "तुम भजन करो भगवान का, यह मार्ग है कल्यान का",
     "Tum Bhajan Karo Bhagvaan Kaa, Yah Maarg Hai Kalyaan Kaa",
-    "तुम भजन करो भगवान का, यह मारग है कलयान का"
+    "राग भैरवी भजन 82",
+    "Raag Bhairvi Bhajan 82"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 297,
+  "displayOrder": 82,
+  "overallOrder": 297,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 179",
+  "updatedAt": "2026-10-26"
 }

@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0197",
+  "slug": "santon-se-le-gyaan-aatm-kaa-dharle-dhyaan",
+  "categoryId": "raag-tori",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "सन्तों से ले ज्ञान, आत्म का धरले ध्यान",
+  "romanTitle": "Santon Se Le Gyaan, Aatm Kaa Dharle Dhyaan",
+  "firstLine": "Santon Se Le Gyaan, Aatm Kaa Dharle Dhyaan.",
+  "heading": "।। राग टोड़ी भजन ।। ५ ।। १९७।।",
+  "tek": [
+    "सन्तों से ले ज्ञान, आत्म का धरले ध्यान ।",
+    "तब तेरा होवे कल्यान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Se Le Gyaan, Aatm Kaa Dharle Dhyaan.",
+    "Tab Teraa Hove Kalyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रद्धा से जा सन्त द्वारे, सेवा करिये प्रेम से प्यारे ।",
+        "मान तजे हो जा निर्मान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Jaa Sant Dvaare, Sevaa Kariye Prem Se Pyaare.",
+        "Maan Taje Ho Jaa Nirmaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्तों जैसा और न दाता, सन्त जगत के हैं पित माता ।",
+        "दूख कटे दे सूख महान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santon Jaisaa Aur Na Daataa, Sant Jagat Ke Hain Pit Maataa.",
+        "Dukh Kate De Sukh Mahaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त हरी इक रूप पछानो, तामें भेद न रंचक मानो ।",
+        "वो निर्गुन ये सगुण पछान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Hari Ik Rup Pachhaano, Taamen Bhed Na Ranchak Maano.",
+        "Vo Nirgun Ye Sagun Pachhaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सनतों का संग है सुखदाई, कहे टेऊँ हो अन्त सहाई ।",
+        "तांसे मिल करो हरिगुन गान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Santon Kaa Sang Hai Sukhdaai, Kahe Teun Ho Ant Sahaai.",
+        "Taanse Mil Karo Harigun Gaan || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "श्रद्धा से जा सन्त द्वारे, सेवा करिये प्रेम से प्यारे ।",
+      "मान तजे हो जा निर्मान ॥१ ॥"
+    ],
+    [
+      "सन्तों जैसा और न दाता, सन्त जगत के हैं पित माता ।",
+      "दूख कटे दे सूख महान ॥२ ॥"
+    ],
+    [
+      "सन्त हरी इक रूप पछानो, तामें भेद न रंचक मानो ।",
+      "वो निर्गुन ये सगुण पछान ॥३ ॥"
+    ],
+    [
+      "सनतों का संग है सुखदाई, कहे टेऊँ हो अन्त सहाई ।",
+      "तांसे मिल करो हरिगुन गान ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Shraddhaa Se Jaa Sant Dvaare, Sevaa Kariye Prem Se Pyaare.",
+      "Maan Taje Ho Jaa Nirmaan || 1 ||"
+    ],
+    [
+      "Santon Jaisaa Aur Na Daataa, Sant Jagat Ke Hain Pit Maataa.",
+      "Dukh Kate De Sukh Mahaan || 2 ||"
+    ],
+    [
+      "Sant Hari Ik Rup Pachhaano, Taamen Bhed Na Ranchak Maano.",
+      "Vo Nirgun Ye Sagun Pachhaan || 3 ||"
+    ],
+    [
+      "Santon Kaa Sang Hai Sukhdaai, Kahe Teun Ho Ant Sahaai.",
+      "Taanse Mil Karo Harigun Gaan || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "सन्तों से ले ज्ञान, आत्म का धरले ध्यान",
+    "Santon Se Le Gyaan, Aatm Kaa Dharle Dhyaan",
+    "राग तोड़ी भजन 5",
+    "Raag Tori Bhajan 5"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
+  ],
+  "displayOrder": 5,
+  "overallOrder": 197,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 127",
+  "updatedAt": "2026-10-26"
+}

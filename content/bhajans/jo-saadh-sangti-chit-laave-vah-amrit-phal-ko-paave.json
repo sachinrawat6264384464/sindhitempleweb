@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0670",
+  "id": "bhajan-0668",
   "slug": "jo-saadh-sangti-chit-laave-vah-amrit-phal-ko-paave",
   "categoryId": "raag-pahaari",
-  "title": "जो साध सनगति चित लावे, वह अमृत फल को पावे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "जो साध संगति चित लावे, वह अमृत फल को पावे",
   "romanTitle": "Jo Saadh Sangti Chit Laave, Vah Amrit Phal Ko Paave",
   "firstLine": "Jo Saadh Sangti Chit Laave, Vah Amrit Phal Ko Paave (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। २१ ।। ६६९।।",
+  "tek": [
+    "जो साध संगति चित लावे, वह अमृत फल को पावे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jo Saadh Sangti Chit Laave, Vah Amrit Phal Ko Paave (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साध संगति सागर सम जानो, जो जन डुबकी लावे ।",
+        "ज्ञान ध्यान गुण प्रेम के मोती, तांके कर में आवे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Saagar Sam Jaano, Jo Jan Dubki Laave.",
+        "Gyaan Dhyaan Gun Prem Ke Moti, Taanke Kar Men Aave || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साध संगति सुरतरु सम जग में, मन की आस पुजावे ।",
+        "जो जन तिसकी छाया बैठे, तांकी तप्त मिटावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Surtaru Sam Jag Men, Man Ki Aas Pujaave.",
+        "Jo Jan Tiski Chhaayaa Baithe, Taanki Tapt Mitaave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साध संगति पारस के सदुश, लोहा कनक बनावे ।",
+        "ज्यों चन्दन के संग से सब तरु, चन्दन ही बन जावे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Paaras Ke Sadush, Lohaa Kanak Banaave.",
+        "Jyon Chandan Ke Sang Se Sab Taru, Chandan Hi Ban Jaave || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "साध संगति की महिमा भारी, वेद पुरान बतावे ।",
+        "शेष शारदा पार न पावे, जन टेऊँ क्या गावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Ki Mahimaa Bhaari, Ved Puraan Bataave.",
+        "Shesh Shaardaa Paar Na Paave, Jan Teun Kyaa Gaave || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जो साध सनगति चित लावे, वह अमृत फल को पावे (टेक)."
+      "साध संगति सागर सम जानो, जो जन डुबकी लावे ।",
+      "ज्ञान ध्यान गुण प्रेम के मोती, तांके कर में आवे ॥१ ॥"
     ],
     [
-      "साध सनगति सागर सम जानो, जो जन दुबकि लावे.",
-      "ज्ञान ध्यान गुन प्रेम के मोति, तानके कर मेन ावे || 1 ||"
+      "साध संगति सुरतरु सम जग में, मन की आस पुजावे ।",
+      "जो जन तिसकी छाया बैठे, तांकी तप्त मिटावे ॥२ ॥"
     ],
     [
-      "साध सनगति सुरतरु सम जग मेन, मन कि ास पुजावे.",
-      "जो जन तिसकि चहाया बैथे, तानकि तपत मितावे || 2 ||."
+      "साध संगति पारस के सदुश, लोहा कनक बनावे ।",
+      "ज्यों चन्दन के संग से सब तरु, चन्दन ही बन जावे ॥३ ॥"
     ],
     [
-      "साध सनगति पारस के सदुश, लोहा कनक बनावे.",
-      "जयोन चनदन के सनग से सब तरु, चनदन हि बन जावे ||.3 ||."
-    ],
-    [
-      "साध सनगति कि महिमा भारि, वेद पुरान बतावे.",
-      "शेश शारदा पार न पावे, जन तेऊँ कया गावे || 4 ||."
+      "साध संगति की महिमा भारी, वेद पुरान बतावे ।",
+      "शेष शारदा पार न पावे, जन टेऊँ क्या गावे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jo Saadh Sangti Chit Laave, Vah Amrit Phal Ko Paave (Tek)."
-    ],
-    [
       "Saadh Sangti Saagar Sam Jaano, Jo Jan Dubki Laave.",
-      "Jnyaan Dhyaan Gun Prem Ke Moti, Taanke Kar Men Aave || 1 ||"
+      "Gyaan Dhyaan Gun Prem Ke Moti, Taanke Kar Men Aave || 1 ||"
     ],
     [
       "Saadh Sangti Surtaru Sam Jag Men, Man Ki Aas Pujaave.",
-      "Jo Jan Tiski Chhaayaa Baithe, Taanki Tapt Mitaave || 2 ||."
+      "Jo Jan Tiski Chhaayaa Baithe, Taanki Tapt Mitaave || 2 ||"
     ],
     [
       "Saadh Sangti Paaras Ke Sadush, Lohaa Kanak Banaave.",
-      "Jyon Chandan Ke Sang Se Sab Taru, Chandan Hi Ban Jaave ||.3 ||."
+      "Jyon Chandan Ke Sang Se Sab Taru, Chandan Hi Ban Jaave || 3 ||"
     ],
     [
       "Saadh Sangti Ki Mahimaa Bhaari, Ved Puraan Bataave.",
-      "Shesh Shaardaa Paar N Paave, Jan Teun Kyaa Gaave || 4 ||."
+      "Shesh Shaardaa Paar Na Paave, Jan Teun Kyaa Gaave || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 21 || 669 ||",
+    "जो साध संगति चित लावे, वह अमृत फल को पावे",
     "Jo Saadh Sangti Chit Laave, Vah Amrit Phal Ko Paave",
-    "जो साध सनगति चित लावे, वह अमृत फल को पावे"
+    "राग पहाड़ी भजन 21",
+    "Raag Pahaari Bhajan 21"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 670,
+  "displayOrder": 21,
+  "overallOrder": 668,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 356",
+  "updatedAt": "2026-10-26"
 }

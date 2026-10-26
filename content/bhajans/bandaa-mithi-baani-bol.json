@@ -1,46 +1,104 @@
 {
-  "id": "bhajan-0625",
+  "id": "bhajan-0623",
   "slug": "bandaa-mithi-baani-bol",
   "categoryId": "raag-kalyaan",
-  "title": "बनदा मिथि बानी बोल",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "बन्दा मीठी बाणी बोल",
   "romanTitle": "Bandaa Mithi Baani Bol",
-  "firstLine": "Bandaa Mithi Baani Bol. Pahle Apne Hriday Tole, Pichhe Mukh Ko Khol (Tek).",
+  "firstLine": "Bandaa Mithi Baani Bol.",
+  "heading": "।। राग कल्याण भजन ।। १७ ।। ६२४।।",
+  "tek": [
+    "बन्दा मीठी बाणी बोल ।",
+    "पहले अपने हृदय तोले, पीछे मुख को खोल ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa Mithi Baani Bol.",
+    "Pahle Apne Hriday Tole, Pichhe Mukh Ko Khol (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मीठी बाणी है सुखकारी, सब जीवों को लागत प्यारी ।",
+        "सुन सुन जावत घोल ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mithi Baani Hai Sukhkaari, Sab Jivon Ko Laagat Pyaari.",
+        "Sun Sun Jaavat Ghol || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम रूप हैं सर्व प्राणी, बोल न किससे फीकी बाणी ।",
+        "फीकी का नहिं मोल ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Rup Hain Sarv Praani, Bol Na Kisse Phiki Baani.",
+        "Phiki Kaa Nahin Mol || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दो दिन है तेरी ज़िन्दगानी, तांते बोलो मीठी बानी ।",
+        "मीठी है अनमोल ॥३ ॥"
+      ],
+      "romanLines": [
+        "Do Din Hai Teri Zindagaani, Taante Bolo Mithi Baani.",
+        "Mithi Hai Anmol || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ नित मीठी बानी, बोलत सुरनर मुनिजन ज्ञानी ।",
+        "अपने मन में तोल ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nit Mithi Baani, Bolat Surnar Munijan Jnyaani.",
+        "Apne Man Men Tol || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्गठ"
+      ],
+      "romanLines": [
+        "Dgath"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदा मिथि बानी बोल.",
-      "पहले पने हरिदय तोले, पिचहे मुख को खोल (टेक)."
+      "मीठी बाणी है सुखकारी, सब जीवों को लागत प्यारी ।",
+      "सुन सुन जावत घोल ॥१ ॥"
     ],
     [
-      "मिथि बानी है सुखकारि, सब जिवोन को लागत पयारि.",
-      "सुन सुन जावत घोल ||.1 ||"
+      "राम रूप हैं सर्व प्राणी, बोल न किससे फीकी बाणी ।",
+      "फीकी का नहिं मोल ॥२ ॥"
     ],
     [
-      "राम रुप हैन सर्व परानि, बोल न किससे फिकि बानी.",
-      "फिकि का नहिन मोल || 2 ||"
+      "दो दिन है तेरी ज़िन्दगानी, तांते बोलो मीठी बानी ।",
+      "मीठी है अनमोल ॥३ ॥"
     ],
     [
-      "दो दीन है तेरि zिनदगानि, तानते बोलो मिथि बानी.",
-      "मिथि है नमोल || 3 ||"
+      "कहे टेऊँ नित मीठी बानी, बोलत सुरनर मुनिजन ज्ञानी ।",
+      "अपने मन में तोल ॥४ ॥"
     ],
     [
-      "कहे तेऊँ नित मिथि बानी, बोलत सुरनर मुनिजन जनयानि.",
-      "पने मन मेन तोल ||.4. ||."
-    ],
-    [
-      "दगथ"
+      "द्गठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandaa Mithi Baani Bol.",
-      "Pahle Apne Hriday Tole, Pichhe Mukh Ko Khol (Tek)."
-    ],
-    [
       "Mithi Baani Hai Sukhkaari, Sab Jivon Ko Laagat Pyaari.",
-      "Sun Sun Jaavat Ghol ||.1 ||"
+      "Sun Sun Jaavat Ghol || 1 ||"
     ],
     [
-      "Raam Rup Hain Sarv Praani, Bol N Kisse Phiki Baani.",
+      "Raam Rup Hain Sarv Praani, Bol Na Kisse Phiki Baani.",
       "Phiki Kaa Nahin Mol || 2 ||"
     ],
     [
@@ -49,25 +107,27 @@
     ],
     [
       "Kahe Teun Nit Mithi Baani, Bolat Surnar Munijan Jnyaani.",
-      "Apne Man Men Tol ||.4. ||."
+      "Apne Man Men Tol || 4 ||"
     ],
     [
       "Dgath"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 17 || 624 ||",
+    "बन्दा मीठी बाणी बोल",
     "Bandaa Mithi Baani Bol",
-    "बनदा मिथि बानी बोल"
+    "राग कल्याण भजन 17",
+    "Raag Kalyaan Bhajan 17"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 625,
+  "displayOrder": 17,
+  "overallOrder": 623,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 334",
+  "updatedAt": "2026-10-26"
 }

@@ -2,67 +2,117 @@
   "id": "bhajan-0008",
   "slug": "sab-kaa-prabhu-hai-paalan-haaraa",
   "categoryId": "raag-bhairav",
-  "title": "सब का प्रभु है पालन हारा",
-  "romanTitle": "Sab Kaa Prabhu Hai Paalan Haaraa",
-  "firstLine": "Sab Kaa Prabhu Hai Paalan Haaraa, Kyon Karte Ho Chintaa Pyaaraa (Tek).",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "सब का प्रभू है पालन हारा,",
+  "romanTitle": "Sab Kaa Prabhu Hai Paalan Haaraa,",
+  "firstLine": "Sab Kaa Prabhu Hai Paalan Haaraa,",
+  "heading": "।। राग भैरव भजन ॥।। ८ ॥।",
+  "tek": [
+    "सब का प्रभू है पालन हारा,",
+    "क्यों करते हो चिन्ता प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sab Kaa Prabhu Hai Paalan Haaraa,",
+    "Kyon Karte Ho Chintaa Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात गर्भ करी प्रतिपाला, बाहर स्तन में दूध डाला ।",
+        "जल थल में भी देत अहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Garbh Kari Pratipaalaa, Baahar Stan Men Dudh Daalaa.",
+        "Jal Thal Men Bhi Det Ahaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अनल पंछी अकाश में फिरता ,अजगर कार नहीं कोई करता ।",
+        "नित तांको भी दे दातारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Anal Panchhi Akaash Men Phirtaa,Ajgar Kaar Nahin Koi Kartaa.",
+        "Nit Taanko Bhi De Daataaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देता जिसका अहार है जेता, कीट को पाहन में भी वो देता ।",
+        "किसको भूख न अब तक मारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Detaa Jiskaa Ahaar Hai Jetaa, Kit Ko Paahan Men Bhi Vo Detaa.",
+        "Kisko Bhukh Na Ab Tak Maaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "स्वास दिया तो देगा गिरासा, कहे टेऊँ न हो तूं निरासा ।",
+        "हो निश्चिन्त जप कर्तारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Svaas Diyaa To Degaa Giraasaa, Kahe Teun Na Ho Tu Niraasaa.",
+        "Ho Nishchint Jap Kartaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सब का प्रभु है पालन हारा,",
-      "कयोन करते हो चिनता पयारा (टेक)."
+      "मात गर्भ करी प्रतिपाला, बाहर स्तन में दूध डाला ।",
+      "जल थल में भी देत अहारा ॥१ ॥"
     ],
     [
-      "मात गरभ करि परतिपाला, बाहर सतन मेन दुध दाला.",
-      "जल थल मेन भि देत हारा || $ ||"
+      "अनल पंछी अकाश में फिरता ,अजगर कार नहीं कोई करता ।",
+      "नित तांको भी दे दातारा ॥२ ॥"
     ],
     [
-      "नल पनचहि काश मेन फिरताजगर कार नहिन कोि करता.",
-      "नित तानको भि दे दातारा ||.2 ||."
+      "देता जिसका अहार है जेता, कीट को पाहन में भी वो देता ।",
+      "किसको भूख न अब तक मारा ॥३ ॥"
     ],
     [
-      "देता जिसका हार है जेता, कित को पाहन मेन भि वो देता.",
-      "किसको भुख न ब तक मारा ||.3. ||."
-    ],
-    [
-      "सवास दिया तो देगा गिरासा, कहे तेऊँ न हो तु निरासा.",
-      "हो निशचिनत जप करतारा || 4 ||."
+      "स्वास दिया तो देगा गिरासा, कहे टेऊँ न हो तूं निरासा ।",
+      "हो निश्चिन्त जप कर्तारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sab Kaa Prabhu Hai Paalan Haaraa,",
-      "Kyon Karte Ho Chintaa Pyaaraa (Tek)."
-    ],
-    [
       "Maat Garbh Kari Pratipaalaa, Baahar Stan Men Dudh Daalaa.",
-      "Jal Thal Men Bhi Det Ahaaraa || $ ||"
+      "Jal Thal Men Bhi Det Ahaaraa || 1 ||"
     ],
     [
       "Anal Panchhi Akaash Men Phirtaa,Ajgar Kaar Nahin Koi Kartaa.",
-      "Nit Taanko Bhi De Daataaraa ||.2 ||."
+      "Nit Taanko Bhi De Daataaraa || 2 ||"
     ],
     [
       "Detaa Jiskaa Ahaar Hai Jetaa, Kit Ko Paahan Men Bhi Vo Detaa.",
-      "Kisko Bhukh N Ab Tak Maaraa ||.3. ||."
+      "Kisko Bhukh Na Ab Tak Maaraa || 3 ||"
     ],
     [
-      "Svaas Diyaa To Degaa Giraasaa, Kahe Teun N Ho Tu Niraasaa.",
-      "Ho Nishchint Jap Kartaaraa || 4 ||."
+      "Svaas Diyaa To Degaa Giraasaa, Kahe Teun Na Ho Tu Niraasaa.",
+      "Ho Nishchint Jap Kartaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairav Bhajan || || 8 ||.",
-    "Sab Kaa Prabhu Hai Paalan Haaraa",
-    "सब का प्रभु है पालन हारा"
+    "सब का प्रभू है पालन हारा,",
+    "Sab Kaa Prabhu Hai Paalan Haaraa,",
+    "राग भैरव भजन 8",
+    "Raag Bhairav Bhajan 8"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 8,
+  "overallOrder": 8,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 29",
+  "updatedAt": "2026-10-26"
 }

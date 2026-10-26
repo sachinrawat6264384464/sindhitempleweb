@@ -2,43 +2,103 @@
   "id": "bhajan-0082",
   "slug": "shri-raam-kaa-naam-baraa-jag-men",
   "categoryId": "raag-aasaa",
-  "title": "श्री राम का नाम बरा जग मेन",
-  "romanTitle": "Shri Raam Kaa Naam Baraa Jag Men",
-  "firstLine": "Shri Raam Kaa Naam Baraa Jag Men, Tum Usko Bhulaao Naa Kabhi (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "श्री राम का नाम बड़ा जग में,",
+  "romanTitle": "Shri Raam Kaa Naam Baraa Jag Men,",
+  "firstLine": "Shri Raam Kaa Naam Baraa Jag Men,",
+  "heading": "।। राग आसा भजन ।। २० ।। ८२।।",
+  "tek": [
+    "श्री राम का नाम बड़ा जग में,",
+    "तुम उसको भुलाओ ना कभी ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Shri Raam Kaa Naam Baraa Jag Men,",
+    "Tum Usko Bhulaao Naa Kabhi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो अपने हित को चाहत हो, तो यह सन्तों का मान कहा ।",
+        "सब जीव जगत के राम रूप लख,किसको सताओ ना कभी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Apne Hit Ko Chaahat Ho, To Yah Santon Kaa Maan Kahaa.",
+        "Sab Jiv Jagat Ke Raam Rup Lakh,Kisko Sataao Naa Kabhi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिन भोगों में सुख मानत हो, वे आखिर दुःख ही देते हैं ।",
+        "विष रूप विषय में पड़ करके, शुभ समय बिताओ ना कभी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jin Bhogon Men Sukh Maanat Ho, Ve Aakhir Duhkh Hi Dete Hain.",
+        "Vish Rup Vishay Men Par Karke, Shubh Samay Bitaao Naa Kabhi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जो होय सके तन मन धन से, सब जीवों का उपकार करो ।",
+        "यह जीवन है पुण्य हेतु मिला ,तुम पाप कमाओ ना कभी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Jo Hoy Sake Tan Man Dhan Se, Sab Jivon Kaa Upkaar Karo.",
+        "Yah Jivan Hai Puny Hetu Milaa,Tum Paap Kamaao Naa Kabhi || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "निज धर्म सार सब वस्तू से, यों वेद पुराण बताते हैं ।",
+        "जो कितनी मुश्किल आवे भी, तो धर्म गंवाओ ना कभी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nij Dharm Saar Sab Vastu Se, Yon Ved Puraan Bataate Hain.",
+        "Jo Kitni Mushkil Aave Bhi, To Dharm Ganvaao Naa Kabhi || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ हरि का भजन करो, हरि भजन बिना को सडज्ग नहीं ।",
+        "यह धार शिक्षा मन माहिं सदा, फिर गर्भ में आओ ना कभी ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Kaa Bhajan Karo, Hari Bhajan Binaa Ko Sadajg Nahin.",
+        "Yah Dhaar Shikshaa Man Maahin Sadaa, Phir Garbh Men Aao Naa Kabhi || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "श्री राम का नाम बरा जग मेन,",
-      "तुम ुसको भुलाो ना कभि (टेक)."
+      "जो अपने हित को चाहत हो, तो यह सन्तों का मान कहा ।",
+      "सब जीव जगत के राम रूप लख,किसको सताओ ना कभी ॥१ ॥"
     ],
     [
-      "जो पने हित को चाहत हो, तो यह सनतोन का मान कहा.",
-      "सब जिव जगत के राम रुप लखकिसको सताो ना कभि..1 ||."
+      "जिन भोगों में सुख मानत हो, वे आखिर दुःख ही देते हैं ।",
+      "विष रूप विषय में पड़ करके, शुभ समय बिताओ ना कभी ॥२ ॥"
     ],
     [
-      "जिन भोगोन मेन सुख मानत हो, वे ाखिर दुःख हि देते हैन.",
-      "विश रुप विशय मेन पर करके, शुभ समय बिताो ना कभि || 2 ||"
+      "जो होय सके तन मन धन से, सब जीवों का उपकार करो ।",
+      "यह जीवन है पुण्य हेतु मिला ,तुम पाप कमाओ ना कभी ॥ ३े ॥"
     ],
     [
-      "जो होय सके तन मन धन से, सब जिवोन का ुपकार करो.",
-      "यह जिवन है पुनय हेतु मिलातुम पाप कमाो ना कभि || 3े ||"
+      "निज धर्म सार सब वस्तू से, यों वेद पुराण बताते हैं ।",
+      "जो कितनी मुश्किल आवे भी, तो धर्म गंवाओ ना कभी ॥४ ॥"
     ],
     [
-      "निज धरम सार सब वसतु से, योन वेद पुरान बताते हैन.",
-      "जो कितनि मुशकिल ावे भि, तो धरम गनवाो ना कभि || 4 ||"
-    ],
-    [
-      "कहे तेऊँ हरि का भजन करो, हरि भजन बिना को सदजग नहिन.",
-      "यह धार शिकशा मन माहिन सदा, फिर गरभ मेन ाो ना कभि || 5 ||."
+      "कहे टेऊँ हरि का भजन करो, हरि भजन बिना को सडज्ग नहीं ।",
+      "यह धार शिक्षा मन माहिं सदा, फिर गर्भ में आओ ना कभी ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shri Raam Kaa Naam Baraa Jag Men,",
-      "Tum Usko Bhulaao Naa Kabhi (Tek)."
-    ],
-    [
       "Jo Apne Hit Ko Chaahat Ho, To Yah Santon Kaa Maan Kahaa.",
-      "Sab Jiv Jagat Ke Raam Rup Lakh,Kisko Sataao Naa Kabhi..1 ||."
+      "Sab Jiv Jagat Ke Raam Rup Lakh,Kisko Sataao Naa Kabhi || 1 ||"
     ],
     [
       "Jin Bhogon Men Sukh Maanat Ho, Ve Aakhir Duhkh Hi Dete Hain.",
@@ -54,23 +114,24 @@
     ],
     [
       "Kahe Teun Hari Kaa Bhajan Karo, Hari Bhajan Binaa Ko Sadajg Nahin.",
-      "Yah Dhaar Shikshaa Man Maahin Sadaa, Phir Garbh Men Aao Naa Kabhi || 5 ||."
+      "Yah Dhaar Shikshaa Man Maahin Sadaa, Phir Garbh Men Aao Naa Kabhi || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 20 || 82 ||",
-    "Shri Raam Kaa Naam Baraa Jag Men",
-    "श्री राम का नाम बरा जग मेन"
+    "श्री राम का नाम बड़ा जग में,",
+    "Shri Raam Kaa Naam Baraa Jag Men,",
+    "राग आसा भजन 20",
+    "Raag Aasaa Bhajan 20"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 82,
+  "displayOrder": 20,
+  "overallOrder": 82,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 67",
+  "updatedAt": "2026-10-26"
 }

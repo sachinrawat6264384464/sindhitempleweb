@@ -1,59 +1,99 @@
 {
-  "id": "bhajan-0919",
+  "id": "bhajan-0917",
   "slug": "hari-ki-maayaa-kis-nahin-jaani",
   "categoryId": "raag-jog",
-  "title": "हरि कि माया किस नहिन जानि",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हरि की माया किस नहिं जानी",
   "romanTitle": "Hari Ki Maayaa Kis Nahin Jaani",
-  "firstLine": "Hari Ki Maayaa Kis Nahin Jaani. Dekh Dekh Ham Bhaye Hairaani (Tek).",
+  "firstLine": "Hari Ki Maayaa Kis Nahin Jaani.",
+  "heading": "।। राग जोग भजन ।। ८९ ।। ९१९ ॥।",
+  "tek": [
+    "हरि की माया किस नहिं जानी ।",
+    "देख देख हम भये हैरानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Ki Maayaa Kis Nahin Jaani.",
+    "Dekh Dekh Ham Bhaye Hairaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कब होई यह कहें से आयी, जिसने अद्भुत लीला लायी ।",
+        "ग्रन्थों ने भी बहुत बखानी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kab Hoi Yah Kahen Se Aayi, Jisne Adbhut Lilaa Laayi.",
+        "Granthon Ne Bhi Bahut Bakhaani || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बेरंग बनिया अजब निज़ारा, जिसका कोई आर न पारा ।",
+        "खोजत हारे पण्डित ज्ञानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Berang Baniyaa Ajab Nizaaraa, Jiskaa Koi Aar Na Paaraa.",
+        "Khojat Haare Pandit Jnyaani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इसका कर्त्ता नज़र न आवत, कहे टेऊँ यह सबको भावत ।",
+        "मोहे मुनिवर वीर विज्ञानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Iskaa Karttaa Nazar Na Aavat, Kahe Teun Yah Sabko Bhaavat.",
+        "Mohe Munivar Vir Vijnyaani || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि कि माया किस नहिन जानि.",
-      "देख देख हम भये हैरानि (टेक)."
+      "कब होई यह कहें से आयी, जिसने अद्भुत लीला लायी ।",
+      "ग्रन्थों ने भी बहुत बखानी ॥१ ॥"
     ],
     [
-      "कब होि यह कहेन से ायि, जिसने दभुत लिला लायि.",
-      "गरनथोन ने भि बहुत बखानि || 1 ||."
+      "बेरंग बनिया अजब निज़ारा, जिसका कोई आर न पारा ।",
+      "खोजत हारे पण्डित ज्ञानी ॥२ ॥"
     ],
     [
-      "बेरनग बनिया जब निzारा, जिसका कोि ार न पारा.",
-      "खोजत हारे पनदित जनयानि.2 ||."
-    ],
-    [
-      "िसका करतता नzर न ावत, कहे तेऊँ यह सबको भावत.",
-      "मोहे मुनिवर विर विजनयानि || 3 ||."
+      "इसका कर्त्ता नज़र न आवत, कहे टेऊँ यह सबको भावत ।",
+      "मोहे मुनिवर वीर विज्ञानी ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Ki Maayaa Kis Nahin Jaani.",
-      "Dekh Dekh Ham Bhaye Hairaani (Tek)."
-    ],
-    [
       "Kab Hoi Yah Kahen Se Aayi, Jisne Adbhut Lilaa Laayi.",
-      "Granthon Ne Bhi Bahut Bakhaani || 1 ||."
+      "Granthon Ne Bhi Bahut Bakhaani || 1 ||"
     ],
     [
-      "Berang Baniyaa Ajab Nizaaraa, Jiskaa Koi Aar N Paaraa.",
-      "Khojat Haare Pandit Jnyaani.2 ||."
+      "Berang Baniyaa Ajab Nizaaraa, Jiskaa Koi Aar Na Paaraa.",
+      "Khojat Haare Pandit Jnyaani || 2 ||"
     ],
     [
-      "Iskaa Karttaa Nazar N Aavat, Kahe Teun Yah Sabko Bhaavat.",
-      "Mohe Munivar Vir Vijnyaani || 3 ||."
+      "Iskaa Karttaa Nazar Na Aavat, Kahe Teun Yah Sabko Bhaavat.",
+      "Mohe Munivar Vir Vijnyaani || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 89 || 919 ||.",
+    "हरि की माया किस नहिं जानी",
     "Hari Ki Maayaa Kis Nahin Jaani",
-    "हरि कि माया किस नहिन जानि"
+    "राग जोग भजन 89",
+    "Raag Jog Bhajan 89"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 919,
+  "displayOrder": 89,
+  "overallOrder": 917,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 482",
+  "updatedAt": "2026-10-26"
 }

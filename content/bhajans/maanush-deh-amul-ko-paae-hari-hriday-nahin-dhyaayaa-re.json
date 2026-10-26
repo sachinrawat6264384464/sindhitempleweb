@@ -2,52 +2,99 @@
   "id": "bhajan-0411",
   "slug": "maanush-deh-amul-ko-paae-hari-hriday-nahin-dhyaayaa-re",
   "categoryId": "raag-tilang",
-  "title": "मानुश देह मुल को पाे, हरि हरिदय नहिन धयाया रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मानुष देह अमुल को पाए, हरि हृदय नहिं ध्याया रे",
   "romanTitle": "Maanush Deh Amul Ko Paae, Hari Hriday Nahin Dhyaayaa Re",
   "firstLine": "Maanush Deh Amul Ko Paae, Hari Hriday Nahin Dhyaayaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ४८ ।। ४१२।।",
+  "tek": [
+    "मानुष देह अमुल को पाए, हरि हृदय नहिं ध्याया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Deh Amul Ko Paae, Hari Hriday Nahin Dhyaayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर्म कर्म नहिं कीना कोई, वृथा जन्म गंबाया रे ॥8 ॥"
+      ],
+      "romanLines": [
+        "Dharm Karm Nahin Kinaa Koi, Vrithaa Janm Gambaayaa Re || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धन दारा सुत सम्पति माहीं, अपना आप बन्धाया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dhan Daaraa Sut Sampati Maahin, Apnaa Aap Bandhaayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देवों को भी दुर्लभ यह तन, भागों से तुम पाया रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Devon Ko Bhi Durlabh Yah Tan, Bhaagon Se Tum Paayaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अब चेत प्राणी, करले जन्म सजाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Chet Praani, Karle Janm Sajaayaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश देह मुल को पाे, हरि हरिदय नहिन धयाया रे (टेक)."
+      "धर्म कर्म नहिं कीना कोई, वृथा जन्म गंबाया रे ॥8 ॥"
     ],
     [
-      "धरम करम नहिन किना कोि, वरिथा जनम गमबाया रे.8 ||",
-      "धन दारा सुत समपति माहिन, पना ाप बनधाया रे || 2 ||."
+      "धन दारा सुत सम्पति माहीं, अपना आप बन्धाया रे ॥२ ॥"
     ],
     [
-      "देवोन को भि दुरलभ यह तन, भागोन से तुम पाया रे || 3 ||."
+      "देवों को भी दुर्लभ यह तन, भागों से तुम पाया रे ॥३ ॥"
     ],
     [
-      "कहे तेऊँ ब चेत परानि, करले जनम सजाया रे || 4. ||."
+      "कहे टेऊँ अब चेत प्राणी, करले जन्म सजाया रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Maanush Deh Amul Ko Paae, Hari Hriday Nahin Dhyaayaa Re (Tek)."
+      "Dharm Karm Nahin Kinaa Koi, Vrithaa Janm Gambaayaa Re || 8 ||"
     ],
     [
-      "Dharm Karm Nahin Kinaa Koi, Vrithaa Janm Gambaayaa Re.8 ||",
-      "Dhan Daaraa Sut Sampati Maahin, Apnaa Aap Bandhaayaa Re || 2 ||."
+      "Dhan Daaraa Sut Sampati Maahin, Apnaa Aap Bandhaayaa Re || 2 ||"
     ],
     [
-      "Devon Ko Bhi Durlabh Yah Tan, Bhaagon Se Tum Paayaa Re || 3 ||."
+      "Devon Ko Bhi Durlabh Yah Tan, Bhaagon Se Tum Paayaa Re || 3 ||"
     ],
     [
-      "Kahe Teun Ab Chet Praani, Karle Janm Sajaayaa Re || 4. ||."
+      "Kahe Teun Ab Chet Praani, Karle Janm Sajaayaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 48 || 412 ||",
+    "मानुष देह अमुल को पाए, हरि हृदय नहिं ध्याया रे",
     "Maanush Deh Amul Ko Paae, Hari Hriday Nahin Dhyaayaa Re",
-    "मानुश देह मुल को पाे, हरि हरिदय नहिन धयाया रे"
+    "राग तिलंग भजन 48",
+    "Raag Tilang Bhajan 48"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 411,
+  "displayOrder": 48,
+  "overallOrder": 411,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 239",
+  "updatedAt": "2026-10-26"
 }

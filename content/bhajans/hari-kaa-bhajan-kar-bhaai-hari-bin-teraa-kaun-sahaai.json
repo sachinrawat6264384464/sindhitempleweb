@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0526",
+  "id": "bhajan-0524",
   "slug": "hari-kaa-bhajan-kar-bhaai-hari-bin-teraa-kaun-sahaai",
   "categoryId": "raag-kohiyaari",
-  "title": "हरि का भजन कर भाि, हरि बिन तेरा कौन सहाि",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "हरी का भजन कर भाई, हरि बिन तेरा कौन सहाई",
   "romanTitle": "Hari Kaa Bhajan Kar Bhaai, Hari Bin Teraa Kaun Sahaai",
   "firstLine": "Hari Kaa Bhajan Kar Bhaai, Hari Bin Teraa Kaun Sahaai (Tek).",
+  "heading": "।। राग कोह्मारी भजन ।। ४ंप ।। ५२५।।",
+  "tek": [
+    "हरी का भजन कर भाई, हरि बिन तेरा कौन सहाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Kaa Bhajan Kar Bhaai, Hari Bin Teraa Kaun Sahaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जबहीं जम आ चोट चलावे, मात पिता तब नाहिं छुड़ावे ।",
+        "काम न आवे लड़का लुगाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jabhin Jam Aa Chot Chalaave, Maat Pitaa Tab Naahin Chhuraave.",
+        "Kaam Na Aave Larkaa Lugaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "यह दुनिया है खाक की ढेरी, अन्तकाल ना होवे तेरी ।",
+        "क्यों तुम इससे प्रीत लगाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yah Duniyaa Hai Khaak Ki Dheri, Antakaal Naa Hove Teri.",
+        "Kyon Tum Isse Prit Lagaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मनुष जन्म दुर्लभ जग जानो, चौरासी से ऊँचा मानो ।",
+        "सुमरो इसमें हरि सुखदाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Manush Janm Durlabh Jag Jaano, Chauraasi Se Unchaa Maano.",
+        "Sumro Ismen Hari Sukhdaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम समझ प्यारा, भजन बिना नहिं होय उद्धारा ।",
+        "वेद पुरान यह साख सुनाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Samajh Pyaaraa, Bhajan Binaa Nahin Hoy Uddhaaraa.",
+        "Ved Puraan Yah Saakh Sunaai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि का भजन कर भाि, हरि बिन तेरा कौन सहाि (टेक)."
+      "जबहीं जम आ चोट चलावे, मात पिता तब नाहिं छुड़ावे ।",
+      "काम न आवे लड़का लुगाई ॥१ ॥"
     ],
     [
-      "जभिन जम ा चोत चलावे, मात पिता तब नाहिन चहुरावे.",
-      "काम न ावे लरका लुगाि || 1 ||"
+      "यह दुनिया है खाक की ढेरी, अन्तकाल ना होवे तेरी ।",
+      "क्यों तुम इससे प्रीत लगाई ॥२ ॥"
     ],
     [
-      "यह दुनिया है खाक कि धेरि, नतकाल ना होवे तेरि.",
-      "कयोन तुम िससे परित लगाि || 2 ||."
+      "मनुष जन्म दुर्लभ जग जानो, चौरासी से ऊँचा मानो ।",
+      "सुमरो इसमें हरि सुखदाई ॥३ ॥"
     ],
     [
-      "मनुश जनम दुरलभ जग जानो, चौरासि से ुनचा मानो.",
-      "सुमरो िसमेन हरि सुखदाि || 3 ||."
-    ],
-    [
-      "कहे तेऊँ तुम समझ पयारा, भजन बिना नहिन होय ुदधारा.",
-      "वेद पुरान यह साख सुनाि || 4 ||."
-    ],
-    [
-      "गज"
+      "कहे टेऊँ तुम समझ प्यारा, भजन बिना नहिं होय उद्धारा ।",
+      "वेद पुरान यह साख सुनाई ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Kaa Bhajan Kar Bhaai, Hari Bin Teraa Kaun Sahaai (Tek)."
-    ],
-    [
       "Jabhin Jam Aa Chot Chalaave, Maat Pitaa Tab Naahin Chhuraave.",
-      "Kaam N Aave Larkaa Lugaai || 1 ||"
+      "Kaam Na Aave Larkaa Lugaai || 1 ||"
     ],
     [
       "Yah Duniyaa Hai Khaak Ki Dheri, Antakaal Naa Hove Teri.",
-      "Kyon Tum Isse Prit Lagaai || 2 ||."
+      "Kyon Tum Isse Prit Lagaai || 2 ||"
     ],
     [
       "Manush Janm Durlabh Jag Jaano, Chauraasi Se Unchaa Maano.",
-      "Sumro Ismen Hari Sukhdaai || 3 ||."
+      "Sumro Ismen Hari Sukhdaai || 3 ||"
     ],
     [
       "Kahe Teun Tum Samajh Pyaaraa, Bhajan Binaa Nahin Hoy Uddhaaraa.",
-      "Ved Puraan Yah Saakh Sunaai || 4 ||."
-    ],
-    [
-      "Gaj"
+      "Ved Puraan Yah Saakh Sunaai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 4Np || 525 ||",
+    "हरी का भजन कर भाई, हरि बिन तेरा कौन सहाई",
     "Hari Kaa Bhajan Kar Bhaai, Hari Bin Teraa Kaun Sahaai",
-    "हरि का भजन कर भाि, हरि बिन तेरा कौन सहाि"
+    "राग कोहियारी भजन 45",
+    "Raag Kohiyaari Bhajan 45"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 526,
+  "displayOrder": 45,
+  "overallOrder": 524,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 289",
+  "updatedAt": "2026-10-26"
 }

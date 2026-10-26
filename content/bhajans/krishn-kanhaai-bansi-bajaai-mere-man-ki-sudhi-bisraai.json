@@ -1,47 +1,105 @@
 {
-  "id": "bhajan-0777",
+  "id": "bhajan-0775",
   "slug": "krishn-kanhaai-bansi-bajaai-mere-man-ki-sudhi-bisraai",
   "categoryId": "raag-pilaa",
-  "title": "करिशन कनहाि बनसि बजाि, मेरे मन कि सुधि बिसराि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "कृष्ण कन्हाई बन्सी बजाई, मेरे मन की सुधि बिसराई",
   "romanTitle": "Krishn Kanhaai Bansi Bajaai, Mere Man Ki Sudhi Bisraai",
-  "firstLine": "Krishn Kanhaai Bansi Bajaai, Mere Man Ki Sudhi Bisraai. Sun Sukhdaai Shaanti Paai, Aanand Maahin Surti Samaai (Tek).",
+  "firstLine": "Krishn Kanhaai Bansi Bajaai, Mere Man Ki Sudhi Bisraai.",
+  "heading": "। राग पीला भजन ।। ५५ ।। ७७9७।",
+  "tek": [
+    "कृष्ण कन्हाई बन्सी बजाई, मेरे मन की सुधि बिसराई ।",
+    "सुन सुखदाई शान्ती पाई, आनन्द माहीं सुरति समाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Krishn Kanhaai Bansi Bajaai, Mere Man Ki Sudhi Bisraai.",
+    "Sun Sukhdaai Shaanti Paai, Aanand Maahin Surti Samaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बन्सी को हरि मधुर बजाया, ब्रज सारे को मस्त बनाया ।",
+        "ज्ञान भुलाया ध्यान भुलाया, शान भुलाया लाज गंवाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bansi Ko Hari Madhur Bajaayaa, Braj Saare Ko Mast Banaayaa.",
+        "Gyaan Bhulaayaa Dhyaan Bhulaayaa, Shaan Bhulaayaa Laaj Ganvaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मुरली बजा हरि मुनिवर मोद्या, नारद शारद सुरनर मोद्या ।",
+        "ब्रह्मा मोह्मा विष्णु मोह्या, शंकर मोदह्या गिरजा माई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Murli Bajaa Hari Munivar Modyaa, Naarad Shaarad Surnar Modyaa.",
+        "Brahmaa Mohmaa Vishnu Mohyaa, Shankar Modahyaa Girjaa Maai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इस मुरली की सुन गजकारे, गंगा यमुना सुन्न को धारे ।",
+        "रवि शशि तारे गंधर्व सारे, पवन प्यारे स्थिति पाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Is Murli Ki Sun Gajkaare, Gangaa Yamunaa Sunn Ko Dhaare.",
+        "Ravi Shashi Taare Gandharv Saare, Pavan Pyaare Sthiti Paai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मुरली की है महिमा भारी, कहे टेऊँ यह वेद उचारी ।",
+        "अमृतधारी है गुणकारी, भक्तनि प्यारी मुझको भाई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Murli Ki Hai Mahimaa Bhaari, Kahe Teun Yah Ved Uchaari.",
+        "Amritdhaari Hai Gunkaari, Bhaktani Pyaari Mujhko Bhaai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द््ह"
+      ],
+      "romanLines": [
+        "Dh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करिशन कनहाि बनसि बजाि, मेरे मन कि सुधि बिसराि.",
-      "सुन सुखदाि शांति पाि, आनंद माहिन सुरति समाि (टेक)."
+      "बन्सी को हरि मधुर बजाया, ब्रज सारे को मस्त बनाया ।",
+      "ज्ञान भुलाया ध्यान भुलाया, शान भुलाया लाज गंवाई ॥१ ॥"
     ],
     [
-      "बनसि को हरि मधुर बजाया, बरज सारे को मसत बनाया.",
-      "ज्ञान भुलाया ध्यान भुलाया, शान भुलाया लाज गनवाि || 1 ||"
+      "मुरली बजा हरि मुनिवर मोद्या, नारद शारद सुरनर मोद्या ।",
+      "ब्रह्मा मोह्मा विष्णु मोह्या, शंकर मोदह्या गिरजा माई ॥२ ॥"
     ],
     [
-      "मुरलि बजा हरि मुनिवर मोदया, नारद शारद सुरनर मोदया.",
-      "बरहम मोहमा विशनु मोहया, शनकर मोदहया गिरजा माि || 2 ||."
+      "इस मुरली की सुन गजकारे, गंगा यमुना सुन्न को धारे ।",
+      "रवि शशि तारे गंधर्व सारे, पवन प्यारे स्थिति पाई ॥३ ॥"
     ],
     [
-      "िस मुरलि कि सुन गजकारे, गनगा यमुना सुनन को धारे.",
-      "रवि शशि तारे गनधरव सारे, पवन पयारे सथिति पाि || 3 ||"
+      "मुरली की है महिमा भारी, कहे टेऊँ यह वेद उचारी ।",
+      "अमृतधारी है गुणकारी, भक्तनि प्यारी मुझको भाई ॥४ ॥"
     ],
     [
-      "मुरलि कि है महिमा भारि, कहे तेऊँ यह वेद ुचारि.",
-      "मरितधारि है गुनकारि, भकतनि पयारि मुझको भाि ||.4 ||"
-    ],
-    [
-      "ध"
+      "द््ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Krishn Kanhaai Bansi Bajaai, Mere Man Ki Sudhi Bisraai.",
-      "Sun Sukhdaai Shaanti Paai, Aanand Maahin Surti Samaai (Tek)."
-    ],
-    [
       "Bansi Ko Hari Madhur Bajaayaa, Braj Saare Ko Mast Banaayaa.",
-      "Jnyaan Bhulaayaa Dhyaan Bhulaayaa, Shaan Bhulaayaa Laaj Ganvaai || 1 ||"
+      "Gyaan Bhulaayaa Dhyaan Bhulaayaa, Shaan Bhulaayaa Laaj Ganvaai || 1 ||"
     ],
     [
       "Murli Bajaa Hari Munivar Modyaa, Naarad Shaarad Surnar Modyaa.",
-      "Brahma Mohmaa Vishnu Mohyaa, Shankar Modahyaa Girjaa Maai || 2 ||."
+      "Brahmaa Mohmaa Vishnu Mohyaa, Shankar Modahyaa Girjaa Maai || 2 ||"
     ],
     [
       "Is Murli Ki Sun Gajkaare, Gangaa Yamunaa Sunn Ko Dhaare.",
@@ -49,25 +107,27 @@
     ],
     [
       "Murli Ki Hai Mahimaa Bhaari, Kahe Teun Yah Ved Uchaari.",
-      "Amritdhaari Hai Gunkaari, Bhaktani Pyaari Mujhko Bhaai ||.4 ||"
+      "Amritdhaari Hai Gunkaari, Bhaktani Pyaari Mujhko Bhaai || 4 ||"
     ],
     [
       "Dh"
     ]
   ],
   "alternateSpellings": [
-    ". Raag Pilaa Bhajan || 55 || 7797.",
+    "कृष्ण कन्हाई बन्सी बजाई, मेरे मन की सुधि बिसराई",
     "Krishn Kanhaai Bansi Bajaai, Mere Man Ki Sudhi Bisraai",
-    "करिशन कनहाि बनसि बजाि, मेरे मन कि सुधि बिसराि"
+    "राग पीला भजन 54",
+    "Raag Pilaa Bhajan 54"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 777,
+  "displayOrder": 54,
+  "overallOrder": 775,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 410",
+  "updatedAt": "2026-10-26"
 }

@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0656",
+  "id": "bhajan-0654",
   "slug": "sadguru-shabd-sunaao-dikhaao-mainnun-darshan-aapnaa",
   "categoryId": "raag-pahaari",
-  "title": "सद्गुरु शबद सुनाो, दिखाो मैननुन दरशन ापना",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "सद्‌गुरु शब्द सुनाओ, दिखाओ मैंनूं दर्शन आपना",
   "romanTitle": "Sad‌Guru Shabd Sunaao, Dikhaao Mainnun Darshan Aapnaa",
   "firstLine": "Sad‌Guru Shabd Sunaao, Dikhaao Mainnun Darshan Aapnaa (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ७ ।। ६५५।।",
+  "tek": [
+    "सद्‌गुरु शब्द सुनाओ, दिखाओ मैंनूं दर्शन आपना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Shabd Sunaao, Dikhaao Mainnun Darshan Aapnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं हूं बालक सदूगुरु तेरा, तुमहो मात पिता गुरु मेरा ।",
+        "सिर पर हाथ झुलाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Baalak Saduguru Teraa, Tumho Maat Pitaa Guru Meraa.",
+        "Sir Par Haath Jhulaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं हूं मू्ख॑ मूृण्ड आअज्ञानी, तुमहों पूर्ण ब्रह्म ज्ञानी ।",
+        "ब्रह्म का ज्ञान बताओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Mukh Murind Aajnyaani, Tumhon Purn Brahm Jnyaani.",
+        "Brahm Kaa Gyaan Bataao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं हूं मंगता मांगनहारा, तुमहो दाता देवनहारा ।",
+        "भक्ती दान दिलाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Mangtaa Maangnahaaraa, Tumho Daataa Devnahaaraa.",
+        "Bhakti Daan Dilaao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ अरदासा, तव दर्शन की बहुत प्यासा ।",
+        "मन की प्यास बुझाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Ardaasaa, Tav Darshan Ki Bahut Pyaasaa.",
+        "Man Ki Pyaas Bujhaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु शबद सुनाो, दिखाो मैननुन दरशन ापना (टेक)."
+      "मैं हूं बालक सदूगुरु तेरा, तुमहो मात पिता गुरु मेरा ।",
+      "सिर पर हाथ झुलाओ ॥१ ॥"
     ],
     [
-      "मैं हुन बालक सदुगुरु तेरा, तुमहो मात पिता गुरु मेरा.",
-      "सिर पर हाथ झुलाो. ||.1 ||."
+      "मैं हूं मू्ख॑ मूृण्ड आअज्ञानी, तुमहों पूर्ण ब्रह्म ज्ञानी ।",
+      "ब्रह्म का ज्ञान बताओ ॥२ ॥"
     ],
     [
-      "मैं हुन मुख मुरिनद ाजनयानि, तुमहोन पुरन बरहम जनयानि.",
-      "बरहम का ज्ञान बताो || 2 ||."
+      "मैं हूं मंगता मांगनहारा, तुमहो दाता देवनहारा ।",
+      "भक्ती दान दिलाओ ॥३ ॥"
     ],
     [
-      "मैं हुन मनगता मानगनहारा, तुमहो दाता देवनहारा.",
-      "भक्ति दान दिलाो || 3 ||"
-    ],
-    [
-      "कहे तेऊँ कर जोर रदासा, तव दरशन कि बहुत पयासा.",
-      "मन कि पयास बुझाो || 4 ||"
+      "कहे टेऊँ कर जोड़ अरदासा, तव दर्शन की बहुत प्यासा ।",
+      "मन की प्यास बुझाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Shabd Sunaao, Dikhaao Mainnun Darshan Aapnaa (Tek)."
-    ],
-    [
       "Main Hun Baalak Saduguru Teraa, Tumho Maat Pitaa Guru Meraa.",
-      "Sir Par Haath Jhulaao. ||.1 ||."
+      "Sir Par Haath Jhulaao || 1 ||"
     ],
     [
       "Main Hun Mukh Murind Aajnyaani, Tumhon Purn Brahm Jnyaani.",
-      "Brahm Kaa Jnyaan Bataao || 2 ||."
+      "Brahm Kaa Gyaan Bataao || 2 ||"
     ],
     [
       "Main Hun Mangtaa Maangnahaaraa, Tumho Daataa Devnahaaraa.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 7 || 655 ||",
+    "सद्‌गुरु शब्द सुनाओ, दिखाओ मैंनूं दर्शन आपना",
     "Sad‌Guru Shabd Sunaao, Dikhaao Mainnun Darshan Aapnaa",
-    "सद्गुरु शबद सुनाो, दिखाो मैननुन दरशन ापना"
+    "राग पहाड़ी भजन 7",
+    "Raag Pahaari Bhajan 7"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 656,
+  "displayOrder": 7,
+  "overallOrder": 654,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 349",
+  "updatedAt": "2026-10-26"
 }

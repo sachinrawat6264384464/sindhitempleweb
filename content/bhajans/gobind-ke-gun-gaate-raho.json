@@ -1,79 +1,115 @@
 {
   "id": "bhajan-0313",
   "slug": "gobind-ke-gun-gaate-raho",
-  "categoryId": "raag-bhairav",
-  "title": "गोबिनद के गुन गाते रहो",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "गोबिन्द के गुन गाते रहो",
   "romanTitle": "Gobind Ke Gun Gaate Raho",
-  "firstLine": "Gobind Ke Gun Gaate Raho. Nit Saadh Sangti Men Aate Raho (Tek).",
+  "firstLine": "Gobind Ke Gun Gaate Raho.",
+  "heading": "।। राग भैरवी भजन ।। ९८ ।। ३१३।।",
+  "tek": [
+    "गोबिन्द के गुन गाते रहो ।",
+    "नित साध संगति में आते रहो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gobind Ke Gun Gaate Raho.",
+    "Nit Saadh Sangti Men Aate Raho (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मनुष जन्म यह दुर्लभ हीरा, बड़े भाग से पाया है ।",
+        "इसका महत्त्व वेद ग्रन्थनि, ऋषियों मुनियों ने गाया है ।",
+        "तुम हरि रंग में नित राते रहो ॥8 ॥"
+      ],
+      "romanLines": [
+        "Manush Janm Yah Durlabh Hiraa, Bare Bhaag Se Paayaa Hai.",
+        "Iskaa Mahattv Ved Granthani, Rishiyon Muniyon Ne Gaayaa Hai.",
+        "Tum Hari Rang Men Nit Raate Raho || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्स",
+        "साध संगति पुनि हरि का कीर्तन, इस जग में है सार सही ।",
+        "प्रेम भाव से हरि गुन गाके, पाओ मोक्ष द्वार सही ।",
+        "मन पाप कर्म से हटाते रहो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ps",
+        "Saadh Sangti Puni Hari Kaa Kirtan, Is Jag Men Hai Saar Sahi.",
+        "Prem Bhaav Se Hari Gun Gaake, Paao Moksh Dvaar Sahi.",
+        "Man Paap Karm Se Hataate Raho || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कलियुग में हरि भक्ती करना, उत्तम धर्म कहलाता है ।",
+        "कहता टेऊँ जन्म जन्म के, सकले पाप मिटाता है ।",
+        "चित्त हरि चरणों में लगाते रहो ॥ । े ॥"
+      ],
+      "romanLines": [
+        "Kaliyug Men Hari Bhakti Karnaa, Uttam Dharm Kahlaataa Hai.",
+        "Kahtaa Teun Janm Janm Ke, Sakle Paap Mitaataa Hai.",
+        "Chitt Hari Charnon Men Lagaate Raho || E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गोबिनद के गुन गाते रहो.",
-      "नित साध सनगति मेन ाते रहो (टेक)."
+      "मनुष जन्म यह दुर्लभ हीरा, बड़े भाग से पाया है ।",
+      "इसका महत्त्व वेद ग्रन्थनि, ऋषियों मुनियों ने गाया है ।",
+      "तुम हरि रंग में नित राते रहो ॥8 ॥"
     ],
     [
-      "मनुश जनम यह दुरलभ हिरा, बरे भाग से पाया है.",
-      "िसका महततव वेद गरनथनि, रिशियोन मुनियोन ने गाया है."
+      "प्स",
+      "साध संगति पुनि हरि का कीर्तन, इस जग में है सार सही ।",
+      "प्रेम भाव से हरि गुन गाके, पाओ मोक्ष द्वार सही ।",
+      "मन पाप कर्म से हटाते रहो ॥२ ॥"
     ],
     [
-      "तुम हरि रनग मेन नित राते रहो || 8 ||."
-    ],
-    [
-      "पस",
-      "साध सनगति पुनि हरि का किरतन, िस जग मेन है सार सहि."
-    ],
-    [
-      "प्रेम भाव से हरि गुन गाके, पाो मोक्ष दवार सहि.",
-      "मन पाप करम से हताते रहो || 2 ||."
-    ],
-    [
-      "कलियुग मेन हरि भक्ति करना, ुततम धरम कहलाता है.",
-      "कहता तेऊँ जनम जनम के, सकले पाप मिताता है."
-    ],
-    [
-      "चितत हरि चरनोन मेन लगाते रहो ||. े ||"
+      "कलियुग में हरि भक्ती करना, उत्तम धर्म कहलाता है ।",
+      "कहता टेऊँ जन्म जन्म के, सकले पाप मिटाता है ।",
+      "चित्त हरि चरणों में लगाते रहो ॥ । े ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gobind Ke Gun Gaate Raho.",
-      "Nit Saadh Sangti Men Aate Raho (Tek)."
-    ],
-    [
       "Manush Janm Yah Durlabh Hiraa, Bare Bhaag Se Paayaa Hai.",
-      "Iskaa Mahattv Ved Granthani, Rishiyon Muniyon Ne Gaayaa Hai."
-    ],
-    [
-      "Tum Hari Rang Men Nit Raate Raho || 8 ||."
+      "Iskaa Mahattv Ved Granthani, Rishiyon Muniyon Ne Gaayaa Hai.",
+      "Tum Hari Rang Men Nit Raate Raho || 8 ||"
     ],
     [
       "Ps",
-      "Saadh Sangti Puni Hari Kaa Kirtan, Is Jag Men Hai Saar Sahi."
-    ],
-    [
+      "Saadh Sangti Puni Hari Kaa Kirtan, Is Jag Men Hai Saar Sahi.",
       "Prem Bhaav Se Hari Gun Gaake, Paao Moksh Dvaar Sahi.",
-      "Man Paap Karm Se Hataate Raho || 2 ||."
+      "Man Paap Karm Se Hataate Raho || 2 ||"
     ],
     [
       "Kaliyug Men Hari Bhakti Karnaa, Uttam Dharm Kahlaataa Hai.",
-      "Kahtaa Teun Janm Janm Ke, Sakle Paap Mitaataa Hai."
-    ],
-    [
-      "Chitt Hari Charnon Men Lagaate Raho ||. E ||"
+      "Kahtaa Teun Janm Janm Ke, Sakle Paap Mitaataa Hai.",
+      "Chitt Hari Charnon Men Lagaate Raho || E ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 98 || 313 ||",
+    "गोबिन्द के गुन गाते रहो",
     "Gobind Ke Gun Gaate Raho",
-    "गोबिनद के गुन गाते रहो"
+    "राग भैरवी भजन 98",
+    "Raag Bhairvi Bhajan 98"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 313,
+  "displayOrder": 98,
+  "overallOrder": 313,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 188",
+  "updatedAt": "2026-10-26"
 }

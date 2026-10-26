@@ -1,50 +1,78 @@
 {
-  "id": "bhajan-0642",
+  "id": "bhajan-0640",
   "slug": "kaato-jam-ki-phaasi-satguru-kaato-jam-ki-phaasi",
   "categoryId": "raag-kanso",
-  "title": "कातो जम कि फासि सतगुरु, कातो जम कि फासि",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "काटो जम की फासी सत्‌गुरु, काटो जम की फासी",
   "romanTitle": "Kaato Jam Ki Phaasi Sat‌Guru, Kaato Jam Ki Phaasi",
   "firstLine": "Kaato Jam Ki Phaasi Sat‌Guru, Kaato Jam Ki Phaasi (Tek).",
+  "heading": "।। राग कंसो भजन ।। ११ ।। ६४१।।",
+  "tek": [
+    "काटो जम की फासी सत्‌गुरु, काटो जम की फासी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaato Jam Ki Phaasi Sat‌Guru, Kaato Jam Ki Phaasi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मेरे उर की अविद्या मेटो, तुम गुरु ज्ञान प्रकाशी ।",
+        "मेरे मन के पाप हरो सब, तुम गुरु तीर्थ काशी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mere Ur Ki Avidyaa Meto, Tum Guru Gyaan Prakaashi.",
+        "Mere Man Ke Paap Haro Sab, Tum Guru Tirth Kaashi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस घर से बिछुड़ा भ्रमत हूं, कर हो तिस घर वासी ।",
+        "कहे टेऊँ जग बन्धन काटे, मुक्त करो सुखरासी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jis Ghar Se Bichhuraa Bhramat Hun, Kar Ho Tis Ghar Vaasi.",
+        "Kahe Teun Jag Bandhan Kaate, Mukt Karo Sukhraasi || 2 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कातो जम कि फासि सतगुरु, कातो जम कि फासि (टेक)."
+      "मेरे उर की अविद्या मेटो, तुम गुरु ज्ञान प्रकाशी ।",
+      "मेरे मन के पाप हरो सब, तुम गुरु तीर्थ काशी ॥१ ॥"
     ],
     [
-      "मेरे ुर कि विदया मेतो, तुम गुरु ज्ञान परकाशि.",
-      "मेरे मन के पाप हरो सब, तुम गुरु तिरथ काशि || 1 ||."
-    ],
-    [
-      "जिस घर से बिचहुरा भरमत हुन, कर हो तिस घर वासि.",
-      "कहे तेऊँ जग बनधन काते, मुक्त करो सुखरासि ||.2 ||."
+      "जिस घर से बिछुड़ा भ्रमत हूं, कर हो तिस घर वासी ।",
+      "कहे टेऊँ जग बन्धन काटे, मुक्त करो सुखरासी ॥२ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaato Jam Ki Phaasi Sat‌Guru, Kaato Jam Ki Phaasi (Tek)."
-    ],
-    [
-      "Mere Ur Ki Avidyaa Meto, Tum Guru Jnyaan Prakaashi.",
-      "Mere Man Ke Paap Haro Sab, Tum Guru Tirth Kaashi || 1 ||."
+      "Mere Ur Ki Avidyaa Meto, Tum Guru Gyaan Prakaashi.",
+      "Mere Man Ke Paap Haro Sab, Tum Guru Tirth Kaashi || 1 ||"
     ],
     [
       "Jis Ghar Se Bichhuraa Bhramat Hun, Kar Ho Tis Ghar Vaasi.",
-      "Kahe Teun Jag Bandhan Kaate, Mukt Karo Sukhraasi ||.2 ||."
+      "Kahe Teun Jag Bandhan Kaate, Mukt Karo Sukhraasi || 2 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 11 || 641 ||",
+    "काटो जम की फासी सत्‌गुरु, काटो जम की फासी",
     "Kaato Jam Ki Phaasi Sat‌Guru, Kaato Jam Ki Phaasi",
-    "कातो जम कि फासि सतगुरु, कातो जम कि फासि"
+    "राग कंसो भजन 11",
+    "Raag Kanso Bhajan 11"
   ],
   "tags": [
-    "kanso",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
     "bhajan"
   ],
-  "displayOrder": 642,
+  "displayOrder": 11,
+  "overallOrder": 640,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 343",
+  "updatedAt": "2026-10-26"
 }

@@ -2,41 +2,90 @@
   "id": "bhajan-0159",
   "slug": "prem-pyaalaa-satguru-vaalaa-raam-rasaalaa-piyaa-ji-bharke",
   "categoryId": "raag-vihaag",
-  "title": "प्रेम पयाला सतगुरु वाला, राम रसाला पिया जी भरके",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "प्रेम प्याला सत्‌गुरु वाला, राम रसाला पीया जी भरके",
   "romanTitle": "Prem Pyaalaa Sat‌Guru Vaalaa, Raam Rasaalaa Piyaa Ji Bharke",
   "firstLine": "Prem Pyaalaa Sat‌Guru Vaalaa, Raam Rasaalaa Piyaa Ji Bharke (Tek).",
+  "heading": "।। राग विहाग भजन ।। १ ।। १५९।।",
+  "tek": [
+    "प्रेम प्याला सत्‌गुरु वाला, राम रसाला पीया जी भरके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Pyaalaa Sat‌Guru Vaalaa, Raam Rasaalaa Piyaa Ji Bharke (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन मन भेट धरा गुरु आगे, दुविधा दूर भेद सब भागे ।",
+        "विषय वासना विष रस त्यागे ,भया उजाला जीया जी मरके ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Bhet Dharaa Guru Aage, Duvidhaa Dur Bhed Sab Bhaage.",
+        "Vishay Vaasnaa Vish Ras Tyaage,Bhayaa Ujaalaa Jiyaa Ji Marke || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पीवत पंगु भया मन मेरा, भूल गया सब मेरा तेरा ।",
+        "मिट गया सब काल का फेरा,खुल गया ताला पीया जी घर के ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pivat Pangu Bhayaa Man Meraa, Bhul Gayaa Sab Meraa Teraa.",
+        "Mit Gayaa Sab Kaal Kaa Pheraa,Khul Gayaa Taalaa Piyaa Ji Ghar Ke || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जीव इश की गयी उपाधी, हट गयी सब वाद विवादी ।",
+        "लाई पूरण ब्रह्म समाधी , भया सुखाला सोडहम्‌ सुमरके ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jiv Ish Ki Gayi Upaadhi, Hat Gayi Sab Vaad Vivaadi.",
+        "Laai Puran Brahm Samaadhi, Bhayaa Sukhaalaa Sodham‌ Sumrake || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ इस काया भीतर, लागी वृत्ती आतम अन्तर ।",
+        "ज्ञान नशे गुम हो मस्ती तर, भया निहाला नियाज़ करके ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Is Kaayaa Bhitar, Laagi Vritti Aatam Antar.",
+        "Gyaan Nashe Gum Ho Masti Tar, Bhayaa Nihaalaa Niyaaz Karke || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम पयाला सतगुरु वाला, राम रसाला पिया जी भरके (टेक)."
+      "तन मन भेट धरा गुरु आगे, दुविधा दूर भेद सब भागे ।",
+      "विषय वासना विष रस त्यागे ,भया उजाला जीया जी मरके ॥१ ॥"
     ],
     [
-      "तन मन भेत धरा गुरु ागे, दुविधा दुर भेद सब भागे.",
-      "विशय वासना विश रस तयागेभया ुजाला जिया जी मरके || 1 ||"
+      "पीवत पंगु भया मन मेरा, भूल गया सब मेरा तेरा ।",
+      "मिट गया सब काल का फेरा,खुल गया ताला पीया जी घर के ॥२ ॥"
     ],
     [
-      "पिवत पनगु भया मन मेरा, भुल गया सब मेरा तेरा.",
-      "मित गया सब काल का फेराखुल गया ताला पिया जी घर के.. 2 ||"
+      "जीव इश की गयी उपाधी, हट गयी सब वाद विवादी ।",
+      "लाई पूरण ब्रह्म समाधी , भया सुखाला सोडहम्‌ सुमरके ॥३ ॥"
     ],
     [
-      "जिव िश कि गयि ुपाधि, हत गयि सब वाद विवादि.",
-      "लाि पुरन बरहम समाधि, भया सुखाला सोधम‌ सुमरके || 3 ||"
-    ],
-    [
-      "कहे तेऊँ िस काया भितर, लागि वरितति ातम नतर.",
-      "ज्ञान नशे गुम हो मसति तर, भया निहाला नियाz करके || 4. ||."
+      "कहे टेऊँ इस काया भीतर, लागी वृत्ती आतम अन्तर ।",
+      "ज्ञान नशे गुम हो मस्ती तर, भया निहाला नियाज़ करके ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Prem Pyaalaa Sat‌Guru Vaalaa, Raam Rasaalaa Piyaa Ji Bharke (Tek)."
-    ],
     [
       "Tan Man Bhet Dharaa Guru Aage, Duvidhaa Dur Bhed Sab Bhaage.",
       "Vishay Vaasnaa Vish Ras Tyaage,Bhayaa Ujaalaa Jiyaa Ji Marke || 1 ||"
     ],
     [
       "Pivat Pangu Bhayaa Man Meraa, Bhul Gayaa Sab Meraa Teraa.",
-      "Mit Gayaa Sab Kaal Kaa Pheraa,Khul Gayaa Taalaa Piyaa Ji Ghar Ke.. 2 ||"
+      "Mit Gayaa Sab Kaal Kaa Pheraa,Khul Gayaa Taalaa Piyaa Ji Ghar Ke || 2 ||"
     ],
     [
       "Jiv Ish Ki Gayi Upaadhi, Hat Gayi Sab Vaad Vivaadi.",
@@ -44,23 +93,24 @@
     ],
     [
       "Kahe Teun Is Kaayaa Bhitar, Laagi Vritti Aatam Antar.",
-      "Jnyaan Nashe Gum Ho Masti Tar, Bhayaa Nihaalaa Niyaaz Karke || 4. ||."
+      "Gyaan Nashe Gum Ho Masti Tar, Bhayaa Nihaalaa Niyaaz Karke || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 1 || 159 ||",
+    "प्रेम प्याला सत्‌गुरु वाला, राम रसाला पीया जी भरके",
     "Prem Pyaalaa Sat‌Guru Vaalaa, Raam Rasaalaa Piyaa Ji Bharke",
-    "प्रेम पयाला सतगुरु वाला, राम रसाला पिया जी भरके"
+    "राग विहाग भजन 1",
+    "Raag Vihaag Bhajan 1"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "vihaag",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
     "bhajan"
   ],
-  "displayOrder": 159,
+  "displayOrder": 1,
+  "overallOrder": 159,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 109",
+  "updatedAt": "2026-10-26"
 }

@@ -2,46 +2,95 @@
   "id": "bhajan-0175",
   "slug": "e-jijnyaasu-is-jagat-ko-jhuth-karke-jaan-tu",
   "categoryId": "raag-vihaag",
-  "title": "े जिजनयासु िस जगत को झुथ करके जान तु",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "ए जिज्ञासू इस जगत को झूठ करके जान तूं",
   "romanTitle": "E Jijnyaasu Is Jagat Ko Jhuth Karke Jaan Tu",
-  "firstLine": "E Jijnyaasu Is Jagat Ko Jhuth Karke Jaan Tu. Saath Tere Naa Chale Kuchh Eh Nishchay Maan Tu (Tek).",
+  "firstLine": "E Jijnyaasu Is Jagat Ko Jhuth Karke Jaan Tu.",
+  "heading": "।। राग विहाग भजन ।। १७ ।। १७५।।",
+  "tek": [
+    "ए जिज्ञासू इस जगत को झूठ करके जान तूं ।",
+    "साथ तेरे ना चले कुछ एह निश्चय मान तूं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "E Jijnyaasu Is Jagat Ko Jhuth Karke Jaan Tu.",
+    "Saath Tere Naa Chale Kuchh Eh Nishchay Maan Tu (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस कुटुम्ब परिवार को तुम आपना कर जानिया ।",
+        "अन्त में वे छोड़ देंगे, देख धरके ध्यान तूं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Kutumb Parivaar Ko Tum Aapnaa Kar Jaaniyaa.",
+        "Ant Men Ve Chhor Denge, Dekh Dharke Dhyaan Tu || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कंस सिकंदर आदि बहुते भूप भूमी पर भये ।",
+        "हाथ खाली कर चले सब देख पढ़के पुरान तूं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kans Sikandar Aadi Bahute Bhup Bhumi Par Bhaye.",
+        "Haath Khaali Kar Chale Sab Dekh Parhke Puraan Tu || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "छोड़ सब को लेहु सौदा भक्ति शुभ गुण ज्ञान का ।",
+        "संग तेरे ये चलेंगे जान सत्‌ प्रमान तूं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chhor Sab Ko Lehu Saudaa Bhakti Shubh Gun Gyaan Kaa.",
+        "Sang Tere Ye Chalenge Jaan Sat‌ Pramaan Tu || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ जाग जल्‍दी छोड़ अविद्या नींद को ।",
+        "शरण ले गुरुदेव की नित पाय पद निर्बान तूं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Jaag Jal‍Di Chhor Avidyaa Nind Ko.",
+        "Sharan Le Gurudev Ki Nit Paay Pad Nirbaan Tu || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "े जिजनयासु िस जगत को झुथ करके जान तु.",
-      "साथ तेरे ना चले कुचह ेह निशचय मान तु (टेक)."
+      "जिस कुटुम्ब परिवार को तुम आपना कर जानिया ।",
+      "अन्त में वे छोड़ देंगे, देख धरके ध्यान तूं ॥१ ॥"
     ],
     [
-      "जिस कुतुमब परिवार को तुम ापना कर जानिया.",
-      "नत मेन वे चहोर देनगे, देख धरके ध्यान तु || 1 ||."
+      "कंस सिकंदर आदि बहुते भूप भूमी पर भये ।",
+      "हाथ खाली कर चले सब देख पढ़के पुरान तूं ॥२ ॥"
     ],
     [
-      "कनस सिकनदर ादि बहुते भुप भुमि पर भये.",
-      "हाथ खालि कर चले सब देख परहके पुरान तु || 2 ||"
+      "छोड़ सब को लेहु सौदा भक्ति शुभ गुण ज्ञान का ।",
+      "संग तेरे ये चलेंगे जान सत्‌ प्रमान तूं ॥३ ॥"
     ],
     [
-      "चहोर सब को लेहु सौदा भक्ति शुभ गुन ज्ञान का.",
-      "सनग तेरे ये चलेनगे जान सत‌ परमान तु || 3 ||"
-    ],
-    [
-      "कहत तेऊँ जाग जलदि चहोर विदया निनद को.",
-      "शरन ले गुरुदेव कि नित पाय पद निरबान तु || 4 ||"
+      "कहत टेऊँ जाग जल्‍दी छोड़ अविद्या नींद को ।",
+      "शरण ले गुरुदेव की नित पाय पद निर्बान तूं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "E Jijnyaasu Is Jagat Ko Jhuth Karke Jaan Tu.",
-      "Saath Tere Naa Chale Kuchh Eh Nishchay Maan Tu (Tek)."
-    ],
-    [
       "Jis Kutumb Parivaar Ko Tum Aapnaa Kar Jaaniyaa.",
-      "Ant Men Ve Chhor Denge, Dekh Dharke Dhyaan Tu || 1 ||."
+      "Ant Men Ve Chhor Denge, Dekh Dharke Dhyaan Tu || 1 ||"
     ],
     [
       "Kans Sikandar Aadi Bahute Bhup Bhumi Par Bhaye.",
       "Haath Khaali Kar Chale Sab Dekh Parhke Puraan Tu || 2 ||"
     ],
     [
-      "Chhor Sab Ko Lehu Saudaa Bhakti Shubh Gun Jnyaan Kaa.",
+      "Chhor Sab Ko Lehu Saudaa Bhakti Shubh Gun Gyaan Kaa.",
       "Sang Tere Ye Chalenge Jaan Sat‌ Pramaan Tu || 3 ||"
     ],
     [
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 17 || 175 ||",
+    "ए जिज्ञासू इस जगत को झूठ करके जान तूं",
     "E Jijnyaasu Is Jagat Ko Jhuth Karke Jaan Tu",
-    "े जिजनयासु िस जगत को झुथ करके जान तु"
+    "राग विहाग भजन 17",
+    "Raag Vihaag Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 175,
+  "displayOrder": 17,
+  "overallOrder": 175,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 117",
+  "updatedAt": "2026-10-26"
 }

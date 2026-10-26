@@ -1,83 +1,123 @@
 {
   "id": "bhajan-0247",
   "slug": "sarv-vyaapak-sat-chit-aanand-saakshi-rup-tumhaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "सर्व वयापक सत‌ चित‌ आनंद साक्षी रुप तुमहारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सर्व व्यापक सत्‌ चित्‌ आनन्द साक्षी रूप तुम्हारा",
   "romanTitle": "Sarv Vyaapak Sat‌ Chit‌ Aanand Saakshi Rup Tumhaaraa",
-  "firstLine": "Sarv Vyaapak Sat‌ Chit‌ Aanand Saakshi Rup Tumhaaraa. Ghat Ghat Vaasi Svayan Prakaashi Tumho Agam Apaaraa (Tek).",
+  "firstLine": "Sarv Vyaapak Sat‌ Chit‌ Aanand Saakshi Rup Tumhaaraa.",
+  "heading": "।। राग भैरवी भजन ।। ३२ ।। २४७।।",
+  "tek": [
+    "सर्व व्यापक सत्‌ चित्‌ आनन्द साक्षी रूप तुम्हारा ।",
+    "घट घट वासी स्वयं प्रकाशी तुमहो अगम अपारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sarv Vyaapak Sat‌ Chit‌ Aanand Saakshi Rup Tumhaaraa.",
+    "Ghat Ghat Vaasi Svayan Prakaashi Tumho Agam Apaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तीन देह है महल तुम्हारा तुमहो इनका स्वामी ।",
+        "पांच कोष का प्रेरक तुम हो असंग अन्तर्यामी ।",
+        "नाम रूप का तुम आधारा अखण्ड अरूप अनामी ।",
+        "सब घट माहीं खेलत हो तुम सबसे होय न्यारा ॥8 ॥"
+      ],
+      "romanLines": [
+        "Tin Deh Hai Mahal Tumhaaraa Tumho Inkaa Svaami.",
+        "Paanch Kosh Kaa Prerak Tum Ho Asang Antaryaami.",
+        "Naam Rup Kaa Tum Aadhaaraa Akhand Arup Anaami.",
+        "Sab Ghat Maahin Khelat Ho Tum Sabse Hoy Nyaaraa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसे सिंह अजा के संग से अपना आप भुलाया ।",
+        "तैसे इन्द्रियों के संग से तुम निज स्वरूप गँवाया ।",
+        "अब तो अपना रूप निहारो छूटे भ्रम सबाया ।",
+        "वचन हमारा सुन कर करले अहं ब्रह्म गजकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaise Sinh Ajaa Ke Sang Se Apnaa Aap Bhulaayaa.",
+        "Taise Indriyon Ke Sang Se Tum Nij Svarup Ganvaayaa.",
+        "Ab To Apnaa Rup Nihaaro Chhute Bhram Sabaayaa.",
+        "Vachan Hamaaraa Sun Kar Karle Ahan Brahm Gajkaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देखो अपना रूप अनादी अनुभव ज्योति जगाके ।",
+        "जीव ईश का भेद निवारो ब्रह्म ज्ञान को पाके ।",
+        "कहे टेऊँ परमानन्द पावो ब्रह्मा भवन में जाके ।",
+        "जहाँ काल की भय कछु नाहीं ना है यह संसारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dekho Apnaa Rup Anaadi Anubhav Jyoti Jagaake.",
+        "Jiv Ish Kaa Bhed Nivaaro Brahm Gyaan Ko Paake.",
+        "Kahe Teun Parmaanand Paavo Brahmaa Bhavan Men Jaake.",
+        "Jahaan Kaal Ki Bhay Kachhu Naahin Naa Hai Yah Sansaaraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सर्व वयापक सत‌ चित‌ आनंद साक्षी रुप तुमहारा.",
-      "घत घत वासि सवयन परकाशि तुमहो गम पारा (टेक)."
+      "तीन देह है महल तुम्हारा तुमहो इनका स्वामी ।",
+      "पांच कोष का प्रेरक तुम हो असंग अन्तर्यामी ।",
+      "नाम रूप का तुम आधारा अखण्ड अरूप अनामी ।",
+      "सब घट माहीं खेलत हो तुम सबसे होय न्यारा ॥8 ॥"
     ],
     [
-      "तिन देह है महल तुमहारा तुमहो िनका स्वामी.",
-      "पानच कोश का परेरक तुम हो सनग नतरयामि."
+      "जैसे सिंह अजा के संग से अपना आप भुलाया ।",
+      "तैसे इन्द्रियों के संग से तुम निज स्वरूप गँवाया ।",
+      "अब तो अपना रूप निहारो छूटे भ्रम सबाया ।",
+      "वचन हमारा सुन कर करले अहं ब्रह्म गजकारा ॥२ ॥"
     ],
     [
-      "नाम रुप का तुम ाधारा खनद रुप नामि.",
-      "सब घत माहिन खेलत हो तुम सबसे होय नयारा || 8 ||"
-    ],
-    [
-      "जैसे सिनह जा के सनग से पना ाप भुलाया.",
-      "तैसे िनदरियोन के सनग से तुम निज सवरुप गनवाया."
-    ],
-    [
-      "ब तो पना रुप निहारो चहुते भरम सबाया.",
-      "वचन हमारा सुन कर करले हन बरहम गजकारा || 2 ||."
-    ],
-    [
-      "देखो पना रुप नादि नुभव जयोति जगाके.",
-      "जिव िश का भेद निवारो बरहम ज्ञान को पाके."
-    ],
-    [
-      "कहे तेऊँ परमाननद पावो बरहम भवन मेन जाके.",
-      "जहान काल कि भय कचहु नाहिन ना है यह सनसारा || 3 ||"
+      "देखो अपना रूप अनादी अनुभव ज्योति जगाके ।",
+      "जीव ईश का भेद निवारो ब्रह्म ज्ञान को पाके ।",
+      "कहे टेऊँ परमानन्द पावो ब्रह्मा भवन में जाके ।",
+      "जहाँ काल की भय कछु नाहीं ना है यह संसारा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sarv Vyaapak Sat‌ Chit‌ Aanand Saakshi Rup Tumhaaraa.",
-      "Ghat Ghat Vaasi Svayan Prakaashi Tumho Agam Apaaraa (Tek)."
-    ],
-    [
       "Tin Deh Hai Mahal Tumhaaraa Tumho Inkaa Svaami.",
-      "Paanch Kosh Kaa Prerak Tum Ho Asang Antaryaami."
-    ],
-    [
+      "Paanch Kosh Kaa Prerak Tum Ho Asang Antaryaami.",
       "Naam Rup Kaa Tum Aadhaaraa Akhand Arup Anaami.",
       "Sab Ghat Maahin Khelat Ho Tum Sabse Hoy Nyaaraa || 8 ||"
     ],
     [
       "Jaise Sinh Ajaa Ke Sang Se Apnaa Aap Bhulaayaa.",
-      "Taise Indriyon Ke Sang Se Tum Nij Svarup Ganvaayaa."
-    ],
-    [
+      "Taise Indriyon Ke Sang Se Tum Nij Svarup Ganvaayaa.",
       "Ab To Apnaa Rup Nihaaro Chhute Bhram Sabaayaa.",
-      "Vachan Hamaaraa Sun Kar Karle Ahan Brahm Gajkaaraa || 2 ||."
+      "Vachan Hamaaraa Sun Kar Karle Ahan Brahm Gajkaaraa || 2 ||"
     ],
     [
       "Dekho Apnaa Rup Anaadi Anubhav Jyoti Jagaake.",
-      "Jiv Ish Kaa Bhed Nivaaro Brahm Jnyaan Ko Paake."
-    ],
-    [
-      "Kahe Teun Parmaanand Paavo Brahma Bhavan Men Jaake.",
+      "Jiv Ish Kaa Bhed Nivaaro Brahm Gyaan Ko Paake.",
+      "Kahe Teun Parmaanand Paavo Brahmaa Bhavan Men Jaake.",
       "Jahaan Kaal Ki Bhay Kachhu Naahin Naa Hai Yah Sansaaraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 32 || 247 ||",
+    "सर्व व्यापक सत्‌ चित्‌ आनन्द साक्षी रूप तुम्हारा",
     "Sarv Vyaapak Sat‌ Chit‌ Aanand Saakshi Rup Tumhaaraa",
-    "सर्व वयापक सत‌ चित‌ आनंद साक्षी रुप तुमहारा"
+    "राग भैरवी भजन 32",
+    "Raag Bhairvi Bhajan 32"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 247,
+  "displayOrder": 32,
+  "overallOrder": 247,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 154",
+  "updatedAt": "2026-10-26"
 }

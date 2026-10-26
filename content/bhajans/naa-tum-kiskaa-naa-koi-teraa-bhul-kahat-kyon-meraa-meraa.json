@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0836",
+  "id": "bhajan-0834",
   "slug": "naa-tum-kiskaa-naa-koi-teraa-bhul-kahat-kyon-meraa-meraa",
   "categoryId": "raag-jog",
-  "title": "ना तुम किसका ना कोि तेरा, भुल कहत कयोन मेरा मेरा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "ना तुम किसका ना कोई तेरा, भूल कहत क्यों मेरा मेरा",
   "romanTitle": "Naa Tum Kiskaa Naa Koi Teraa, Bhul Kahat Kyon Meraa Meraa",
   "firstLine": "Naa Tum Kiskaa Naa Koi Teraa, Bhul Kahat Kyon Meraa Meraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ६ ।। ८ ३६।॥।",
+  "tek": [
+    "ना तुम किसका ना कोई तेरा, भूल कहत क्यों मेरा मेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Naa Tum Kiskaa Naa Koi Teraa, Bhul Kahat Kyon Meraa Meraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जनम समय को साथ न लाया, यहां आय बहु मित्र बनाया ।",
+        "मोह महा तम तुझको घेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Janam Samay Ko Saath Na Laayaa, Yahaan Aay Bahu Mitr Banaayaa.",
+        "Moh Mahaa Tam Tujhko Gheraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मात पिता सुत पुनि परिवारा, जान मुसाफिर यह संसारा ।",
+        "कूच करेंगे सब तज डेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Puni Parivaaraa, Jaan Musaaphir Yah Sansaaraa.",
+        "Kuch Karenge Sab Taj Deraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हृदय अन्दर उपशम धारे, देखो मेरा वचन विचारे ।",
+        "दूर करो तुम भ्रम अन्धेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hriday Andar Upsham Dhaare, Dekho Meraa Vachan Vichaare.",
+        "Dur Karo Tum Bhram Andheraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ तुम अविनाशी, असंग अलेपा है सुखराशी ।",
+        "सब सनतों ने ऐसे टेरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tum Avinaashi, Asang Alepaa Hai Sukhraashi.",
+        "Sab Santon Ne Aise Teraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ना तुम किसका ना कोि तेरा, भुल कहत कयोन मेरा मेरा (टेक)."
+      "जनम समय को साथ न लाया, यहां आय बहु मित्र बनाया ।",
+      "मोह महा तम तुझको घेरा ॥१ ॥"
     ],
     [
-      "जनम समय को साथ न लाया, यहान ाय बहु मितर बनाया.",
-      "मोह महा तम तुझको घेरा || 1. ||."
+      "मात पिता सुत पुनि परिवारा, जान मुसाफिर यह संसारा ।",
+      "कूच करेंगे सब तज डेरा ॥२ ॥"
     ],
     [
-      "मात पिता सुत पुनि परिवारा, जान मुसाफिर यह सनसारा.",
-      "कुच करेनगे सब तज देरा. || 2 ||"
+      "हृदय अन्दर उपशम धारे, देखो मेरा वचन विचारे ।",
+      "दूर करो तुम भ्रम अन्धेरा ॥३ ॥"
     ],
     [
-      "हरिदय नदर ुपशम धारे, देखो मेरा वचन विचारे.",
-      "दुर करो तुम भरम नधेरा || 3 ||"
-    ],
-    [
-      "कहता तेऊँ तुम अविनाशी, सनग लेपा है सुखराशि.",
-      "सब सनतोन ने ैसे तेरा || 4. ||."
+      "कहता टेऊँ तुम अविनाशी, असंग अलेपा है सुखराशी ।",
+      "सब सनतों ने ऐसे टेरा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Naa Tum Kiskaa Naa Koi Teraa, Bhul Kahat Kyon Meraa Meraa (Tek)."
-    ],
-    [
-      "Janam Samay Ko Saath N Laayaa, Yahaan Aay Bahu Mitr Banaayaa.",
-      "Moh Mahaa Tam Tujhko Gheraa || 1. ||."
+      "Janam Samay Ko Saath Na Laayaa, Yahaan Aay Bahu Mitr Banaayaa.",
+      "Moh Mahaa Tam Tujhko Gheraa || 1 ||"
     ],
     [
       "Maat Pitaa Sut Puni Parivaaraa, Jaan Musaaphir Yah Sansaaraa.",
-      "Kuch Karenge Sab Taj Deraa. || 2 ||"
+      "Kuch Karenge Sab Taj Deraa || 2 ||"
     ],
     [
       "Hriday Andar Upsham Dhaare, Dekho Meraa Vachan Vichaare.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahtaa Teun Tum Avinaashi, Asang Alepaa Hai Sukhraashi.",
-      "Sab Santon Ne Aise Teraa || 4. ||."
+      "Sab Santon Ne Aise Teraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 6 || 8 36. ||.",
+    "ना तुम किसका ना कोई तेरा, भूल कहत क्यों मेरा मेरा",
     "Naa Tum Kiskaa Naa Koi Teraa, Bhul Kahat Kyon Meraa Meraa",
-    "ना तुम किसका ना कोि तेरा, भुल कहत कयोन मेरा मेरा"
+    "राग जोग भजन 6",
+    "Raag Jog Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 836,
+  "displayOrder": 6,
+  "overallOrder": 834,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 443",
+  "updatedAt": "2026-10-26"
 }

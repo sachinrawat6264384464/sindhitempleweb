@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0838",
+  "id": "bhajan-0836",
   "slug": "re-man-meraa-satsang-kariye-jisse-teraa-kaaraj-sariye",
   "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
   "title": "रे मन मेरा सत्संग करिये, जिससे तेरा कारज सरिये",
   "romanTitle": "Re Man Meraa Satsang Kariye, Jisse Teraa Kaaraj Sariye",
   "firstLine": "Re Man Meraa Satsang Kariye, Jisse Teraa Kaaraj Sariye (Tek).",
+  "heading": "।। राग जोग भजन ।। ८ ।। ८ ३८।॥",
+  "tek": [
+    "रे मन मेरा सत्संग करिये, जिससे तेरा कारज सरिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Meraa Satsang Kariye, Jisse Teraa Kaaraj Sariye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग जानो नाव समाना, तां पर चढ़ले तज अभिमाना ।",
+        "भव सागर से सहजे तरिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Jaano Naav Samaanaa, Taan Par Charhle Taj Abhimaanaa.",
+        "Bhav Saagar Se Sahje Tariye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्संग सम को साधन नाहीं, सब साधन हैं सत्संग माहीं ।",
+        "तांमें जाकर भव दुख हरिये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Satsang Sam Ko Saadhan Naahin, Sab Saadhan Hain Satsang Maahin.",
+        "Taanmen Jaakar Bhav Dukh Hariye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌संग सुरतरु चिन्तामणि सम, सेवन से दे सब फल हरदम ।",
+        "पूर्ण निश्चय हृदय धरिये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Sang Surtaru Chintaamni Sam, Sevan Se De Sab Phal Hardam.",
+        "Purn Nishchay Hriday Dhariye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सत्संग कर पाओ सुखरासी, कहे टेऊँं काटो जम फासी ।",
+        "हो निर्भय किससे ना डरिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Satsang Kar Paao Sukhraasi, Kahe Teunn Kaato Jam Phaasi.",
+        "Ho Nirbhay Kisse Naa Dariye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरा सत्संग करिये, जिससे तेरा कारज सरिये (टेक)."
+      "सत्संग जानो नाव समाना, तां पर चढ़ले तज अभिमाना ।",
+      "भव सागर से सहजे तरिये ॥१ ॥"
     ],
     [
-      "सत्संग जानो नाव समाना, तान पर चरहले तज भिमाना.",
-      "भव सागर से सहजे तरिये.1. ||."
+      "सत्संग सम को साधन नाहीं, सब साधन हैं सत्संग माहीं ।",
+      "तांमें जाकर भव दुख हरिये ॥२ ॥"
     ],
     [
-      "सत्संग सम को साधन नाहिन, सब साधन हैन सत्संग माहिन.",
-      "तानमेन जाकर भव दुःख हरिये || 2 ||."
+      "सत्‌संग सुरतरु चिन्तामणि सम, सेवन से दे सब फल हरदम ।",
+      "पूर्ण निश्चय हृदय धरिये ॥३ ॥"
     ],
     [
-      "सत्संग सुरतरु चिनतामनि सम, सेवन से दे सब फल हरदम.",
-      "पुरन निशचय हरिदय धरिये || 3 ||"
-    ],
-    [
-      "सत्संग कर पाो सुखरासि, कहे तेुनन कातो जम फासि.",
-      "हो निरभय किससे ना दरिये || 4. ||."
+      "सत्संग कर पाओ सुखरासी, कहे टेऊँं काटो जम फासी ।",
+      "हो निर्भय किससे ना डरिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Meraa Satsang Kariye, Jisse Teraa Kaaraj Sariye (Tek)."
-    ],
-    [
       "Satsang Jaano Naav Samaanaa, Taan Par Charhle Taj Abhimaanaa.",
-      "Bhav Saagar Se Sahje Tariye.1. ||."
+      "Bhav Saagar Se Sahje Tariye || 1 ||"
     ],
     [
       "Satsang Sam Ko Saadhan Naahin, Sab Saadhan Hain Satsang Maahin.",
-      "Taanmen Jaakar Bhav Dukh Hariye || 2 ||."
+      "Taanmen Jaakar Bhav Dukh Hariye || 2 ||"
     ],
     [
       "Sat‌Sang Surtaru Chintaamni Sam, Sevan Se De Sab Phal Hardam.",
@@ -44,22 +93,24 @@
     ],
     [
       "Satsang Kar Paao Sukhraasi, Kahe Teunn Kaato Jam Phaasi.",
-      "Ho Nirbhay Kisse Naa Dariye || 4. ||."
+      "Ho Nirbhay Kisse Naa Dariye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 8 || 8 38. ||",
+    "रे मन मेरा सत्संग करिये, जिससे तेरा कारज सरिये",
     "Re Man Meraa Satsang Kariye, Jisse Teraa Kaaraj Sariye",
-    "रे मन मेरा सत्संग करिये, जिससे तेरा कारज सरिये"
+    "राग जोग भजन 8",
+    "Raag Jog Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 838,
+  "displayOrder": 8,
+  "overallOrder": 836,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 444",
+  "updatedAt": "2026-10-26"
 }

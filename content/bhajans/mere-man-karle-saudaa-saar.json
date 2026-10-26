@@ -2,73 +2,121 @@
   "id": "bhajan-0211",
   "slug": "mere-man-karle-saudaa-saar",
   "categoryId": "raag-tori",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
   "title": "मेरे मन करले सौदा सार",
   "romanTitle": "Mere Man Karle Saudaa Saar",
-  "firstLine": "Mere Man Karle Saudaa Saar. Desh Chhor Pardesh Men Aaye Lije Naam Vyaapaar (Tek).",
+  "firstLine": "Mere Man Karle Saudaa Saar.",
+  "heading": "।। राग टोड़ी भजन ।। १९ ।। २११।।",
+  "tek": [
+    "मेरे मन करले सौदा सार ।",
+    "देश छोड़ परदेश में आये लीजे नाम व्यापार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Karle Saudaa Saar.",
+    "Desh Chhor Pardesh Men Aaye Lije Naam Vyaapaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सम दम श्रद्धा उपशम तितिक्षा धर सन्तोष विचार ।",
+        "तन मन धन वाणी से करले दीनों पर उपकार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sam Dam Shraddhaa Upsham Titikshaa Dhar Santosh Vichaar.",
+        "Tan Man Dhan Vaani Se Karle Dinon Par Upkaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गठ्द",
+        "मैत्री करुणा मुदिता उपेक्षा चारों हृदय धार ।",
+        "नवधा भक्ती नौका में चढ़ भव जल उतरो पार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gathd",
+        "Maitri Karunaa Muditaa Upekshaa Chaaron Hriday Dhaar.",
+        "Navdhaa Bhakti Naukaa Men Charh Bhav Jal Utro Paar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ध्यान धारणा लाय समाधी देखो दिव्य दीदार ।",
+        "ज्ञान विज्ञान वैराग्य धरे तुम पाओ सूख अपार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhyaan Dhaarnaa Laay Samaadhi Dekho Divy Didaar.",
+        "Gyaan Vijnyaan Vairaagya Dhare Tum Paao Sukh Apaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह साचा सौदा मिलता सन्त द्वार ।",
+        "प्रेम भाव का पैसा देके अबहीं लेहु उदार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Saachaa Saudaa Miltaa Sant Dvaar.",
+        "Prem Bhaav Kaa Paisaa Deke Abhin Lehu Udaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन करले सौदा सार.",
-      "देश चहोर परदेश मेन ाये लिजे नाम वयापार (टेक)."
+      "सम दम श्रद्धा उपशम तितिक्षा धर सन्तोष विचार ।",
+      "तन मन धन वाणी से करले दीनों पर उपकार ॥१ ॥"
     ],
     [
-      "सम दम शरदधा ुपशम तितिकशा धर सनतोश विचार.",
-      "तन मन धन वाणी से करले दिनोन पर ुपकार.1 ||"
+      "गठ्द",
+      "मैत्री करुणा मुदिता उपेक्षा चारों हृदय धार ।",
+      "नवधा भक्ती नौका में चढ़ भव जल उतरो पार ॥२ ॥"
     ],
     [
-      "गथद",
-      "मैतरि करुना मुदिता ुपेकशा चारोन हरिदय धार."
+      "ध्यान धारणा लाय समाधी देखो दिव्य दीदार ।",
+      "ज्ञान विज्ञान वैराग्य धरे तुम पाओ सूख अपार ॥३ ॥"
     ],
     [
-      "नवधा भक्ति नौका मेन चरह भव जल ुतरो पार || 2 ||."
-    ],
-    [
-      "ध्यान धारना लाय समाधि देखो दिवय दिदार.",
-      "ज्ञान विजनयान वैराग्य धरे तुम पाो सुख पार || 3. ||."
-    ],
-    [
-      "कहे तेऊँ यह साचा सौदा मिलता संत दवार.",
-      "प्रेम भाव का पैसा देके भिन लेहु ुदार || 4 ||."
+      "कहे टेऊँ यह साचा सौदा मिलता सन्त द्वार ।",
+      "प्रेम भाव का पैसा देके अबहीं लेहु उदार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Karle Saudaa Saar.",
-      "Desh Chhor Pardesh Men Aaye Lije Naam Vyaapaar (Tek)."
-    ],
-    [
       "Sam Dam Shraddhaa Upsham Titikshaa Dhar Santosh Vichaar.",
-      "Tan Man Dhan Vaani Se Karle Dinon Par Upkaar.1 ||"
+      "Tan Man Dhan Vaani Se Karle Dinon Par Upkaar || 1 ||"
     ],
     [
       "Gathd",
-      "Maitri Karunaa Muditaa Upekshaa Chaaron Hriday Dhaar."
-    ],
-    [
-      "Navdhaa Bhakti Naukaa Men Charh Bhav Jal Utro Paar || 2 ||."
+      "Maitri Karunaa Muditaa Upekshaa Chaaron Hriday Dhaar.",
+      "Navdhaa Bhakti Naukaa Men Charh Bhav Jal Utro Paar || 2 ||"
     ],
     [
       "Dhyaan Dhaarnaa Laay Samaadhi Dekho Divy Didaar.",
-      "Jnyaan Vijnyaan Vairaagy Dhare Tum Paao Sukh Apaar || 3. ||."
+      "Gyaan Vijnyaan Vairaagya Dhare Tum Paao Sukh Apaar || 3 ||"
     ],
     [
       "Kahe Teun Yah Saachaa Saudaa Miltaa Sant Dvaar.",
-      "Prem Bhaav Kaa Paisaa Deke Abhin Lehu Udaar || 4 ||."
+      "Prem Bhaav Kaa Paisaa Deke Abhin Lehu Udaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 19 || 211 ||",
+    "मेरे मन करले सौदा सार",
     "Mere Man Karle Saudaa Saar",
-    "मेरे मन करले सौदा सार"
+    "राग तोड़ी भजन 19",
+    "Raag Tori Bhajan 19"
   ],
   "tags": [
-    "tori",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 211,
+  "displayOrder": 19,
+  "overallOrder": 211,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 133",
+  "updatedAt": "2026-10-26"
 }

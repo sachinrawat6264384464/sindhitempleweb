@@ -2,65 +2,115 @@
   "id": "bhajan-0023",
   "slug": "saduguru-kripaa-karke-mujhko-saachi-sikh-sunaai-re",
   "categoryId": "raag-raamkali",
-  "title": "सदुगुरु कृपा करके मुझको साचि सिख सुनाि रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "सदूगुरु कृपा करके मुझको साची सीख सुनाई रे",
   "romanTitle": "Saduguru Kripaa Karke Mujhko Saachi Sikh Sunaai Re",
   "firstLine": "Saduguru Kripaa Karke Mujhko Saachi Sikh Sunaai Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। ११ ।। २३॥।",
+  "tek": [
+    "सदूगुरु कृपा करके मुझको साची सीख सुनाई रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saduguru Kripaa Karke Mujhko Saachi Sikh Sunaai Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्वास श्वास से सुमरन कर मैं आठ पहर लिव लाई रे ।",
+        "आशा तृष्णा ममता त्यागे मन की मैल मिटाई रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shvaas Shvaas Se Sumran Kar Main Aath Pahar Liv Laai Re.",
+        "Aashaa Trishnaa Mamtaa Tyaage Man Ki Mail Mitaai Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु मन्त्र से प्रीति लगाए और बात बिसराई रे ।",
+        "आतम पद में स्थित होकर सहज समाधि लगाई रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Mantr Se Priti Lagaae Aur Baat Bisraai Re.",
+        "Aatam Pad Men Sthit Hokar Sahaj Samaadhi Lagaai Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जाग्रत स्वप्न सुषोपति छोड़े तुरिया ताड़ी लाई रे ।",
+        "निर्भय घर में वासा करके यम की चिन्त चुकाई रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapn Sushopti Chhore Turiyaa Taari Laai Re.",
+        "Nirbhay Ghar Men Vaasaa Karke Yam Ki Chint Chukaai Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ हृदय भीतर अनुभव ज्योति जगाई रे ।",
+        "अन्तर बाहर भया उजियाला अविद्या रही न राई रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Hriday Bhitar Anubhav Jyoti Jagaai Re.",
+        "Antar Baahar Bhayaa Ujiyaalaa Avidyaa Rahi Na Raai Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदुगुरु कृपा करके मुझको साचि सिख सुनाि रे (टेक)."
+      "श्वास श्वास से सुमरन कर मैं आठ पहर लिव लाई रे ।",
+      "आशा तृष्णा ममता त्यागे मन की मैल मिटाई रे ॥१ ॥"
     ],
     [
-      "शवास शवास से सुमरन कर मैं ाथ पहर लिव लाि रे.",
-      "ाशा तरिशना ममता तयागे मन कि मैल मिताि रे || 1 ||."
+      "गुरु मन्त्र से प्रीति लगाए और बात बिसराई रे ।",
+      "आतम पद में स्थित होकर सहज समाधि लगाई रे ॥२ ॥"
     ],
     [
-      "गुरु मनतर से परिति लगाे ौर बात बिसराि रे.",
-      "ातम पद मेन सथित होकर सहज समाधि लगाि रे || 2 ||."
+      "जाग्रत स्वप्न सुषोपति छोड़े तुरिया ताड़ी लाई रे ।",
+      "निर्भय घर में वासा करके यम की चिन्त चुकाई रे ॥३ ॥"
     ],
     [
-      "जागरत सवपन सुशोपति चहोरे तुरिया तारि लाि रे.",
-      "निरभय घर मेन वासा करके यम कि चिनत चुकाि रे.3 ||"
-    ],
-    [
-      "कहता तेऊँ हरिदय भितर नुभव जयोति जगाि रे.",
-      "नतर बाहर भया ुजियाला विदया रहि न राि रे || 4 ||"
+      "कहता टेऊँ हृदय भीतर अनुभव ज्योति जगाई रे ।",
+      "अन्तर बाहर भया उजियाला अविद्या रही न राई रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saduguru Kripaa Karke Mujhko Saachi Sikh Sunaai Re (Tek)."
-    ],
-    [
       "Shvaas Shvaas Se Sumran Kar Main Aath Pahar Liv Laai Re.",
-      "Aashaa Trishnaa Mamtaa Tyaage Man Ki Mail Mitaai Re || 1 ||."
+      "Aashaa Trishnaa Mamtaa Tyaage Man Ki Mail Mitaai Re || 1 ||"
     ],
     [
       "Guru Mantr Se Priti Lagaae Aur Baat Bisraai Re.",
-      "Aatam Pad Men Sthit Hokar Sahaj Samaadhi Lagaai Re || 2 ||."
+      "Aatam Pad Men Sthit Hokar Sahaj Samaadhi Lagaai Re || 2 ||"
     ],
     [
       "Jaagrat Svapn Sushopti Chhore Turiyaa Taari Laai Re.",
-      "Nirbhay Ghar Men Vaasaa Karke Yam Ki Chint Chukaai Re.3 ||"
+      "Nirbhay Ghar Men Vaasaa Karke Yam Ki Chint Chukaai Re || 3 ||"
     ],
     [
       "Kahtaa Teun Hriday Bhitar Anubhav Jyoti Jagaai Re.",
-      "Antar Baahar Bhayaa Ujiyaalaa Avidyaa Rahi N Raai Re || 4 ||"
+      "Antar Baahar Bhayaa Ujiyaalaa Avidyaa Rahi Na Raai Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 11 || 23 ||.",
+    "सदूगुरु कृपा करके मुझको साची सीख सुनाई रे",
     "Saduguru Kripaa Karke Mujhko Saachi Sikh Sunaai Re",
-    "सदुगुरु कृपा करके मुझको साचि सिख सुनाि रे"
+    "राग रामकली भजन 11",
+    "Raag Raamkali Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 23,
+  "displayOrder": 11,
+  "overallOrder": 23,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 37",
+  "updatedAt": "2026-10-26"
 }

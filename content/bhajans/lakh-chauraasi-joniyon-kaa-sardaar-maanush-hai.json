@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0746",
+  "id": "bhajan-0744",
   "slug": "lakh-chauraasi-joniyon-kaa-sardaar-maanush-hai",
   "categoryId": "raag-pilaa",
-  "title": "लख चौरासि जोनियोन का सरदार मानुश है",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "लख चौरासी जोनियों का सरदार मानुष है",
   "romanTitle": "Lakh Chauraasi Joniyon Kaa Sardaar Maanush Hai",
   "firstLine": "Lakh Chauraasi Joniyon Kaa Sardaar Maanush Hai (Tek).",
+  "heading": "।। राग पीला भजन ।। २४ ।। ७४६॥।",
+  "tek": [
+    "लख चौरासी जोनियों का सरदार मानुष है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Lakh Chauraasi Joniyon Kaa Sardaar Maanush Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "घोड़े पर करे सवारी, हाथी पर धरे अम्बारी ।",
+        "सब मानुष की अखित्यारी, मुखित्यार मानुष है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ghore Par Kare Savaari, Haathi Par Dhare Ambaari.",
+        "Sab Maanush Ki Akhityaari, Mukhityaar Maanush Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पशु पंछी मागर मीना, पुनि भूत प्रेत प्रबीना ।",
+        "सब मानुष के आधीना, बलदार मानुष है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pashu Panchhi Maagar Minaa, Puni Bhut Pret Prabinaa.",
+        "Sab Maanush Ke Aadhinaa, Baldaar Maanush Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जे जग में चारों खानी, तांमें है मनुष विज्ञानी ।",
+        "नहिं मानुष के को शानी, गुणकार मानुष है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Je Jag Men Chaaron Khaani, Taanmen Hai Manush Vijnyaani.",
+        "Nahin Maanush Ke Ko Shaani, Gunkaar Maanush Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तन मानुष को सुर चाहत, यह भाग बड़े को पावत ।",
+        "कहे टेऊँ सब गुण गावत, इसिरार मानुष है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tan Maanush Ko Sur Chaahat, Yah Bhaag Bare Ko Paavat.",
+        "Kahe Teun Sab Gun Gaavat, Isiraar Maanush Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लख चौरासि जोनियोन का सरदार मानुश है (टेक)."
+      "घोड़े पर करे सवारी, हाथी पर धरे अम्बारी ।",
+      "सब मानुष की अखित्यारी, मुखित्यार मानुष है ॥१ ॥"
     ],
     [
-      "घोरे पर करे सवारि, हाथि पर धरे मबारि.",
-      "सब मानुश कि खितयारि, मुखितयार मानुश है || 1 ||."
+      "पशु पंछी मागर मीना, पुनि भूत प्रेत प्रबीना ।",
+      "सब मानुष के आधीना, बलदार मानुष है ॥२ ॥"
     ],
     [
-      "पशु पनचहि मागर मिना, पुनि भुत परेत परबिना.",
-      "सब मानुश के ाधिना, बलदार मानुश है || 2 ||."
+      "जे जग में चारों खानी, तांमें है मनुष विज्ञानी ।",
+      "नहिं मानुष के को शानी, गुणकार मानुष है ॥३ ॥"
     ],
     [
-      "जे जग मेन चारोन खानि, तानमेन है मनुश विजनयानि.",
-      "नहिन मानुश के को शानि, गुनकार मानुश है || 3 ||"
-    ],
-    [
-      "तन मानुश को सुर चाहत, यह भाग बरे को पावत.",
-      "कहे तेऊँ सब गुन गावत, िसिरार मानुश है || 4 ||"
+      "तन मानुष को सुर चाहत, यह भाग बड़े को पावत ।",
+      "कहे टेऊँ सब गुण गावत, इसिरार मानुष है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Lakh Chauraasi Joniyon Kaa Sardaar Maanush Hai (Tek)."
-    ],
-    [
       "Ghore Par Kare Savaari, Haathi Par Dhare Ambaari.",
-      "Sab Maanush Ki Akhityaari, Mukhityaar Maanush Hai || 1 ||."
+      "Sab Maanush Ki Akhityaari, Mukhityaar Maanush Hai || 1 ||"
     ],
     [
       "Pashu Panchhi Maagar Minaa, Puni Bhut Pret Prabinaa.",
-      "Sab Maanush Ke Aadhinaa, Baldaar Maanush Hai || 2 ||."
+      "Sab Maanush Ke Aadhinaa, Baldaar Maanush Hai || 2 ||"
     ],
     [
       "Je Jag Men Chaaron Khaani, Taanmen Hai Manush Vijnyaani.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 24 || 746 ||.",
+    "लख चौरासी जोनियों का सरदार मानुष है",
     "Lakh Chauraasi Joniyon Kaa Sardaar Maanush Hai",
-    "लख चौरासि जोनियोन का सरदार मानुश है"
+    "राग पीला भजन 23",
+    "Raag Pilaa Bhajan 23"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 746,
+  "displayOrder": 23,
+  "overallOrder": 744,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 395",
+  "updatedAt": "2026-10-26"
 }

@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0738",
+  "id": "bhajan-0736",
   "slug": "gobind-ke-gun-gaai-tu-gobind-ke-gun-gaai",
   "categoryId": "raag-pilaa",
-  "title": "गोबिनद के गुन गाि, तु गोबिनद के गुन गाि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "गोबिन्द के गुन गाइ, तूं गोबिन्द के गुन गाइ",
   "romanTitle": "Gobind Ke Gun Gaai, Tu Gobind Ke Gun Gaai",
   "firstLine": "Gobind Ke Gun Gaai, Tu Gobind Ke Gun Gaai (Tek).",
+  "heading": "।। राग पीला भजन ।। १६ ।। ७३८।॥।",
+  "tek": [
+    "गोबिन्द के गुन गाइ, तूं गोबिन्द के गुन गाइ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gobind Ke Gun Gaai, Tu Gobind Ke Gun Gaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिसने जन्म अमोलक दीना, तिसका कबहूं नाम न लीना ।",
+        "तुमको ये न सुहाइ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jisne Janm Amolak Dinaa, Tiskaa Kabhun Naam Na Linaa.",
+        "Tumko Ye Na Suhaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ऊठत बैठत सोवत जागत, खावत पीवत बोलत चालत ।",
+        "निशदिन नाम ध्याइ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Uthat Baithat Sovat Jaagat, Khaavat Pivat Bolat Chaalat.",
+        "Nishdin Naam Dhyaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि का नाम जपे हितकारी, उधरे नीच ऊँच नर नारी ।",
+        "तूं भी राम रिझाइ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Kaa Naam Jape Hitkaari, Udhre Nich Unch Nar Naari.",
+        "Tu Bhi Raam Rijhaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि नाम जपीजे, राम जपन में विलम्ब न कीजे ।",
+        "हरि से हेत लगाइ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Naam Japije, Raam Japan Men Vilamb Na Kije.",
+        "Hari Se Het Lagaai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गोबिनद के गुन गाि, तु गोबिनद के गुन गाि (टेक)."
+      "जिसने जन्म अमोलक दीना, तिसका कबहूं नाम न लीना ।",
+      "तुमको ये न सुहाइ ॥१ ॥"
     ],
     [
-      "जिसने जनम मोलक दिना, तिसका कभुन नाम न लिना.",
-      "तुमको ये न सुहाि || 1 ||"
+      "ऊठत बैठत सोवत जागत, खावत पीवत बोलत चालत ।",
+      "निशदिन नाम ध्याइ ॥२ ॥"
     ],
     [
-      "ुथत बैथत सोवत जागत, खावत पिवत बोलत चालत.",
-      "निशदिन नाम धयाि || 2 ||"
+      "हरि का नाम जपे हितकारी, उधरे नीच ऊँच नर नारी ।",
+      "तूं भी राम रिझाइ ॥३ ॥"
     ],
     [
-      "हरि का नाम जपे हितकारि, ुधरे निच ुनच नर नारि.",
-      "तु भि राम रिझाि || 3े ||"
-    ],
-    [
-      "कहे तेऊँ हरि नाम जपिजे, राम जपन मेन विलमब न किजे.",
-      "हरि से हेत लगाि ||.4 ||"
+      "कहे टेऊँ हरि नाम जपीजे, राम जपन में विलम्ब न कीजे ।",
+      "हरि से हेत लगाइ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gobind Ke Gun Gaai, Tu Gobind Ke Gun Gaai (Tek)."
-    ],
-    [
-      "Jisne Janm Amolak Dinaa, Tiskaa Kabhun Naam N Linaa.",
-      "Tumko Ye N Suhaai || 1 ||"
+      "Jisne Janm Amolak Dinaa, Tiskaa Kabhun Naam Na Linaa.",
+      "Tumko Ye Na Suhaai || 1 ||"
     ],
     [
       "Uthat Baithat Sovat Jaagat, Khaavat Pivat Bolat Chaalat.",
@@ -40,26 +89,28 @@
     ],
     [
       "Hari Kaa Naam Jape Hitkaari, Udhre Nich Unch Nar Naari.",
-      "Tu Bhi Raam Rijhaai || 3E ||"
+      "Tu Bhi Raam Rijhaai || 3 ||"
     ],
     [
-      "Kahe Teun Hari Naam Japije, Raam Japan Men Vilamb N Kije.",
-      "Hari Se Het Lagaai ||.4 ||"
+      "Kahe Teun Hari Naam Japije, Raam Japan Men Vilamb Na Kije.",
+      "Hari Se Het Lagaai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 16 || 738. ||.",
+    "गोबिन्द के गुन गाइ, तूं गोबिन्द के गुन गाइ",
     "Gobind Ke Gun Gaai, Tu Gobind Ke Gun Gaai",
-    "गोबिनद के गुन गाि, तु गोबिनद के गुन गाि"
+    "राग पीला भजन 15",
+    "Raag Pilaa Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 738,
+  "displayOrder": 15,
+  "overallOrder": 736,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 391",
+  "updatedAt": "2026-10-26"
 }

@@ -2,44 +2,104 @@
   "id": "bhajan-0407",
   "slug": "apni-mauj-barhaavan-kaaran-saang-banaayaa-main-vo-main",
   "categoryId": "raag-tilang",
-  "title": "पनि मौज बरहावन कारन, सानग बनाया मैं वो मैं",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "अपनी मौज बढ़ावन कारण, सांग बनाया मैं वो मैं",
   "romanTitle": "Apni Mauj Barhaavan Kaaran, Saang Banaayaa Main Vo Main",
   "firstLine": "Apni Mauj Barhaavan Kaaran, Saang Banaayaa Main Vo Main (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ४ ।। ४०८",
+  "tek": [
+    "अपनी मौज बढ़ावन कारण, सांग बनाया मैं वो मैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Apni Mauj Barhaavan Kaaran, Saang Banaayaa Main Vo Main (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्मा होकर जगत बनाये, पांच तत्त्व गुण तीन मिलाये ।",
+        "रंग रचाया मैं वो मैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Hokar Jagat Banaaye, Paanch Tattv Gun Tin Milaaye.",
+        "Rang Rachaayaa Main Vo Main || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बाज़ीगर बन बाज़ी लाये, बेख़ुद वाली बीन बजाये ।",
+        "नाच नचाया मैं वो मैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baazigar Ban Baazi Laaye, Bekhud Vaali Bin Bajaaye.",
+        "Naach Nachaayaa Main Vo Main || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राजा बन कर राज कमाये, माल खज़ाना सैन सजाये ।",
+        "हुक्म चलाया मैं वो मैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raajaa Ban Kar Raaj Kamaaye, Maal Khazaanaa Sain Sajaaye.",
+        "Hukm Chalaayaa Main Vo Main || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गाल",
+        "पण्डित बन कर पुस्तक लीना, व्रत नेम को स्थित कीना ।",
+        "कर्म कमाया मैं वो मैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Gaal",
+        "Pandit Ban Kar Pustak Linaa, Vrat Nem Ko Sthit Kinaa.",
+        "Karm Kamaayaa Main Vo Main || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "टेऊँराम निज नाम धराये, सबके अन्दर जाय समाये ।",
+        "आप छिपाया मैं वो मैं ॥५ ॥"
+      ],
+      "romanLines": [
+        "Teunram Nij Naam Dharaaye, Sabke Andar Jaay Samaaye.",
+        "Aap Chhipaayaa Main Vo Main || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पनि मौज बरहावन कारन, सानग बनाया मैं वो मैं (टेक)."
+      "ब्रह्मा होकर जगत बनाये, पांच तत्त्व गुण तीन मिलाये ।",
+      "रंग रचाया मैं वो मैं ॥१ ॥"
     ],
     [
-      "बरहम होकर जगत बनाये, पानच तततव गुन तिन मिलाये.",
-      "रनग रचाया मैं वो मैं || 1. ||."
+      "बाज़ीगर बन बाज़ी लाये, बेख़ुद वाली बीन बजाये ।",
+      "नाच नचाया मैं वो मैं ॥२ ॥"
     ],
     [
-      "बाzिगर बन बाzि लाये, बेखुद वालि बिन बजाये.",
-      "नाच नचाया मैं वो मैं || 2 ||"
-    ],
-    [
-      "राजा बन कर राज कमाये, माल खzाना सैन सजाये.",
-      "हुकम चलाया मैं वो मैं || 3 ||"
+      "राजा बन कर राज कमाये, माल खज़ाना सैन सजाये ।",
+      "हुक्म चलाया मैं वो मैं ॥३ ॥"
     ],
     [
       "गाल",
-      "पनदित बन कर पुसतक लिना, वरत नेम को सथित किना."
+      "पण्डित बन कर पुस्तक लीना, व्रत नेम को स्थित कीना ।",
+      "कर्म कमाया मैं वो मैं ॥४ ॥"
     ],
     [
-      "करम कमाया मैं वो मैं || 4 ||"
-    ],
-    [
-      "तेऊँराम निज नाम धराये, सबके नदर जाय समाये.",
-      "ाप चहिपाया मैं वो मैं || 5 ||."
+      "टेऊँराम निज नाम धराये, सबके अन्दर जाय समाये ।",
+      "आप छिपाया मैं वो मैं ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Apni Mauj Barhaavan Kaaran, Saang Banaayaa Main Vo Main (Tek)."
-    ],
-    [
-      "Brahma Hokar Jagat Banaaye, Paanch Tattv Gun Tin Milaaye.",
-      "Rang Rachaayaa Main Vo Main || 1. ||."
+      "Brahmaa Hokar Jagat Banaaye, Paanch Tattv Gun Tin Milaaye.",
+      "Rang Rachaayaa Main Vo Main || 1 ||"
     ],
     [
       "Baazigar Ban Baazi Laaye, Bekhud Vaali Bin Bajaaye.",
@@ -51,29 +111,29 @@
     ],
     [
       "Gaal",
-      "Pandit Ban Kar Pustak Linaa, Vrat Nem Ko Sthit Kinaa."
-    ],
-    [
+      "Pandit Ban Kar Pustak Linaa, Vrat Nem Ko Sthit Kinaa.",
       "Karm Kamaayaa Main Vo Main || 4 ||"
     ],
     [
       "Teunram Nij Naam Dharaaye, Sabke Andar Jaay Samaaye.",
-      "Aap Chhipaayaa Main Vo Main || 5 ||."
+      "Aap Chhipaayaa Main Vo Main || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 4 || 408",
+    "अपनी मौज बढ़ावन कारण, सांग बनाया मैं वो मैं",
     "Apni Mauj Barhaavan Kaaran, Saang Banaayaa Main Vo Main",
-    "पनि मौज बरहावन कारन, सानग बनाया मैं वो मैं"
+    "राग तिलंग भजन 44",
+    "Raag Tilang Bhajan 44"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 407,
+  "displayOrder": 44,
+  "overallOrder": 407,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 237",
+  "updatedAt": "2026-10-26"
 }

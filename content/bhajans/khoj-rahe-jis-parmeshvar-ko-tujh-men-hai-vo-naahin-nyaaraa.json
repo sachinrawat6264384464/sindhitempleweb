@@ -2,64 +2,115 @@
   "id": "bhajan-0336",
   "slug": "khoj-rahe-jis-parmeshvar-ko-tujh-men-hai-vo-naahin-nyaaraa",
   "categoryId": "raag-zilaa",
-  "title": "खोज रहे जिस परमेशवर को, तुझ मेन है वो नाहिन नयारा",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "खोज रहे जिस परमेश्वर को, तुझ में है वो नाहिं न्यारा",
   "romanTitle": "Khoj Rahe Jis Parmeshvar Ko, Tujh Men Hai Vo Naahin Nyaaraa",
   "firstLine": "Khoj Rahe Jis Parmeshvar Ko, Tujh Men Hai Vo Naahin Nyaaraa (Tek).",
+  "heading": "।। राग ज़िला भजन ।। २३ ।। ३३६।॥।",
+  "tek": [
+    "खोज रहे जिस परमेश्वर को, तुझ में है वो नाहिं न्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Khoj Rahe Jis Parmeshvar Ko, Tujh Men Hai Vo Naahin Nyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मोहन मिलने हेतु सुजाना, मथुरा गोकुल में मत जाना ।",
+        "मन मन्दिर में सदा बिराजे, ब्रह्म रूप नन्‍्द लाल दुलारा ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mohan Milne Hetu Sujaanaa, Mathuraa Gokul Men Mat Jaanaa.",
+        "Man Mandir Men Sadaa Biraaje, Brahm Rup Nan‍Da Laal Dulaaraa || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम मिलन के हेतु सुजाना, चित्रकूट अयोध्या मत जाना ।",
+        "हृदय अन्तर बसे निरन्तर, साक्षी चेतन राम उदारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Milan Ke Hetu Sujaanaa, Chitrakut Ayodhyaa Mat Jaanaa.",
+        "Hriday Antar Base Nirantar, Saakshi Chetan Raam Udaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "शंकर मिलने हेतु सुजाना, काशी कैलाशे मत जाना ।",
+        "अन्दर चोले बैठा बोले, आत्म शंकर सिरजनहारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shankar Milne Hetu Sujaanaa, Kaashi Kailaashe Mat Jaanaa.",
+        "Andar Chole Baithaa Bole, Aatm Shankar Sirjanhaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान गहीजे, भेद श्रान्ती को हर लीजे ।",
+        "आत्म ध्याये द्वन्द्र मिटाये, पाओ केवल मोक्ष द्वारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Gahije, Bhed Shraanti Ko Har Lije.",
+        "Aatm Dhyaaye Dvandr Mitaaye, Paao Keval Moksh Dvaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "खोज रहे जिस परमेशवर को, तुझ मेन है वो नाहिन नयारा (टेक)."
+      "मोहन मिलने हेतु सुजाना, मथुरा गोकुल में मत जाना ।",
+      "मन मन्दिर में सदा बिराजे, ब्रह्म रूप नन्‍्द लाल दुलारा ॥१ ॥१ ॥"
     ],
     [
-      "मोहन मिलने हेतु सुजाना, मथुरा गोकुल मेन मत जाना.",
-      "मन मनदिर मेन सदा बिराजे, बरहम रुप ननद लाल दुलारा || 1$ ||."
+      "राम मिलन के हेतु सुजाना, चित्रकूट अयोध्या मत जाना ।",
+      "हृदय अन्तर बसे निरन्तर, साक्षी चेतन राम उदारा ॥२ ॥"
     ],
     [
-      "राम मिलन के हेतु सुजाना, चितरकुत योधया मत जाना.",
-      "हरिदय नतर बसे निरनतर, साक्षी चेतन राम ुदारा. || 2 ||."
+      "शंकर मिलने हेतु सुजाना, काशी कैलाशे मत जाना ।",
+      "अन्दर चोले बैठा बोले, आत्म शंकर सिरजनहारा ॥३ ॥"
     ],
     [
-      "शनकर मिलने हेतु सुजाना, काशि कैलाशे मत जाना.",
-      "नदर चोले बैथा बोले, ातम शनकर सिरजनहारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु ज्ञान गहिजे, भेद शरानति को हर लिजे.",
-      "ातम धयाये दवनदर मिताये, पाो केवल मोक्ष दवारा || 4 ||."
+      "कहे टेऊँ गुरु ज्ञान गहीजे, भेद श्रान्ती को हर लीजे ।",
+      "आत्म ध्याये द्वन्द्र मिटाये, पाओ केवल मोक्ष द्वारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Khoj Rahe Jis Parmeshvar Ko, Tujh Men Hai Vo Naahin Nyaaraa (Tek)."
-    ],
-    [
       "Mohan Milne Hetu Sujaanaa, Mathuraa Gokul Men Mat Jaanaa.",
-      "Man Mandir Men Sadaa Biraaje, Brahm Rup Nan‍D Laal Dulaaraa || 1$ ||."
+      "Man Mandir Men Sadaa Biraaje, Brahm Rup Nan‍Da Laal Dulaaraa || 1 || 1 ||"
     ],
     [
       "Raam Milan Ke Hetu Sujaanaa, Chitrakut Ayodhyaa Mat Jaanaa.",
-      "Hriday Antar Base Nirantar, Saakshi Chetan Raam Udaaraa. || 2 ||."
+      "Hriday Antar Base Nirantar, Saakshi Chetan Raam Udaaraa || 2 ||"
     ],
     [
       "Shankar Milne Hetu Sujaanaa, Kaashi Kailaashe Mat Jaanaa.",
       "Andar Chole Baithaa Bole, Aatm Shankar Sirjanhaaraa || 3 ||"
     ],
     [
-      "Kahe Teun Guru Jnyaan Gahije, Bhed Shraanti Ko Har Lije.",
-      "Aatm Dhyaaye Dvandr Mitaaye, Paao Keval Moksh Dvaaraa || 4 ||."
+      "Kahe Teun Guru Gyaan Gahije, Bhed Shraanti Ko Har Lije.",
+      "Aatm Dhyaaye Dvandr Mitaaye, Paao Keval Moksh Dvaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 23 || 336. ||.",
+    "खोज रहे जिस परमेश्वर को, तुझ में है वो नाहिं न्यारा",
     "Khoj Rahe Jis Parmeshvar Ko, Tujh Men Hai Vo Naahin Nyaaraa",
-    "खोज रहे जिस परमेशवर को, तुझ मेन है वो नाहिन नयारा"
+    "राग ज़िला भजन 23",
+    "Raag Zilaa Bhajan 23"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 336,
+  "displayOrder": 23,
+  "overallOrder": 336,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 200",
+  "updatedAt": "2026-10-26"
 }

@@ -2,52 +2,99 @@
   "id": "bhajan-0420",
   "slug": "aaj-mere-ur-aanand-hoyaa-ishk-hakiki-aayaa-ji",
   "categoryId": "raag-tilang",
-  "title": "ाज मेरे ुर आनंद होया, िशक हकिकि ाया जी",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "आज मेरे उर आनन्द होया, इश्क हकीकी आया जी",
   "romanTitle": "Aaj Mere Ur Aanand Hoyaa, Ishk Hakiki Aayaa Ji",
   "firstLine": "Aaj Mere Ur Aanand Hoyaa, Ishk Hakiki Aayaa Ji (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५७ ।। ४२१॥।",
+  "tek": [
+    "आज मेरे उर आनन्द होया, इश्क हकीकी आया जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Mere Ur Aanand Hoyaa, Ishk Hakiki Aayaa Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बेखुद बीन बिरह का बाजा, दम का ढोल बजाया जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bekhud Bin Birah Kaa Baajaa, Dam Kaa Dhol Bajaayaa Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ध्यान के तागे ज्ञान के घुंघुरू, पिरोय पिरोय पग पाया जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dhyaan Ke Taage Gyaan Ke Ghunghuru, Piroy Piroy Pag Paayaa Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज़िकर जामा पा फिकर फेरी दे, नाच नाच हर्षाया जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Zikar Jaamaa Paa Phikar Pheri De, Naach Naach Harshaayaa Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ रंग इश्क रचाया, गीत अनलहक गाया जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Rang Ishk Rachaayaa, Git Anlahak Gaayaa Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज मेरे ुर आनंद होया, िशक हकिकि ाया जी (टेक)."
+      "बेखुद बीन बिरह का बाजा, दम का ढोल बजाया जी ॥१ ॥"
     ],
     [
-      "बेखुद बिन बिरह का बाजा, दम का धोल बजाया जी.1 ||.",
-      "ध्यान के तागे ज्ञान के घुनघुरु, पिरोय पिरोय पग पाया जी || 2 ||"
+      "ध्यान के तागे ज्ञान के घुंघुरू, पिरोय पिरोय पग पाया जी ॥२ ॥"
     ],
     [
-      "zिकर जामा पा फिकर फेरि दे, नाच नाच हरशाया जी || 3 ||."
+      "ज़िकर जामा पा फिकर फेरी दे, नाच नाच हर्षाया जी ॥३ ॥"
     ],
     [
-      "कहे तेऊँ रनग िशक रचाया, गित नलहक गाया जी || 4 ||."
+      "कहे टेऊँ रंग इश्क रचाया, गीत अनलहक गाया जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaj Mere Ur Aanand Hoyaa, Ishk Hakiki Aayaa Ji (Tek)."
+      "Bekhud Bin Birah Kaa Baajaa, Dam Kaa Dhol Bajaayaa Ji || 1 ||"
     ],
     [
-      "Bekhud Bin Birah Kaa Baajaa, Dam Kaa Dhol Bajaayaa Ji.1 ||.",
-      "Dhyaan Ke Taage Jnyaan Ke Ghunghuru, Piroy Piroy Pag Paayaa Ji || 2 ||"
+      "Dhyaan Ke Taage Gyaan Ke Ghunghuru, Piroy Piroy Pag Paayaa Ji || 2 ||"
     ],
     [
-      "Zikar Jaamaa Paa Phikar Pheri De, Naach Naach Harshaayaa Ji || 3 ||."
+      "Zikar Jaamaa Paa Phikar Pheri De, Naach Naach Harshaayaa Ji || 3 ||"
     ],
     [
-      "Kahe Teun Rang Ishk Rachaayaa, Git Anlahak Gaayaa Ji || 4 ||."
+      "Kahe Teun Rang Ishk Rachaayaa, Git Anlahak Gaayaa Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 57 || 421 ||.",
+    "आज मेरे उर आनन्द होया, इश्क हकीकी आया जी",
     "Aaj Mere Ur Aanand Hoyaa, Ishk Hakiki Aayaa Ji",
-    "ाज मेरे ुर आनंद होया, िशक हकिकि ाया जी"
+    "राग तिलंग भजन 57",
+    "Raag Tilang Bhajan 57"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 420,
+  "displayOrder": 57,
+  "overallOrder": 420,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 242",
+  "updatedAt": "2026-10-26"
 }

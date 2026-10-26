@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0456",
+  "id": "bhajan-0455",
   "slug": "bandaa-hari-hari-naam-uchchaar",
   "categoryId": "raag-tilang",
-  "title": "बनदा हरि हरि नाम ुचचार",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "बन्दा हरि हरि नाम उच्चार",
   "romanTitle": "Bandaa Hari Hari Naam Uchchaar",
-  "firstLine": "Bandaa Hari Hari Naam Uchchaar. Hari Hari Naam Uchchaar Karan Se, Beraa Hogaa Paar (Tek).",
+  "firstLine": "Bandaa Hari Hari Naam Uchchaar.",
+  "heading": "।। राग तिलंग भजन ।। ९२ ।। ४५६।॥।",
+  "tek": [
+    "बन्दा हरि हरि नाम उच्चार ।",
+    "हरि हरि नाम उच्चार करन से, बेड़ा होगा पार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa Hari Hari Naam Uchchaar.",
+    "Hari Hari Naam Uchchaar Karan Se, Beraa Hogaa Paar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि हरि नाम समर सत्‌्संगी, अन्त काल यम दे ना तंगी ।",
+        "अजामेल हरि स्मरण करके, गया वैकुण्ठ द्वार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Hari Naam Samar Sat‌Sangi, Ant Kaal Yam De Naa Tangi.",
+        "Ajaamel Hari Smaran Karke, Gayaa Vaikunth Dvaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जहं को हरि गुन सुने सुनावे, तुम में से तहं को ना जावे ।",
+        "धर्म राज ने दूतों प्रती, ऐसे कहा पुकार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jahan Ko Hari Gun Sune Sunaave, Tum Men Se Tahan Ko Naa Jaave.",
+        "Dharm Raaj Ne Duton Prati, Aise Kahaa Pukaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि भक्तों पर हुकम न मेरा, मैं हूं चाकर भक्तों केरा ।",
+        "रविनन्दन की लिखी ज़बानी , नूसिंह पुराण मंझार ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Hari Bhakton Par Hukam Na Meraa, Main Hun Chaakar Bhakton Keraa.",
+        "Ravinandan Ki Likhi Zabaani, Nusinh Puraan Manjhaar || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कलियुग में हरि कीर्तन जैसा, फलदायक मग और न ऐसा ।",
+        "कहे टेऊँ यह वेदव्यास ने, कहिया बारम्बार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kaliyug Men Hari Kirtan Jaisaa, Phaldaayak Mag Aur Na Aisaa.",
+        "Kahe Teun Yah Vedavyaas Ne, Kahiyaa Baarambaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदा हरि हरि नाम ुचचार.",
-      "हरि हरि नाम ुचचार करन से, बेरा होगा पार (टेक)."
+      "हरि हरि नाम समर सत्‌्संगी, अन्त काल यम दे ना तंगी ।",
+      "अजामेल हरि स्मरण करके, गया वैकुण्ठ द्वार ॥१ ॥"
     ],
     [
-      "हरि हरि नाम समर सतसनगि, नत काल यम दे ना तनगि.",
-      "जामेल हरि समरन करके, गया वैकुनथ दवार.1 ||"
+      "जहं को हरि गुन सुने सुनावे, तुम में से तहं को ना जावे ।",
+      "धर्म राज ने दूतों प्रती, ऐसे कहा पुकार ॥२ ॥"
     ],
     [
-      "जहन को हरि गुन सुने सुनावे, तुम मेन से तहन को ना जावे.",
-      "धरम राज ने दुतोन परति, ैसे कहा पुकार ||.2 ||"
+      "हरि भक्तों पर हुकम न मेरा, मैं हूं चाकर भक्तों केरा ।",
+      "रविनन्दन की लिखी ज़बानी , नूसिंह पुराण मंझार ॥ ३े ॥"
     ],
     [
-      "हरि भकतोन पर हुकम न मेरा, मैं हुन चाकर भकतोन केरा.",
-      "रविननदन कि लिखि zबानि, नुसिनह पुरान मनझार || 3े ||"
-    ],
-    [
-      "कलियुग मेन हरि किरतन जैसा, फलदायक मग ौर न ैसा.",
-      "कहे तेऊँ यह वेदवयास ने, कहिया बारमबार || 4. ||."
+      "कलियुग में हरि कीर्तन जैसा, फलदायक मग और न ऐसा ।",
+      "कहे टेऊँ यह वेदव्यास ने, कहिया बारम्बार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandaa Hari Hari Naam Uchchaar.",
-      "Hari Hari Naam Uchchaar Karan Se, Beraa Hogaa Paar (Tek)."
-    ],
-    [
       "Hari Hari Naam Samar Sat‌Sangi, Ant Kaal Yam De Naa Tangi.",
-      "Ajaamel Hari Smaran Karke, Gayaa Vaikunth Dvaar.1 ||"
+      "Ajaamel Hari Smaran Karke, Gayaa Vaikunth Dvaar || 1 ||"
     ],
     [
       "Jahan Ko Hari Gun Sune Sunaave, Tum Men Se Tahan Ko Naa Jaave.",
-      "Dharm Raaj Ne Duton Prati, Aise Kahaa Pukaar ||.2 ||"
+      "Dharm Raaj Ne Duton Prati, Aise Kahaa Pukaar || 2 ||"
     ],
     [
-      "Hari Bhakton Par Hukam N Meraa, Main Hun Chaakar Bhakton Keraa.",
+      "Hari Bhakton Par Hukam Na Meraa, Main Hun Chaakar Bhakton Keraa.",
       "Ravinandan Ki Likhi Zabaani, Nusinh Puraan Manjhaar || 3E ||"
     ],
     [
-      "Kaliyug Men Hari Kirtan Jaisaa, Phaldaayak Mag Aur N Aisaa.",
-      "Kahe Teun Yah Vedavyaas Ne, Kahiyaa Baarambaar || 4. ||."
+      "Kaliyug Men Hari Kirtan Jaisaa, Phaldaayak Mag Aur Na Aisaa.",
+      "Kahe Teun Yah Vedavyaas Ne, Kahiyaa Baarambaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 92 || 456. ||.",
+    "बन्दा हरि हरि नाम उच्चार",
     "Bandaa Hari Hari Naam Uchchaar",
-    "बनदा हरि हरि नाम ुचचार"
+    "राग तिलंग भजन 92",
+    "Raag Tilang Bhajan 92"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 456,
+  "displayOrder": 92,
+  "overallOrder": 455,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 256",
+  "updatedAt": "2026-10-26"
 }

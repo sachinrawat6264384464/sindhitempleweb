@@ -1,75 +1,109 @@
 {
   "id": "bhajan-0230",
   "slug": "raam-japo-din-raat-paao-kushlaat-yahi-laabh-jivan-kaa",
-  "categoryId": "raag-bhairav",
-  "title": "राम जपो दीन रात, पाो कुशलात, यहि लाभ जिवन का",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "राम जपो दिन रात, पाओ कुशलात, यही लाभ जीवन का",
   "romanTitle": "Raam Japo Din Raat, Paao Kushlaat, Yahi Laabh Jivan Kaa",
   "firstLine": "Raam Japo Din Raat, Paao Kushlaat, Yahi Laabh Jivan Kaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। १५ ।। २३०।॥।",
+  "tek": [
+    "राम जपो दिन रात, पाओ कुशलात, यही लाभ जीवन का ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Raam Japo Din Raat, Paao Kushlaat, Yahi Laabh Jivan Kaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम भजन हित हरि ने दीया सुन्दर मानुष चोला ।",
+        "देवी देवता चाहत हैं नित ऐसा जन्म अमोला ।",
+        "छोड़ो दुनिया की बात, राम कह तात ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Hit Hari Ne Diyaa Sundar Maanush Cholaa.",
+        "Devi Devtaa Chaahat Hain Nit Aisaa Janm Amolaa.",
+        "Chhoro Duniyaa Ki Baat, Raam Kah Taat || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सब साधन का मूल राम है जानो निश्चय भाई ।",
+        "जिसने जाप जपा है हरि का उसने मुक्ती पाई ।",
+        "मन की मेटे श्रान्त, पाओ तुम शान्त ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sab Saadhan Kaa Mul Raam Hai Jaano Nishchay Bhaai.",
+        "Jisne Jaap Japaa Hai Hari Kaa Usne Mukti Paai.",
+        "Man Ki Mete Shraant, Paao Tum Shaant || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ तुम राम नाम से पूरण प्रीति लगाओ ।",
+        "राम नाम को गाय गायके आनन्द माहिं समाओ ।",
+        "उठ जागो प्रभात, लेवो हरि दात ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Raam Naam Se Puran Priti Lagaao.",
+        "Raam Naam Ko Gaay Gaayke Aanand Maahin Samaao.",
+        "Uth Jaago Prabhaat, Levo Hari Daat || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम जपो दीन रात, पाो कुशलात, यहि लाभ जिवन का (टेक)."
+      "राम भजन हित हरि ने दीया सुन्दर मानुष चोला ।",
+      "देवी देवता चाहत हैं नित ऐसा जन्म अमोला ।",
+      "छोड़ो दुनिया की बात, राम कह तात ॥१ ॥"
     ],
     [
-      "राम भजन हित हरि ने दिया सुनदर मानुश चोला.",
-      "देवि देवता चाहत हैन नित ैसा जनम मोला."
+      "सब साधन का मूल राम है जानो निश्चय भाई ।",
+      "जिसने जाप जपा है हरि का उसने मुक्ती पाई ।",
+      "मन की मेटे श्रान्त, पाओ तुम शान्त ॥२ ॥"
     ],
     [
-      "चहोरो दुनिया कि बात, राम कह तात || 1. ||."
-    ],
-    [
-      "सब साधन का मुल राम है जानो निशचय भाि.",
-      "जिसने जाप जपा है हरि का ुसने मुक्ति पाि."
-    ],
-    [
-      "मन कि मेते शरानत, पाो तुम शानत || 2 ||."
-    ],
-    [
-      "कहे तेऊँ तुम राम नाम से पुरन परिति लगाो.",
-      "राम नाम को गाय गायके आनंद माहिन समाो."
-    ],
-    [
-      "ुथ जागो परभात, लेवो हरि दात ||.3 ||."
+      "कहे टेऊँ तुम राम नाम से पूरण प्रीति लगाओ ।",
+      "राम नाम को गाय गायके आनन्द माहिं समाओ ।",
+      "उठ जागो प्रभात, लेवो हरि दात ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Japo Din Raat, Paao Kushlaat, Yahi Laabh Jivan Kaa (Tek)."
-    ],
-    [
       "Raam Bhajan Hit Hari Ne Diyaa Sundar Maanush Cholaa.",
-      "Devi Devtaa Chaahat Hain Nit Aisaa Janm Amolaa."
-    ],
-    [
-      "Chhoro Duniyaa Ki Baat, Raam Kah Taat || 1. ||."
+      "Devi Devtaa Chaahat Hain Nit Aisaa Janm Amolaa.",
+      "Chhoro Duniyaa Ki Baat, Raam Kah Taat || 1 ||"
     ],
     [
       "Sab Saadhan Kaa Mul Raam Hai Jaano Nishchay Bhaai.",
-      "Jisne Jaap Japaa Hai Hari Kaa Usne Mukti Paai."
-    ],
-    [
-      "Man Ki Mete Shraant, Paao Tum Shaant || 2 ||."
+      "Jisne Jaap Japaa Hai Hari Kaa Usne Mukti Paai.",
+      "Man Ki Mete Shraant, Paao Tum Shaant || 2 ||"
     ],
     [
       "Kahe Teun Tum Raam Naam Se Puran Priti Lagaao.",
-      "Raam Naam Ko Gaay Gaayke Aanand Maahin Samaao."
-    ],
-    [
-      "Uth Jaago Prabhaat, Levo Hari Daat ||.3 ||."
+      "Raam Naam Ko Gaay Gaayke Aanand Maahin Samaao.",
+      "Uth Jaago Prabhaat, Levo Hari Daat || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 15 || 230. ||.",
+    "राम जपो दिन रात, पाओ कुशलात, यही लाभ जीवन का",
     "Raam Japo Din Raat, Paao Kushlaat, Yahi Laabh Jivan Kaa",
-    "राम जपो दीन रात, पाो कुशलात, यहि लाभ जिवन का"
+    "राग भैरवी भजन 15",
+    "Raag Bhairvi Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 230,
+  "displayOrder": 15,
+  "overallOrder": 230,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 144",
+  "updatedAt": "2026-10-26"
 }

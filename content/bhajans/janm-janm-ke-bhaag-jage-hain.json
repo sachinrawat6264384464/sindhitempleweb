@@ -1,43 +1,89 @@
 {
-  "id": "bhajan-0518",
+  "id": "bhajan-0516",
   "slug": "janm-janm-ke-bhaag-jage-hain",
   "categoryId": "raag-kohiyaari",
-  "title": "जनम जनम के भाग जगे हैन",
-  "romanTitle": "Janm Janm Ke Bhaag Jage Hain",
-  "firstLine": "Janm Janm Ke Bhaag Jage Hain, Sant Mile Sukhkaari, Jaaun Balihaari (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "जन्म जन्म के भाग जगे हैं,",
+  "romanTitle": "Janm Janm Ke Bhaag Jage Hain,",
+  "firstLine": "Janm Janm Ke Bhaag Jage Hain,",
+  "heading": "।। राग कोह्मारी भजन ।। ३७ ।। ५१७।।",
+  "tek": [
+    "जन्म जन्म के भाग जगे हैं,",
+    "सन्त मिले सुखकारी , जाऊँ बलिहारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Janm Janm Ke Bhaag Jage Hain,",
+    "Sant Mile Sukhkaari, Jaaun Balihaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "परहित कारन धर अवतारा,",
+        "सब जीवों का करत सुधारा, आये पर उपकारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Parhit Kaaran Dhar Avtaaraa,",
+        "Sab Jivon Kaa Karat Sudhaaraa, Aaye Par Upkaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्नज्ञान का कर प्रकाशा,",
+        "पांच श्रम का करके नाशा, काटत जम की जारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahnajnyaan Kaa Kar Prakaashaa,",
+        "Paanch Shram Kaa Karke Naashaa, Kaatat Jam Ki Jaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दुख भव्जन सुख देवन हारे,",
+        "जन्म जन्म के पाप निवारे, तारत भवजल भारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dukh Bhavjan Sukh Devan Haare,",
+        "Janm Janm Ke Paap Nivaare, Taarat Bhavjal Bhaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अति कृपा धारे,",
+        "आज मेरे घर सन्त पधारे, पूरन पुरुष उदारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ati Kripaa Dhaare,",
+        "Aaj Mere Ghar Sant Padhaare, Puran Purush Udaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जनम जनम के भाग जगे हैन,",
-      "संत मिले सुखकारि, जाुन बलिहारि (टेक)."
+      "परहित कारन धर अवतारा,",
+      "सब जीवों का करत सुधारा, आये पर उपकारी ॥१ ॥"
     ],
     [
-      "परहित कारन धर वतारा,",
-      "सब जिवोन का करत सुधारा, ाये पर ुपकारि.1 ||."
+      "ब्रह्नज्ञान का कर प्रकाशा,",
+      "पांच श्रम का करके नाशा, काटत जम की जारी ॥२ ॥"
     ],
     [
-      "बरहनजनयान का कर परकाशा,",
-      "पानच शरम का करके नाशा, कातत जम कि जारि || 2 ||"
+      "दुख भव्जन सुख देवन हारे,",
+      "जन्म जन्म के पाप निवारे, तारत भवजल भारी ॥३ ॥"
     ],
     [
-      "दुःख भवजन सुख देवन हारे,",
-      "जनम जनम के पाप निवारे, तारत भवजल भारि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ ति कृपा धारे,",
-      "ाज मेरे घर संत पधारे, पुरन पुरुश ुदारि || 4 ||."
-    ],
-    [
-      "हा"
+      "कहे टेऊँ अति कृपा धारे,",
+      "आज मेरे घर सन्त पधारे, पूरन पुरुष उदारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Janm Janm Ke Bhaag Jage Hain,",
-      "Sant Mile Sukhkaari, Jaaun Balihaari (Tek)."
-    ],
-    [
       "Parhit Kaaran Dhar Avtaaraa,",
-      "Sab Jivon Kaa Karat Sudhaaraa, Aaye Par Upkaari.1 ||."
+      "Sab Jivon Kaa Karat Sudhaaraa, Aaye Par Upkaari || 1 ||"
     ],
     [
       "Brahnajnyaan Kaa Kar Prakaashaa,",
@@ -49,25 +95,24 @@
     ],
     [
       "Kahe Teun Ati Kripaa Dhaare,",
-      "Aaj Mere Ghar Sant Padhaare, Puran Purush Udaari || 4 ||."
-    ],
-    [
-      "Haa"
+      "Aaj Mere Ghar Sant Padhaare, Puran Purush Udaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 37 || 517 ||",
-    "Janm Janm Ke Bhaag Jage Hain",
-    "जनम जनम के भाग जगे हैन"
+    "जन्म जन्म के भाग जगे हैं,",
+    "Janm Janm Ke Bhaag Jage Hain,",
+    "राग कोहियारी भजन 37",
+    "Raag Kohiyaari Bhajan 37"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 518,
+  "displayOrder": 37,
+  "overallOrder": 516,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 285",
+  "updatedAt": "2026-10-26"
 }

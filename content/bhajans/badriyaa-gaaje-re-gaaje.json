@@ -1,45 +1,103 @@
 {
-  "id": "bhajan-0889",
+  "id": "bhajan-0887",
   "slug": "badriyaa-gaaje-re-gaaje",
   "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
   "title": "बदरिया गाजे रे गाजे",
   "romanTitle": "Badriyaa Gaaje Re Gaaje",
   "firstLine": "Badriyaa Gaaje Re Gaaje (Tek).",
+  "heading": "।। राग जोग भजन ।। ५९ ।। ८८९॥।",
+  "tek": [
+    "बदरिया गाजे रे गाजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Badriyaa Gaaje Re Gaaje (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इन्द्रदेब की आज्ञा पाकर, जल बरसन को आये ।",
+        "रिलमिल गरजे बून्दें बरसे, दामिनि दमक बिराजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Indradeb Ki Aajnyaa Paakar, Jal Barsan Ko Aaye.",
+        "Rilmil Garje Bunden Barse, Daamini Damak Biraaje || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धरनी गिर तरु सीप सिन्धु पर, बादल नितहीं बरसे ।",
+        "जैसा भाव जिसी का होवे, तैसा ताहिं निवाजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dharni Gir Taru Sip Sindhu Par, Baadal Nithin Barse.",
+        "Jaisaa Bhaav Jisi Kaa Hove, Taisaa Taahin Nivaaje || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मोर पपीहा मेंढक आदी, देख बदल को हर्षे ।",
+        "इख मिठाई अहि में विष हो, नासे आक समाजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mor Papihaa Mendhak Aadi, Dekh Badal Ko Harshe.",
+        "Ikh Mithaai Ahi Men Vish Ho, Naase Aak Samaaje || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ घन गगन निवासी, निर्वेरी निष्कामी ।",
+        "हरि कृपा से दर्शन देकर, करहिं सर्व के काजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ghan Gagan Nivaasi, Nirveri Nishkaami.",
+        "Hari Kripaa Se Darshan Dekar, Karhin Sarv Ke Kaaje || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््य्य"
+      ],
+      "romanLines": [
+        "Gyy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बदरिया गाजे रे गाजे (टेक)."
+      "इन्द्रदेब की आज्ञा पाकर, जल बरसन को आये ।",
+      "रिलमिल गरजे बून्दें बरसे, दामिनि दमक बिराजे ॥१ ॥"
     ],
     [
-      "िनदरदेब कि ाजनया पाकर, जल बरसन को ाये.",
-      "रिलमिल गरजे बुनदेन बरसे, दामिनि दमक बिराजे || 1 ||"
+      "धरनी गिर तरु सीप सिन्धु पर, बादल नितहीं बरसे ।",
+      "जैसा भाव जिसी का होवे, तैसा ताहिं निवाजे ॥२ ॥"
     ],
     [
-      "धरनि गिर तरु सिप सिनधु पर, बादल निथिन बरसे.",
-      "जैसा भाव जिसि का होवे, तैसा ताहिन निवाजे || 2 ||."
+      "मोर पपीहा मेंढक आदी, देख बदल को हर्षे ।",
+      "इख मिठाई अहि में विष हो, नासे आक समाजे ॥३ ॥"
     ],
     [
-      "मोर पपिहा मेनधक ादि, देख बदल को हरशे.",
-      "िख मिथाि हि मेन विश हो, नासे ाक समाजे || 3 ||"
+      "कहे टेऊँ घन गगन निवासी, निर्वेरी निष्कामी ।",
+      "हरि कृपा से दर्शन देकर, करहिं सर्व के काजे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ घन गगन निवासि, निरवेरि निशकामि.",
-      "हरि कृपा से दरशन देकर, करहिन सर्व के काजे || 4 ||"
-    ],
-    [
-      "गयय"
+      "ग््य्य"
     ]
   ],
   "romanLyrics": [
-    [
-      "Badriyaa Gaaje Re Gaaje (Tek)."
-    ],
     [
       "Indradeb Ki Aajnyaa Paakar, Jal Barsan Ko Aaye.",
       "Rilmil Garje Bunden Barse, Daamini Damak Biraaje || 1 ||"
     ],
     [
       "Dharni Gir Taru Sip Sindhu Par, Baadal Nithin Barse.",
-      "Jaisaa Bhaav Jisi Kaa Hove, Taisaa Taahin Nivaaje || 2 ||."
+      "Jaisaa Bhaav Jisi Kaa Hove, Taisaa Taahin Nivaaje || 2 ||"
     ],
     [
       "Mor Papihaa Mendhak Aadi, Dekh Badal Ko Harshe.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 59 || 889 ||.",
+    "बदरिया गाजे रे गाजे",
     "Badriyaa Gaaje Re Gaaje",
-    "बदरिया गाजे रे गाजे"
+    "राग जोग भजन 59",
+    "Raag Jog Bhajan 59"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 889,
+  "displayOrder": 59,
+  "overallOrder": 887,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 468",
+  "updatedAt": "2026-10-26"
 }

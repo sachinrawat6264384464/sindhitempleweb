@@ -1,66 +1,116 @@
 {
-  "id": "bhajan-0899",
+  "id": "bhajan-0897",
   "slug": "shishy-guru-kaa-shabd-kamaao-tum-antar-dhyaan-lagaao",
   "categoryId": "raag-jog",
-  "title": "शिशय गुरु का शबद कमाो, तुम नतर ध्यान लगाो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "शिष्य गुरू का शब्द कमाओ, तुम अन्तर ध्यान लगाओ",
   "romanTitle": "Shishy Guru Kaa Shabd Kamaao, Tum Antar Dhyaan Lagaao",
   "firstLine": "Shishy Guru Kaa Shabd Kamaao, Tum Antar Dhyaan Lagaao (Tek).",
+  "heading": "।। राग जोग भजन ।। ६९ ।। ८९९ ॥।",
+  "tek": [
+    "शिष्य गुरू का शब्द कमाओ, तुम अन्तर ध्यान लगाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shishy Guru Kaa Shabd Kamaao, Tum Antar Dhyaan Lagaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मूल कमल में थिर कर आसन, मन को नाहिं डुलाओ ।",
+        "अपजा जाप जपे निशवासर, बिन जिह्वा गुण गाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mul Kamal Men Thir Kar Aasan, Man Ko Naahin Dulaao.",
+        "Apjaa Jaap Jape Nishvaasar, Bin Jihvaa Gun Gaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाभि कमल से नाम चलाए, हृदय में ले आओ ।",
+        "कण्ठ कमल में कर वीचारा, त्रिकुटी ज्योति जगाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naabhi Kamal Se Naam Chalaae, Hriday Men Le Aao.",
+        "Kanth Kamal Men Kar Vichaaraa, Trikuti Jyoti Jagaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इड़ा पिज्ञला से ले श्वासा, सुषुम्न में ठहराओ ।",
+        "गगन मण्डल में अनहद सुनके , तन की सुधि बिसराओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Iraa Pijnyalaa Se Le Shvaasaa, Sushumn Men Thahraao.",
+        "Gagan Mandal Men Anhad Sunke, Tan Ki Sudhi Bisraao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सुन्न सकड़ में लाय समाधी, दसमें दर्शन पाओ ।",
+        "कहे टेऊँ यों सुमरण करके, सुख स्वरूप समाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sunn Sakar Men Laay Samaadhi, Dasmen Darshan Paao.",
+        "Kahe Teun Yon Sumran Karke, Sukh Svarup Samaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शिशय गुरु का शबद कमाो, तुम नतर ध्यान लगाो (टेक)."
+      "मूल कमल में थिर कर आसन, मन को नाहिं डुलाओ ।",
+      "अपजा जाप जपे निशवासर, बिन जिह्वा गुण गाओ ॥१ ॥"
     ],
     [
-      "मुल कमल मेन थिर कर ासन, मन को नाहिन दुलाो.",
-      "पजा जाप जपे निशवासर, बिन जिहवा गुन गाो || 1. ||."
+      "नाभि कमल से नाम चलाए, हृदय में ले आओ ।",
+      "कण्ठ कमल में कर वीचारा, त्रिकुटी ज्योति जगाओ ॥२ ॥"
     ],
     [
-      "नाभि कमल से नाम चलाे, हरिदय मेन ले ाो.",
-      "कनथ कमल मेन कर विचारा, तरिकुति जयोति जगाो || 2. ||."
+      "इड़ा पिज्ञला से ले श्वासा, सुषुम्न में ठहराओ ।",
+      "गगन मण्डल में अनहद सुनके , तन की सुधि बिसराओ ॥३ ॥"
     ],
     [
-      "िरा पिजनयला से ले शवासा, सुशुमन मेन थहराो.",
-      "गगन मनदल मेन नहद सुनके, तन कि सुधि बिसराो || 3 ||."
-    ],
-    [
-      "सुनन सकर मेन लाय समाधि, दसमेन दरशन पाो.",
-      "कहे तेऊँ योन सुमरन करके, सुख सवरुप समाो || 4 ||."
+      "सुन्न सकड़ में लाय समाधी, दसमें दर्शन पाओ ।",
+      "कहे टेऊँ यों सुमरण करके, सुख स्वरूप समाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shishy Guru Kaa Shabd Kamaao, Tum Antar Dhyaan Lagaao (Tek)."
-    ],
-    [
       "Mul Kamal Men Thir Kar Aasan, Man Ko Naahin Dulaao.",
-      "Apjaa Jaap Jape Nishvaasar, Bin Jihvaa Gun Gaao || 1. ||."
+      "Apjaa Jaap Jape Nishvaasar, Bin Jihvaa Gun Gaao || 1 ||"
     ],
     [
       "Naabhi Kamal Se Naam Chalaae, Hriday Men Le Aao.",
-      "Kanth Kamal Men Kar Vichaaraa, Trikuti Jyoti Jagaao || 2. ||."
+      "Kanth Kamal Men Kar Vichaaraa, Trikuti Jyoti Jagaao || 2 ||"
     ],
     [
       "Iraa Pijnyalaa Se Le Shvaasaa, Sushumn Men Thahraao.",
-      "Gagan Mandal Men Anhad Sunke, Tan Ki Sudhi Bisraao || 3 ||."
+      "Gagan Mandal Men Anhad Sunke, Tan Ki Sudhi Bisraao || 3 ||"
     ],
     [
       "Sunn Sakar Men Laay Samaadhi, Dasmen Darshan Paao.",
-      "Kahe Teun Yon Sumran Karke, Sukh Svarup Samaao || 4 ||."
+      "Kahe Teun Yon Sumran Karke, Sukh Svarup Samaao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 69 || 899 ||.",
+    "शिष्य गुरू का शब्द कमाओ, तुम अन्तर ध्यान लगाओ",
     "Shishy Guru Kaa Shabd Kamaao, Tum Antar Dhyaan Lagaao",
-    "शिशय गुरु का शबद कमाो, तुम नतर ध्यान लगाो"
+    "राग जोग भजन 69",
+    "Raag Jog Bhajan 69"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 899,
+  "displayOrder": 69,
+  "overallOrder": 897,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 474",
+  "updatedAt": "2026-10-26"
 }

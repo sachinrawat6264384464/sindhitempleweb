@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0865",
+  "id": "bhajan-0863",
   "slug": "main-hun-shaahnashaah-shaahnashaahi-sair-hamaaraa",
   "categoryId": "raag-jog",
-  "title": "मैं हुन शाहनशाह, शाहनशाहि सैर हमारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मैं हूं शाहनशाह, शाहनशाही सैर हमारा",
   "romanTitle": "Main Hun Shaahnashaah, Shaahnashaahi Sair Hamaaraa",
   "firstLine": "Main Hun Shaahnashaah, Shaahnashaahi Sair Hamaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ३५ ।। ८६५।॥।",
+  "tek": [
+    "मैं हूं शाहनशाह, शाहनशाही सैर हमारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Hun Shaahnashaah, Shaahnashaahi Sair Hamaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अफुर अनादी वहदत मैं हूं, फुरने करके कसरत मैं हूं ।",
+        "मेरा सब उत्साह, सूक्ष्म पुनि स्थूल पसारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aphur Anaadi Vahdat Main Hun, Phurne Karke Kasrat Main Hun.",
+        "Meraa Sab Utsaah, Sukshm Puni Sthul Pasaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मेरे आगे माया नाचे, मम शकक्‍्ती ले रचना राचे ।",
+        "रचिया जग असगाह, देव दनुज नर लहर अपारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mere Aage Maayaa Naache, Mam Shakak‍Ti Le Rachnaa Raache.",
+        "Rachiyaa Jag Asgaah, Dev Danuj Nar Lahar Apaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं सबमें हूं सबसे निराला, रहत आप में मैं मतिवाला ।",
+        "मुझको अनन्द अथाह, हर्ष शोक से मैं हूं न्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Sabmen Hun Sabse Niraalaa, Rahat Aap Men Main Mativaalaa.",
+        "Mujhko Anand Athaah, Harsh Shok Se Main Hun Nyaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ मैं सब घट हूं, मैं की सूरत में प्रगट हूं ।",
+        "मैं हूं बेपरवाह, सब पर हुक्म चलावनहारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Main Sab Ghat Hun, Main Ki Surat Men Pragat Hun.",
+        "Main Hun Bepravaah, Sab Par Hukm Chalaavnahaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं हुन शाहनशाह, शाहनशाहि सैर हमारा (टेक)."
+      "अफुर अनादी वहदत मैं हूं, फुरने करके कसरत मैं हूं ।",
+      "मेरा सब उत्साह, सूक्ष्म पुनि स्थूल पसारा ॥१ ॥"
     ],
     [
-      "फुर नादि वहदत मैं हुन, फुरने करके कसरत मैं हुन.",
-      "मेरा सब ुतसाह, सुकशम पुनि सथुल पसारा || 1 ||."
+      "मेरे आगे माया नाचे, मम शकक्‍्ती ले रचना राचे ।",
+      "रचिया जग असगाह, देव दनुज नर लहर अपारा ॥२ ॥"
     ],
     [
-      "मेरे ागे माया नाचे, मम शककति ले रचना राचे.",
-      "रचिया जग सगाह, देव दनुज नर लहर पारा || 2 ||"
+      "मैं सबमें हूं सबसे निराला, रहत आप में मैं मतिवाला ।",
+      "मुझको अनन्द अथाह, हर्ष शोक से मैं हूं न्यारा ॥३ ॥"
     ],
     [
-      "मैं सबमेन हुन सबसे निराला, रहत ाप मेन मैं मतिवाला.",
-      "मुझको आनंद थाह, हरश शोक से मैं हुन नयारा || 3 ||."
-    ],
-    [
-      "कहता तेऊँ मैं सब घत हुन, मैं कि सुरत मेन परगत हुन.",
-      "मैं हुन बेपरवाह, सब पर हुकम चलावनहारा ||.4. ||."
+      "कहता टेऊँ मैं सब घट हूं, मैं की सूरत में प्रगट हूं ।",
+      "मैं हूं बेपरवाह, सब पर हुक्म चलावनहारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Hun Shaahnashaah, Shaahnashaahi Sair Hamaaraa (Tek)."
-    ],
-    [
       "Aphur Anaadi Vahdat Main Hun, Phurne Karke Kasrat Main Hun.",
-      "Meraa Sab Utsaah, Sukshm Puni Sthul Pasaaraa || 1 ||."
+      "Meraa Sab Utsaah, Sukshm Puni Sthul Pasaaraa || 1 ||"
     ],
     [
       "Mere Aage Maayaa Naache, Mam Shakak‍Ti Le Rachnaa Raache.",
@@ -40,26 +89,28 @@
     ],
     [
       "Main Sabmen Hun Sabse Niraalaa, Rahat Aap Men Main Mativaalaa.",
-      "Mujhko Anand Athaah, Harsh Shok Se Main Hun Nyaaraa || 3 ||."
+      "Mujhko Anand Athaah, Harsh Shok Se Main Hun Nyaaraa || 3 ||"
     ],
     [
       "Kahtaa Teun Main Sab Ghat Hun, Main Ki Surat Men Pragat Hun.",
-      "Main Hun Bepravaah, Sab Par Hukm Chalaavnahaaraa ||.4. ||."
+      "Main Hun Bepravaah, Sab Par Hukm Chalaavnahaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 35 || 865. ||.",
+    "मैं हूं शाहनशाह, शाहनशाही सैर हमारा",
     "Main Hun Shaahnashaah, Shaahnashaahi Sair Hamaaraa",
-    "मैं हुन शाहनशाह, शाहनशाहि सैर हमारा"
+    "राग जोग भजन 35",
+    "Raag Jog Bhajan 35"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 865,
+  "displayOrder": 35,
+  "overallOrder": 863,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 456",
+  "updatedAt": "2026-10-26"
 }

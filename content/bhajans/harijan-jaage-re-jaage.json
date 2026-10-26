@@ -1,42 +1,102 @@
 {
-  "id": "bhajan-0891",
+  "id": "bhajan-0889",
   "slug": "harijan-jaage-re-jaage",
   "categoryId": "raag-jog",
-  "title": "हरिजन जागे रे जागे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हरीजन जागे रे जागे",
   "romanTitle": "Harijan Jaage Re Jaage",
   "firstLine": "Harijan Jaage Re Jaage (Tek).",
+  "heading": "।। राग जोग भजन ।। ६१ ।। ८९१।।",
+  "tek": [
+    "हरीजन जागे रे जागे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Harijan Jaage Re Jaage (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जागी शंकर लाय समाधी, कामदेव को जीता ।",
+        "जागी पवन पुत्र हनुमाना, राम चरन में रागे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaagi Shankar Laay Samaadhi, Kaamdev Ko Jitaa.",
+        "Jaagi Pavan Putr Hanumaanaa, Raam Charan Men Raage || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जागी अर्जुन श्याम सुन्दर को, स्वप्ने आसन दीना ।",
+        "जागी व्यास पूत जन्मत ही, बन में गये घर त्यागे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaagi Arjun Shyaam Sundar Ko, Svapne Aasan Dinaa.",
+        "Jaagi Vyaas Put Janmat Hi, Ban Men Gaye Ghar Tyaage || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जागी रांके बांके जाना, सम कंचन अरु माटी ।",
+        "जागी नामदेव सब घट में, राम देख अनुरागे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaagi Raanke Baanke Jaanaa, Sam Kanchan Aru Maati.",
+        "Jaagi Naamdev Sab Ghat Men, Raam Dekh Anuraage || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जागी ध्रुव प्रहलाद भक्त ने, राम भजन नहिं छोड़ा ।",
+        "जागी पीपा सैन कबीरा, सन्त सेव में लागे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jaagi Dhruv Prahlaad Bhakt Ne, Raam Bhajan Nahin Chhoraa.",
+        "Jaagi Pipaa Sain Kabiraa, Sant Sev Men Laage || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "इत्यादिक बहु हरिजन जागे, पाए हरि गुरु कृपा ।",
+        "कहे टेऊँ तिनके मुख देखत, दूरहुं ते जम भागे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Ityaadik Bahu Harijan Jaage, Paae Hari Guru Kripaa.",
+        "Kahe Teun Tinke Mukh Dekhat, Durhun Te Jam Bhaage || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरिजन जागे रे जागे (टेक)."
+      "जागी शंकर लाय समाधी, कामदेव को जीता ।",
+      "जागी पवन पुत्र हनुमाना, राम चरन में रागे ॥१ ॥"
     ],
     [
-      "जागि शनकर लाय समाधि, कामदेव को जिता.",
-      "जागि पवन पुतर हनुमाना, राम चरण मेन रागे || 1 ||."
+      "जागी अर्जुन श्याम सुन्दर को, स्वप्ने आसन दीना ।",
+      "जागी व्यास पूत जन्मत ही, बन में गये घर त्यागे ॥२ ॥"
     ],
     [
-      "जागि रजुन शयाम सुनदर को, सवपने ासन दिना.",
-      "जागि वयास पुत जनमत हि, बन मेन गये घर तयागे || 2 ||"
+      "जागी रांके बांके जाना, सम कंचन अरु माटी ।",
+      "जागी नामदेव सब घट में, राम देख अनुरागे ॥३ ॥"
     ],
     [
-      "जागि रानके बानके जाना, सम कनचन रु माति.",
-      "जागि नामदेव सब घत मेन, राम देख नुरागे.3 ||"
+      "जागी ध्रुव प्रहलाद भक्त ने, राम भजन नहिं छोड़ा ।",
+      "जागी पीपा सैन कबीरा, सन्त सेव में लागे ॥४ ॥"
     ],
     [
-      "जागि धरुव परहलाद भकत ने, राम भजन नहिन चहोरा.",
-      "जागि पिपा सैन कबिरा, संत सेव मेन लागे || 4 ||"
-    ],
-    [
-      "ितयादिक बहु हरिजन जागे, पाे हरि गुरु कृपा.",
-      "कहे तेऊँ तिनके मुख देखत, दुरहुन ते जम भागे || 5 ||"
+      "इत्यादिक बहु हरिजन जागे, पाए हरि गुरु कृपा ।",
+      "कहे टेऊँ तिनके मुख देखत, दूरहुं ते जम भागे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Harijan Jaage Re Jaage (Tek)."
-    ],
-    [
       "Jaagi Shankar Laay Samaadhi, Kaamdev Ko Jitaa.",
-      "Jaagi Pavan Putr Hanumaanaa, Raam Charan Men Raage || 1 ||."
+      "Jaagi Pavan Putr Hanumaanaa, Raam Charan Men Raage || 1 ||"
     ],
     [
       "Jaagi Arjun Shyaam Sundar Ko, Svapne Aasan Dinaa.",
@@ -44,7 +104,7 @@
     ],
     [
       "Jaagi Raanke Baanke Jaanaa, Sam Kanchan Aru Maati.",
-      "Jaagi Naamdev Sab Ghat Men, Raam Dekh Anuraage.3 ||"
+      "Jaagi Naamdev Sab Ghat Men, Raam Dekh Anuraage || 3 ||"
     ],
     [
       "Jaagi Dhruv Prahlaad Bhakt Ne, Raam Bhajan Nahin Chhoraa.",
@@ -56,18 +116,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 61 || 891 ||",
+    "हरीजन जागे रे जागे",
     "Harijan Jaage Re Jaage",
-    "हरिजन जागे रे जागे"
+    "राग जोग भजन 61",
+    "Raag Jog Bhajan 61"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 891,
+  "displayOrder": 61,
+  "overallOrder": 889,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 469",
+  "updatedAt": "2026-10-26"
 }

@@ -1,67 +1,107 @@
 {
   "id": "bhajan-0219",
   "slug": "suno-vachan-pyaaraa-karo-man-vichaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "सुनो वचन पयारा, करो मन विचारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सुनो वचन प्यारा, करो मन विचारा",
   "romanTitle": "Suno Vachan Pyaaraa, Karo Man Vichaaraa",
-  "firstLine": "Suno Vachan Pyaaraa, Karo Man Vichaaraa. Yahaan Tu Musaaphir, Nahin Rahan Haaraa (Tek).",
+  "firstLine": "Suno Vachan Pyaaraa, Karo Man Vichaaraa.",
+  "heading": "।। राग भैरवी भजन ।। ४ ।। २१९।।",
+  "tek": [
+    "सुनो वचन प्यारा, करो मन विचारा ।",
+    "यहां तूं मुसाफिर, नहीं रहन हारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Vachan Pyaaraa, Karo Man Vichaaraa.",
+    "Yahaan Tu Musaaphir, Nahin Rahan Haaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "महल ये मकाना, दुनिया का खज़ाना ।",
+        "तुझे छोड़ जाना, पड़ेगा पसारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mahal Ye Makaanaa, Duniyaa Kaa Khazaanaa.",
+        "Tujhe Chhor Jaanaa, Paregaa Pasaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मोह नीन्द सोया, मरम तो न होया ।",
+        "अमुल जन्म खोया, सुन्दर एह सारा ॥र ॥२ ॥",
+        "करत अशुभ काजा, नहीं तोहि लाजा ।",
+        "बजत काल बाजा, सुनत ना गँवारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Moh Nind Soyaa, Maram To Na Hoyaa.",
+        "Amul Janm Khoyaa, Sundar Eh Saaraa || Ra || 2 ||",
+        "Karat Ashubh Kaajaa, Nahin Tohi Laajaa.",
+        "Bajat Kaal Baajaa, Sunat Naa Ganvaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अगर कुशल चाहो, हरी शरन जाओ ।",
+        "कहे टेऊँ पाओ, दरस हरि उदारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Agar Kushal Chaaho, Hari Sharan Jaao.",
+        "Kahe Teun Paao, Daras Hari Udaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनो वचन पयारा, करो मन विचारा.",
-      "यहान तु मुसाफिर, नहिन रहन हारा (टेक)."
+      "महल ये मकाना, दुनिया का खज़ाना ।",
+      "तुझे छोड़ जाना, पड़ेगा पसारा ॥१ ॥"
     ],
     [
-      "महल ये मकाना, दुनिया का खzाना.",
-      "तुझे चहोर जाना, परेगा पसारा.1. ||."
+      "मोह नीन्द सोया, मरम तो न होया ।",
+      "अमुल जन्म खोया, सुन्दर एह सारा ॥र ॥२ ॥",
+      "करत अशुभ काजा, नहीं तोहि लाजा ।",
+      "बजत काल बाजा, सुनत ना गँवारा ॥३ ॥"
     ],
     [
-      "मोह निनद सोया, मरम तो न होया.",
-      "मुल जनम खोया, सुनदर ेह सारा || र2 ||"
-    ],
-    [
-      "करत शुभ काजा, नहिन तोहि लाजा.",
-      "बजत काल बाजा, सुनत ना गनवारा || 3 ||."
-    ],
-    [
-      "गर कुशल चाहो, हरि शरन जाो.",
-      "कहे तेऊँ पाो, दरस हरि ुदारा || 4. ||."
+      "अगर कुशल चाहो, हरी शरन जाओ ।",
+      "कहे टेऊँ पाओ, दरस हरि उदारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suno Vachan Pyaaraa, Karo Man Vichaaraa.",
-      "Yahaan Tu Musaaphir, Nahin Rahan Haaraa (Tek)."
-    ],
-    [
       "Mahal Ye Makaanaa, Duniyaa Kaa Khazaanaa.",
-      "Tujhe Chhor Jaanaa, Paregaa Pasaaraa.1. ||."
+      "Tujhe Chhor Jaanaa, Paregaa Pasaaraa || 1 ||"
     ],
     [
-      "Moh Nind Soyaa, Maram To N Hoyaa.",
-      "Amul Janm Khoyaa, Sundar Eh Saaraa || R2 ||"
-    ],
-    [
+      "Moh Nind Soyaa, Maram To Na Hoyaa.",
+      "Amul Janm Khoyaa, Sundar Eh Saaraa || Ra || 2 ||",
       "Karat Ashubh Kaajaa, Nahin Tohi Laajaa.",
-      "Bajat Kaal Baajaa, Sunat Naa Ganvaaraa || 3 ||."
+      "Bajat Kaal Baajaa, Sunat Naa Ganvaaraa || 3 ||"
     ],
     [
       "Agar Kushal Chaaho, Hari Sharan Jaao.",
-      "Kahe Teun Paao, Daras Hari Udaaraa || 4. ||."
+      "Kahe Teun Paao, Daras Hari Udaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 4 || 219 ||",
+    "सुनो वचन प्यारा, करो मन विचारा",
     "Suno Vachan Pyaaraa, Karo Man Vichaaraa",
-    "सुनो वचन पयारा, करो मन विचारा"
+    "राग भैरवी भजन 4",
+    "Raag Bhairvi Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 219,
+  "displayOrder": 4,
+  "overallOrder": 219,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 138",
+  "updatedAt": "2026-10-26"
 }

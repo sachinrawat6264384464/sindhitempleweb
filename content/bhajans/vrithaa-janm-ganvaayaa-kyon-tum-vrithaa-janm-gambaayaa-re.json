@@ -2,70 +2,115 @@
   "id": "bhajan-0028",
   "slug": "vrithaa-janm-ganvaayaa-kyon-tum-vrithaa-janm-gambaayaa-re",
   "categoryId": "raag-raamkali",
-  "title": "वरिथा जनम गनवाया कयोन तुम, वरिथा जनम गमबाया रे",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "वृथा जन्म गंवाया क्यों तुम, वृथा जन्म गंबाया रे",
   "romanTitle": "Vrithaa Janm Ganvaayaa Kyon Tum, Vrithaa Janm Gambaayaa Re",
   "firstLine": "Vrithaa Janm Ganvaayaa Kyon Tum, Vrithaa Janm Gambaayaa Re (Tek).",
+  "heading": "।। राग रामकली भजन ।। १६ ।। २८।।",
+  "tek": [
+    "वृथा जन्म गंवाया क्यों तुम, वृथा जन्म गंबाया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vrithaa Janm Ganvaayaa Kyon Tum, Vrithaa Janm Gambaayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सेवा सुमरण यज्ञ दान से मानुष तन यह पाया रे ।",
+        "साध संगति नहिं कबहूँ कीनी दुर्जन का संग भाया रे ।१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sevaa Sumran Yajny Daan Se Maanush Tan Yah Paayaa Re.",
+        "Saadh Sangti Nahin Kabhun Kini Durjan Kaa Sang Bhaayaa Re.1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाप कर्म बहु छल वल करके धन को बहुत कमाया रे ।",
+        "दीन जनों को दान न दीना नहिं खरचा नहिं खाया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paap Karm Bahu Chhal Val Karke Dhan Ko Bahut Kamaayaa Re.",
+        "Din Janon Ko Daan Na Dinaa Nahin Kharchaa Nahin Khaayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गंगा आदी तीर्थों में जा फिर फिर जन्म बिताया रे ।",
+        "आत्म तीर्थ को नहिं परस्या ज्ञान गंग नहिं नाया रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gangaa Aadi Tirthon Men Jaa Phir Phir Janm Bitaayaa Re.",
+        "Aatm Tirth Ko Nahin Parasyaa Gyaan Gang Nahin Naayaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भाव भक्ति निष्काम कर्म तज काम्य कर्म कमाया रे ।",
+        "कहता टेऊँ भोग विषय में श्वास अमोल लुटाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhaav Bhakti Nishkaam Karm Taj Kaamy Karm Kamaayaa Re.",
+        "Kahtaa Teun Bhog Vishay Men Shvaas Amol Lutaayaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "वरिथा जनम गनवाया कयोन तुम, वरिथा जनम गमबाया रे (टेक)."
+      "सेवा सुमरण यज्ञ दान से मानुष तन यह पाया रे ।",
+      "साध संगति नहिं कबहूँ कीनी दुर्जन का संग भाया रे ।१ ॥१ ॥"
     ],
     [
-      "सेवा सुमरन यजनय दान से मानुश तन यह पाया रे.",
-      "साध सनगति नहिन कभुन किनि दुरजन का सनग भाया रे.1$ ||."
+      "पाप कर्म बहु छल वल करके धन को बहुत कमाया रे ।",
+      "दीन जनों को दान न दीना नहिं खरचा नहिं खाया रे ॥२ ॥"
     ],
     [
-      "पाप करम बहु चहल वल करके धन को बहुत कमाया रे.",
-      "दीन जनोन को दान न दिना नहिन खरचा नहिन खाया रे || 2 ||"
+      "गंगा आदी तीर्थों में जा फिर फिर जन्म बिताया रे ।",
+      "आत्म तीर्थ को नहिं परस्या ज्ञान गंग नहिं नाया रे ॥३ ॥"
     ],
     [
-      "गनगा ादि तिरथोन मेन जा फिर फिर जनम बिताया रे.",
-      "ातम तिरथ को नहिन परसया ज्ञान गनग नहिन नाया रे || 3 ||"
-    ],
-    [
-      "भाव भक्ति निशकाम करम तज कामय करम कमाया रे.",
-      "कहता तेऊँ भोग विशय मेन शवास मोल लुताया रे || 4. ||."
-    ],
-    [
-      "हि"
+      "भाव भक्ति निष्काम कर्म तज काम्य कर्म कमाया रे ।",
+      "कहता टेऊँ भोग विषय में श्वास अमोल लुटाया रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vrithaa Janm Ganvaayaa Kyon Tum, Vrithaa Janm Gambaayaa Re (Tek)."
-    ],
-    [
       "Sevaa Sumran Yajny Daan Se Maanush Tan Yah Paayaa Re.",
-      "Saadh Sangti Nahin Kabhun Kini Durjan Kaa Sang Bhaayaa Re.1$ ||."
+      "Saadh Sangti Nahin Kabhun Kini Durjan Kaa Sang Bhaayaa Re.1 || 1 ||"
     ],
     [
       "Paap Karm Bahu Chhal Val Karke Dhan Ko Bahut Kamaayaa Re.",
-      "Din Janon Ko Daan N Dinaa Nahin Kharchaa Nahin Khaayaa Re || 2 ||"
+      "Din Janon Ko Daan Na Dinaa Nahin Kharchaa Nahin Khaayaa Re || 2 ||"
     ],
     [
       "Gangaa Aadi Tirthon Men Jaa Phir Phir Janm Bitaayaa Re.",
-      "Aatm Tirth Ko Nahin Parasyaa Jnyaan Gang Nahin Naayaa Re || 3 ||"
+      "Aatm Tirth Ko Nahin Parasyaa Gyaan Gang Nahin Naayaa Re || 3 ||"
     ],
     [
       "Bhaav Bhakti Nishkaam Karm Taj Kaamy Karm Kamaayaa Re.",
-      "Kahtaa Teun Bhog Vishay Men Shvaas Amol Lutaayaa Re || 4. ||."
-    ],
-    [
-      "Hi"
+      "Kahtaa Teun Bhog Vishay Men Shvaas Amol Lutaayaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Raamkali Bhajan || 16 || 28 ||",
+    "वृथा जन्म गंवाया क्यों तुम, वृथा जन्म गंबाया रे",
     "Vrithaa Janm Ganvaayaa Kyon Tum, Vrithaa Janm Gambaayaa Re",
-    "वरिथा जनम गनवाया कयोन तुम, वरिथा जनम गमबाया रे"
+    "राग रामकली भजन 16",
+    "Raag Raamkali Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 28,
+  "displayOrder": 16,
+  "overallOrder": 28,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 39",
+  "updatedAt": "2026-10-26"
 }

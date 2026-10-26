@@ -2,41 +2,101 @@
   "id": "bhajan-0364",
   "slug": "chaliye-saadho-desh-amar-ghar-janam-maran-mit-jaavat-pheraa",
   "categoryId": "raag-tilang",
-  "title": "चलिये साधो देश मर घर जनम मरन मित जावत फेरा",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "चलिये साधो देश अमर घर जनम मरण मिट जावत फेरा",
   "romanTitle": "Chaliye Saadho Desh Amar Ghar Janam Maran Mit Jaavat Pheraa",
   "firstLine": "Chaliye Saadho Desh Amar Ghar Janam Maran Mit Jaavat Pheraa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १ ।। ३६५।।",
+  "tek": [
+    "चलिये साधो देश अमर घर जनम मरण मिट जावत फेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chaliye Saadho Desh Amar Ghar Janam Maran Mit Jaavat Pheraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चरन कमल सदूगुरु का ध्याओ, मूल कमल से मूल बन्धाओ ।",
+        "गुरु गणेश को तहां मनाओ, लिंग कमल अज जान बसेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Charan Kamal Saduguru Kaa Dhyaao, Mul Kamal Se Mul Bandhaao.",
+        "Guru Ganesh Ko Tahaan Manaao, Ling Kamal Aj Jaan Baseraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाभ कमल से नाम चलाए, विश्व व्यापक विष्णु पाये ।",
+        "हृदय में शिव शंख बजाए, सहज धुनी सुन सांझ सवेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naabh Kamal Se Naam Chalaae, Vishv Vyaapak Vishnu Paaye.",
+        "Hriday Men Shiv Shankh Bajaae, Sahaj Dhuni Sun Saanjh Saveraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कण्ठ कमल सरस्वती प्यारी, वहाँ बिराजे हंस विचारी ।",
+        "त्रिभणा के घर ज्योति उज्यारी, निरजन का नित हरो अन्धेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kanth Kamal Sarasvati Pyaari, Vahaan Biraaje Hans Vichaari.",
+        "Tribhnaa Ke Ghar Jyoti Ujyaari, Nirjan Kaa Nit Haro Andheraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "इड़ा पिंगला सुषुम्न नाड़ी , भँवर गुफा सुन बीन सितारी ।",
+        "सुन्न सकड़ में शान्ति अपारी, पीले प्याला अमृत केरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Iraa Pinglaa Sushumn Naari, Bhanvar Guphaa Sun Bin Sitaari.",
+        "Sunn Sakar Men Shaanti Apaari, Pile Pyaalaa Amrit Keraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ कोई कला धारे, चलिया ऊपर दशमद्वारे ।",
+        "दिन नहिं रजनी जहैँ रिणुकारे, बिन भूमी पा ब्रह्म का डेरा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Koi Kalaa Dhaare, Chaliyaa Upar Dashmadvaare.",
+        "Din Nahin Rajni Jahain Rinukaare, Bin Bhumi Paa Brahm Kaa Deraa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चलिये साधो देश मर घर जनम मरन मित जावत फेरा (टेक)."
+      "चरन कमल सदूगुरु का ध्याओ, मूल कमल से मूल बन्धाओ ।",
+      "गुरु गणेश को तहां मनाओ, लिंग कमल अज जान बसेरा ॥१ ॥"
     ],
     [
-      "चरण कमल सदुगुरु का धयाो, मुल कमल से मुल बनधाो.",
-      "गुरु गनेश को तहान मनाो, लिनग कमल ज जान बसेरा || 1 ||."
+      "नाभ कमल से नाम चलाए, विश्व व्यापक विष्णु पाये ।",
+      "हृदय में शिव शंख बजाए, सहज धुनी सुन सांझ सवेरा ॥२ ॥"
     ],
     [
-      "नाभ कमल से नाम चलाे, विशव वयापक विशनु पाये.",
-      "हरिदय मेन शिव शनख बजाे, सहज धुनि सुन सानझ सवेरा || 2 ||"
+      "कण्ठ कमल सरस्वती प्यारी, वहाँ बिराजे हंस विचारी ।",
+      "त्रिभणा के घर ज्योति उज्यारी, निरजन का नित हरो अन्धेरा ॥३ ॥"
     ],
     [
-      "कनथ कमल सरसवति पयारि, वहान बिराजे हनस विचारि.",
-      "तरिभना के घर जयोति ुजयारि, निरजन का नित हरो नधेरा || 3 ||"
+      "इड़ा पिंगला सुषुम्न नाड़ी , भँवर गुफा सुन बीन सितारी ।",
+      "सुन्न सकड़ में शान्ति अपारी, पीले प्याला अमृत केरा ॥४ ॥"
     ],
     [
-      "िरा पिनगला सुशुमन नारि, भनवर गुफा सुन बिन सितारि.",
-      "सुनन सकर मेन शांति पारि, पिले पयाला अमृत केरा || 4 ||."
-    ],
-    [
-      "कहे तेऊँ कोि कला धारे, चलिया ुपर दशमदवारे.",
-      "दीन नहिन रजनि जहैन रिनुकारे, बिन भुमि पा बरहम का देरा || 5 ||"
+      "कहे टेऊँ कोई कला धारे, चलिया ऊपर दशमद्वारे ।",
+      "दिन नहिं रजनी जहैँ रिणुकारे, बिन भूमी पा ब्रह्म का डेरा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Chaliye Saadho Desh Amar Ghar Janam Maran Mit Jaavat Pheraa (Tek)."
-    ],
-    [
       "Charan Kamal Saduguru Kaa Dhyaao, Mul Kamal Se Mul Bandhaao.",
-      "Guru Ganesh Ko Tahaan Manaao, Ling Kamal Aj Jaan Baseraa || 1 ||."
+      "Guru Ganesh Ko Tahaan Manaao, Ling Kamal Aj Jaan Baseraa || 1 ||"
     ],
     [
       "Naabh Kamal Se Naam Chalaae, Vishv Vyaapak Vishnu Paaye.",
@@ -48,7 +108,7 @@
     ],
     [
       "Iraa Pinglaa Sushumn Naari, Bhanvar Guphaa Sun Bin Sitaari.",
-      "Sunn Sakar Men Shaanti Apaari, Pile Pyaalaa Amrit Keraa || 4 ||."
+      "Sunn Sakar Men Shaanti Apaari, Pile Pyaalaa Amrit Keraa || 4 ||"
     ],
     [
       "Kahe Teun Koi Kalaa Dhaare, Chaliyaa Upar Dashmadvaare.",
@@ -56,18 +116,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 1 || 365 ||",
+    "चलिये साधो देश अमर घर जनम मरण मिट जावत फेरा",
     "Chaliye Saadho Desh Amar Ghar Janam Maran Mit Jaavat Pheraa",
-    "चलिये साधो देश मर घर जनम मरन मित जावत फेरा"
+    "राग तिलंग भजन 1",
+    "Raag Tilang Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 364,
+  "displayOrder": 1,
+  "overallOrder": 364,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 216",
+  "updatedAt": "2026-10-26"
 }

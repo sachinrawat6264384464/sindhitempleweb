@@ -1,65 +1,94 @@
 {
-  "id": "bhajan-0581",
+  "id": "bhajan-0579",
   "slug": "aaj-mere-ghar-bhali-tum-aaye-dekh-dekh-radd-ratiyaan-re",
   "categoryId": "raag-saarang",
-  "title": "ाज मेरे घर भलि तुम ाये, देख देख रदद रतियान रे",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "आज मेरे घर भलि तुम आये, देख देख रड्ड रतियां रे",
   "romanTitle": "Aaj Mere Ghar Bhali Tum Aaye, Dekh Dekh Radd Ratiyaan Re",
   "firstLine": "Aaj Mere Ghar Bhali Tum Aaye, Dekh Dekh Radd Ratiyaan Re (Tek).",
+  "heading": "।। राग सारंग भजन ।। २ ।। ५८०॥।",
+  "tek": [
+    "आज मेरे घर भलि तुम आये, देख देख रड्ड रतियां रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Mere Ghar Bhali Tum Aaye, Dekh Dekh Radd Ratiyaan Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दर्शन तेरे दिल को मोहिया, मेरे मन में आनन्द होया ।",
+        "भूल गई सब मतियां रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Darshan Tere Dil Ko Mohiyaa, Mere Man Men Aanand Hoyaa.",
+        "Bhul Gai Sab Matiyaan Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मोहनी मूरत जुग जुग जीवो, इक पल मुझ से दूर न थीवो ।",
+        "प्राणों के हो पतियां रे ॥र ॥२ ॥",
+        "छोड़ न जाओ मारत वेरी, कौन रखे पति तुझ बिन मेरी ।",
+        "तुम हो मेरी गतियां रे ॥डे ॥ ।",
+        "कहे टेऊँ कर जोड़ अर्दासा, हरदम करले हम घर वासा ।",
+        "तेरा गुन गावतियां रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Mohni Murat Jug Jug Jivo, Ik Pal Mujh Se Dur Na Thivo.",
+        "Praanon Ke Ho Patiyaan Re || Ra || 2 ||",
+        "Chhor Na Jaao Maarat Veri, Kaun Rakhe Pati Tujh Bin Meri.",
+        "Tum Ho Meri Gatiyaan Re || De ||",
+        "Kahe Teun Kar Jor Ardaasaa, Hardam Karle Ham Ghar Vaasaa.",
+        "Teraa Gun Gaavtiyaan Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज मेरे घर भलि तुम ाये, देख देख रदद रतियान रे (टेक)."
+      "दर्शन तेरे दिल को मोहिया, मेरे मन में आनन्द होया ।",
+      "भूल गई सब मतियां रे ॥१ ॥"
     ],
     [
-      "दरशन तेरे दिल को मोहिया, मेरे मन मेन आनंद होया.",
-      "भुल गै सब मतियान रे || 1 ||."
-    ],
-    [
-      "मोहनि मुरत जुग जुग जिवो, िक पल मुझ से दुर न थिवो.",
-      "परानोन के हो पतियान रे || र2 ||"
-    ],
-    [
-      "चहोर न जाो मारत वेरि, कौन रखे पति तुझ बिन मेरि.",
-      "तुम हो मेरि गतियान रे || दे ||."
-    ],
-    [
-      "कहे तेऊँ कर जोर रदासा, हरदम करले हम घर वासा.",
-      "तेरा गुन गावतियान रे || 4. ||."
+      "मोहनी मूरत जुग जुग जीवो, इक पल मुझ से दूर न थीवो ।",
+      "प्राणों के हो पतियां रे ॥र ॥२ ॥",
+      "छोड़ न जाओ मारत वेरी, कौन रखे पति तुझ बिन मेरी ।",
+      "तुम हो मेरी गतियां रे ॥डे ॥ ।",
+      "कहे टेऊँ कर जोड़ अर्दासा, हरदम करले हम घर वासा ।",
+      "तेरा गुन गावतियां रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaj Mere Ghar Bhali Tum Aaye, Dekh Dekh Radd Ratiyaan Re (Tek)."
-    ],
-    [
       "Darshan Tere Dil Ko Mohiyaa, Mere Man Men Aanand Hoyaa.",
-      "Bhul Gai Sab Matiyaan Re || 1 ||."
+      "Bhul Gai Sab Matiyaan Re || 1 ||"
     ],
     [
-      "Mohni Murat Jug Jug Jivo, Ik Pal Mujh Se Dur N Thivo.",
-      "Praanon Ke Ho Patiyaan Re || R2 ||"
-    ],
-    [
-      "Chhor N Jaao Maarat Veri, Kaun Rakhe Pati Tujh Bin Meri.",
-      "Tum Ho Meri Gatiyaan Re || De ||."
-    ],
-    [
+      "Mohni Murat Jug Jug Jivo, Ik Pal Mujh Se Dur Na Thivo.",
+      "Praanon Ke Ho Patiyaan Re || Ra || 2 ||",
+      "Chhor Na Jaao Maarat Veri, Kaun Rakhe Pati Tujh Bin Meri.",
+      "Tum Ho Meri Gatiyaan Re || De ||",
       "Kahe Teun Kar Jor Ardaasaa, Hardam Karle Ham Ghar Vaasaa.",
-      "Teraa Gun Gaavtiyaan Re || 4. ||."
+      "Teraa Gun Gaavtiyaan Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Saarang Bhajan || 2 || 580 ||.",
+    "आज मेरे घर भलि तुम आये, देख देख रड्ड रतियां रे",
     "Aaj Mere Ghar Bhali Tum Aaye, Dekh Dekh Radd Ratiyaan Re",
-    "ाज मेरे घर भलि तुम ाये, देख देख रदद रतियान रे"
+    "राग सारंग भजन 2",
+    "Raag Saarang Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 581,
+  "displayOrder": 2,
+  "overallOrder": 579,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 315",
+  "updatedAt": "2026-10-26"
 }

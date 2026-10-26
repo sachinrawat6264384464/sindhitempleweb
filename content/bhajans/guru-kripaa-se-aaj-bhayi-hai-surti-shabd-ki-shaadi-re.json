@@ -1,24 +1,72 @@
 {
-  "id": "bhajan-0851",
+  "id": "bhajan-0849",
   "slug": "guru-kripaa-se-aaj-bhayi-hai-surti-shabd-ki-shaadi-re",
   "categoryId": "raag-jog",
-  "title": "गुरु कृपा से ाज भयि है, सुरति शबद कि शादि रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "गुरु कृपा से आज भयी है, सुरति शब्द की शादी रे",
   "romanTitle": "Guru Kripaa Se Aaj Bhayi Hai, Surti Shabd Ki Shaadi Re",
   "firstLine": "Guru Kripaa Se Aaj Bhayi Hai, Surti Shabd Ki Shaadi Re (Tek).",
+  "heading": "।। राग जोग भजन ।। २१ ।। ८५१।॥।",
+  "tek": [
+    "गुरु कृपा से आज भयी है, सुरति शब्द की शादी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Kripaa Se Aaj Bhayi Hai, Surti Shabd Ki Shaadi Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रेष्ठ गुणों की चली बराती, बाजे नाद अनादी रे ॥१ ॥",
+        "रिल मिल सखियां मंगल गावे, रोम रोम अहलादी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shreshth Gunon Ki Chali Baraati, Baaje Naad Anaadi Re || 1 ||",
+        "Ril Mil Sakhiyaan Mangal Gaave, Rom Rom Ahlaadi Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शब्द पती से सुरति दुलहनी, मिल गई छोड़ उपाधी रे ॥ डे ॥",
+        "प्राणायाम की डोली चढ़कर, नगर चले निज आदी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Shabd Pati Se Surti Dulhani, Mil Gai Chhor Upaadhi Re || De ||",
+        "Praanaayaam Ki Doli Charhkar, Nagar Chale Nij Aadi Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ कुल कारज होया, छूटी वाद विवादी रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kul Kaaraj Hoyaa, Chhuti Vaad Vivaadi Re || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गदर"
+      ],
+      "romanLines": [
+        "Gadar"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु कृपा से ाज भयि है, सुरति शबद कि शादि रे (टेक)."
+      "श्रेष्ठ गुणों की चली बराती, बाजे नाद अनादी रे ॥१ ॥",
+      "रिल मिल सखियां मंगल गावे, रोम रोम अहलादी रे ॥२ ॥"
     ],
     [
-      "शरेशथ गुनोन कि चलि बराति, बाजे नाद नादि रे 1",
-      "रिल मिल सखियान मनगल गावे, रोम रोम हलादि रे || 2 ||"
+      "शब्द पती से सुरति दुलहनी, मिल गई छोड़ उपाधी रे ॥ डे ॥",
+      "प्राणायाम की डोली चढ़कर, नगर चले निज आदी रे ॥४ ॥"
     ],
     [
-      "शबद पति से सुरति दुलहनि, मिल गै चहोर ुपाधि रे || दे ||",
-      "परानायाम कि दोलि चरहकर, नगर चले निज ादि रे || 4 ||"
-    ],
-    [
-      "कहे तेऊँ कुल कारज होया, चहुति वाद विवादि रे || 5 ||."
+      "कहे टेऊँ कुल कारज होया, छूटी वाद विवादी रे ॥५ ॥"
     ],
     [
       "गदर"
@@ -26,10 +74,7 @@
   ],
   "romanLyrics": [
     [
-      "Guru Kripaa Se Aaj Bhayi Hai, Surti Shabd Ki Shaadi Re (Tek)."
-    ],
-    [
-      "Shreshth Gunon Ki Chali Baraati, Baaje Naad Anaadi Re 1",
+      "Shreshth Gunon Ki Chali Baraati, Baaje Naad Anaadi Re || 1 ||",
       "Ril Mil Sakhiyaan Mangal Gaave, Rom Rom Ahlaadi Re || 2 ||"
     ],
     [
@@ -37,26 +82,27 @@
       "Praanaayaam Ki Doli Charhkar, Nagar Chale Nij Aadi Re || 4 ||"
     ],
     [
-      "Kahe Teun Kul Kaaraj Hoyaa, Chhuti Vaad Vivaadi Re || 5 ||."
+      "Kahe Teun Kul Kaaraj Hoyaa, Chhuti Vaad Vivaadi Re || 5 ||"
     ],
     [
       "Gadar"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 21 || 851. ||.",
+    "गुरु कृपा से आज भयी है, सुरति शब्द की शादी रे",
     "Guru Kripaa Se Aaj Bhayi Hai, Surti Shabd Ki Shaadi Re",
-    "गुरु कृपा से ाज भयि है, सुरति शबद कि शादि रे"
+    "राग जोग भजन 21",
+    "Raag Jog Bhajan 21"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 851,
+  "displayOrder": 21,
+  "overallOrder": 849,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 450",
+  "updatedAt": "2026-10-26"
 }

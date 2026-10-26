@@ -1,49 +1,107 @@
 {
-  "id": "bhajan-0893",
+  "id": "bhajan-0891",
   "slug": "bandaa-so-hogaa-jo-honaa",
   "categoryId": "raag-jog",
-  "title": "बनदा सो होगा जो होना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "बन्दा सो होगा जो होना",
   "romanTitle": "Bandaa So Hogaa Jo Honaa",
   "firstLine": "Bandaa So Hogaa Jo Honaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ६३ ।। ८९३।।",
+  "tek": [
+    "बन्दा सो होगा जो होना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa So Hogaa Jo Honaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो कछु हरि ने रच कर राखा, अवश्य बनेगा सोई ।",
+        "न्यून अधिक कछु ना होवेगा, वृूथा है तब रोना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Kachhu Hari Ne Rach Kar Raakhaa, Avashy Banegaa Soi.",
+        "Nyun Adhik Kachhu Naa Hovegaa, Vriuthaa Hai Tab Ronaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जोय बना है सोय बनेगा, और नहीं कछु होगा ।",
+        "इसमें अपनी तर्क चलाना, है अवसर को खोना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Joy Banaa Hai Soy Banegaa, Aur Nahin Kachhu Hogaa.",
+        "Ismen Apni Tark Chalaanaa, Hai Avsar Ko Khonaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि इच्छा है प्रबल जैसी, जीव इच्छा ना तैसी ।",
+        "यह वीचारे राम भरोसे, पांव पसारे सोना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Ichchhaa Hai Prabal Jaisi, Jiv Ichchhaa Naa Taisi.",
+        "Yah Vichaare Raam Bharose, Paanv Pasaare Sonaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भोगे बिन ना भावी भागे, कितना भी बल लावे ।",
+        "कहे टेऊँ हरि सुमरो तांते, बैठ सब्र के कोना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhoge Bin Naa Bhaavi Bhaage, Kitnaa Bhi Bal Laave.",
+        "Kahe Teun Hari Sumro Taante, Baith Sabr Ke Konaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गर्ग"
+      ],
+      "romanLines": [
+        "Garg"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदा सो होगा जो होना (टेक)."
+      "जो कछु हरि ने रच कर राखा, अवश्य बनेगा सोई ।",
+      "न्यून अधिक कछु ना होवेगा, वृूथा है तब रोना ॥१ ॥"
     ],
     [
-      "जो कचहु हरि ने रच कर राखा, वशय बनेगा सोि.",
-      "नयुन धिक कचहु ना होवेगा, वरिुथा है तब रोना || 1 ||."
+      "जोय बना है सोय बनेगा, और नहीं कछु होगा ।",
+      "इसमें अपनी तर्क चलाना, है अवसर को खोना ॥२ ॥"
     ],
     [
-      "जोय बना है सोय बनेगा, ौर नहिन कचहु होगा.",
-      "िसमेन पनि तरक चलाना, है वसर को खोना || 2 ||."
+      "हरि इच्छा है प्रबल जैसी, जीव इच्छा ना तैसी ।",
+      "यह वीचारे राम भरोसे, पांव पसारे सोना ॥३ ॥"
     ],
     [
-      "हरि िचचहा है परबल जैसि, जिव िचचहा ना तैसि.",
-      "यह विचारे राम भरोसे, पानव पसारे सोना ||.3 ||"
+      "भोगे बिन ना भावी भागे, कितना भी बल लावे ।",
+      "कहे टेऊँ हरि सुमरो तांते, बैठ सब्र के कोना ॥४ ॥"
     ],
     [
-      "भोगे बिन ना भावि भागे, कितना भि बल लावे.",
-      "कहे तेऊँ हरि सुमरो तानते, बैथ सबर के कोना || 4 ||"
-    ],
-    [
-      "गरग"
+      "गर्ग"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandaa So Hogaa Jo Honaa (Tek)."
-    ],
-    [
       "Jo Kachhu Hari Ne Rach Kar Raakhaa, Avashy Banegaa Soi.",
-      "Nyun Adhik Kachhu Naa Hovegaa, Vriuthaa Hai Tab Ronaa || 1 ||."
+      "Nyun Adhik Kachhu Naa Hovegaa, Vriuthaa Hai Tab Ronaa || 1 ||"
     ],
     [
       "Joy Banaa Hai Soy Banegaa, Aur Nahin Kachhu Hogaa.",
-      "Ismen Apni Tark Chalaanaa, Hai Avsar Ko Khonaa || 2 ||."
+      "Ismen Apni Tark Chalaanaa, Hai Avsar Ko Khonaa || 2 ||"
     ],
     [
       "Hari Ichchhaa Hai Prabal Jaisi, Jiv Ichchhaa Naa Taisi.",
-      "Yah Vichaare Raam Bharose, Paanv Pasaare Sonaa ||.3 ||"
+      "Yah Vichaare Raam Bharose, Paanv Pasaare Sonaa || 3 ||"
     ],
     [
       "Bhoge Bin Naa Bhaavi Bhaage, Kitnaa Bhi Bal Laave.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 63 || 893 ||",
+    "बन्दा सो होगा जो होना",
     "Bandaa So Hogaa Jo Honaa",
-    "बनदा सो होगा जो होना"
+    "राग जोग भजन 63",
+    "Raag Jog Bhajan 63"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 893,
+  "displayOrder": 63,
+  "overallOrder": 891,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 470",
+  "updatedAt": "2026-10-26"
 }

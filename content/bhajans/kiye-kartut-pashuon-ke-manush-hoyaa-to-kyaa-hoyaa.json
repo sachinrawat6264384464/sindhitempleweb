@@ -1,73 +1,133 @@
 {
-  "id": "bhajan-0633",
+  "id": "bhajan-0631",
   "slug": "kiye-kartut-pashuon-ke-manush-hoyaa-to-kyaa-hoyaa",
   "categoryId": "raag-kanso",
-  "title": "किये करतुत पशुोन के, मनुश होया तो कया होया",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "किये करतूत पशुओं के, मनुष होया तो क्या होया",
   "romanTitle": "Kiye Kartut Pashuon Ke, Manush Hoyaa To Kyaa Hoyaa",
-  "firstLine": "Kiye Kartut Pashuon Ke, Manush Hoyaa To Kyaa Hoyaa. Padaarth Aur Sab Paaye, Hari N Paayaa To Kyaa Hoyaa (Tek).",
+  "firstLine": "Kiye Kartut Pashuon Ke, Manush Hoyaa To Kyaa Hoyaa.",
+  "heading": "।। राग कंसो भजन ।। २ ।। ६३२।।",
+  "tek": [
+    "किये करतूत पशुओं के, मनुष होया तो क्या होया ।",
+    "पदार्थ और सब पाये, हरि न पाया तो क्या होया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kiye Kartut Pashuon Ke, Manush Hoyaa To Kyaa Hoyaa.",
+    "Padaarth Aur Sab Paaye, Hari Na Paayaa To Kyaa Hoyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "वृक्ष देखन में सुन्दरे, नहीं छाया नहीं गन्धरे ।",
+        "नहीं फल फूल नहिं पत्रे, वृक्ष होया तो क्या होया ॥8 ॥"
+      ],
+      "romanLines": [
+        "Vriksh Dekhan Men Sundare, Nahin Chhaayaa Nahin Gandhare.",
+        "Nahin Phal Phul Nahin Patre, Vriksh Hoyaa To Kyaa Hoyaa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सरोवर जल बिना जैसे, धनी है पुण्य बिना तैसे ।",
+        "बिना दीपक मन्दिर कैसे, सुन्दर होया तो क्या होया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarovar Jal Binaa Jaise, Dhani Hai Puny Binaa Taise.",
+        "Binaa Dipak Mandir Kaise, Sundar Hoyaa To Kyaa Hoyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कुंचर ज्यों नीर में नावे, निकस बाहर मिटटी पावे ।",
+        "अन्तर की मेल ना जावे, गंगा नाया तो क्या होया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kunchar Jyon Nir Men Naave, Nikas Baahar Mitti Paave.",
+        "Antar Ki Mel Naa Jaave, Gangaa Naayaa To Kyaa Hoyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ बहुत पढ़के, दुनिया के लोभ में लटके ।",
+        "बिना गुरु ज्ञान के भटके, पढ़ा होया तो क्या होया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bahut Parhke, Duniyaa Ke Lobh Men Latke.",
+        "Binaa Guru Gyaan Ke Bhatke, Parhaa Hoyaa To Kyaa Hoyaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्नगय"
+      ],
+      "romanLines": [
+        "Dnagay"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "किये करतुत पशुोन के, मनुश होया तो कया होया.",
-      "पदारथ ौर सब पाये, हरि न पाया तो कया होया (टेक)."
+      "वृक्ष देखन में सुन्दरे, नहीं छाया नहीं गन्धरे ।",
+      "नहीं फल फूल नहिं पत्रे, वृक्ष होया तो क्या होया ॥8 ॥"
     ],
     [
-      "वरिकश देखन मेन सुनदरे, नहिन चहाया नहिन गनधरे.",
-      "नहिन फल फुल नहिन पतरे, वरिकश होया तो कया होया || 8 ||."
+      "सरोवर जल बिना जैसे, धनी है पुण्य बिना तैसे ।",
+      "बिना दीपक मन्दिर कैसे, सुन्दर होया तो क्या होया ॥२ ॥"
     ],
     [
-      "सरोवर जल बिना जैसे, धनि है पुनय बिना तैसे.",
-      "बिना दिपक मनदिर कैसे, सुनदर होया तो कया होया || 2 ||."
+      "कुंचर ज्यों नीर में नावे, निकस बाहर मिटटी पावे ।",
+      "अन्तर की मेल ना जावे, गंगा नाया तो क्या होया ॥३ ॥"
     ],
     [
-      "कुनचर जयोन निर मेन नावे, निकस बाहर मितति पावे.",
-      "नतर कि मेल ना जावे, गनगा नाया तो कया होया ||.3 ||"
+      "कहे टेऊँ बहुत पढ़के, दुनिया के लोभ में लटके ।",
+      "बिना गुरु ज्ञान के भटके, पढ़ा होया तो क्या होया ॥४ ॥"
     ],
     [
-      "कहे तेऊँ बहुत परहके, दुनिया के लोभ मेन लतके.",
-      "बिना गुरु ज्ञान के भतके, परहा होया तो कया होया || 4. ||."
-    ],
-    [
-      "दनगय"
+      "द्नगय"
     ]
   ],
   "romanLyrics": [
     [
-      "Kiye Kartut Pashuon Ke, Manush Hoyaa To Kyaa Hoyaa.",
-      "Padaarth Aur Sab Paaye, Hari N Paayaa To Kyaa Hoyaa (Tek)."
-    ],
-    [
       "Vriksh Dekhan Men Sundare, Nahin Chhaayaa Nahin Gandhare.",
-      "Nahin Phal Phul Nahin Patre, Vriksh Hoyaa To Kyaa Hoyaa || 8 ||."
+      "Nahin Phal Phul Nahin Patre, Vriksh Hoyaa To Kyaa Hoyaa || 8 ||"
     ],
     [
       "Sarovar Jal Binaa Jaise, Dhani Hai Puny Binaa Taise.",
-      "Binaa Dipak Mandir Kaise, Sundar Hoyaa To Kyaa Hoyaa || 2 ||."
+      "Binaa Dipak Mandir Kaise, Sundar Hoyaa To Kyaa Hoyaa || 2 ||"
     ],
     [
       "Kunchar Jyon Nir Men Naave, Nikas Baahar Mitti Paave.",
-      "Antar Ki Mel Naa Jaave, Gangaa Naayaa To Kyaa Hoyaa ||.3 ||"
+      "Antar Ki Mel Naa Jaave, Gangaa Naayaa To Kyaa Hoyaa || 3 ||"
     ],
     [
       "Kahe Teun Bahut Parhke, Duniyaa Ke Lobh Men Latke.",
-      "Binaa Guru Jnyaan Ke Bhatke, Parhaa Hoyaa To Kyaa Hoyaa || 4. ||."
+      "Binaa Guru Gyaan Ke Bhatke, Parhaa Hoyaa To Kyaa Hoyaa || 4 ||"
     ],
     [
       "Dnagay"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 2 || 632 ||",
+    "किये करतूत पशुओं के, मनुष होया तो क्या होया",
     "Kiye Kartut Pashuon Ke, Manush Hoyaa To Kyaa Hoyaa",
-    "किये करतुत पशुोन के, मनुश होया तो कया होया"
+    "राग कंसो भजन 2",
+    "Raag Kanso Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 633,
+  "displayOrder": 2,
+  "overallOrder": 631,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 338",
+  "updatedAt": "2026-10-26"
 }

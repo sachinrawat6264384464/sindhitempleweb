@@ -2,72 +2,132 @@
   "id": "bhajan-0190",
   "slug": "ko-chaahat-kuchh-ko-chaahat-kuchh",
   "categoryId": "raag-dhanaashri",
-  "title": "को चाहत कुचह को चाहत कुचह",
-  "romanTitle": "Ko Chaahat Kuchh Ko Chaahat Kuchh",
-  "firstLine": "Ko Chaahat Kuchh Ko Chaahat Kuchh, Harijan Chaahat Hari Sumran Ko (Tek).",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "को चाहत कुछ को चाहत कुछ,",
+  "romanTitle": "Ko Chaahat Kuchh Ko Chaahat Kuchh,",
+  "firstLine": "Ko Chaahat Kuchh Ko Chaahat Kuchh,",
+  "heading": "।। राग धनाश्री भजन ।। १० ।। १९०।।",
+  "tek": [
+    "को चाहत कुछ को चाहत कुछ,",
+    "हरिजन चाहत हरि सुमरन को ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ko Chaahat Kuchh Ko Chaahat Kuchh,",
+    "Harijan Chaahat Hari Sumran Ko (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरुमुख चाहत गुरु का दर्शन, यात्री चाहत गंगा परसन ।",
+        "तपसी चाहत हरदम वन को ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gurumukh Chaahat Guru Kaa Darshan, Yaatri Chaahat Gangaa Parsan.",
+        "Tapsi Chaahat Hardam Van Ko || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नेमी चाहत नेम निभाना, प्रेमी चाहत प्रेम बढ़ाना ।",
+        "धर्मी चाहत पालन पन को ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nemi Chaahat Nem Nibhaanaa, Premi Chaahat Prem Barhaanaa.",
+        "Dharmi Chaahat Paalan Pan Ko || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "| 9 ॥9 ॥"
+      ],
+      "romanLines": [
+        "|| 9 || 9 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "दानी चाहत करलूं दाना, मानी चाहत होवे माना ।",
+        "लोभी नर नित चाहत धन को ॥३ ॥"
+      ],
+      "romanLines": [
+        "Daani Chaahat Karlun Daanaa, Maani Chaahat Hove Maanaa.",
+        "Lobhi Nar Nit Chaahat Dhan Ko || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ तिय चाहत कन्ता, सन्त सेवी चाहत है सन्ता ।",
+        "भूखा हरदम चाहत अन्न को ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tiy Chaahat Kantaa, Sant Sevi Chaahat Hai Santaa.",
+        "Bhukhaa Hardam Chaahat Ann Ko || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "को चाहत कुचह को चाहत कुचह,",
-      "हरिजन चाहत हरि सुमरन को (टेक)."
+      "गुरुमुख चाहत गुरु का दर्शन, यात्री चाहत गंगा परसन ।",
+      "तपसी चाहत हरदम वन को ॥१ ॥"
     ],
     [
-      "गुरुमुख चाहत गुरु का दरशन, यातरि चाहत गनगा परसन.",
-      "तपसि चाहत हरदम वन को || 1 ||."
+      "नेमी चाहत नेम निभाना, प्रेमी चाहत प्रेम बढ़ाना ।",
+      "धर्मी चाहत पालन पन को ॥२ ॥"
     ],
     [
-      "नेमि चाहत नेम निभाना, परेमि चाहत प्रेम बरहाना.",
-      "धरमि चाहत पालन पन को. ||.2. ||."
+      "| 9 ॥9 ॥"
     ],
     [
-      "| 99 |",
-      "दानि चाहत करलुन दाना, मानि चाहत होवे माना."
+      "दानी चाहत करलूं दाना, मानी चाहत होवे माना ।",
+      "लोभी नर नित चाहत धन को ॥३ ॥"
     ],
     [
-      "लोभि नर नित चाहत धन को ||.3 ||.",
-      "कहे तेऊँ तिय चाहत कनता, संत सेवि चाहत है सनता."
-    ],
-    [
-      "भुखा हरदम चाहत नन को || 4. ||."
+      "कहे टेऊँ तिय चाहत कन्ता, सन्त सेवी चाहत है सन्ता ।",
+      "भूखा हरदम चाहत अन्न को ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ko Chaahat Kuchh Ko Chaahat Kuchh,",
-      "Harijan Chaahat Hari Sumran Ko (Tek)."
-    ],
-    [
       "Gurumukh Chaahat Guru Kaa Darshan, Yaatri Chaahat Gangaa Parsan.",
-      "Tapsi Chaahat Hardam Van Ko || 1 ||."
+      "Tapsi Chaahat Hardam Van Ko || 1 ||"
     ],
     [
       "Nemi Chaahat Nem Nibhaanaa, Premi Chaahat Prem Barhaanaa.",
-      "Dharmi Chaahat Paalan Pan Ko. ||.2. ||."
+      "Dharmi Chaahat Paalan Pan Ko || 2 ||"
     ],
     [
-      "| 99 |",
-      "Daani Chaahat Karlun Daanaa, Maani Chaahat Hove Maanaa."
+      "|| 9 || 9 ||"
     ],
     [
-      "Lobhi Nar Nit Chaahat Dhan Ko ||.3 ||.",
-      "Kahe Teun Tiy Chaahat Kantaa, Sant Sevi Chaahat Hai Santaa."
+      "Daani Chaahat Karlun Daanaa, Maani Chaahat Hove Maanaa.",
+      "Lobhi Nar Nit Chaahat Dhan Ko || 3 ||"
     ],
     [
-      "Bhukhaa Hardam Chaahat Ann Ko || 4. ||."
+      "Kahe Teun Tiy Chaahat Kantaa, Sant Sevi Chaahat Hai Santaa.",
+      "Bhukhaa Hardam Chaahat Ann Ko || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 10 || 190 ||",
-    "Ko Chaahat Kuchh Ko Chaahat Kuchh",
-    "को चाहत कुचह को चाहत कुचह"
+    "को चाहत कुछ को चाहत कुछ,",
+    "Ko Chaahat Kuchh Ko Chaahat Kuchh,",
+    "राग धनाश्री भजन 10",
+    "Raag Dhanaashri Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 190,
+  "displayOrder": 10,
+  "overallOrder": 190,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 123",
+  "updatedAt": "2026-10-26"
 }

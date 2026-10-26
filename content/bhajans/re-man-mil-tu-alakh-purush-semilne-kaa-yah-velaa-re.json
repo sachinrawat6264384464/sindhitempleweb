@@ -2,41 +2,90 @@
   "id": "bhajan-0041",
   "slug": "re-man-mil-tu-alakh-purush-semilne-kaa-yah-velaa-re",
   "categoryId": "raag-prabhaati",
-  "title": "रे मन मिल तु लख पुरुश सेमिलने का यह वेला रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "रे मन मिल तू अलख पुरुष से ,मिलने का यह वेला रे",
   "romanTitle": "Re Man Mil Tu Alakh Purush Se,Milne Kaa Yah Velaa Re",
   "firstLine": "Re Man Mil Tu Alakh Purush Se,Milne Kaa Yah Velaa Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ९ ।। ४१॥।",
+  "tek": [
+    "रे मन मिल तू अलख पुरुष से ,मिलने का यह वेला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Mil Tu Alakh Purush Se,Milne Kaa Yah Velaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जग के सारे बन्धन तोड़े, विषय वासना से मन मोड़े ।",
+        "जोग जुगति में मन को जोड़े, करले जन्म सुहेला रे ।१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jag Ke Saare Bandhan Tore, Vishay Vaasnaa Se Man More.",
+        "Jog Jugti Men Man Ko Jore, Karle Janm Suhelaa Re.1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सदाचार में रहकर निशदिन, बान्धो आसन पदम सिद्धासन ।",
+        "अन्तर्मुख हो हृदय में सुन, नाद अनाहत हेला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sadaachaar Men Rahkar Nishdin, Baandho Aasan Padam Siddhaasan.",
+        "Antarmukh Ho Hriday Men Sun, Naad Anaahat Helaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "इड़ा पिज्नला उलट सुलट कर,सुषुम्न अन्तर श्रुति शब्द धर ।",
+        "ध्यान लगाये त्रिकुटी भीतर, देखो अदृभुत खेला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Iraa Pijnalaa Ulat Sulat Kar,Sushumn Antar Shruti Shabd Dhar.",
+        "Dhyaan Lagaaye Trikuti Bhitar, Dekho Adribhut Khelaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शब्द सहारे, वृत्ति चढ़ाओ दसम द्वारे ।",
+        "निज निर्बीज समाधी धारे, करो ब्रह्म से मेला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Shabd Sahaare, Vritti Charhaao Dasam Dvaare.",
+        "Nij Nirbij Samaadhi Dhaare, Karo Brahm Se Melaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मिल तु लख पुरुश सेमिलने का यह वेला रे (टेक)."
+      "जग के सारे बन्धन तोड़े, विषय वासना से मन मोड़े ।",
+      "जोग जुगति में मन को जोड़े, करले जन्म सुहेला रे ।१ ॥१ ॥"
     ],
     [
-      "जग के सारे बनधन तोरे, विशय वासना से मन मोरे.",
-      "जोग जुगति मेन मन को जोरे, करले जनम सुहेला रे.1$ ||."
+      "सदाचार में रहकर निशदिन, बान्धो आसन पदम सिद्धासन ।",
+      "अन्तर्मुख हो हृदय में सुन, नाद अनाहत हेला रे ॥२ ॥"
     ],
     [
-      "सदाचार मेन रहकर निशदिन, बानधो ासन पदम सिदधासन.",
-      "नतरमुख हो हरिदय मेन सुन, नाद नाहत हेला रे || 2 ||."
+      "इड़ा पिज्नला उलट सुलट कर,सुषुम्न अन्तर श्रुति शब्द धर ।",
+      "ध्यान लगाये त्रिकुटी भीतर, देखो अदृभुत खेला रे ॥३ ॥"
     ],
     [
-      "िरा पिजनला ुलत सुलत करसुशुमन नतर शरुति शबद धर.",
-      "ध्यान लगाये तरिकुति भितर, देखो दरिभुत खेला रे || 3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु शबद सहारे, वरितति चरहाो दसम दवारे.",
-      "निज निरबिज समाधि धारे, करो बरहम से मेला रे || 4 ||."
+      "कहे टेऊँ गुरु शब्द सहारे, वृत्ति चढ़ाओ दसम द्वारे ।",
+      "निज निर्बीज समाधी धारे, करो ब्रह्म से मेला रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Mil Tu Alakh Purush Se,Milne Kaa Yah Velaa Re (Tek)."
-    ],
-    [
       "Jag Ke Saare Bandhan Tore, Vishay Vaasnaa Se Man More.",
-      "Jog Jugti Men Man Ko Jore, Karle Janm Suhelaa Re.1$ ||."
+      "Jog Jugti Men Man Ko Jore, Karle Janm Suhelaa Re.1 || 1 ||"
     ],
     [
       "Sadaachaar Men Rahkar Nishdin, Baandho Aasan Padam Siddhaasan.",
-      "Antarmukh Ho Hriday Men Sun, Naad Anaahat Helaa Re || 2 ||."
+      "Antarmukh Ho Hriday Men Sun, Naad Anaahat Helaa Re || 2 ||"
     ],
     [
       "Iraa Pijnalaa Ulat Sulat Kar,Sushumn Antar Shruti Shabd Dhar.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahe Teun Guru Shabd Sahaare, Vritti Charhaao Dasam Dvaare.",
-      "Nij Nirbij Samaadhi Dhaare, Karo Brahm Se Melaa Re || 4 ||."
+      "Nij Nirbij Samaadhi Dhaare, Karo Brahm Se Melaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 9 || 41 ||.",
+    "रे मन मिल तू अलख पुरुष से ,मिलने का यह वेला रे",
     "Re Man Mil Tu Alakh Purush Se,Milne Kaa Yah Velaa Re",
-    "रे मन मिल तु लख पुरुश सेमिलने का यह वेला रे"
+    "राग प्रभाती भजन 9",
+    "Raag Prabhaati Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 41,
+  "displayOrder": 9,
+  "overallOrder": 41,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 46",
+  "updatedAt": "2026-10-26"
 }

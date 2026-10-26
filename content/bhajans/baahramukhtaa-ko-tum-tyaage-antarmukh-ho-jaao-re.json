@@ -2,64 +2,115 @@
   "id": "bhajan-0059",
   "slug": "baahramukhtaa-ko-tum-tyaage-antarmukh-ho-jaao-re",
   "categoryId": "raag-prabhaati",
-  "title": "बाहरमुखता को तुम तयागे, नतरमुख हो जाो रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "बाहरमुखता को तुम त्यागे, अन्तर्मुख हो जाओ रे",
   "romanTitle": "Baahramukhtaa Ko Tum Tyaage, Antarmukh Ho Jaao Re",
   "firstLine": "Baahramukhtaa Ko Tum Tyaage, Antarmukh Ho Jaao Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। २७ ।। ५९।॥।",
+  "tek": [
+    "बाहरमुखता को तुम त्यागे, अन्तर्मुख हो जाओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Baahramukhtaa Ko Tum Tyaage, Antarmukh Ho Jaao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अन्तर्मुख जो सदा सुखी सो, बाहरमुखिया रहत दुखी ।",
+        "बाह्य वस्तु को बाहर त्यागे, अन्तर सुरति जमाओ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Antarmukh Jo Sadaa Sukhi So, Baahramukhiyaa Rahat Dukhi.",
+        "Baahy Vastu Ko Baahar Tyaage, Antar Surti Jamaao Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इन्द्रिय घाट पर बैठ युगों से, बाह्य विषय को भोग रहे ।",
+        "भोगत भोगत तृप्ति भई ना, अब तो अन्तर आओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Indriy Ghaat Par Baith Yugon Se, Baahy Vishay Ko Bhog Rahe.",
+        "Bhogat Bhogat Tripti Bhai Naa, Ab To Antar Aao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बाहरमुखता नारी को ज्यों, कलंक बहु लग जाता है ।",
+        "तैसे बाहरमुख वृत्ती कर, मत तुम दूख उठाओ रे ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Baahramukhtaa Naari Ko Jyon, Kalank Bahu Lag Jaataa Hai.",
+        "Taise Baahramukh Vritti Kar, Mat Tum Dukh Uthaao Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तन हरि मन्दिर में, बहु विधि बाजे बाजत हैं ।",
+        "गुरु कृपा से निज वृत्ती को , अहनिशि ताहिं लगाओ रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tan Hari Mandir Men, Bahu Vidhi Baaje Baajat Hain.",
+        "Guru Kripaa Se Nij Vritti Ko, Ahnishi Taahin Lagaao Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बाहरमुखता को तुम तयागे, नतरमुख हो जाो रे (टेक)."
+      "अन्तर्मुख जो सदा सुखी सो, बाहरमुखिया रहत दुखी ।",
+      "बाह्य वस्तु को बाहर त्यागे, अन्तर सुरति जमाओ रे ॥१ ॥"
     ],
     [
-      "नतरमुख जो सदा सुखि सो, बाहरमुखिया रहत दुखि.",
-      "बाहय वसतु को बाहर तयागे, नतर सुरति जमाो रे.1 ||."
+      "इन्द्रिय घाट पर बैठ युगों से, बाह्य विषय को भोग रहे ।",
+      "भोगत भोगत तृप्ति भई ना, अब तो अन्तर आओ रे ॥२ ॥"
     ],
     [
-      "िनदरिय घात पर बैथ युगोन से, बाहय विशय को भोग रहे.",
-      "भोगत भोगत तरिपति भै ना, ब तो नतर ाो रे || 2 ||."
+      "बाहरमुखता नारी को ज्यों, कलंक बहु लग जाता है ।",
+      "तैसे बाहरमुख वृत्ती कर, मत तुम दूख उठाओ रे ॥ ।३े ॥ ।"
     ],
     [
-      "बाहरमुखता नारि को जयोन, कलनक बहु लग जाता है.",
-      "तैसे बाहरमुख वरितति कर, मत तुम दुःख ुथाो रे ||.3े ||."
-    ],
-    [
-      "कहे तेऊँ तन हरि मनदिर मेन, बहु विधि बाजे बाजत हैन.",
-      "गुरु कृपा से निज वरितति को, हनिशि ताहिन लगाो रे.4. ||."
+      "कहे टेऊँ तन हरि मन्दिर में, बहु विधि बाजे बाजत हैं ।",
+      "गुरु कृपा से निज वृत्ती को , अहनिशि ताहिं लगाओ रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Baahramukhtaa Ko Tum Tyaage, Antarmukh Ho Jaao Re (Tek)."
-    ],
-    [
       "Antarmukh Jo Sadaa Sukhi So, Baahramukhiyaa Rahat Dukhi.",
-      "Baahy Vastu Ko Baahar Tyaage, Antar Surti Jamaao Re.1 ||."
+      "Baahy Vastu Ko Baahar Tyaage, Antar Surti Jamaao Re || 1 ||"
     ],
     [
       "Indriy Ghaat Par Baith Yugon Se, Baahy Vishay Ko Bhog Rahe.",
-      "Bhogat Bhogat Tripti Bhai Naa, Ab To Antar Aao Re || 2 ||."
+      "Bhogat Bhogat Tripti Bhai Naa, Ab To Antar Aao Re || 2 ||"
     ],
     [
       "Baahramukhtaa Naari Ko Jyon, Kalank Bahu Lag Jaataa Hai.",
-      "Taise Baahramukh Vritti Kar, Mat Tum Dukh Uthaao Re ||.3E ||."
+      "Taise Baahramukh Vritti Kar, Mat Tum Dukh Uthaao Re || 3E ||"
     ],
     [
       "Kahe Teun Tan Hari Mandir Men, Bahu Vidhi Baaje Baajat Hain.",
-      "Guru Kripaa Se Nij Vritti Ko, Ahnishi Taahin Lagaao Re.4. ||."
+      "Guru Kripaa Se Nij Vritti Ko, Ahnishi Taahin Lagaao Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 27 || 59. ||.",
+    "बाहरमुखता को तुम त्यागे, अन्तर्मुख हो जाओ रे",
     "Baahramukhtaa Ko Tum Tyaage, Antarmukh Ho Jaao Re",
-    "बाहरमुखता को तुम तयागे, नतरमुख हो जाो रे"
+    "राग प्रभाती भजन 27",
+    "Raag Prabhaati Bhajan 27"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 59,
+  "displayOrder": 27,
+  "overallOrder": 59,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 55",
+  "updatedAt": "2026-10-26"
 }

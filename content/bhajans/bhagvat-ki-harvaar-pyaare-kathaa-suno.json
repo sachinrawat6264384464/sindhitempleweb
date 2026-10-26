@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0754",
+  "id": "bhajan-0752",
   "slug": "bhagvat-ki-harvaar-pyaare-kathaa-suno",
   "categoryId": "raag-pilaa",
-  "title": "भगवत कि हरवार, पयारे कथा सुनो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "भगवत की हरवार, प्यारे कथा सुनो",
   "romanTitle": "Bhagvat Ki Harvaar, Pyaare Kathaa Suno",
   "firstLine": "Bhagvat Ki Harvaar, Pyaare Kathaa Suno (Tek).",
+  "heading": "।। राग पीला भजन ॥।। ३२ ।। ७५४।।",
+  "tek": [
+    "भगवत की हरवार, प्यारे कथा सुनो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhagvat Ki Harvaar, Pyaare Kathaa Suno (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि की कथा पाप परिहारे, दोष दर्द सब ताप निवारे ।",
+        "भव जल तारे पार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Ki Kathaa Paap Parihaare, Dosh Dard Sab Taap Nivaare.",
+        "Bhav Jal Taare Paar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरि की कथा सदा सुखकारी, हरि भक्तों को लागत प्यारी ।",
+        "सुनिये श्रद्धा धार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Ki Kathaa Sadaa Sukhkaari, Hari Bhakton Ko Laagat Pyaari.",
+        "Suniye Shraddhaa Dhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि की कथा सदा सुखदाई, श्रवण करो परीक्षित न्याई ।",
+        "कथा उद्धारनहार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Ki Kathaa Sadaa Sukhdaai, Shravan Karo Parikshit Nyaai.",
+        "Kathaa Uddhaarnahaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि कथा सुनीजे, मनन उसी का मन में कीजे ।",
+        "कथा मुक्ति का द्वार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Kathaa Sunije, Manan Usi Kaa Man Men Kije.",
+        "Kathaa Mukti Kaa Dvaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भगवत कि हरवार, पयारे कथा सुनो (टेक)."
+      "हरि की कथा पाप परिहारे, दोष दर्द सब ताप निवारे ।",
+      "भव जल तारे पार ॥१ ॥"
     ],
     [
-      "हरि कि कथा पाप परिहारे, दोश दरद सब ताप निवारे.",
-      "भव जल तारे पार || 1 ||"
+      "हरि की कथा सदा सुखकारी, हरि भक्तों को लागत प्यारी ।",
+      "सुनिये श्रद्धा धार ॥२ ॥"
     ],
     [
-      "हरि कि कथा सदा सुखकारि, हरि भकतोन को लागत पयारि.",
-      "सुनिये शरदधा धार ||.2 ||."
+      "हरि की कथा सदा सुखदाई, श्रवण करो परीक्षित न्याई ।",
+      "कथा उद्धारनहार ॥३ ॥"
     ],
     [
-      "हरि कि कथा सदा सुखदाि, शरवन करो परिकशित नयाि.",
-      "कथा ुदधारनहार ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि कथा सुनिजे, मनन ुसि का मन मेन किजे.",
-      "कथा मुक्ति का दवार || 4. ||."
+      "कहे टेऊँ हरि कथा सुनीजे, मनन उसी का मन में कीजे ।",
+      "कथा मुक्ति का द्वार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Bhagvat Ki Harvaar, Pyaare Kathaa Suno (Tek)."
-    ],
     [
       "Hari Ki Kathaa Paap Parihaare, Dosh Dard Sab Taap Nivaare.",
       "Bhav Jal Taare Paar || 1 ||"
     ],
     [
       "Hari Ki Kathaa Sadaa Sukhkaari, Hari Bhakton Ko Laagat Pyaari.",
-      "Suniye Shraddhaa Dhaar ||.2 ||."
+      "Suniye Shraddhaa Dhaar || 2 ||"
     ],
     [
       "Hari Ki Kathaa Sadaa Sukhdaai, Shravan Karo Parikshit Nyaai.",
-      "Kathaa Uddhaarnahaar ||.3 ||"
+      "Kathaa Uddhaarnahaar || 3 ||"
     ],
     [
       "Kahe Teun Hari Kathaa Sunije, Manan Usi Kaa Man Men Kije.",
-      "Kathaa Mukti Kaa Dvaar || 4. ||."
+      "Kathaa Mukti Kaa Dvaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || || 32 || 754 ||",
+    "भगवत की हरवार, प्यारे कथा सुनो",
     "Bhagvat Ki Harvaar, Pyaare Kathaa Suno",
-    "भगवत कि हरवार, पयारे कथा सुनो"
+    "राग पीला भजन 31",
+    "Raag Pilaa Bhajan 31"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 754,
+  "displayOrder": 31,
+  "overallOrder": 752,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 399",
+  "updatedAt": "2026-10-26"
 }

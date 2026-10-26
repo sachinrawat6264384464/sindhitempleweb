@@ -1,73 +1,85 @@
 {
-  "id": "bhajan-0822",
+  "id": "bhajan-0820",
   "slug": "bhagvaan-main-tumhaare-mujh-men-hai-tu-piyaare",
   "categoryId": "raag-maanjh",
-  "title": "भगवान मैं तुमहारे, मुझ मेन है तु पियारे",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "भगवान मैं तुम्हारे, मुझ में है तूं पियारे",
   "romanTitle": "Bhagvaan Main Tumhaare, Mujh Men Hai Tu Piyaare",
   "firstLine": "Bhagvaan Main Tumhaare, Mujh Men Hai Tu Piyaare.",
+  "heading": "।। राग मॉझ भजन ॥।। ९ ।। ८२२।॥।",
+  "tek": [
+    "भगवान मैं तुम्हारे, मुझ में है तूं पियारे ।",
+    "पट है कपास का ज्यों, रूई है पट मंजझारे ॥ क ॥"
+  ],
+  "romanTek": [
+    "Bhagvaan Main Tumhaare, Mujh Men Hai Tu Piyaare.",
+    "Pat Hai Kapaas Kaa Jyon, Rui Hai Pat Manjjhaare || Ka ||"
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मेरा सम्बन्ध तुमसे, अविचल बना अनादी ।",
+        "कोई न तोड़ सकता, त्रिलोक में उदारे ॥१ ॥",
+        "जल से सम्बन्ध जल का, ज्यों पबन से पवन का ।",
+        "तैसा सम्बन्ध तुमसे, मेरा बना मुरारे ॥२ ॥",
+        "तुमसे भया मैं उत्पन्न, जीवित रहूं मैं तुमसे ।",
+        "फिर लीन आपकी में, होंगे जगत अधारे ॥३ ॥",
+        "कहे टेऊँ भिन्न तुम्हारे, मेरी सत्ता नहीं है ।",
+        "तुम ही बना विश्वमय, तुम से न कछु न्यारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Meraa Sambandh Tumse, Avichal Banaa Anaadi.",
+        "Koi Na Tor Saktaa, Trilok Men Udaare || 1 ||",
+        "Jal Se Sambandh Jal Kaa, Jyon Paban Se Pavan Kaa.",
+        "Taisaa Sambandh Tumse, Meraa Banaa Muraare || 2 ||",
+        "Tumse Bhayaa Main Utpann, Jivit Rahun Main Tumse.",
+        "Phir Lin Aapki Men, Honge Jagat Adhaare || 3 ||",
+        "Kahe Teun Bhinn Tumhaare, Meri Sattaa Nahin Hai.",
+        "Tum Hi Banaa Vishvamay, Tum Se Na Kachhu Nyaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भगवान मैं तुमहारे, मुझ मेन है तु पियारे.",
-      "पत है कपास का जयोन, रुि है पत मनजझारे || क ||"
-    ],
-    [
-      "मेरा समबनध तुमसे, विचल बना नादि.",
-      "कोि न तोर सकता, तरिलोक मेन ुदारे || 1 ||"
-    ],
-    [
-      "जल से समबनध जल का, जयोन पबन से पवन का.",
-      "तैसा समबनध तुमसे, मेरा बना मुरारे || 2 ||."
-    ],
-    [
-      "तुमसे भया मैं ुतपनन, जिवित रहुन मैं तुमसे.",
-      "फिर लिन ापकि मेन, होनगे जगत धारे || 3 ||"
-    ],
-    [
-      "कहे तेऊँ भिनन तुमहारे, मेरि सतता नहिन है.",
-      "तुम हि बना विशवमय, तुम से न कचहु नयारे || 4. ||."
-    ],
-    [
-      "गत"
+      "मेरा सम्बन्ध तुमसे, अविचल बना अनादी ।",
+      "कोई न तोड़ सकता, त्रिलोक में उदारे ॥१ ॥",
+      "जल से सम्बन्ध जल का, ज्यों पबन से पवन का ।",
+      "तैसा सम्बन्ध तुमसे, मेरा बना मुरारे ॥२ ॥",
+      "तुमसे भया मैं उत्पन्न, जीवित रहूं मैं तुमसे ।",
+      "फिर लीन आपकी में, होंगे जगत अधारे ॥३ ॥",
+      "कहे टेऊँ भिन्न तुम्हारे, मेरी सत्ता नहीं है ।",
+      "तुम ही बना विश्वमय, तुम से न कछु न्यारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhagvaan Main Tumhaare, Mujh Men Hai Tu Piyaare.",
-      "Pat Hai Kapaas Kaa Jyon, Rui Hai Pat Manjjhaare || K ||"
-    ],
-    [
       "Meraa Sambandh Tumse, Avichal Banaa Anaadi.",
-      "Koi N Tor Saktaa, Trilok Men Udaare || 1 ||"
-    ],
-    [
+      "Koi Na Tor Saktaa, Trilok Men Udaare || 1 ||",
       "Jal Se Sambandh Jal Kaa, Jyon Paban Se Pavan Kaa.",
-      "Taisaa Sambandh Tumse, Meraa Banaa Muraare || 2 ||."
-    ],
-    [
+      "Taisaa Sambandh Tumse, Meraa Banaa Muraare || 2 ||",
       "Tumse Bhayaa Main Utpann, Jivit Rahun Main Tumse.",
-      "Phir Lin Aapki Men, Honge Jagat Adhaare || 3 ||"
-    ],
-    [
+      "Phir Lin Aapki Men, Honge Jagat Adhaare || 3 ||",
       "Kahe Teun Bhinn Tumhaare, Meri Sattaa Nahin Hai.",
-      "Tum Hi Banaa Vishvamay, Tum Se N Kachhu Nyaare || 4. ||."
-    ],
-    [
-      "Gat"
+      "Tum Hi Banaa Vishvamay, Tum Se Na Kachhu Nyaare || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Majh Bhajan || || 9 || 822. ||.",
+    "भगवान मैं तुम्हारे, मुझ में है तूं पियारे",
     "Bhagvaan Main Tumhaare, Mujh Men Hai Tu Piyaare",
-    "भगवान मैं तुमहारे, मुझ मेन है तु पियारे"
+    "राग मांझ भजन 9",
+    "Raag Maanjh Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 822,
+  "displayOrder": 9,
+  "overallOrder": 820,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 435",
+  "updatedAt": "2026-10-26"
 }

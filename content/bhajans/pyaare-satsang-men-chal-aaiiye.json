@@ -1,59 +1,102 @@
 {
-  "id": "bhajan-0615",
+  "id": "bhajan-0613",
   "slug": "pyaare-satsang-men-chal-aaiiye",
   "categoryId": "raag-kalyaan",
-  "title": "पयारे सत्संग मेन चल ाीये",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "प्यारे सत्संग में चल आइईये",
   "romanTitle": "Pyaare Satsang Men Chal Aaiiye",
-  "firstLine": "Pyaare Satsang Men Chal Aaiiye. Baith Satsang Amrit Pije Bhaav Bhakti Gun Gaaiye (Tek).",
+  "firstLine": "Pyaare Satsang Men Chal Aaiiye.",
+  "heading": "।। राग कल्याण भजन ।। ७ ।। ६१४।।",
+  "tek": [
+    "प्यारे सत्संग में चल आइईये ।",
+    "बैठ सत्संग अमृत पीजे भाव भक्ति गुण गाईये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pyaare Satsang Men Chal Aaiiye.",
+    "Baith Satsang Amrit Pije Bhaav Bhakti Gun Gaaiye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दर्शन पाये प्रसन्न होवो, चोट न यम की खाईये ॥8 ॥"
+      ],
+      "romanLines": [
+        "Darshan Paaye Prasann Hovo, Chot Na Yam Ki Khaaiye || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मान त्यागे सेव कमाओ, मन की मैल मिटाईये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maan Tyaage Sev Kamaao, Man Ki Mail Mitaaiye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रद्धा धारे संत चरण की, धूली मस्तक लाईये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Dhaare Sant Charan Ki, Dhuli Mastak Laaiye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ संतों के संग में, परमानन्द पद पाईये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Santon Ke Sang Men, Parmaanand Pad Paaiye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पयारे सत्संग मेन चल ाीये.",
-      "बैथ सत्संग अमृत पिजे भाव भक्ति गुन गािये (टेक)."
+      "दर्शन पाये प्रसन्न होवो, चोट न यम की खाईये ॥8 ॥"
     ],
     [
-      "दरशन पाये परसनन होवो, चोत न यम कि खािये || 8 ||."
+      "मान त्यागे सेव कमाओ, मन की मैल मिटाईये ॥२ ॥"
     ],
     [
-      "मान तयागे सेव कमाो, मन कि मैल मितािये || 2 ||"
+      "श्रद्धा धारे संत चरण की, धूली मस्तक लाईये ॥३ ॥"
     ],
     [
-      "शरदधा धारे संत चरण कि, धुलि मसतक लािये || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सनतोन के सनग मेन, परमाननद पद पािये || 4 ||"
+      "कहे टेऊँ संतों के संग में, परमानन्द पद पाईये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Pyaare Satsang Men Chal Aaiiye.",
-      "Baith Satsang Amrit Pije Bhaav Bhakti Gun Gaaiye (Tek)."
-    ],
-    [
-      "Darshan Paaye Prasann Hovo, Chot N Yam Ki Khaaiye || 8 ||."
+      "Darshan Paaye Prasann Hovo, Chot Na Yam Ki Khaaiye || 8 ||"
     ],
     [
       "Maan Tyaage Sev Kamaao, Man Ki Mail Mitaaiye || 2 ||"
     ],
     [
-      "Shraddhaa Dhaare Sant Charan Ki, Dhuli Mastak Laaiye || 3 ||."
+      "Shraddhaa Dhaare Sant Charan Ki, Dhuli Mastak Laaiye || 3 ||"
     ],
     [
       "Kahe Teun Santon Ke Sang Men, Parmaanand Pad Paaiye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 7 || 614 ||",
+    "प्यारे सत्संग में चल आइईये",
     "Pyaare Satsang Men Chal Aaiiye",
-    "पयारे सत्संग मेन चल ाीये"
+    "राग कल्याण भजन 7",
+    "Raag Kalyaan Bhajan 7"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 615,
+  "displayOrder": 7,
+  "overallOrder": 613,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 329",
+  "updatedAt": "2026-10-26"
 }

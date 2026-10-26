@@ -1,85 +1,132 @@
 {
-  "id": "bhajan-0720",
+  "id": "bhajan-0718",
   "slug": "mere-param-premi-aaj-kathaa-bhagvat-ki-suno",
   "categoryId": "raag-pahaari",
-  "title": "मेरे परम परेमि ाज, कथा भगवत कि सुनो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मेरे परम प्रेमी आज, कथा भगवत की सुनो",
   "romanTitle": "Mere Param Premi Aaj, Kathaa Bhagvat Ki Suno",
   "firstLine": "Mere Param Premi Aaj, Kathaa Bhagvat Ki Suno (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ७१ ।। ७१९।।",
+  "tek": [
+    "मेरे परम प्रेमी आज, कथा भगवत की सुनो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Param Premi Aaj, Kathaa Bhagvat Ki Suno (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देव लोक में अमृत जो है, सो ना अमृत जान ले ।",
+        "कथा हरी की अमृत साचा, भूमी पर पहिचान ले ।",
+        "सब छोड़े घर के काज ॥8 ॥"
+      ],
+      "romanLines": [
+        "Dev Lok Men Amrit Jo Hai, So Naa Amrit Jaan Le.",
+        "Kathaa Hari Ki Amrit Saachaa, Bhumi Par Pahichaan Le.",
+        "Sab Chhore Ghar Ke Kaaj || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कथा हरी की जहं नित होवे, गोबिन्द का वह गाम है ।",
+        "बह तीर्थ वह ठाकुरद्वारा, शिव ब्रह्मा का धाम है ।",
+        "तहं आप बसे महाराज ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kathaa Hari Ki Jahan Nit Hove, Gobind Kaa Vah Gaam Hai.",
+        "Bah Tirth Vah Thaakuradvaaraa, Shiv Brahmaa Kaa Dhaam Hai.",
+        "Tahan Aap Base Mahaaraaj || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कथा हरी की भूप परीक्षित, जैसे सुन ली प्यार से ।",
+        "तैसे तुम भी कथा हरी की, सुनले नित सत्कार से ।",
+        "मिले मुक्ती का स्वराज ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kathaa Hari Ki Bhup Parikshit, Jaise Sun Li Pyaar Se.",
+        "Taise Tum Bhi Kathaa Hari Ki, Sunle Nit Satkaar Se.",
+        "Mile Mukti Kaa Svaraaj || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कली काल में कथा हरी की, उत्तम धर्म यह मान ले ।",
+        "कहे टेऊँ फल चारों देती, श्रद्धा उस में आन ले ।",
+        "वह राखे तेरी लाज ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kali Kaal Men Kathaa Hari Ki, Uttam Dharm Yah Maan Le.",
+        "Kahe Teun Phal Chaaron Deti, Shraddhaa Us Men Aan Le.",
+        "Vah Raakhe Teri Laaj || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे परम परेमि ाज, कथा भगवत कि सुनो (टेक)."
+      "देव लोक में अमृत जो है, सो ना अमृत जान ले ।",
+      "कथा हरी की अमृत साचा, भूमी पर पहिचान ले ।",
+      "सब छोड़े घर के काज ॥8 ॥"
     ],
     [
-      "देव लोक मेन अमृत जो है, सो ना अमृत जान ले.",
-      "कथा हरि कि अमृत साचा, भुमि पर पहिचान ले."
+      "कथा हरी की जहं नित होवे, गोबिन्द का वह गाम है ।",
+      "बह तीर्थ वह ठाकुरद्वारा, शिव ब्रह्मा का धाम है ।",
+      "तहं आप बसे महाराज ॥२ ॥"
     ],
     [
-      "सब चहोरे घर के काज || 8 ||"
+      "कथा हरी की भूप परीक्षित, जैसे सुन ली प्यार से ।",
+      "तैसे तुम भी कथा हरी की, सुनले नित सत्कार से ।",
+      "मिले मुक्ती का स्वराज ॥३ ॥"
     ],
     [
-      "कथा हरि कि जहन नित होवे, गोबिनद का वह गाम है.",
-      "बह तिरथ वह थाकुरदवारा, शिव बरहम का धाम है."
-    ],
-    [
-      "तहन ाप बसे महाराज || 2 ||"
-    ],
-    [
-      "कथा हरि कि भुप परिकशित, जैसे सुन लि पयार से.",
-      "तैसे तुम भि कथा हरि कि, सुनले नित सतकार से."
-    ],
-    [
-      "मिले मुक्ति का सवराज ||.3. ||.",
-      "कलि काल मेन कथा हरि कि, ुततम धरम यह मान ले."
-    ],
-    [
-      "कहे तेऊँ फल चारोन देति, शरदधा ुस मेन ान ले.",
-      "वह राखे तेरि लाज ||.4 ||."
+      "कली काल में कथा हरी की, उत्तम धर्म यह मान ले ।",
+      "कहे टेऊँ फल चारों देती, श्रद्धा उस में आन ले ।",
+      "वह राखे तेरी लाज ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Param Premi Aaj, Kathaa Bhagvat Ki Suno (Tek)."
-    ],
-    [
       "Dev Lok Men Amrit Jo Hai, So Naa Amrit Jaan Le.",
-      "Kathaa Hari Ki Amrit Saachaa, Bhumi Par Pahichaan Le."
-    ],
-    [
+      "Kathaa Hari Ki Amrit Saachaa, Bhumi Par Pahichaan Le.",
       "Sab Chhore Ghar Ke Kaaj || 8 ||"
     ],
     [
       "Kathaa Hari Ki Jahan Nit Hove, Gobind Kaa Vah Gaam Hai.",
-      "Bah Tirth Vah Thaakuradvaaraa, Shiv Brahma Kaa Dhaam Hai."
-    ],
-    [
+      "Bah Tirth Vah Thaakuradvaaraa, Shiv Brahmaa Kaa Dhaam Hai.",
       "Tahan Aap Base Mahaaraaj || 2 ||"
     ],
     [
       "Kathaa Hari Ki Bhup Parikshit, Jaise Sun Li Pyaar Se.",
-      "Taise Tum Bhi Kathaa Hari Ki, Sunle Nit Satkaar Se."
+      "Taise Tum Bhi Kathaa Hari Ki, Sunle Nit Satkaar Se.",
+      "Mile Mukti Kaa Svaraaj || 3 ||"
     ],
     [
-      "Mile Mukti Kaa Svaraaj ||.3. ||.",
-      "Kali Kaal Men Kathaa Hari Ki, Uttam Dharm Yah Maan Le."
-    ],
-    [
+      "Kali Kaal Men Kathaa Hari Ki, Uttam Dharm Yah Maan Le.",
       "Kahe Teun Phal Chaaron Deti, Shraddhaa Us Men Aan Le.",
-      "Vah Raakhe Teri Laaj ||.4 ||."
+      "Vah Raakhe Teri Laaj || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 71 || 719 ||",
+    "मेरे परम प्रेमी आज, कथा भगवत की सुनो",
     "Mere Param Premi Aaj, Kathaa Bhagvat Ki Suno",
-    "मेरे परम परेमि ाज, कथा भगवत कि सुनो"
+    "राग पहाड़ी भजन 71",
+    "Raag Pahaari Bhajan 71"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 720,
+  "displayOrder": 71,
+  "overallOrder": 718,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 381",
+  "updatedAt": "2026-10-26"
 }

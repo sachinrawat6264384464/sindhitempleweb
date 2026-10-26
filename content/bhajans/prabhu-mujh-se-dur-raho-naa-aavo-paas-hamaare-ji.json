@@ -1,72 +1,131 @@
 {
-  "id": "bhajan-0849",
+  "id": "bhajan-0847",
   "slug": "prabhu-mujh-se-dur-raho-naa-aavo-paas-hamaare-ji",
   "categoryId": "raag-jog",
-  "title": "प्रभु मुझ से दुर रहो ना, ावो पास हमारे जी",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "प्रभू मुझ से दूर रहो ना, आवो पास हमारे जी ॥",
   "romanTitle": "Prabhu Mujh Se Dur Raho Naa, Aavo Paas Hamaare Ji",
   "firstLine": "Prabhu Mujh Se Dur Raho Naa, Aavo Paas Hamaare Ji (Tek).",
+  "heading": "।। राग जोग भजन ।। १९ ।। ८४९।।",
+  "tek": [
+    "प्रभू मुझ से दूर रहो ना, आवो पास हमारे जी ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Mujh Se Dur Raho Naa, Aavo Paas Hamaare Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुझ बिन मेरा जीवन दुखिया, एक पलक नहिं होवत सुखिया ।",
+        "नैन रोय जल हारे जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tujh Bin Meraa Jivan Dukhiyaa, Ek Palak Nahin Hovat Sukhiyaa.",
+        "Nain Roy Jal Haare Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तारे गिन गिन रैन बिताऊँ, दम दम दर पर देखन जाऊँ ।",
+        "थाके नैन निहारे जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taare Gin Gin Rain Bitaaun, Dam Dam Dar Par Dekhan Jaaun.",
+        "Thaake Nain Nihaare Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम बिन भावे ना श्यृंगारा, सर्व॑ पदार्थ लागत खारा ।",
+        "विरह अग्नि तन जारे जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Bin Bhaave Naa Shyringaaraa, Sarv Padaarth Laagat Khaaraa.",
+        "Virah Agni Tan Jaare Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जे यहां न आओ, कर कृपा निज पास बुलाओ ।",
+        "वियोग सकूं न सहारे जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Yahaan Na Aao, Kar Kripaa Nij Paas Bulaao.",
+        "Viyog Sakun Na Sahaare Ji || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "पन्"
+      ],
+      "romanLines": [
+        "Pan"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु मुझ से दुर रहो ना, ावो पास हमारे जी (टेक)."
+      "तुझ बिन मेरा जीवन दुखिया, एक पलक नहिं होवत सुखिया ।",
+      "नैन रोय जल हारे जी ॥१ ॥"
     ],
     [
-      "तुझ बिन मेरा जिवन दुखिया, ेक पलक नहिन होवत सुखिया.",
-      "नैन रोय जल हारे जी.1. ||."
+      "तारे गिन गिन रैन बिताऊँ, दम दम दर पर देखन जाऊँ ।",
+      "थाके नैन निहारे जी ॥२ ॥"
     ],
     [
-      "तारे गिन गिन रैन बिताुन, दम दम दर पर देखन जाुन.",
-      "थाके नैन निहारे जी || 2 ||."
+      "तुम बिन भावे ना श्यृंगारा, सर्व॑ पदार्थ लागत खारा ।",
+      "विरह अग्नि तन जारे जी ॥३ ॥"
     ],
     [
-      "तुम बिन भावे ना शयरिनगारा, सर्व पदारथ लागत खारा.",
-      "विरह गनि तन जारे जी || 3 ||."
+      "कहे टेऊँ जे यहां न आओ, कर कृपा निज पास बुलाओ ।",
+      "वियोग सकूं न सहारे जी ॥४ ॥"
     ],
     [
-      "कहे तेऊँ जे यहान न ाो, कर कृपा निज पास बुलाो.",
-      "वियोग सकुन न सहारे जी || 4 ||."
-    ],
-    [
-      "पन"
+      "पन्"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Mujh Se Dur Raho Naa, Aavo Paas Hamaare Ji (Tek)."
-    ],
-    [
       "Tujh Bin Meraa Jivan Dukhiyaa, Ek Palak Nahin Hovat Sukhiyaa.",
-      "Nain Roy Jal Haare Ji.1. ||."
+      "Nain Roy Jal Haare Ji || 1 ||"
     ],
     [
       "Taare Gin Gin Rain Bitaaun, Dam Dam Dar Par Dekhan Jaaun.",
-      "Thaake Nain Nihaare Ji || 2 ||."
+      "Thaake Nain Nihaare Ji || 2 ||"
     ],
     [
       "Tum Bin Bhaave Naa Shyringaaraa, Sarv Padaarth Laagat Khaaraa.",
-      "Virah Agni Tan Jaare Ji || 3 ||."
+      "Virah Agni Tan Jaare Ji || 3 ||"
     ],
     [
-      "Kahe Teun Je Yahaan N Aao, Kar Kripaa Nij Paas Bulaao.",
-      "Viyog Sakun N Sahaare Ji || 4 ||."
+      "Kahe Teun Je Yahaan Na Aao, Kar Kripaa Nij Paas Bulaao.",
+      "Viyog Sakun Na Sahaare Ji || 4 ||"
     ],
     [
       "Pan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 19 || 849 ||",
+    "प्रभू मुझ से दूर रहो ना, आवो पास हमारे जी ॥",
     "Prabhu Mujh Se Dur Raho Naa, Aavo Paas Hamaare Ji",
-    "प्रभु मुझ से दुर रहो ना, ावो पास हमारे जी"
+    "राग जोग भजन 19",
+    "Raag Jog Bhajan 19"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "jog",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 849,
+  "displayOrder": 19,
+  "overallOrder": 847,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 449",
+  "updatedAt": "2026-10-26"
 }

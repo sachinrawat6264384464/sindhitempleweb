@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0762",
+  "slug": "nind-na-aave-nain-guru-ke-daras-binaa",
+  "categoryId": "raag-pilaa",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "नींद न आवे नैन, गुरु के दरस बिना",
+  "romanTitle": "Nind Na Aave Nain, Guru Ke Daras Binaa",
+  "firstLine": "Nind Na Aave Nain, Guru Ke Daras Binaa (Tek).",
+  "heading": "।। राग पीला भजन ।। ४२ ।। ७६४।।",
+  "tek": [
+    "नींद न आवे नैन, गुरु के दरस बिना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Nind Na Aave Nain, Guru Ke Daras Binaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु बिन दिल को धीर न आवे, जीअ को चिन्ता आग जलावे,",
+        "चित ना पावे चैन ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Dil Ko Dhir Na Aave, Ji Ko Chintaa Aag Jalaave,",
+        "Chit Naa Paave Chain || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु बिन मन को नाहिं करारी, दर्शन बिन दुख है उर भारी,",
+        "रोता हूं दिन रैन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Man Ko Naahin Karaari, Darshan Bin Dukh Hai Ur Bhaari,",
+        "Rotaa Hun Din Rain || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु बिन मुझको बिरह सतावे, खाना पीना मोहि न भावे,",
+        "भावे ना सुख शैन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Mujhko Birah Sataave, Khaanaa Pinaa Mohi Na Bhaave,",
+        "Bhaave Naa Sukh Shain || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरु बिन मुझको शान्ति न आती, कहे टेऊँ गुरु प्यास सताती,",
+        "भावे मोहि न ऐन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Mujhko Shaanti Na Aati, Kahe Teun Guru Pyaas Sataati,",
+        "Bhaave Mohi Na Ain || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "गुरु बिन दिल को धीर न आवे, जीअ को चिन्ता आग जलावे,",
+      "चित ना पावे चैन ॥१ ॥१ ॥"
+    ],
+    [
+      "गुरु बिन मन को नाहिं करारी, दर्शन बिन दुख है उर भारी,",
+      "रोता हूं दिन रैन ॥२ ॥"
+    ],
+    [
+      "गुरु बिन मुझको बिरह सतावे, खाना पीना मोहि न भावे,",
+      "भावे ना सुख शैन ॥३ ॥"
+    ],
+    [
+      "गुरु बिन मुझको शान्ति न आती, कहे टेऊँ गुरु प्यास सताती,",
+      "भावे मोहि न ऐन ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Guru Bin Dil Ko Dhir Na Aave, Ji Ko Chintaa Aag Jalaave,",
+      "Chit Naa Paave Chain || 1 || 1 ||"
+    ],
+    [
+      "Guru Bin Man Ko Naahin Karaari, Darshan Bin Dukh Hai Ur Bhaari,",
+      "Rotaa Hun Din Rain || 2 ||"
+    ],
+    [
+      "Guru Bin Mujhko Birah Sataave, Khaanaa Pinaa Mohi Na Bhaave,",
+      "Bhaave Naa Sukh Shain || 3 ||"
+    ],
+    [
+      "Guru Bin Mujhko Shaanti Na Aati, Kahe Teun Guru Pyaas Sataati,",
+      "Bhaave Mohi Na Ain || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "नींद न आवे नैन, गुरु के दरस बिना",
+    "Nind Na Aave Nain, Guru Ke Daras Binaa",
+    "राग पीला भजन 41",
+    "Raag Pilaa Bhajan 41"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
+  ],
+  "displayOrder": 41,
+  "overallOrder": 762,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 404",
+  "updatedAt": "2026-10-26"
+}

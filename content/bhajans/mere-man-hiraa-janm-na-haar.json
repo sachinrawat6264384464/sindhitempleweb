@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0213",
+  "slug": "mere-man-hiraa-janm-na-haar",
+  "categoryId": "raag-tori",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "मेरे मन हीरा जन्म न हार",
+  "romanTitle": "Mere Man Hiraa Janm Na Haar",
+  "firstLine": "Mere Man Hiraa Janm Na Haar.",
+  "heading": "।। राग टोड़ी भजन ।। २१ ।। २१३।।",
+  "tek": [
+    "मेरे मन हीरा जन्म न हार ।",
+    "मानुष देही दुर्लभ तुझको मिले न बारम्बार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Hiraa Janm Na Haar.",
+    "Maanush Dehi Durlabh Tujhko Mile Na Baarambaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "लख चौरासी जोनिन का है मानुष तन सरदार ।",
+        "पूरब पुण्य ते यह तन पाया तांका कर निस्तार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Lakh Chauraasi Jonin Kaa Hai Maanush Tan Sardaar.",
+        "Purab Puny Te Yah Tan Paayaa Taankaa Kar Nistaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मोह नींद से जल्दी जागो गफ्लत छोड़ गंवार ।",
+        "सोय सोय बहु जन्म गंवाये अब जागन की बार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Moh Nind Se Jaldi Jaago Gaphlat Chhor Ganvaar.",
+        "Soy Soy Bahu Janm Ganvaaye Ab Jaagan Ki Baar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देह नगर में चोर फिरत हैं काम क्रोध अहंकार ।",
+        "ज्ञान खड़ग से मारे तिनको अपना करो उधार ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Deh Nagar Men Chor Phirat Hain Kaam Krodh Ahankaar.",
+        "Gyaan Kharag Se Maare Tinko Apnaa Karo Udhaar || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सन्तों का संग निशदिन करके वेद वाक्य वीचार ।",
+        "कहता टेऊँ इस विधि प्यारे अपना जन्म सुधार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Santon Kaa Sang Nishdin Karke Ved Vaaky Vichaar.",
+        "Kahtaa Teun Is Vidhi Pyaare Apnaa Janm Sudhaar || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "लख चौरासी जोनिन का है मानुष तन सरदार ।",
+      "पूरब पुण्य ते यह तन पाया तांका कर निस्तार ॥१ ॥"
+    ],
+    [
+      "मोह नींद से जल्दी जागो गफ्लत छोड़ गंवार ।",
+      "सोय सोय बहु जन्म गंवाये अब जागन की बार ॥२ ॥"
+    ],
+    [
+      "देह नगर में चोर फिरत हैं काम क्रोध अहंकार ।",
+      "ज्ञान खड़ग से मारे तिनको अपना करो उधार ॥ ।३े ॥"
+    ],
+    [
+      "सन्तों का संग निशदिन करके वेद वाक्य वीचार ।",
+      "कहता टेऊँ इस विधि प्यारे अपना जन्म सुधार ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Lakh Chauraasi Jonin Kaa Hai Maanush Tan Sardaar.",
+      "Purab Puny Te Yah Tan Paayaa Taankaa Kar Nistaar || 1 ||"
+    ],
+    [
+      "Moh Nind Se Jaldi Jaago Gaphlat Chhor Ganvaar.",
+      "Soy Soy Bahu Janm Ganvaaye Ab Jaagan Ki Baar || 2 ||"
+    ],
+    [
+      "Deh Nagar Men Chor Phirat Hain Kaam Krodh Ahankaar.",
+      "Gyaan Kharag Se Maare Tinko Apnaa Karo Udhaar || 3E ||"
+    ],
+    [
+      "Santon Kaa Sang Nishdin Karke Ved Vaaky Vichaar.",
+      "Kahtaa Teun Is Vidhi Pyaare Apnaa Janm Sudhaar || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मेरे मन हीरा जन्म न हार",
+    "Mere Man Hiraa Janm Na Haar",
+    "राग तोड़ी भजन 21",
+    "Raag Tori Bhajan 21"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
+  ],
+  "displayOrder": 21,
+  "overallOrder": 213,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 134",
+  "updatedAt": "2026-10-26"
+}

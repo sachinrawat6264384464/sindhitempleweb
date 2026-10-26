@@ -1,30 +1,92 @@
 {
   "id": "bhajan-0229",
   "slug": "bolo-prem-se-pyaare-baani-raam-ki",
-  "categoryId": "raag-bhairav",
-  "title": "बोलो प्रेम से पयारे, बानी राम कि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "बोलो प्रेम से प्यारे, बाणी राम की",
   "romanTitle": "Bolo Prem Se Pyaare, Baani Raam Ki",
-  "firstLine": "Bolo Prem Se Pyaare, Baani Raam Ki. Kabhi Bhulo Naa Udaare, Baani Raam Ki (Tek).",
+  "firstLine": "Bolo Prem Se Pyaare, Baani Raam Ki.",
+  "heading": "।। राग भैरवी भजन ।। १४ ।। २२९।।",
+  "tek": [
+    "बोलो प्रेम से प्यारे, बाणी राम की ।",
+    "कभी भूलो ना उदारे, बाणी राम की ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bolo Prem Se Pyaare, Baani Raam Ki.",
+    "Kabhi Bhulo Naa Udaare, Baani Raam Ki (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम की बाणी प्यारी, ध्रुव भक्त प्रहलाद उचारी ।",
+        "सब दुश्मन दूख विडारे, बाणी राम की ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ki Baani Pyaari, Dhruv Bhakt Prahlaad Uchaari.",
+        "Sab Dushman Dukh Vidaare, Baani Raam Ki || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम की बाणी बोलो, भव सागर में कभी न डोलो ।",
+        "तेरी लावे नाव किनारे, बाणी राम की ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ki Baani Bolo, Bhav Saagar Men Kabhi Na Dolo.",
+        "Teri Laave Naav Kinaare, Baani Raam Ki || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम की बाणी सुन्दर, धारो अपने हृदय अन्दर ।",
+        "तेरे मन की मैल निवारे, बाणी राम की ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ki Baani Sundar, Dhaaro Apne Hriday Andar.",
+        "Tere Man Ki Mail Nivaare, Baani Raam Ki || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम नाम की अमृत बाणी, सर्व सुखों की है यह खाणी ।",
+        "कहे टेऊँ विपदा टारे, बाणी राम की ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ki Amrit Baani, Sarv Sukhon Ki Hai Yah Khaani.",
+        "Kahe Teun Vipdaa Taare, Baani Raam Ki || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "शान"
+      ],
+      "romanLines": [
+        "Shaan"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बोलो प्रेम से पयारे, बानी राम कि.",
-      "कभि भुलो ना ुदारे, बानी राम कि (टेक)."
+      "राम नाम की बाणी प्यारी, ध्रुव भक्त प्रहलाद उचारी ।",
+      "सब दुश्मन दूख विडारे, बाणी राम की ॥१ ॥"
     ],
     [
-      "राम नाम कि बानी पयारि, धरुव भकत परहलाद ुचारि.",
-      "सब दुशमन दुःख विदारे, बानी राम कि ||.1. ||."
+      "राम नाम की बाणी बोलो, भव सागर में कभी न डोलो ।",
+      "तेरी लावे नाव किनारे, बाणी राम की ॥२ ॥"
     ],
     [
-      "राम नाम कि बानी बोलो, भव सागर मेन कभि न दोलो.",
-      "तेरि लावे नाव किनारे, बानी राम कि || 2 ||."
+      "राम नाम की बाणी सुन्दर, धारो अपने हृदय अन्दर ।",
+      "तेरे मन की मैल निवारे, बाणी राम की ॥३ ॥"
     ],
     [
-      "राम नाम कि बानी सुनदर, धारो पने हरिदय नदर.",
-      "तेरे मन कि मैल निवारे, बानी राम कि || 3. ||."
-    ],
-    [
-      "राम नाम कि अमृत बानी, सर्व सुखोन कि है यह खानि.",
-      "कहे तेऊँ विपदा तारे, बानी राम कि ||.4. ||."
+      "राम नाम की अमृत बाणी, सर्व सुखों की है यह खाणी ।",
+      "कहे टेऊँ विपदा टारे, बाणी राम की ॥४ ॥"
     ],
     [
       "शान"
@@ -32,42 +94,40 @@
   ],
   "romanLyrics": [
     [
-      "Bolo Prem Se Pyaare, Baani Raam Ki.",
-      "Kabhi Bhulo Naa Udaare, Baani Raam Ki (Tek)."
-    ],
-    [
       "Raam Naam Ki Baani Pyaari, Dhruv Bhakt Prahlaad Uchaari.",
-      "Sab Dushman Dukh Vidaare, Baani Raam Ki ||.1. ||."
+      "Sab Dushman Dukh Vidaare, Baani Raam Ki || 1 ||"
     ],
     [
-      "Raam Naam Ki Baani Bolo, Bhav Saagar Men Kabhi N Dolo.",
-      "Teri Laave Naav Kinaare, Baani Raam Ki || 2 ||."
+      "Raam Naam Ki Baani Bolo, Bhav Saagar Men Kabhi Na Dolo.",
+      "Teri Laave Naav Kinaare, Baani Raam Ki || 2 ||"
     ],
     [
       "Raam Naam Ki Baani Sundar, Dhaaro Apne Hriday Andar.",
-      "Tere Man Ki Mail Nivaare, Baani Raam Ki || 3. ||."
+      "Tere Man Ki Mail Nivaare, Baani Raam Ki || 3 ||"
     ],
     [
       "Raam Naam Ki Amrit Baani, Sarv Sukhon Ki Hai Yah Khaani.",
-      "Kahe Teun Vipdaa Taare, Baani Raam Ki ||.4. ||."
+      "Kahe Teun Vipdaa Taare, Baani Raam Ki || 4 ||"
     ],
     [
       "Shaan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 14 || 229 ||",
+    "बोलो प्रेम से प्यारे, बाणी राम की",
     "Bolo Prem Se Pyaare, Baani Raam Ki",
-    "बोलो प्रेम से पयारे, बानी राम कि"
+    "राग भैरवी भजन 14",
+    "Raag Bhairvi Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 229,
+  "displayOrder": 14,
+  "overallOrder": 229,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 143",
+  "updatedAt": "2026-10-26"
 }

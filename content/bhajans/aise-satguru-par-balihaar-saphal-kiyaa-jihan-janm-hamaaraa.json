@@ -1,45 +1,94 @@
 {
-  "id": "bhajan-0914",
+  "id": "bhajan-0912",
   "slug": "aise-satguru-par-balihaar-saphal-kiyaa-jihan-janm-hamaaraa",
   "categoryId": "raag-jog",
-  "title": "ैसे सतगुरु पर बलिहार, सफल किया जिहन जनम हमारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "ऐसे सत्‌गुरु पर बलिहार, सफल किया जिहं जन्म हमारा",
   "romanTitle": "Aise Sat‌Guru Par Balihaar, Saphal Kiyaa Jihan Janm Hamaaraa",
   "firstLine": "Aise Sat‌Guru Par Balihaar, Saphal Kiyaa Jihan Janm Hamaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ८४ ।। ९१४ ॥।",
+  "tek": [
+    "ऐसे सत्‌गुरु पर बलिहार, सफल किया जिहं जन्म हमारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aise Sat‌Guru Par Balihaar, Saphal Kiyaa Jihan Janm Hamaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रद्धा से शुभ कर्म कराया, मल का पर्दा दूर हटाया ।",
+        "उपजा हृदय सत्‌ वीचार, देवी गुण से भरा भण्डारा ॥8 ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Shubh Karm Karaayaa, Mal Kaa Pardaa Dur Hataayaa.",
+        "Upjaa Hriday Sat‌ Vichaar, Devi Gun Se Bharaa Bhandaaraa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ध्यान हरी का मुझे सिखाया, चंचल मन को अचल बनाया ।",
+        "अन्तर पाया हरि दीदार, मस्त रहूं उस मौज मंजझारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dhyaan Hari Kaa Mujhe Sikhaayaa, Chanchal Man Ko Achal Banaayaa.",
+        "Antar Paayaa Hari Didaar, Mast Rahun Us Mauj Manjjhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म ज्ञान दे दट्वैत मिटाया, जीव ब्रह्मा को एक लखाया ।",
+        "मिट गया अविद्या का अहंकार, अहं ब्रह्म का बजा नग़ारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm Gyaan De Datvait Mitaayaa, Jiv Brahmaa Ko Ek Lakhaayaa.",
+        "Mit Gayaa Avidyaa Kaa Ahankaar, Ahan Brahm Kaa Bajaa Naghaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँं अति आनन्द होया, जन्म मरण का दुख सब खोया ।",
+        "रिलमिल के होया इकसार, दूर भया सब ट्रैत अन्धारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teunn Ati Aanand Hoyaa, Janm Maran Kaa Dukh Sab Khoyaa.",
+        "Rilmil Ke Hoyaa Iksaar, Dur Bhayaa Sab Trait Andhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ैसे सतगुरु पर बलिहार, सफल किया जिहन जनम हमारा (टेक)."
+      "श्रद्धा से शुभ कर्म कराया, मल का पर्दा दूर हटाया ।",
+      "उपजा हृदय सत्‌ वीचार, देवी गुण से भरा भण्डारा ॥8 ॥"
     ],
     [
-      "शरदधा से शुभ करम कराया, मल का परदा दुर हताया.",
-      "ुपजा हरिदय सत‌ विचार, देवि गुन से भरा भनदारा.8 ||."
+      "ध्यान हरी का मुझे सिखाया, चंचल मन को अचल बनाया ।",
+      "अन्तर पाया हरि दीदार, मस्त रहूं उस मौज मंजझारा ॥२ ॥"
     ],
     [
-      "ध्यान हरि का मुझे सिखाया, चनचल मन को चल बनाया.",
-      "नतर पाया हरि दिदार, मसत रहुन ुस मौज मनजझारा ||.2 ||"
+      "ब्रह्म ज्ञान दे दट्वैत मिटाया, जीव ब्रह्मा को एक लखाया ।",
+      "मिट गया अविद्या का अहंकार, अहं ब्रह्म का बजा नग़ारा ॥३ ॥"
     ],
     [
-      "बरहम ज्ञान दे दतवैत मिताया, जिव बरहम को ेक लखाया.",
-      "मित गया विदया का हनकार, हन बरहम का बजा नघारा || 3 ||"
-    ],
-    [
-      "कहे तेुनन ति आनंद होया, जनम मरन का दुःख सब खोया.",
-      "रिलमिल के होया िकसार, दुर भया सब तरैत नधारा || 4 ||"
+      "कहे टेऊँं अति आनन्द होया, जन्म मरण का दुख सब खोया ।",
+      "रिलमिल के होया इकसार, दूर भया सब ट्रैत अन्धारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aise Sat‌Guru Par Balihaar, Saphal Kiyaa Jihan Janm Hamaaraa (Tek)."
-    ],
-    [
       "Shraddhaa Se Shubh Karm Karaayaa, Mal Kaa Pardaa Dur Hataayaa.",
-      "Upjaa Hriday Sat‌ Vichaar, Devi Gun Se Bharaa Bhandaaraa.8 ||."
+      "Upjaa Hriday Sat‌ Vichaar, Devi Gun Se Bharaa Bhandaaraa || 8 ||"
     ],
     [
       "Dhyaan Hari Kaa Mujhe Sikhaayaa, Chanchal Man Ko Achal Banaayaa.",
-      "Antar Paayaa Hari Didaar, Mast Rahun Us Mauj Manjjhaaraa ||.2 ||"
+      "Antar Paayaa Hari Didaar, Mast Rahun Us Mauj Manjjhaaraa || 2 ||"
     ],
     [
-      "Brahm Jnyaan De Datvait Mitaayaa, Jiv Brahma Ko Ek Lakhaayaa.",
+      "Brahm Gyaan De Datvait Mitaayaa, Jiv Brahmaa Ko Ek Lakhaayaa.",
       "Mit Gayaa Avidyaa Kaa Ahankaar, Ahan Brahm Kaa Bajaa Naghaaraa || 3 ||"
     ],
     [
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 84 || 914 ||.",
+    "ऐसे सत्‌गुरु पर बलिहार, सफल किया जिहं जन्म हमारा",
     "Aise Sat‌Guru Par Balihaar, Saphal Kiyaa Jihan Janm Hamaaraa",
-    "ैसे सतगुरु पर बलिहार, सफल किया जिहन जनम हमारा"
+    "राग जोग भजन 84",
+    "Raag Jog Bhajan 84"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 914,
+  "displayOrder": 84,
+  "overallOrder": 912,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 480",
+  "updatedAt": "2026-10-26"
 }

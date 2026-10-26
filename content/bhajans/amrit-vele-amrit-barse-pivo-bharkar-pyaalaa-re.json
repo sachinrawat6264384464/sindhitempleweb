@@ -2,64 +2,115 @@
   "id": "bhajan-0037",
   "slug": "amrit-vele-amrit-barse-pivo-bharkar-pyaalaa-re",
   "categoryId": "raag-prabhaati",
-  "title": "अमृत वेले अमृत बरसे, पिवो भरकर पयाला रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "अमृत वेले अमृत बरसे, पीवो भरकर प्याला रे",
   "romanTitle": "Amrit Vele Amrit Barse, Pivo Bharkar Pyaalaa Re",
   "firstLine": "Amrit Vele Amrit Barse, Pivo Bharkar Pyaalaa Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ५ ।। ३७॥॥",
+  "tek": [
+    "अमृत वेले अमृत बरसे, पीवो भरकर प्याला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amrit Vele Amrit Barse, Pivo Bharkar Pyaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "योगी पूर्ण योग कला से, दसमें ध्यान लगाते हैं ।",
+        "योगानन्दमय अमृत पीवत, होय मगन मतवाला रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yogi Purn Yog Kalaa Se, Dasmen Dhyaan Lagaate Hain.",
+        "Yogaanandamay Amrit Pivat, Hoy Magan Matvaalaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्ञानी पूर्ण ज्ञान कला से, आत्म ध्यान लगाते हैं ।",
+        "ब्रह्मानन्दमय अमृत पीवत, मार भ्रम को भाला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jnyaani Purn Gyaan Kalaa Se, Aatm Dhyaan Lagaate Hain.",
+        "Brahmaanandamay Amrit Pivat, Maar Bhram Ko Bhaalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेमी पूर्ण प्रेम कला से, गोविन्द के गुण गाते हैं ।",
+        "राम नाममय अमृत पीवत, मन को करे उजाला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Premi Purn Prem Kalaa Se, Govind Ke Gun Gaate Hain.",
+        "Raam Naammay Amrit Pivat, Man Ko Kare Ujaalaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "प्रातकाल उठ जैसे ये सब, अमृत रस को पीते हैं ।",
+        "कहे टेऊँ त्यों तुम भी पीवो, जग से होय निराला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Praatkaal Uth Jaise Ye Sab, Amrit Ras Ko Pite Hain.",
+        "Kahe Teun Tyon Tum Bhi Pivo, Jag Se Hoy Niraalaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमृत वेले अमृत बरसे, पिवो भरकर पयाला रे (टेक)."
+      "योगी पूर्ण योग कला से, दसमें ध्यान लगाते हैं ।",
+      "योगानन्दमय अमृत पीवत, होय मगन मतवाला रे ॥१ ॥"
     ],
     [
-      "योगि पुरन योग कला से, दसमेन ध्यान लगाते हैन.",
-      "योगाननदमय अमृत पिवत, होय मगन मतवाला रे. || 1 ||."
+      "ज्ञानी पूर्ण ज्ञान कला से, आत्म ध्यान लगाते हैं ।",
+      "ब्रह्मानन्दमय अमृत पीवत, मार भ्रम को भाला रे ॥२ ॥"
     ],
     [
-      "जनयानि पुरन ज्ञान कला से, ातम ध्यान लगाते हैन.",
-      "बरहमाननदमय अमृत पिवत, मार भरम को भाला रे || 2 ||."
+      "प्रेमी पूर्ण प्रेम कला से, गोविन्द के गुण गाते हैं ।",
+      "राम नाममय अमृत पीवत, मन को करे उजाला रे ॥३ ॥"
     ],
     [
-      "परेमि पुरन प्रेम कला से, गोविंद के गुन गाते हैन.",
-      "राम नाममय अमृत पिवत, मन को करे ुजाला रे ||.3. ||."
-    ],
-    [
-      "परातकाल ुथ जैसे ये सब, अमृत रस को पिते हैन.",
-      "कहे तेऊँ तयोन तुम भि पिवो, जग से होय निराला रे || 4 ||."
+      "प्रातकाल उठ जैसे ये सब, अमृत रस को पीते हैं ।",
+      "कहे टेऊँ त्यों तुम भी पीवो, जग से होय निराला रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amrit Vele Amrit Barse, Pivo Bharkar Pyaalaa Re (Tek)."
-    ],
-    [
       "Yogi Purn Yog Kalaa Se, Dasmen Dhyaan Lagaate Hain.",
-      "Yogaanandamay Amrit Pivat, Hoy Magan Matvaalaa Re. || 1 ||."
+      "Yogaanandamay Amrit Pivat, Hoy Magan Matvaalaa Re || 1 ||"
     ],
     [
-      "Jnyaani Purn Jnyaan Kalaa Se, Aatm Dhyaan Lagaate Hain.",
-      "Brahmaanandamay Amrit Pivat, Maar Bhram Ko Bhaalaa Re || 2 ||."
+      "Jnyaani Purn Gyaan Kalaa Se, Aatm Dhyaan Lagaate Hain.",
+      "Brahmaanandamay Amrit Pivat, Maar Bhram Ko Bhaalaa Re || 2 ||"
     ],
     [
       "Premi Purn Prem Kalaa Se, Govind Ke Gun Gaate Hain.",
-      "Raam Naammay Amrit Pivat, Man Ko Kare Ujaalaa Re ||.3. ||."
+      "Raam Naammay Amrit Pivat, Man Ko Kare Ujaalaa Re || 3 ||"
     ],
     [
       "Praatkaal Uth Jaise Ye Sab, Amrit Ras Ko Pite Hain.",
-      "Kahe Teun Tyon Tum Bhi Pivo, Jag Se Hoy Niraalaa Re || 4 ||."
+      "Kahe Teun Tyon Tum Bhi Pivo, Jag Se Hoy Niraalaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 5 || 37 || ||",
+    "अमृत वेले अमृत बरसे, पीवो भरकर प्याला रे",
     "Amrit Vele Amrit Barse, Pivo Bharkar Pyaalaa Re",
-    "अमृत वेले अमृत बरसे, पिवो भरकर पयाला रे"
+    "राग प्रभाती भजन 5",
+    "Raag Prabhaati Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 37,
+  "displayOrder": 5,
+  "overallOrder": 37,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 44",
+  "updatedAt": "2026-10-26"
 }

@@ -2,50 +2,79 @@
   "id": "bhajan-0203",
   "slug": "mere-man-mat-kar-tu-ahankaar",
   "categoryId": "raag-tori",
-  "title": "मेरे मन मत कर तु हनकार",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "मेरे मन मत कर तूं अहंकार",
   "romanTitle": "Mere Man Mat Kar Tu Ahankaar",
-  "firstLine": "Mere Man Mat Kar Tu Ahankaar. Sundar Dehi Dekh N Bhulo Ik Din Hove Chhaar (Tek).",
+  "firstLine": "Mere Man Mat Kar Tu Ahankaar.",
+  "heading": "।। राग टोड़ी भजन ।। ११ ।। २०३।।",
+  "tek": [
+    "मेरे मन मत कर तूं अहंकार ।",
+    "सुन्दर देही देख न भूलो इक दिन होवे छार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Mat Kar Tu Ahankaar.",
+    "Sundar Dehi Dekh Na Bhulo Ik Din Hove Chhaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नर अभिमानी महा अज्ञानी रहत सदा गेंवार ।",
+        "अपने को अति ऊँचा मानत करते पाप अपार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nar Abhimaani Mahaa Ajnyaani Rahat Sadaa Genvaar.",
+        "Apne Ko Ati Unchaa Maanat Karte Paap Apaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धन जोबन का मान त्यागे क्षमा गरीबी धार ।",
+        "कहे टेऊँ सुख माहिं गरीबी कहते सन्त पुकार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dhan Joban Kaa Maan Tyaage Kshamaa Garibi Dhaar.",
+        "Kahe Teun Sukh Maahin Garibi Kahte Sant Pukaar || 2 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन मत कर तु हनकार.",
-      "सुनदर देही देख न भुलो िक दीन होवे चहार (टेक)."
+      "नर अभिमानी महा अज्ञानी रहत सदा गेंवार ।",
+      "अपने को अति ऊँचा मानत करते पाप अपार ॥१ ॥"
     ],
     [
-      "नर भिमानि महा जनयानि रहत सदा गेनवार.",
-      "पने को ति ुनचा मानत करते पाप पार || 1. ||."
-    ],
-    [
-      "धन जोबन का मान तयागे कशमा गरिबि धार.",
-      "कहे तेऊँ सुख माहिन गरिबि कहते संत पुकार || 2 ||."
+      "धन जोबन का मान त्यागे क्षमा गरीबी धार ।",
+      "कहे टेऊँ सुख माहिं गरीबी कहते सन्त पुकार ॥२ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Mat Kar Tu Ahankaar.",
-      "Sundar Dehi Dekh N Bhulo Ik Din Hove Chhaar (Tek)."
-    ],
-    [
       "Nar Abhimaani Mahaa Ajnyaani Rahat Sadaa Genvaar.",
-      "Apne Ko Ati Unchaa Maanat Karte Paap Apaar || 1. ||."
+      "Apne Ko Ati Unchaa Maanat Karte Paap Apaar || 1 ||"
     ],
     [
       "Dhan Joban Kaa Maan Tyaage Kshamaa Garibi Dhaar.",
-      "Kahe Teun Sukh Maahin Garibi Kahte Sant Pukaar || 2 ||."
+      "Kahe Teun Sukh Maahin Garibi Kahte Sant Pukaar || 2 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tori Bhajan || 11 || 203 ||",
+    "मेरे मन मत कर तूं अहंकार",
     "Mere Man Mat Kar Tu Ahankaar",
-    "मेरे मन मत कर तु हनकार"
+    "राग तोड़ी भजन 11",
+    "Raag Tori Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 203,
+  "displayOrder": 11,
+  "overallOrder": 203,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 130",
+  "updatedAt": "2026-10-26"
 }

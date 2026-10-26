@@ -2,70 +2,115 @@
   "id": "bhajan-0119",
   "slug": "puran-aatam-ik-ras-hai-yah-chetan-chidu-aakaas",
   "categoryId": "raag-aasaa",
-  "title": "पुरन ातम िक रस है यह, चेतन चिदु ाकास",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "पूरण आतम इक रस है यह, चेतन चिदू आकास",
   "romanTitle": "Puran Aatam Ik Ras Hai Yah, Chetan Chidu Aakaas",
   "firstLine": "Puran Aatam Ik Ras Hai Yah, Chetan Chidu Aakaas (Tek).",
+  "heading": "।। राग आसा भजन ।। ५७ ।। ११९।।",
+  "tek": [
+    "पूरण आतम इक रस है यह, चेतन चिदू आकास ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Puran Aatam Ik Ras Hai Yah, Chetan Chidu Aakaas (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अजर अमर अविनासी जांको काल करे नहिं नास ।",
+        "मन बुद्धि वाणी इन्द्रिय अगोचर साक्षी स्वयं प्रकास ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ajar Amar Avinaasi Jaanko Kaal Kare Nahin Naas.",
+        "Man Buddhi Vaani Indriy Agochar Saakshi Svayan Prakaas || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अस्ति भाति प्रिय रूप से सोई सब घट करत निवास ।",
+        "दूध माहिं ज्यों घृत व्यापक पुष्प मधे ज्यों वास ॥२ ॥"
+      ],
+      "romanLines": [
+        "Asti Bhaati Priy Rup Se Soi Sab Ghat Karat Nivaas.",
+        "Dudh Maahin Jyon Ghrit Vyaapak Pushp Madhe Jyon Vaas || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पाप ताप से रहित सदा सो आनन्द घन की रास ।",
+        "तीन देह गुण तीन अतीता हृदय करत हुलास ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paap Taap Se Rahit Sadaa So Aanand Ghan Ki Raas.",
+        "Tin Deh Gun Tin Atitaa Hriday Karat Hulaas || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले गुरु से युक्ती कीजे अनन्य अभ्यास ।",
+        "पांच कोष का पड़दा तोड़े देखो ब्रह्मा विलास ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Guru Se Yukti Kije Anany Abhyaas.",
+        "Paanch Kosh Kaa Pardaa Tore Dekho Brahmaa Vilaas || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पुरन ातम िक रस है यह, चेतन चिदु ाकास (टेक)."
+      "अजर अमर अविनासी जांको काल करे नहिं नास ।",
+      "मन बुद्धि वाणी इन्द्रिय अगोचर साक्षी स्वयं प्रकास ॥१ ॥"
     ],
     [
-      "जर मर विनासि जानको काल करे नहिन नास.",
-      "मन बुदधि वाणी िनदरिय गोचर साक्षी सवयन परकास. || 1. ||."
+      "अस्ति भाति प्रिय रूप से सोई सब घट करत निवास ।",
+      "दूध माहिं ज्यों घृत व्यापक पुष्प मधे ज्यों वास ॥२ ॥"
     ],
     [
-      "थग",
-      "सति भाति परिय रुप से सोि सब घत करत निवास."
+      "पाप ताप से रहित सदा सो आनन्द घन की रास ।",
+      "तीन देह गुण तीन अतीता हृदय करत हुलास ॥३ ॥"
     ],
     [
-      "दुध माहिन जयोन घरित वयापक पुशप मधे जयोन वास || 2 ||."
-    ],
-    [
-      "पाप ताप से रहित सदा सो आनंद घन कि रास.",
-      "तिन देह गुन तिन तिता हरिदय करत हुलास || 3 ||."
-    ],
-    [
-      "कहे तेऊँ ले गुरु से युकति किजे ननय भयास.",
-      "पानच कोश का परदा तोरे देखो बरहम विलास || 4. ||."
+      "कहे टेऊँ ले गुरु से युक्ती कीजे अनन्य अभ्यास ।",
+      "पांच कोष का पड़दा तोड़े देखो ब्रह्मा विलास ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Puran Aatam Ik Ras Hai Yah, Chetan Chidu Aakaas (Tek)."
-    ],
-    [
       "Ajar Amar Avinaasi Jaanko Kaal Kare Nahin Naas.",
-      "Man Buddhi Vaani Indriy Agochar Saakshi Svayan Prakaas. || 1. ||."
+      "Man Buddhi Vaani Indriy Agochar Saakshi Svayan Prakaas || 1 ||"
     ],
     [
-      "Thag",
-      "Asti Bhaati Priy Rup Se Soi Sab Ghat Karat Nivaas."
-    ],
-    [
-      "Dudh Maahin Jyon Ghrit Vyaapak Pushp Madhe Jyon Vaas || 2 ||."
+      "Asti Bhaati Priy Rup Se Soi Sab Ghat Karat Nivaas.",
+      "Dudh Maahin Jyon Ghrit Vyaapak Pushp Madhe Jyon Vaas || 2 ||"
     ],
     [
       "Paap Taap Se Rahit Sadaa So Aanand Ghan Ki Raas.",
-      "Tin Deh Gun Tin Atitaa Hriday Karat Hulaas || 3 ||."
+      "Tin Deh Gun Tin Atitaa Hriday Karat Hulaas || 3 ||"
     ],
     [
       "Kahe Teun Le Guru Se Yukti Kije Anany Abhyaas.",
-      "Paanch Kosh Kaa Pardaa Tore Dekho Brahma Vilaas || 4. ||."
+      "Paanch Kosh Kaa Pardaa Tore Dekho Brahmaa Vilaas || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 57 || 119 ||",
+    "पूरण आतम इक रस है यह, चेतन चिदू आकास",
     "Puran Aatam Ik Ras Hai Yah, Chetan Chidu Aakaas",
-    "पुरन ातम िक रस है यह, चेतन चिदु ाकास"
+    "राग आसा भजन 57",
+    "Raag Aasaa Bhajan 57"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 119,
+  "displayOrder": 57,
+  "overallOrder": 119,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 85",
+  "updatedAt": "2026-10-26"
 }

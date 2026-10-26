@@ -2,46 +2,106 @@
   "id": "bhajan-0387",
   "slug": "saadho-main-hun-keval-raam",
   "categoryId": "raag-tilang",
-  "title": "साधो मैं हुन केवल राम",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "साधो मैं हूँ केवल राम",
   "romanTitle": "Saadho Main Hun Keval Raam",
-  "firstLine": "Saadho Main Hun Keval Raam. Mujh Bin Dujaa Hai Naa Koi, Meri Mujh Pranaam (Tek).",
+  "firstLine": "Saadho Main Hun Keval Raam.",
+  "heading": "।। राग तिलंग भजन ।। २४ ।। ३८८।।",
+  "tek": [
+    "साधो मैं हूँ केवल राम ।",
+    "मुझ बिन दूजा है ना कोई, मेरी मुझ प्रणाम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho Main Hun Keval Raam.",
+    "Mujh Bin Dujaa Hai Naa Koi, Meri Mujh Pranaam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आदि भी मैं हूँ अन्त भी मैं हैँ, मध्य भी मुझको जान ।",
+        "देश काल का छेद न मुझ में, मैं हूँ अबण्ड अकाम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aadi Bhi Main Hun Ant Bhi Main Hain, Madhy Bhi Mujhko Jaan.",
+        "Desh Kaal Kaa Chhed Na Mujh Men, Main Hun Aband Akaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अब तक किससे नाहिं मिला मैं, मुझ से मिला न कोय ।",
+        "होय अलग तो मेला होवे, मैं हूँ पूरण धाम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ab Tak Kisse Naahin Milaa Main, Mujh Se Milaa Na Koy.",
+        "Hoy Alag To Melaa Hove, Main Hun Puran Dhaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अब तक किसको ना मैं देखा, ना देखा किस मोहि ।",
+        "ट्वैत माहिं तो देखन बनता, मैं अद्वैत अलकाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ab Tak Kisko Naa Main Dekhaa, Naa Dekhaa Kis Mohi.",
+        "Tvait Maahin To Dekhan Bantaa, Main Advait Alkaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहने में तो नाना भासत, बिन कहने से एक ।",
+        "एक दोय से मैं हूँ न्यारा, शब्द अतीत अनाम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahne Men To Naanaa Bhaasat, Bin Kahne Se Ek.",
+        "Ek Doy Se Main Hun Nyaaraa, Shabd Atit Anaam || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ कछु कहत बने नहिं, कैसे कहिया जाय ।",
+        "रूप हमारा अगम अगोचर, अद्भुत अति अभिराम ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kachhu Kahat Bane Nahin, Kaise Kahiyaa Jaay.",
+        "Rup Hamaaraa Agam Agochar, Adbhut Ati Abhiraam || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधो मैं हुन केवल राम.",
-      "मुझ बिन दुजा है ना कोि, मेरि मुझ परनाम (टेक)."
+      "आदि भी मैं हूँ अन्त भी मैं हैँ, मध्य भी मुझको जान ।",
+      "देश काल का छेद न मुझ में, मैं हूँ अबण्ड अकाम ॥१ ॥"
     ],
     [
-      "ादि भि मैं हुन नत भि मैं हैन, मधय भि मुझको जान.",
-      "देश काल का चहेद न मुझ मेन, मैं हुन बनद काम || 1 ||"
+      "अब तक किससे नाहिं मिला मैं, मुझ से मिला न कोय ।",
+      "होय अलग तो मेला होवे, मैं हूँ पूरण धाम ॥२ ॥"
     ],
     [
-      "ब तक किससे नाहिन मिला मैं, मुझ से मिला न कोय.",
-      "होय लग तो मेला होवे, मैं हुन पुरन धाम || 2 ||"
+      "अब तक किसको ना मैं देखा, ना देखा किस मोहि ।",
+      "ट्वैत माहिं तो देखन बनता, मैं अद्वैत अलकाम ॥३ ॥"
     ],
     [
-      "ब तक किसको ना मैं देखा, ना देखा किस मोहि.",
-      "तवैत माहिन तो देखन बनता, मैं दवैत लकाम || 3 ||"
+      "कहने में तो नाना भासत, बिन कहने से एक ।",
+      "एक दोय से मैं हूँ न्यारा, शब्द अतीत अनाम ॥४ ॥"
     ],
     [
-      "कहने मेन तो नाना भासत, बिन कहने से ेक.",
-      "ेक दोय से मैं हुन नयारा, शबद तित नाम || 4 ||."
-    ],
-    [
-      "कहे तेऊँ कचहु कहत बने नहिन, कैसे कहिया जाय.",
-      "रुप हमारा गम गोचर, दभुत ति भिराम || 5 ||."
+      "कहे टेऊँ कछु कहत बने नहिं, कैसे कहिया जाय ।",
+      "रूप हमारा अगम अगोचर, अद्भुत अति अभिराम ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadho Main Hun Keval Raam.",
-      "Mujh Bin Dujaa Hai Naa Koi, Meri Mujh Pranaam (Tek)."
-    ],
-    [
       "Aadi Bhi Main Hun Ant Bhi Main Hain, Madhy Bhi Mujhko Jaan.",
-      "Desh Kaal Kaa Chhed N Mujh Men, Main Hun Aband Akaam || 1 ||"
+      "Desh Kaal Kaa Chhed Na Mujh Men, Main Hun Aband Akaam || 1 ||"
     ],
     [
-      "Ab Tak Kisse Naahin Milaa Main, Mujh Se Milaa N Koy.",
+      "Ab Tak Kisse Naahin Milaa Main, Mujh Se Milaa Na Koy.",
       "Hoy Alag To Melaa Hove, Main Hun Puran Dhaam || 2 ||"
     ],
     [
@@ -50,27 +110,28 @@
     ],
     [
       "Kahne Men To Naanaa Bhaasat, Bin Kahne Se Ek.",
-      "Ek Doy Se Main Hun Nyaaraa, Shabd Atit Anaam || 4 ||."
+      "Ek Doy Se Main Hun Nyaaraa, Shabd Atit Anaam || 4 ||"
     ],
     [
       "Kahe Teun Kachhu Kahat Bane Nahin, Kaise Kahiyaa Jaay.",
-      "Rup Hamaaraa Agam Agochar, Adbhut Ati Abhiraam || 5 ||."
+      "Rup Hamaaraa Agam Agochar, Adbhut Ati Abhiraam || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 24 || 388 ||",
+    "साधो मैं हूँ केवल राम",
     "Saadho Main Hun Keval Raam",
-    "साधो मैं हुन केवल राम"
+    "राग तिलंग भजन 24",
+    "Raag Tilang Bhajan 24"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 387,
+  "displayOrder": 24,
+  "overallOrder": 387,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 227",
+  "updatedAt": "2026-10-26"
 }

@@ -1,36 +1,74 @@
 {
-  "id": "bhajan-0672",
+  "id": "bhajan-0670",
   "slug": "sharan-le-raam-ki-bhaai-vahi-bhav-sindhu-taaregaa",
   "categoryId": "raag-pahaari",
-  "title": "शरन ले राम कि भाि, वहि भव सिनधु तारेगा",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "शरण ले राम की भाई, वही भव सिन्धु तारेगा",
   "romanTitle": "Sharan Le Raam Ki Bhaai, Vahi Bhav Sindhu Taaregaa",
-  "firstLine": "Sharan Le Raam Ki Bhaai, Vahi Bhav Sindhu Taaregaa. Sarv Sukh Raam Ke Sharni, Raam Tumko Udhaaregaa (Tek).",
+  "firstLine": "Sharan Le Raam Ki Bhaai, Vahi Bhav Sindhu Taaregaa.",
+  "heading": "।। राग पहाड़ी भजन ॥। २३ ।। ६७१॥।",
+  "tek": [
+    "शरण ले राम की भाई, वही भव सिन्धु तारेगा ।",
+    "सर्व सुख राम के शरणी, राम तुमको उधारेगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sharan Le Raam Ki Bhaai, Vahi Bhav Sindhu Taaregaa.",
+    "Sarv Sukh Raam Ke Sharni, Raam Tumko Udhaaregaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तजो तुम और की आसा, करो मन राम भरवासा ।",
+        "शरण पालक बिरद उसका, वही दुख दर्द टारेगा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tajo Tum Aur Ki Aasaa, Karo Man Raam Bharvaasaa.",
+        "Sharan Paalak Birad Uskaa, Vahi Dukh Dard Taaregaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तजे जो इईश आधारा, भरोसा लेत संसारा ।",
+        "ईहां ऊँहां दुखी होकर, जोनि चौरासी धारेगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taje Jo Iish Aadhaaraa, Bharosaa Let Sansaaraa.",
+        "Ihaan Unhaan Dukhi Hokar, Joni Chauraasi Dhaaregaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरी की शरन जो पड़ते, रक्षा तिनकी हरी करते ।",
+        "कहे टेऊँ सो तेरा भी, जन्म फेरा निवारेगा ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Hari Ki Sharan Jo Parte, Rakshaa Tinki Hari Karte.",
+        "Kahe Teun So Teraa Bhi, Janm Pheraa Nivaaregaa || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शरन ले राम कि भाि, वहि भव सिनधु तारेगा.",
-      "सर्व सुख राम के शरनि, राम तुमको ुधारेगा (टेक)."
+      "तजो तुम और की आसा, करो मन राम भरवासा ।",
+      "शरण पालक बिरद उसका, वही दुख दर्द टारेगा ॥१ ॥"
     ],
     [
-      "तजो तुम ौर कि ासा, करो मन राम भरवासा.",
-      "शरन पालक बिरद ुसका, वहि दुःख दरद तारेगा || 1 ||."
+      "तजे जो इईश आधारा, भरोसा लेत संसारा ।",
+      "ईहां ऊँहां दुखी होकर, जोनि चौरासी धारेगा ॥२ ॥"
     ],
     [
-      "तजे जो ीश ाधारा, भरोसा लेत सनसारा.",
-      "िहान ुनहान दुखि होकर, जोनि चौरासि धारेगा || 2 ||"
-    ],
-    [
-      "हरि कि शरन जो परते, रकशा तिनकि हरि करते.",
-      "कहे तेऊँ सो तेरा भि, जनम फेरा निवारेगा ||.3े ||."
+      "हरी की शरन जो पड़ते, रक्षा तिनकी हरी करते ।",
+      "कहे टेऊँ सो तेरा भी, जन्म फेरा निवारेगा ॥ ।३े ॥ ।"
     ]
   ],
   "romanLyrics": [
     [
-      "Sharan Le Raam Ki Bhaai, Vahi Bhav Sindhu Taaregaa.",
-      "Sarv Sukh Raam Ke Sharni, Raam Tumko Udhaaregaa (Tek)."
-    ],
-    [
       "Tajo Tum Aur Ki Aasaa, Karo Man Raam Bharvaasaa.",
-      "Sharan Paalak Birad Uskaa, Vahi Dukh Dard Taaregaa || 1 ||."
+      "Sharan Paalak Birad Uskaa, Vahi Dukh Dard Taaregaa || 1 ||"
     ],
     [
       "Taje Jo Iish Aadhaaraa, Bharosaa Let Sansaaraa.",
@@ -38,22 +76,24 @@
     ],
     [
       "Hari Ki Sharan Jo Parte, Rakshaa Tinki Hari Karte.",
-      "Kahe Teun So Teraa Bhi, Janm Pheraa Nivaaregaa ||.3E ||."
+      "Kahe Teun So Teraa Bhi, Janm Pheraa Nivaaregaa || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan ||. 23 || 671 ||.",
+    "शरण ले राम की भाई, वही भव सिन्धु तारेगा",
     "Sharan Le Raam Ki Bhaai, Vahi Bhav Sindhu Taaregaa",
-    "शरन ले राम कि भाि, वहि भव सिनधु तारेगा"
+    "राग पहाड़ी भजन 23",
+    "Raag Pahaari Bhajan 23"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 672,
+  "displayOrder": 23,
+  "overallOrder": 670,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 357",
+  "updatedAt": "2026-10-26"
 }

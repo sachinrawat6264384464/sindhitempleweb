@@ -1,0 +1,109 @@
+{
+  "id": "bhajan-0322",
+  "slug": "main-dubat-thaa-bhavsaagar-men-guru-naam-ki-naav-charhaai-diyaa",
+  "categoryId": "raag-zilaa",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "मैं डूबत था भवसागर में, गुरु नाम की नाव चढ़ाइ दीया",
+  "romanTitle": "Main Dubat Thaa Bhavsaagar Men, Guru Naam Ki Naav Charhaai Diyaa",
+  "firstLine": "Main Dubat Thaa Bhavsaagar Men, Guru Naam Ki Naav Charhaai Diyaa (Tek).",
+  "heading": "।। राग ज़िला भजन ।। ९ ।। ३२२॥।",
+  "tek": [
+    "मैं डूबत था भवसागर में, गुरु नाम की नाव चढ़ाइ दीया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Dubat Thaa Bhavsaagar Men, Guru Naam Ki Naav Charhaai Diyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं पाप कर्म को करता था, जग झंगल माहिं विचरता था ।",
+        "नित मोह ममत में मरता था,",
+        "गुरु सबसे मोहि छुड़ाइ दीया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Paap Karm Ko Kartaa Thaa, Jag Jhangal Maahin Vichrataa Thaa.",
+        "Nit Moh Mamat Men Martaa Thaa,",
+        "Guru Sabse Mohi Chhuraai Diyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इस मन में दोष अपारा था, पुनि पांचों चोर विकारा था ।",
+        "उर महा अज्ञान अन्धारा था,",
+        "गुरु ज्ञान से सर्व हटाइ दीया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Is Man Men Dosh Apaaraa Thaa, Puni Paanchon Chor Vikaaraa Thaa.",
+        "Ur Mahaa Ajnyaan Andhaaraa Thaa,",
+        "Guru Gyaan Se Sarv Hataai Diyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ और न जानत था, मैं अपने को तन मानत था ।",
+        "निज आतम को न पछानत था,",
+        "गुरु आतम लाल लखाइ दीया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Aur Na Jaanat Thaa, Main Apne Ko Tan Maanat Thaa.",
+        "Nij Aatam Ko Na Pachhaanat Thaa,",
+        "Guru Aatam Laal Lakhaai Diyaa || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मैं पाप कर्म को करता था, जग झंगल माहिं विचरता था ।",
+      "नित मोह ममत में मरता था,",
+      "गुरु सबसे मोहि छुड़ाइ दीया ॥१ ॥"
+    ],
+    [
+      "इस मन में दोष अपारा था, पुनि पांचों चोर विकारा था ।",
+      "उर महा अज्ञान अन्धारा था,",
+      "गुरु ज्ञान से सर्व हटाइ दीया ॥२ ॥"
+    ],
+    [
+      "कहे टेऊँ और न जानत था, मैं अपने को तन मानत था ।",
+      "निज आतम को न पछानत था,",
+      "गुरु आतम लाल लखाइ दीया ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Main Paap Karm Ko Kartaa Thaa, Jag Jhangal Maahin Vichrataa Thaa.",
+      "Nit Moh Mamat Men Martaa Thaa,",
+      "Guru Sabse Mohi Chhuraai Diyaa || 1 ||"
+    ],
+    [
+      "Is Man Men Dosh Apaaraa Thaa, Puni Paanchon Chor Vikaaraa Thaa.",
+      "Ur Mahaa Ajnyaan Andhaaraa Thaa,",
+      "Guru Gyaan Se Sarv Hataai Diyaa || 2 ||"
+    ],
+    [
+      "Kahe Teun Aur Na Jaanat Thaa, Main Apne Ko Tan Maanat Thaa.",
+      "Nij Aatam Ko Na Pachhaanat Thaa,",
+      "Guru Aatam Laal Lakhaai Diyaa || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मैं डूबत था भवसागर में, गुरु नाम की नाव चढ़ाइ दीया",
+    "Main Dubat Thaa Bhavsaagar Men, Guru Naam Ki Naav Charhaai Diyaa",
+    "राग ज़िला भजन 9",
+    "Raag Zilaa Bhajan 9"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
+  ],
+  "displayOrder": 9,
+  "overallOrder": 322,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 193",
+  "updatedAt": "2026-10-26"
+}

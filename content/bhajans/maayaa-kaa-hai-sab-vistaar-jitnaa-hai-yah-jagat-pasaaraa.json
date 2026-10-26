@@ -1,53 +1,113 @@
 {
-  "id": "bhajan-0875",
+  "id": "bhajan-0873",
   "slug": "maayaa-kaa-hai-sab-vistaar-jitnaa-hai-yah-jagat-pasaaraa",
   "categoryId": "raag-jog",
-  "title": "माया का है सब विसतार, जितना है यह जगत पसारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "माया का है सब विस्तार, जितना है यह जगत पसारा",
   "romanTitle": "Maayaa Kaa Hai Sab Vistaar, Jitnaa Hai Yah Jagat Pasaaraa",
   "firstLine": "Maayaa Kaa Hai Sab Vistaar, Jitnaa Hai Yah Jagat Pasaaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ४५ ।। ८७५।।",
+  "tek": [
+    "माया का है सब विस्तार, जितना है यह जगत पसारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maayaa Kaa Hai Sab Vistaar, Jitnaa Hai Yah Jagat Pasaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "महान शकक्‍्ती है यह माया, ब्रह्मा अखण्ड में खण्ड दिखलाया ।",
+        "जीव इंश जग का जिन्‍सार, ब्रह्मा विष्णू शिव अवतारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mahaan Shakak‍Ti Hai Yah Maayaa, Brahmaa Akhand Men Khand Dikhlaayaa.",
+        "Jiv Insh Jag Kaa Jin‍Saar, Brahmaa Vishnu Shiv Avtaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माया मय सब कर्म सुजाना, श्रुती शास्त्र ज्ञान विज्ञाना ।",
+        "चौरासी लख खानी चार, कारण सूक्ष्म थूल निज़ारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maayaa May Sab Karm Sujaanaa, Shruti Shaastr Gyaan Vijnyaanaa.",
+        "Chauraasi Lakh Khaani Chaar, Kaaran Sukshm Thul Nizaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अदृभुत माया ठाठ बनाया, अनहोता बहु नाच नचाया ।",
+        "मूण्ड चतुर कर चतुर गंवार, राव रंक कर रंक भुवारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Adribhut Maayaa Thaath Banaayaa, Anhotaa Bahu Naach Nachaayaa.",
+        "Mund Chatur Kar Chatur Ganvaar, Raav Rank Kar Rank Bhuvaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "वास्तव में कछु रूप न आसे, ब्रह्म सत्ता से कल्पित भासे ।",
+        "नाम मात्र माया निर्धार, स्वप्ने सम मिथ्या व्यवहारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Vaastav Men Kachhu Rup Na Aase, Brahm Sattaa Se Kalpit Bhaase.",
+        "Naam Maatr Maayaa Nirdhaar, Svapne Sam Mithyaa Vyavhaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "माया मिथ्या चेतन सत्‌ है, तूं चेतन यह तन कल्पित है ।",
+        "कहे टेऊँ यह कर वीचार, स्थित रहिये ब्रह्म मंझारा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Mithyaa Chetan Sat‌ Hai, Tu Chetan Yah Tan Kalpit Hai.",
+        "Kahe Teun Yah Kar Vichaar, Sthit Rahiye Brahm Manjhaaraa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "माया का है सब विसतार, जितना है यह जगत पसारा (टेक)."
+      "महान शकक्‍्ती है यह माया, ब्रह्मा अखण्ड में खण्ड दिखलाया ।",
+      "जीव इंश जग का जिन्‍सार, ब्रह्मा विष्णू शिव अवतारा ॥१ ॥"
     ],
     [
-      "महान शककति है यह माया, बरहम खनद मेन खनद दिखलाया.",
-      "जिव िनश जग का जिनसार, बरहम विशनु शिव वतारा || 1 ||."
+      "माया मय सब कर्म सुजाना, श्रुती शास्त्र ज्ञान विज्ञाना ।",
+      "चौरासी लख खानी चार, कारण सूक्ष्म थूल निज़ारा ॥२ ॥"
     ],
     [
-      "माया मय सब करम सुजाना, शरुति शासतर ज्ञान विजनयाना.",
-      "चौरासि लख खानि चार, कारन सुकशम थुल निzारा || 2 ||."
+      "अदृभुत माया ठाठ बनाया, अनहोता बहु नाच नचाया ।",
+      "मूण्ड चतुर कर चतुर गंवार, राव रंक कर रंक भुवारा ॥३ ॥"
     ],
     [
-      "दरिभुत माया थाथ बनाया, नहोता बहु नाच नचाया.",
-      "मुनद चतुर कर चतुर गनवार, राव रनक कर रनक भुवारा || 3. ||."
+      "वास्तव में कछु रूप न आसे, ब्रह्म सत्ता से कल्पित भासे ।",
+      "नाम मात्र माया निर्धार, स्वप्ने सम मिथ्या व्यवहारा ॥४ ॥"
     ],
     [
-      "वासतव मेन कचहु रुप न ासे, बरहम सतता से कलपित भासे.",
-      "नाम मातर माया निरधार, सवपने सम मिथया वयवहारा || 4 ||"
-    ],
-    [
-      "माया मिथया चेतन सत‌ है, तु चेतन यह तन कलपित है.",
-      "कहे तेऊँ यह कर विचार, सथित रहिये बरहम मनझारा || 5 ||"
+      "माया मिथ्या चेतन सत्‌ है, तूं चेतन यह तन कल्पित है ।",
+      "कहे टेऊँ यह कर वीचार, स्थित रहिये ब्रह्म मंझारा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Maayaa Kaa Hai Sab Vistaar, Jitnaa Hai Yah Jagat Pasaaraa (Tek)."
+      "Mahaan Shakak‍Ti Hai Yah Maayaa, Brahmaa Akhand Men Khand Dikhlaayaa.",
+      "Jiv Insh Jag Kaa Jin‍Saar, Brahmaa Vishnu Shiv Avtaaraa || 1 ||"
     ],
     [
-      "Mahaan Shakak‍Ti Hai Yah Maayaa, Brahma Akhand Men Khand Dikhlaayaa.",
-      "Jiv Insh Jag Kaa Jin‍Saar, Brahma Vishnu Shiv Avtaaraa || 1 ||."
-    ],
-    [
-      "Maayaa May Sab Karm Sujaanaa, Shruti Shaastr Jnyaan Vijnyaanaa.",
-      "Chauraasi Lakh Khaani Chaar, Kaaran Sukshm Thul Nizaaraa || 2 ||."
+      "Maayaa May Sab Karm Sujaanaa, Shruti Shaastr Gyaan Vijnyaanaa.",
+      "Chauraasi Lakh Khaani Chaar, Kaaran Sukshm Thul Nizaaraa || 2 ||"
     ],
     [
       "Adribhut Maayaa Thaath Banaayaa, Anhotaa Bahu Naach Nachaayaa.",
-      "Mund Chatur Kar Chatur Ganvaar, Raav Rank Kar Rank Bhuvaaraa || 3. ||."
+      "Mund Chatur Kar Chatur Ganvaar, Raav Rank Kar Rank Bhuvaaraa || 3 ||"
     ],
     [
-      "Vaastav Men Kachhu Rup N Aase, Brahm Sattaa Se Kalpit Bhaase.",
+      "Vaastav Men Kachhu Rup Na Aase, Brahm Sattaa Se Kalpit Bhaase.",
       "Naam Maatr Maayaa Nirdhaar, Svapne Sam Mithyaa Vyavhaaraa || 4 ||"
     ],
     [
@@ -56,18 +116,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 45 || 875 ||",
+    "माया का है सब विस्तार, जितना है यह जगत पसारा",
     "Maayaa Kaa Hai Sab Vistaar, Jitnaa Hai Yah Jagat Pasaaraa",
-    "माया का है सब विसतार, जितना है यह जगत पसारा"
+    "राग जोग भजन 45",
+    "Raag Jog Bhajan 45"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 875,
+  "displayOrder": 45,
+  "overallOrder": 873,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 461",
+  "updatedAt": "2026-10-26"
 }

@@ -2,70 +2,119 @@
   "id": "bhajan-0388",
   "slug": "khojo-aatam-saar-tan-tere-men-rahtaa-joi",
   "categoryId": "raag-tilang",
-  "title": "खोजो ातम सार, तन तेरे मेन रहता जोि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "खोजो आतम सार, तन तेरे में रहता जोई",
   "romanTitle": "Khojo Aatam Saar, Tan Tere Men Rahtaa Joi",
   "firstLine": "Khojo Aatam Saar, Tan Tere Men Rahtaa Joi (Tek).",
+  "heading": "।। राग तिलंग भजन ।। २५ ।। ३८९।।",
+  "tek": [
+    "खोजो आतम सार, तन तेरे में रहता जोई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Khojo Aatam Saar, Tan Tere Men Rahtaa Joi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अग्नी व्यापक ज्यों बन माहीं, देख सके यह नैन न ताहीं ।",
+        "घर्षण से निर्वार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Agni Vyaapak Jyon Ban Maahin, Dekh Sake Yah Nain Na Taahin.",
+        "Gharshan Se Nirvaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "घृत व्यापक ज्यों पय अन्तर, जैसे तेल तिलों के भीतर ।",
+        "मथने से हो धार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ghrit Vyaapak Jyon Pay Antar, Jaise Tel Tilon Ke Bhitar.",
+        "Mathne Se Ho Dhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ग्रान",
+        "गन्ध बिना ज्यों पुष्प न खाली , मेन्दी में ज्यों व्यापक लाली ।",
+        "मर्दन से इज़िहार ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Graan",
+        "Gandh Binaa Jyon Pushp Na Khaali, Mendi Men Jyon Vyaapak Laali.",
+        "Mardan Se Izihaar || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ त्यों आतम तन में, होत विवेक से प्रगट छिन में ।",
+        "गुरु से ले वीचार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tyon Aatam Tan Men, Hot Vivek Se Pragat Chhin Men.",
+        "Guru Se Le Vichaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "खोजो ातम सार, तन तेरे मेन रहता जोि (टेक)."
+      "अग्नी व्यापक ज्यों बन माहीं, देख सके यह नैन न ताहीं ।",
+      "घर्षण से निर्वार ॥१ ॥"
     ],
     [
-      "गनि वयापक जयोन बन माहिन, देख सके यह नैन न ताहिन.",
-      "घरशन से निरवार || 1 ||"
+      "घृत व्यापक ज्यों पय अन्तर, जैसे तेल तिलों के भीतर ।",
+      "मथने से हो धार ॥२ ॥"
     ],
     [
-      "घरित वयापक जयोन पय नतर, जैसे तेल तिलोन के भितर.",
-      "मथने से हो धार ||.2 ||"
+      "ग्रान",
+      "गन्ध बिना ज्यों पुष्प न खाली , मेन्दी में ज्यों व्यापक लाली ।",
+      "मर्दन से इज़िहार ॥ ।३े ॥ ।"
     ],
     [
-      "गरान",
-      "गनध बिना जयोन पुशप न खालि, मेनदि मेन जयोन वयापक लालि."
-    ],
-    [
-      "मरदन से िzिहार ||.3े ||.",
-      "कहे तेऊँ तयोन ातम तन मेन, होत विवेक से परगत चहिन मेन."
-    ],
-    [
-      "गुरु से ले विचार ||.4. ||."
+      "कहे टेऊँ त्यों आतम तन में, होत विवेक से प्रगट छिन में ।",
+      "गुरु से ले वीचार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Khojo Aatam Saar, Tan Tere Men Rahtaa Joi (Tek)."
-    ],
-    [
-      "Agni Vyaapak Jyon Ban Maahin, Dekh Sake Yah Nain N Taahin.",
+      "Agni Vyaapak Jyon Ban Maahin, Dekh Sake Yah Nain Na Taahin.",
       "Gharshan Se Nirvaar || 1 ||"
     ],
     [
       "Ghrit Vyaapak Jyon Pay Antar, Jaise Tel Tilon Ke Bhitar.",
-      "Mathne Se Ho Dhaar ||.2 ||"
+      "Mathne Se Ho Dhaar || 2 ||"
     ],
     [
       "Graan",
-      "Gandh Binaa Jyon Pushp N Khaali, Mendi Men Jyon Vyaapak Laali."
+      "Gandh Binaa Jyon Pushp Na Khaali, Mendi Men Jyon Vyaapak Laali.",
+      "Mardan Se Izihaar || 3E ||"
     ],
     [
-      "Mardan Se Izihaar ||.3E ||.",
-      "Kahe Teun Tyon Aatam Tan Men, Hot Vivek Se Pragat Chhin Men."
-    ],
-    [
-      "Guru Se Le Vichaar ||.4. ||."
+      "Kahe Teun Tyon Aatam Tan Men, Hot Vivek Se Pragat Chhin Men.",
+      "Guru Se Le Vichaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 25 || 389 ||",
+    "खोजो आतम सार, तन तेरे में रहता जोई",
     "Khojo Aatam Saar, Tan Tere Men Rahtaa Joi",
-    "खोजो ातम सार, तन तेरे मेन रहता जोि"
+    "राग तिलंग भजन 25",
+    "Raag Tilang Bhajan 25"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 388,
+  "displayOrder": 25,
+  "overallOrder": 388,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 227",
+  "updatedAt": "2026-10-26"
 }

@@ -1,75 +1,109 @@
 {
-  "id": "bhajan-0825",
+  "id": "bhajan-0823",
   "slug": "karle-karle-hari-bhajan-sukhdaai-hovhin-ant-sahaai",
   "categoryId": "raag-maanjh",
-  "title": "करले करले हरि भजन सुखदाि, होवहिन नत सहाि",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "करले करले हरी भजन सुखदाई, होवहिं अन्त सहाई",
   "romanTitle": "Karle Karle Hari Bhajan Sukhdaai, Hovhin Ant Sahaai",
   "firstLine": "Karle Karle Hari Bhajan Sukhdaai, Hovhin Ant Sahaai (Tek).",
+  "heading": "।। राग मांझ भजन ।। १२ ।। ८२५।॥।",
+  "tek": [
+    "करले करले हरी भजन सुखदाई, होवहिं अन्त सहाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Karle Hari Bhajan Sukhdaai, Hovhin Ant Sahaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरी भजन उर आनन्द भरता, मन की ममता चिन्ता हरता,",
+        "जो जन हरि का सुमरन करता, सो जन भव सागर से तरता,",
+        "ग्रन्थों ने महिमा गाई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Bhajan Ur Aanand Bhartaa, Man Ki Mamtaa Chintaa Hartaa,",
+        "Jo Jan Hari Kaa Sumran Kartaa, So Jan Bhav Saagar Se Tartaa,",
+        "Granthon Ne Mahimaa Gaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरी भजन जम दूत हटावे, जनम जनम के पाप मिटावे,",
+        "श्रद्धा से जो हरिगुन गावे, सो जन हरि के हृदय भावे,",
+        "सन्तों ने साख सुनाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Bhajan Jam Dut Hataave, Janam Janam Ke Paap Mitaave,",
+        "Shraddhaa Se Jo Harigun Gaave, So Jan Hari Ke Hriday Bhaave,",
+        "Santon Ne Saakh Sunaai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरी भजन हरि साथ मिलावे, कहे टेऊँ दुख द्वन्द्र गलावे,",
+        "सुख की सेजा माहिं सुलावे, अन्त में मो क्ष धाम दिलावे,",
+        "यह गुरु बात बताई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Bhajan Hari Saath Milaave, Kahe Teun Dukh Dvandr Galaave,",
+        "Sukh Ki Sejaa Maahin Sulaave, Ant Men Mo Ksh Dhaam Dilaave,",
+        "Yah Guru Baat Bataai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले करले हरि भजन सुखदाि, होवहिन नत सहाि (टेक)."
+      "हरी भजन उर आनन्द भरता, मन की ममता चिन्ता हरता,",
+      "जो जन हरि का सुमरन करता, सो जन भव सागर से तरता,",
+      "ग्रन्थों ने महिमा गाई ॥१ ॥"
     ],
     [
-      "हरि भजन ुर आनंद भरता, मन कि ममता चिनता हरता,",
-      "जो जन हरि का सुमरन करता, सो जन भव सागर से तरता,"
+      "हरी भजन जम दूत हटावे, जनम जनम के पाप मिटावे,",
+      "श्रद्धा से जो हरिगुन गावे, सो जन हरि के हृदय भावे,",
+      "सन्तों ने साख सुनाई ॥२ ॥"
     ],
     [
-      "गरनथोन ने महिमा गाि || 1 ||."
-    ],
-    [
-      "हरि भजन जम दुत हतावे, जनम जनम के पाप मितावे,",
-      "शरदधा से जो हरिगुन गावे, सो जन हरि के हरिदय भावे,"
-    ],
-    [
-      "सनतोन ने साख सुनाि || 2 ||"
-    ],
-    [
-      "हरि भजन हरि साथ मिलावे, कहे तेऊँ दुःख दवनदर गलावे,",
-      "सुख कि सेजा माहिन सुलावे, नत मेन मो कश धाम दिलावे,"
-    ],
-    [
-      "यह गुरु बात बताि ||.3 ||"
+      "हरी भजन हरि साथ मिलावे, कहे टेऊँ दुख द्वन्द्र गलावे,",
+      "सुख की सेजा माहिं सुलावे, अन्त में मो क्ष धाम दिलावे,",
+      "यह गुरु बात बताई ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Karle Hari Bhajan Sukhdaai, Hovhin Ant Sahaai (Tek)."
-    ],
-    [
       "Hari Bhajan Ur Aanand Bhartaa, Man Ki Mamtaa Chintaa Hartaa,",
-      "Jo Jan Hari Kaa Sumran Kartaa, So Jan Bhav Saagar Se Tartaa,"
-    ],
-    [
-      "Granthon Ne Mahimaa Gaai || 1 ||."
+      "Jo Jan Hari Kaa Sumran Kartaa, So Jan Bhav Saagar Se Tartaa,",
+      "Granthon Ne Mahimaa Gaai || 1 ||"
     ],
     [
       "Hari Bhajan Jam Dut Hataave, Janam Janam Ke Paap Mitaave,",
-      "Shraddhaa Se Jo Harigun Gaave, So Jan Hari Ke Hriday Bhaave,"
-    ],
-    [
+      "Shraddhaa Se Jo Harigun Gaave, So Jan Hari Ke Hriday Bhaave,",
       "Santon Ne Saakh Sunaai || 2 ||"
     ],
     [
       "Hari Bhajan Hari Saath Milaave, Kahe Teun Dukh Dvandr Galaave,",
-      "Sukh Ki Sejaa Maahin Sulaave, Ant Men Mo Ksh Dhaam Dilaave,"
-    ],
-    [
-      "Yah Guru Baat Bataai ||.3 ||"
+      "Sukh Ki Sejaa Maahin Sulaave, Ant Men Mo Ksh Dhaam Dilaave,",
+      "Yah Guru Baat Bataai || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maanjh Bhajan || 12 || 825. ||.",
+    "करले करले हरी भजन सुखदाई, होवहिं अन्त सहाई",
     "Karle Karle Hari Bhajan Sukhdaai, Hovhin Ant Sahaai",
-    "करले करले हरि भजन सुखदाि, होवहिन नत सहाि"
+    "राग मांझ भजन 12",
+    "Raag Maanjh Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 825,
+  "displayOrder": 12,
+  "overallOrder": 823,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 437",
+  "updatedAt": "2026-10-26"
 }

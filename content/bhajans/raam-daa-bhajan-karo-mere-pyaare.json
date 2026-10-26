@@ -2,84 +2,131 @@
   "id": "bhajan-0073",
   "slug": "raam-daa-bhajan-karo-mere-pyaare",
   "categoryId": "raag-aasaa",
-  "title": "राम दा भजन करो मेरे पयारे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "राम दा भजन करो मेरे प्यारे",
   "romanTitle": "Raam Daa Bhajan Karo Mere Pyaare",
   "firstLine": "Raam Daa Bhajan Karo Mere Pyaare (Tek).",
+  "heading": "।। राग आसा भजन ।। ११ ।। ७३।।",
+  "tek": [
+    "राम दा भजन करो मेरे प्यारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Daa Bhajan Karo Mere Pyaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम दा भजन करे सोई बन्दिया,",
+        "राम दे भजन बिन जानो गन्दिया ।",
+        "राम दा भजन भव पार उतारे ॥9 ॥"
+      ],
+      "romanLines": [
+        "Raam Daa Bhajan Kare Soi Bandiyaa,",
+        "Raam De Bhajan Bin Jaano Gandiyaa.",
+        "Raam Daa Bhajan Bhav Paar Utaare || 9 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "फूल खुशबूड बिना नहीं मोहन्दा,",
+        "मनुष त्यों भजन बिन नहीं सोहन्दा ।",
+        "राम भजन से ही यश होय अपारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Phul Khushbud Binaa Nahin Mohandaa,",
+        "Manush Tyon Bhajan Bin Nahin Sohandaa.",
+        "Raam Bhajan Se Hi Yash Hoy Apaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पापी कर पाप बहु माया जोड़ंदा,",
+        "आवे नहिं काम ताहिं अन्त लोड़ंदा ।",
+        "राम के भजन बिन नरक सिधारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paapi Kar Paap Bahu Maayaa Jorandaa,",
+        "Aave Nahin Kaam Taahin Ant Lorandaa.",
+        "Raam Ke Bhajan Bin Narak Sidhaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मनुष तन पाय जो न भजन करंदा,",
+        "कहे टेऊँ अन्त दुखी होय मरंदा ।",
+        "तांते तुम राम भजो सन्त पुकारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Manush Tan Paay Jo Na Bhajan Karandaa,",
+        "Kahe Teun Ant Dukhi Hoy Marandaa.",
+        "Taante Tum Raam Bhajo Sant Pukaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम दा भजन करो मेरे पयारे (टेक)."
+      "राम दा भजन करे सोई बन्दिया,",
+      "राम दे भजन बिन जानो गन्दिया ।",
+      "राम दा भजन भव पार उतारे ॥9 ॥"
     ],
     [
-      "राम दा भजन करे सोि बनदिया,",
-      "राम दे भजन बिन जानो गनदिया."
+      "फूल खुशबूड बिना नहीं मोहन्दा,",
+      "मनुष त्यों भजन बिन नहीं सोहन्दा ।",
+      "राम भजन से ही यश होय अपारे ॥२ ॥"
     ],
     [
-      "राम दा भजन भव पार ुतारे.9 ||",
-      "फुल खुशबुद बिना नहिन मोहनदा,"
+      "पापी कर पाप बहु माया जोड़ंदा,",
+      "आवे नहिं काम ताहिं अन्त लोड़ंदा ।",
+      "राम के भजन बिन नरक सिधारे ॥३ ॥"
     ],
     [
-      "मनुश तयोन भजन बिन नहिन सोहनदा.",
-      "राम भजन से हि यश होय पारे || 2 ||"
-    ],
-    [
-      "पापि कर पाप बहु माया जोरनदा,",
-      "ावे नहिन काम ताहिन नत लोरनदा."
-    ],
-    [
-      "राम के भजन बिन नरक सिधारे || 3 ||"
-    ],
-    [
-      "मनुश तन पाय जो न भजन करनदा,",
-      "कहे तेऊँ नत दुखि होय मरनदा."
-    ],
-    [
-      "तानते तुम राम भजो संत पुकारे || 4. ||."
+      "मनुष तन पाय जो न भजन करंदा,",
+      "कहे टेऊँ अन्त दुखी होय मरंदा ।",
+      "तांते तुम राम भजो सन्त पुकारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Daa Bhajan Karo Mere Pyaare (Tek)."
-    ],
-    [
       "Raam Daa Bhajan Kare Soi Bandiyaa,",
-      "Raam De Bhajan Bin Jaano Gandiyaa."
+      "Raam De Bhajan Bin Jaano Gandiyaa.",
+      "Raam Daa Bhajan Bhav Paar Utaare || 9 ||"
     ],
     [
-      "Raam Daa Bhajan Bhav Paar Utaare.9 ||",
-      "Phul Khushbud Binaa Nahin Mohandaa,"
-    ],
-    [
+      "Phul Khushbud Binaa Nahin Mohandaa,",
       "Manush Tyon Bhajan Bin Nahin Sohandaa.",
       "Raam Bhajan Se Hi Yash Hoy Apaare || 2 ||"
     ],
     [
       "Paapi Kar Paap Bahu Maayaa Jorandaa,",
-      "Aave Nahin Kaam Taahin Ant Lorandaa."
-    ],
-    [
+      "Aave Nahin Kaam Taahin Ant Lorandaa.",
       "Raam Ke Bhajan Bin Narak Sidhaare || 3 ||"
     ],
     [
-      "Manush Tan Paay Jo N Bhajan Karandaa,",
-      "Kahe Teun Ant Dukhi Hoy Marandaa."
-    ],
-    [
-      "Taante Tum Raam Bhajo Sant Pukaare || 4. ||."
+      "Manush Tan Paay Jo Na Bhajan Karandaa,",
+      "Kahe Teun Ant Dukhi Hoy Marandaa.",
+      "Taante Tum Raam Bhajo Sant Pukaare || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 11 || 73 ||",
+    "राम दा भजन करो मेरे प्यारे",
     "Raam Daa Bhajan Karo Mere Pyaare",
-    "राम दा भजन करो मेरे पयारे"
+    "राग आसा भजन 11",
+    "Raag Aasaa Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 73,
+  "displayOrder": 11,
+  "overallOrder": 73,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 62",
+  "updatedAt": "2026-10-26"
 }

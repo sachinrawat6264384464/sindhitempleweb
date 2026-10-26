@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0846",
+  "id": "bhajan-0844",
   "slug": "mere-man-meri-mati-maano-apnaa-chhor-pasaaraa-re",
   "categoryId": "raag-jog",
-  "title": "मेरे मन मेरि मति मानो, पना चहोर पसारा रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मेरे मन मेरी मति मानो, अपना छोड़ पसारा रे",
   "romanTitle": "Mere Man Meri Mati Maano, Apnaa Chhor Pasaaraa Re",
   "firstLine": "Mere Man Meri Mati Maano, Apnaa Chhor Pasaaraa Re (Tek).",
+  "heading": "।। राग जोग भजन ।। १६ ।। ८४६।।",
+  "tek": [
+    "मेरे मन मेरी मति मानो, अपना छोड़ पसारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Meri Mati Maano, Apnaa Chhor Pasaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "फुरना छोड़ अफुर घर आओ , ब्रह्म भवन तज बहर न जाओ ।",
+        "बाहर दूख अपारा रे ॥8 ॥"
+      ],
+      "romanLines": [
+        "Phurnaa Chhor Aphur Ghar Aao, Brahm Bhavan Taj Bahar Na Jaao.",
+        "Baahar Dukh Apaaraa Re || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाखहा से होकर न्यारे, कलना कल्पी बहु प्रकारे ।",
+        "जांका आर न पारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paakhhaa Se Hokar Nyaare, Kalnaa Kalpi Bahu Prakaare.",
+        "Jaankaa Aar Na Paaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भटक भटक बहु कल्प बिताये, अबलौं अपने घर नहिं आये ।",
+        "शर्म ज़रा नहिं धारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhatak Bhatak Bahu Kalp Bitaaye, Ablaun Apne Ghar Nahin Aaye.",
+        "Sharm Zaraa Nahin Dhaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अब शान्ती धारे, अपने घर में आवो प्यारे ।",
+        "गुरु का ले आधारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Shaanti Dhaare, Apne Ghar Men Aavo Pyaare.",
+        "Guru Kaa Le Aadhaaraa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन मेरि मति मानो, पना चहोर पसारा रे (टेक)."
+      "फुरना छोड़ अफुर घर आओ , ब्रह्म भवन तज बहर न जाओ ।",
+      "बाहर दूख अपारा रे ॥8 ॥"
     ],
     [
-      "फुरना चहोर फुर घर ाो, बरहम भवन तज बहर न जाो.",
-      "बाहर दुःख पारा रे.8 ||"
+      "पाखहा से होकर न्यारे, कलना कल्पी बहु प्रकारे ।",
+      "जांका आर न पारा रे ॥२ ॥"
     ],
     [
-      "पाखहा से होकर नयारे, कलना कलपि बहु परकारे.",
-      "जानका ार न पारा रे.2 ||"
+      "भटक भटक बहु कल्प बिताये, अबलौं अपने घर नहिं आये ।",
+      "शर्म ज़रा नहिं धारा रे ॥३ ॥"
     ],
     [
-      "भतक भतक बहु कलप बिताये, बलौन पने घर नहिन ाये.",
-      "शरम zरा नहिन धारा रे || 3े ||"
-    ],
-    [
-      "कहे तेऊँ ब शांति धारे, पने घर मेन ावो पयारे.",
-      "गुरु का ले ाधारा रे || 4. ||."
+      "कहे टेऊँ अब शान्ती धारे, अपने घर में आवो प्यारे ।",
+      "गुरु का ले आधारा रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Meri Mati Maano, Apnaa Chhor Pasaaraa Re (Tek)."
-    ],
-    [
-      "Phurnaa Chhor Aphur Ghar Aao, Brahm Bhavan Taj Bahar N Jaao.",
-      "Baahar Dukh Apaaraa Re.8 ||"
+      "Phurnaa Chhor Aphur Ghar Aao, Brahm Bhavan Taj Bahar Na Jaao.",
+      "Baahar Dukh Apaaraa Re || 8 ||"
     ],
     [
       "Paakhhaa Se Hokar Nyaare, Kalnaa Kalpi Bahu Prakaare.",
-      "Jaankaa Aar N Paaraa Re.2 ||"
+      "Jaankaa Aar Na Paaraa Re || 2 ||"
     ],
     [
       "Bhatak Bhatak Bahu Kalp Bitaaye, Ablaun Apne Ghar Nahin Aaye.",
-      "Sharm Zaraa Nahin Dhaaraa Re || 3E ||"
+      "Sharm Zaraa Nahin Dhaaraa Re || 3 ||"
     ],
     [
       "Kahe Teun Ab Shaanti Dhaare, Apne Ghar Men Aavo Pyaare.",
-      "Guru Kaa Le Aadhaaraa Re || 4. ||."
+      "Guru Kaa Le Aadhaaraa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 16 || 846 ||",
+    "मेरे मन मेरी मति मानो, अपना छोड़ पसारा रे",
     "Mere Man Meri Mati Maano, Apnaa Chhor Pasaaraa Re",
-    "मेरे मन मेरि मति मानो, पना चहोर पसारा रे"
+    "राग जोग भजन 16",
+    "Raag Jog Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 846,
+  "displayOrder": 16,
+  "overallOrder": 844,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 448",
+  "updatedAt": "2026-10-26"
 }

@@ -2,49 +2,109 @@
   "id": "bhajan-0320",
   "slug": "gagan-mandal-men-ajab-tamaashaa-dekhat-main-vismaayaa-re",
   "categoryId": "raag-zilaa",
-  "title": "गगन मनदल मेन जब तमाशा, देखत मैं विसमाया रे",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "गगन मण्डल में अजब तमाशा, देखत मैं विस्माया रे",
   "romanTitle": "Gagan Mandal Men Ajab Tamaashaa, Dekhat Main Vismaayaa Re",
   "firstLine": "Gagan Mandal Men Ajab Tamaashaa, Dekhat Main Vismaayaa Re (Tek).",
+  "heading": "।। राग ज़िला भजन ।। ७ ।। ३२०",
+  "tek": [
+    "गगन मण्डल में अजब तमाशा, देखत मैं विस्माया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gagan Mandal Men Ajab Tamaashaa, Dekhat Main Vismaayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धरती बिन इक नगर नवीना, नज़र हमारी आया रे ।",
+        "प्रजा बिन वां इक भूपति ने, अपना हुक्म चलाया रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharti Bin Ik Nagar Navinaa, Nazar Hamaari Aayaa Re.",
+        "Prajaa Bin Vaan Ik Bhupti Ne, Apnaa Hukm Chalaayaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सीस बिना वां इक माली ने, बिन जल बाग बनाया रे ।",
+        "डार तले जिस ऊपर मूला, ऐसे बिरछ लगाया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sis Binaa Vaan Ik Maali Ne, Bin Jal Baag Banaayaa Re.",
+        "Daar Tale Jis Upar Mulaa, Aise Birachh Lagaayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांव बिना तहँ नटनी नाचे, अन्ध देख हर्षाया रे ।",
+        "मुख बिन मीठे गाने गाकर, बहुरे लोक लुभाया रे ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Paanv Binaa Tahan Natni Naache, Andh Dekh Harshaayaa Re.",
+        "Mukh Bin Mithe Gaane Gaakar, Bahure Lok Lubhaayaa Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नीर बिना इक सागर में वां, बहुत लोक बह जाया रे ।",
+        "बादल बिन जल बरसत है वां, निश में सूर समाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nir Binaa Ik Saagar Men Vaan, Bahut Lok Bah Jaayaa Re.",
+        "Baadal Bin Jal Barsat Hai Vaan, Nish Men Sur Samaayaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ गुरु कृपा करके, ऐसा देश दिखाया रे ।",
+        "देश उसी को जिसने देखा, सो मुनियों का राया रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kripaa Karke, Aisaa Desh Dikhaayaa Re.",
+        "Desh Usi Ko Jisne Dekhaa, So Muniyon Kaa Raayaa Re || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गगन मनदल मेन जब तमाशा, देखत मैं विसमाया रे (टेक)."
+      "धरती बिन इक नगर नवीना, नज़र हमारी आया रे ।",
+      "प्रजा बिन वां इक भूपति ने, अपना हुक्म चलाया रे ॥१ ॥"
     ],
     [
-      "धरति बिन िक नगर नविना, नzर हमारि ाया रे.",
-      "परजा बिन वान िक भुपति ने, पना हुकम चलाया रे || 1 ||."
+      "सीस बिना वां इक माली ने, बिन जल बाग बनाया रे ।",
+      "डार तले जिस ऊपर मूला, ऐसे बिरछ लगाया रे ॥२ ॥"
     ],
     [
-      "सिस बिना वान िक मालि ने, बिन जल बाग बनाया रे.",
-      "दार तले जिस ुपर मुला, ैसे बिरचह लगाया रे || 2. ||."
+      "पांव बिना तहँ नटनी नाचे, अन्ध देख हर्षाया रे ।",
+      "मुख बिन मीठे गाने गाकर, बहुरे लोक लुभाया रे ॥३े ॥ ।"
     ],
     [
-      "पानव बिना तहन नतनि नाचे, नध देख हरशाया रे.",
-      "मुख बिन मिथे गाने गाकर, बहुरे लोक लुभाया रे || 3े ||."
+      "नीर बिना इक सागर में वां, बहुत लोक बह जाया रे ।",
+      "बादल बिन जल बरसत है वां, निश में सूर समाया रे ॥४ ॥"
     ],
     [
-      "निर बिना िक सागर मेन वान, बहुत लोक बह जाया रे.",
-      "बादल बिन जल बरसत है वान, निश मेन सुर समाया रे || 4 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु कृपा करके, ैसा देश दिखाया रे.",
-      "देश ुसि को जिसने देखा, सो मुनियोन का राया रे || 5 ||."
+      "कहे टेऊँ गुरु कृपा करके, ऐसा देश दिखाया रे ।",
+      "देश उसी को जिसने देखा, सो मुनियों का राया रे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gagan Mandal Men Ajab Tamaashaa, Dekhat Main Vismaayaa Re (Tek)."
-    ],
-    [
       "Dharti Bin Ik Nagar Navinaa, Nazar Hamaari Aayaa Re.",
-      "Prajaa Bin Vaan Ik Bhupti Ne, Apnaa Hukm Chalaayaa Re || 1 ||."
+      "Prajaa Bin Vaan Ik Bhupti Ne, Apnaa Hukm Chalaayaa Re || 1 ||"
     ],
     [
       "Sis Binaa Vaan Ik Maali Ne, Bin Jal Baag Banaayaa Re.",
-      "Daar Tale Jis Upar Mulaa, Aise Birachh Lagaayaa Re || 2. ||."
+      "Daar Tale Jis Upar Mulaa, Aise Birachh Lagaayaa Re || 2 ||"
     ],
     [
       "Paanv Binaa Tahan Natni Naache, Andh Dekh Harshaayaa Re.",
-      "Mukh Bin Mithe Gaane Gaakar, Bahure Lok Lubhaayaa Re || 3E ||."
+      "Mukh Bin Mithe Gaane Gaakar, Bahure Lok Lubhaayaa Re || 3E ||"
     ],
     [
       "Nir Binaa Ik Saagar Men Vaan, Bahut Lok Bah Jaayaa Re.",
@@ -52,22 +112,24 @@
     ],
     [
       "Kahe Teun Guru Kripaa Karke, Aisaa Desh Dikhaayaa Re.",
-      "Desh Usi Ko Jisne Dekhaa, So Muniyon Kaa Raayaa Re || 5 ||."
+      "Desh Usi Ko Jisne Dekhaa, So Muniyon Kaa Raayaa Re || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 7 || 320",
+    "गगन मण्डल में अजब तमाशा, देखत मैं विस्माया रे",
     "Gagan Mandal Men Ajab Tamaashaa, Dekhat Main Vismaayaa Re",
-    "गगन मनदल मेन जब तमाशा, देखत मैं विसमाया रे"
+    "राग ज़िला भजन 7",
+    "Raag Zilaa Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 320,
+  "displayOrder": 7,
+  "overallOrder": 320,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 192",
+  "updatedAt": "2026-10-26"
 }

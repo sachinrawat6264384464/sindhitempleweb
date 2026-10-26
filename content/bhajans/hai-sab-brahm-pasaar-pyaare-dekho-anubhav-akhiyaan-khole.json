@@ -2,28 +2,89 @@
   "id": "bhajan-0162",
   "slug": "hai-sab-brahm-pasaar-pyaare-dekho-anubhav-akhiyaan-khole",
   "categoryId": "raag-vihaag",
-  "title": "है सब बरहम पसार पयारे देखो नुभव खियान खोले",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "है सब ब्रह्म पसार प्यारे देखो अनुभव अखियां खोले",
   "romanTitle": "Hai Sab Brahm Pasaar Pyaare Dekho Anubhav Akhiyaan Khole",
   "firstLine": "Hai Sab Brahm Pasaar Pyaare Dekho Anubhav Akhiyaan Khole (Tek).",
+  "heading": "।। राग विहाग भजन ॥। ४ ।। १६२॥।",
+  "tek": [
+    "है सब ब्रह्म पसार प्यारे देखो अनुभव अखियां खोले ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hai Sab Brahm Pasaar Pyaare Dekho Anubhav Akhiyaan Khole (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आप बगीचा आप क्यारी, आप भँवर हो करत गुउ्जारी ।",
+        "आप बना गुलज़ार प्यारे, आप वृक्ष बन पँछी बोले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aap Bagichaa Aap Kyaari, Aap Bhanvar Ho Karat Guujaari.",
+        "Aap Banaa Gulzaar Pyaare, Aap Vriksh Ban Panchhi Bole || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आप बना अज विष्णू शंकर, आप नृप हो प्रजा किड्र ।",
+        "आप सगुण साकार प्यारे, आपहिं निर्गुण चेतन चोले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aap Banaa Aj Vishnu Shankar, Aap Nrip Ho Prajaa Kidr.",
+        "Aap Sagun Saakaar Pyaare, Aaphin Nirgun Chetan Chole || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आप मदारी आपहिं बाजी, आपहिं सगली सृष्टी साजी ।",
+        "आपहिं देखनहार प्यारे, आप स्थिर है आपहिं डोले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aap Madaari Aaphin Baaji, Aaphin Sagli Srishti Saaji.",
+        "Aaphin Dekhnahaar Pyaare, Aap Sthir Hai Aaphin Dole || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिस गुरु समझाया, हरि रंग में तिस दर्शन पाया ।",
+        "आपदहिं ज्ञान भण्डार प्यारे, आप आज्ञानी भ्रमे भोले ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jis Guru Samjhaayaa, Hari Rang Men Tis Darshan Paayaa.",
+        "Aapdahin Gyaan Bhandaar Pyaare, Aap Aajnyaani Bhrame Bhole || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "बाज"
+      ],
+      "romanLines": [
+        "Baaj"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "है सब बरहम पसार पयारे देखो नुभव खियान खोले (टेक)."
+      "आप बगीचा आप क्यारी, आप भँवर हो करत गुउ्जारी ।",
+      "आप बना गुलज़ार प्यारे, आप वृक्ष बन पँछी बोले ॥१ ॥"
     ],
     [
-      "ाप बगिचा ाप कयारि, ाप भनवर हो करत गूजारि.",
-      "ाप बना गुलzार पयारे, ाप वरिकश बन पनचहि बोले || 1 ||."
+      "आप बना अज विष्णू शंकर, आप नृप हो प्रजा किड्र ।",
+      "आप सगुण साकार प्यारे, आपहिं निर्गुण चेतन चोले ॥२ ॥"
     ],
     [
-      "ाप बना ज विशनु शनकर, ाप नरिप हो परजा किदर.",
-      "ाप सगुन साकार पयारे, ाफिन निरगुन चेतन चोले || 2 ||."
+      "आप मदारी आपहिं बाजी, आपहिं सगली सृष्टी साजी ।",
+      "आपहिं देखनहार प्यारे, आप स्थिर है आपहिं डोले ॥३ ॥"
     ],
     [
-      "ाप मदारि ाफिन बाजि, ाफिन सगलि सरिशति साजि.",
-      "ाफिन देखनहार पयारे, ाप सथिर है ाफिन दोले || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जिस गुरु समझाया, हरि रनग मेन तिस दरशन पाया.",
-      "ापदहिन ज्ञान भनदार पयारे, ाप ाजनयानि भरमे भोले || 4 ||"
+      "कहे टेऊँ जिस गुरु समझाया, हरि रंग में तिस दर्शन पाया ।",
+      "आपदहिं ज्ञान भण्डार प्यारे, आप आज्ञानी भ्रमे भोले ॥४ ॥"
     ],
     [
       "बाज"
@@ -31,15 +92,12 @@
   ],
   "romanLyrics": [
     [
-      "Hai Sab Brahm Pasaar Pyaare Dekho Anubhav Akhiyaan Khole (Tek)."
-    ],
-    [
       "Aap Bagichaa Aap Kyaari, Aap Bhanvar Ho Karat Guujaari.",
-      "Aap Banaa Gulzaar Pyaare, Aap Vriksh Ban Panchhi Bole || 1 ||."
+      "Aap Banaa Gulzaar Pyaare, Aap Vriksh Ban Panchhi Bole || 1 ||"
     ],
     [
       "Aap Banaa Aj Vishnu Shankar, Aap Nrip Ho Prajaa Kidr.",
-      "Aap Sagun Saakaar Pyaare, Aaphin Nirgun Chetan Chole || 2 ||."
+      "Aap Sagun Saakaar Pyaare, Aaphin Nirgun Chetan Chole || 2 ||"
     ],
     [
       "Aap Madaari Aaphin Baaji, Aaphin Sagli Srishti Saaji.",
@@ -47,25 +105,27 @@
     ],
     [
       "Kahe Teun Jis Guru Samjhaayaa, Hari Rang Men Tis Darshan Paayaa.",
-      "Aapdahin Jnyaan Bhandaar Pyaare, Aap Aajnyaani Bhrame Bhole || 4 ||"
+      "Aapdahin Gyaan Bhandaar Pyaare, Aap Aajnyaani Bhrame Bhole || 4 ||"
     ],
     [
       "Baaj"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan ||. 4 || 162 ||.",
+    "है सब ब्रह्म पसार प्यारे देखो अनुभव अखियां खोले",
     "Hai Sab Brahm Pasaar Pyaare Dekho Anubhav Akhiyaan Khole",
-    "है सब बरहम पसार पयारे देखो नुभव खियान खोले"
+    "राग विहाग भजन 4",
+    "Raag Vihaag Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 162,
+  "displayOrder": 4,
+  "overallOrder": 162,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 110",
+  "updatedAt": "2026-10-26"
 }

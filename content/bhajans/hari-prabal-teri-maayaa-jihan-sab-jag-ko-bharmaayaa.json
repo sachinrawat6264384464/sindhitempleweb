@@ -1,71 +1,131 @@
 {
   "id": "bhajan-0258",
   "slug": "hari-prabal-teri-maayaa-jihan-sab-jag-ko-bharmaayaa",
-  "categoryId": "raag-bhairav",
-  "title": "हरि परबल तेरि माया, जिहन सब जग को भरमाया",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "हरि प्रबल तेरी माया, जिहं सब जग को भरमाया",
   "romanTitle": "Hari Prabal Teri Maayaa, Jihan Sab Jag Ko Bharmaayaa",
   "firstLine": "Hari Prabal Teri Maayaa, Jihan Sab Jag Ko Bharmaayaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ४३ ।। २५८।।",
+  "tek": [
+    "हरि प्रबल तेरी माया, जिहं सब जग को भरमाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Prabal Teri Maayaa, Jihan Sab Jag Ko Bharmaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जे जोग कला से उड़ते, जा नभ में तप को करते ।",
+        "कब पांव तले नहिं धरते, तिनको भी भूमि गिराया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Je Jog Kalaa Se Urte, Jaa Nabh Men Tap Ko Karte.",
+        "Kab Paanv Tale Nahin Dharte, Tinko Bhi Bhumi Giraayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जे वेदों को पढ़ गाते, सब भिन्न भिन्न कर समझाते ।",
+        "को शंक न करने पाते, तिनको भी मूण्ड बनाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Je Vedon Ko Parh Gaate, Sab Bhinn Bhinn Kar Samjhaate.",
+        "Ko Shank Na Karne Paate, Tinko Bhi Mund Banaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिन कीना झंगल वासा, पुनि पाया भेष संन्यासा ।",
+        "कछु जग की रही न आसा, तिनको भी मोह लगाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jin Kinaa Jhangal Vaasaa, Puni Paayaa Bhesh Sannyaasaa.",
+        "Kachhu Jag Ki Rahi Na Aasaa, Tinko Bhi Moh Lagaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं भी डरता, कछु धीर न हृदय धरता ।",
+        "इक तुम हो रक्षा करता, भज शरण तुम्हारी आया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Bhi Dartaa, Kachhu Dhir Na Hriday Dhartaa.",
+        "Ik Tum Ho Rakshaa Kartaa, Bhaj Sharan Tumhaari Aayaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गठ्ह"
+      ],
+      "romanLines": [
+        "Gathh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि परबल तेरि माया, जिहन सब जग को भरमाया (टेक)."
+      "जे जोग कला से उड़ते, जा नभ में तप को करते ।",
+      "कब पांव तले नहिं धरते, तिनको भी भूमि गिराया ॥१ ॥"
     ],
     [
-      "जे जोग कला से ुरते, जा नभ मेन तप को करते.",
-      "कब पानव तले नहिन धरते, तिनको भि भुमि गिराया.1 ||."
+      "जे वेदों को पढ़ गाते, सब भिन्न भिन्न कर समझाते ।",
+      "को शंक न करने पाते, तिनको भी मूण्ड बनाया ॥२ ॥"
     ],
     [
-      "जे वेदोन को परह गाते, सब भिनन भिनन कर समझाते.",
-      "को शनक न करने पाते, तिनको भि मुनद बनाया ||.2 ||"
+      "जिन कीना झंगल वासा, पुनि पाया भेष संन्यासा ।",
+      "कछु जग की रही न आसा, तिनको भी मोह लगाया ॥३ ॥"
     ],
     [
-      "जिन किना झनगल वासा, पुनि पाया भेश सननयासा.",
-      "कचहु जग कि रहि न ासा, तिनको भि मोह लगाया || 3 ||."
+      "कहे टेऊँ मैं भी डरता, कछु धीर न हृदय धरता ।",
+      "इक तुम हो रक्षा करता, भज शरण तुम्हारी आया ॥४ ॥"
     ],
     [
-      "कहे तेऊँ मैं भि दरता, कचहु धिर न हरिदय धरता.",
-      "िक तुम हो रकशा करता, भज शरन तुमहारि ाया ||.4. ||."
-    ],
-    [
-      "गथह"
+      "गठ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Prabal Teri Maayaa, Jihan Sab Jag Ko Bharmaayaa (Tek)."
-    ],
-    [
       "Je Jog Kalaa Se Urte, Jaa Nabh Men Tap Ko Karte.",
-      "Kab Paanv Tale Nahin Dharte, Tinko Bhi Bhumi Giraayaa.1 ||."
+      "Kab Paanv Tale Nahin Dharte, Tinko Bhi Bhumi Giraayaa || 1 ||"
     ],
     [
       "Je Vedon Ko Parh Gaate, Sab Bhinn Bhinn Kar Samjhaate.",
-      "Ko Shank N Karne Paate, Tinko Bhi Mund Banaayaa ||.2 ||"
+      "Ko Shank Na Karne Paate, Tinko Bhi Mund Banaayaa || 2 ||"
     ],
     [
       "Jin Kinaa Jhangal Vaasaa, Puni Paayaa Bhesh Sannyaasaa.",
-      "Kachhu Jag Ki Rahi N Aasaa, Tinko Bhi Moh Lagaayaa || 3 ||."
+      "Kachhu Jag Ki Rahi Na Aasaa, Tinko Bhi Moh Lagaayaa || 3 ||"
     ],
     [
-      "Kahe Teun Main Bhi Dartaa, Kachhu Dhir N Hriday Dhartaa.",
-      "Ik Tum Ho Rakshaa Kartaa, Bhaj Sharan Tumhaari Aayaa ||.4. ||."
+      "Kahe Teun Main Bhi Dartaa, Kachhu Dhir Na Hriday Dhartaa.",
+      "Ik Tum Ho Rakshaa Kartaa, Bhaj Sharan Tumhaari Aayaa || 4 ||"
     ],
     [
       "Gathh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 43 || 258 ||",
+    "हरि प्रबल तेरी माया, जिहं सब जग को भरमाया",
     "Hari Prabal Teri Maayaa, Jihan Sab Jag Ko Bharmaayaa",
-    "हरि परबल तेरि माया, जिहन सब जग को भरमाया"
+    "राग भैरवी भजन 43",
+    "Raag Bhairvi Bhajan 43"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 258,
+  "displayOrder": 43,
+  "overallOrder": 258,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 160",
+  "updatedAt": "2026-10-26"
 }

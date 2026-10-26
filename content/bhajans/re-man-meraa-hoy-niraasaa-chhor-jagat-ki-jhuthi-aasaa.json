@@ -1,41 +1,99 @@
 {
-  "id": "bhajan-0839",
+  "id": "bhajan-0837",
   "slug": "re-man-meraa-hoy-niraasaa-chhor-jagat-ki-jhuthi-aasaa",
   "categoryId": "raag-jog",
-  "title": "रे मन मेरा होय निरासा, चहोर जगत कि झुथि ासा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "रे मन मेरा होय निरासा, छोड़ जगत की झूठी आसा",
   "romanTitle": "Re Man Meraa Hoy Niraasaa, Chhor Jagat Ki Jhuthi Aasaa",
   "firstLine": "Re Man Meraa Hoy Niraasaa, Chhor Jagat Ki Jhuthi Aasaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ९ ।। ८३९।॥।",
+  "tek": [
+    "रे मन मेरा होय निरासा, छोड़ जगत की झूठी आसा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Meraa Hoy Niraasaa, Chhor Jagat Ki Jhuthi Aasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जग की आसा है दुखदाई, सब संतों ने साख सुनाई ।",
+        "संत वचन पर धर विश्वासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jag Ki Aasaa Hai Dukhdaai, Sab Santon Ne Saakh Sunaai.",
+        "Sant Vachan Par Dhar Vishvaasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सात द्वीप नव खण्डों माहीं, रंचक सुख कहं दीसत नाहीं ।",
+        "भलि देखो जा धरनि अकासा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saat Dvip Nav Khandon Maahin, Ranchak Sukh Kahan Disat Naahin.",
+        "Bhali Dekho Jaa Dharni Akaasaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब तज सुमरो अन्तयामी, निर्भय निर्मल हो निष्कामी ।",
+        "जन्म मरन की मेटो त्रासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sab Taj Sumro Antayaami, Nirbhay Nirmal Ho Nishkaami.",
+        "Janm Maran Ki Meto Traasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शरनी जाओ, पूरण ब्रह्म ज्ञान को पाओ ।",
+        "अपने घर में करले वासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharni Jaao, Puran Brahm Gyaan Ko Paao.",
+        "Apne Ghar Men Karle Vaasaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द्"
+      ],
+      "romanLines": [
+        "Gd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरा होय निरासा, चहोर जगत कि झुथि ासा (टेक)."
+      "जग की आसा है दुखदाई, सब संतों ने साख सुनाई ।",
+      "संत वचन पर धर विश्वासा ॥१ ॥"
     ],
     [
-      "जग कि ासा है दुखदाि, सब सनतोन ने साख सुनाि.",
-      "संत वचन पर धर विशवासा.1 ||."
+      "सात द्वीप नव खण्डों माहीं, रंचक सुख कहं दीसत नाहीं ।",
+      "भलि देखो जा धरनि अकासा ॥२ ॥"
     ],
     [
-      "सात दविप नव खनदोन माहिन, रनचक सुख कहन दिसत नाहिन.",
-      "भलि देखो जा धरनि कासा || 2 ||"
+      "सब तज सुमरो अन्तयामी, निर्भय निर्मल हो निष्कामी ।",
+      "जन्म मरन की मेटो त्रासा ॥३ ॥"
     ],
     [
-      "सब तज सुमरो नतयामि, निरभय निर्मल हो निशकामि.",
-      "जनम मरन कि मेतो तरासा.3. ||."
+      "कहे टेऊँ गुरु शरनी जाओ, पूरण ब्रह्म ज्ञान को पाओ ।",
+      "अपने घर में करले वासा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु शरनि जाो, पुरन बरहम ज्ञान को पाो.",
-      "पने घर मेन करले वासा ||.4. ||."
-    ],
-    [
-      "गद"
+      "ग््द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Meraa Hoy Niraasaa, Chhor Jagat Ki Jhuthi Aasaa (Tek)."
-    ],
-    [
       "Jag Ki Aasaa Hai Dukhdaai, Sab Santon Ne Saakh Sunaai.",
-      "Sant Vachan Par Dhar Vishvaasaa.1 ||."
+      "Sant Vachan Par Dhar Vishvaasaa || 1 ||"
     ],
     [
       "Saat Dvip Nav Khandon Maahin, Ranchak Sukh Kahan Disat Naahin.",
@@ -43,29 +101,31 @@
     ],
     [
       "Sab Taj Sumro Antayaami, Nirbhay Nirmal Ho Nishkaami.",
-      "Janm Maran Ki Meto Traasaa.3. ||."
+      "Janm Maran Ki Meto Traasaa || 3 ||"
     ],
     [
-      "Kahe Teun Guru Sharni Jaao, Puran Brahm Jnyaan Ko Paao.",
-      "Apne Ghar Men Karle Vaasaa ||.4. ||."
+      "Kahe Teun Guru Sharni Jaao, Puran Brahm Gyaan Ko Paao.",
+      "Apne Ghar Men Karle Vaasaa || 4 ||"
     ],
     [
       "Gd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 9 || 839. ||.",
+    "रे मन मेरा होय निरासा, छोड़ जगत की झूठी आसा",
     "Re Man Meraa Hoy Niraasaa, Chhor Jagat Ki Jhuthi Aasaa",
-    "रे मन मेरा होय निरासा, चहोर जगत कि झुथि ासा"
+    "राग जोग भजन 9",
+    "Raag Jog Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 839,
+  "displayOrder": 9,
+  "overallOrder": 837,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 444",
+  "updatedAt": "2026-10-26"
 }

@@ -1,74 +1,113 @@
 {
   "id": "bhajan-0231",
   "slug": "aao-prabhu-ik-baar-devo-didaar-tere-bin-chain-nahin",
-  "categoryId": "raag-bhairav",
-  "title": "ाो प्रभु िक बार, देवो दिदार, तेरे बिन चैन नहिन",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "आओ प्रभू इक बार, देवो दीदार, तेरे बिन चैन नहीं",
   "romanTitle": "Aao Prabhu Ik Baar, Devo Didaar, Tere Bin Chain Nahin",
   "firstLine": "Aao Prabhu Ik Baar, Devo Didaar, Tere Bin Chain Nahin (Tek).",
+  "heading": "।। राग भैरवी भजन ।। १६ ।। २३१।।",
+  "tek": [
+    "आओ प्रभू इक बार, देवो दीदार, तेरे बिन चैन नहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aao Prabhu Ik Baar, Devo Didaar, Tere Bin Chain Nahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तेरे दरस बिन मनुवा मेरा रैन दिवस तरसाता ।",
+        "एक घड़ी भी धीर न धरता रोता और चिल्लाता ।",
+        "राह रहे हैं निहार, करे इन्तज़ार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tere Daras Bin Manuvaa Meraa Rain Divas Tarsaataa.",
+        "Ek Ghari Bhi Dhir Na Dhartaa Rotaa Aur Chillaataa.",
+        "Raah Rahe Hain Nihaar, Kare Intazaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "छोड़ गये क्यों साजन मुझको अब तो दरस दिखाओ ।",
+        "मेरी भूल को क्षमा करके अपने चरण लगाओ ।",
+        "रो रो करूँ मैं पुकार सुनो करतार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chhor Gaye Kyon Saajan Mujhko Ab To Daras Dikhaao.",
+        "Meri Bhul Ko Kshamaa Karke Apne Charan Lagaao.",
+        "Ro Ro Karun Main Pukaar Suno Kartaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ हरि तुम बिन मुझको नैनें नींद न आवे ।",
+        "तेरा दर्शन चाहत हूँ मैं और न मोहि सुहावे ।",
+        "मिलिये प्राण आधार, पड़ा हूँ द्वार ॥डे ॥",
+        "गदर"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Tum Bin Mujhko Nainen Nind Na Aave.",
+        "Teraa Darshan Chaahat Hun Main Aur Na Mohi Suhaave.",
+        "Miliye Praan Aadhaar, Paraa Hun Dvaar || De ||",
+        "Gadar"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाो प्रभु िक बार, देवो दिदार, तेरे बिन चैन नहिन (टेक)."
+      "तेरे दरस बिन मनुवा मेरा रैन दिवस तरसाता ।",
+      "एक घड़ी भी धीर न धरता रोता और चिल्लाता ।",
+      "राह रहे हैं निहार, करे इन्तज़ार ॥१ ॥"
     ],
     [
-      "तेरे दरस बिन मनुवा मेरा रैन दिवस तरसाता.",
-      "ेक घरि भि धिर न धरता रोता ौर चिललाता."
+      "छोड़ गये क्यों साजन मुझको अब तो दरस दिखाओ ।",
+      "मेरी भूल को क्षमा करके अपने चरण लगाओ ।",
+      "रो रो करूँ मैं पुकार सुनो करतार ॥२ ॥"
     ],
     [
-      "राह रहे हैन निहार, करे िनतzार.1. ||.",
-      "चहोर गये कयोन साजन मुझको ब तो दरस दिखाो."
-    ],
-    [
-      "मेरि भुल को कशमा करके पने चरण लगाो.",
-      "रो रो करुन मैं पुकार सुनो करतार || 2 ||."
-    ],
-    [
-      "कहे तेऊँ हरि तुम बिन मुझको नैनेन निनद न ावे.",
-      "तेरा दरशन चाहत हुन मैं ौर न मोहि सुहावे."
-    ],
-    [
-      "मिलिये परान ाधार, परा हुन दवार || दे ||",
+      "कहे टेऊँ हरि तुम बिन मुझको नैनें नींद न आवे ।",
+      "तेरा दर्शन चाहत हूँ मैं और न मोहि सुहावे ।",
+      "मिलिये प्राण आधार, पड़ा हूँ द्वार ॥डे ॥",
       "गदर"
     ]
   ],
   "romanLyrics": [
     [
-      "Aao Prabhu Ik Baar, Devo Didaar, Tere Bin Chain Nahin (Tek)."
-    ],
-    [
       "Tere Daras Bin Manuvaa Meraa Rain Divas Tarsaataa.",
-      "Ek Ghari Bhi Dhir N Dhartaa Rotaa Aur Chillaataa."
+      "Ek Ghari Bhi Dhir Na Dhartaa Rotaa Aur Chillaataa.",
+      "Raah Rahe Hain Nihaar, Kare Intazaar || 1 ||"
     ],
     [
-      "Raah Rahe Hain Nihaar, Kare Intazaar.1. ||.",
-      "Chhor Gaye Kyon Saajan Mujhko Ab To Daras Dikhaao."
-    ],
-    [
+      "Chhor Gaye Kyon Saajan Mujhko Ab To Daras Dikhaao.",
       "Meri Bhul Ko Kshamaa Karke Apne Charan Lagaao.",
-      "Ro Ro Karun Main Pukaar Suno Kartaar || 2 ||."
+      "Ro Ro Karun Main Pukaar Suno Kartaar || 2 ||"
     ],
     [
-      "Kahe Teun Hari Tum Bin Mujhko Nainen Nind N Aave.",
-      "Teraa Darshan Chaahat Hun Main Aur N Mohi Suhaave."
-    ],
-    [
+      "Kahe Teun Hari Tum Bin Mujhko Nainen Nind Na Aave.",
+      "Teraa Darshan Chaahat Hun Main Aur Na Mohi Suhaave.",
       "Miliye Praan Aadhaar, Paraa Hun Dvaar || De ||",
       "Gadar"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 16 || 231 ||",
+    "आओ प्रभू इक बार, देवो दीदार, तेरे बिन चैन नहीं",
     "Aao Prabhu Ik Baar, Devo Didaar, Tere Bin Chain Nahin",
-    "ाो प्रभु िक बार, देवो दिदार, तेरे बिन चैन नहिन"
+    "राग भैरवी भजन 16",
+    "Raag Bhairvi Bhajan 16"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 231,
+  "displayOrder": 16,
+  "overallOrder": 231,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 144",
+  "updatedAt": "2026-10-26"
 }

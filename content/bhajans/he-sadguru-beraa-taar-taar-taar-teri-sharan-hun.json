@@ -2,71 +2,130 @@
   "id": "bhajan-0103",
   "slug": "he-sadguru-beraa-taar-taar-taar-teri-sharan-hun",
   "categoryId": "raag-aasaa",
-  "title": "हे सद्गुरु बेरा तार तार तार तेरि शरन हुन",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "हे सद्गुरु बेड़ा तार तार तार तेरी शरण हूँ",
   "romanTitle": "He Sadguru Beraa Taar Taar Taar Teri Sharan Hun",
   "firstLine": "He Sadguru Beraa Taar Taar Taar Teri Sharan Hun (Tek).",
+  "heading": "।। राग आसा भजन ।। ४१ ।। १०३।॥।",
+  "tek": [
+    "हे सद्गुरु बेड़ा तार तार तार तेरी शरण हूँ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "He Sadguru Beraa Taar Taar Taar Teri Sharan Hun (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भवसागर में नीर अपारा, प्रभू मिले ना मोहि किनारा ।",
+        "आप करो भव पार पार पार तेरी शरण हैँ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhavsaagar Men Nir Apaaraa, Prabhu Mile Naa Mohi Kinaaraa.",
+        "Aap Karo Bhav Paar Paar Paar Teri Sharan Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पग पग में बहु पाप किया मैं, बदियों का सिर भार लिया मैं ।",
+        "पाप करो परिहार हार हार तेरी शरण हूँ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Pag Pag Men Bahu Paap Kiyaa Main, Badiyon Kaa Sir Bhaar Liyaa Main.",
+        "Paap Karo Parihaar Haar Haar Teri Sharan Hun || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धर्म दया कुछ कर्म ना कीना, जप तप पूजा दान न दीना ।",
+        "नाहिं करी शुभ कार कार कार तेरी शरण हूँ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dharm Dayaa Kuchh Karm Naa Kinaa, Jap Tap Poojaa Daan Na Dinaa.",
+        "Naahin Kari Shubh Kaar Kaar Kaar Teri Sharan Hun || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं हूं अपराधी, एक निमख नहिं भक्ती साधी ।",
+        "अपनी कृपा धार धार धार तेरी शरण हूँ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Hun Apraadhi, Ek Nimakh Nahin Bhakti Saadhi.",
+        "Apni Kripaa Dhaar Dhaar Dhaar Teri Sharan Hun || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ठ"
+      ],
+      "romanLines": [
+        "Thth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे सद्गुरु बेरा तार तार तार तेरि शरन हुन (टेक)."
+      "भवसागर में नीर अपारा, प्रभू मिले ना मोहि किनारा ।",
+      "आप करो भव पार पार पार तेरी शरण हैँ ॥१ ॥"
     ],
     [
-      "भवसागर मेन निर पारा, प्रभु मिले ना मोहि किनारा.",
-      "ाप करो भव पार पार पार तेरि शरन हैन || 1 ||."
+      "पग पग में बहु पाप किया मैं, बदियों का सिर भार लिया मैं ।",
+      "पाप करो परिहार हार हार तेरी शरण हूँ ॥२ ॥"
     ],
     [
-      "पग पग मेन बहु पाप किया मैं, बदियोन का सिर भार लिया मैं.",
-      "पाप करो परिहार हार हार तेरि शरन हुन || 2 ||."
+      "धर्म दया कुछ कर्म ना कीना, जप तप पूजा दान न दीना ।",
+      "नाहिं करी शुभ कार कार कार तेरी शरण हूँ ॥३ ॥"
     ],
     [
-      "धरम दया कुचह करम ना किना, जप तप पुजा दान न दिना.",
-      "नाहिन करि शुभ कार कार कार तेरि शरन हुन || 3 ||."
+      "कहे टेऊँ मैं हूं अपराधी, एक निमख नहिं भक्ती साधी ।",
+      "अपनी कृपा धार धार धार तेरी शरण हूँ ॥४ ॥"
     ],
     [
-      "कहे तेऊँ मैं हुन पराधि, ेक निमख नहिन भक्ति साधि.",
-      "पनि कृपा धार धार धार तेरि शरन हुन || 4 ||."
-    ],
-    [
-      "थथ"
+      "ठ्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "He Sadguru Beraa Taar Taar Taar Teri Sharan Hun (Tek)."
-    ],
-    [
       "Bhavsaagar Men Nir Apaaraa, Prabhu Mile Naa Mohi Kinaaraa.",
-      "Aap Karo Bhav Paar Paar Paar Teri Sharan Hain || 1 ||."
+      "Aap Karo Bhav Paar Paar Paar Teri Sharan Hain || 1 ||"
     ],
     [
       "Pag Pag Men Bahu Paap Kiyaa Main, Badiyon Kaa Sir Bhaar Liyaa Main.",
-      "Paap Karo Parihaar Haar Haar Teri Sharan Hun || 2 ||."
+      "Paap Karo Parihaar Haar Haar Teri Sharan Hun || 2 ||"
     ],
     [
-      "Dharm Dayaa Kuchh Karm Naa Kinaa, Jap Tap Pujaa Daan N Dinaa.",
-      "Naahin Kari Shubh Kaar Kaar Kaar Teri Sharan Hun || 3 ||."
+      "Dharm Dayaa Kuchh Karm Naa Kinaa, Jap Tap Poojaa Daan Na Dinaa.",
+      "Naahin Kari Shubh Kaar Kaar Kaar Teri Sharan Hun || 3 ||"
     ],
     [
       "Kahe Teun Main Hun Apraadhi, Ek Nimakh Nahin Bhakti Saadhi.",
-      "Apni Kripaa Dhaar Dhaar Dhaar Teri Sharan Hun || 4 ||."
+      "Apni Kripaa Dhaar Dhaar Dhaar Teri Sharan Hun || 4 ||"
     ],
     [
       "Thth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 41 || 103. ||.",
+    "हे सद्गुरु बेड़ा तार तार तार तेरी शरण हूँ",
     "He Sadguru Beraa Taar Taar Taar Teri Sharan Hun",
-    "हे सद्गुरु बेरा तार तार तार तेरि शरन हुन"
+    "राग आसा भजन 41",
+    "Raag Aasaa Bhajan 41"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 103,
+  "displayOrder": 41,
+  "overallOrder": 103,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 77",
+  "updatedAt": "2026-10-26"
 }

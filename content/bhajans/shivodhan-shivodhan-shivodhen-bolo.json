@@ -1,89 +1,123 @@
 {
   "id": "bhajan-0226",
   "slug": "shivodhan-shivodhan-shivodhen-bolo",
-  "categoryId": "raag-bhairav",
-  "title": "शिवोधन शिवोधन शिवोधेन बोलो",
-  "romanTitle": "Shivodhan Shivodhan Shivodhen Bolo",
-  "firstLine": "Shivodhan Shivodhan Shivodhen Bolo, Sadaa Tum Jijnyaasu Shivodhan Bolo (Tek).",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "शिवोडहं शिवोडहं शिवोडहें बोलो,",
+  "romanTitle": "Shivodhan Shivodhan Shivodhen Bolo,",
+  "firstLine": "Shivodhan Shivodhan Shivodhen Bolo,",
+  "heading": "।। राग भैरवी भजन ।। ११ ।। २२६।।",
+  "tek": [
+    "शिवोडहं शिवोडहं शिवोडहें बोलो,",
+    "सदा तुम जिज्ञासू शिवोडहं बोलो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shivodhan Shivodhan Shivodhen Bolo,",
+    "Sadaa Tum Jijnyaasu Shivodhan Bolo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "विश्व में व्यापक परम रूप तूं,",
+        "इन्द्रियों से अगोचर अगम रूप तूं ।",
+        "सही सत्‌ चिदानंद ब्रह्म रूप तूं,",
+        "भ्रम में भुली ना जीवोडहें बोलो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vishv Men Vyaapak Param Rup Tu,",
+        "Indriyon Se Agochar Agam Rup Tu.",
+        "Sahi Sat‌ Chidaanand Brahm Rup Tu,",
+        "Bhram Men Bhuli Naa Jivodhen Bolo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अग्नि ना जरावे अजर रूप तूं,",
+        "पवन ना उड़ावे अचर रूप तूं ।",
+        "मृत्यु ना नसावे अमर रूप तूं,",
+        "मिली देह से ना देहो5हं बोलो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Agni Naa Jaraave Ajar Rup Tu,",
+        "Pavan Naa Uraave Achar Rup Tu.",
+        "Mrityu Naa Nasaave Amar Rup Tu,",
+        "Mili Deh Se Naa Deho5Han Bolo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सर्व से परे सर्व आधार तूं,",
+        "सर्व रूप निर्गुन निराकार तूं ।",
+        "कहे टेऊँ निश्चे निरहंकार तूं,",
+        "टन्द्व में पड़ी ना दासो 5हं बोलो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sarv Se Pare Sarv Aadhaar Tu,",
+        "Sarv Rup Nirgun Niraakaar Tu.",
+        "Kahe Teun Nishche Nirhankaar Tu,",
+        "Tandv Men Pari Naa Daaso 5Han Bolo || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शिवोधन शिवोधन शिवोधेन बोलो,",
-      "सदा तुम जिजनयासु शिवोधन बोलो (टेक)."
+      "विश्व में व्यापक परम रूप तूं,",
+      "इन्द्रियों से अगोचर अगम रूप तूं ।",
+      "सही सत्‌ चिदानंद ब्रह्म रूप तूं,",
+      "भ्रम में भुली ना जीवोडहें बोलो ॥१ ॥"
     ],
     [
-      "विशव मेन वयापक परम रुप तु,",
-      "िनदरियोन से गोचर गम रुप तु."
+      "अग्नि ना जरावे अजर रूप तूं,",
+      "पवन ना उड़ावे अचर रूप तूं ।",
+      "मृत्यु ना नसावे अमर रूप तूं,",
+      "मिली देह से ना देहो5हं बोलो ॥२ ॥"
     ],
     [
-      "सहि सत‌ चिदाननद बरहम रुप तु,",
-      "भरम मेन भुलि ना जिवोधेन बोलो || 1 ||."
-    ],
-    [
-      "गे",
-      "गनि ना जरावे जर रुप तु,"
-    ],
-    [
-      "पवन ना ुरावे चर रुप तु.",
-      "मरितयु ना नसावे मर रुप तु,"
-    ],
-    [
-      "मिलि देह से ना देहोहन बोलो || 2 ||."
-    ],
-    [
-      "सर्व से परे सर्व ाधार तु,",
-      "सर्व रुप निरगुन निराकार तु."
-    ],
-    [
-      "कहे तेऊँ निशचे निरहनकार तु,",
-      "तनदव मेन परि ना दासो 5हन बोलो || 3 ||"
+      "सर्व से परे सर्व आधार तूं,",
+      "सर्व रूप निर्गुन निराकार तूं ।",
+      "कहे टेऊँ निश्चे निरहंकार तूं,",
+      "टन्द्व में पड़ी ना दासो 5हं बोलो ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shivodhan Shivodhan Shivodhen Bolo,",
-      "Sadaa Tum Jijnyaasu Shivodhan Bolo (Tek)."
-    ],
-    [
       "Vishv Men Vyaapak Param Rup Tu,",
-      "Indriyon Se Agochar Agam Rup Tu."
-    ],
-    [
+      "Indriyon Se Agochar Agam Rup Tu.",
       "Sahi Sat‌ Chidaanand Brahm Rup Tu,",
-      "Bhram Men Bhuli Naa Jivodhen Bolo || 1 ||."
+      "Bhram Men Bhuli Naa Jivodhen Bolo || 1 ||"
     ],
     [
-      "Ge",
-      "Agni Naa Jaraave Ajar Rup Tu,"
-    ],
-    [
+      "Agni Naa Jaraave Ajar Rup Tu,",
       "Pavan Naa Uraave Achar Rup Tu.",
-      "Mrityu Naa Nasaave Amar Rup Tu,"
-    ],
-    [
-      "Mili Deh Se Naa Deho5Han Bolo || 2 ||."
+      "Mrityu Naa Nasaave Amar Rup Tu,",
+      "Mili Deh Se Naa Deho5Han Bolo || 2 ||"
     ],
     [
       "Sarv Se Pare Sarv Aadhaar Tu,",
-      "Sarv Rup Nirgun Niraakaar Tu."
-    ],
-    [
+      "Sarv Rup Nirgun Niraakaar Tu.",
       "Kahe Teun Nishche Nirhankaar Tu,",
       "Tandv Men Pari Naa Daaso 5Han Bolo || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 11 || 226 ||",
-    "Shivodhan Shivodhan Shivodhen Bolo",
-    "शिवोधन शिवोधन शिवोधेन बोलो"
+    "शिवोडहं शिवोडहं शिवोडहें बोलो,",
+    "Shivodhan Shivodhan Shivodhen Bolo,",
+    "राग भैरवी भजन 11",
+    "Raag Bhairvi Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 226,
+  "displayOrder": 11,
+  "overallOrder": 226,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 141",
+  "updatedAt": "2026-10-26"
 }

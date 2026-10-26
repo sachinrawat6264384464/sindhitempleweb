@@ -1,0 +1,107 @@
+{
+  "id": "bhajan-0473",
+  "slug": "saadho-is-vidhi-poojaa-kije",
+  "categoryId": "raag-huseni",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "साधो इस विधि पूजा कीजे",
+  "romanTitle": "Saadho Is Vidhi Poojaa Kije",
+  "firstLine": "Saadho Is Vidhi Poojaa Kije.",
+  "heading": "।। राग हुसेनी भजन ।। १२ ।। ४७४।॥।",
+  "tek": [
+    "साधो इस विधि पूजा कीजे ।",
+    "ऊठत बैठत सोवत जागत सद्‌गुरु शब्द पढ़ीजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho Is Vidhi Poojaa Kije.",
+    "Uthat Baithat Sovat Jaagat Sad‌Guru Shabd Parhije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दया सर्व पर कर भण्डारी वीर धर्म ठहराओ ।",
+        "सुरितां जोगिनि को जागाए अनुभव दीप जगाओ ॥8 ॥"
+      ],
+      "romanLines": [
+        "Dayaa Sarv Par Kar Bhandaari Vir Dharm Thahraao.",
+        "Suritaan Jogini Ko Jaagaae Anubhav Dip Jagaao || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "स्थित करके अज विश्वासा आतम दर्शन करिये ।",
+        "ब्रह्म विचारी करो अचारी ध्यान उसीका धरिये ॥? ॥२ ॥",
+        "नौराता नौ द्वारे जागी खोलो दसम द्वारा ।",
+        "देवी आतम शकक्‍्ती का तुम करले तहँँ दीदारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sthit Karke Aj Vishvaasaa Aatam Darshan Kariye.",
+        "Brahm Vichaari Karo Achaari Dhyaan Usikaa Dhariye || ? || 2 ||",
+        "Nauraataa Nau Dvaare Jaagi Kholo Dasam Dvaaraa.",
+        "Devi Aatam Shakak‍Ti Kaa Tum Karle Tahann Didaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ इस विधि पूजा से देवी प्रसन्न होवे ।",
+        "मुक्ती भकक्‍्ती शकक्‍ती देके जन्म मरन दुख खोवे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Is Vidhi Poojaa Se Devi Prasann Hove.",
+        "Mukti Bhakak‍Ti Shakak‍Ti Deke Janm Maran Dukh Khove || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "दया सर्व पर कर भण्डारी वीर धर्म ठहराओ ।",
+      "सुरितां जोगिनि को जागाए अनुभव दीप जगाओ ॥8 ॥"
+    ],
+    [
+      "स्थित करके अज विश्वासा आतम दर्शन करिये ।",
+      "ब्रह्म विचारी करो अचारी ध्यान उसीका धरिये ॥? ॥२ ॥",
+      "नौराता नौ द्वारे जागी खोलो दसम द्वारा ।",
+      "देवी आतम शकक्‍्ती का तुम करले तहँँ दीदारा ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ इस विधि पूजा से देवी प्रसन्न होवे ।",
+      "मुक्ती भकक्‍्ती शकक्‍ती देके जन्म मरन दुख खोवे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Dayaa Sarv Par Kar Bhandaari Vir Dharm Thahraao.",
+      "Suritaan Jogini Ko Jaagaae Anubhav Dip Jagaao || 8 ||"
+    ],
+    [
+      "Sthit Karke Aj Vishvaasaa Aatam Darshan Kariye.",
+      "Brahm Vichaari Karo Achaari Dhyaan Usikaa Dhariye || ? || 2 ||",
+      "Nauraataa Nau Dvaare Jaagi Kholo Dasam Dvaaraa.",
+      "Devi Aatam Shakak‍Ti Kaa Tum Karle Tahann Didaaraa || 3 ||"
+    ],
+    [
+      "Kahe Teun Is Vidhi Poojaa Se Devi Prasann Hove.",
+      "Mukti Bhakak‍Ti Shakak‍Ti Deke Janm Maran Dukh Khove || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "साधो इस विधि पूजा कीजे",
+    "Saadho Is Vidhi Poojaa Kije",
+    "राग हुसैनी भजन 12",
+    "Raag Huseni Bhajan 12"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
+  ],
+  "displayOrder": 12,
+  "overallOrder": 473,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 265",
+  "updatedAt": "2026-10-26"
+}

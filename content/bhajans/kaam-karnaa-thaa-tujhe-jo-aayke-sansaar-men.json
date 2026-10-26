@@ -1,54 +1,101 @@
 {
   "id": "bhajan-0261",
   "slug": "kaam-karnaa-thaa-tujhe-jo-aayke-sansaar-men",
-  "categoryId": "raag-bhairav",
-  "title": "काम करना था तुझे जो ायके सनसार मेन",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "काम करना था तुझे जो आयके संसार में",
   "romanTitle": "Kaam Karnaa Thaa Tujhe Jo Aayke Sansaar Men",
-  "firstLine": "Kaam Karnaa Thaa Tujhe Jo Aayke Sansaar Men. Aap Usko Bhul Gaye Phas Moh Maayaa Jaar Men (Tek).",
+  "firstLine": "Kaam Karnaa Thaa Tujhe Jo Aayke Sansaar Men.",
+  "heading": "।। राग भैरवी भजन ।। ४६ ।। २६१।।",
+  "tek": [
+    "काम करना था तुझे जो आयके संसार में ।",
+    "आप उसको भूल गये फस मोह माया जार में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaam Karnaa Thaa Tujhe Jo Aayke Sansaar Men.",
+    "Aap Usko Bhul Gaye Phas Moh Maayaa Jaar Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गत्द्",
+        "राम ने निज रूप दीना आपको कृपा करे ।",
+        "ताहिं वृथा तुम गँवाया जगत के व्यवहार में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gatd",
+        "Raam Ne Nij Rup Dinaa Aapko Kripaa Kare.",
+        "Taahin Vrithaa Tum Ganvaayaa Jagat Ke Vyavhaar Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कर्म करके धर्म धरके पार तरना था तुझे ।",
+        "आप उल्टे पाप करके बह गये भव धार में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Karm Karke Dharm Dharke Paar Tarnaa Thaa Tujhe.",
+        "Aap Ulte Paap Karke Bah Gaye Bhav Dhaar Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "संत गुरु के संग में रह आप लखना था तुझे ।",
+        "आप उल्टा खोय दीना रूप निज अहंकार में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Guru Ke Sang Men Rah Aap Lakhnaa Thaa Tujhe.",
+        "Aap Ultaa Khoy Dinaa Rup Nij Ahankaar Men || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ सोच मन में समय अब भी ना गया ।",
+        "साध संग हरि नाम जप कर तन सफल उपकार में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Soch Man Men Samay Ab Bhi Naa Gayaa.",
+        "Saadh Sang Hari Naam Jap Kar Tan Saphal Upkaar Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "काम करना था तुझे जो ायके सनसार मेन.",
-      "ाप ुसको भुल गये फस मोह माया जार मेन (टेक)."
+      "गत्द्",
+      "राम ने निज रूप दीना आपको कृपा करे ।",
+      "ताहिं वृथा तुम गँवाया जगत के व्यवहार में ॥१ ॥"
     ],
     [
-      "गतद",
-      "राम ने निज रुप दिना ापको कृपा करे."
+      "कर्म करके धर्म धरके पार तरना था तुझे ।",
+      "आप उल्टे पाप करके बह गये भव धार में ॥२ ॥"
     ],
     [
-      "ताहिन वरिथा तुम गनवाया जगत के वयवहार मेन || 1 ||."
+      "संत गुरु के संग में रह आप लखना था तुझे ।",
+      "आप उल्टा खोय दीना रूप निज अहंकार में ॥३ ॥"
     ],
     [
-      "करम करके धरम धरके पार तरना था तुझे.",
-      "ाप ुलते पाप करके बह गये भव धार मेन || 2 ||."
-    ],
-    [
-      "संत गुरु के सनग मेन रह ाप लखना था तुझे.",
-      "ाप ुलता खोय दिना रुप निज हनकार मेन ||.3 ||"
-    ],
-    [
-      "कहत तेऊँ सोच मन मेन समय ब भि ना गया.",
-      "साध सनग हरि नाम जप कर तन सफल ुपकार मेन || 4 ||"
+      "कहत टेऊँ सोच मन में समय अब भी ना गया ।",
+      "साध संग हरि नाम जप कर तन सफल उपकार में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kaam Karnaa Thaa Tujhe Jo Aayke Sansaar Men.",
-      "Aap Usko Bhul Gaye Phas Moh Maayaa Jaar Men (Tek)."
-    ],
-    [
       "Gatd",
-      "Raam Ne Nij Rup Dinaa Aapko Kripaa Kare."
-    ],
-    [
-      "Taahin Vrithaa Tum Ganvaayaa Jagat Ke Vyavhaar Men || 1 ||."
+      "Raam Ne Nij Rup Dinaa Aapko Kripaa Kare.",
+      "Taahin Vrithaa Tum Ganvaayaa Jagat Ke Vyavhaar Men || 1 ||"
     ],
     [
       "Karm Karke Dharm Dharke Paar Tarnaa Thaa Tujhe.",
-      "Aap Ulte Paap Karke Bah Gaye Bhav Dhaar Men || 2 ||."
+      "Aap Ulte Paap Karke Bah Gaye Bhav Dhaar Men || 2 ||"
     ],
     [
       "Sant Guru Ke Sang Men Rah Aap Lakhnaa Thaa Tujhe.",
-      "Aap Ultaa Khoy Dinaa Rup Nij Ahankaar Men ||.3 ||"
+      "Aap Ultaa Khoy Dinaa Rup Nij Ahankaar Men || 3 ||"
     ],
     [
       "Kahat Teun Soch Man Men Samay Ab Bhi Naa Gayaa.",
@@ -56,18 +103,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 46 || 261 ||",
+    "काम करना था तुझे जो आयके संसार में",
     "Kaam Karnaa Thaa Tujhe Jo Aayke Sansaar Men",
-    "काम करना था तुझे जो ायके सनसार मेन"
+    "राग भैरवी भजन 46",
+    "Raag Bhairvi Bhajan 46"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 261,
+  "displayOrder": 46,
+  "overallOrder": 261,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 161",
+  "updatedAt": "2026-10-26"
 }

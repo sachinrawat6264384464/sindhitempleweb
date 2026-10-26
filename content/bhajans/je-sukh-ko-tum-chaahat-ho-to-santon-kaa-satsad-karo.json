@@ -2,51 +2,94 @@
   "id": "bhajan-0327",
   "slug": "je-sukh-ko-tum-chaahat-ho-to-santon-kaa-satsad-karo",
   "categoryId": "raag-zilaa",
-  "title": "जे सुख को तुम चाहत हो तो, सनतोन का सतसद करो",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "जे सुख को तुम चाहत हो तो, सनतों का सत्सड् करो",
   "romanTitle": "Je Sukh Ko Tum Chaahat Ho To, Santon Kaa Satsad Karo",
   "firstLine": "Je Sukh Ko Tum Chaahat Ho To, Santon Kaa Satsad Karo (Tek).",
+  "heading": "।। राग ज़िला भजन ॥। १४ ।। ३२७॥।",
+  "tek": [
+    "जे सुख को तुम चाहत हो तो, सनतों का सत्सड् करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Je Sukh Ko Tum Chaahat Ho To, Santon Kaa Satsad Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो सुख है सत्सड्भति माहीं, सो सुख स्वर्ग लोक में नाहीं ।",
+        "भावें वैकुण्ठ जा विचरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Sukh Hai Satsadbhati Maahin, So Sukh Svarg Lok Men Naahin.",
+        "Bhaaven Vaikunth Jaa Vichro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्त समागम सुरतरु भारा, पूर्ण कारज करते सारा ।",
+        "सद्‌गुण ले भण्डार भरो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sant Samaagam Surtaru Bhaaraa, Purn Kaaraj Karte Saaraa.",
+        "Sad‌Gun Le Bhandaar Bharo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साध संगति की करके सेवा, देखो प्रत्यक्ष आतम देवा ।",
+        "जन्म मरण का दूख हरो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Ki Karke Sevaa, Dekho Pratyaksh Aatam Devaa.",
+        "Janm Maran Kaa Dukh Haro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुन वचन हमारे, साध संगति भव सागर तारे ।",
+        "निश्चय यह मन माहिं धरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sun Vachan Hamaare, Saadh Sangti Bhav Saagar Taare.",
+        "Nishchay Yah Man Maahin Dharo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जे सुख को तुम चाहत हो तो, सनतोन का सतसद करो (टेक)."
+      "जो सुख है सत्सड्भति माहीं, सो सुख स्वर्ग लोक में नाहीं ।",
+      "भावें वैकुण्ठ जा विचरो ॥१ ॥"
     ],
     [
-      "जो सुख है सतसदभति माहिन, सो सुख सवरग लोक मेन नाहिन.",
-      "भावेन वैकुनथ जा विचरो.1 ||."
+      "सन्त समागम सुरतरु भारा, पूर्ण कारज करते सारा ।",
+      "सद्‌गुण ले भण्डार भरो ॥२ ॥"
     ],
     [
-      "गत",
-      "संत समागम सुरतरु भारा, पुरन कारज करते सारा."
+      "साध संगति की करके सेवा, देखो प्रत्यक्ष आतम देवा ।",
+      "जन्म मरण का दूख हरो ॥३ ॥"
     ],
     [
-      "सदगुन ले भनदार भरो || 2 ||."
-    ],
-    [
-      "साध सनगति कि करके सेवा, देखो परतयकश ातम देवा.",
-      "जनम मरन का दुःख हरो ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ सुन वचन हमारे, साध सनगति भव सागर तारे.",
-      "निशचय यह मन माहिन धरो || 4 ||"
+      "कहे टेऊँ सुन वचन हमारे, साध संगति भव सागर तारे ।",
+      "निश्चय यह मन माहिं धरो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Je Sukh Ko Tum Chaahat Ho To, Santon Kaa Satsad Karo (Tek)."
-    ],
-    [
       "Jo Sukh Hai Satsadbhati Maahin, So Sukh Svarg Lok Men Naahin.",
-      "Bhaaven Vaikunth Jaa Vichro.1 ||."
+      "Bhaaven Vaikunth Jaa Vichro || 1 ||"
     ],
     [
-      "Gat",
-      "Sant Samaagam Surtaru Bhaaraa, Purn Kaaraj Karte Saaraa."
-    ],
-    [
-      "Sad‌Gun Le Bhandaar Bharo || 2 ||."
+      "Sant Samaagam Surtaru Bhaaraa, Purn Kaaraj Karte Saaraa.",
+      "Sad‌Gun Le Bhandaar Bharo || 2 ||"
     ],
     [
       "Saadh Sangti Ki Karke Sevaa, Dekho Pratyaksh Aatam Devaa.",
-      "Janm Maran Kaa Dukh Haro ||.3. ||."
+      "Janm Maran Kaa Dukh Haro || 3 ||"
     ],
     [
       "Kahe Teun Sun Vachan Hamaare, Saadh Sangti Bhav Saagar Taare.",
@@ -54,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan ||. 14 || 327 ||.",
+    "जे सुख को तुम चाहत हो तो, सनतों का सत्सड् करो",
     "Je Sukh Ko Tum Chaahat Ho To, Santon Kaa Satsad Karo",
-    "जे सुख को तुम चाहत हो तो, सनतोन का सतसद करो"
+    "राग ज़िला भजन 14",
+    "Raag Zilaa Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 327,
+  "displayOrder": 14,
+  "overallOrder": 327,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 195",
+  "updatedAt": "2026-10-26"
 }

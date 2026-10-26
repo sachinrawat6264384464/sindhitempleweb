@@ -1,57 +1,97 @@
 {
   "id": "bhajan-0274",
   "slug": "tum-saadh-sangat-men-aao-nich-sang-naa-jaao",
-  "categoryId": "raag-bhairav",
-  "title": "तुम साध सनगत मेन ाो, निच सनग ना जाो",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "तुम साध संगत में आओ, नीच संग ना जाओ",
   "romanTitle": "Tum Saadh Sangat Men Aao, Nich Sang Naa Jaao",
   "firstLine": "Tum Saadh Sangat Men Aao, Nich Sang Naa Jaao (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५९ ।। २७४।॥",
+  "tek": [
+    "तुम साध संगत में आओ, नीच संग ना जाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Saadh Sangat Men Aao, Nich Sang Naa Jaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साध संग है सब ते ऊँचा, तामें प्रेम बढ़ाओ ।",
+        "नीचन का संग है अति नीचा, तांसे चीत न लाओ ।8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sang Hai Sab Te Unchaa, Taamen Prem Barhaao.",
+        "Nichan Kaa Sang Hai Ati Nichaa, Taanse Chit Na Laao.8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साध संग है मुक्ती मार्ग, तां मिल मुक्ती पाओ ।",
+        "नीच संग बन्धन में बान्धे, ताहिं न आप फसाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sang Hai Mukti Maarg, Taan Mil Mukti Paao.",
+        "Nich Sang Bandhan Men Baandhe, Taahin Na Aap Phasaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मूरख का संग भूल न कीजे, जे तुम हित को चाहो ।",
+        "कहता टेऊँ साध संगति मैं, बैठ हरी गुन गाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Murakh Kaa Sang Bhul Na Kije, Je Tum Hit Ko Chaaho.",
+        "Kahtaa Teun Saadh Sangti Main, Baith Hari Gun Gaao || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम साध सनगत मेन ाो, निच सनग ना जाो (टेक)."
+      "साध संग है सब ते ऊँचा, तामें प्रेम बढ़ाओ ।",
+      "नीचन का संग है अति नीचा, तांसे चीत न लाओ ।8 ॥१ ॥"
     ],
     [
-      "साध सनग है सब ते ुनचा, तामेन प्रेम बरहाो.",
-      "निचन का सनग है ति निचा, तानसे चित न लाो.8₹ ||"
+      "साध संग है मुक्ती मार्ग, तां मिल मुक्ती पाओ ।",
+      "नीच संग बन्धन में बान्धे, ताहिं न आप फसाओ ॥२ ॥"
     ],
     [
-      "साध सनग है मुक्ति मारग, तान मिल मुक्ति पाो.",
-      "निच सनग बनधन मेन बानधे, ताहिन न ाप फसाो || 2. ||."
-    ],
-    [
-      "मुरख का सनग भुल न किजे, जे तुम हित को चाहो.",
-      "कहता तेऊँ साध सनगति मैं, बैथ हरि गुन गाो || 3 ||"
+      "मूरख का संग भूल न कीजे, जे तुम हित को चाहो ।",
+      "कहता टेऊँ साध संगति मैं, बैठ हरी गुन गाओ ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Saadh Sangat Men Aao, Nich Sang Naa Jaao (Tek)."
-    ],
-    [
       "Saadh Sang Hai Sab Te Unchaa, Taamen Prem Barhaao.",
-      "Nichan Kaa Sang Hai Ati Nichaa, Taanse Chit N Laao.8₹ ||"
+      "Nichan Kaa Sang Hai Ati Nichaa, Taanse Chit Na Laao.8 || 1 ||"
     ],
     [
       "Saadh Sang Hai Mukti Maarg, Taan Mil Mukti Paao.",
-      "Nich Sang Bandhan Men Baandhe, Taahin N Aap Phasaao || 2. ||."
+      "Nich Sang Bandhan Men Baandhe, Taahin Na Aap Phasaao || 2 ||"
     ],
     [
-      "Murakh Kaa Sang Bhul N Kije, Je Tum Hit Ko Chaaho.",
+      "Murakh Kaa Sang Bhul Na Kije, Je Tum Hit Ko Chaaho.",
       "Kahtaa Teun Saadh Sangti Main, Baith Hari Gun Gaao || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 59 || 274. ||",
+    "तुम साध संगत में आओ, नीच संग ना जाओ",
     "Tum Saadh Sangat Men Aao, Nich Sang Naa Jaao",
-    "तुम साध सनगत मेन ाो, निच सनग ना जाो"
+    "राग भैरवी भजन 59",
+    "Raag Bhairvi Bhajan 59"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 274,
+  "displayOrder": 59,
+  "overallOrder": 274,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 168",
+  "updatedAt": "2026-10-26"
 }

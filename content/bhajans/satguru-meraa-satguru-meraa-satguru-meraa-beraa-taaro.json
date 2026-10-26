@@ -1,58 +1,97 @@
 {
-  "id": "bhajan-0774",
+  "id": "bhajan-0772",
   "slug": "satguru-meraa-satguru-meraa-satguru-meraa-beraa-taaro",
   "categoryId": "raag-pilaa",
-  "title": "सतगुरु मेरा सतगुरु मेरा, सतगुरु मेरा बेरा तारो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्‌गुरु मेरा सत्‌गुरु मेरा, सत्‌गुरु मेरा बेड़ा तारो",
   "romanTitle": "Sat‌Guru Meraa Sat‌Guru Meraa, Sat‌Guru Meraa Beraa Taaro",
   "firstLine": "Sat‌Guru Meraa Sat‌Guru Meraa, Sat‌Guru Meraa Beraa Taaro (Tek).",
+  "heading": "।। राग पीला भजन ॥। ५२ ॥। ७७४।।",
+  "tek": [
+    "सत्‌गुरु मेरा सत्‌गुरु मेरा, सत्‌गुरु मेरा बेड़ा तारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Meraa Sat‌Guru Meraa, Sat‌Guru Meraa Beraa Taaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बाप न माई भैन न भाई, तुम बिन मेरा को न सहाई ।",
+        "तूंही ताता तूंही माता, तूंही दाता देवन हारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baap Na Maai Bhain Na Bhaai, Tum Bin Meraa Ko Na Sahaai.",
+        "Tunhi Taataa Tunhi Maataa, Tunhi Daataa Devan Haaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम हो सत्‌गुरु दीन दयाला, हरदम मेरा हो रखपाला ।",
+        "हे कृपाला करो निहाला, काट जंजाला भव दुख भारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sat‌Guru Din Dayaalaa, Hardam Meraa Ho Rakhpaalaa.",
+        "He Kripaalaa Karo Nihaalaa, Kaat Janjaalaa Bhav Dukh Bhaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ यह अरज़ हमारा, सत्‌गुरु मांगूं दरस तुम्हारा ।",
+        "दरस दिखाए ज्ञान सुनाए, पाप मिटाए मोहि सुधारों ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Araz Hamaaraa, Sat‌Guru Maangun Daras Tumhaaraa.",
+        "Daras Dikhaae Gyaan Sunaae, Paap Mitaae Mohi Sudhaaron || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु मेरा सतगुरु मेरा, सतगुरु मेरा बेरा तारो (टेक)."
+      "बाप न माई भैन न भाई, तुम बिन मेरा को न सहाई ।",
+      "तूंही ताता तूंही माता, तूंही दाता देवन हारो ॥१ ॥"
     ],
     [
-      "बाप न माि भैन न भाि, तुम बिन मेरा को न सहाि.",
-      "तुनहि ताता तुनहि माता, तुनहि दाता देवन हारो.1 ||."
+      "तुम हो सत्‌गुरु दीन दयाला, हरदम मेरा हो रखपाला ।",
+      "हे कृपाला करो निहाला, काट जंजाला भव दुख भारो ॥२ ॥"
     ],
     [
-      "तुम हो सतगुरु दीन दयाला, हरदम मेरा हो रखपाला.",
-      "हे करिपाला करो निहाला, कात जनजाला भव दुःख भारो || 2 ||."
-    ],
-    [
-      "कहे तेऊँ यह रz हमारा, सतगुरु मानगुन दरस तुमहारा.",
-      "दरस दिखाे ज्ञान सुनाे, पाप मिताे मोहि सुधारोन || 3 ||"
+      "कहे टेऊँ यह अरज़ हमारा, सत्‌गुरु मांगूं दरस तुम्हारा ।",
+      "दरस दिखाए ज्ञान सुनाए, पाप मिटाए मोहि सुधारों ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Meraa Sat‌Guru Meraa, Sat‌Guru Meraa Beraa Taaro (Tek)."
-    ],
-    [
-      "Baap N Maai Bhain N Bhaai, Tum Bin Meraa Ko N Sahaai.",
-      "Tunhi Taataa Tunhi Maataa, Tunhi Daataa Devan Haaro.1 ||."
+      "Baap Na Maai Bhain Na Bhaai, Tum Bin Meraa Ko Na Sahaai.",
+      "Tunhi Taataa Tunhi Maataa, Tunhi Daataa Devan Haaro || 1 ||"
     ],
     [
       "Tum Ho Sat‌Guru Din Dayaalaa, Hardam Meraa Ho Rakhpaalaa.",
-      "He Kripaalaa Karo Nihaalaa, Kaat Janjaalaa Bhav Dukh Bhaaro || 2 ||."
+      "He Kripaalaa Karo Nihaalaa, Kaat Janjaalaa Bhav Dukh Bhaaro || 2 ||"
     ],
     [
       "Kahe Teun Yah Araz Hamaaraa, Sat‌Guru Maangun Daras Tumhaaraa.",
-      "Daras Dikhaae Jnyaan Sunaae, Paap Mitaae Mohi Sudhaaron || 3 ||"
+      "Daras Dikhaae Gyaan Sunaae, Paap Mitaae Mohi Sudhaaron || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan ||. 52 ||. 774 ||",
+    "सत्‌गुरु मेरा सत्‌गुरु मेरा, सत्‌गुरु मेरा बेड़ा तारो",
     "Sat‌Guru Meraa Sat‌Guru Meraa, Sat‌Guru Meraa Beraa Taaro",
-    "सतगुरु मेरा सतगुरु मेरा, सतगुरु मेरा बेरा तारो"
+    "राग पीला भजन 51",
+    "Raag Pilaa Bhajan 51"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 774,
+  "displayOrder": 51,
+  "overallOrder": 772,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 409",
+  "updatedAt": "2026-10-26"
 }

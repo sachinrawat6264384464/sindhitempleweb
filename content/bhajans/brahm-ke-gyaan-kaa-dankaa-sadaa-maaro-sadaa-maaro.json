@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0569",
+  "slug": "brahm-ke-gyaan-kaa-dankaa-sadaa-maaro-sadaa-maaro",
+  "categoryId": "raag-khambhaat",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "ब्रह्म के ज्ञान का डंका, सदा मारो सदा मारो",
+  "romanTitle": "Brahm Ke Gyaan Kaa Dankaa, Sadaa Maaro Sadaa Maaro",
+  "firstLine": "Brahm Ke Gyaan Kaa Dankaa, Sadaa Maaro Sadaa Maaro (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। २१ ।। ५७०।।",
+  "tek": [
+    "ब्रह्म के ज्ञान का डंका, सदा मारो सदा मारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Brahm Ke Gyaan Kaa Dankaa, Sadaa Maaro Sadaa Maaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्म अरु जीव इक रूपा, यही निश्चय धरो मन में ।",
+        "भ्रान्ती भेद की शंका, सदा टारो सदा टारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahm Aru Jiv Ik Rupaa, Yahi Nishchay Dharo Man Men.",
+        "Bhraanti Bhed Ki Shankaa, Sadaa Taaro Sadaa Taaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लखो निज राम आत्म को, ज्ञान हनुमान को लेके ।",
+        "तुरत अज्ञान की लंका, सदा जारो सदा जारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Lakho Nij Raam Aatm Ko, Gyaan Hanumaan Ko Leke.",
+        "Turat Ajnyaan Ki Lankaa, Sadaa Jaaro Sadaa Jaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "विवेक वैराग के बल से, दशानन मन को जीते ।",
+        "भ्रम का कोट जो बंका, सदा डारो सदा डारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vivek Vairaag Ke Bal Se, Dashaanan Man Ko Jite.",
+        "Bhram Kaa Kot Jo Bankaa, Sadaa Daaro Sadaa Daaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जगत जीवा, ब्रह्म इक रूप हैं तीनों ।",
+        "यही उर माहिं इक अंका, सदा धारो सदा धारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jagat Jivaa, Brahm Ik Rup Hain Tinon.",
+        "Yahi Ur Maahin Ik Ankaa, Sadaa Dhaaro Sadaa Dhaaro || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "ब्रह्म अरु जीव इक रूपा, यही निश्चय धरो मन में ।",
+      "भ्रान्ती भेद की शंका, सदा टारो सदा टारो ॥१ ॥"
+    ],
+    [
+      "लखो निज राम आत्म को, ज्ञान हनुमान को लेके ।",
+      "तुरत अज्ञान की लंका, सदा जारो सदा जारो ॥२ ॥"
+    ],
+    [
+      "विवेक वैराग के बल से, दशानन मन को जीते ।",
+      "भ्रम का कोट जो बंका, सदा डारो सदा डारो ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ जगत जीवा, ब्रह्म इक रूप हैं तीनों ।",
+      "यही उर माहिं इक अंका, सदा धारो सदा धारो ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Brahm Aru Jiv Ik Rupaa, Yahi Nishchay Dharo Man Men.",
+      "Bhraanti Bhed Ki Shankaa, Sadaa Taaro Sadaa Taaro || 1 ||"
+    ],
+    [
+      "Lakho Nij Raam Aatm Ko, Gyaan Hanumaan Ko Leke.",
+      "Turat Ajnyaan Ki Lankaa, Sadaa Jaaro Sadaa Jaaro || 2 ||"
+    ],
+    [
+      "Vivek Vairaag Ke Bal Se, Dashaanan Man Ko Jite.",
+      "Bhram Kaa Kot Jo Bankaa, Sadaa Daaro Sadaa Daaro || 3 ||"
+    ],
+    [
+      "Kahe Teun Jagat Jivaa, Brahm Ik Rup Hain Tinon.",
+      "Yahi Ur Maahin Ik Ankaa, Sadaa Dhaaro Sadaa Dhaaro || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "ब्रह्म के ज्ञान का डंका, सदा मारो सदा मारो",
+    "Brahm Ke Gyaan Kaa Dankaa, Sadaa Maaro Sadaa Maaro",
+    "राग खंभात भजन 21",
+    "Raag Khambhaat Bhajan 21"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
+  ],
+  "displayOrder": 21,
+  "overallOrder": 569,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 310",
+  "updatedAt": "2026-10-26"
+}

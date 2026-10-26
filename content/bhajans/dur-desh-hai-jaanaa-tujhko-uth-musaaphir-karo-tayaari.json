@@ -2,52 +2,99 @@
   "id": "bhajan-0062",
   "slug": "dur-desh-hai-jaanaa-tujhko-uth-musaaphir-karo-tayaari",
   "categoryId": "raag-prabhaati",
-  "title": "दुर देश है जाना तुझको, ुथ मुसाफिर करो तयारि",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "दूर देश है जाना तुझको, ऊठ मुसाफिर करो तयारी",
   "romanTitle": "Dur Desh Hai Jaanaa Tujhko, Uth Musaaphir Karo Tayaari",
   "firstLine": "Dur Desh Hai Jaanaa Tujhko, Uth Musaaphir Karo Tayaari (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ३० ।। ६२।।",
+  "tek": [
+    "दूर देश है जाना तुझको, ऊठ मुसाफिर करो तयारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dur Desh Hai Jaanaa Tujhko, Uth Musaaphir Karo Tayaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साथी तेरे गये सवेरे, लागी तुमको निद्रा प्यारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saathi Tere Gaye Savere, Laagi Tumko Nidraa Pyaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गाफ़िल गफ्लत कर ना इतनी , मंज़िल है अति दूर तुम्हारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gaafil Gaphlat Kar Naa Itni, Manzil Hai Ati Dur Tumhaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जागी अपना समर सम्भालो , अबहीं तुम करके हुशियारी । । ३े ॥"
+      ],
+      "romanLines": [
+        "Jaagi Apnaa Samar Sambhaalo, Abhin Tum Karke Hushiyaari.. 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब सन्त पुकारे, फेर न मिल हैं ऐसी वारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Sant Pukaare, Pher Na Mil Hain Aisi Vaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दुर देश है जाना तुझको, ुथ मुसाफिर करो तयारि (टेक)."
+      "साथी तेरे गये सवेरे, लागी तुमको निद्रा प्यारी ॥१ ॥"
     ],
     [
-      "साथि तेरे गये सवेरे, लागि तुमको निदरा पयारि || 1 ||"
+      "गाफ़िल गफ्लत कर ना इतनी , मंज़िल है अति दूर तुम्हारी ॥२ ॥"
     ],
     [
-      "गाfिल गफलत कर ना ितनि, मनzिल है ति दुर तुमहारि. 2 ||",
-      "जागि पना समर समभालो, भिन तुम करके हुशियारि.. 3े ||"
+      "जागी अपना समर सम्भालो , अबहीं तुम करके हुशियारी । । ३े ॥"
     ],
     [
-      "कहे तेऊँ सब संत पुकारे, फेर न मिल हैन ैसि वारि || 4 ||"
+      "कहे टेऊँ सब सन्त पुकारे, फेर न मिल हैं ऐसी वारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dur Desh Hai Jaanaa Tujhko, Uth Musaaphir Karo Tayaari (Tek)."
-    ],
-    [
       "Saathi Tere Gaye Savere, Laagi Tumko Nidraa Pyaari || 1 ||"
     ],
     [
-      "Gaafil Gaphlat Kar Naa Itni, Manzil Hai Ati Dur Tumhaari. 2 ||",
+      "Gaafil Gaphlat Kar Naa Itni, Manzil Hai Ati Dur Tumhaari || 2 ||"
+    ],
+    [
       "Jaagi Apnaa Samar Sambhaalo, Abhin Tum Karke Hushiyaari.. 3E ||"
     ],
     [
-      "Kahe Teun Sab Sant Pukaare, Pher N Mil Hain Aisi Vaari || 4 ||"
+      "Kahe Teun Sab Sant Pukaare, Pher Na Mil Hain Aisi Vaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 30 || 62 ||",
+    "दूर देश है जाना तुझको, ऊठ मुसाफिर करो तयारी",
     "Dur Desh Hai Jaanaa Tujhko, Uth Musaaphir Karo Tayaari",
-    "दुर देश है जाना तुझको, ुथ मुसाफिर करो तयारि"
+    "राग प्रभाती भजन 30",
+    "Raag Prabhaati Bhajan 30"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 62,
+  "displayOrder": 30,
+  "overallOrder": 62,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 56",
+  "updatedAt": "2026-10-26"
 }

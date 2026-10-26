@@ -1,82 +1,137 @@
 {
   "id": "bhajan-0216",
   "slug": "meri-dil-devaani-darshan-guru-pyaasi",
-  "categoryId": "raag-bhairav",
-  "title": "मेरि दिल देवानि दरशन गुरु पयासि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मेरी दिल देवानी दर्शन गुरु प्यासी",
   "romanTitle": "Meri Dil Devaani Darshan Guru Pyaasi",
-  "firstLine": "Meri Dil Devaani Darshan Guru Pyaasi. Binaa Dekh Dipak Patang Jyon Udaasi (Tek).",
+  "firstLine": "Meri Dil Devaani Darshan Guru Pyaasi.",
+  "heading": "।। राग भैरवी भजन ।। १ ।। २१६।।",
+  "tek": [
+    "मेरी दिल देवानी दर्शन गुरु प्यासी ।",
+    "बिना देख दीपक पतंग ज्यों उदासी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meri Dil Devaani Darshan Guru Pyaasi.",
+    "Binaa Dekh Dipak Patang Jyon Udaasi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्यों बाम कामी, चहत दाम दामी ।",
+        "अनल गगन ठामी, मछी नीर वासी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jyon Baam Kaami, Chahat Daam Daami.",
+        "Anal Gagan Thaami, Machhi Nir Vaasi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "संसारी ज्यों सुत कर, करे आश दर दर ।",
+        "भँवर फूल ऊपर, गऊ बछड़े पासी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sansaari Jyon Sut Kar, Kare Aash Dar Dar.",
+        "Bhanvar Phul Upar, Gau Bachhre Paasi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज्यों कंत नारी, शस्त्र सूर धारी ।",
+        "दवा दोख्य प्यारी, चन्दन अहि निवासी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jyon Kant Naari, Shastr Sur Dhaari.",
+        "Davaa Dokhy Pyaari, Chandan Ahi Nivaasi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "चकवी पीव पावे, सिपी स्वान्ति धावे ।",
+        "मुक्ता हंस खावे, जोगीजन अभ्यासी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Chakvi Piv Paave, Sipi Svaanti Dhaave.",
+        "Muktaa Hans Khaave, Jogijan Abhyaasi || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ज्यों घन को मोरा, प्रिय चन्द चकोरा ।",
+        "त्यों गुरु की लोरा, टेऊँ उर में आसी ॥५ ॥"
+      ],
+      "romanLines": [
+        "Jyon Ghan Ko Moraa, Priy Chand Chakoraa.",
+        "Tyon Guru Ki Loraa, Teun Ur Men Aasi || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरि दिल देवानि दरशन गुरु पयासि.",
-      "बिना देख दिपक पतनग जयोन ुदासि (टेक)."
+      "ज्यों बाम कामी, चहत दाम दामी ।",
+      "अनल गगन ठामी, मछी नीर वासी ॥१ ॥"
     ],
     [
-      "जयोन बाम कामि, चहत दाम दामि.",
-      "नल गगन थामि, मचहि निर वासि || 1 ||"
+      "संसारी ज्यों सुत कर, करे आश दर दर ।",
+      "भँवर फूल ऊपर, गऊ बछड़े पासी ॥२ ॥"
     ],
     [
-      "सनसारि जयोन सुत कर, करे ाश दर दर.",
-      "भनवर फुल ुपर, गौ बचहरे पासि || 2 ||."
+      "ज्यों कंत नारी, शस्त्र सूर धारी ।",
+      "दवा दोख्य प्यारी, चन्दन अहि निवासी ॥३ ॥"
     ],
     [
-      "जयोन कनत नारि, शसतर सुर धारि.",
-      "दवा दोखय पयारि, चनदन हि निवासि ||.3 ||."
+      "चकवी पीव पावे, सिपी स्वान्ति धावे ।",
+      "मुक्ता हंस खावे, जोगीजन अभ्यासी ॥४ ॥"
     ],
     [
-      "चकवि पिव पावे, सिपि सवानति धावे.",
-      "मुकता हनस खावे, जोगिजन भयासि || 4 ||."
-    ],
-    [
-      "शा",
-      "जयोन घन को मोरा, परिय चनद चकोरा."
-    ],
-    [
-      "तयोन गुरु कि लोरा, तेऊँ ुर मेन ासि || 5 ||."
+      "ज्यों घन को मोरा, प्रिय चन्द चकोरा ।",
+      "त्यों गुरु की लोरा, टेऊँ उर में आसी ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Meri Dil Devaani Darshan Guru Pyaasi.",
-      "Binaa Dekh Dipak Patang Jyon Udaasi (Tek)."
-    ],
     [
       "Jyon Baam Kaami, Chahat Daam Daami.",
       "Anal Gagan Thaami, Machhi Nir Vaasi || 1 ||"
     ],
     [
       "Sansaari Jyon Sut Kar, Kare Aash Dar Dar.",
-      "Bhanvar Phul Upar, Gau Bachhre Paasi || 2 ||."
+      "Bhanvar Phul Upar, Gau Bachhre Paasi || 2 ||"
     ],
     [
       "Jyon Kant Naari, Shastr Sur Dhaari.",
-      "Davaa Dokhy Pyaari, Chandan Ahi Nivaasi ||.3 ||."
+      "Davaa Dokhy Pyaari, Chandan Ahi Nivaasi || 3 ||"
     ],
     [
       "Chakvi Piv Paave, Sipi Svaanti Dhaave.",
-      "Muktaa Hans Khaave, Jogijan Abhyaasi || 4 ||."
+      "Muktaa Hans Khaave, Jogijan Abhyaasi || 4 ||"
     ],
     [
-      "Shaa",
-      "Jyon Ghan Ko Moraa, Priy Chand Chakoraa."
-    ],
-    [
-      "Tyon Guru Ki Loraa, Teun Ur Men Aasi || 5 ||."
+      "Jyon Ghan Ko Moraa, Priy Chand Chakoraa.",
+      "Tyon Guru Ki Loraa, Teun Ur Men Aasi || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 1 || 216 ||",
+    "मेरी दिल देवानी दर्शन गुरु प्यासी",
     "Meri Dil Devaani Darshan Guru Pyaasi",
-    "मेरि दिल देवानि दरशन गुरु पयासि"
+    "राग भैरवी भजन 1",
+    "Raag Bhairvi Bhajan 1"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 216,
+  "displayOrder": 1,
+  "overallOrder": 216,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 136",
+  "updatedAt": "2026-10-26"
 }

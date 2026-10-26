@@ -1,65 +1,116 @@
 {
   "id": "bhajan-0241",
   "slug": "karm-navinon-ke-karne-men-teraa-hai-adhikaar-bandaa",
-  "categoryId": "raag-bhairav",
-  "title": "करम नविनोन के करने मेन, तेरा है धिकार बनदा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "कर्म नवीनों के करने में, तेरा है अधिकार बन्दा",
   "romanTitle": "Karm Navinon Ke Karne Men, Teraa Hai Adhikaar Bandaa",
   "firstLine": "Karm Navinon Ke Karne Men, Teraa Hai Adhikaar Bandaa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। २६ ।। २४१।।",
+  "tek": [
+    "कर्म नवीनों के करने में, तेरा है अधिकार बन्दा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karm Navinon Ke Karne Men, Teraa Hai Adhikaar Bandaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कर्मों के फल भोगन कारण, और शरीर अपार बन्दा ।",
+        "कर्म करन हित तुमने पाया, मानुष जन्म उदार बन्दा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Karmon Ke Phal Bhogan Kaaran, Aur Sharir Apaar Bandaa.",
+        "Karm Karan Hit Tumne Paayaa, Maanush Janm Udaar Bandaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कर्म करन बिन रह न सके को, सब जग कर्म अधार बन्दा ।",
+        "तीन गुणों की हलचल से नित, कर्म करत संसार बन्दा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Karm Karan Bin Rah Na Sake Ko, Sab Jag Karm Adhaar Bandaa.",
+        "Tin Gunon Ki Halchal Se Nit, Karm Karat Sansaar Bandaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन बुद्धि इन्द्रिय दीनी तुमको, कृपा कर कर्तार बन्दा ।",
+        "तांते कर्म करो तुम पावन, वर्ण धर्म अनुसार बन्दा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man Buddhi Indriy Dini Tumko, Kripaa Kar Kartaar Bandaa.",
+        "Taante Karm Karo Tum Paavan, Varn Dharm Anusaar Bandaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ निष्काम कर्म कर, फल की आस निवार बन्दा ।",
+        "पाप कर्म की ओर न जाओ , गीता ज्ञान विचार बन्दा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nishkaam Karm Kar, Phal Ki Aas Nivaar Bandaa.",
+        "Paap Karm Ki Or Na Jaao, Gitaa Gyaan Vichaar Bandaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करम नविनोन के करने मेन, तेरा है धिकार बनदा (टेक)."
+      "कर्मों के फल भोगन कारण, और शरीर अपार बन्दा ।",
+      "कर्म करन हित तुमने पाया, मानुष जन्म उदार बन्दा ॥१ ॥"
     ],
     [
-      "करमोन के फल भोगन कारन, ौर शरिर पार बनदा.",
-      "करम करन हित तुमने पाया, मानुश जनम ुदार बनदा || 1. ||."
+      "कर्म करन बिन रह न सके को, सब जग कर्म अधार बन्दा ।",
+      "तीन गुणों की हलचल से नित, कर्म करत संसार बन्दा ॥२ ॥"
     ],
     [
-      "करम करन बिन रह न सके को, सब जग करम धार बनदा.",
-      "तिन गुनोन कि हलचल से नित, करम करत सनसार बनदा || 2 ||."
+      "मन बुद्धि इन्द्रिय दीनी तुमको, कृपा कर कर्तार बन्दा ।",
+      "तांते कर्म करो तुम पावन, वर्ण धर्म अनुसार बन्दा ॥३ ॥"
     ],
     [
-      "मन बुदधि िनदरिय दिनि तुमको, कृपा कर करतार बनदा.",
-      "तानते करम करो तुम पावन, वरन धरम नुसार बनदा || 3 ||."
-    ],
-    [
-      "कहे तेऊँ निशकाम करम कर, फल कि ास निवार बनदा.",
-      "पाप करम कि ोर न जाो, गिता ज्ञान विचार बनदा || 4 ||."
+      "कहे टेऊँ निष्काम कर्म कर, फल की आस निवार बन्दा ।",
+      "पाप कर्म की ओर न जाओ , गीता ज्ञान विचार बन्दा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karm Navinon Ke Karne Men, Teraa Hai Adhikaar Bandaa (Tek)."
-    ],
-    [
       "Karmon Ke Phal Bhogan Kaaran, Aur Sharir Apaar Bandaa.",
-      "Karm Karan Hit Tumne Paayaa, Maanush Janm Udaar Bandaa || 1. ||."
+      "Karm Karan Hit Tumne Paayaa, Maanush Janm Udaar Bandaa || 1 ||"
     ],
     [
-      "Karm Karan Bin Rah N Sake Ko, Sab Jag Karm Adhaar Bandaa.",
-      "Tin Gunon Ki Halchal Se Nit, Karm Karat Sansaar Bandaa || 2 ||."
+      "Karm Karan Bin Rah Na Sake Ko, Sab Jag Karm Adhaar Bandaa.",
+      "Tin Gunon Ki Halchal Se Nit, Karm Karat Sansaar Bandaa || 2 ||"
     ],
     [
       "Man Buddhi Indriy Dini Tumko, Kripaa Kar Kartaar Bandaa.",
-      "Taante Karm Karo Tum Paavan, Varn Dharm Anusaar Bandaa || 3 ||."
+      "Taante Karm Karo Tum Paavan, Varn Dharm Anusaar Bandaa || 3 ||"
     ],
     [
       "Kahe Teun Nishkaam Karm Kar, Phal Ki Aas Nivaar Bandaa.",
-      "Paap Karm Ki Or N Jaao, Gitaa Jnyaan Vichaar Bandaa || 4 ||."
+      "Paap Karm Ki Or Na Jaao, Gitaa Gyaan Vichaar Bandaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 26 || 241 ||",
+    "कर्म नवीनों के करने में, तेरा है अधिकार बन्दा",
     "Karm Navinon Ke Karne Men, Teraa Hai Adhikaar Bandaa",
-    "करम नविनोन के करने मेन, तेरा है धिकार बनदा"
+    "राग भैरवी भजन 26",
+    "Raag Bhairvi Bhajan 26"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 241,
+  "displayOrder": 26,
+  "overallOrder": 241,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 149",
+  "updatedAt": "2026-10-26"
 }

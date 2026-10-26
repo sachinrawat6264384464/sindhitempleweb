@@ -2,71 +2,115 @@
   "id": "bhajan-0150",
   "slug": "guru-ki-mahimaa-bhaari-bhaari-ved-kahat-hain-chaari",
   "categoryId": "raag-aasaa",
-  "title": "गुरु कि महिमा भारि भारि, वेद कहत हैन चारि",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "गुरु की महिमा भारी भारी, वेद कहत हैं चारी",
   "romanTitle": "Guru Ki Mahimaa Bhaari Bhaari, Ved Kahat Hain Chaari",
   "firstLine": "Guru Ki Mahimaa Bhaari Bhaari, Ved Kahat Hain Chaari (Tek).",
+  "heading": "।। राग आसा भजन ।। ८८ ।। १५०॥।",
+  "tek": [
+    "गुरु की महिमा भारी भारी, वेद कहत हैं चारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Ki Mahimaa Bhaari Bhaari, Ved Kahat Hain Chaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मन्तर यन्तर तन्तर जेते, गुरु बिन निष्फल जानो तेते ।",
+        "गुरु मन्तर भय हारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mantar Yantar Tantar Jete, Guru Bin Nishphal Jaano Tete.",
+        "Guru Mantar Bhay Haari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जप तप तीर्थ व्रत अपारे, गुरु बिन जानो निष्फल सारे ।",
+        "गुरु संगति गुणकारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jap Tap Tirth Vrat Apaare, Guru Bin Jaano Nishphal Saare.",
+        "Guru Sangti Gunkaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वेद शास्त्र को पढ़े पढ़ावे, गुरु बिन मन को शान्ति न आवे ।",
+        "गुरु विद्या ग़म टारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ved Shaastr Ko Parhe Parhaave, Guru Bin Man Ko Shaanti Na Aave.",
+        "Guru Vidyaa Gham Taari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बल बुद्धि यश जय मुक्ति बड़ाई, कहे टेऊँ सब गुरु ते पाई ।",
+        "गुरु है परम भण्डारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bal Buddhi Yash Jay Mukti Baraai, Kahe Teun Sab Guru Te Paai.",
+        "Guru Hai Param Bhandaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु कि महिमा भारि भारि, वेद कहत हैन चारि (टेक)."
+      "मन्तर यन्तर तन्तर जेते, गुरु बिन निष्फल जानो तेते ।",
+      "गुरु मन्तर भय हारी ॥१ ॥"
     ],
     [
-      "मनतर यनतर तनतर जेते, गुरु बिन निशफल जानो तेते.",
-      "गुरु मनतर भय हारि || 1 ||."
+      "जप तप तीर्थ व्रत अपारे, गुरु बिन जानो निष्फल सारे ।",
+      "गुरु संगति गुणकारी ॥२ ॥"
     ],
     [
-      "न",
-      "जप तप तिरथ वरत पारे, गुरु बिन जानो निशफल सारे."
+      "वेद शास्त्र को पढ़े पढ़ावे, गुरु बिन मन को शान्ति न आवे ।",
+      "गुरु विद्या ग़म टारी ॥३ ॥"
     ],
     [
-      "गुरु सनगति गुनकारि || 2 ||"
-    ],
-    [
-      "वेद शासतर को परहे परहावे, गुरु बिन मन को शांति न ावे.",
-      "गुरु विदया घम तारि || 3 ||."
-    ],
-    [
-      "बल बुदधि यश जय मुक्ति बराि, कहे तेऊँ सब गुरु ते पाि.",
-      "गुरु है परम भनदारि || 4. ||."
+      "बल बुद्धि यश जय मुक्ति बड़ाई, कहे टेऊँ सब गुरु ते पाई ।",
+      "गुरु है परम भण्डारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Ki Mahimaa Bhaari Bhaari, Ved Kahat Hain Chaari (Tek)."
-    ],
-    [
       "Mantar Yantar Tantar Jete, Guru Bin Nishphal Jaano Tete.",
-      "Guru Mantar Bhay Haari || 1 ||."
+      "Guru Mantar Bhay Haari || 1 ||"
     ],
     [
-      "N",
-      "Jap Tap Tirth Vrat Apaare, Guru Bin Jaano Nishphal Saare."
-    ],
-    [
+      "Jap Tap Tirth Vrat Apaare, Guru Bin Jaano Nishphal Saare.",
       "Guru Sangti Gunkaari || 2 ||"
     ],
     [
-      "Ved Shaastr Ko Parhe Parhaave, Guru Bin Man Ko Shaanti N Aave.",
-      "Guru Vidyaa Gham Taari || 3 ||."
+      "Ved Shaastr Ko Parhe Parhaave, Guru Bin Man Ko Shaanti Na Aave.",
+      "Guru Vidyaa Gham Taari || 3 ||"
     ],
     [
       "Bal Buddhi Yash Jay Mukti Baraai, Kahe Teun Sab Guru Te Paai.",
-      "Guru Hai Param Bhandaari || 4. ||."
+      "Guru Hai Param Bhandaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 88 || 150 ||.",
+    "गुरु की महिमा भारी भारी, वेद कहत हैं चारी",
     "Guru Ki Mahimaa Bhaari Bhaari, Ved Kahat Hain Chaari",
-    "गुरु कि महिमा भारि भारि, वेद कहत हैन चारि"
+    "राग आसा भजन 88",
+    "Raag Aasaa Bhajan 88"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 150,
+  "displayOrder": 88,
+  "overallOrder": 150,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 103",
+  "updatedAt": "2026-10-26"
 }

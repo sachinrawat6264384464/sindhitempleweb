@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0588",
+  "id": "bhajan-0586",
   "slug": "sundar-saavan-maas-saphal-kar-saaraa",
   "categoryId": "raag-saarang",
-  "title": "सुनदर सावन मास, सफल कर सारा",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "सुन्दर सावन मास, सफल कर सारा",
   "romanTitle": "Sundar Saavan Maas, Saphal Kar Saaraa",
   "firstLine": "Sundar Saavan Maas, Saphal Kar Saaraa (Tek).",
+  "heading": "।। राग सारंग भजन ।। ९ ।। ५८७।॥।",
+  "tek": [
+    "सुन्दर सावन मास, सफल कर सारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sundar Saavan Maas, Saphal Kar Saaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन यह सावन आया, पुण्य प्रतापे तूने पाया ।",
+        "व्यर्थ खोय न तास ॥8 ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Yah Saavan Aayaa, Puny Prataape Tune Paayaa.",
+        "Vyarth Khoy Na Taas || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दया धर्म का जल बरसाये, ब्रह्मज्ञान की गर्जन लाये ।",
+        "देवो छाया वास ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dayaa Dharm Kaa Jal Barsaaye, Brahmajnyaan Ki Garjan Laaye.",
+        "Devo Chhaayaa Vaas || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम भक्ति के जल को अंचे, बुद्धि भूमी में तांको संचे ।",
+        "हरा करे गुण घास ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Bhakti Ke Jal Ko Anche, Buddhi Bhumi Men Taanko Sanche.",
+        "Haraa Kare Gun Ghaas || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सावन को जिस सफला कीया, कहे टेऊँ तिस पाया पीया ।",
+        "मेटे जम का त्रास ॥४ ॥"
+      ],
+      "romanLines": [
+        "Saavan Ko Jis Saphlaa Kiyaa, Kahe Teun Tis Paayaa Piyaa.",
+        "Mete Jam Kaa Traas || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्रद्य"
+      ],
+      "romanLines": [
+        "Trady"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनदर सावन मास, सफल कर सारा (टेक)."
+      "मानुष तन यह सावन आया, पुण्य प्रतापे तूने पाया ।",
+      "व्यर्थ खोय न तास ॥8 ॥"
     ],
     [
-      "मानुश तन यह सावन ाया, पुनय परतापे तुने पाया.",
-      "वयरथ खोय न तास || 8. ||."
+      "दया धर्म का जल बरसाये, ब्रह्मज्ञान की गर्जन लाये ।",
+      "देवो छाया वास ॥२ ॥"
     ],
     [
-      "दया धरम का जल बरसाये, बरहमजनयान कि गरजन लाये.",
-      "देवो चहाया वास ||.2 ||"
+      "प्रेम भक्ति के जल को अंचे, बुद्धि भूमी में तांको संचे ।",
+      "हरा करे गुण घास ॥३ ॥"
     ],
     [
-      "प्रेम भक्ति के जल को नचे, बुदधि भुमि मेन तानको सनचे.",
-      "हरा करे गुन घास || 3 ||."
+      "सावन को जिस सफला कीया, कहे टेऊँ तिस पाया पीया ।",
+      "मेटे जम का त्रास ॥४ ॥"
     ],
     [
-      "सावन को जिस सफला किया, कहे तेऊँ तिस पाया पिया.",
-      "मेते जम का तरास. ||.4 ||"
-    ],
-    [
-      "तरदय"
+      "त्रद्य"
     ]
   ],
   "romanLyrics": [
     [
-      "Sundar Saavan Maas, Saphal Kar Saaraa (Tek)."
-    ],
-    [
       "Maanush Tan Yah Saavan Aayaa, Puny Prataape Tune Paayaa.",
-      "Vyarth Khoy N Taas || 8. ||."
+      "Vyarth Khoy Na Taas || 8 ||"
     ],
     [
       "Dayaa Dharm Kaa Jal Barsaaye, Brahmajnyaan Ki Garjan Laaye.",
-      "Devo Chhaayaa Vaas ||.2 ||"
+      "Devo Chhaayaa Vaas || 2 ||"
     ],
     [
       "Prem Bhakti Ke Jal Ko Anche, Buddhi Bhumi Men Taanko Sanche.",
-      "Haraa Kare Gun Ghaas || 3 ||."
+      "Haraa Kare Gun Ghaas || 3 ||"
     ],
     [
       "Saavan Ko Jis Saphlaa Kiyaa, Kahe Teun Tis Paayaa Piyaa.",
-      "Mete Jam Kaa Traas. ||.4 ||"
+      "Mete Jam Kaa Traas || 4 ||"
     ],
     [
       "Trady"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 9 || 587. ||.",
+    "सुन्दर सावन मास, सफल कर सारा",
     "Sundar Saavan Maas, Saphal Kar Saaraa",
-    "सुनदर सावन मास, सफल कर सारा"
+    "राग सारंग भजन 9",
+    "Raag Saarang Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 588,
+  "displayOrder": 9,
+  "overallOrder": 586,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 318",
+  "updatedAt": "2026-10-26"
 }

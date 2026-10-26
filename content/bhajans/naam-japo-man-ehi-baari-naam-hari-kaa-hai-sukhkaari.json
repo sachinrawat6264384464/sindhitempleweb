@@ -2,41 +2,90 @@
   "id": "bhajan-0330",
   "slug": "naam-japo-man-ehi-baari-naam-hari-kaa-hai-sukhkaari",
   "categoryId": "raag-zilaa",
-  "title": "नाम जपो मन ेहि बारि, नाम हरि का है सुखकारि",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "नाम जपो मन एही बारी, नाम हरी का है सुखकारी",
   "romanTitle": "Naam Japo Man Ehi Baari, Naam Hari Kaa Hai Sukhkaari",
   "firstLine": "Naam Japo Man Ehi Baari, Naam Hari Kaa Hai Sukhkaari (Tek).",
+  "heading": "।। राग ज़िला भजन ।। १७ ।। ३३०",
+  "tek": [
+    "नाम जपो मन एही बारी, नाम हरी का है सुखकारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Naam Japo Man Ehi Baari, Naam Hari Kaa Hai Sukhkaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पावक सम हरिनाम प्यारे, सब पापों को पल में जारे ।",
+        "पतित उधारन तप्त निवारन, नाम महातम है अति भारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paavak Sam Harinaam Pyaare, Sab Paapon Ko Pal Men Jaare.",
+        "Patit Udhaaran Tapt Nivaaran, Naam Mahaatam Hai Ati Bhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुख भज्जन है हरि का नामा, सुरतरु के सम पूरण कामा ।",
+        "काज सँवारत जन्म सुधारत, काल कराल की काटत जारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dukh Bhajjan Hai Hari Kaa Naamaa, Surtaru Ke Sam Puran Kaamaa.",
+        "Kaaj Sanvaarat Janm Sudhaarat, Kaal Karaal Ki Kaatat Jaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाम हरी का जान जहाजा, श्रद्धा से जो चढ़े समाजा ।",
+        "तांको तारे करत किनारे, मुक्ति मिलावत है हितकारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naam Hari Kaa Jaan Jahaajaa, Shraddhaa Se Jo Charhe Samaajaa.",
+        "Taanko Taare Karat Kinaare, Mukti Milaavat Hai Hitkaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि नाम उच्चारे, भव से तर गये अधम अपारे ।",
+        "छीपा नाई भील कसाई, गनिका शबरी गौतमनारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Naam Uchchaare, Bhav Se Tar Gaye Adham Apaare.",
+        "Chhipaa Naai Bhil Kasaai, Ganikaa Shabri Gautmanaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "नाम जपो मन ेहि बारि, नाम हरि का है सुखकारि (टेक)."
+      "पावक सम हरिनाम प्यारे, सब पापों को पल में जारे ।",
+      "पतित उधारन तप्त निवारन, नाम महातम है अति भारी ॥१ ॥"
     ],
     [
-      "पावक सम हरिनाम पयारे, सब पापोन को पल मेन जारे.",
-      "पतित ुधारन तपत निवारन, नाम महातम है ति भारि || 1 ||."
+      "दुख भज्जन है हरि का नामा, सुरतरु के सम पूरण कामा ।",
+      "काज सँवारत जन्म सुधारत, काल कराल की काटत जारी ॥२ ॥"
     ],
     [
-      "दुःख भजजन है हरि का नामा, सुरतरु के सम पुरन कामा.",
-      "काज सनवारत जनम सुधारत, काल कराल कि कातत जारि || 2 ||."
+      "नाम हरी का जान जहाजा, श्रद्धा से जो चढ़े समाजा ।",
+      "तांको तारे करत किनारे, मुक्ति मिलावत है हितकारी ॥३ ॥"
     ],
     [
-      "नाम हरि का जान जहाजा, शरदधा से जो चरहे समाजा.",
-      "तानको तारे करत किनारे, मुक्ति मिलावत है हितकारि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि नाम ुचचारे, भव से तर गये धम पारे.",
-      "चहिपा नाि भिल कसाि, गनिका शबरि गौतमनारि || 4 ||"
+      "कहे टेऊँ हरि नाम उच्चारे, भव से तर गये अधम अपारे ।",
+      "छीपा नाई भील कसाई, गनिका शबरी गौतमनारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Naam Japo Man Ehi Baari, Naam Hari Kaa Hai Sukhkaari (Tek)."
-    ],
-    [
       "Paavak Sam Harinaam Pyaare, Sab Paapon Ko Pal Men Jaare.",
-      "Patit Udhaaran Tapt Nivaaran, Naam Mahaatam Hai Ati Bhaari || 1 ||."
+      "Patit Udhaaran Tapt Nivaaran, Naam Mahaatam Hai Ati Bhaari || 1 ||"
     ],
     [
       "Dukh Bhajjan Hai Hari Kaa Naamaa, Surtaru Ke Sam Puran Kaamaa.",
-      "Kaaj Sanvaarat Janm Sudhaarat, Kaal Karaal Ki Kaatat Jaari || 2 ||."
+      "Kaaj Sanvaarat Janm Sudhaarat, Kaal Karaal Ki Kaatat Jaari || 2 ||"
     ],
     [
       "Naam Hari Kaa Jaan Jahaajaa, Shraddhaa Se Jo Charhe Samaajaa.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 17 || 330",
+    "नाम जपो मन एही बारी, नाम हरी का है सुखकारी",
     "Naam Japo Man Ehi Baari, Naam Hari Kaa Hai Sukhkaari",
-    "नाम जपो मन ेहि बारि, नाम हरि का है सुखकारि"
+    "राग ज़िला भजन 17",
+    "Raag Zilaa Bhajan 17"
   ],
   "tags": [
-    "teunram",
-    "zilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 330,
+  "displayOrder": 17,
+  "overallOrder": 330,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 197",
+  "updatedAt": "2026-10-26"
 }

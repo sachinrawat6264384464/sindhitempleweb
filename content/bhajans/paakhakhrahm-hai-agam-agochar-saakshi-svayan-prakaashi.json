@@ -2,56 +2,96 @@
   "id": "bhajan-0033",
   "slug": "paakhakhrahm-hai-agam-agochar-saakshi-svayan-prakaashi",
   "categoryId": "raag-prabhaati",
-  "title": "पाखखरहम है गम गोचर, साक्षी सवयन परकाशि",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "पाखख्रह्म है अगम अगोचर , साक्षी स्वयं प्रकाशी",
   "romanTitle": "Paakhakhrahm Hai Agam Agochar, Saakshi Svayan Prakaashi",
   "firstLine": "Paakhakhrahm Hai Agam Agochar, Saakshi Svayan Prakaashi (Tek).",
+  "heading": "।। राग प्रभाती भजन ॥।। १ ।। ३३",
+  "tek": [
+    "पाखख्रह्म है अगम अगोचर , साक्षी स्वयं प्रकाशी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Paakhakhrahm Hai Agam Agochar, Saakshi Svayan Prakaashi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाना विधि जग माहिं रचाई, अदूभुत जोनि चुरासी ।",
+        "तामें रहता आप व्यापक, अलख पुरुष अविनाशी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naanaa Vidhi Jag Maahin Rachaai, Adubhut Joni Churaasi.",
+        "Taamen Rahtaa Aap Vyaapak, Alakh Purush Avinaashi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्मा विष्णू शंकर गणपति, यती सती संन्यासी ।",
+        "गाय गाय तिहँँ पार न पावत, सर्व मौन रह जासी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Vishnu Shankar Ganpati, Yati Sati Sannyaasi.",
+        "Gaay Gaay Tihann Paar Na Paavat, Sarv Maun Rah Jaasi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सो मंगल दाता, दुःख भञ्जन सुख रासी ।",
+        "जो तिस ध्यावै मुक्ती पावै, टूटे तां यम फासी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun So Mangal Daataa, Duhkh Bhanyjan Sukh Raasi.",
+        "Jo Tis Dhyaavai Mukti Paavai, Tute Taan Yam Phaasi || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पाखखरहम है गम गोचर, साक्षी सवयन परकाशि (टेक)."
+      "नाना विधि जग माहिं रचाई, अदूभुत जोनि चुरासी ।",
+      "तामें रहता आप व्यापक, अलख पुरुष अविनाशी ॥१ ॥"
     ],
     [
-      "नाना विधि जग माहिन रचाि, दुभुत जोनि चुरासि.",
-      "तामेन रहता ाप वयापक, लख पुरुश अविनाशी || 1 ||"
+      "ब्रह्मा विष्णू शंकर गणपति, यती सती संन्यासी ।",
+      "गाय गाय तिहँँ पार न पावत, सर्व मौन रह जासी ॥२ ॥"
     ],
     [
-      "बरहम विशनु शनकर गनपति, यति सति सननयासि.",
-      "गाय गाय तिहनन पार न पावत, सर्व मौन रह जासि || 2 ||."
-    ],
-    [
-      "कहे तेऊँ सो मनगल दाता, दुःख भनयजन सुख रासि.",
-      "जो तिस धयावै मुक्ति पावै, तुते तान यम फासि || 3. ||."
+      "कहे टेऊँ सो मंगल दाता, दुःख भञ्जन सुख रासी ।",
+      "जो तिस ध्यावै मुक्ती पावै, टूटे तां यम फासी ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Paakhakhrahm Hai Agam Agochar, Saakshi Svayan Prakaashi (Tek)."
-    ],
     [
       "Naanaa Vidhi Jag Maahin Rachaai, Adubhut Joni Churaasi.",
       "Taamen Rahtaa Aap Vyaapak, Alakh Purush Avinaashi || 1 ||"
     ],
     [
-      "Brahma Vishnu Shankar Ganpati, Yati Sati Sannyaasi.",
-      "Gaay Gaay Tihann Paar N Paavat, Sarv Maun Rah Jaasi || 2 ||."
+      "Brahmaa Vishnu Shankar Ganpati, Yati Sati Sannyaasi.",
+      "Gaay Gaay Tihann Paar Na Paavat, Sarv Maun Rah Jaasi || 2 ||"
     ],
     [
       "Kahe Teun So Mangal Daataa, Duhkh Bhanyjan Sukh Raasi.",
-      "Jo Tis Dhyaavai Mukti Paavai, Tute Taan Yam Phaasi || 3. ||."
+      "Jo Tis Dhyaavai Mukti Paavai, Tute Taan Yam Phaasi || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || || 1 || 33",
+    "पाखख्रह्म है अगम अगोचर , साक्षी स्वयं प्रकाशी",
     "Paakhakhrahm Hai Agam Agochar, Saakshi Svayan Prakaashi",
-    "पाखखरहम है गम गोचर, साक्षी सवयन परकाशि"
+    "राग प्रभाती भजन 1",
+    "Raag Prabhaati Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 33,
+  "displayOrder": 1,
+  "overallOrder": 33,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 42",
+  "updatedAt": "2026-10-26"
 }

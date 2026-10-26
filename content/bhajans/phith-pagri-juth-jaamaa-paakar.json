@@ -1,73 +1,122 @@
 {
-  "id": "bhajan-0484",
+  "id": "bhajan-0483",
   "slug": "phith-pagri-juth-jaamaa-paakar",
   "categoryId": "raag-kohiyaari",
-  "title": "फिथ पगरि जुथ जामा पाकर",
-  "romanTitle": "Phith Pagri Juth Jaamaa Paakar",
-  "firstLine": "Phith Pagri Juth Jaamaa Paakar, Paap Sarv Main Dhoyaa, Sukh Ghar Soyaa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "फिठ पगड़ी जुठ जामा पाकर,",
+  "romanTitle": "Phith Pagri Juth Jaamaa Paakar,",
+  "firstLine": "Phith Pagri Juth Jaamaa Paakar,",
+  "heading": "।। राग कोह्यारी भजन ॥। ४ ।। ४ं८४।।",
+  "tek": [
+    "फिठ पगड़ी जुठ जामा पाकर,",
+    "पाप सर्व मैं धोया, सुख घर सोया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Phith Pagri Juth Jaamaa Paakar,",
+    "Paap Sarv Main Dhoyaa, Sukh Ghar Soyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "त्र्य्",
+        "लोक निन्‍्दा की नाव बनाए, बद नेकी का भार चढ़ाये ।",
+        "पार द्वन्द् से होया, सुख घर सोया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Try",
+        "Lok Nin‍Daa Ki Naav Banaae, Bad Neki Kaa Bhaar Charhaaye.",
+        "Paar Dvand Se Hoyaa, Sukh Ghar Soyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाय गिला का गल में घांघा, छोड़ा लोकों का आसांगा ।",
+        "हरि आरामी होया, सुख घर सोया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paay Gilaa Kaa Gal Men Ghaanghaa, Chhoraa Lokon Kaa Aasaangaa.",
+        "Hari Aaraami Hoyaa, Sukh Ghar Soyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "खिटपिट की मैं बान्धी धोती, मिहने ताने के कर मोती ।",
+        "सुन्दर हार पिरोया, सुख घर सोया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Khitpit Ki Main Baandhi Dhoti, Mihne Taane Ke Kar Moti.",
+        "Sundar Haar Piroyaa, Sukh Ghar Soyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं भया निराला, खुद मस्ती का पीकर प्याला ।",
+        "तीन लजा को खोया, सुख घर सोया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Bhayaa Niraalaa, Khud Masti Kaa Pikar Pyaalaa.",
+        "Tin Lajaa Ko Khoyaa, Sukh Ghar Soyaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "फिथ पगरि जुथ जामा पाकर,",
-      "पाप सर्व मैं धोया, सुख घर सोया (टेक)."
+      "त्र्य्",
+      "लोक निन्‍्दा की नाव बनाए, बद नेकी का भार चढ़ाये ।",
+      "पार द्वन्द् से होया, सुख घर सोया ॥१ ॥"
     ],
     [
-      "तरय",
-      "लोक निनदा कि नाव बनाे, बद नेकि का भार चरहाये."
+      "पाय गिला का गल में घांघा, छोड़ा लोकों का आसांगा ।",
+      "हरि आरामी होया, सुख घर सोया ॥२ ॥"
     ],
     [
-      "पार दवनद से होया, सुख घर सोया ||.1 ||",
-      "पाय गिला का गल मेन घानघा, चहोरा लोकोन का ासानगा."
+      "खिटपिट की मैं बान्धी धोती, मिहने ताने के कर मोती ।",
+      "सुन्दर हार पिरोया, सुख घर सोया ॥३ ॥"
     ],
     [
-      "हरि ारामि होया, सुख घर सोया || 2. ||."
-    ],
-    [
-      "खितपित कि मैं बानधि धोति, मिहने ताने के कर मोति.",
-      "सुनदर हार पिरोया, सुख घर सोया ||. 3"
-    ],
-    [
-      "कहे तेऊँ मैं भया निराला, खुद मसति का पिकर पयाला.",
-      "तिन लजा को खोया, सुख घर सोया || 4 ||."
+      "कहे टेऊँ मैं भया निराला, खुद मस्ती का पीकर प्याला ।",
+      "तीन लजा को खोया, सुख घर सोया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Phith Pagri Juth Jaamaa Paakar,",
-      "Paap Sarv Main Dhoyaa, Sukh Ghar Soyaa (Tek)."
-    ],
-    [
       "Try",
-      "Lok Nin‍Daa Ki Naav Banaae, Bad Neki Kaa Bhaar Charhaaye."
+      "Lok Nin‍Daa Ki Naav Banaae, Bad Neki Kaa Bhaar Charhaaye.",
+      "Paar Dvand Se Hoyaa, Sukh Ghar Soyaa || 1 ||"
     ],
     [
-      "Paar Dvand Se Hoyaa, Sukh Ghar Soyaa ||.1 ||",
-      "Paay Gilaa Kaa Gal Men Ghaanghaa, Chhoraa Lokon Kaa Aasaangaa."
-    ],
-    [
-      "Hari Aaraami Hoyaa, Sukh Ghar Soyaa || 2. ||."
+      "Paay Gilaa Kaa Gal Men Ghaanghaa, Chhoraa Lokon Kaa Aasaangaa.",
+      "Hari Aaraami Hoyaa, Sukh Ghar Soyaa || 2 ||"
     ],
     [
       "Khitpit Ki Main Baandhi Dhoti, Mihne Taane Ke Kar Moti.",
-      "Sundar Haar Piroyaa, Sukh Ghar Soyaa ||. 3"
+      "Sundar Haar Piroyaa, Sukh Ghar Soyaa || 3 ||"
     ],
     [
       "Kahe Teun Main Bhayaa Niraalaa, Khud Masti Kaa Pikar Pyaalaa.",
-      "Tin Lajaa Ko Khoyaa, Sukh Ghar Soyaa || 4 ||."
+      "Tin Lajaa Ko Khoyaa, Sukh Ghar Soyaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohyaari Bhajan ||. 4 || 4N84 ||",
-    "Phith Pagri Juth Jaamaa Paakar",
-    "फिथ पगरि जुथ जामा पाकर"
+    "फिठ पगड़ी जुठ जामा पाकर,",
+    "Phith Pagri Juth Jaamaa Paakar,",
+    "राग कोहियारी भजन 4",
+    "Raag Kohiyaari Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 484,
+  "displayOrder": 4,
+  "overallOrder": 483,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 270",
+  "updatedAt": "2026-10-26"
 }

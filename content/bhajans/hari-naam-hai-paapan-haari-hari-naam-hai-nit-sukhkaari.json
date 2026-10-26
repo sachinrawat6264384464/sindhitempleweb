@@ -1,96 +1,118 @@
 {
   "id": "bhajan-0291",
   "slug": "hari-naam-hai-paapan-haari-hari-naam-hai-nit-sukhkaari",
-  "categoryId": "raag-bhairav",
-  "title": "हरि नाम है पापन हारि, हरि नाम है नित सुखकारि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "हरी नाम है पापन हारी, हरी नाम है नित सुखकारी",
   "romanTitle": "Hari Naam Hai Paapan Haari, Hari Naam Hai Nit Sukhkaari",
   "firstLine": "Hari Naam Hai Paapan Haari, Hari Naam Hai Nit Sukhkaari.",
+  "heading": "।। राग भैरवी भजन ।। ७६ ।। २९१।।",
+  "tek": [
+    "हरी नाम है पापन हारी, हरी नाम है नित सुखकारी ।",
+    "हरी नाम दुख मेटे भारी ,",
+    "लावो लावो मन हरि से, गावो गावो गुन हरि के ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Naam Hai Paapan Haari, Hari Naam Hai Nit Sukhkaari.",
+    "Hari Naam Dukh Mete Bhaari,",
+    "Laavo Laavo Man Hari Se, Gaavo Gaavo Gun Hari Ke (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो जन हरि से नेह लगावे, सो जन भव सागर तर जावे ।",
+        "हरि की महिमा वेद बतावे, अन्त काल जम फास छुड़ावे ।",
+        "हरी नाम ने गणिका तारी, अहिल्या शबरी पार उतारी ।",
+        "हरी नाम है अधम उधारी ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Jan Hari Se Neh Lagaave, So Jan Bhav Saagar Tar Jaave.",
+        "Hari Ki Mahimaa Ved Bataave, Ant Kaal Jam Phaas Chhuraave.",
+        "Hari Naam Ne Ganikaa Taari, Ahilyaa Shabri Paar Utaari.",
+        "Hari Naam Hai Adham Udhaari || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरी नाम बिन संग न कोई, हरि बिन जनम अक्यार्थ होई ।",
+        "हरि को सुमरे हरिजन जोई, पावे मुक्ती पद को सोई ।",
+        "हरि ने पापी अजामिल तारा, व्याध गीध गजराज उबारा ।",
+        "सेना सधना पार उतारा ॥? ॥ ।",
+        "ग्द्द्",
+        "हरी नाम मन मैल मिटावे, हरी नाम चित्त शान्त बनावे ।",
+        "हरी नाम दिल ट्वैत नसावे, हरी नाम उर ज्योति जगावे ।",
+        "कहे टेऊँ जिस हरिगुन गाया, उसको हरि ने कंठ लगाया ।",
+        "केवल मोक्ष पद पहुंचाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Naam Bin Sang Na Koi, Hari Bin Janam Akyaarth Hoi.",
+        "Hari Ko Sumre Harijan Joi, Paave Mukti Pad Ko Soi.",
+        "Hari Ne Paapi Ajaamil Taaraa, Vyaadh Gidh Gajraaj Ubaaraa.",
+        "Senaa Sadhnaa Paar Utaaraa || ? ||",
+        "Gdd",
+        "Hari Naam Man Mail Mitaave, Hari Naam Chitt Shaant Banaave.",
+        "Hari Naam Dil Tvait Nasaave, Hari Naam Ur Jyoti Jagaave.",
+        "Kahe Teun Jis Harigun Gaayaa, Usko Hari Ne Kanth Lagaayaa.",
+        "Keval Moksh Pad Pahunchaayaa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि नाम है पापन हारि, हरि नाम है नित सुखकारि.",
-      "हरि नाम दुःख मेते भारि,"
+      "जो जन हरि से नेह लगावे, सो जन भव सागर तर जावे ।",
+      "हरि की महिमा वेद बतावे, अन्त काल जम फास छुड़ावे ।",
+      "हरी नाम ने गणिका तारी, अहिल्या शबरी पार उतारी ।",
+      "हरी नाम है अधम उधारी ॥१ ॥१ ॥"
     ],
     [
-      "लावो लावो मन हरि से, गावो गावो गुन हरि के (टेक)."
-    ],
-    [
-      "जो जन हरि से नेह लगावे, सो जन भव सागर तर जावे.",
-      "हरि कि महिमा वेद बतावे, नत काल जम फास चहुरावे."
-    ],
-    [
-      "हरि नाम ने गनिका तारि, हिलया शबरि पार ुतारि.",
-      "हरि नाम है धम ुधारि || 1$ ||."
-    ],
-    [
-      "हरि नाम बिन सनग न कोि, हरि बिन जनम कयारथ होि.",
-      "हरि को सुमरे हरिजन जोि, पावे मुक्ति पद को सोि."
-    ],
-    [
-      "हरि ने पापि जामिल तारा, वयाध गिध गजराज ुबारा.",
-      "सेना सधना पार ुतारा ||? ||."
-    ],
-    [
-      "गदद",
-      "हरि नाम मन मैल मितावे, हरि नाम चितत शानत बनावे."
-    ],
-    [
-      "हरि नाम दिल तवैत नसावे, हरि नाम ुर जयोति जगावे.",
-      "कहे तेऊँ जिस हरिगुन गाया, ुसको हरि ने कनथ लगाया."
-    ],
-    [
-      "केवल मोक्ष पद पहुनचाया || 3 ||"
+      "हरी नाम बिन संग न कोई, हरि बिन जनम अक्यार्थ होई ।",
+      "हरि को सुमरे हरिजन जोई, पावे मुक्ती पद को सोई ।",
+      "हरि ने पापी अजामिल तारा, व्याध गीध गजराज उबारा ।",
+      "सेना सधना पार उतारा ॥? ॥ ।",
+      "ग्द्द्",
+      "हरी नाम मन मैल मिटावे, हरी नाम चित्त शान्त बनावे ।",
+      "हरी नाम दिल ट्वैत नसावे, हरी नाम उर ज्योति जगावे ।",
+      "कहे टेऊँ जिस हरिगुन गाया, उसको हरि ने कंठ लगाया ।",
+      "केवल मोक्ष पद पहुंचाया ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Naam Hai Paapan Haari, Hari Naam Hai Nit Sukhkaari.",
-      "Hari Naam Dukh Mete Bhaari,"
-    ],
-    [
-      "Laavo Laavo Man Hari Se, Gaavo Gaavo Gun Hari Ke (Tek)."
-    ],
-    [
       "Jo Jan Hari Se Neh Lagaave, So Jan Bhav Saagar Tar Jaave.",
-      "Hari Ki Mahimaa Ved Bataave, Ant Kaal Jam Phaas Chhuraave."
-    ],
-    [
+      "Hari Ki Mahimaa Ved Bataave, Ant Kaal Jam Phaas Chhuraave.",
       "Hari Naam Ne Ganikaa Taari, Ahilyaa Shabri Paar Utaari.",
-      "Hari Naam Hai Adham Udhaari || 1$ ||."
+      "Hari Naam Hai Adham Udhaari || 1 || 1 ||"
     ],
     [
-      "Hari Naam Bin Sang N Koi, Hari Bin Janam Akyaarth Hoi.",
-      "Hari Ko Sumre Harijan Joi, Paave Mukti Pad Ko Soi."
-    ],
-    [
+      "Hari Naam Bin Sang Na Koi, Hari Bin Janam Akyaarth Hoi.",
+      "Hari Ko Sumre Harijan Joi, Paave Mukti Pad Ko Soi.",
       "Hari Ne Paapi Ajaamil Taaraa, Vyaadh Gidh Gajraaj Ubaaraa.",
-      "Senaa Sadhnaa Paar Utaaraa ||? ||."
-    ],
-    [
+      "Senaa Sadhnaa Paar Utaaraa || ? ||",
       "Gdd",
-      "Hari Naam Man Mail Mitaave, Hari Naam Chitt Shaant Banaave."
-    ],
-    [
+      "Hari Naam Man Mail Mitaave, Hari Naam Chitt Shaant Banaave.",
       "Hari Naam Dil Tvait Nasaave, Hari Naam Ur Jyoti Jagaave.",
-      "Kahe Teun Jis Harigun Gaayaa, Usko Hari Ne Kanth Lagaayaa."
-    ],
-    [
+      "Kahe Teun Jis Harigun Gaayaa, Usko Hari Ne Kanth Lagaayaa.",
       "Keval Moksh Pad Pahunchaayaa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 76 || 291 ||",
+    "हरी नाम है पापन हारी, हरी नाम है नित सुखकारी",
     "Hari Naam Hai Paapan Haari, Hari Naam Hai Nit Sukhkaari",
-    "हरि नाम है पापन हारि, हरि नाम है नित सुखकारि"
+    "राग भैरवी भजन 76",
+    "Raag Bhairvi Bhajan 76"
   ],
   "tags": [
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 291,
+  "displayOrder": 76,
+  "overallOrder": 291,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 176",
+  "updatedAt": "2026-10-26"
 }

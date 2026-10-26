@@ -1,71 +1,120 @@
 {
-  "id": "bhajan-0618",
+  "id": "bhajan-0616",
   "slug": "saakshi-chetan-svayan-prakaashi-ajar-amar-hai-so-avinaasi",
   "categoryId": "raag-kalyaan",
-  "title": "साक्षी चेतन सवयन परकाशि, जर मर है सो विनासि",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "साक्षी चेतन स्वयं प्रकाशी , अजर अमर है सो अविनासी",
   "romanTitle": "Saakshi Chetan Svayan Prakaashi, Ajar Amar Hai So Avinaasi",
   "firstLine": "Saakshi Chetan Svayan Prakaashi, Ajar Amar Hai So Avinaasi (Tek).",
+  "heading": "।। राग कल्याण भजन ।। १० ।। ६१७।।",
+  "tek": [
+    "साक्षी चेतन स्वयं प्रकाशी , अजर अमर है सो अविनासी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saakshi Chetan Svayan Prakaashi, Ajar Amar Hai So Avinaasi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "असंग आत्म एक अभेवा, सब देवन का है सो देवा ।",
+        "चिदुघन चिदूआकासी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Asang Aatm Ek Abhevaa, Sab Devan Kaa Hai So Devaa.",
+        "Chidughan Chiduaakaasi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पूरण पुरुष अनादि अरूपा, अस्ति भाति पुनि प्रिय स्वरूपा ।",
+        "सत्‌ चित्‌ आनन्द रासी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Puran Purush Anaadi Arupaa, Asti Bhaati Puni Priy Svarupaa.",
+        "Sat‌ Chit‌ Aanand Raasi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "उ्ठह",
+        "सर्व व्यापक अखण्ड अडोला,अचल अमल है अतुल अतोला ।",
+        "सूक्ष्म सर्व निवासी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Uthah",
+        "Sarv Vyaapak Akhand Adolaa,Achal Amal Hai Atul Atolaa.",
+        "Sukshm Sarv Nivaasi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जब गुरु समझाया, ऐसा आत्म तब मैं पाया ।",
+        "मिट गई जोनि चुरासी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jab Guru Samjhaayaa, Aisaa Aatm Tab Main Paayaa.",
+        "Mit Gai Joni Churaasi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साक्षी चेतन सवयन परकाशि, जर मर है सो विनासि (टेक)."
+      "असंग आत्म एक अभेवा, सब देवन का है सो देवा ।",
+      "चिदुघन चिदूआकासी ॥१ ॥"
     ],
     [
-      "सनग ातम ेक भेवा, सब देवन का है सो देवा.",
-      "चिदुघन चिदुाकासि || 1 ||."
+      "पूरण पुरुष अनादि अरूपा, अस्ति भाति पुनि प्रिय स्वरूपा ।",
+      "सत्‌ चित्‌ आनन्द रासी ॥२ ॥"
     ],
     [
-      "पुरन पुरुश नादि रुपा, सति भाति पुनि परिय सवरुपा.",
-      "सत‌ चित‌ आनंद रासि || 2 ||."
+      "उ्ठह",
+      "सर्व व्यापक अखण्ड अडोला,अचल अमल है अतुल अतोला ।",
+      "सूक्ष्म सर्व निवासी ॥३ ॥"
     ],
     [
-      "ुथह",
-      "सर्व वयापक खनद दोलाचल मल है तुल तोला."
-    ],
-    [
-      "सुकशम सर्व निवासि ||.3 ||.",
-      "कहे तेऊँ जब गुरु समझाया, ैसा ातम तब मैं पाया."
-    ],
-    [
-      "मित गै जोनि चुरासि || 4 ||"
+      "कहे टेऊँ जब गुरु समझाया, ऐसा आत्म तब मैं पाया ।",
+      "मिट गई जोनि चुरासी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saakshi Chetan Svayan Prakaashi, Ajar Amar Hai So Avinaasi (Tek)."
-    ],
-    [
       "Asang Aatm Ek Abhevaa, Sab Devan Kaa Hai So Devaa.",
-      "Chidughan Chiduaakaasi || 1 ||."
+      "Chidughan Chiduaakaasi || 1 ||"
     ],
     [
       "Puran Purush Anaadi Arupaa, Asti Bhaati Puni Priy Svarupaa.",
-      "Sat‌ Chit‌ Aanand Raasi || 2 ||."
+      "Sat‌ Chit‌ Aanand Raasi || 2 ||"
     ],
     [
       "Uthah",
-      "Sarv Vyaapak Akhand Adolaa,Achal Amal Hai Atul Atolaa."
+      "Sarv Vyaapak Akhand Adolaa,Achal Amal Hai Atul Atolaa.",
+      "Sukshm Sarv Nivaasi || 3 ||"
     ],
     [
-      "Sukshm Sarv Nivaasi ||.3 ||.",
-      "Kahe Teun Jab Guru Samjhaayaa, Aisaa Aatm Tab Main Paayaa."
-    ],
-    [
+      "Kahe Teun Jab Guru Samjhaayaa, Aisaa Aatm Tab Main Paayaa.",
       "Mit Gai Joni Churaasi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 10 || 617 ||",
+    "साक्षी चेतन स्वयं प्रकाशी , अजर अमर है सो अविनासी",
     "Saakshi Chetan Svayan Prakaashi, Ajar Amar Hai So Avinaasi",
-    "साक्षी चेतन सवयन परकाशि, जर मर है सो विनासि"
+    "राग कल्याण भजन 10",
+    "Raag Kalyaan Bhajan 10"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 618,
+  "displayOrder": 10,
+  "overallOrder": 616,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 330",
+  "updatedAt": "2026-10-26"
 }

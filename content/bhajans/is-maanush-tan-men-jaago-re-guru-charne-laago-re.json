@@ -1,92 +1,136 @@
 {
   "id": "bhajan-0358",
   "slug": "is-maanush-tan-men-jaago-re-guru-charne-laago-re",
-  "categoryId": "raag-aasaa",
-  "title": "िस मानुश तन मेन जागो रे, गुरु चरने लागो रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "इस मानुष तन में जागो रे, गुरु चरने लागो रे",
   "romanTitle": "Is Maanush Tan Men Jaago Re, Guru Charne Laago Re",
   "firstLine": "Is Maanush Tan Men Jaago Re, Guru Charne Laago Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १५ ।। ३५८।॥",
+  "tek": [
+    "इस मानुष तन में जागो रे, गुरु चरने लागो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Is Maanush Tan Men Jaago Re, Guru Charne Laago Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस कार्य के करने कारन, पाया मानुष चोला ।",
+        "भूल गये तिस कार्य को तुम, डाला अविद्या रोला ।",
+        "ले विद्या अविद्या त्यागो रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Kaary Ke Karne Kaaran, Paayaa Maanush Cholaa.",
+        "Bhul Gaye Tis Kaary Ko Tum, Daalaa Avidyaa Rolaa.",
+        "Le Vidyaa Avidyaa Tyaago Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लख चौरासी जोनिन माहीं, चेतन मानुष देही ।",
+        "छोड़ विषय कर भजन हरी का, देही का फल एही ।",
+        "दे पीठ जगत से भागों रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Lakh Chauraasi Jonin Maahin, Chetan Maanush Dehi.",
+        "Chhor Vishay Kar Bhajan Hari Kaa, Dehi Kaa Phal Ehi.",
+        "De Pith Jagat Se Bhaagon Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पहल",
+        "मानुष तन में शिव शक्ती का, होवे ज्ञान विकासा ।",
+        "देवन को यह दुर्लभ मिलता, पुरानों में प्रकाशा ।",
+        "कर तांते हरि अनुरागो रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pahal",
+        "Maanush Tan Men Shiv Shakti Kaa, Hove Gyaan Vikaasaa.",
+        "Devan Ko Yah Durlabh Miltaa, Puraanon Men Prakaashaa.",
+        "Kar Taante Hari Anuraago Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मानुष तन दर्पन, हरि दर्शन हित जानो ।",
+        "तां महिं जो हरि दर्शन करते, सफल जन्म तिहँ मानो ।",
+        "तुम भी हरि दर्शन पागो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Maanush Tan Darpan, Hari Darshan Hit Jaano.",
+        "Taan Mahin Jo Hari Darshan Karte, Saphal Janm Tihan Maano.",
+        "Tum Bhi Hari Darshan Paago Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िस मानुश तन मेन जागो रे, गुरु चरने लागो रे (टेक)."
+      "जिस कार्य के करने कारन, पाया मानुष चोला ।",
+      "भूल गये तिस कार्य को तुम, डाला अविद्या रोला ।",
+      "ले विद्या अविद्या त्यागो रे ॥१ ॥"
     ],
     [
-      "जिस कारय के करने कारन, पाया मानुश चोला.",
-      "भुल गये तिस कारय को तुम, दाला विदया रोला."
-    ],
-    [
-      "ले विदया विदया तयागो रे || 1 ||."
-    ],
-    [
-      "लख चौरासि जोनिन माहिन, चेतन मानुश देही.",
-      "चहोर विशय कर भजन हरि का, देही का फल ेहि."
-    ],
-    [
-      "दे पिथ जगत से भागोन रे || 2 ||."
+      "लख चौरासी जोनिन माहीं, चेतन मानुष देही ।",
+      "छोड़ विषय कर भजन हरी का, देही का फल एही ।",
+      "दे पीठ जगत से भागों रे ॥२ ॥"
     ],
     [
       "पहल",
-      "मानुश तन मेन शिव शकति का, होवे ज्ञान विकासा."
+      "मानुष तन में शिव शक्ती का, होवे ज्ञान विकासा ।",
+      "देवन को यह दुर्लभ मिलता, पुरानों में प्रकाशा ।",
+      "कर तांते हरि अनुरागो रे ॥३ ॥"
     ],
     [
-      "देवन को यह दुरलभ मिलता, पुरानोन मेन परकाशा.",
-      "कर तानते हरि नुरागो रे.3 ||."
-    ],
-    [
-      "कहे तेऊँ मानुश तन दरपन, हरि दरशन हित जानो.",
-      "तान महिन जो हरि दरशन करते, सफल जनम तिहन मानो."
-    ],
-    [
-      "तुम भि हरि दरशन पागो रे || 4 ||."
+      "कहे टेऊँ मानुष तन दर्पन, हरि दर्शन हित जानो ।",
+      "तां महिं जो हरि दर्शन करते, सफल जन्म तिहँ मानो ।",
+      "तुम भी हरि दर्शन पागो रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Is Maanush Tan Men Jaago Re, Guru Charne Laago Re (Tek)."
-    ],
-    [
       "Jis Kaary Ke Karne Kaaran, Paayaa Maanush Cholaa.",
-      "Bhul Gaye Tis Kaary Ko Tum, Daalaa Avidyaa Rolaa."
-    ],
-    [
-      "Le Vidyaa Avidyaa Tyaago Re || 1 ||."
+      "Bhul Gaye Tis Kaary Ko Tum, Daalaa Avidyaa Rolaa.",
+      "Le Vidyaa Avidyaa Tyaago Re || 1 ||"
     ],
     [
       "Lakh Chauraasi Jonin Maahin, Chetan Maanush Dehi.",
-      "Chhor Vishay Kar Bhajan Hari Kaa, Dehi Kaa Phal Ehi."
-    ],
-    [
-      "De Pith Jagat Se Bhaagon Re || 2 ||."
+      "Chhor Vishay Kar Bhajan Hari Kaa, Dehi Kaa Phal Ehi.",
+      "De Pith Jagat Se Bhaagon Re || 2 ||"
     ],
     [
       "Pahal",
-      "Maanush Tan Men Shiv Shakti Kaa, Hove Jnyaan Vikaasaa."
-    ],
-    [
+      "Maanush Tan Men Shiv Shakti Kaa, Hove Gyaan Vikaasaa.",
       "Devan Ko Yah Durlabh Miltaa, Puraanon Men Prakaashaa.",
-      "Kar Taante Hari Anuraago Re.3 ||."
+      "Kar Taante Hari Anuraago Re || 3 ||"
     ],
     [
       "Kahe Teun Maanush Tan Darpan, Hari Darshan Hit Jaano.",
-      "Taan Mahin Jo Hari Darshan Karte, Saphal Janm Tihan Maano."
-    ],
-    [
-      "Tum Bhi Hari Darshan Paago Re || 4 ||."
+      "Taan Mahin Jo Hari Darshan Karte, Saphal Janm Tihan Maano.",
+      "Tum Bhi Hari Darshan Paago Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 15 || 358. ||",
+    "इस मानुष तन में जागो रे, गुरु चरने लागो रे",
     "Is Maanush Tan Men Jaago Re, Guru Charne Laago Re",
-    "िस मानुश तन मेन जागो रे, गुरु चरने लागो रे"
+    "राग बसंत भजन 15",
+    "Raag Basant Bhajan 15"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
     "bhajan"
   ],
-  "displayOrder": 358,
+  "displayOrder": 15,
+  "overallOrder": 358,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 211",
+  "updatedAt": "2026-10-26"
 }

@@ -1,90 +1,138 @@
 {
-  "id": "bhajan-0794",
+  "id": "bhajan-0792",
   "slug": "hari-kaa-naam-japo-nishkaam-sajjan",
   "categoryId": "raag-pilaa",
-  "title": "हरि का नाम जपो निशकाम सजजन",
-  "romanTitle": "Hari Kaa Naam Japo Nishkaam Sajjan",
-  "firstLine": "Hari Kaa Naam Japo Nishkaam Sajjan, Paao Shaanti Sukh Vishraam Sajjan (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "हरि का नाम जपो निष्काम सज्जन,",
+  "romanTitle": "Hari Kaa Naam Japo Nishkaam Sajjan,",
+  "firstLine": "Hari Kaa Naam Japo Nishkaam Sajjan,",
+  "heading": "।। राग पीला भजन ॥।। ७२ ।। ७९४।।",
+  "tek": [
+    "हरि का नाम जपो निष्काम सज्जन,",
+    "पाओ शानती सुख विश्राम सज्जन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Hari Kaa Naam Japo Nishkaam Sajjan,",
+    "Paao Shaanti Sukh Vishraam Sajjan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम भवसिन्धु माहिं बोहथ, बहुत पापी तारता ।",
+        "जो जपे श्रद्धा धरे मन, ताहिं दूख निवारता ।",
+        "देवे भक्तों को निज धाम सज्जन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Bhavsindhu Maahin Bohath, Bahut Paapi Taartaa.",
+        "Jo Jape Shraddhaa Dhare Man, Taahin Dukh Nivaartaa.",
+        "Deve Bhakton Ko Nij Dhaam Sajjan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "द्द्ह",
+        "नाम हरि का गड़ जल है, ताहिं में नित नाइये ।",
+        "मैल मन की दूर करके, पाप ताप मिटाइये ।",
+        "पीवो नाम का भरकर जाम सज्जन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ddh",
+        "Naam Hari Kaa Gar Jal Hai, Taahin Men Nit Naaiye.",
+        "Mail Man Ki Dur Karke, Paap Taap Mitaaiye.",
+        "Pivo Naam Kaa Bharkar Jaam Sajjan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाम हरि का कल्पतरु सम, करत पूरण काज को ।",
+        "सेवते जो ताहिं को नित, पाय सो स्वराज को ।",
+        "तांते सुमरो आठों याम सज्जन ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Naam Hari Kaa Kalpatru Sam, Karat Puran Kaaj Ko.",
+        "Sevte Jo Taahin Ko Nit, Paay So Svaraaj Ko.",
+        "Taante Sumro Aathon Yaam Sajjan || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ साफ तुझको, विषय रस को त्यागिये ।",
+        "बहुत सोया नींद में तुम, अब तो उठकर जागिये ।",
+        "जपले स्वास स्वास हरिनाम सज्जन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Saaph Tujhko, Vishay Ras Ko Tyaagiye.",
+        "Bahut Soyaa Nind Men Tum, Ab To Uthkar Jaagiye.",
+        "Japle Svaas Svaas Harinaam Sajjan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हरि का नाम जपो निशकाम सजजन,",
-      "पाो शांति सुख विशराम सजजन (टेक)."
+      "नाम भवसिन्धु माहिं बोहथ, बहुत पापी तारता ।",
+      "जो जपे श्रद्धा धरे मन, ताहिं दूख निवारता ।",
+      "देवे भक्तों को निज धाम सज्जन ॥१ ॥"
     ],
     [
-      "नाम भवसिनधु माहिन बोहथ, बहुत पापि तारता.",
-      "जो जपे शरदधा धरे मन, ताहिन दुःख निवारता."
+      "द्द्ह",
+      "नाम हरि का गड़ जल है, ताहिं में नित नाइये ।",
+      "मैल मन की दूर करके, पाप ताप मिटाइये ।",
+      "पीवो नाम का भरकर जाम सज्जन ॥२ ॥"
     ],
     [
-      "देवे भकतोन को निज धाम सजजन || 1 ||"
+      "नाम हरि का कल्पतरु सम, करत पूरण काज को ।",
+      "सेवते जो ताहिं को नित, पाय सो स्वराज को ।",
+      "तांते सुमरो आठों याम सज्जन ॥ ।३े ॥"
     ],
     [
-      "दध",
-      "नाम हरि का गर जल है, ताहिन मेन नित नािये."
-    ],
-    [
-      "मैल मन कि दुर करके, पाप ताप मितािये.",
-      "पिवो नाम का भरकर जाम सजजन || 2 ||"
-    ],
-    [
-      "नाम हरि का कलपतरु सम, करत पुरन काज को.",
-      "सेवते जो ताहिन को नित, पाय सो सवराज को."
-    ],
-    [
-      "तानते सुमरो ाथोन याम सजजन ||.3े ||",
-      "कहत तेऊँ साफ तुझको, विशय रस को तयागिये."
-    ],
-    [
-      "बहुत सोया निनद मेन तुम, ब तो ुथकर जागिये.",
-      "जपले सवास सवास हरिनाम सजजन || 4 ||"
+      "कहत टेऊँ साफ तुझको, विषय रस को त्यागिये ।",
+      "बहुत सोया नींद में तुम, अब तो उठकर जागिये ।",
+      "जपले स्वास स्वास हरिनाम सज्जन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hari Kaa Naam Japo Nishkaam Sajjan,",
-      "Paao Shaanti Sukh Vishraam Sajjan (Tek)."
-    ],
-    [
       "Naam Bhavsindhu Maahin Bohath, Bahut Paapi Taartaa.",
-      "Jo Jape Shraddhaa Dhare Man, Taahin Dukh Nivaartaa."
-    ],
-    [
+      "Jo Jape Shraddhaa Dhare Man, Taahin Dukh Nivaartaa.",
       "Deve Bhakton Ko Nij Dhaam Sajjan || 1 ||"
     ],
     [
       "Ddh",
-      "Naam Hari Kaa Gar Jal Hai, Taahin Men Nit Naaiye."
-    ],
-    [
+      "Naam Hari Kaa Gar Jal Hai, Taahin Men Nit Naaiye.",
       "Mail Man Ki Dur Karke, Paap Taap Mitaaiye.",
       "Pivo Naam Kaa Bharkar Jaam Sajjan || 2 ||"
     ],
     [
       "Naam Hari Kaa Kalpatru Sam, Karat Puran Kaaj Ko.",
-      "Sevte Jo Taahin Ko Nit, Paay So Svaraaj Ko."
+      "Sevte Jo Taahin Ko Nit, Paay So Svaraaj Ko.",
+      "Taante Sumro Aathon Yaam Sajjan || 3E ||"
     ],
     [
-      "Taante Sumro Aathon Yaam Sajjan ||.3E ||",
-      "Kahat Teun Saaph Tujhko, Vishay Ras Ko Tyaagiye."
-    ],
-    [
+      "Kahat Teun Saaph Tujhko, Vishay Ras Ko Tyaagiye.",
       "Bahut Soyaa Nind Men Tum, Ab To Uthkar Jaagiye.",
       "Japle Svaas Svaas Harinaam Sajjan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 72 || 794 ||",
-    "Hari Kaa Naam Japo Nishkaam Sajjan",
-    "हरि का नाम जपो निशकाम सजजन"
+    "हरि का नाम जपो निष्काम सज्जन,",
+    "Hari Kaa Naam Japo Nishkaam Sajjan,",
+    "राग पीला भजन 71",
+    "Raag Pilaa Bhajan 71"
   ],
   "tags": [
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 794,
+  "displayOrder": 71,
+  "overallOrder": 792,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 419",
+  "updatedAt": "2026-10-26"
 }

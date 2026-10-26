@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0586",
+  "id": "bhajan-0584",
   "slug": "dhan-dhan-satguru-dev-alakh-ki-murat",
   "categoryId": "raag-saarang",
-  "title": "धन धन सतगुरु देव, लख कि मुरत",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "धन धन सत्‌गुरु देव, अलख की मूरत",
   "romanTitle": "Dhan Dhan Sat‌Guru Dev, Alakh Ki Murat",
   "firstLine": "Dhan Dhan Sat‌Guru Dev, Alakh Ki Murat (Tek).",
+  "heading": "।। राग सारंग भजन ।। ७ ।। ५८५।॥।",
+  "tek": [
+    "धन धन सत्‌गुरु देव, अलख की मूरत ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dhan Dhan Sat‌Guru Dev, Alakh Ki Murat (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पार ब्रह्म गुरु मूरत धारे, जग तारन हित धरनि पधारे ।",
+        "पर उपकारी एवं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paar Brahm Guru Murat Dhaare, Jag Taaran Hit Dharni Padhaare.",
+        "Par Upkaari Evan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपने घर का मग बतलावे, शब्द सहारे सुरति चढ़ावे ।",
+        "गुप्त लखावे भेव ॥२ ॥"
+      ],
+      "romanLines": [
+        "Apne Ghar Kaa Mag Batlaave, Shabd Sahaare Surti Charhaave.",
+        "Gupt Lakhaave Bhev || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सार शब्द से सुरति मिलाके, नैन नगर से ताहिं उठाके ।",
+        "देवे निज पद सेव ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saar Shabd Se Surti Milaake, Nain Nagar Se Taahin Uthaake.",
+        "Deve Nij Pad Sev || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ वह वासी हंसा, अमृत भोजी काल ध्वंसा ।",
+        "तांकी ऊप अखेव ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Vah Vaasi Hansaa, Amrit Bhoji Kaal Dhvansaa.",
+        "Taanki Up Akhev || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धन धन सतगुरु देव, लख कि मुरत (टेक)."
+      "पार ब्रह्म गुरु मूरत धारे, जग तारन हित धरनि पधारे ।",
+      "पर उपकारी एवं ॥१ ॥"
     ],
     [
-      "पार बरहम गुरु मुरत धारे, जग तारन हित धरनि पधारे.",
-      "पर ुपकारि ेवन || 1. ||."
+      "अपने घर का मग बतलावे, शब्द सहारे सुरति चढ़ावे ।",
+      "गुप्त लखावे भेव ॥२ ॥"
     ],
     [
-      "पने घर का मग बतलावे, शबद सहारे सुरति चरहावे.",
-      "गुपत लखावे भेव || 2 ||."
+      "सार शब्द से सुरति मिलाके, नैन नगर से ताहिं उठाके ।",
+      "देवे निज पद सेव ॥३ ॥"
     ],
     [
-      "सार शबद से सुरति मिलाके, नैन नगर से ताहिन ुथाके.",
-      "देवे निज पद सेव ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ वह वासि हनसा, अमृत भोजि काल धवनसा.",
-      "तानकि ुप खेव ||.4. ||."
-    ],
-    [
-      "तर"
+      "कहे टेऊँ वह वासी हंसा, अमृत भोजी काल ध्वंसा ।",
+      "तांकी ऊप अखेव ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dhan Dhan Sat‌Guru Dev, Alakh Ki Murat (Tek)."
-    ],
-    [
       "Paar Brahm Guru Murat Dhaare, Jag Taaran Hit Dharni Padhaare.",
-      "Par Upkaari Evan || 1. ||."
+      "Par Upkaari Evan || 1 ||"
     ],
     [
       "Apne Ghar Kaa Mag Batlaave, Shabd Sahaare Surti Charhaave.",
-      "Gupt Lakhaave Bhev || 2 ||."
+      "Gupt Lakhaave Bhev || 2 ||"
     ],
     [
       "Saar Shabd Se Surti Milaake, Nain Nagar Se Taahin Uthaake.",
-      "Deve Nij Pad Sev ||.3 ||."
+      "Deve Nij Pad Sev || 3 ||"
     ],
     [
       "Kahe Teun Vah Vaasi Hansaa, Amrit Bhoji Kaal Dhvansaa.",
-      "Taanki Up Akhev ||.4. ||."
-    ],
-    [
-      "Tar"
+      "Taanki Up Akhev || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 7 || 585. ||.",
+    "धन धन सत्‌गुरु देव, अलख की मूरत",
     "Dhan Dhan Sat‌Guru Dev, Alakh Ki Murat",
-    "धन धन सतगुरु देव, लख कि मुरत"
+    "राग सारंग भजन 7",
+    "Raag Saarang Bhajan 7"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 586,
+  "displayOrder": 7,
+  "overallOrder": 584,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 317",
+  "updatedAt": "2026-10-26"
 }

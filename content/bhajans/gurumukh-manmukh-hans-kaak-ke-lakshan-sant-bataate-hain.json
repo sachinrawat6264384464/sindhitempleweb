@@ -1,66 +1,130 @@
 {
-  "id": "bhajan-0607",
+  "id": "bhajan-0605",
   "slug": "gurumukh-manmukh-hans-kaak-ke-lakshan-sant-bataate-hain",
   "categoryId": "raag-kaamol",
-  "title": "गुरुमुख मनमुख हनस काक के, लकशन संत बताते हैन",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "गुरुमुख मनमुख हंस काक के, लक्षण सन्त बताते हैं",
   "romanTitle": "Gurumukh Manmukh Hans Kaak Ke, Lakshan Sant Bataate Hain",
   "firstLine": "Gurumukh Manmukh Hans Kaak Ke, Lakshan Sant Bataate Hain (Tek).",
+  "heading": "।। राग कामोल भजन ।। ८ ।। ६०६।॥।",
+  "tek": [
+    "गुरुमुख मनमुख हंस काक के, लक्षण सन्त बताते हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gurumukh Manmukh Hans Kaak Ke, Lakshan Sant Bataate Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हंसा मानसरोवर रहता, कौवे पोखर जाते हैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hansaa Maansarovar Rahtaa, Kauve Pokhar Jaate Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हंस रैन दिन मोती चुगता, कौवे दुर्गन्ध खाते हैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hans Rain Din Moti Chugtaa, Kauve Durgandh Khaate Hain || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हंसा मधुरी बोली बोलत, कौवे कड़वा गाते हैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hansaa Madhuri Boli Bolat, Kauve Karvaa Gaate Hain || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "हंसा सूधी चाल चलत हैं, कौवे टेढ़े धाते हैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hansaa Sudhi Chaal Chalat Hain, Kauve Terhe Dhaate Hain || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ कौवे दुख देते, हंस सर्व सुख दाते हैं ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kauve Dukh Dete, Hans Sarv Sukh Daate Hain || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "द्ठ्द"
+      ],
+      "romanLines": [
+        "Dthd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुमुख मनमुख हनस काक के, लकशन संत बताते हैन (टेक)."
+      "हंसा मानसरोवर रहता, कौवे पोखर जाते हैं ॥१ ॥"
     ],
     [
-      "हनसा मानसरोवर रहता, कौवे पोखर जाते हैन || 1. ||."
+      "हंस रैन दिन मोती चुगता, कौवे दुर्गन्ध खाते हैं ॥२ ॥"
     ],
     [
-      "हनस रैन दीन मोति चुगता, कौवे दुरगनध खाते हैन || 2 ||"
+      "हंसा मधुरी बोली बोलत, कौवे कड़वा गाते हैं ॥३ ॥"
     ],
     [
-      "हनसा मधुरि बोलि बोलत, कौवे करवा गाते हैन || 3े ||",
-      "हनसा सुधि चाल चलत हैन, कौवे तेरहे धाते हैन || 4. ||."
+      "हंसा सूधी चाल चलत हैं, कौवे टेढ़े धाते हैं ॥४ ॥"
     ],
     [
-      "कहे तेऊँ कौवे दुःख देते, हनस सर्व सुख दाते हैन || 5 ||."
+      "कहे टेऊँ कौवे दुख देते, हंस सर्व सुख दाते हैं ॥५ ॥"
     ],
     [
-      "दथद"
+      "द्ठ्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Gurumukh Manmukh Hans Kaak Ke, Lakshan Sant Bataate Hain (Tek)."
-    ],
-    [
-      "Hansaa Maansarovar Rahtaa, Kauve Pokhar Jaate Hain || 1. ||."
+      "Hansaa Maansarovar Rahtaa, Kauve Pokhar Jaate Hain || 1 ||"
     ],
     [
       "Hans Rain Din Moti Chugtaa, Kauve Durgandh Khaate Hain || 2 ||"
     ],
     [
-      "Hansaa Madhuri Boli Bolat, Kauve Karvaa Gaate Hain || 3E ||",
-      "Hansaa Sudhi Chaal Chalat Hain, Kauve Terhe Dhaate Hain || 4. ||."
+      "Hansaa Madhuri Boli Bolat, Kauve Karvaa Gaate Hain || 3 ||"
     ],
     [
-      "Kahe Teun Kauve Dukh Dete, Hans Sarv Sukh Daate Hain || 5 ||."
+      "Hansaa Sudhi Chaal Chalat Hain, Kauve Terhe Dhaate Hain || 4 ||"
+    ],
+    [
+      "Kahe Teun Kauve Dukh Dete, Hans Sarv Sukh Daate Hain || 5 ||"
     ],
     [
       "Dthd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kaamol Bhajan || 8 || 606. ||.",
+    "गुरुमुख मनमुख हंस काक के, लक्षण सन्त बताते हैं",
     "Gurumukh Manmukh Hans Kaak Ke, Lakshan Sant Bataate Hain",
-    "गुरुमुख मनमुख हनस काक के, लकशन संत बताते हैन"
+    "राग कामोल भजन 8",
+    "Raag Kaamol Bhajan 8"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kaamol",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
     "bhajan"
   ],
-  "displayOrder": 607,
+  "displayOrder": 8,
+  "overallOrder": 605,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 326",
+  "updatedAt": "2026-10-26"
 }

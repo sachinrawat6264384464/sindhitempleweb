@@ -2,41 +2,98 @@
   "id": "bhajan-0060",
   "slug": "jaag-jijnyaasu-jit-hari-jap-jaag-jijnyaasu-jit",
   "categoryId": "raag-prabhaati",
-  "title": "जाग जिजनयासु जित हरि जप, जाग जिजनयासु जित",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "जाग जिज्ञासू जीत हरि जप, जाग जिज्ञासू जीत",
   "romanTitle": "Jaag Jijnyaasu Jit Hari Jap, Jaag Jijnyaasu Jit",
   "firstLine": "Jaag Jijnyaasu Jit Hari Jap, Jaag Jijnyaasu Jit (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। २८ ।। ६०।।",
+  "tek": [
+    "जाग जिज्ञासू जीत हरि जप, जाग जिज्ञासू जीत ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaag Jijnyaasu Jit Hari Jap, Jaag Jijnyaasu Jit (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्‌ शब्द सुन श्रवण जागे, हौं मैं संसा दुर्मति भागे ।",
+        "भागे भ्रम की भीत ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sat‌ Shabd Sun Shravan Jaage, Haun Main Sansaa Durmati Bhaage.",
+        "Bhaage Bhram Ki Bhit || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जागे नेत्र राम के दर्शन, पेख पेख से होवन प्रसन्न ।",
+        "राचहिं हरि रंग रीत ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaage Netr Raam Ke Darshan, Pekh Pekh Se Hovan Prasann.",
+        "Raachhin Hari Rang Rit || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जागे रसना हरिगुण उचरे, विषय वासना विष रस विसरे ।",
+        "एक अमीरस पीत ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaage Rasnaa Harigun Uchre, Vishay Vaasnaa Vish Ras Visre.",
+        "Ek Amiras Pit || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जागे इंड़ा जागे पिंगला, जागे श्रुतां गावे मंगला ।",
+        "गावे हरि गुण गीत ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jaage Inraa Jaage Pinglaa, Jaage Shrutaan Gaave Manglaa.",
+        "Gaave Hari Gun Git || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ जो ऐसा जागे, तांको यम का दूख न लागे ।",
+        "पाये गुरु से प्रीत ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Aisaa Jaage, Taanko Yam Kaa Dukh Na Laage.",
+        "Paaye Guru Se Prit || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जाग जिजनयासु जित हरि जप, जाग जिजनयासु जित (टेक)."
+      "सत्‌ शब्द सुन श्रवण जागे, हौं मैं संसा दुर्मति भागे ।",
+      "भागे भ्रम की भीत ॥१ ॥"
     ],
     [
-      "सत‌ शबद सुन शरवन जागे, हौन मैं सनसा दुरमति भागे.",
-      "भागे भरम कि भित || 1 ||"
+      "जागे नेत्र राम के दर्शन, पेख पेख से होवन प्रसन्न ।",
+      "राचहिं हरि रंग रीत ॥२ ॥"
     ],
     [
-      "जागे नेतर राम के दरशन, पेख पेख से होवन परसनन.",
-      "राचहिन हरि रनग रित || 2 ||"
+      "जागे रसना हरिगुण उचरे, विषय वासना विष रस विसरे ।",
+      "एक अमीरस पीत ॥३ ॥"
     ],
     [
-      "जागे रसना हरिगुन ुचरे, विशय वासना विश रस विसरे.",
-      "ेक मिरस पित || 3 ||."
+      "जागे इंड़ा जागे पिंगला, जागे श्रुतां गावे मंगला ।",
+      "गावे हरि गुण गीत ॥४ ॥"
     ],
     [
-      "जागे िनरा जागे पिनगला, जागे शरुतान गावे मनगला.",
-      "गावे हरि गुन गित || 4 ||"
-    ],
-    [
-      "कहे तेऊँ जो ैसा जागे, तानको यम का दुःख न लागे.",
-      "पाये गुरु से परित || 5 ||"
-    ],
-    [
-      "नन"
+      "कहे टेऊँ जो ऐसा जागे, तांको यम का दूख न लागे ।",
+      "पाये गुरु से प्रीत ॥५ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jaag Jijnyaasu Jit Hari Jap, Jaag Jijnyaasu Jit (Tek)."
-    ],
     [
       "Sat‌ Shabd Sun Shravan Jaage, Haun Main Sansaa Durmati Bhaage.",
       "Bhaage Bhram Ki Bhit || 1 ||"
@@ -47,33 +104,32 @@
     ],
     [
       "Jaage Rasnaa Harigun Uchre, Vishay Vaasnaa Vish Ras Visre.",
-      "Ek Amiras Pit || 3 ||."
+      "Ek Amiras Pit || 3 ||"
     ],
     [
       "Jaage Inraa Jaage Pinglaa, Jaage Shrutaan Gaave Manglaa.",
       "Gaave Hari Gun Git || 4 ||"
     ],
     [
-      "Kahe Teun Jo Aisaa Jaage, Taanko Yam Kaa Dukh N Laage.",
+      "Kahe Teun Jo Aisaa Jaage, Taanko Yam Kaa Dukh Na Laage.",
       "Paaye Guru Se Prit || 5 ||"
-    ],
-    [
-      "Nan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 28 || 60 ||",
+    "जाग जिज्ञासू जीत हरि जप, जाग जिज्ञासू जीत",
     "Jaag Jijnyaasu Jit Hari Jap, Jaag Jijnyaasu Jit",
-    "जाग जिजनयासु जित हरि जप, जाग जिजनयासु जित"
+    "राग प्रभाती भजन 28",
+    "Raag Prabhaati Bhajan 28"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 60,
+  "displayOrder": 28,
+  "overallOrder": 60,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 55",
+  "updatedAt": "2026-10-26"
 }

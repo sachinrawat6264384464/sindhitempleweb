@@ -1,52 +1,110 @@
 {
-  "id": "bhajan-0915",
+  "id": "bhajan-0913",
   "slug": "tum-ho-sat-chit-aanand-rup-apne-ko-mat-maanush-maano",
   "categoryId": "raag-jog",
-  "title": "तुम हो सत‌ चित‌ आनंद रुप, पने को मत मानुश मानो",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "तुम हो सत्‌ चित्‌ आनन्द रूप, अपने को मत मानुष मानो",
   "romanTitle": "Tum Ho Sat‌ Chit‌ Aanand Rup, Apne Ko Mat Maanush Maano",
   "firstLine": "Tum Ho Sat‌ Chit‌ Aanand Rup, Apne Ko Mat Maanush Maano (Tek).",
+  "heading": "।। राग जोग भजन ।। ८५ ।। ९१५ ।।",
+  "tek": [
+    "तुम हो सत्‌ चित्‌ आनन्द रूप, अपने को मत मानुष मानो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Ho Sat‌ Chit‌ Aanand Rup, Apne Ko Mat Maanush Maano (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अष्टावक्र मुनी ने कहिया, जनक भूप के प्रती भैया ।",
+        "जग मिधथ्या तूं सत्स्वरूप ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ashtaavakr Muni Ne Kahiyaa, Janak Bhup Ke Prati Bhaiyaa.",
+        "Jag Midhathyaa Tu Satsvarup || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कहा वशिष्ठ ने रघुवर ताईं, तीन काल जग बनिया नाहीं ।",
+        "जो है ते तूं ब्रह्मा अरूप ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kahaa Vashishth Ne Raghuvar Taain, Tin Kaal Jag Baniyaa Naahin.",
+        "Jo Hai Te Tu Brahmaa Arup || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वेदों ने बतलाया जैसे, सन्तों ने समझाया तेसे ।",
+        "गुरु भी कहते तूं सुरभूप ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vedon Ne Batlaayaa Jaise, Santon Ne Samjhaayaa Tese.",
+        "Guru Bhi Kahte Tu Surbhup || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो होते जिससे, भिन्न न लखिये तांको तिससे ।",
+        "तूं है अदभुत रूप अनूप ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Hote Jisse, Bhinn Na Lakhiye Taanko Tisse.",
+        "Tu Hai Adbhut Rup Anup || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग्रह"
+      ],
+      "romanLines": [
+        "Grah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम हो सत‌ चित‌ आनंद रुप, पने को मत मानुश मानो (टेक)."
+      "अष्टावक्र मुनी ने कहिया, जनक भूप के प्रती भैया ।",
+      "जग मिधथ्या तूं सत्स्वरूप ॥१ ॥"
     ],
     [
-      "शतावकर मुनि ने कहिया, जनक भुप के परति भैया.",
-      "जग मिधथया तु सतसवरुप || 1 ||"
+      "कहा वशिष्ठ ने रघुवर ताईं, तीन काल जग बनिया नाहीं ।",
+      "जो है ते तूं ब्रह्मा अरूप ॥२ ॥"
     ],
     [
-      "कहा वशिशथ ने रघुवर तािन, तिन काल जग बनिया नाहिन.",
-      "जो है ते तु बरहम रुप || 2 ||"
+      "वेदों ने बतलाया जैसे, सन्तों ने समझाया तेसे ।",
+      "गुरु भी कहते तूं सुरभूप ॥३ ॥"
     ],
     [
-      "वेदोन ने बतलाया जैसे, सनतोन ने समझाया तेसे.",
-      "गुरु भि कहते तु सुरभुप || 3 ||"
+      "कहे टेऊँ जो होते जिससे, भिन्न न लखिये तांको तिससे ।",
+      "तूं है अदभुत रूप अनूप ॥४ ॥"
     ],
     [
-      "कहे तेऊँ जो होते जिससे, भिनन न लखिये तानको तिससे.",
-      "तु है दभुत रुप नुप || 4 ||"
-    ],
-    [
-      "गरह"
+      "ग्रह"
     ]
   ],
   "romanLyrics": [
-    [
-      "Tum Ho Sat‌ Chit‌ Aanand Rup, Apne Ko Mat Maanush Maano (Tek)."
-    ],
     [
       "Ashtaavakr Muni Ne Kahiyaa, Janak Bhup Ke Prati Bhaiyaa.",
       "Jag Midhathyaa Tu Satsvarup || 1 ||"
     ],
     [
       "Kahaa Vashishth Ne Raghuvar Taain, Tin Kaal Jag Baniyaa Naahin.",
-      "Jo Hai Te Tu Brahma Arup || 2 ||"
+      "Jo Hai Te Tu Brahmaa Arup || 2 ||"
     ],
     [
       "Vedon Ne Batlaayaa Jaise, Santon Ne Samjhaayaa Tese.",
       "Guru Bhi Kahte Tu Surbhup || 3 ||"
     ],
     [
-      "Kahe Teun Jo Hote Jisse, Bhinn N Lakhiye Taanko Tisse.",
+      "Kahe Teun Jo Hote Jisse, Bhinn Na Lakhiye Taanko Tisse.",
       "Tu Hai Adbhut Rup Anup || 4 ||"
     ],
     [
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 85 || 915 ||",
+    "तुम हो सत्‌ चित्‌ आनन्द रूप, अपने को मत मानुष मानो",
     "Tum Ho Sat‌ Chit‌ Aanand Rup, Apne Ko Mat Maanush Maano",
-    "तुम हो सत‌ चित‌ आनंद रुप, पने को मत मानुश मानो"
+    "राग जोग भजन 85",
+    "Raag Jog Bhajan 85"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 915,
+  "displayOrder": 85,
+  "overallOrder": 913,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 480",
+  "updatedAt": "2026-10-26"
 }

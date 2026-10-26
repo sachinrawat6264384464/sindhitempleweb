@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0587",
+  "id": "bhajan-0585",
   "slug": "rim-jhim-kar-harbaar-baadal-barse",
   "categoryId": "raag-saarang",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
   "title": "रिम झिम कर हरबार, बादल बरसे",
   "romanTitle": "Rim Jhim Kar Harbaar, Baadal Barse",
   "firstLine": "Rim Jhim Kar Harbaar, Baadal Barse (Tek).",
+  "heading": "।। राग सारंग भजन ।। ८ ।। ५८६।॥।",
+  "tek": [
+    "रिम झिम कर हरबार, बादल बरसे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Rim Jhim Kar Harbaar, Baadal Barse (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बादल बन कर बरसण आया, आज सखी मम भवन सुहाया ।",
+        "बिजली कर चिमकार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baadal Ban Kar Barsan Aayaa, Aaj Sakhi Mam Bhavan Suhaayaa.",
+        "Bijli Kar Chimkaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चौदिश होई अति हरियाली, अवनि भयी अदृभुत उजियाली ।",
+        "चिमन खिड़ी गुलिज़ार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chaudish Hoi Ati Hariyaali, Avni Bhayi Adribhut Ujiyaali.",
+        "Chiman Khiri Gulizaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बुलबुल पपिहा नाचत मोरा, कोयल मैना गूंजत भौरा ।",
+        "मधुर करे झनकार ॥३े ।"
+      ],
+      "romanLines": [
+        "Bulbul Papihaa Naachat Moraa, Koyal Mainaa Gunjat Bhauraa.",
+        "Madhur Kare Jhankaar || 3E."
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सरवर नदियां नाला भरिया, कहे टेऊँ सब कारज सरिया ।",
+        "होई जय जयकार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sarvar Nadiyaan Naalaa Bhariyaa, Kahe Teun Sab Kaaraj Sariyaa.",
+        "Hoi Jay Jaykaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रिम झिम कर हरबार, बादल बरसे (टेक)."
+      "बादल बन कर बरसण आया, आज सखी मम भवन सुहाया ।",
+      "बिजली कर चिमकार ॥१ ॥"
     ],
     [
-      "बादल बन कर बरसन ाया, ाज सखि मम भवन सुहाया.",
-      "बिजलि कर चिमकार ||.1 ||"
+      "चौदिश होई अति हरियाली, अवनि भयी अदृभुत उजियाली ।",
+      "चिमन खिड़ी गुलिज़ार ॥२ ॥"
     ],
     [
-      "चौदिश होि ति हरियालि, वनि भयि दरिभुत ुजियालि.",
-      "चिमन खिरि गुलिzार || 2 ||."
+      "बुलबुल पपिहा नाचत मोरा, कोयल मैना गूंजत भौरा ।",
+      "मधुर करे झनकार ॥३े ।"
     ],
     [
-      "बुलबुल पपिहा नाचत मोरा, कोयल मैना गुनजत भौरा.",
-      "मधुर करे झनकार || 3े."
-    ],
-    [
-      "सरवर नदियान नाला भरिया, कहे तेऊँ सब कारज सरिया.",
-      "होि जय जयकार ||.4 ||."
+      "सरवर नदियां नाला भरिया, कहे टेऊँ सब कारज सरिया ।",
+      "होई जय जयकार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Rim Jhim Kar Harbaar, Baadal Barse (Tek)."
-    ],
-    [
       "Baadal Ban Kar Barsan Aayaa, Aaj Sakhi Mam Bhavan Suhaayaa.",
-      "Bijli Kar Chimkaar ||.1 ||"
+      "Bijli Kar Chimkaar || 1 ||"
     ],
     [
       "Chaudish Hoi Ati Hariyaali, Avni Bhayi Adribhut Ujiyaali.",
-      "Chiman Khiri Gulizaar || 2 ||."
+      "Chiman Khiri Gulizaar || 2 ||"
     ],
     [
       "Bulbul Papihaa Naachat Moraa, Koyal Mainaa Gunjat Bhauraa.",
@@ -44,22 +93,24 @@
     ],
     [
       "Sarvar Nadiyaan Naalaa Bhariyaa, Kahe Teun Sab Kaaraj Sariyaa.",
-      "Hoi Jay Jaykaar ||.4 ||."
+      "Hoi Jay Jaykaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Saarang Bhajan || 8 || 586. ||.",
+    "रिम झिम कर हरबार, बादल बरसे",
     "Rim Jhim Kar Harbaar, Baadal Barse",
-    "रिम झिम कर हरबार, बादल बरसे"
+    "राग सारंग भजन 8",
+    "Raag Saarang Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 587,
+  "displayOrder": 8,
+  "overallOrder": 585,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 318",
+  "updatedAt": "2026-10-26"
 }

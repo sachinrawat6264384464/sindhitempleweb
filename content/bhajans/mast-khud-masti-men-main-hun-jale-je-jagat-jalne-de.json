@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0564",
+  "id": "bhajan-0562",
   "slug": "mast-khud-masti-men-main-hun-jale-je-jagat-jalne-de",
   "categoryId": "raag-khambhaat",
-  "title": "मसत खुद मसति मेन मैं हुन, जले जे जगत जलने दे",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "मस्त खुद मस्ती में मैं हूँ, जले जे जगत जलने दे",
   "romanTitle": "Mast Khud Masti Men Main Hun, Jale Je Jagat Jalne De",
   "firstLine": "Mast Khud Masti Men Main Hun, Jale Je Jagat Jalne De (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १४ ।। ५६ ३।।",
+  "tek": [
+    "मस्त खुद मस्ती में मैं हूँ, जले जे जगत जलने दे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mast Khud Masti Men Main Hun, Jale Je Jagat Jalne De (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरू से ज्ञान आतम का, भली प्रकार है पाया ।",
+        "समझ संसार की सारी, टले जे ताहिं टलने दे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Se Gyaan Aatam Kaa, Bhali Prakaar Hai Paayaa.",
+        "Samajh Sansaar Ki Saari, Tale Je Taahin Talne De || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अभी चित्त शांत से निशदिन, ब्रह्मा आनन्द भोगत हूं ।",
+        "विषय रस भोग सुख अगि में , बले जे ताहिं बलने दे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Abhi Chitt Shaant Se Nishdin, Brahmaa Aanand Bhogat Hun.",
+        "Vishay Ras Bhog Sukh Agi Men, Bale Je Taahin Balne De || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म स्वरूप नित मैं हूं, अभी निश्चय पछाना है ।",
+        "जिसम का जो सम्बन्ध झूठा, गले जे ताहिं गलने दे ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Brahm Svarup Nit Main Hun, Abhi Nishchay Pachhaanaa Hai.",
+        "Jisam Kaa Jo Sambandh Jhuthaa, Gale Je Taahin Galne De || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कहत हूं मैं, अभी अद्वैत की गाथा ।",
+        "भ्रम अरु ट्रैत की चर्चा, दले जे ताहिं दलने दे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kahat Hun Main, Abhi Advait Ki Gaathaa.",
+        "Bhram Aru Trait Ki Charchaa, Dale Je Taahin Dalne De || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मसत खुद मसति मेन मैं हुन, जले जे जगत जलने दे (टेक)."
+      "गुरू से ज्ञान आतम का, भली प्रकार है पाया ।",
+      "समझ संसार की सारी, टले जे ताहिं टलने दे ॥१ ॥"
     ],
     [
-      "गुरु से ज्ञान ातम का, भलि परकार है पाया.",
-      "समझ सनसार कि सारि, तले जे ताहिन तलने दे || 1 ||."
+      "अभी चित्त शांत से निशदिन, ब्रह्मा आनन्द भोगत हूं ।",
+      "विषय रस भोग सुख अगि में , बले जे ताहिं बलने दे ॥२ ॥"
     ],
     [
-      "भि चितत शानत से निशदिन, बरहम आनंद भोगत हुन.",
-      "विशय रस भोग सुख गि मेन, बले जे ताहिन बलने दे || 2 ||."
+      "ब्रह्म स्वरूप नित मैं हूं, अभी निश्चय पछाना है ।",
+      "जिसम का जो सम्बन्ध झूठा, गले जे ताहिं गलने दे ॥ ३े ॥"
     ],
     [
-      "बरहम सवरुप नित मैं हुन, भि निशचय पचहाना है.",
-      "जिसम का जो समबनध झुथा, गले जे ताहिन गलने दे || 3े ||"
-    ],
-    [
-      "कहे तेऊँ कहत हुन मैं, भि दवैत कि गाथा.",
-      "भरम रु तरैत कि चरचा, दले जे ताहिन दलने दे || 4. ||."
+      "कहे टेऊँ कहत हूं मैं, अभी अद्वैत की गाथा ।",
+      "भ्रम अरु ट्रैत की चर्चा, दले जे ताहिं दलने दे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mast Khud Masti Men Main Hun, Jale Je Jagat Jalne De (Tek)."
+      "Guru Se Gyaan Aatam Kaa, Bhali Prakaar Hai Paayaa.",
+      "Samajh Sansaar Ki Saari, Tale Je Taahin Talne De || 1 ||"
     ],
     [
-      "Guru Se Jnyaan Aatam Kaa, Bhali Prakaar Hai Paayaa.",
-      "Samajh Sansaar Ki Saari, Tale Je Taahin Talne De || 1 ||."
-    ],
-    [
-      "Abhi Chitt Shaant Se Nishdin, Brahma Aanand Bhogat Hun.",
-      "Vishay Ras Bhog Sukh Agi Men, Bale Je Taahin Balne De || 2 ||."
+      "Abhi Chitt Shaant Se Nishdin, Brahmaa Aanand Bhogat Hun.",
+      "Vishay Ras Bhog Sukh Agi Men, Bale Je Taahin Balne De || 2 ||"
     ],
     [
       "Brahm Svarup Nit Main Hun, Abhi Nishchay Pachhaanaa Hai.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahe Teun Kahat Hun Main, Abhi Advait Ki Gaathaa.",
-      "Bhram Aru Trait Ki Charchaa, Dale Je Taahin Dalne De || 4. ||."
+      "Bhram Aru Trait Ki Charchaa, Dale Je Taahin Dalne De || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 14 || 56 3 ||",
+    "मस्त खुद मस्ती में मैं हूँ, जले जे जगत जलने दे",
     "Mast Khud Masti Men Main Hun, Jale Je Jagat Jalne De",
-    "मसत खुद मसति मेन मैं हुन, जले जे जगत जलने दे"
+    "राग खंभात भजन 14",
+    "Raag Khambhaat Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 564,
+  "displayOrder": 14,
+  "overallOrder": 562,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 307",
+  "updatedAt": "2026-10-26"
 }

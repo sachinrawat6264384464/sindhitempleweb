@@ -1,49 +1,100 @@
 {
-  "id": "bhajan-0536",
+  "id": "bhajan-0534",
   "slug": "re-man-ab-uth-jaag-re-tujhe-hari-milegaa",
   "categoryId": "raag-sorath",
-  "title": "रे मन ब ुथ जाग, रे तुझे हरि मिलेगा",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "रे मन अब उठ जाग, रे तुझे हरी मिलेगा",
   "romanTitle": "Re Man Ab Uth Jaag, Re Tujhe Hari Milegaa",
   "firstLine": "Re Man Ab Uth Jaag, Re Tujhe Hari Milegaa (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ४ ।। ५३५।।",
+  "tek": [
+    "रे मन अब उठ जाग, रे तुझे हरी मिलेगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Ab Uth Jaag, Re Tujhe Hari Milegaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन में राम नाम जप, खोलो अपना भाग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Men Raam Naam Jap, Kholo Apnaa Bhaag || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साध संगति में शान्ती पाए, तृष्णा का कर त्याग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Men Shaanti Paae, Trishnaa Kaa Kar Tyaag || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "झूठी प्रीती जान जगत की, धारो मन वैराग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jhuthi Priti Jaan Jagat Ki, Dhaaro Man Vairaag || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ उर श्रद्धा धारे, सत्‌गुरु के पद लाग ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ur Shraddhaa Dhaare, Sat‌Guru Ke Pad Laag || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन ब ुथ जाग, रे तुझे हरि मिलेगा (टेक)."
+      "मानुष तन में राम नाम जप, खोलो अपना भाग ॥१ ॥"
     ],
     [
-      "मानुश तन मेन राम नाम जप, खोलो पना भाग ||.1 ||",
-      "साध सनगति मेन शांति पाे, तरिशना का कर तयाग.2 ||."
+      "साध संगति में शान्ती पाए, तृष्णा का कर त्याग ॥२ ॥"
     ],
     [
-      "झुथि परिति जान जगत कि, धारो मन वैराग ||.3 ||.",
-      "कहे तेऊँ ुर शरदधा धारे, सतगुरु के पद लाग ||.4 ||."
+      "झूठी प्रीती जान जगत की, धारो मन वैराग ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ उर श्रद्धा धारे, सत्‌गुरु के पद लाग ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Ab Uth Jaag, Re Tujhe Hari Milegaa (Tek)."
+      "Maanush Tan Men Raam Naam Jap, Kholo Apnaa Bhaag || 1 ||"
     ],
     [
-      "Maanush Tan Men Raam Naam Jap, Kholo Apnaa Bhaag ||.1 ||",
-      "Saadh Sangti Men Shaanti Paae, Trishnaa Kaa Kar Tyaag.2 ||."
+      "Saadh Sangti Men Shaanti Paae, Trishnaa Kaa Kar Tyaag || 2 ||"
     ],
     [
-      "Jhuthi Priti Jaan Jagat Ki, Dhaaro Man Vairaag ||.3 ||.",
-      "Kahe Teun Ur Shraddhaa Dhaare, Sat‌Guru Ke Pad Laag ||.4 ||."
+      "Jhuthi Priti Jaan Jagat Ki, Dhaaro Man Vairaag || 3 ||"
+    ],
+    [
+      "Kahe Teun Ur Shraddhaa Dhaare, Sat‌Guru Ke Pad Laag || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 4 || 535 ||",
+    "रे मन अब उठ जाग, रे तुझे हरी मिलेगा",
     "Re Man Ab Uth Jaag, Re Tujhe Hari Milegaa",
-    "रे मन ब ुथ जाग, रे तुझे हरि मिलेगा"
+    "राग सोरठ भजन 4",
+    "Raag Sorath Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 536,
+  "displayOrder": 4,
+  "overallOrder": 534,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 293",
+  "updatedAt": "2026-10-26"
 }

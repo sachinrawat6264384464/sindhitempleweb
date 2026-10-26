@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0742",
+  "id": "bhajan-0740",
   "slug": "teri-ghaafil-aayu-saari-guzar-gayi-sute-sute",
   "categoryId": "raag-pilaa",
-  "title": "तेरि घाfिल ायु सारि, गुzर गयि सुते सुते",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "तेरी ग़ाफ़िल आयू सारी, गुज़र गयी सुते सुते",
   "romanTitle": "Teri Ghaafil Aayu Saari, Guzar Gayi Sute Sute",
-  "firstLine": "Teri Ghaafil Aayu Saari, Guzar Gayi Sute Sute. Aje Kiti Naa Hushiyaari, Guzar Gayi Sute Sute (Tek).",
+  "firstLine": "Teri Ghaafil Aayu Saari, Guzar Gayi Sute Sute.",
+  "heading": "।। राग पीला भजन ॥।। २० ।। ७४२।॥।",
+  "tek": [
+    "तेरी ग़ाफ़िल आयू सारी, गुज़र गयी सुते सुते ।",
+    "अजे कीती ना हुशियारी, गुज़र गयी सुते सुते ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Teri Ghaafil Aayu Saari, Guzar Gayi Sute Sute.",
+    "Aje Kiti Naa Hushiyaari, Guzar Gayi Sute Sute (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तैं बाल अवस्था खोई, कछु खेलन में कछु रोई ।",
+        "कछु चेत्ता नाहिं अनारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tain Baal Avasthaa Khoi, Kachhu Khelan Men Kachhu Roi.",
+        "Kachhu Chettaa Naahin Anaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तैं यौवन अवस्था भाई, रस भोगों माहिं बिताई ।",
+        "कछु कीता ना अहंकारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tain Yauvan Avasthaa Bhaai, Ras Bhogon Maahin Bitaai.",
+        "Kachhu Kitaa Naa Ahankaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तैं वृद्ध अवस्था सारी, मोह ममता माहिं गुज़ारी ।",
+        "कछु सोचा ना मति मारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tain Vriddh Avasthaa Saari, Moh Mamtaa Maahin Guzaari.",
+        "Kachhu Sochaa Naa Mati Maari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ना कछु कीना, है धिकू धिक्‌ तेरा जीना ।",
+        "तैं जीती बाज़ी हारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Naa Kachhu Kinaa, Hai Dhiku Dhik‌ Teraa Jinaa.",
+        "Tain Jiti Baazi Haari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तेरि घाfिल ायु सारि, गुzर गयि सुते सुते.",
-      "जे किति ना हुशियारि, गुzर गयि सुते सुते (टेक)."
+      "तैं बाल अवस्था खोई, कछु खेलन में कछु रोई ।",
+      "कछु चेत्ता नाहिं अनारी ॥१ ॥"
     ],
     [
-      "तैन बाल वसथा खोि, कचहु खेलन मेन कचहु रोि.",
-      "कचहु चेतता नाहिन नारि.1. ||."
+      "तैं यौवन अवस्था भाई, रस भोगों माहिं बिताई ।",
+      "कछु कीता ना अहंकारी ॥२ ॥"
     ],
     [
-      "तैन यौवन वसथा भाि, रस भोगोन माहिन बिताि.",
-      "कचहु किता ना हनकारि || 2 ||"
+      "तैं वृद्ध अवस्था सारी, मोह ममता माहिं गुज़ारी ।",
+      "कछु सोचा ना मति मारी ॥३ ॥"
     ],
     [
-      "तैन वरिदध वसथा सारि, मोह ममता माहिन गुzारि.",
-      "कचहु सोचा ना मति मारि ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ ना कचहु किना, है धिकु धिक‌ तेरा जिना.",
-      "तैन जिति बाzि हारि ||.4 ||."
+      "कहे टेऊँ ना कछु कीना, है धिकू धिक्‌ तेरा जीना ।",
+      "तैं जीती बाज़ी हारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Teri Ghaafil Aayu Saari, Guzar Gayi Sute Sute.",
-      "Aje Kiti Naa Hushiyaari, Guzar Gayi Sute Sute (Tek)."
-    ],
-    [
       "Tain Baal Avasthaa Khoi, Kachhu Khelan Men Kachhu Roi.",
-      "Kachhu Chettaa Naahin Anaari.1. ||."
+      "Kachhu Chettaa Naahin Anaari || 1 ||"
     ],
     [
       "Tain Yauvan Avasthaa Bhaai, Ras Bhogon Maahin Bitaai.",
@@ -42,26 +91,28 @@
     ],
     [
       "Tain Vriddh Avasthaa Saari, Moh Mamtaa Maahin Guzaari.",
-      "Kachhu Sochaa Naa Mati Maari ||.3 ||"
+      "Kachhu Sochaa Naa Mati Maari || 3 ||"
     ],
     [
       "Kahe Teun Naa Kachhu Kinaa, Hai Dhiku Dhik‌ Teraa Jinaa.",
-      "Tain Jiti Baazi Haari ||.4 ||."
+      "Tain Jiti Baazi Haari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || || 20 || 742. ||.",
+    "तेरी ग़ाफ़िल आयू सारी, गुज़र गयी सुते सुते",
     "Teri Ghaafil Aayu Saari, Guzar Gayi Sute Sute",
-    "तेरि घाfिल ायु सारि, गुzर गयि सुते सुते"
+    "राग पीला भजन 19",
+    "Raag Pilaa Bhajan 19"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 742,
+  "displayOrder": 19,
+  "overallOrder": 740,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 393",
+  "updatedAt": "2026-10-26"
 }

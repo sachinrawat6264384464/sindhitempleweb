@@ -1,59 +1,99 @@
 {
-  "id": "bhajan-0492",
+  "id": "bhajan-0491",
   "slug": "sat-chit-aanand-sarv-vyaapak",
   "categoryId": "raag-kohiyaari",
-  "title": "सत‌ चित‌ आनंद सर्व वयापक",
-  "romanTitle": "Sat‌ Chit‌ Aanand Sarv Vyaapak",
-  "firstLine": "Sat‌ Chit‌ Aanand Sarv Vyaapak, Saakshi Sirjanhaaraa, Tu Hai Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सत्‌ चित्‌ आनन्द सर्व व्यापक,",
+  "romanTitle": "Sat‌ Chit‌ Aanand Sarv Vyaapak,",
+  "firstLine": "Sat‌ Chit‌ Aanand Sarv Vyaapak,",
+  "heading": "।। राग कोदह्यारी भजन ।। १२ ।। ४९२।।",
+  "tek": [
+    "सत्‌ चित्‌ आनन्द सर्व व्यापक,",
+    "साक्षी सिरजणहारा, तूं है प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌ Chit‌ Aanand Sarv Vyaapak,",
+    "Saakshi Sirjanhaaraa, Tu Hai Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अजर अडोल अगम अविनाशी,",
+        "नाम रूप ते न्यारा, तूं है प्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ajar Adol Agam Avinaashi,",
+        "Naam Rup Te Nyaaraa, Tu Hai Pyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "असंग अरूप अनूप अनादी,",
+        "आत्म अखण्ड अपारा, तूं है प्यारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Asang Arup Anup Anaadi,",
+        "Aatm Akhand Apaaraa, Tu Hai Pyaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ तीन लोक का,",
+        "अधिष्ठान आधारा, तूं है प्यारा ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Tin Lok Kaa,",
+        "Adhishthaan Aadhaaraa, Tu Hai Pyaaraa || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सत‌ चित‌ आनंद सर्व वयापक,",
-      "साक्षी सिरजनहारा, तु है पयारा (टेक)."
+      "अजर अडोल अगम अविनाशी,",
+      "नाम रूप ते न्यारा, तूं है प्यारा ॥१ ॥"
     ],
     [
-      "जर दोल गम अविनाशी,",
-      "नाम रुप ते नयारा, तु है पयारा || 1 ||"
+      "असंग अरूप अनूप अनादी,",
+      "आत्म अखण्ड अपारा, तूं है प्यारा ॥२ ॥"
     ],
     [
-      "सनग रुप नुप नादि,",
-      "ातम खनद पारा, तु है पयारा || 2 ||."
-    ],
-    [
-      "कहता तेऊँ तिन लोक का,",
-      "धिशथान ाधारा, तु है पयारा ||.3े ||."
+      "कहता टेऊँ तीन लोक का,",
+      "अधिष्ठान आधारा, तूं है प्यारा ॥ ।३े ॥ ।"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sat‌ Chit‌ Aanand Sarv Vyaapak,",
-      "Saakshi Sirjanhaaraa, Tu Hai Pyaaraa (Tek)."
-    ],
     [
       "Ajar Adol Agam Avinaashi,",
       "Naam Rup Te Nyaaraa, Tu Hai Pyaaraa || 1 ||"
     ],
     [
       "Asang Arup Anup Anaadi,",
-      "Aatm Akhand Apaaraa, Tu Hai Pyaaraa || 2 ||."
+      "Aatm Akhand Apaaraa, Tu Hai Pyaaraa || 2 ||"
     ],
     [
       "Kahtaa Teun Tin Lok Kaa,",
-      "Adhishthaan Aadhaaraa, Tu Hai Pyaaraa ||.3E ||."
+      "Adhishthaan Aadhaaraa, Tu Hai Pyaaraa || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kodahyaari Bhajan || 12 || 492 ||",
-    "Sat‌ Chit‌ Aanand Sarv Vyaapak",
-    "सत‌ चित‌ आनंद सर्व वयापक"
+    "सत्‌ चित्‌ आनन्द सर्व व्यापक,",
+    "Sat‌ Chit‌ Aanand Sarv Vyaapak,",
+    "राग कोहियारी भजन 12",
+    "Raag Kohiyaari Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 492,
+  "displayOrder": 12,
+  "overallOrder": 491,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 275",
+  "updatedAt": "2026-10-26"
 }

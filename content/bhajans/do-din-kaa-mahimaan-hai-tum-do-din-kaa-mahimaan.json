@@ -2,70 +2,115 @@
   "id": "bhajan-0111",
   "slug": "do-din-kaa-mahimaan-hai-tum-do-din-kaa-mahimaan",
   "categoryId": "raag-aasaa",
-  "title": "दो दीन का महिमान है तुम दो दीन का महिमान",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "दो दिन का महिमान है तुम दो दिन का महिमान",
   "romanTitle": "Do Din Kaa Mahimaan Hai Tum Do Din Kaa Mahimaan",
   "firstLine": "Do Din Kaa Mahimaan Hai Tum Do Din Kaa Mahimaan (Tek).",
+  "heading": "।। राग आसा भजन ।। ४९ ।। १११।।",
+  "tek": [
+    "दो दिन का महिमान है तुम दो दिन का महिमान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Do Din Kaa Mahimaan Hai Tum Do Din Kaa Mahimaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सैर करन हित तेरा आना, होया है फिर होगा जाना ।",
+        "यह नहिं तेरा देश सुजाना, काहे करत गुमान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sair Karan Hit Teraa Aanaa, Hoyaa Hai Phir Hogaa Jaanaa.",
+        "Yah Nahin Teraa Desh Sujaanaa, Kaahe Karat Gumaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पंछी कर तरु रैन बसेरा, उड़ जाते ज्यों होत सवेरा ।",
+        "त्यों छिन पल है रहना तेरा, जपले श्रीभगवान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Panchhi Kar Taru Rain Baseraa, Ur Jaate Jyon Hot Saveraa.",
+        "Tyon Chhin Pal Hai Rahnaa Teraa, Japle Shriibhgavaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बात अल्प पर बहुता लड़ना, आयु अल्प में ममता धरना ।",
+        "दूर सफर नहिं त्यारी करना, यह तेरा अज्ञान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Baat Alp Par Bahutaa Larnaa, Aayu Alp Men Mamtaa Dharnaa.",
+        "Dur Saphar Nahin Tyaari Karnaa, Yah Teraa Ajnyaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ थिर रहना नाहीं , क्‍यों तुम ममत धरत मन माहीं ।",
+        "सन्तों की अब पकड़े बाहीं, अपना कर कल्यान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Thir Rahnaa Naahin, Ka‍Yon Tum Mamat Dharat Man Maahin.",
+        "Santon Ki Ab Pakre Baahin, Apnaa Kar Kalyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दो दीन का महिमान है तुम दो दीन का महिमान (टेक)."
+      "सैर करन हित तेरा आना, होया है फिर होगा जाना ।",
+      "यह नहिं तेरा देश सुजाना, काहे करत गुमान ॥१ ॥"
     ],
     [
-      "सैर करन हित तेरा ाना, होया है फिर होगा जाना.",
-      "यह नहिन तेरा देश सुजाना, काहे करत गुमान || 1 ||"
+      "पंछी कर तरु रैन बसेरा, उड़ जाते ज्यों होत सवेरा ।",
+      "त्यों छिन पल है रहना तेरा, जपले श्रीभगवान ॥२ ॥"
     ],
     [
-      "पनचहि कर तरु रैन बसेरा, ुर जाते जयोन होत सवेरा.",
-      "तयोन चहिन पल है रहना तेरा, जपले शरीभगवान || 2 ||."
+      "बात अल्प पर बहुता लड़ना, आयु अल्प में ममता धरना ।",
+      "दूर सफर नहिं त्यारी करना, यह तेरा अज्ञान ॥३ ॥"
     ],
     [
-      "बात लप पर बहुता लरना, ायु लप मेन ममता धरना.",
-      "दुर सफर नहिन तयारि करना, यह तेरा जनयान || 3 ||."
-    ],
-    [
-      "कहे तेऊँ थिर रहना नाहिन, कयोन तुम ममत धरत मन माहिन.",
-      "सनतोन कि ब पकरे बाहिन, पना कर कलयान ||.4. ||."
-    ],
-    [
-      "थ"
+      "कहे टेऊँ थिर रहना नाहीं , क्‍यों तुम ममत धरत मन माहीं ।",
+      "सन्तों की अब पकड़े बाहीं, अपना कर कल्यान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Do Din Kaa Mahimaan Hai Tum Do Din Kaa Mahimaan (Tek)."
-    ],
     [
       "Sair Karan Hit Teraa Aanaa, Hoyaa Hai Phir Hogaa Jaanaa.",
       "Yah Nahin Teraa Desh Sujaanaa, Kaahe Karat Gumaan || 1 ||"
     ],
     [
       "Panchhi Kar Taru Rain Baseraa, Ur Jaate Jyon Hot Saveraa.",
-      "Tyon Chhin Pal Hai Rahnaa Teraa, Japle Shriibhgavaan || 2 ||."
+      "Tyon Chhin Pal Hai Rahnaa Teraa, Japle Shriibhgavaan || 2 ||"
     ],
     [
       "Baat Alp Par Bahutaa Larnaa, Aayu Alp Men Mamtaa Dharnaa.",
-      "Dur Saphar Nahin Tyaari Karnaa, Yah Teraa Ajnyaan || 3 ||."
+      "Dur Saphar Nahin Tyaari Karnaa, Yah Teraa Ajnyaan || 3 ||"
     ],
     [
-      "Kahe Teun Thir Rahnaa Naahin, K‍Yon Tum Mamat Dharat Man Maahin.",
-      "Santon Ki Ab Pakre Baahin, Apnaa Kar Kalyaan ||.4. ||."
-    ],
-    [
-      "Th"
+      "Kahe Teun Thir Rahnaa Naahin, Ka‍Yon Tum Mamat Dharat Man Maahin.",
+      "Santon Ki Ab Pakre Baahin, Apnaa Kar Kalyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 49 || 111 ||",
+    "दो दिन का महिमान है तुम दो दिन का महिमान",
     "Do Din Kaa Mahimaan Hai Tum Do Din Kaa Mahimaan",
-    "दो दीन का महिमान है तुम दो दीन का महिमान"
+    "राग आसा भजन 49",
+    "Raag Aasaa Bhajan 49"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 111,
+  "displayOrder": 49,
+  "overallOrder": 111,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 81",
+  "updatedAt": "2026-10-26"
 }

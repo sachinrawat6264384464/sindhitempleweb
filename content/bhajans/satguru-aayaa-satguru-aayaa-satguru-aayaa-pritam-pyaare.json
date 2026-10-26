@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0778",
+  "id": "bhajan-0776",
   "slug": "satguru-aayaa-satguru-aayaa-satguru-aayaa-pritam-pyaare",
   "categoryId": "raag-pilaa",
-  "title": "सतगुरु ाया सतगुरु ाया, सतगुरु ाया परितम पयारे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्‌गुरु आया सत्‌गुरु आया, सत्‌गुरु आया प्रीतम प्यारे",
   "romanTitle": "Sat‌Guru Aayaa Sat‌Guru Aayaa, Sat‌Guru Aayaa Pritam Pyaare",
-  "firstLine": "Sat‌Guru Aayaa Sat‌Guru Aayaa, Sat‌Guru Aayaa Pritam Pyaare. Darshan Paayaa Mangal Gaayaa, Aanand Chhaayaa Bhavan Hamaare (Tek).",
+  "firstLine": "Sat‌Guru Aayaa Sat‌Guru Aayaa, Sat‌Guru Aayaa Pritam Pyaare.",
+  "heading": "।। राग पीला भजन ।। ५६ ।। ७७८",
+  "tek": [
+    "सत्‌गुरु आया सत्‌गुरु आया, सत्‌गुरु आया प्रीतम प्यारे ।",
+    "दर्शन पाया मंगल गाया, आनंद छाया भवन हमारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Aayaa Sat‌Guru Aayaa, Sat‌Guru Aayaa Pritam Pyaare.",
+    "Darshan Paayaa Mangal Gaayaa, Aanand Chhaayaa Bhavan Hamaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दो कर जोड़ करूं प्रणामा, भेट धरूं तन मन धन धामा ।",
+        "फथधल चढ़ाऊँ चंबर झुलाऊँ, सेव कमाऊँ श्रद्धा धारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Do Kar Jor Karun Pranaamaa, Bhet Dharun Tan Man Dhan Dhaamaa.",
+        "Phathdhal Charhaaun Chambar Jhulaaun, Sev Kamaaun Shraddhaa Dhaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आज हमारे अंग अंग फूले, प्रेम हिण्डोले मनुवा झूले ।",
+        "प्रेम प्याला पी मतवाला, भया निहाला सब दुख टारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aaj Hamaare Ang Ang Phule, Prem Hindole Manuvaa Jhule.",
+        "Prem Pyaalaa Pi Matvaalaa, Bhayaa Nihaalaa Sab Dukh Taare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌गुरु अपनी कृपा कीनी , वस्तु अमोलक मुझको दीनी ।",
+        "मन्त्र दीना सुमरण कीना, आत्म चीना भरम निवारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Apni Kripaa Kini, Vastu Amolak Mujhko Dini.",
+        "Mantr Dinaa Sumran Kinaa, Aatm Chinaa Bharam Nivaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मन भया हुलासा, पूरण होई मेरी आसा ।",
+        "पाये दर्शन होया प्रसन्न, हृदय हरसन सरसन सारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Man Bhayaa Hulaasaa, Puran Hoi Meri Aasaa.",
+        "Paaye Darshan Hoyaa Prasann, Hriday Harsan Sarsan Saare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु ाया सतगुरु ाया, सतगुरु ाया परितम पयारे.",
-      "दरशन पाया मनगल गाया, आनंद चहाया भवन हमारे (टेक)."
+      "दो कर जोड़ करूं प्रणामा, भेट धरूं तन मन धन धामा ।",
+      "फथधल चढ़ाऊँ चंबर झुलाऊँ, सेव कमाऊँ श्रद्धा धारे ॥१ ॥"
     ],
     [
-      "दो कर जोर करुन परनामा, भेत धरुन तन मन धन धामा.",
-      "फथधल चरहाुन चमबर झुलाुन, सेव कमाुन शरदधा धारे.1 ||."
+      "आज हमारे अंग अंग फूले, प्रेम हिण्डोले मनुवा झूले ।",
+      "प्रेम प्याला पी मतवाला, भया निहाला सब दुख टारे ॥२ ॥"
     ],
     [
-      "ाज हमारे नग नग फुले, प्रेम हिनदोले मनुवा झुले.",
-      "प्रेम पयाला पि मतवाला, भया निहाला सब दुःख तारे || 2 ||."
+      "सत्‌गुरु अपनी कृपा कीनी , वस्तु अमोलक मुझको दीनी ।",
+      "मन्त्र दीना सुमरण कीना, आत्म चीना भरम निवारे ॥३ ॥"
     ],
     [
-      "सतगुरु पनि कृपा किनि, वसतु मोलक मुझको दिनि.",
-      "मनतर दिना सुमरन किना, ातम चिना भरम निवारे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ मन भया हुलासा, पुरन होि मेरि ासा.",
-      "पाये दरशन होया परसनन, हरिदय हरसन सरसन सारे || 4 ||"
+      "कहे टेऊँ मन भया हुलासा, पूरण होई मेरी आसा ।",
+      "पाये दर्शन होया प्रसन्न, हृदय हरसन सरसन सारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Aayaa Sat‌Guru Aayaa, Sat‌Guru Aayaa Pritam Pyaare.",
-      "Darshan Paayaa Mangal Gaayaa, Aanand Chhaayaa Bhavan Hamaare (Tek)."
-    ],
-    [
       "Do Kar Jor Karun Pranaamaa, Bhet Dharun Tan Man Dhan Dhaamaa.",
-      "Phathdhal Charhaaun Chambar Jhulaaun, Sev Kamaaun Shraddhaa Dhaare.1 ||."
+      "Phathdhal Charhaaun Chambar Jhulaaun, Sev Kamaaun Shraddhaa Dhaare || 1 ||"
     ],
     [
       "Aaj Hamaare Ang Ang Phule, Prem Hindole Manuvaa Jhule.",
-      "Prem Pyaalaa Pi Matvaalaa, Bhayaa Nihaalaa Sab Dukh Taare || 2 ||."
+      "Prem Pyaalaa Pi Matvaalaa, Bhayaa Nihaalaa Sab Dukh Taare || 2 ||"
     ],
     [
       "Sat‌Guru Apni Kripaa Kini, Vastu Amolak Mujhko Dini.",
-      "Mantr Dinaa Sumran Kinaa, Aatm Chinaa Bharam Nivaare || 3 ||."
+      "Mantr Dinaa Sumran Kinaa, Aatm Chinaa Bharam Nivaare || 3 ||"
     ],
     [
       "Kahe Teun Man Bhayaa Hulaasaa, Puran Hoi Meri Aasaa.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 56 || 778",
+    "सत्‌गुरु आया सत्‌गुरु आया, सत्‌गुरु आया प्रीतम प्यारे",
     "Sat‌Guru Aayaa Sat‌Guru Aayaa, Sat‌Guru Aayaa Pritam Pyaare",
-    "सतगुरु ाया सतगुरु ाया, सतगुरु ाया परितम पयारे"
+    "राग पीला भजन 55",
+    "Raag Pilaa Bhajan 55"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 778,
+  "displayOrder": 55,
+  "overallOrder": 776,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 411",
+  "updatedAt": "2026-10-26"
 }

@@ -1,66 +1,116 @@
 {
-  "id": "bhajan-0519",
+  "id": "bhajan-0517",
   "slug": "sunle-satguru-araj-hamaaraa-kis-vidhi-meraa-ho-nistaaraa",
   "categoryId": "raag-kohiyaari",
-  "title": "सुनले सतगुरु रज हमारा, किस विधि मेरा हो निसतारा",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सुनले सत्गुरु अरज हमारा, किस विधि मेरा हो निस्तारा",
   "romanTitle": "Sunle Satguru Araj Hamaaraa, Kis Vidhi Meraa Ho Nistaaraa",
   "firstLine": "Sunle Satguru Araj Hamaaraa, Kis Vidhi Meraa Ho Nistaaraa (Tek).",
+  "heading": "।। राग कोह्मारी भजन ।। ३८ ।। ५१८।।",
+  "tek": [
+    "सुनले सत्गुरु अरज हमारा, किस विधि मेरा हो निस्तारा । टेक ॥"
+  ],
+  "romanTek": [
+    "Sunle Satguru Araj Hamaaraa, Kis Vidhi Meraa Ho Nistaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रद्धा से गुरु मन्त्र सुमरो, भारी भव सागर से उधरो ।",
+        "गुरु बिन जानो जन्म असारा ॥8 ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Guru Mantr Sumro, Bhaari Bhav Saagar Se Udhro.",
+        "Guru Bin Jaano Janm Asaaraa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌गुरु माया चलन न देती, कण्टक डारे हरि मग केती ।",
+        "किस विधि देखूं हरि दर्बारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Maayaa Chalan Na Deti, Kantak Daare Hari Mag Keti.",
+        "Kis Vidhi Dekhun Hari Darbaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अविचल हरि की भक्ती कीजे, और तरफ ना दृष्टी दीजे ।",
+        "इस विधि होवे हरि दीदारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Avichal Hari Ki Bhakti Kije, Aur Taraph Naa Drishti Dije.",
+        "Is Vidhi Hove Hari Didaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु कहिये युक्ती, कैसे प्राप्त हो हरि भक्तो ।",
+        "भक्ति मिले सत्संग मँझारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kahiye Yukti, Kaise Praapt Ho Hari Bhakto.",
+        "Bhakti Mile Satsang Manjhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनले सतगुरु रज हमारा, किस विधि मेरा हो निसतारा (टेक)."
+      "श्रद्धा से गुरु मन्त्र सुमरो, भारी भव सागर से उधरो ।",
+      "गुरु बिन जानो जन्म असारा ॥8 ॥"
     ],
     [
-      "शरदधा से गुरु मनतर सुमरो, भारि भव सागर से ुधरो.",
-      "गुरु बिन जानो जनम सारा || 8. ||."
+      "सत्‌गुरु माया चलन न देती, कण्टक डारे हरि मग केती ।",
+      "किस विधि देखूं हरि दर्बारा ॥२ ॥"
     ],
     [
-      "सतगुरु माया चलन न देति, कनतक दारे हरि मग केति.",
-      "किस विधि देखुन हरि दरबारा ||.2 ||."
+      "अविचल हरि की भक्ती कीजे, और तरफ ना दृष्टी दीजे ।",
+      "इस विधि होवे हरि दीदारा ॥३ ॥"
     ],
     [
-      "विचल हरि कि भक्ति किजे, ौर तरफ ना दरिशति दिजे.",
-      "िस विधि होवे हरि दिदारा ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु कहिये युकति, कैसे परापत हो हरि भकतो.",
-      "भक्ति मिले सत्संग मनझारा || 4 ||."
+      "कहे टेऊँ गुरु कहिये युक्ती, कैसे प्राप्त हो हरि भक्तो ।",
+      "भक्ति मिले सत्संग मँझारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sunle Satguru Araj Hamaaraa, Kis Vidhi Meraa Ho Nistaaraa (Tek)."
-    ],
-    [
       "Shraddhaa Se Guru Mantr Sumro, Bhaari Bhav Saagar Se Udhro.",
-      "Guru Bin Jaano Janm Asaaraa || 8. ||."
+      "Guru Bin Jaano Janm Asaaraa || 8 ||"
     ],
     [
-      "Sat‌Guru Maayaa Chalan N Deti, Kantak Daare Hari Mag Keti.",
-      "Kis Vidhi Dekhun Hari Darbaaraa ||.2 ||."
+      "Sat‌Guru Maayaa Chalan Na Deti, Kantak Daare Hari Mag Keti.",
+      "Kis Vidhi Dekhun Hari Darbaaraa || 2 ||"
     ],
     [
       "Avichal Hari Ki Bhakti Kije, Aur Taraph Naa Drishti Dije.",
-      "Is Vidhi Hove Hari Didaaraa ||.3 ||."
+      "Is Vidhi Hove Hari Didaaraa || 3 ||"
     ],
     [
       "Kahe Teun Guru Kahiye Yukti, Kaise Praapt Ho Hari Bhakto.",
-      "Bhakti Mile Satsang Manjhaaraa || 4 ||."
+      "Bhakti Mile Satsang Manjhaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohmaari Bhajan || 38 || 518 ||",
+    "सुनले सत्गुरु अरज हमारा, किस विधि मेरा हो निस्तारा",
     "Sunle Satguru Araj Hamaaraa, Kis Vidhi Meraa Ho Nistaaraa",
-    "सुनले सतगुरु रज हमारा, किस विधि मेरा हो निसतारा"
+    "राग कोहियारी भजन 38",
+    "Raag Kohiyaari Bhajan 38"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 519,
+  "displayOrder": 38,
+  "overallOrder": 517,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 286",
+  "updatedAt": "2026-10-26"
 }

@@ -2,56 +2,96 @@
   "id": "bhajan-0343",
   "slug": "naa-vairaagaa-naa-anuraagaa-is-kaaran-man-mariyaa-naahin",
   "categoryId": "raag-zilaa",
-  "title": "ना वैरागा ना नुरागा, िस कारन मन मरिया नाहिन",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "ना वैरागा ना अनुरागा, इस कारण मन मरिया नाहीं",
   "romanTitle": "Naa Vairaagaa Naa Anuraagaa, Is Kaaran Man Mariyaa Naahin",
   "firstLine": "Naa Vairaagaa Naa Anuraagaa, Is Kaaran Man Mariyaa Naahin (Tek).",
+  "heading": "।। राग ज़िला भजन ।। ३० ।। ३४३",
+  "tek": [
+    "ना वैरागा ना अनुरागा, इस कारण मन मरिया नाहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Naa Vairaagaa Naa Anuraagaa, Is Kaaran Man Mariyaa Naahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु के वचन पर नहिं विश्वासा, बैठ एकान्त न किया अभ्यासा ।",
+        "जग की आसा भई ना नासा, इस कर कारज सरिया नाहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Ke Vachan Par Nahin Vishvaasaa, Baith Ekaant Na Kiyaa Abhyaasaa.",
+        "Jag Ki Aasaa Bhai Naa Naasaa, Is Kar Kaaraj Sariyaa Naahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सूक्ष्म अहम्‌ को नाहिं त्यागा, आत्म पद में ना चित लागा ।",
+        "जीउ न जागा श्रम न भागा, इस कारण मन ठरिया नाहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sukshm Aham‌ Ko Naahin Tyaagaa, Aatm Pad Men Naa Chit Laagaa.",
+        "Jiu Na Jaagaa Shram Na Bhaagaa, Is Kaaran Man Thariyaa Naahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान न पाया, सन्तनि संग में ना कब आया ।",
+        "हरि ना ध्याया मोह्मा माया, इस कारण भव तरिया नाहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Na Paayaa, Santani Sang Men Naa Kab Aayaa.",
+        "Hari Naa Dhyaayaa Mohmaa Maayaa, Is Kaaran Bhav Tariyaa Naahin || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ना वैरागा ना नुरागा, िस कारन मन मरिया नाहिन (टेक)."
+      "गुरु के वचन पर नहिं विश्वासा, बैठ एकान्त न किया अभ्यासा ।",
+      "जग की आसा भई ना नासा, इस कर कारज सरिया नाहीं ॥१ ॥"
     ],
     [
-      "गुरु के वचन पर नहिन विशवासा, बैथ ेकानत न किया भयासा.",
-      "जग कि ासा भै ना नासा, िस कर कारज सरिया नाहिन || 1 ||"
+      "सूक्ष्म अहम्‌ को नाहिं त्यागा, आत्म पद में ना चित लागा ।",
+      "जीउ न जागा श्रम न भागा, इस कारण मन ठरिया नाहीं ॥२ ॥"
     ],
     [
-      "सुकशम हम‌ को नाहिन तयागा, ातम पद मेन ना चित लागा.",
-      "जिु न जागा शरम न भागा, िस कारन मन थरिया नाहिन || 2 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु ज्ञान न पाया, सनतनि सनग मेन ना कब ाया.",
-      "हरि ना धयाया मोहमा माया, िस कारन भव तरिया नाहिन || 3 ||"
+      "कहे टेऊँ गुरु ज्ञान न पाया, सन्तनि संग में ना कब आया ।",
+      "हरि ना ध्याया मोह्मा माया, इस कारण भव तरिया नाहीं ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Naa Vairaagaa Naa Anuraagaa, Is Kaaran Man Mariyaa Naahin (Tek)."
-    ],
-    [
-      "Guru Ke Vachan Par Nahin Vishvaasaa, Baith Ekaant N Kiyaa Abhyaasaa.",
+      "Guru Ke Vachan Par Nahin Vishvaasaa, Baith Ekaant Na Kiyaa Abhyaasaa.",
       "Jag Ki Aasaa Bhai Naa Naasaa, Is Kar Kaaraj Sariyaa Naahin || 1 ||"
     ],
     [
       "Sukshm Aham‌ Ko Naahin Tyaagaa, Aatm Pad Men Naa Chit Laagaa.",
-      "Jiu N Jaagaa Shram N Bhaagaa, Is Kaaran Man Thariyaa Naahin || 2 ||."
+      "Jiu Na Jaagaa Shram Na Bhaagaa, Is Kaaran Man Thariyaa Naahin || 2 ||"
     ],
     [
-      "Kahe Teun Guru Jnyaan N Paayaa, Santani Sang Men Naa Kab Aayaa.",
+      "Kahe Teun Guru Gyaan Na Paayaa, Santani Sang Men Naa Kab Aayaa.",
       "Hari Naa Dhyaayaa Mohmaa Maayaa, Is Kaaran Bhav Tariyaa Naahin || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 30 || 343",
+    "ना वैरागा ना अनुरागा, इस कारण मन मरिया नाहीं",
     "Naa Vairaagaa Naa Anuraagaa, Is Kaaran Man Mariyaa Naahin",
-    "ना वैरागा ना नुरागा, िस कारन मन मरिया नाहिन"
+    "राग ज़िला भजन 30",
+    "Raag Zilaa Bhajan 30"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 343,
+  "displayOrder": 30,
+  "overallOrder": 343,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 204",
+  "updatedAt": "2026-10-26"
 }

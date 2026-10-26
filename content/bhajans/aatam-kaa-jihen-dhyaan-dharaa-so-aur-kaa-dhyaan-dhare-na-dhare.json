@@ -1,0 +1,100 @@
+{
+  "id": "bhajan-0680",
+  "slug": "aatam-kaa-jihen-dhyaan-dharaa-so-aur-kaa-dhyaan-dhare-na-dhare",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "आतम का जिहें ध्यान धरा, सो और का ध्यान धरे न धरे",
+  "romanTitle": "Aatam Kaa Jihen Dhyaan Dharaa, So Aur Kaa Dhyaan Dhare Na Dhare",
+  "firstLine": "Aatam Kaa Jihen Dhyaan Dharaa, So Aur Kaa Dhyaan Dhare Na Dhare (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। डे ।। ६८१॥।",
+  "tek": [
+    "आतम का जिहें ध्यान धरा, सो और का ध्यान धरे न धरे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatam Kaa Jihen Dhyaan Dharaa, So Aur Kaa Dhyaan Dhare Na Dhare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु का नाम रटा जिहं अन्तर, सो अन नाम ररे न ररे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Naam Rataa Jihan Antar, So An Naam Rare Na Rare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तत्त्वमसी जिहं शोध लिया सो, औरहिं शोध करे न करे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tattvamsi Jihan Shodh Liyaa So, Aurhin Shodh Kare Na Kare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "विरह अग्नि में जिहं मन होम्या, सो अन आग जरे न जरे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Virah Agni Men Jihan Man Homyaa, So An Aag Jare Na Jare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो भव सिन्धु तरिया, सो अन सिन्धु तरे न तरे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Bhav Sindhu Tariyaa, So An Sindhu Tare Na Tare || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "गुरु का नाम रटा जिहं अन्तर, सो अन नाम ररे न ररे ॥१ ॥"
+    ],
+    [
+      "तत्त्वमसी जिहं शोध लिया सो, औरहिं शोध करे न करे ॥२ ॥"
+    ],
+    [
+      "विरह अग्नि में जिहं मन होम्या, सो अन आग जरे न जरे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ जो भव सिन्धु तरिया, सो अन सिन्धु तरे न तरे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Guru Kaa Naam Rataa Jihan Antar, So An Naam Rare Na Rare || 1 ||"
+    ],
+    [
+      "Tattvamsi Jihan Shodh Liyaa So, Aurhin Shodh Kare Na Kare || 2 ||"
+    ],
+    [
+      "Virah Agni Men Jihan Man Homyaa, So An Aag Jare Na Jare || 3 ||"
+    ],
+    [
+      "Kahe Teun Jo Bhav Sindhu Tariyaa, So An Sindhu Tare Na Tare || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "आतम का जिहें ध्यान धरा, सो और का ध्यान धरे न धरे",
+    "Aatam Kaa Jihen Dhyaan Dharaa, So Aur Kaa Dhyaan Dhare Na Dhare",
+    "राग पहाड़ी भजन 33",
+    "Raag Pahaari Bhajan 33"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 33,
+  "overallOrder": 680,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 362",
+  "updatedAt": "2026-10-26"
+}

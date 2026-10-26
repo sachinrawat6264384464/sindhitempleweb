@@ -1,43 +1,101 @@
 {
-  "id": "bhajan-0497",
+  "id": "bhajan-0496",
   "slug": "aaj-mere-ghar-sant-padhaare-bali-bali-main-balihaaraa",
   "categoryId": "raag-kohiyaari",
-  "title": "ाज मेरे घर संत पधारे बलि बलि मैं बलिहारा",
-  "romanTitle": "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa",
-  "firstLine": "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa, Pritam Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "आज मेरे घर संत पधारे बलि बलि मैं बलिहारा,",
+  "romanTitle": "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa,",
+  "firstLine": "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa,",
+  "heading": "।। राग कोह्यारी भजन ।। १७ ।। ४९७।।",
+  "tek": [
+    "आज मेरे घर संत पधारे बलि बलि मैं बलिहारा,",
+    "प्रीतम प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa,",
+    "Pritam Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दो कर जोड़ करूँ प्रणामा, तन मन भेट धरे धन धामा ।",
+        "वारौं सब परिवारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Do Kar Jor Karun Pranaamaa, Tan Man Bhet Dhare Dhan Dhaamaa.",
+        "Vaaraun Sab Parivaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "फूलों की मैं सेज बिछाये, तां पर सन्तों को बैठाये ।",
+        "पाऊँ मोतिन हारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Phulon Ki Main Sej Bichhaaye, Taan Par Santon Ko Baithaaye.",
+        "Paaun Motin Haaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रद्धा से मैं सेवा करके, तिनसों लेवा देवा करके ।",
+        "पाऊं भक्ति भण्डारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Main Sevaa Karke, Tinson Levaa Devaa Karke.",
+        "Paaun Bhakti Bhandaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ धन भाग हमारे, आये हम घर सन्त सचारे ।",
+        "साक्षी सिरजणहारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Dhan Bhaag Hamaare, Aaye Ham Ghar Sant Sachaare.",
+        "Saakshi Sirjanhaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "न्त्त"
+      ],
+      "romanLines": [
+        "Ntt"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज मेरे घर संत पधारे बलि बलि मैं बलिहारा,",
-      "परितम पयारा (टेक)."
+      "दो कर जोड़ करूँ प्रणामा, तन मन भेट धरे धन धामा ।",
+      "वारौं सब परिवारा ॥१ ॥"
     ],
     [
-      "दो कर जोर करुन परनामा, तन मन भेत धरे धन धामा.",
-      "वारौन सब परिवारा.1 ||."
+      "फूलों की मैं सेज बिछाये, तां पर सन्तों को बैठाये ।",
+      "पाऊँ मोतिन हारा ॥२ ॥"
     ],
     [
-      "फुलोन कि मैं सेज बिचहाये, तान पर सनतोन को बैथाये.",
-      "पाुन मोतिन हारा || 2 ||"
+      "श्रद्धा से मैं सेवा करके, तिनसों लेवा देवा करके ।",
+      "पाऊं भक्ति भण्डारा ॥३ ॥"
     ],
     [
-      "शरदधा से मैं सेवा करके, तिनसोन लेवा देवा करके.",
-      "पाुन भक्ति भनदारा || 3 ||"
+      "कहे टेऊँ धन भाग हमारे, आये हम घर सन्त सचारे ।",
+      "साक्षी सिरजणहारा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ धन भाग हमारे, ाये हम घर संत सचारे.",
-      "साक्षी सिरजनहारा || 4 ||"
-    ],
-    [
-      "नतत"
+      "न्त्त"
     ]
   ],
   "romanLyrics": [
     [
-      "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa,",
-      "Pritam Pyaaraa (Tek)."
-    ],
-    [
       "Do Kar Jor Karun Pranaamaa, Tan Man Bhet Dhare Dhan Dhaamaa.",
-      "Vaaraun Sab Parivaaraa.1 ||."
+      "Vaaraun Sab Parivaaraa || 1 ||"
     ],
     [
       "Phulon Ki Main Sej Bichhaaye, Taan Par Santon Ko Baithaaye.",
@@ -56,18 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohyaari Bhajan || 17 || 497 ||",
-    "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa",
-    "ाज मेरे घर संत पधारे बलि बलि मैं बलिहारा"
+    "आज मेरे घर संत पधारे बलि बलि मैं बलिहारा,",
+    "Aaj Mere Ghar Sant Padhaare Bali Bali Main Balihaaraa,",
+    "राग कोहियारी भजन 17",
+    "Raag Kohiyaari Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 497,
+  "displayOrder": 17,
+  "overallOrder": 496,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 277",
+  "updatedAt": "2026-10-26"
 }

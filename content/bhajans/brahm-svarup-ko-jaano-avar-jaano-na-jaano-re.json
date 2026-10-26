@@ -1,0 +1,105 @@
+{
+  "id": "bhajan-0566",
+  "slug": "brahm-svarup-ko-jaano-avar-jaano-na-jaano-re",
+  "categoryId": "raag-khambhaat",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "ब्रह्म स्वरूप को जानो, अवर जानो न जानो रे",
+  "romanTitle": "Brahm Svarup Ko Jaano, Avar Jaano Na Jaano Re",
+  "firstLine": "Brahm Svarup Ko Jaano, Avar Jaano Na Jaano Re (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १८ ।। ५६७।।",
+  "tek": [
+    "ब्रह्म स्वरूप को जानो, अवर जानो न जानो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Brahm Svarup Ko Jaano, Avar Jaano Na Jaano Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्मा अरु जीव के अन्तर, धरा जो भेद माया ने ।",
+        "तिसे गुरु ज्ञान से हानो, अवर हानो न हानो रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Aru Jiv Ke Antar, Dharaa Jo Bhed Maayaa Ne.",
+        "Tise Guru Gyaan Se Haano, Avar Haano Na Haano Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "असत्‌ सत्‌ यह जगत सारा, बनाया है विधाता ने ।",
+        "करे बीचार तिहँ छानो, अवर छानो न छानो रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Asat‌ Sat‌ Yah Jagat Saaraa, Banaayaa Hai Vidhaataa Ne.",
+        "Kare Bichaar Tihan Chhaano, Avar Chhaano Na Chhaano Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बैठ योगी समाधी में, ब्रह्म का दरस करते हैं ।",
+        "करे वह दरस भय भानो, अवर भानो न भानो रे ॥े ॥",
+        "कहे टेऊँ सुनो प्यारे, मनौती जीव की छोड़ो ।",
+        "ब्रह्म का भाव मन आनो, अवर आनो न आनो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Baith Yogi Samaadhi Men, Brahm Kaa Daras Karte Hain.",
+        "Kare Vah Daras Bhay Bhaano, Avar Bhaano Na Bhaano Re || E ||",
+        "Kahe Teun Suno Pyaare, Manauti Jiv Ki Chhoro.",
+        "Brahm Kaa Bhaav Man Aano, Avar Aano Na Aano Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "ब्रह्मा अरु जीव के अन्तर, धरा जो भेद माया ने ।",
+      "तिसे गुरु ज्ञान से हानो, अवर हानो न हानो रे ॥१ ॥"
+    ],
+    [
+      "असत्‌ सत्‌ यह जगत सारा, बनाया है विधाता ने ।",
+      "करे बीचार तिहँ छानो, अवर छानो न छानो रे ॥२ ॥"
+    ],
+    [
+      "बैठ योगी समाधी में, ब्रह्म का दरस करते हैं ।",
+      "करे वह दरस भय भानो, अवर भानो न भानो रे ॥े ॥",
+      "कहे टेऊँ सुनो प्यारे, मनौती जीव की छोड़ो ।",
+      "ब्रह्म का भाव मन आनो, अवर आनो न आनो रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Brahmaa Aru Jiv Ke Antar, Dharaa Jo Bhed Maayaa Ne.",
+      "Tise Guru Gyaan Se Haano, Avar Haano Na Haano Re || 1 ||"
+    ],
+    [
+      "Asat‌ Sat‌ Yah Jagat Saaraa, Banaayaa Hai Vidhaataa Ne.",
+      "Kare Bichaar Tihan Chhaano, Avar Chhaano Na Chhaano Re || 2 ||"
+    ],
+    [
+      "Baith Yogi Samaadhi Men, Brahm Kaa Daras Karte Hain.",
+      "Kare Vah Daras Bhay Bhaano, Avar Bhaano Na Bhaano Re || E ||",
+      "Kahe Teun Suno Pyaare, Manauti Jiv Ki Chhoro.",
+      "Brahm Kaa Bhaav Man Aano, Avar Aano Na Aano Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "ब्रह्म स्वरूप को जानो, अवर जानो न जानो रे",
+    "Brahm Svarup Ko Jaano, Avar Jaano Na Jaano Re",
+    "राग खंभात भजन 18",
+    "Raag Khambhaat Bhajan 18"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
+  ],
+  "displayOrder": 18,
+  "overallOrder": 566,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 309",
+  "updatedAt": "2026-10-26"
+}

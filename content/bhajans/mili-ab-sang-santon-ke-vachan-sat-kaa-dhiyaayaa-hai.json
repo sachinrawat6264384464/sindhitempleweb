@@ -1,44 +1,93 @@
 {
-  "id": "bhajan-0632",
+  "id": "bhajan-0630",
   "slug": "mili-ab-sang-santon-ke-vachan-sat-kaa-dhiyaayaa-hai",
   "categoryId": "raag-kanso",
-  "title": "मिलि ब सनग सनतोन के, वचन सत‌ का धियाया है",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "मिली अब संग सन्तों के, वचन सत्‌ का धियाया है",
   "romanTitle": "Mili Ab Sang Santon Ke, Vachan Sat‌ Kaa Dhiyaayaa Hai",
-  "firstLine": "Mili Ab Sang Santon Ke, Vachan Sat‌ Kaa Dhiyaayaa Hai. Sachaa Svarup Sad‌Guru Kaa, Badan Mere Samaayaa Hai (Tek).",
+  "firstLine": "Mili Ab Sang Santon Ke, Vachan Sat‌ Kaa Dhiyaayaa Hai.",
+  "heading": "।। राग कंसो भजन ।। १ ।। ६३१॥।",
+  "tek": [
+    "मिली अब संग सन्तों के, वचन सत्‌ का धियाया है ।",
+    "सचा स्वरूप सद्‌गुरु का, बदन मेरे समाया है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mili Ab Sang Santon Ke, Vachan Sat‌ Kaa Dhiyaayaa Hai.",
+    "Sachaa Svarup Sad‌Guru Kaa, Badan Mere Samaayaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सतोगुण शील सुखदाई, संयम श्रद्धा सुमति पाई ।",
+        "कहा जो वेद के माहीं, धर्म धीरज मैं पाया है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satogun Shil Sukhdaai, Sanyam Shraddhaa Sumti Paai.",
+        "Kahaa Jo Ved Ke Maahin, Dharm Dhiraj Main Paayaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भया वैराग्य सुखराशी, जगत देखा सर्वनाशी ।",
+        "कटे जग मोह की पाशी, सफल जीवन बनाया है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhayaa Vairaagya Sukhraashi, Jagat Dekhaa Sarvanaashi.",
+        "Kate Jag Moh Ki Paashi, Saphal Jivan Banaayaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अगम निज देश में रहिया, छिप गयी रैन दिन भड़या ।",
+        "अभी डर काल का गइया, नगर निर्भय बसाया है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Agam Nij Desh Men Rahiyaa, Chhip Gayi Rain Din Bharyaa.",
+        "Abhi Dar Kaal Kaa Gaiyaa, Nagar Nirbhay Basaayaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "शिवोडहं सर्व का स्वामी, कहे टेऊँ सुखनि धामी ।",
+        "भया स्वरूप आरामी, सर्व दुख द्वन्द्व जाया है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Shivodhan Sarv Kaa Svaami, Kahe Teun Sukhni Dhaami.",
+        "Bhayaa Svarup Aaraami, Sarv Dukh Dvandv Jaayaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मिलि ब सनग सनतोन के, वचन सत‌ का धियाया है.",
-      "सचा सवरुप सद्गुरु का, बदन मेरे समाया है (टेक)."
+      "सतोगुण शील सुखदाई, संयम श्रद्धा सुमति पाई ।",
+      "कहा जो वेद के माहीं, धर्म धीरज मैं पाया है ॥१ ॥"
     ],
     [
-      "सतोगुन शिल सुखदाि, सनयम शरदधा सुमति पाि.",
-      "कहा जो वेद के माहिन, धरम धिरज मैं पाया है || 1 ||"
+      "भया वैराग्य सुखराशी, जगत देखा सर्वनाशी ।",
+      "कटे जग मोह की पाशी, सफल जीवन बनाया है ॥२ ॥"
     ],
     [
-      "भया वैराग्य सुखराशि, जगत देखा सरवनाशि.",
-      "कते जग मोह कि पाशि, सफल जिवन बनाया है || 2 ||."
+      "अगम निज देश में रहिया, छिप गयी रैन दिन भड़या ।",
+      "अभी डर काल का गइया, नगर निर्भय बसाया है ॥३ ॥"
     ],
     [
-      "गम निज देश मेन रहिया, चहिप गयि रैन दीन भरया.",
-      "भि दर काल का गैया, नगर निरभय बसाया है || 3 ||"
-    ],
-    [
-      "शिवोधन सर्व का स्वामी, कहे तेऊँ सुखनि धामि.",
-      "भया सवरुप ारामि, सर्व दुःख दवनदव जाया है || 4 ||."
+      "शिवोडहं सर्व का स्वामी, कहे टेऊँ सुखनि धामी ।",
+      "भया स्वरूप आरामी, सर्व दुख द्वन्द्व जाया है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mili Ab Sang Santon Ke, Vachan Sat‌ Kaa Dhiyaayaa Hai.",
-      "Sachaa Svarup Sad‌Guru Kaa, Badan Mere Samaayaa Hai (Tek)."
-    ],
     [
       "Satogun Shil Sukhdaai, Sanyam Shraddhaa Sumti Paai.",
       "Kahaa Jo Ved Ke Maahin, Dharm Dhiraj Main Paayaa Hai || 1 ||"
     ],
     [
-      "Bhayaa Vairaagy Sukhraashi, Jagat Dekhaa Sarvanaashi.",
-      "Kate Jag Moh Ki Paashi, Saphal Jivan Banaayaa Hai || 2 ||."
+      "Bhayaa Vairaagya Sukhraashi, Jagat Dekhaa Sarvanaashi.",
+      "Kate Jag Moh Ki Paashi, Saphal Jivan Banaayaa Hai || 2 ||"
     ],
     [
       "Agam Nij Desh Men Rahiyaa, Chhip Gayi Rain Din Bharyaa.",
@@ -46,23 +95,24 @@
     ],
     [
       "Shivodhan Sarv Kaa Svaami, Kahe Teun Sukhni Dhaami.",
-      "Bhayaa Svarup Aaraami, Sarv Dukh Dvandv Jaayaa Hai || 4 ||."
+      "Bhayaa Svarup Aaraami, Sarv Dukh Dvandv Jaayaa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 1 || 631 ||.",
+    "मिली अब संग सन्तों के, वचन सत्‌ का धियाया है",
     "Mili Ab Sang Santon Ke, Vachan Sat‌ Kaa Dhiyaayaa Hai",
-    "मिलि ब सनग सनतोन के, वचन सत‌ का धियाया है"
+    "राग कंसो भजन 1",
+    "Raag Kanso Bhajan 1"
   ],
   "tags": [
-    "kanso",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
     "bhajan"
   ],
-  "displayOrder": 632,
+  "displayOrder": 1,
+  "overallOrder": 630,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 338",
+  "updatedAt": "2026-10-26"
 }

@@ -1,74 +1,117 @@
 {
-  "id": "bhajan-0792",
+  "id": "bhajan-0790",
   "slug": "suno-shishy-shabd-saty-ye-hamro",
   "categoryId": "raag-pilaa",
-  "title": "सुनो शिशय शबद सतय ये हमरो",
-  "romanTitle": "Suno Shishy Shabd Saty Ye Hamro",
-  "firstLine": "Suno Shishy Shabd Saty Ye Hamro, Mere Vachan Par Vishvaas Karo (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सुनो शिष्य शब्द सत्य ये हमरो,",
+  "romanTitle": "Suno Shishy Shabd Saty Ye Hamro,",
+  "firstLine": "Suno Shishy Shabd Saty Ye Hamro,",
+  "heading": "।। राग पीला भजन ॥।। ७० ।। ७९२।।",
+  "tek": [
+    "सुनो शिष्य शब्द सत्य ये हमरो,",
+    "मेरे वचन पर विश्वास करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Shishy Shabd Saty Ye Hamro,",
+    "Mere Vachan Par Vishvaas Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जगत सागर के तरन हित, बोध के बेड़े चढ़ो ।",
+        "ब्रह्मश्रोत्री ब्रह्मनेष्ठी, गुरू केवट कर बड़ो ।",
+        "करे स्वास सुखानी सदा सुमरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jagat Saagar Ke Taran Hit, Bodh Ke Bere Charho.",
+        "Brahmashrotri Brahmaneshthi, Guru Kevat Kar Baro.",
+        "Kare Svaas Sukhaani Sadaa Sumro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निरइच्छा कपियां खूहे से, डोर सत्य की बांधिये ।",
+        "अष्ट साधन सिड्ह चढ़ाये, ताहिं निशदिन साधिये ।",
+        "जत जंजीर प्रेम के पगह धरो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nirichchhaa Kapiyaan Khuhe Se, Dor Saty Ki Baandhiye.",
+        "Asht Saadhan Sidh Charhaaye, Taahin Nishdin Saadhiye.",
+        "Jat Janjir Prem Ke Pagah Dharo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रुति निरती की रस्सी कर, देव चौदह दीजिये ।",
+        "ईश आदी चतुर कृपा, बंझ तांका कीजिये ।",
+        "निश्चय नातारी करके सुगम उतरो ॥ डे ॥",
+        "भूमिका का गृह करके, वास तांमें कीजिये ।",
+        "कहत टेऊँ काल तीनों, ब्रह्मा आनन्द लीजिये ।",
+        "ब्रह्म भावना कर निर्भय विचरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Shruti Nirti Ki Rassi Kar, Dev Chaudah Dijiye.",
+        "Ish Aadi Chatur Kripaa, Banjh Taankaa Kijiye.",
+        "Nishchay Naataari Karke Sugam Utro || De ||",
+        "Bhumikaa Kaa Grih Karke, Vaas Taanmen Kijiye.",
+        "Kahat Teun Kaal Tinon, Brahmaa Aanand Lijiye.",
+        "Brahm Bhaavnaa Kar Nirbhay Vichro || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द््य"
+      ],
+      "romanLines": [
+        "Dy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनो शिशय शबद सतय ये हमरो,",
-      "मेरे वचन पर विशवास करो (टेक)."
+      "जगत सागर के तरन हित, बोध के बेड़े चढ़ो ।",
+      "ब्रह्मश्रोत्री ब्रह्मनेष्ठी, गुरू केवट कर बड़ो ।",
+      "करे स्वास सुखानी सदा सुमरो ॥१ ॥"
     ],
     [
-      "जगत सागर के तरन हित, बोध के बेरे चरहो.",
-      "बरहमशरोतरि बरहमनेशथि, गुरु केवत कर बरो."
+      "निरइच्छा कपियां खूहे से, डोर सत्य की बांधिये ।",
+      "अष्ट साधन सिड्ह चढ़ाये, ताहिं निशदिन साधिये ।",
+      "जत जंजीर प्रेम के पगह धरो ॥२ ॥"
     ],
     [
-      "करे सवास सुखानि सदा सुमरो || 1 ||"
+      "श्रुति निरती की रस्सी कर, देव चौदह दीजिये ।",
+      "ईश आदी चतुर कृपा, बंझ तांका कीजिये ।",
+      "निश्चय नातारी करके सुगम उतरो ॥ डे ॥",
+      "भूमिका का गृह करके, वास तांमें कीजिये ।",
+      "कहत टेऊँ काल तीनों, ब्रह्मा आनन्द लीजिये ।",
+      "ब्रह्म भावना कर निर्भय विचरो ॥४ ॥"
     ],
     [
-      "निरिचचहा कपियान खुहे से, दोर सतय कि बानधिये.",
-      "शत साधन सिध चरहाये, ताहिन निशदिन साधिये."
-    ],
-    [
-      "जत जनजिर प्रेम के पगह धरो ||.2 ||",
-      "शरुति निरति कि रससि कर, देव चौदह दिजिये."
-    ],
-    [
-      "िश ादि चतुर कृपा, बनझ तानका किजिये.",
-      "निशचय नातारि करके सुगम ुतरो || दे ||"
-    ],
-    [
-      "भुमिका का गरिह करके, वास तानमेन किजिये.",
-      "कहत तेऊँ काल तिनोन, बरहम आनंद लिजिये."
-    ],
-    [
-      "बरहम भावना कर निरभय विचरो || 4 ||"
-    ],
-    [
-      "दय"
+      "द््य"
     ]
   ],
   "romanLyrics": [
     [
-      "Suno Shishy Shabd Saty Ye Hamro,",
-      "Mere Vachan Par Vishvaas Karo (Tek)."
-    ],
-    [
       "Jagat Saagar Ke Taran Hit, Bodh Ke Bere Charho.",
-      "Brahmashrotri Brahmaneshthi, Guru Kevat Kar Baro."
-    ],
-    [
+      "Brahmashrotri Brahmaneshthi, Guru Kevat Kar Baro.",
       "Kare Svaas Sukhaani Sadaa Sumro || 1 ||"
     ],
     [
       "Nirichchhaa Kapiyaan Khuhe Se, Dor Saty Ki Baandhiye.",
-      "Asht Saadhan Sidh Charhaaye, Taahin Nishdin Saadhiye."
+      "Asht Saadhan Sidh Charhaaye, Taahin Nishdin Saadhiye.",
+      "Jat Janjir Prem Ke Pagah Dharo || 2 ||"
     ],
     [
-      "Jat Janjir Prem Ke Pagah Dharo ||.2 ||",
-      "Shruti Nirti Ki Rassi Kar, Dev Chaudah Dijiye."
-    ],
-    [
+      "Shruti Nirti Ki Rassi Kar, Dev Chaudah Dijiye.",
       "Ish Aadi Chatur Kripaa, Banjh Taankaa Kijiye.",
-      "Nishchay Naataari Karke Sugam Utro || De ||"
-    ],
-    [
+      "Nishchay Naataari Karke Sugam Utro || De ||",
       "Bhumikaa Kaa Grih Karke, Vaas Taanmen Kijiye.",
-      "Kahat Teun Kaal Tinon, Brahma Aanand Lijiye."
-    ],
-    [
+      "Kahat Teun Kaal Tinon, Brahmaa Aanand Lijiye.",
       "Brahm Bhaavnaa Kar Nirbhay Vichro || 4 ||"
     ],
     [
@@ -76,18 +119,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 70 || 792 ||",
-    "Suno Shishy Shabd Saty Ye Hamro",
-    "सुनो शिशय शबद सतय ये हमरो"
+    "सुनो शिष्य शब्द सत्य ये हमरो,",
+    "Suno Shishy Shabd Saty Ye Hamro,",
+    "राग पीला भजन 69",
+    "Raag Pilaa Bhajan 69"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 792,
+  "displayOrder": 69,
+  "overallOrder": 790,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 418",
+  "updatedAt": "2026-10-26"
 }

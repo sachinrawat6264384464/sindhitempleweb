@@ -1,65 +1,116 @@
 {
   "id": "bhajan-0288",
   "slug": "meraa-man-hai-mast-mavaali-jaanki-mati-mativaali",
-  "categoryId": "raag-bhairav",
-  "title": "मेरा मन है मसत मवालि, जानकि मति मतिवालि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मेरा मन है मस्त मवाली, जांकी मति मतिवाली",
   "romanTitle": "Meraa Man Hai Mast Mavaali, Jaanki Mati Mativaali",
   "firstLine": "Meraa Man Hai Mast Mavaali, Jaanki Mati Mativaali (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७३ ।। २८८॥।",
+  "tek": [
+    "मेरा मन है मस्त मवाली, जांकी मति मतिवाली ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meraa Man Hai Mast Mavaali, Jaanki Mati Mativaali (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हृदय रूपी कूण्डे अन्दर, भांग जगत की पाके ।",
+        "विवेक के दण्डे से रगड़े, गोली ठीक बनाली ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hriday Rupi Kunde Andar, Bhaang Jagat Ki Paake.",
+        "Vivek Ke Dande Se Ragre, Goli Thik Banaali || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम हरी का पानी पाकर, तांको पतला कीना ।",
+        "बुद्धि साफे से छान छानके, जड़ता फोग निकाली ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Hari Kaa Paani Paakar, Taanko Patlaa Kinaa.",
+        "Buddhi Saaphe Se Chhaan Chhaanke, Jartaa Phog Nikaali || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "स्वासन रूपी साफ प्याला, सार तत्व से भरके ।",
+        "रिल मिल साथिन से मैं पीया, वृत्ती भयी निराली ॥३ ॥"
+      ],
+      "romanLines": [
+        "Svaasan Rupi Saaph Pyaalaa, Saar Tatv Se Bharke.",
+        "Ril Mil Saathin Se Main Piyaa, Vritti Bhayi Niraali || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अहं ब्रह्म के घोर नशे में, मस्त रहूं दिन राती ।",
+        "कहे टेऊँ गुरु कृपा करके, चिन्ता सकल चुकाली ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ahan Brahm Ke Ghor Nashe Men, Mast Rahun Din Raati.",
+        "Kahe Teun Guru Kripaa Karke, Chintaa Sakal Chukaali || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरा मन है मसत मवालि, जानकि मति मतिवालि (टेक)."
+      "हृदय रूपी कूण्डे अन्दर, भांग जगत की पाके ।",
+      "विवेक के दण्डे से रगड़े, गोली ठीक बनाली ॥१ ॥"
     ],
     [
-      "हरिदय रुपि कुनदे नदर, भानग जगत कि पाके.",
-      "विवेक के दनदे से रगरे, गोलि थिक बनालि ||.1 ||."
+      "प्रेम हरी का पानी पाकर, तांको पतला कीना ।",
+      "बुद्धि साफे से छान छानके, जड़ता फोग निकाली ॥२ ॥"
     ],
     [
-      "प्रेम हरि का पानि पाकर, तानको पतला किना.",
-      "बुदधि साफे से चहान चहानके, जरता फोग निकालि ||.2. ||."
+      "स्वासन रूपी साफ प्याला, सार तत्व से भरके ।",
+      "रिल मिल साथिन से मैं पीया, वृत्ती भयी निराली ॥३ ॥"
     ],
     [
-      "सवासन रुपि साफ पयाला, सार ततव से भरके.",
-      "रिल मिल साथिन से मैं पिया, वरितति भयि निरालि ||.3. ||."
-    ],
-    [
-      "हन बरहम के घोर नशे मेन, मसत रहुन दीन राति.",
-      "कहे तेऊँ गुरु कृपा करके, चिनता सकल चुकालि ||.4 ||."
+      "अहं ब्रह्म के घोर नशे में, मस्त रहूं दिन राती ।",
+      "कहे टेऊँ गुरु कृपा करके, चिन्ता सकल चुकाली ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Meraa Man Hai Mast Mavaali, Jaanki Mati Mativaali (Tek)."
-    ],
-    [
       "Hriday Rupi Kunde Andar, Bhaang Jagat Ki Paake.",
-      "Vivek Ke Dande Se Ragre, Goli Thik Banaali ||.1 ||."
+      "Vivek Ke Dande Se Ragre, Goli Thik Banaali || 1 ||"
     ],
     [
       "Prem Hari Kaa Paani Paakar, Taanko Patlaa Kinaa.",
-      "Buddhi Saaphe Se Chhaan Chhaanke, Jartaa Phog Nikaali ||.2. ||."
+      "Buddhi Saaphe Se Chhaan Chhaanke, Jartaa Phog Nikaali || 2 ||"
     ],
     [
       "Svaasan Rupi Saaph Pyaalaa, Saar Tatv Se Bharke.",
-      "Ril Mil Saathin Se Main Piyaa, Vritti Bhayi Niraali ||.3. ||."
+      "Ril Mil Saathin Se Main Piyaa, Vritti Bhayi Niraali || 3 ||"
     ],
     [
       "Ahan Brahm Ke Ghor Nashe Men, Mast Rahun Din Raati.",
-      "Kahe Teun Guru Kripaa Karke, Chintaa Sakal Chukaali ||.4 ||."
+      "Kahe Teun Guru Kripaa Karke, Chintaa Sakal Chukaali || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 73 || 288 ||.",
+    "मेरा मन है मस्त मवाली, जांकी मति मतिवाली",
     "Meraa Man Hai Mast Mavaali, Jaanki Mati Mativaali",
-    "मेरा मन है मसत मवालि, जानकि मति मतिवालि"
+    "राग भैरवी भजन 73",
+    "Raag Bhairvi Bhajan 73"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 288,
+  "displayOrder": 73,
+  "overallOrder": 288,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 175",
+  "updatedAt": "2026-10-26"
 }

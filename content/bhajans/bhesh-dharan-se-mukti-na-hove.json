@@ -1,0 +1,132 @@
+{
+  "id": "bhajan-0515",
+  "slug": "bhesh-dharan-se-mukti-na-hove",
+  "categoryId": "raag-kohiyaari",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "भेष धरन से मुक्ति न होवे,",
+  "romanTitle": "Bhesh Dharan Se Mukti Na Hove,",
+  "firstLine": "Bhesh Dharan Se Mukti Na Hove,",
+  "heading": "।। राग कोह्यारी भजन ।। ३६ ।। ५१६।।",
+  "tek": [
+    "भेष धरन से मुक्ति न होवे,",
+    "कहते सन्त सुजाना, समझ सियाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhesh Dharan Se Mukti Na Hove,",
+    "Kahte Sant Sujaanaa, Samajh Siyaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जे गति होवे जटा बढ़ावे, बट पावे निर्बाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Je Gati Hove Jataa Barhaave, Bat Paave Nirbaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जे गति होवे मूण्ड मुण्डाए, भेड़ पाय भगवाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Je Gati Hove Mund Mundaae, Bher Paay Bhagvaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जे गति होवे जल के नाये, मेंढक पावे माना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Je Gati Hove Jal Ke Naaye, Mendhak Paave Maanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जे गति होवे राख रमावे, कुंचर पा कल्याना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Je Gati Hove Raakh Ramaave, Kunchar Paa Kalyaanaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "जे गति होवे पाखण्ड कीने, बक पावे सन्माना ॥५ ॥"
+      ],
+      "romanLines": [
+        "Je Gati Hove Paakhand Kine, Bak Paave Sanmaanaa || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "कहे टेऊँ नहिं गति करनी बिन, वेद करत वख्याना ॥६ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nahin Gati Karni Bin, Ved Karat Vakhyaanaa || 6 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "जे गति होवे जटा बढ़ावे, बट पावे निर्बाना ॥१ ॥"
+    ],
+    [
+      "जे गति होवे मूण्ड मुण्डाए, भेड़ पाय भगवाना ॥२ ॥"
+    ],
+    [
+      "जे गति होवे जल के नाये, मेंढक पावे माना ॥३ ॥"
+    ],
+    [
+      "जे गति होवे राख रमावे, कुंचर पा कल्याना ॥४ ॥"
+    ],
+    [
+      "जे गति होवे पाखण्ड कीने, बक पावे सन्माना ॥५ ॥"
+    ],
+    [
+      "कहे टेऊँ नहिं गति करनी बिन, वेद करत वख्याना ॥६ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Je Gati Hove Jataa Barhaave, Bat Paave Nirbaanaa || 1 ||"
+    ],
+    [
+      "Je Gati Hove Mund Mundaae, Bher Paay Bhagvaanaa || 2 ||"
+    ],
+    [
+      "Je Gati Hove Jal Ke Naaye, Mendhak Paave Maanaa || 3 ||"
+    ],
+    [
+      "Je Gati Hove Raakh Ramaave, Kunchar Paa Kalyaanaa || 4 ||"
+    ],
+    [
+      "Je Gati Hove Paakhand Kine, Bak Paave Sanmaanaa || 5 ||"
+    ],
+    [
+      "Kahe Teun Nahin Gati Karni Bin, Ved Karat Vakhyaanaa || 6 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "भेष धरन से मुक्ति न होवे,",
+    "Bhesh Dharan Se Mukti Na Hove,",
+    "राग कोहियारी भजन 36",
+    "Raag Kohiyaari Bhajan 36"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
+    "bhajan"
+  ],
+  "displayOrder": 36,
+  "overallOrder": 515,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 285",
+  "updatedAt": "2026-10-26"
+}

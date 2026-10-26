@@ -1,34 +1,72 @@
 {
-  "id": "bhajan-0454",
+  "id": "bhajan-0453",
   "slug": "man-raajaa-ne-apne-bal-se-jit-liyaa-jag-saaraa-hai",
   "categoryId": "raag-tilang",
-  "title": "मन राजा ने पने बल से, जित लिया जग सारा है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मन राजा ने अपने बल से, जीत लिया जग सारा है",
   "romanTitle": "Man Raajaa Ne Apne Bal Se, Jit Liyaa Jag Saaraa Hai",
   "firstLine": "Man Raajaa Ne Apne Bal Se, Jit Liyaa Jag Saaraa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ९० ।। ४५४",
+  "tek": [
+    "मन राजा ने अपने बल से, जीत लिया जग सारा है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Raajaa Ne Apne Bal Se, Jit Liyaa Jag Saaraa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "रावण कुम्भकर्ण पुनि बाली, हरनाकस जैसे बलशाली ।",
+        "ऐसे सर्व संहारा है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raavan Kumbhakarn Puni Baali, Harnaakas Jaise Balshaali.",
+        "Aise Sarv Sanhaaraa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तपसी त्यागी धर्मी दाता, पण्डित पाठी वेद विज्ञाता ।",
+        "बहुत गुनिन को गारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tapsi Tyaagi Dharmi Daataa, Pandit Paathi Ved Vijnyaataa.",
+        "Bahut Gunin Ko Gaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ मन सकल डराया, को जन निर्भय नज़री आया ।",
+        "जो सत्‌गुरु का प्यारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Man Sakal Daraayaa, Ko Jan Nirbhay Nazri Aayaa.",
+        "Jo Sat‌Guru Kaa Pyaaraa Hai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन राजा ने पने बल से, जित लिया जग सारा है (टेक)."
+      "रावण कुम्भकर्ण पुनि बाली, हरनाकस जैसे बलशाली ।",
+      "ऐसे सर्व संहारा है ॥१ ॥"
     ],
     [
-      "रावन कुमभकरन पुनि बालि, हरनाकस जैसे बलशालि.",
-      "ैसे सर्व सनहारा है. || 1 ||"
+      "तपसी त्यागी धर्मी दाता, पण्डित पाठी वेद विज्ञाता ।",
+      "बहुत गुनिन को गारा है ॥२ ॥"
     ],
     [
-      "तपसि तयागि धरमि दाता, पनदित पाथि वेद विजनयाता.",
-      "बहुत गुनिन को गारा है || 2 ||"
-    ],
-    [
-      "कहे तेऊँ मन सकल दराया, को जन निरभय नzरि ाया.",
-      "जो सतगुरु का पयारा है || 3 ||"
+      "कहे टेऊँ मन सकल डराया, को जन निर्भय नज़री आया ।",
+      "जो सत्‌गुरु का प्यारा है ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Raajaa Ne Apne Bal Se, Jit Liyaa Jag Saaraa Hai (Tek)."
-    ],
-    [
       "Raavan Kumbhakarn Puni Baali, Harnaakas Jaise Balshaali.",
-      "Aise Sarv Sanhaaraa Hai. || 1 ||"
+      "Aise Sarv Sanhaaraa Hai || 1 ||"
     ],
     [
       "Tapsi Tyaagi Dharmi Daataa, Pandit Paathi Ved Vijnyaataa.",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 90 || 454",
+    "मन राजा ने अपने बल से, जीत लिया जग सारा है",
     "Man Raajaa Ne Apne Bal Se, Jit Liyaa Jag Saaraa Hai",
-    "मन राजा ने पने बल से, जित लिया जग सारा है"
+    "राग तिलंग भजन 90",
+    "Raag Tilang Bhajan 90"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 454,
+  "displayOrder": 90,
+  "overallOrder": 453,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 255",
+  "updatedAt": "2026-10-26"
 }

@@ -1,59 +1,115 @@
 {
-  "id": "bhajan-0451",
+  "id": "bhajan-0450",
   "slug": "mere-man-tum-bhog-bhogke-saaraa-janm-ganvaayaa-hai",
   "categoryId": "raag-tilang",
-  "title": "मेरे मन तुम भोग भोगके, सारा जनम गनवाया है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मेरे मन तुम भोग भोगके, सारा जन्म गंवाया है",
   "romanTitle": "Mere Man Tum Bhog Bhogke, Saaraa Janm Ganvaayaa Hai",
   "firstLine": "Mere Man Tum Bhog Bhogke, Saaraa Janm Ganvaayaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८७ ।। ४५ १।।",
+  "tek": [
+    "मेरे मन तुम भोग भोगके, सारा जन्म गंवाया है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Tum Bhog Bhogke, Saaraa Janm Ganvaayaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "रसना को ना तृप्ति होई, षट्रस भोजन खाया है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Rasnaa Ko Naa Tripti Hoi, Shatras Bhojan Khaayaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नैनों नाना रूप देखके, अब लौं चैन न पाया है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nainon Naanaa Rup Dekhke, Ab Laun Chain Na Paayaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रवण से बहु शब्द सुना पर, अजहूं नाहिं अघाया है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shravan Se Bahu Shabd Sunaa Par, Ajhun Naahin Aghaayaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "घ्राणों ने भी शान्ति न पायी, बहुत सुगन्धि उठाया है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ghraanon Ne Bhi Shaanti Na Paayi, Bahut Sugandhi Uthaayaa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ चित्त चाह त्यागो, काल निकट तब आया है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Chitt Chaah Tyaago, Kaal Nikat Tab Aayaa Hai || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन तुम भोग भोगके, सारा जनम गनवाया है (टेक)."
+      "रसना को ना तृप्ति होई, षट्रस भोजन खाया है ॥१ ॥"
     ],
     [
-      "रसना को ना तरिपति होि, शतरस भोजन खाया है.1. ||.",
-      "नैनोन नाना रुप देखके, ब लौन चैन न पाया है || 2 ||"
+      "नैनों नाना रूप देखके, अब लौं चैन न पाया है ॥२ ॥"
     ],
     [
-      "शरवन से बहु शबद सुना पर, झुन नाहिन घाया है || 3 ||"
+      "श्रवण से बहु शब्द सुना पर, अजहूं नाहिं अघाया है ॥३ ॥"
     ],
     [
-      "घरानोन ने भि शांति न पायि, बहुत सुगनधि ुथाया है || 4. ||."
+      "घ्राणों ने भी शान्ति न पायी, बहुत सुगन्धि उठाया है ॥४ ॥"
     ],
     [
-      "कहे तेऊँ चितत चाह तयागो, काल निकत तब ाया है || 5 ||"
+      "कहे टेऊँ चित्त चाह त्यागो, काल निकट तब आया है ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Tum Bhog Bhogke, Saaraa Janm Ganvaayaa Hai (Tek)."
+      "Rasnaa Ko Naa Tripti Hoi, Shatras Bhojan Khaayaa Hai || 1 ||"
     ],
     [
-      "Rasnaa Ko Naa Tripti Hoi, Shatras Bhojan Khaayaa Hai.1. ||.",
-      "Nainon Naanaa Rup Dekhke, Ab Laun Chain N Paayaa Hai || 2 ||"
+      "Nainon Naanaa Rup Dekhke, Ab Laun Chain Na Paayaa Hai || 2 ||"
     ],
     [
       "Shravan Se Bahu Shabd Sunaa Par, Ajhun Naahin Aghaayaa Hai || 3 ||"
     ],
     [
-      "Ghraanon Ne Bhi Shaanti N Paayi, Bahut Sugandhi Uthaayaa Hai || 4. ||."
+      "Ghraanon Ne Bhi Shaanti Na Paayi, Bahut Sugandhi Uthaayaa Hai || 4 ||"
     ],
     [
       "Kahe Teun Chitt Chaah Tyaago, Kaal Nikat Tab Aayaa Hai || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 87 || 45 1 ||",
+    "मेरे मन तुम भोग भोगके, सारा जन्म गंवाया है",
     "Mere Man Tum Bhog Bhogke, Saaraa Janm Ganvaayaa Hai",
-    "मेरे मन तुम भोग भोगके, सारा जनम गनवाया है"
+    "राग तिलंग भजन 87",
+    "Raag Tilang Bhajan 87"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 451,
+  "displayOrder": 87,
+  "overallOrder": 450,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 254",
+  "updatedAt": "2026-10-26"
 }

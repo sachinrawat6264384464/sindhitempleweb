@@ -1,38 +1,96 @@
 {
-  "id": "bhajan-0545",
+  "id": "bhajan-0543",
   "slug": "mere-man-prabhu-se-kar-prit-jagat-ki-jhuthi-yaari-hai",
   "categoryId": "raag-sorath",
-  "title": "मेरे मन प्रभु से कर परित, जगत कि झुथि यारि है",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "मेरे मन प्रभू से कर प्रीत, जगत की झूठी यारी है",
   "romanTitle": "Mere Man Prabhu Se Kar Prit, Jagat Ki Jhuthi Yaari Hai",
   "firstLine": "Mere Man Prabhu Se Kar Prit, Jagat Ki Jhuthi Yaari Hai (Tek).",
+  "heading": "।। राग सोरठ भजन ।। १३ ।। ५४४",
+  "tek": [
+    "मेरे मन प्रभू से कर प्रीत, जगत की झूठी यारी है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Prabhu Se Kar Prit, Jagat Ki Jhuthi Yaari Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धन सुत दारा पुनि परिवारा, दूख समय सब करत किनारा ।",
+        "संगी इक सत्‌नाम, करे रक्षा तुम्हारी है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhan Sut Daaraa Puni Parivaaraa, Dukh Samay Sab Karat Kinaaraa.",
+        "Sangi Ik Sat‌Naam, Kare Rakshaa Tumhaari Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बहुत जन्म का बिछुड़ा होया, अजहूं तुम ग़फ्लत में सोया ।",
+        "जागी मिल जगदीश, मिलन की एह बारी है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Kaa Bichhuraa Hoyaa, Ajhun Tum Ghaphlat Men Soyaa.",
+        "Jaagi Mil Jagdish, Milan Ki Eh Baari Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "निशदिन भोगों से रति लाई, हरि की भक्ती तुम बिसराई ।",
+        "भक्ती से मन लाय, भक्ति हरि को प्यारी है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nishdin Bhogon Se Rati Laai, Hari Ki Bhakti Tum Bisraai.",
+        "Bhakti Se Man Laay, Bhakti Hari Ko Pyaari Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तज ग़फ्लत प्यारा, आज काल तुम चलने हारा ।",
+        "भजन करो भगवान, गजे शिर काल भारी है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taj Ghaphlat Pyaaraa, Aaj Kaal Tum Chalne Haaraa.",
+        "Bhajan Karo Bhagvaan, Gaje Shir Kaal Bhaari Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "्त्ठ"
+      ],
+      "romanLines": [
+        "Tth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन प्रभु से कर परित, जगत कि झुथि यारि है (टेक)."
+      "धन सुत दारा पुनि परिवारा, दूख समय सब करत किनारा ।",
+      "संगी इक सत्‌नाम, करे रक्षा तुम्हारी है ॥१ ॥"
     ],
     [
-      "धन सुत दारा पुनि परिवारा, दुःख समय सब करत किनारा.",
-      "सनगि िक सतनाम, करे रकशा तुमहारि है || 1 ||"
+      "बहुत जन्म का बिछुड़ा होया, अजहूं तुम ग़फ्लत में सोया ।",
+      "जागी मिल जगदीश, मिलन की एह बारी है ॥२ ॥"
     ],
     [
-      "बहुत जनम का बिचहुरा होया, झुन तुम घफलत मेन सोया.",
-      "जागि मिल जगदिश, मिलन कि ेह बारि है || 2 ||"
+      "निशदिन भोगों से रति लाई, हरि की भक्ती तुम बिसराई ।",
+      "भक्ती से मन लाय, भक्ति हरि को प्यारी है ॥३ ॥"
     ],
     [
-      "निशदिन भोगोन से रति लाि, हरि कि भक्ति तुम बिसराि.",
-      "भक्ति से मन लाय, भक्ति हरि को पयारि है || 3 ||."
+      "कहे टेऊँ तज ग़फ्लत प्यारा, आज काल तुम चलने हारा ।",
+      "भजन करो भगवान, गजे शिर काल भारी है ॥४ ॥"
     ],
     [
-      "कहे तेऊँ तज घफलत पयारा, ाज काल तुम चलने हारा.",
-      "भजन करो भगवान, गजे शिर काल भारि है || 4 ||"
-    ],
-    [
-      "तथ"
+      "्त्ठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mere Man Prabhu Se Kar Prit, Jagat Ki Jhuthi Yaari Hai (Tek)."
-    ],
     [
       "Dhan Sut Daaraa Puni Parivaaraa, Dukh Samay Sab Karat Kinaaraa.",
       "Sangi Ik Sat‌Naam, Kare Rakshaa Tumhaari Hai || 1 ||"
@@ -43,7 +101,7 @@
     ],
     [
       "Nishdin Bhogon Se Rati Laai, Hari Ki Bhakti Tum Bisraai.",
-      "Bhakti Se Man Laay, Bhakti Hari Ko Pyaari Hai || 3 ||."
+      "Bhakti Se Man Laay, Bhakti Hari Ko Pyaari Hai || 3 ||"
     ],
     [
       "Kahe Teun Taj Ghaphlat Pyaaraa, Aaj Kaal Tum Chalne Haaraa.",
@@ -54,19 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 13 || 544",
+    "मेरे मन प्रभू से कर प्रीत, जगत की झूठी यारी है",
     "Mere Man Prabhu Se Kar Prit, Jagat Ki Jhuthi Yaari Hai",
-    "मेरे मन प्रभु से कर परित, जगत कि झुथि यारि है"
+    "राग सोरठ भजन 13",
+    "Raag Sorath Bhajan 13"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "sorath",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
     "bhajan"
   ],
-  "displayOrder": 545,
+  "displayOrder": 13,
+  "overallOrder": 543,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 297",
+  "updatedAt": "2026-10-26"
 }

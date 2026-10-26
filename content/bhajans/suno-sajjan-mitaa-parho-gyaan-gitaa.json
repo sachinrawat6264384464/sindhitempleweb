@@ -1,0 +1,114 @@
+{
+  "id": "bhajan-0218",
+  "slug": "suno-sajjan-mitaa-parho-gyaan-gitaa",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सुनो सज्जन मीता, पढ़ो ज्ञान गीता",
+  "romanTitle": "Suno Sajjan Mitaa, Parho Gyaan Gitaa",
+  "firstLine": "Suno Sajjan Mitaa, Parho Gyaan Gitaa.",
+  "heading": "।। राग भैरवी भजन ।। ३ ।। २१८।॥।",
+  "tek": [
+    "सुनो सज्जन मीता, पढ़ो ज्ञान गीता ।",
+    "जन्म जात बीता, अमुल श्वास सारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Sajjan Mitaa, Parho Gyaan Gitaa.",
+    "Janm Jaat Bitaa, Amul Shvaas Saare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर्म शील धारो, हरी हर उच्चारो ।",
+        "ममत मोह टारो, चलो चारु चारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharm Shil Dhaaro, Hari Har Uchchaaro.",
+        "Mamat Moh Taaro, Chalo Chaaru Chaare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "करो सफल चोला, समय यह अमोला ।",
+        "बनो मीत गोला, गुरू के द्वारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Karo Saphal Cholaa, Samay Yah Amolaa.",
+        "Bano Mit Golaa, Guru Ke Dvaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वचन गुरु ध्याओ, सुरति को समाओ ।",
+        "कहे टेऊँ पावो, मुक्ति धाम प्यारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Vachan Guru Dhyaao, Surti Ko Samaao.",
+        "Kahe Teun Paavo, Mukti Dhaam Pyaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "श्ात"
+      ],
+      "romanLines": [
+        "Shaat"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "धर्म शील धारो, हरी हर उच्चारो ।",
+      "ममत मोह टारो, चलो चारु चारे ॥१ ॥"
+    ],
+    [
+      "करो सफल चोला, समय यह अमोला ।",
+      "बनो मीत गोला, गुरू के द्वारे ॥२ ॥"
+    ],
+    [
+      "वचन गुरु ध्याओ, सुरति को समाओ ।",
+      "कहे टेऊँ पावो, मुक्ति धाम प्यारे ॥३ ॥"
+    ],
+    [
+      "श्ात"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Dharm Shil Dhaaro, Hari Har Uchchaaro.",
+      "Mamat Moh Taaro, Chalo Chaaru Chaare || 1 ||"
+    ],
+    [
+      "Karo Saphal Cholaa, Samay Yah Amolaa.",
+      "Bano Mit Golaa, Guru Ke Dvaare || 2 ||"
+    ],
+    [
+      "Vachan Guru Dhyaao, Surti Ko Samaao.",
+      "Kahe Teun Paavo, Mukti Dhaam Pyaare || 3 ||"
+    ],
+    [
+      "Shaat"
+    ]
+  ],
+  "alternateSpellings": [
+    "सुनो सज्जन मीता, पढ़ो ज्ञान गीता",
+    "Suno Sajjan Mitaa, Parho Gyaan Gitaa",
+    "राग भैरवी भजन 3",
+    "Raag Bhairvi Bhajan 3"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
+  ],
+  "displayOrder": 3,
+  "overallOrder": 218,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 137",
+  "updatedAt": "2026-10-26"
+}

@@ -1,38 +1,87 @@
 {
   "id": "bhajan-0242",
   "slug": "dekh-dekh-prabhu-lilaa-teri-darti-jaan-hamaari-hai",
-  "categoryId": "raag-bhairav",
-  "title": "देख देख प्रभु लिला तेरि, दरति जान हमारि है",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "देख देख प्रभु लीला तेरी, डरती जान हमारी है",
   "romanTitle": "Dekh Dekh Prabhu Lilaa Teri, Darti Jaan Hamaari Hai",
   "firstLine": "Dekh Dekh Prabhu Lilaa Teri, Darti Jaan Hamaari Hai (Tek).",
+  "heading": "।। राग भैरवी भजन ।। २७ ।। २४२।।",
+  "tek": [
+    "देख देख प्रभु लीला तेरी, डरती जान हमारी है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dekh Dekh Prabhu Lilaa Teri, Darti Jaan Hamaari Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "काल जोय नर राजा बन कर, राज करत था मुल्कों का ।",
+        "आज वही नर बान्दी बन कर, रोता ज़ारोंज़ारी है ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kaal Joy Nar Raajaa Ban Kar, Raaj Karat Thaa Mulkon Kaa.",
+        "Aaj Vahi Nar Baandi Ban Kar, Rotaa Zaaronzaari Hai || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काल जोय नर दाता बन कर, दान देत था दीनों को ।",
+        "आज वही नर इक दाने हित, दर दर फिरत भिखारी है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaal Joy Nar Daataa Ban Kar, Daan Det Thaa Dinon Ko.",
+        "Aaj Vahi Nar Ik Daane Hit, Dar Dar Phirat Bhikhaari Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काल जोय नर सैर करन हित, हाथी घोड़े चढ़ता था ।",
+        "आज वही नर नेँगे पांवों, चलता धूप मँझारी है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaal Joy Nar Sair Karan Hit, Haathi Ghore Charhtaa Thaa.",
+        "Aaj Vahi Nar Nenge Paanvon, Chaltaa Dhup Manjhaari Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि तेरे आगे,किसका जोर न चलता है ।",
+        "दीन दयालू दया करो तुम, मैं ली शरन तुम्हारी है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Tere Aage,Kiskaa Jor Na Chaltaa Hai.",
+        "Din Dayaalu Dayaa Karo Tum, Main Li Sharan Tumhaari Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "देख देख प्रभु लिला तेरि, दरति जान हमारि है (टेक)."
+      "काल जोय नर राजा बन कर, राज करत था मुल्कों का ।",
+      "आज वही नर बान्दी बन कर, रोता ज़ारोंज़ारी है ॥१ ॥१ ॥"
     ],
     [
-      "काल जोय नर राजा बन कर, राज करत था मुलकोन का.",
-      "ाज वहि नर बानदि बन कर, रोता zारोनzारि है || 1$ ||."
+      "काल जोय नर दाता बन कर, दान देत था दीनों को ।",
+      "आज वही नर इक दाने हित, दर दर फिरत भिखारी है ॥२ ॥"
     ],
     [
-      "काल जोय नर दाता बन कर, दान देत था दिनोन को.",
-      "ाज वहि नर िक दाने हित, दर दर फिरत भिखारि है || 2 ||"
+      "काल जोय नर सैर करन हित, हाथी घोड़े चढ़ता था ।",
+      "आज वही नर नेँगे पांवों, चलता धूप मँझारी है ॥३ ॥"
     ],
     [
-      "काल जोय नर सैर करन हित, हाथि घोरे चरहता था.",
-      "ाज वहि नर नेनगे पानवोन, चलता धुप मनझारि है || 3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि तेरे ागेकिसका जोर न चलता है.",
-      "दीन दयालु दया करो तुम, मैं लि शरन तुमहारि है || 4 ||"
+      "कहे टेऊँ हरि तेरे आगे,किसका जोर न चलता है ।",
+      "दीन दयालू दया करो तुम, मैं ली शरन तुम्हारी है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dekh Dekh Prabhu Lilaa Teri, Darti Jaan Hamaari Hai (Tek)."
-    ],
-    [
       "Kaal Joy Nar Raajaa Ban Kar, Raaj Karat Thaa Mulkon Kaa.",
-      "Aaj Vahi Nar Baandi Ban Kar, Rotaa Zaaronzaari Hai || 1$ ||."
+      "Aaj Vahi Nar Baandi Ban Kar, Rotaa Zaaronzaari Hai || 1 || 1 ||"
     ],
     [
       "Kaal Joy Nar Daataa Ban Kar, Daan Det Thaa Dinon Ko.",
@@ -43,24 +92,25 @@
       "Aaj Vahi Nar Nenge Paanvon, Chaltaa Dhup Manjhaari Hai || 3 ||"
     ],
     [
-      "Kahe Teun Hari Tere Aage,Kiskaa Jor N Chaltaa Hai.",
+      "Kahe Teun Hari Tere Aage,Kiskaa Jor Na Chaltaa Hai.",
       "Din Dayaalu Dayaa Karo Tum, Main Li Sharan Tumhaari Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 27 || 242 ||",
+    "देख देख प्रभु लीला तेरी, डरती जान हमारी है",
     "Dekh Dekh Prabhu Lilaa Teri, Darti Jaan Hamaari Hai",
-    "देख देख प्रभु लिला तेरि, दरति जान हमारि है"
+    "राग भैरवी भजन 27",
+    "Raag Bhairvi Bhajan 27"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 242,
+  "displayOrder": 27,
+  "overallOrder": 242,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 150",
+  "updatedAt": "2026-10-26"
 }

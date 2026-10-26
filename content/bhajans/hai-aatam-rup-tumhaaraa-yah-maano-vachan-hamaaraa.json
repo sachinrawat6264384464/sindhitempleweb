@@ -2,41 +2,79 @@
   "id": "bhajan-0396",
   "slug": "hai-aatam-rup-tumhaaraa-yah-maano-vachan-hamaaraa",
   "categoryId": "raag-tilang",
-  "title": "है ातम रुप तुमहारा, यह मानो वचन हमारा",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "है आतम रूप तुम्हारा, यह मानो वचन हमारा ॥",
   "romanTitle": "Hai Aatam Rup Tumhaaraa, Yah Maano Vachan Hamaaraa",
   "firstLine": "Hai Aatam Rup Tumhaaraa, Yah Maano Vachan Hamaaraa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ३३ ।। ३९७।।",
+  "tek": [
+    "है आतम रूप तुम्हारा, यह मानो वचन हमारा ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Hai Aatam Rup Tumhaaraa, Yah Maano Vachan Hamaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम रूप है तन के माहीं, तीन काल यह तन तूं नाहीं ।",
+        "अचल अनादी तूंही आहीं, इस नाम रूप से न्यारा ॥१ ॥",
+        "नाम रूप को कल्पित जानो, अपने में ना रंचक मानो ।",
+        "आतम अपना रूप पछानो, सब कल्पित का आधारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup Hai Tan Ke Maahin, Tin Kaal Yah Tan Tu Naahin.",
+        "Achal Anaadi Tunhi Aahin, Is Naam Rup Se Nyaaraa || 1 ||",
+        "Naam Rup Ko Kalpit Jaano, Apne Men Naa Ranchak Maano.",
+        "Aatam Apnaa Rup Pachhaano, Sab Kalpit Kaa Aadhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाम रूप में ममता धारे, भूलो ना निज रूप उदारे ।",
+        "तन परिणामी जानो सारे, तूं स्थिर इक रस प्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup Men Mamtaa Dhaare, Bhulo Naa Nij Rup Udaare.",
+        "Tan Parinaami Jaano Saare, Tu Sthir Ik Ras Pyaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाम रूप की छोड़ भ्रान्ती , सद्गुरु के संग लख निज क्रान्ती ।",
+        "कहता टेऊँ पाओ शान्ती, तज तन मन का अहड्डारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup Ki Chhor Bhraanti, Sadguru Ke Sang Lakh Nij Kraanti.",
+        "Kahtaa Teun Paao Shaanti, Taj Tan Man Kaa Ahaddaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "है ातम रुप तुमहारा, यह मानो वचन हमारा (टेक)."
+      "नाम रूप है तन के माहीं, तीन काल यह तन तूं नाहीं ।",
+      "अचल अनादी तूंही आहीं, इस नाम रूप से न्यारा ॥१ ॥",
+      "नाम रूप को कल्पित जानो, अपने में ना रंचक मानो ।",
+      "आतम अपना रूप पछानो, सब कल्पित का आधारा ॥२ ॥"
     ],
     [
-      "नाम रुप है तन के माहिन, तिन काल यह तन तु नाहिन.",
-      "चल नादि तुनहि ाहिन, िस नाम रुप से नयारा 1"
+      "नाम रूप में ममता धारे, भूलो ना निज रूप उदारे ।",
+      "तन परिणामी जानो सारे, तूं स्थिर इक रस प्यारा ॥३ ॥"
     ],
     [
-      "नाम रुप को कलपित जानो, पने मेन ना रनचक मानो.",
-      "ातम पना रुप पचहानो, सब कलपित का ाधारा || 2 ||."
-    ],
-    [
-      "नाम रुप मेन ममता धारे, भुलो ना निज रुप ुदारे.",
-      "तन परिनामि जानो सारे, तु सथिर िक रस पयारा || 3 ||"
-    ],
-    [
-      "नाम रुप कि चहोर भरानति, सद्गुरु के सनग लख निज करानति.",
-      "कहता तेऊँ पाो शांति, तज तन मन का हददारा || 4 ||"
+      "नाम रूप की छोड़ भ्रान्ती , सद्गुरु के संग लख निज क्रान्ती ।",
+      "कहता टेऊँ पाओ शान्ती, तज तन मन का अहड्डारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Hai Aatam Rup Tumhaaraa, Yah Maano Vachan Hamaaraa (Tek)."
-    ],
-    [
       "Naam Rup Hai Tan Ke Maahin, Tin Kaal Yah Tan Tu Naahin.",
-      "Achal Anaadi Tunhi Aahin, Is Naam Rup Se Nyaaraa 1"
-    ],
-    [
+      "Achal Anaadi Tunhi Aahin, Is Naam Rup Se Nyaaraa || 1 ||",
       "Naam Rup Ko Kalpit Jaano, Apne Men Naa Ranchak Maano.",
-      "Aatam Apnaa Rup Pachhaano, Sab Kalpit Kaa Aadhaaraa || 2 ||."
+      "Aatam Apnaa Rup Pachhaano, Sab Kalpit Kaa Aadhaaraa || 2 ||"
     ],
     [
       "Naam Rup Men Mamtaa Dhaare, Bhulo Naa Nij Rup Udaare.",
@@ -48,18 +86,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 33 || 397 ||",
+    "है आतम रूप तुम्हारा, यह मानो वचन हमारा ॥",
     "Hai Aatam Rup Tumhaaraa, Yah Maano Vachan Hamaaraa",
-    "है ातम रुप तुमहारा, यह मानो वचन हमारा"
+    "राग तिलंग भजन 33",
+    "Raag Tilang Bhajan 33"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 396,
+  "displayOrder": 33,
+  "overallOrder": 396,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 232",
+  "updatedAt": "2026-10-26"
 }

@@ -1,52 +1,110 @@
 {
-  "id": "bhajan-0761",
+  "id": "bhajan-0759",
   "slug": "mujhko-laagi-lor-guru-ke-darshan-ki",
   "categoryId": "raag-pilaa",
-  "title": "मुझको लागि लोर, गुरु के दरशन कि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मुझको लागी लोर, गुरु के दर्शन की",
   "romanTitle": "Mujhko Laagi Lor, Guru Ke Darshan Ki",
   "firstLine": "Mujhko Laagi Lor, Guru Ke Darshan Ki (Tek).",
+  "heading": "।। राग पीला भजन ॥।। ३९ ।। ७६१॥।",
+  "tek": [
+    "मुझको लागी लोर, गुरु के दर्शन की ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mujhko Laagi Lor, Guru Ke Darshan Ki (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्यों मछली चाहत जल रासी, पपीहा स्वान्ति बून्द का प्यासी ।",
+        "प्यास लगी त्यों घोर ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jyon Machhli Chaahat Jal Raasi, Papihaa Svaanti Bund Kaa Pyaasi.",
+        "Pyaas Lagi Tyon Ghor || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जैसे कुरंग नाद को चाहत, भँवरा ज्यों पंकज मन लावत ।",
+        "ज्यों चन्द चाह चकोर ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaise Kurang Naad Ko Chaahat, Bhanvraa Jyon Pankaj Man Laavat.",
+        "Jyon Chand Chaah Chakor || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जैसे पति को चाहत नारी, ज्यों राजा को नीति प्यारी ।",
+        "ज्यों बादल को मोर ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaise Pati Ko Chaahat Naari, Jyon Raajaa Ko Niti Pyaari.",
+        "Jyon Baadal Ko Mor || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मोहि नींद न आवे, गुरु दर्शन बिन कछु ना भावे ।",
+        "लगन लगी संझ भोर ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mohi Nind Na Aave, Guru Darshan Bin Kachhu Naa Bhaave.",
+        "Lagan Lagi Sanjh Bhor || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्त्ह"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मुझको लागि लोर, गुरु के दरशन कि (टेक)."
+      "ज्यों मछली चाहत जल रासी, पपीहा स्वान्ति बून्द का प्यासी ।",
+      "प्यास लगी त्यों घोर ॥१ ॥"
     ],
     [
-      "जयोन मचहलि चाहत जल रासि, पपिहा सवानति बुनद का पयासि.",
-      "पयास लगि तयोन घोर.1. ||."
+      "जैसे कुरंग नाद को चाहत, भँवरा ज्यों पंकज मन लावत ।",
+      "ज्यों चन्द चाह चकोर ॥२ ॥"
     ],
     [
-      "जैसे कुरनग नाद को चाहत, भनवरा जयोन पनकज मन लावत.",
-      "जयोन चनद चाह चकोर ||.2 ||"
+      "जैसे पति को चाहत नारी, ज्यों राजा को नीति प्यारी ।",
+      "ज्यों बादल को मोर ॥३ ॥"
     ],
     [
-      "जैसे पति को चाहत नारि, जयोन राजा को निति पयारि.",
-      "जयोन बादल को मोर ||.3 ||."
+      "कहे टेऊँ मोहि नींद न आवे, गुरु दर्शन बिन कछु ना भावे ।",
+      "लगन लगी संझ भोर ॥४ ॥"
     ],
     [
-      "कहे तेऊँ मोहि निनद न ावे, गुरु दरशन बिन कचहु ना भावे.",
-      "लगन लगि सनझ भोर || 4 ||"
-    ],
-    [
-      "दथ"
+      "द्त्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Mujhko Laagi Lor, Guru Ke Darshan Ki (Tek)."
-    ],
-    [
       "Jyon Machhli Chaahat Jal Raasi, Papihaa Svaanti Bund Kaa Pyaasi.",
-      "Pyaas Lagi Tyon Ghor.1. ||."
+      "Pyaas Lagi Tyon Ghor || 1 ||"
     ],
     [
       "Jaise Kurang Naad Ko Chaahat, Bhanvraa Jyon Pankaj Man Laavat.",
-      "Jyon Chand Chaah Chakor ||.2 ||"
+      "Jyon Chand Chaah Chakor || 2 ||"
     ],
     [
       "Jaise Pati Ko Chaahat Naari, Jyon Raajaa Ko Niti Pyaari.",
-      "Jyon Baadal Ko Mor ||.3 ||."
+      "Jyon Baadal Ko Mor || 3 ||"
     ],
     [
-      "Kahe Teun Mohi Nind N Aave, Guru Darshan Bin Kachhu Naa Bhaave.",
+      "Kahe Teun Mohi Nind Na Aave, Guru Darshan Bin Kachhu Naa Bhaave.",
       "Lagan Lagi Sanjh Bhor || 4 ||"
     ],
     [
@@ -54,19 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 39 || 761 ||.",
+    "मुझको लागी लोर, गुरु के दर्शन की",
     "Mujhko Laagi Lor, Guru Ke Darshan Ki",
-    "मुझको लागि लोर, गुरु के दरशन कि"
+    "राग पीला भजन 38",
+    "Raag Pilaa Bhajan 38"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 761,
+  "displayOrder": 38,
+  "overallOrder": 759,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 402",
+  "updatedAt": "2026-10-26"
 }

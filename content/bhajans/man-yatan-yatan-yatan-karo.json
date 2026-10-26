@@ -2,39 +2,77 @@
   "id": "bhajan-0133",
   "slug": "man-yatan-yatan-yatan-karo",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "मन यतन यतन यतन करो",
   "romanTitle": "Man Yatan Yatan Yatan Karo",
-  "firstLine": "Man Yatan Yatan Yatan Karo. Nij Aatam Ke Darshan Kaaran,Nishivaasar Ati Yatan Karo (Tek).",
+  "firstLine": "Man Yatan Yatan Yatan Karo.",
+  "heading": "।। राग आसा भजन ।। ७१ ।। १३ ३।।",
+  "tek": [
+    "मन यतन यतन यतन करो ।",
+    "निज आतम के दर्शन कारन ,निशिवासर अति यतन करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Yatan Yatan Yatan Karo.",
+    "Nij Aatam Ke Darshan Kaaran,Nishivaasar Ati Yatan Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्जज्ञान आतम दशवि, ज्ञान वही गुरुदेव बतावे ।",
+        "सत्‌गुरु श्रद्धा देख सुनावे, श्रवन गुरु के वचन करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahjajnyaan Aatam Dashvi, Gyaan Vahi Gurudev Bataave.",
+        "Sat‌Guru Shraddhaa Dekh Sunaave, Shravan Guru Ke Vachan Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्मातम को देखन हारा, सत्‌ शास्त्रों को जानन हारा ।",
+        "ऐसे गुरु के संग प्यारा, सफला नर तन रतन करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahmaatam Ko Dekhan Haaraa, Sat‌ Shaastron Ko Jaanan Haaraa.",
+        "Aise Guru Ke Sang Pyaaraa, Saphlaa Nar Tan Ratan Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "और यतन जे जगत मंझारे, भव सागर में भेजनहारे ।",
+        "कहे टेऊँ निज रूप निहारे, जन्म मरण दुख भज्जन करो ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Aur Yatan Je Jagat Manjhaare, Bhav Saagar Men Bhejnahaare.",
+        "Kahe Teun Nij Rup Nihaare, Janm Maran Dukh Bhajjan Karo || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन यतन यतन यतन करो.",
-      "निज ातम के दरशन कारननिशिवासर ति यतन करो (टेक)."
+      "ब्रह्जज्ञान आतम दशवि, ज्ञान वही गुरुदेव बतावे ।",
+      "सत्‌गुरु श्रद्धा देख सुनावे, श्रवन गुरु के वचन करो ॥१ ॥"
     ],
     [
-      "बरहजजनयान ातम दशवि, ज्ञान वहि गुरुदेव बतावे.",
-      "सतगुरु शरदधा देख सुनावे, शरवन गुरु के वचन करो || 1 ||."
+      "ब्रह्मातम को देखन हारा, सत्‌ शास्त्रों को जानन हारा ।",
+      "ऐसे गुरु के संग प्यारा, सफला नर तन रतन करो ॥२ ॥"
     ],
     [
-      "बरहमातम को देखन हारा, सत‌ शासतरोन को जानन हारा.",
-      "ैसे गुरु के सनग पयारा, सफला नर तन रतन करो ||.2. ||."
-    ],
-    [
-      "ौर यतन जे जगत मनझारे, भव सागर मेन भेजनहारे.",
-      "कहे तेऊँ निज रुप निहारे, जनम मरन दुःख भजजन करो || 3े ||"
+      "और यतन जे जगत मंझारे, भव सागर में भेजनहारे ।",
+      "कहे टेऊँ निज रूप निहारे, जन्म मरण दुख भज्जन करो ॥ ३े ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Yatan Yatan Yatan Karo.",
-      "Nij Aatam Ke Darshan Kaaran,Nishivaasar Ati Yatan Karo (Tek)."
-    ],
-    [
-      "Brahjajnyaan Aatam Dashvi, Jnyaan Vahi Gurudev Bataave.",
-      "Sat‌Guru Shraddhaa Dekh Sunaave, Shravan Guru Ke Vachan Karo || 1 ||."
+      "Brahjajnyaan Aatam Dashvi, Gyaan Vahi Gurudev Bataave.",
+      "Sat‌Guru Shraddhaa Dekh Sunaave, Shravan Guru Ke Vachan Karo || 1 ||"
     ],
     [
       "Brahmaatam Ko Dekhan Haaraa, Sat‌ Shaastron Ko Jaanan Haaraa.",
-      "Aise Guru Ke Sang Pyaaraa, Saphlaa Nar Tan Ratan Karo ||.2. ||."
+      "Aise Guru Ke Sang Pyaaraa, Saphlaa Nar Tan Ratan Karo || 2 ||"
     ],
     [
       "Aur Yatan Je Jagat Manjhaare, Bhav Saagar Men Bhejnahaare.",
@@ -42,18 +80,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 71 || 13 3 ||",
+    "मन यतन यतन यतन करो",
     "Man Yatan Yatan Yatan Karo",
-    "मन यतन यतन यतन करो"
+    "राग आसा भजन 71",
+    "Raag Aasaa Bhajan 71"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 133,
+  "displayOrder": 71,
+  "overallOrder": 133,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 93",
+  "updatedAt": "2026-10-26"
 }

@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0406",
+  "slug": "dil-kaa-daagh-na-dhotaa-jaave-sahsen-saabun-laayaa-main",
+  "categoryId": "raag-tilang",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "दिल का दाग़ न धोता जावे, सहसें साबुन लाया मैं",
+  "romanTitle": "Dil Kaa Daagh Na Dhotaa Jaave, Sahsen Saabun Laayaa Main",
+  "firstLine": "Dil Kaa Daagh Na Dhotaa Jaave, Sahsen Saabun Laayaa Main (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ४३ ।। ४०७।।",
+  "tek": [
+    "दिल का दाग़ न धोता जावे, सहसें साबुन लाया मैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dil Kaa Daagh Na Dhotaa Jaave, Sahsen Saabun Laayaa Main (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दर्द लगा रांझन दा सजनी, भड़के अन्दर विरह दी अग्नी ।",
+        "झंग विकार जलाया मैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dard Lagaa Raanjhan Daa Sajni, Bharke Andar Virah Di Agni.",
+        "Jhang Vikaar Jalaayaa Main || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रॉझन वाली नृति निराली, उलटा बोलन उलटी चाली ।",
+        "उलटा भेद सु पाया मैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Rajhan Vaali Nriti Niraali, Ultaa Bolan Ulti Chaali.",
+        "Ultaa Bhed Su Paayaa Main || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "रॉझन वाला मस्त प्याला, पीकर होया मन मतिवाला ।",
+        "अपना आप भुलाया मैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Rajhan Vaalaa Mast Pyaalaa, Pikar Hoyaa Man Mativaalaa.",
+        "Apnaa Aap Bhulaayaa Main || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "रांझन ऊपर सदके जावां, कहे टेऊँ गुण तांके गावां ।",
+        "साचा नेह लगाया मैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raanjhan Upar Sadke Jaavaan, Kahe Teun Gun Taanke Gaavaan.",
+        "Saachaa Neh Lagaayaa Main || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "दर्द लगा रांझन दा सजनी, भड़के अन्दर विरह दी अग्नी ।",
+      "झंग विकार जलाया मैं ॥१ ॥"
+    ],
+    [
+      "रॉझन वाली नृति निराली, उलटा बोलन उलटी चाली ।",
+      "उलटा भेद सु पाया मैं ॥२ ॥"
+    ],
+    [
+      "रॉझन वाला मस्त प्याला, पीकर होया मन मतिवाला ।",
+      "अपना आप भुलाया मैं ॥३ ॥"
+    ],
+    [
+      "रांझन ऊपर सदके जावां, कहे टेऊँ गुण तांके गावां ।",
+      "साचा नेह लगाया मैं ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Dard Lagaa Raanjhan Daa Sajni, Bharke Andar Virah Di Agni.",
+      "Jhang Vikaar Jalaayaa Main || 1 ||"
+    ],
+    [
+      "Rajhan Vaali Nriti Niraali, Ultaa Bolan Ulti Chaali.",
+      "Ultaa Bhed Su Paayaa Main || 2 ||"
+    ],
+    [
+      "Rajhan Vaalaa Mast Pyaalaa, Pikar Hoyaa Man Mativaalaa.",
+      "Apnaa Aap Bhulaayaa Main || 3 ||"
+    ],
+    [
+      "Raanjhan Upar Sadke Jaavaan, Kahe Teun Gun Taanke Gaavaan.",
+      "Saachaa Neh Lagaayaa Main || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "दिल का दाग़ न धोता जावे, सहसें साबुन लाया मैं",
+    "Dil Kaa Daagh Na Dhotaa Jaave, Sahsen Saabun Laayaa Main",
+    "राग तिलंग भजन 43",
+    "Raag Tilang Bhajan 43"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
+  ],
+  "displayOrder": 43,
+  "overallOrder": 406,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 237",
+  "updatedAt": "2026-10-26"
+}

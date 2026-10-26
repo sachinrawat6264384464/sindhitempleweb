@@ -2,54 +2,101 @@
   "id": "bhajan-0148",
   "slug": "mohan-sakhi-man-maahin-ri-tum-dekhat-naahin",
   "categoryId": "raag-aasaa",
-  "title": "मोहन सखि मन माहिन, रि तुम देखत नाहिन",
-  "romanTitle": "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin",
-  "firstLine": "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin, Aankhon Maahin, Par Gai Jhaain (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मोहन सखी मन माहीं , री तुम देखत नाहीं ,",
+  "romanTitle": "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin,",
+  "firstLine": "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin,",
+  "heading": "।। राग आसा भजन ।। ८६ ।। १४८॥।",
+  "tek": [
+    "मोहन सखी मन माहीं , री तुम देखत नाहीं ,",
+    "आंखों माहीं, पड़ गई झाईं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin,",
+    "Aankhon Maahin, Par Gai Jhaain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बाहर क्यों तुम ढूंढ रही हो, मिलहैं और न ठाहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baahar Kyon Tum Dhundh Rahi Ho, Milhain Aur Na Thaahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हम तुम सब में खेल रहा जो, निशिदिन स्मरो ताहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ham Tum Sab Men Khel Rahaa Jo, Nishidin Smaro Taahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब घट साक्षी चेतन कृष्ण, तव उस भेद न आहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sab Ghat Saakshi Chetan Krishn, Tav Us Bhed Na Aahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम योग कमाओ, पड़ कर गुरु की पाहीं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Yog Kamaao, Par Kar Guru Ki Paahin || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोहन सखि मन माहिन, रि तुम देखत नाहिन,",
-      "ानखोन माहिन, पर गै झािन (टेक)."
+      "बाहर क्यों तुम ढूंढ रही हो, मिलहैं और न ठाहीं ॥१ ॥"
     ],
     [
-      "बाहर कयोन तुम धुनध रहि हो, मिलहैन ौर न थाहिन || 1 ||."
+      "हम तुम सब में खेल रहा जो, निशिदिन स्मरो ताहीं ॥२ ॥"
     ],
     [
-      "हम तुम सब मेन खेल रहा जो, निशिदिन समरो ताहिन || 2 ||"
+      "सब घट साक्षी चेतन कृष्ण, तव उस भेद न आहीं ॥३ ॥"
     ],
     [
-      "सब घत साक्षी चेतन करिशन, तव ुस भेद न ाहिन ||.3. ||.",
-      "कहे तेऊँ तुम योग कमाो, पर कर गुरु कि पाहिन || 4 ||"
+      "कहे टेऊँ तुम योग कमाओ, पड़ कर गुरु की पाहीं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin,",
-      "Aankhon Maahin, Par Gai Jhaain (Tek)."
-    ],
-    [
-      "Baahar Kyon Tum Dhundh Rahi Ho, Milhain Aur N Thaahin || 1 ||."
+      "Baahar Kyon Tum Dhundh Rahi Ho, Milhain Aur Na Thaahin || 1 ||"
     ],
     [
       "Ham Tum Sab Men Khel Rahaa Jo, Nishidin Smaro Taahin || 2 ||"
     ],
     [
-      "Sab Ghat Saakshi Chetan Krishn, Tav Us Bhed N Aahin ||.3. ||.",
+      "Sab Ghat Saakshi Chetan Krishn, Tav Us Bhed Na Aahin || 3 ||"
+    ],
+    [
       "Kahe Teun Tum Yog Kamaao, Par Kar Guru Ki Paahin || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 86 || 148 ||.",
-    "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin",
-    "मोहन सखि मन माहिन, रि तुम देखत नाहिन"
+    "मोहन सखी मन माहीं , री तुम देखत नाहीं ,",
+    "Mohan Sakhi Man Maahin, Ri Tum Dekhat Naahin,",
+    "राग आसा भजन 86",
+    "Raag Aasaa Bhajan 86"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 148,
+  "displayOrder": 86,
+  "overallOrder": 148,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 103",
+  "updatedAt": "2026-10-26"
 }

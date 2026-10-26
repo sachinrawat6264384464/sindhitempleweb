@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0920",
+  "id": "bhajan-0918",
   "slug": "jisko-hari-kaa-prem-huaa-hai-usne-prabhu-paayaa-hai",
   "categoryId": "raag-jog",
-  "title": "जिसको हरि का प्रेम हुा है, ुसने प्रभु पाया है",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "जिसको हरि का प्रेम हुआ है, उसने प्रभू पाया है",
   "romanTitle": "Jisko Hari Kaa Prem Huaa Hai, Usne Prabhu Paayaa Hai",
   "firstLine": "Jisko Hari Kaa Prem Huaa Hai, Usne Prabhu Paayaa Hai (Tek).",
+  "heading": "।। राग जोग भजन ।। ९० ॥। ९२० ॥।",
+  "tek": [
+    "जिसको हरि का प्रेम हुआ है, उसने प्रभू पाया है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jisko Hari Kaa Prem Huaa Hai, Usne Prabhu Paayaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गोपीचन्द भरथरी राजा, पीपे प्रेम में छोड़ समाजा ।",
+        "आत्म देव ध्याया है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gopichand Bharthari Raajaa, Pipe Prem Men Chhor Samaajaa.",
+        "Aatm Dev Dhyaayaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नामदेव नरसी रविदासा, प्रेम मगन भये तज जग आसा ।",
+        "रमता राम रिझाया है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naamdev Narsi Ravidaasaa, Prem Magan Bhaye Taj Jag Aasaa.",
+        "Ramtaa Raam Rijhaayaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम प्रहलाद श्रुव ने कीना, भगवत तांको दर्शन दीना ।",
+        "अपने कण्ठ लगाया है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Prahlaad Shruv Ne Kinaa, Bhagvat Taanko Darshan Dinaa.",
+        "Apne Kanth Lagaayaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिन प्रेम करा है, उनका सबहीं काज सरा है ।",
+        "ऐसे ग्रन्थनि गाया है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jin Prem Karaa Hai, Unkaa Sabhin Kaaj Saraa Hai.",
+        "Aise Granthani Gaayaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिसको हरि का प्रेम हुा है, ुसने प्रभु पाया है (टेक)."
+      "गोपीचन्द भरथरी राजा, पीपे प्रेम में छोड़ समाजा ।",
+      "आत्म देव ध्याया है ॥१ ॥"
     ],
     [
-      "गोपिचनद भरथरि राजा, पिपे प्रेम मेन चहोर समाजा.",
-      "ातम देव धयाया है || 1 ||."
+      "नामदेव नरसी रविदासा, प्रेम मगन भये तज जग आसा ।",
+      "रमता राम रिझाया है ॥२ ॥"
     ],
     [
-      "नामदेव नरसि रविदासा, प्रेम मगन भये तज जग ासा.",
-      "रमता राम रिझाया है || 2 ||"
+      "प्रेम प्रहलाद श्रुव ने कीना, भगवत तांको दर्शन दीना ।",
+      "अपने कण्ठ लगाया है ॥३ ॥"
     ],
     [
-      "प्रेम परहलाद शरुव ने किना, भगवत तानको दरशन दिना.",
-      "पने कनथ लगाया है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिन प्रेम करा है, ुनका सभिन काज सरा है.",
-      "ैसे गरनथनि गाया है || 4. ||."
+      "कहे टेऊँ जिन प्रेम करा है, उनका सबहीं काज सरा है ।",
+      "ऐसे ग्रन्थनि गाया है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jisko Hari Kaa Prem Huaa Hai, Usne Prabhu Paayaa Hai (Tek)."
-    ],
-    [
       "Gopichand Bharthari Raajaa, Pipe Prem Men Chhor Samaajaa.",
-      "Aatm Dev Dhyaayaa Hai || 1 ||."
+      "Aatm Dev Dhyaayaa Hai || 1 ||"
     ],
     [
       "Naamdev Narsi Ravidaasaa, Prem Magan Bhaye Taj Jag Aasaa.",
@@ -40,27 +89,28 @@
     ],
     [
       "Prem Prahlaad Shruv Ne Kinaa, Bhagvat Taanko Darshan Dinaa.",
-      "Apne Kanth Lagaayaa Hai || 3 ||."
+      "Apne Kanth Lagaayaa Hai || 3 ||"
     ],
     [
       "Kahe Teun Jin Prem Karaa Hai, Unkaa Sabhin Kaaj Saraa Hai.",
-      "Aise Granthani Gaayaa Hai || 4. ||."
+      "Aise Granthani Gaayaa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 90 ||. 920 ||.",
+    "जिसको हरि का प्रेम हुआ है, उसने प्रभू पाया है",
     "Jisko Hari Kaa Prem Huaa Hai, Usne Prabhu Paayaa Hai",
-    "जिसको हरि का प्रेम हुा है, ुसने प्रभु पाया है"
+    "राग जोग भजन 90",
+    "Raag Jog Bhajan 90"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "jog",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 920,
+  "displayOrder": 90,
+  "overallOrder": 918,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 483",
+  "updatedAt": "2026-10-26"
 }

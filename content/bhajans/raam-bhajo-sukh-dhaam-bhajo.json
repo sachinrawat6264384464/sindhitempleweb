@@ -2,66 +2,117 @@
   "id": "bhajan-0438",
   "slug": "raam-bhajo-sukh-dhaam-bhajo",
   "categoryId": "raag-tilang",
-  "title": "राम भजो सुख धाम भजो",
-  "romanTitle": "Raam Bhajo Sukh Dhaam Bhajo",
-  "firstLine": "Raam Bhajo Sukh Dhaam Bhajo, Teraa Ho Jaae Beraa Paar, Jag Men Karlo Ye Vyaapaar (Tek).",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "राम भजो सुख धाम भजो,",
+  "romanTitle": "Raam Bhajo Sukh Dhaam Bhajo,",
+  "firstLine": "Raam Bhajo Sukh Dhaam Bhajo,",
+  "heading": "।। राग तिलंग भजन ।। ७५ ।। ४३९।।",
+  "tek": [
+    "राम भजो सुख धाम भजो,",
+    "तेरा हो जाए बेड़ा पार, जग में करलो ये व्यापार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Bhajo Sukh Dhaam Bhajo,",
+    "Teraa Ho Jaae Beraa Paar, Jag Men Karlo Ye Vyaapaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और धन्धे हैं झूठे सारे, कर देखो वीचार ।",
+        "राम नाम का साचा सौदा, जानो जग में सार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Dhandhe Hain Jhuthe Saare, Kar Dekho Vichaar.",
+        "Raam Naam Kaa Saachaa Saudaa, Jaano Jag Men Saar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साधसंग से मिलकर हरदम, स्मरो सिरजणहार ।",
+        "राम नाम से चीत लगाके, अपना करो उद्धार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadhsang Se Milkar Hardam, Smaro Sirjanhaar.",
+        "Raam Naam Se Chit Lagaake, Apnaa Karo Uddhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम पदार्थ कबहूँ न खूटे, दिन दिन बढ़ने हार ।",
+        "जो जन इस सौदे को लेवे, तांका हो निस्तार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Padaarth Kabhun Na Khute, Din Din Barhne Haar.",
+        "Jo Jan Is Saude Ko Leve, Taankaa Ho Nistaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तन मन धन की भेटा देके, सेव करो हरवार ।",
+        "कहे टेऊँ यह सौदा लीजे, जा गुरु सन्त द्वार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Dhan Ki Bhetaa Deke, Sev Karo Harvaar.",
+        "Kahe Teun Yah Saudaa Lije, Jaa Guru Sant Dvaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम भजो सुख धाम भजो,",
-      "तेरा हो जाे बेरा पार, जग मेन करलो ये वयापार (टेक)."
+      "और धन्धे हैं झूठे सारे, कर देखो वीचार ।",
+      "राम नाम का साचा सौदा, जानो जग में सार ॥१ ॥"
     ],
     [
-      "ौर धनधे हैन झुथे सारे, कर देखो विचार.",
-      "राम नाम का साचा सौदा, जानो जग मेन सार || 1 ||."
+      "साधसंग से मिलकर हरदम, स्मरो सिरजणहार ।",
+      "राम नाम से चीत लगाके, अपना करो उद्धार ॥२ ॥"
     ],
     [
-      "साधसनग से मिलकर हरदम, समरो सिरजनहार.",
-      "राम नाम से चित लगाके, पना करो ुदधार || 2 ||"
+      "राम पदार्थ कबहूँ न खूटे, दिन दिन बढ़ने हार ।",
+      "जो जन इस सौदे को लेवे, तांका हो निस्तार ॥३ ॥"
     ],
     [
-      "राम पदारथ कभुन न खुते, दीन दीन बरहने हार.",
-      "जो जन िस सौदे को लेवे, तानका हो निसतार || 3 ||."
-    ],
-    [
-      "तन मन धन कि भेता देके, सेव करो हरवार.",
-      "कहे तेऊँ यह सौदा लिजे, जा गुरु संत दवार || 4 ||."
+      "तन मन धन की भेटा देके, सेव करो हरवार ।",
+      "कहे टेऊँ यह सौदा लीजे, जा गुरु सन्त द्वार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Bhajo Sukh Dhaam Bhajo,",
-      "Teraa Ho Jaae Beraa Paar, Jag Men Karlo Ye Vyaapaar (Tek)."
-    ],
-    [
       "Aur Dhandhe Hain Jhuthe Saare, Kar Dekho Vichaar.",
-      "Raam Naam Kaa Saachaa Saudaa, Jaano Jag Men Saar || 1 ||."
+      "Raam Naam Kaa Saachaa Saudaa, Jaano Jag Men Saar || 1 ||"
     ],
     [
       "Saadhsang Se Milkar Hardam, Smaro Sirjanhaar.",
       "Raam Naam Se Chit Lagaake, Apnaa Karo Uddhaar || 2 ||"
     ],
     [
-      "Raam Padaarth Kabhun N Khute, Din Din Barhne Haar.",
-      "Jo Jan Is Saude Ko Leve, Taankaa Ho Nistaar || 3 ||."
+      "Raam Padaarth Kabhun Na Khute, Din Din Barhne Haar.",
+      "Jo Jan Is Saude Ko Leve, Taankaa Ho Nistaar || 3 ||"
     ],
     [
       "Tan Man Dhan Ki Bhetaa Deke, Sev Karo Harvaar.",
-      "Kahe Teun Yah Saudaa Lije, Jaa Guru Sant Dvaar || 4 ||."
+      "Kahe Teun Yah Saudaa Lije, Jaa Guru Sant Dvaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 75 || 439 ||",
-    "Raam Bhajo Sukh Dhaam Bhajo",
-    "राम भजो सुख धाम भजो"
+    "राम भजो सुख धाम भजो,",
+    "Raam Bhajo Sukh Dhaam Bhajo,",
+    "राग तिलंग भजन 75",
+    "Raag Tilang Bhajan 75"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 438,
+  "displayOrder": 75,
+  "overallOrder": 438,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 249",
+  "updatedAt": "2026-10-26"
 }

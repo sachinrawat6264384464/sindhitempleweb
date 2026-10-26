@@ -2,59 +2,98 @@
   "id": "bhajan-0120",
   "slug": "sadguru-param-udaariyaan",
   "categoryId": "raag-aasaa",
-  "title": "सद्गुरु परम ुदारियान",
-  "romanTitle": "Sadguru Param Udaariyaan",
-  "firstLine": "Sadguru Param Udaariyaan, Main Vaari Jaavaan Devo Ji Apnaa Didaariyaan (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सद्गुरु परम उदारियां,",
+  "romanTitle": "Sadguru Param Udaariyaan,",
+  "firstLine": "Sadguru Param Udaariyaan,",
+  "heading": "।। राग आसा भजन ।। ५८ ।। १२०॥।॥",
+  "tek": [
+    "सद्गुरु परम उदारियां,",
+    "मैं वारी जावां देवो जी अपना दीदारियां ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sadguru Param Udaariyaan,",
+    "Main Vaari Jaavaan Devo Ji Apnaa Didaariyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दूर देश से संगति आई, दर्शन खातिर बहु तड़फाई ।",
+        "खोलो अपना किवाड़ियां ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dur Desh Se Sangti Aai, Darshan Khaatir Bahu Tarphaai.",
+        "Kholo Apnaa Kivaariyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अवगुण हमरे चीत न धारो, दर्शन दे सब दोष निवारो ।",
+        "आये शरण तिहारियां ॥२ ॥"
+      ],
+      "romanLines": [
+        "Avgun Hamre Chit Na Dhaaro, Darshan De Sab Dosh Nivaaro.",
+        "Aaye Sharan Tihaariyaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ अब कृपा कीजे, सद्गुरु अपना दर्शन दीजे ।",
+        "दूर करो दुख भारियां ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Kripaa Kije, Sadguru Apnaa Darshan Dije.",
+        "Dur Karo Dukh Bhaariyaan || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु परम ुदारियान,",
-      "मैं वारि जावान देवो जी पना दिदारियान (टेक)."
+      "दूर देश से संगति आई, दर्शन खातिर बहु तड़फाई ।",
+      "खोलो अपना किवाड़ियां ॥१ ॥"
     ],
     [
-      "दुर देश से सनगति ाि, दरशन खातिर बहु तरफाि.",
-      "खोलो पना किवारियान || 1 ||."
+      "अवगुण हमरे चीत न धारो, दर्शन दे सब दोष निवारो ।",
+      "आये शरण तिहारियां ॥२ ॥"
     ],
     [
-      "वगुन हमरे चित न धारो, दरशन दे सब दोश निवारो.",
-      "ाये शरन तिहारियान || 2 ||."
-    ],
-    [
-      "कहे तेऊँ ब कृपा किजे, सद्गुरु पना दरशन दिजे.",
-      "दुर करो दुःख भारियान ||.3 ||"
+      "कहे टेऊँ अब कृपा कीजे, सद्गुरु अपना दर्शन दीजे ।",
+      "दूर करो दुख भारियां ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sadguru Param Udaariyaan,",
-      "Main Vaari Jaavaan Devo Ji Apnaa Didaariyaan (Tek)."
-    ],
-    [
       "Dur Desh Se Sangti Aai, Darshan Khaatir Bahu Tarphaai.",
-      "Kholo Apnaa Kivaariyaan || 1 ||."
+      "Kholo Apnaa Kivaariyaan || 1 ||"
     ],
     [
-      "Avgun Hamre Chit N Dhaaro, Darshan De Sab Dosh Nivaaro.",
-      "Aaye Sharan Tihaariyaan || 2 ||."
+      "Avgun Hamre Chit Na Dhaaro, Darshan De Sab Dosh Nivaaro.",
+      "Aaye Sharan Tihaariyaan || 2 ||"
     ],
     [
       "Kahe Teun Ab Kripaa Kije, Sadguru Apnaa Darshan Dije.",
-      "Dur Karo Dukh Bhaariyaan ||.3 ||"
+      "Dur Karo Dukh Bhaariyaan || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 58 || 120 ||. ||",
-    "Sadguru Param Udaariyaan",
-    "सद्गुरु परम ुदारियान"
+    "सद्गुरु परम उदारियां,",
+    "Sadguru Param Udaariyaan,",
+    "राग आसा भजन 58",
+    "Raag Aasaa Bhajan 58"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 120,
+  "displayOrder": 58,
+  "overallOrder": 120,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 86",
+  "updatedAt": "2026-10-26"
 }

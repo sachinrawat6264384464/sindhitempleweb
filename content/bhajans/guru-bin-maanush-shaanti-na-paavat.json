@@ -1,0 +1,102 @@
+{
+  "id": "bhajan-0509",
+  "slug": "guru-bin-maanush-shaanti-na-paavat",
+  "categoryId": "raag-kohiyaari",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "गुरु बिन मानुष शान्ति न पावत,",
+  "romanTitle": "Guru Bin Maanush Shaanti Na Paavat,",
+  "firstLine": "Guru Bin Maanush Shaanti Na Paavat,",
+  "heading": "।। राग कोह्मारी भजन ॥।। ३० ।। ५१०॥।",
+  "tek": [
+    "गुरु बिन मानुष शान्ति न पावत,",
+    "दर दर भटका खावे, जन्म गँवावे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Bin Maanush Shaanti Na Paavat,",
+    "Dar Dar Bhatkaa Khaave, Janm Ganvaave (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो गुरु से उपदेश न लेवे, अन्त समय पछतावे ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Guru Se Updesh Na Leve, Ant Samay Pachhtaave || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निगुरे की गति कबहूं न होवे, मर कर जमपुर जावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nigure Ki Gati Kabhun Na Hove, Mar Kar Jampur Jaave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "निगुरे का अति नाम बुरा है, भगवत को ना भावे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nigure Kaa Ati Naam Buraa Hai, Bhagvat Ko Naa Bhaave || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ निगुरा फिर फिर, चौरासी में धावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Niguraa Phir Phir, Chauraasi Men Dhaave || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "जो गुरु से उपदेश न लेवे, अन्त समय पछतावे ॥8 ॥१ ॥"
+    ],
+    [
+      "निगुरे की गति कबहूं न होवे, मर कर जमपुर जावे ॥२ ॥"
+    ],
+    [
+      "निगुरे का अति नाम बुरा है, भगवत को ना भावे ॥३ ॥"
+    ],
+    [
+      "कहता टेऊँ निगुरा फिर फिर, चौरासी में धावे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Jo Guru Se Updesh Na Leve, Ant Samay Pachhtaave || 8 || 1 ||"
+    ],
+    [
+      "Nigure Ki Gati Kabhun Na Hove, Mar Kar Jampur Jaave || 2 ||"
+    ],
+    [
+      "Nigure Kaa Ati Naam Buraa Hai, Bhagvat Ko Naa Bhaave || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Niguraa Phir Phir, Chauraasi Men Dhaave || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "गुरु बिन मानुष शान्ति न पावत,",
+    "Guru Bin Maanush Shaanti Na Paavat,",
+    "राग कोहियारी भजन 30",
+    "Raag Kohiyaari Bhajan 30"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
+    "bhajan"
+  ],
+  "displayOrder": 30,
+  "overallOrder": 509,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 283",
+  "updatedAt": "2026-10-26"
+}

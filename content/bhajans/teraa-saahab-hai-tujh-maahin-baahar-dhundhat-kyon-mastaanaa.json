@@ -1,41 +1,90 @@
 {
-  "id": "bhajan-0917",
+  "id": "bhajan-0915",
   "slug": "teraa-saahab-hai-tujh-maahin-baahar-dhundhat-kyon-mastaanaa",
   "categoryId": "raag-jog",
-  "title": "तेरा साहब है तुझ माहिन, बाहर धुनधत कयोन मसताना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "तेरा साहब है तुझ माहिं, बाहर ढूंढत क्यों मस्ताना",
   "romanTitle": "Teraa Saahab Hai Tujh Maahin, Baahar Dhundhat Kyon Mastaanaa",
   "firstLine": "Teraa Saahab Hai Tujh Maahin, Baahar Dhundhat Kyon Mastaanaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ८७ ।। ९१७ ।॥।",
+  "tek": [
+    "तेरा साहब है तुझ माहिं, बाहर ढूंढत क्यों मस्ताना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Teraa Saahab Hai Tujh Maahin, Baahar Dhundhat Kyon Mastaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "घर में मिलती घर की खोई, बाहर खोजत मिलत न सोई ।",
+        "गई वस्तु जहं खोजो ताहिं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ghar Men Milti Ghar Ki Khoi, Baahar Khojat Milat Na Soi.",
+        "Gai Vastu Jahan Khojo Taahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस मिलने की आसा धारत, सो तुझ में यह वेद उचारत ।",
+        "वेद वचन मानत नहिं काहिं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jis Milne Ki Aasaa Dhaarat, So Tujh Men Yah Ved Uchaarat.",
+        "Ved Vachan Maanat Nahin Kaahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साहब बिन घट को ना खाली , सब में दमकत उसकी लाली ।",
+        "गुर बिन वह मिलती कब नाहिं ॥ डे ॥",
+        "लोक जिसी को दूर बतावे, कहे टेऊँ गुरु पास लखातवे ।",
+        "बन्धन टूटे देखत जाहिं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Saahab Bin Ghat Ko Naa Khaali, Sab Men Damkat Uski Laali.",
+        "Gur Bin Vah Milti Kab Naahin || De ||",
+        "Lok Jisi Ko Dur Bataave, Kahe Teun Guru Paas Lakhaatve.",
+        "Bandhan Tute Dekhat Jaahin || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ग्ठ"
+      ],
+      "romanLines": [
+        "Gth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तेरा साहब है तुझ माहिन, बाहर धुनधत कयोन मसताना (टेक)."
+      "घर में मिलती घर की खोई, बाहर खोजत मिलत न सोई ।",
+      "गई वस्तु जहं खोजो ताहिं ॥१ ॥"
     ],
     [
-      "घर मेन मिलति घर कि खोि, बाहर खोजत मिलत न सोि.",
-      "गै वसतु जहन खोजो ताहिन. || 1. ||."
+      "जिस मिलने की आसा धारत, सो तुझ में यह वेद उचारत ।",
+      "वेद वचन मानत नहिं काहिं ॥२ ॥"
     ],
     [
-      "जिस मिलने कि ासा धारत, सो तुझ मेन यह वेद ुचारत.",
-      "वेद वचन मानत नहिन काहिन || 2 ||"
+      "साहब बिन घट को ना खाली , सब में दमकत उसकी लाली ।",
+      "गुर बिन वह मिलती कब नाहिं ॥ डे ॥",
+      "लोक जिसी को दूर बतावे, कहे टेऊँ गुरु पास लखातवे ।",
+      "बन्धन टूटे देखत जाहिं ॥४ ॥"
     ],
     [
-      "साहब बिन घत को ना खालि, सब मेन दमकत ुसकि लालि.",
-      "गुर बिन वह मिलति कब नाहिन || दे ||"
-    ],
-    [
-      "लोक जिसि को दुर बतावे, कहे तेऊँ गुरु पास लखातवे.",
-      "बनधन तुते देखत जाहिन || 4 ||."
-    ],
-    [
-      "गथ"
+      "ग्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Teraa Saahab Hai Tujh Maahin, Baahar Dhundhat Kyon Mastaanaa (Tek)."
-    ],
-    [
-      "Ghar Men Milti Ghar Ki Khoi, Baahar Khojat Milat N Soi.",
-      "Gai Vastu Jahan Khojo Taahin. || 1. ||."
+      "Ghar Men Milti Ghar Ki Khoi, Baahar Khojat Milat Na Soi.",
+      "Gai Vastu Jahan Khojo Taahin || 1 ||"
     ],
     [
       "Jis Milne Ki Aasaa Dhaarat, So Tujh Men Yah Ved Uchaarat.",
@@ -43,29 +92,29 @@
     ],
     [
       "Saahab Bin Ghat Ko Naa Khaali, Sab Men Damkat Uski Laali.",
-      "Gur Bin Vah Milti Kab Naahin || De ||"
-    ],
-    [
+      "Gur Bin Vah Milti Kab Naahin || De ||",
       "Lok Jisi Ko Dur Bataave, Kahe Teun Guru Paas Lakhaatve.",
-      "Bandhan Tute Dekhat Jaahin || 4 ||."
+      "Bandhan Tute Dekhat Jaahin || 4 ||"
     ],
     [
       "Gth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 87 || 917. ||.",
+    "तेरा साहब है तुझ माहिं, बाहर ढूंढत क्यों मस्ताना",
     "Teraa Saahab Hai Tujh Maahin, Baahar Dhundhat Kyon Mastaanaa",
-    "तेरा साहब है तुझ माहिन, बाहर धुनधत कयोन मसताना"
+    "राग जोग भजन 87",
+    "Raag Jog Bhajan 87"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 917,
+  "displayOrder": 87,
+  "overallOrder": 915,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 481",
+  "updatedAt": "2026-10-26"
 }

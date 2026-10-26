@@ -2,110 +2,151 @@
   "id": "bhajan-0141",
   "slug": "suno-sarv-hi-sajan-hamaare-vachan-kahun-dud-saar-re",
   "categoryId": "raag-aasaa",
-  "title": "सुनो सर्व हि सजन हमारे, वचन कहुन दुद सार रे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सुनो सर्व ही सजन हमारे, वचन कहूँ दुड सार रे",
   "romanTitle": "Suno Sarv Hi Sajan Hamaare, Vachan Kahun Dud Saar Re",
   "firstLine": "Suno Sarv Hi Sajan Hamaare, Vachan Kahun Dud Saar Re.",
+  "heading": "।। राग आसा भजन ।। ७९ ।। १४१॥।",
+  "tek": [
+    "सुनो सर्व ही सजन हमारे, वचन कहूँ दुड सार रे ।",
+    "इक आत्म का रूप पछानो ,",
+    "दूजा कर उपकार रे, कहते सन्त हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Sarv Hi Sajan Hamaare, Vachan Kahun Dud Saar Re.",
+    "Ik Aatm Kaa Rup Pachhaano,",
+    "Dujaa Kar Upkaar Re, Kahte Sant Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन का लक्ष्य यही है, जाने अपना आप सदा ।",
+        "भेद भ्रम सब संसा मेटे, कर गुरु मन्त्र जाप सदा ।",
+        "ब्रह्म रूप निज आत्म को लख, हरले तीनों ताप सदा ।",
+        "ब्रह्मानन्द में लीन करे मन, झूठा तज अहंकार रे ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Kaa Lakshy Yahi Hai, Jaane Apnaa Aap Sadaa.",
+        "Bhed Bhram Sab Sansaa Mete, Kar Guru Mantr Jaap Sadaa.",
+        "Brahm Rup Nij Aatm Ko Lakh, Harle Tinon Taap Sadaa.",
+        "Brahmaanand Men Lin Kare Man, Jhuthaa Taj Ahankaar Re || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष का यह मनुषपना है, करले पर उपकार सदा ।",
+        "भूखे को अन्न भोजन देना, प्यासे को जल धार सदा ।",
+        "रोगी को कछु औषधि देना, अतिथी को सत्कार सदा ।",
+        "सब जीवों की सेव करे नित, हरि मय लख संसार रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Kaa Yah Manushpanaa Hai, Karle Par Upkaar Sadaa.",
+        "Bhukhe Ko Ann Bhojan Denaa, Pyaase Ko Jal Dhaar Sadaa.",
+        "Rogi Ko Kachhu Aushdhi Denaa, Atithi Ko Satkaar Sadaa.",
+        "Sab Jivon Ki Sev Kare Nit, Hari May Lakh Sansaar Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जन्म पाय निज आतम का जिन , प्रत्य क्ष ना दीदार किया ।",
+        "दया युक्त हो जीव किसी का, कबहूं ना उपकार किया ।",
+        "घिक्‌ धिक्‌ ऐसे जीवन को है, मानुष तन बेकार किया ।",
+        "खाना पीना वृथा तिनका, भूमी पर वे भार रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Janm Paay Nij Aatam Kaa Jin, Praty Ksh Naa Didaar Kiyaa.",
+        "Dayaa Yukt Ho Jiv Kisi Kaa, Kabhun Naa Upkaar Kiyaa.",
+        "Ghik‌ Dhik‌ Aise Jivan Ko Hai, Maanush Tan Bekaar Kiyaa.",
+        "Khaanaa Pinaa Vrithaa Tinkaa, Bhumi Par Ve Bhaar Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ है अब भी अवसर, संत शरण में वास करो ।",
+        "ब्रह्म ज्ञान ले गुरु पूरे से, अविद्या सकल विनाश करो ।",
+        "देवी गुन का हृदय अन्दर, पूर्ण तुम प्रकाश करो ।",
+        "निष्कामी निर्मानी होके, सेव करो सदूवार रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hai Ab Bhi Avsar, Sant Sharan Men Vaas Karo.",
+        "Brahm Gyaan Le Guru Pure Se, Avidyaa Sakal Vinaash Karo.",
+        "Devi Gun Kaa Hriday Andar, Purn Tum Prakaash Karo.",
+        "Nishkaami Nirmaani Hoke, Sev Karo Saduvaar Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनो सर्व हि सजन हमारे, वचन कहुन दुद सार रे.",
-      "िक ातम का रुप पचहानो,"
+      "मानुष तन का लक्ष्य यही है, जाने अपना आप सदा ।",
+      "भेद भ्रम सब संसा मेटे, कर गुरु मन्त्र जाप सदा ।",
+      "ब्रह्म रूप निज आत्म को लख, हरले तीनों ताप सदा ।",
+      "ब्रह्मानन्द में लीन करे मन, झूठा तज अहंकार रे ॥१ ॥१ ॥"
     ],
     [
-      "दुजा कर ुपकार रे, कहते संत हैन (टेक)."
+      "मानुष का यह मनुषपना है, करले पर उपकार सदा ।",
+      "भूखे को अन्न भोजन देना, प्यासे को जल धार सदा ।",
+      "रोगी को कछु औषधि देना, अतिथी को सत्कार सदा ।",
+      "सब जीवों की सेव करे नित, हरि मय लख संसार रे ॥२ ॥"
     ],
     [
-      "मानुश तन का लकशय यहि है, जाने पना ाप सदा.",
-      "भेद भरम सब सनसा मेते, कर गुरु मनतर जाप सदा."
+      "जन्म पाय निज आतम का जिन , प्रत्य क्ष ना दीदार किया ।",
+      "दया युक्त हो जीव किसी का, कबहूं ना उपकार किया ।",
+      "घिक्‌ धिक्‌ ऐसे जीवन को है, मानुष तन बेकार किया ।",
+      "खाना पीना वृथा तिनका, भूमी पर वे भार रे ॥३ ॥"
     ],
     [
-      "बरहम रुप निज ातम को लख, हरले तिनोन ताप सदा.",
-      "बरहमाननद मेन लिन करे मन, झुथा तज हनकार रे || 1$ ||."
-    ],
-    [
-      "मानुश का यह मनुशपना है, करले पर ुपकार सदा.",
-      "भुखे को नन भोजन देना, पयासे को जल धार सदा."
-    ],
-    [
-      "रोगि को कचहु ौशधि देना, तिथि को सतकार सदा.",
-      "सब जिवोन कि सेव करे नित, हरि मय लख सनसार रे || 2 ||."
-    ],
-    [
-      "जनम पाय निज ातम का जिन, परतय कश ना दिदार किया.",
-      "दया युकत हो जिव किसि का, कभुन ना ुपकार किया."
-    ],
-    [
-      "घिक‌ धिक‌ ैसे जिवन को है, मानुश तन बेकार किया.",
-      "खाना पिना वरिथा तिनका, भुमि पर वे भार रे || 3े ||"
-    ],
-    [
-      "कहे तेऊँ है ब भि वसर, संत शरन मेन वास करो.",
-      "बरहम ज्ञान ले गुरु पुरे से, विदया सकल विनाश करो."
-    ],
-    [
-      "देवि गुन का हरिदय नदर, पुरन तुम प्रकाश करो.",
-      "निशकामि निरमानि होके, सेव करो सदुवार रे || 4 ||."
-    ],
-    [
-      "तय"
+      "कहे टेऊँ है अब भी अवसर, संत शरण में वास करो ।",
+      "ब्रह्म ज्ञान ले गुरु पूरे से, अविद्या सकल विनाश करो ।",
+      "देवी गुन का हृदय अन्दर, पूर्ण तुम प्रकाश करो ।",
+      "निष्कामी निर्मानी होके, सेव करो सदूवार रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suno Sarv Hi Sajan Hamaare, Vachan Kahun Dud Saar Re.",
-      "Ik Aatm Kaa Rup Pachhaano,"
-    ],
-    [
-      "Dujaa Kar Upkaar Re, Kahte Sant Hain (Tek)."
-    ],
-    [
       "Maanush Tan Kaa Lakshy Yahi Hai, Jaane Apnaa Aap Sadaa.",
-      "Bhed Bhram Sab Sansaa Mete, Kar Guru Mantr Jaap Sadaa."
-    ],
-    [
+      "Bhed Bhram Sab Sansaa Mete, Kar Guru Mantr Jaap Sadaa.",
       "Brahm Rup Nij Aatm Ko Lakh, Harle Tinon Taap Sadaa.",
-      "Brahmaanand Men Lin Kare Man, Jhuthaa Taj Ahankaar Re || 1$ ||."
+      "Brahmaanand Men Lin Kare Man, Jhuthaa Taj Ahankaar Re || 1 || 1 ||"
     ],
     [
       "Maanush Kaa Yah Manushpanaa Hai, Karle Par Upkaar Sadaa.",
-      "Bhukhe Ko Ann Bhojan Denaa, Pyaase Ko Jal Dhaar Sadaa."
-    ],
-    [
+      "Bhukhe Ko Ann Bhojan Denaa, Pyaase Ko Jal Dhaar Sadaa.",
       "Rogi Ko Kachhu Aushdhi Denaa, Atithi Ko Satkaar Sadaa.",
-      "Sab Jivon Ki Sev Kare Nit, Hari May Lakh Sansaar Re || 2 ||."
+      "Sab Jivon Ki Sev Kare Nit, Hari May Lakh Sansaar Re || 2 ||"
     ],
     [
       "Janm Paay Nij Aatam Kaa Jin, Praty Ksh Naa Didaar Kiyaa.",
-      "Dayaa Yukt Ho Jiv Kisi Kaa, Kabhun Naa Upkaar Kiyaa."
-    ],
-    [
+      "Dayaa Yukt Ho Jiv Kisi Kaa, Kabhun Naa Upkaar Kiyaa.",
       "Ghik‌ Dhik‌ Aise Jivan Ko Hai, Maanush Tan Bekaar Kiyaa.",
-      "Khaanaa Pinaa Vrithaa Tinkaa, Bhumi Par Ve Bhaar Re || 3E ||"
+      "Khaanaa Pinaa Vrithaa Tinkaa, Bhumi Par Ve Bhaar Re || 3 ||"
     ],
     [
       "Kahe Teun Hai Ab Bhi Avsar, Sant Sharan Men Vaas Karo.",
-      "Brahm Jnyaan Le Guru Pure Se, Avidyaa Sakal Vinaash Karo."
-    ],
-    [
-      "Devi Gun Kaa Hriday Andar, Purn Tum Prakash Karo.",
-      "Nishkaami Nirmaani Hoke, Sev Karo Saduvaar Re || 4 ||."
-    ],
-    [
-      "Tay"
+      "Brahm Gyaan Le Guru Pure Se, Avidyaa Sakal Vinaash Karo.",
+      "Devi Gun Kaa Hriday Andar, Purn Tum Prakaash Karo.",
+      "Nishkaami Nirmaani Hoke, Sev Karo Saduvaar Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 79 || 141 ||.",
+    "सुनो सर्व ही सजन हमारे, वचन कहूँ दुड सार रे",
     "Suno Sarv Hi Sajan Hamaare, Vachan Kahun Dud Saar Re",
-    "सुनो सर्व हि सजन हमारे, वचन कहुन दुद सार रे"
+    "राग आसा भजन 79",
+    "Raag Aasaa Bhajan 79"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 141,
+  "displayOrder": 79,
+  "overallOrder": 141,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 98",
+  "updatedAt": "2026-10-26"
 }

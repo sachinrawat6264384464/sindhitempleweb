@@ -2,70 +2,115 @@
   "id": "bhajan-0044",
   "slug": "parmeshvar-kaa-sumran-karle-shraddhaa-se-harvaar-manaa",
   "categoryId": "raag-prabhaati",
-  "title": "परमेशवर का सुमरन करले, शरदधा से हरवार मना",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "परमेश्वर का सुमरण करले, श्रद्धा से हरवार मना",
   "romanTitle": "Parmeshvar Kaa Sumran Karle, Shraddhaa Se Harvaar Manaa",
   "firstLine": "Parmeshvar Kaa Sumran Karle, Shraddhaa Se Harvaar Manaa (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। १२ ।। ४ं४।।",
+  "tek": [
+    "परमेश्वर का सुमरण करले, श्रद्धा से हरवार मना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Parmeshvar Kaa Sumran Karle, Shraddhaa Se Harvaar Manaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन में जो तुम अपना, चाहत हो निस्तार मना ।",
+        "तो हरि सुमरण में इक पल भी , अन्तर कभी न डार मना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Men Jo Tum Apnaa, Chaahat Ho Nistaar Manaa.",
+        "To Hari Sumran Men Ik Pal Bhi, Antar Kabhi Na Daar Manaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जो पल जावे हरि सुमरन बिन, सोई जान असार मना ।",
+        "सो पल सफला जान जिसी में, याद रहे कर्तार मना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jo Pal Jaave Hari Sumran Bin, Soi Jaan Asaar Manaa.",
+        "So Pal Saphlaa Jaan Jisi Men, Yaad Rahe Kartaar Manaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पल विसरे पल याद रहे हरि, यह ना सुमरन सार मना ।",
+        "साचा सुमरण जानो सोई, टूटे ना कब तार मना ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Pal Visre Pal Yaad Rahe Hari, Yah Naa Sumran Saar Manaa.",
+        "Saachaa Sumran Jaano Soi, Tute Naa Kab Taar Manaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सदूगुरु से ले सुमरन युक्‍ती, स्वासों स्वास उचार मना ।",
+        "कहता टेऊँ हरि को सुमरे, पाओ मोक्ष द्वार मना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Saduguru Se Le Sumran Yuk‍Ti, Svaason Svaas Uchaar Manaa.",
+        "Kahtaa Teun Hari Ko Sumre, Paao Moksh Dvaar Manaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परमेशवर का सुमरन करले, शरदधा से हरवार मना (टेक)."
+      "मानुष तन में जो तुम अपना, चाहत हो निस्तार मना ।",
+      "तो हरि सुमरण में इक पल भी , अन्तर कभी न डार मना ॥१ ॥"
     ],
     [
-      "मानुश तन मेन जो तुम पना, चाहत हो निसतार मना.",
-      "तो हरि सुमरन मेन िक पल भि, नतर कभि न दार मना || 1 ||."
+      "जो पल जावे हरि सुमरन बिन, सोई जान असार मना ।",
+      "सो पल सफला जान जिसी में, याद रहे कर्तार मना ॥२ ॥"
     ],
     [
-      "जो पल जावे हरि सुमरन बिन, सोि जान सार मना.",
-      "सो पल सफला जान जिसि मेन, याद रहे करतार मना || 2 ||."
+      "पल विसरे पल याद रहे हरि, यह ना सुमरन सार मना ।",
+      "साचा सुमरण जानो सोई, टूटे ना कब तार मना ॥ ।३े ॥ ।"
     ],
     [
-      "पल विसरे पल याद रहे हरि, यह ना सुमरन सार मना.",
-      "साचा सुमरन जानो सोि, तुते ना कब तार मना ||.3े ||."
-    ],
-    [
-      "सदुगुरु से ले सुमरन युकति, सवासोन सवास ुचार मना.",
-      "कहता तेऊँ हरि को सुमरे, पाो मोक्ष दवार मना || 4. ||."
-    ],
-    [
-      "द"
+      "सदूगुरु से ले सुमरन युक्‍ती, स्वासों स्वास उचार मना ।",
+      "कहता टेऊँ हरि को सुमरे, पाओ मोक्ष द्वार मना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Parmeshvar Kaa Sumran Karle, Shraddhaa Se Harvaar Manaa (Tek)."
-    ],
-    [
       "Maanush Tan Men Jo Tum Apnaa, Chaahat Ho Nistaar Manaa.",
-      "To Hari Sumran Men Ik Pal Bhi, Antar Kabhi N Daar Manaa || 1 ||."
+      "To Hari Sumran Men Ik Pal Bhi, Antar Kabhi Na Daar Manaa || 1 ||"
     ],
     [
       "Jo Pal Jaave Hari Sumran Bin, Soi Jaan Asaar Manaa.",
-      "So Pal Saphlaa Jaan Jisi Men, Yaad Rahe Kartaar Manaa || 2 ||."
+      "So Pal Saphlaa Jaan Jisi Men, Yaad Rahe Kartaar Manaa || 2 ||"
     ],
     [
       "Pal Visre Pal Yaad Rahe Hari, Yah Naa Sumran Saar Manaa.",
-      "Saachaa Sumran Jaano Soi, Tute Naa Kab Taar Manaa ||.3E ||."
+      "Saachaa Sumran Jaano Soi, Tute Naa Kab Taar Manaa || 3E ||"
     ],
     [
       "Saduguru Se Le Sumran Yuk‍Ti, Svaason Svaas Uchaar Manaa.",
-      "Kahtaa Teun Hari Ko Sumre, Paao Moksh Dvaar Manaa || 4. ||."
-    ],
-    [
-      "D"
+      "Kahtaa Teun Hari Ko Sumre, Paao Moksh Dvaar Manaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 12 || 4N4 ||",
+    "परमेश्वर का सुमरण करले, श्रद्धा से हरवार मना",
     "Parmeshvar Kaa Sumran Karle, Shraddhaa Se Harvaar Manaa",
-    "परमेशवर का सुमरन करले, शरदधा से हरवार मना"
+    "राग प्रभाती भजन 12",
+    "Raag Prabhaati Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 44,
+  "displayOrder": 12,
+  "overallOrder": 44,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 47",
+  "updatedAt": "2026-10-26"
 }

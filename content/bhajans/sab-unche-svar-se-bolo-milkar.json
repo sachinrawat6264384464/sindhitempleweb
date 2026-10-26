@@ -2,102 +2,160 @@
   "id": "bhajan-0328",
   "slug": "sab-unche-svar-se-bolo-milkar",
   "categoryId": "raag-zilaa",
-  "title": "सब ुनचे सवर से बोलो मिलकर",
-  "romanTitle": "Sab Unche Svar Se Bolo Milkar",
-  "firstLine": "Sab Unche Svar Se Bolo Milkar, Saakshi Shivodham‌ Saakshi Shivodham‌ (Tek).",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "सब ऊँचे स्वर से बोलो मिलकर,",
+  "romanTitle": "Sab Unche Svar Se Bolo Milkar,",
+  "firstLine": "Sab Unche Svar Se Bolo Milkar,",
+  "heading": "।। राग ज़िला भजन ॥।। १५ ।। ३२८॥।",
+  "tek": [
+    "सब ऊँचे स्वर से बोलो मिलकर,",
+    "साक्षी शिवोडहम्‌ साक्षी शिवोडहम्‌ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sab Unche Svar Se Bolo Milkar,",
+    "Saakshi Shivodham‌ Saakshi Shivodham‌ (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सागर के सब छोलिन माहीं, पैछिन के सब बोलिन माहीं ।",
+        "गूज्ज रहा यह गीत मनोहर,",
+        "साक्षी शिवोडहम्‌ू साक्षी शिवोडहम्‌ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saagar Ke Sab Chholin Maahin, Paichhin Ke Sab Bolin Maahin.",
+        "Gujj Rahaa Yah Git Manohar,",
+        "Saakshi Shivodham‌U Saakshi Shivodham‌ || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सूर्य चान्द सितारों से भी, मेघों की गजकारों से भी ।",
+        "आय रही है धुनि यह सुन्दर,",
+        "साक्षी शिवोडहम्‌ू साक्षी शिवोडहम्‌ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sury Chaand Sitaaron Se Bhi, Meghon Ki Gajkaaron Se Bhi.",
+        "Aay Rahi Hai Dhuni Yah Sundar,",
+        "Saakshi Shivodham‌U Saakshi Shivodham‌ || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वृक्ष वृक्ष के सब पत्रों से, निगमागम के सब मन्त्रों से ।",
+        "ऊठ रहा यह शब्द सुखम्बर,",
+        "साक्षी शिवोडहम्‌ साक्षी शिवोडहम्‌ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vriksh Vriksh Ke Sab Patron Se, Nigmaagam Ke Sab Mantron Se.",
+        "Uth Rahaa Yah Shabd Sukhambar,",
+        "Saakshi Shivodham‌ Saakshi Shivodham‌ || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भांति भांति के साज़न भीतर, कुदरत के सब चिन्हन अन्दर ।",
+        "बाज रहा यह नाम निरन्तर,",
+        "साक्षी शिवोडहमू साक्षी शिवोडहम्‌ू ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhaanti Bhaanti Ke Saazan Bhitar, Kudrat Ke Sab Chinhan Andar.",
+        "Baaj Rahaa Yah Naam Nirantar,",
+        "Saakshi Shivodhamu Saakshi Shivodham‌U || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "्त््",
+        "जे जन बोलहिं साक्षी शिवोडहम्‌, वे जन सुखिया रहते हरदम ।",
+        "कहता टेऊँ सुमर स्वतन्तर,",
+        "साक्षी शिवोडहम्‌ू साक्षी शिवोडहम्‌ ॥५ ॥"
+      ],
+      "romanLines": [
+        "Ta",
+        "Je Jan Bolhin Saakshi Shivodham‌, Ve Jan Sukhiyaa Rahte Hardam.",
+        "Kahtaa Teun Sumar Svatantar,",
+        "Saakshi Shivodham‌U Saakshi Shivodham‌ || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सब ुनचे सवर से बोलो मिलकर,",
-      "साक्षी शिवोधम‌ साक्षी शिवोधम‌ (टेक)."
+      "सागर के सब छोलिन माहीं, पैछिन के सब बोलिन माहीं ।",
+      "गूज्ज रहा यह गीत मनोहर,",
+      "साक्षी शिवोडहम्‌ू साक्षी शिवोडहम्‌ ॥१ ॥"
     ],
     [
-      "सागर के सब चहोलिन माहिन, पैचहिन के सब बोलिन माहिन.",
-      "गुजज रहा यह गित मनोहर,"
+      "सूर्य चान्द सितारों से भी, मेघों की गजकारों से भी ।",
+      "आय रही है धुनि यह सुन्दर,",
+      "साक्षी शिवोडहम्‌ू साक्षी शिवोडहम्‌ ॥२ ॥"
     ],
     [
-      "साक्षी शिवोधमु साक्षी शिवोधम‌.1 ||.",
-      "सुरय चानद सितारोन से भि, मेघोन कि गजकारोन से भि."
+      "वृक्ष वृक्ष के सब पत्रों से, निगमागम के सब मन्त्रों से ।",
+      "ऊठ रहा यह शब्द सुखम्बर,",
+      "साक्षी शिवोडहम्‌ साक्षी शिवोडहम्‌ ॥२ ॥"
     ],
     [
-      "ाय रहि है धुनि यह सुनदर,",
-      "साक्षी शिवोधमु साक्षी शिवोधम‌ || 2 ||."
+      "भांति भांति के साज़न भीतर, कुदरत के सब चिन्हन अन्दर ।",
+      "बाज रहा यह नाम निरन्तर,",
+      "साक्षी शिवोडहमू साक्षी शिवोडहम्‌ू ॥४ ॥"
     ],
     [
-      "वरिकश वरिकश के सब पतरोन से, निगमागम के सब मनतरोन से.",
-      "ुथ रहा यह शबद सुखमबर,"
-    ],
-    [
-      "साक्षी शिवोधम‌ साक्षी शिवोधम‌ || 2 ||"
-    ],
-    [
-      "भानति भानति के साzन भितर, कुदरत के सब चिनहन नदर.",
-      "बाज रहा यह नाम निरनतर,"
-    ],
-    [
-      "साक्षी शिवोधमु साक्षी शिवोधमु || 4. ||."
-    ],
-    [
-      "त",
-      "जे जन बोलहिन साक्षी शिवोधम‌, वे जन सुखिया रहते हरदम."
-    ],
-    [
-      "कहता तेऊँ सुमर सवतनतर,",
-      "साक्षी शिवोधमु साक्षी शिवोधम‌ || 5. ||."
+      "्त््",
+      "जे जन बोलहिं साक्षी शिवोडहम्‌, वे जन सुखिया रहते हरदम ।",
+      "कहता टेऊँ सुमर स्वतन्तर,",
+      "साक्षी शिवोडहम्‌ू साक्षी शिवोडहम्‌ ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sab Unche Svar Se Bolo Milkar,",
-      "Saakshi Shivodham‌ Saakshi Shivodham‌ (Tek)."
-    ],
-    [
       "Saagar Ke Sab Chholin Maahin, Paichhin Ke Sab Bolin Maahin.",
-      "Gujj Rahaa Yah Git Manohar,"
+      "Gujj Rahaa Yah Git Manohar,",
+      "Saakshi Shivodham‌U Saakshi Shivodham‌ || 1 ||"
     ],
     [
-      "Saakshi Shivodham‌U Saakshi Shivodham‌.1 ||.",
-      "Sury Chaand Sitaaron Se Bhi, Meghon Ki Gajkaaron Se Bhi."
-    ],
-    [
+      "Sury Chaand Sitaaron Se Bhi, Meghon Ki Gajkaaron Se Bhi.",
       "Aay Rahi Hai Dhuni Yah Sundar,",
-      "Saakshi Shivodham‌U Saakshi Shivodham‌ || 2 ||."
+      "Saakshi Shivodham‌U Saakshi Shivodham‌ || 2 ||"
     ],
     [
       "Vriksh Vriksh Ke Sab Patron Se, Nigmaagam Ke Sab Mantron Se.",
-      "Uth Rahaa Yah Shabd Sukhambar,"
-    ],
-    [
+      "Uth Rahaa Yah Shabd Sukhambar,",
       "Saakshi Shivodham‌ Saakshi Shivodham‌ || 2 ||"
     ],
     [
       "Bhaanti Bhaanti Ke Saazan Bhitar, Kudrat Ke Sab Chinhan Andar.",
-      "Baaj Rahaa Yah Naam Nirantar,"
+      "Baaj Rahaa Yah Naam Nirantar,",
+      "Saakshi Shivodhamu Saakshi Shivodham‌U || 4 ||"
     ],
     [
-      "Saakshi Shivodhamu Saakshi Shivodham‌U || 4. ||."
-    ],
-    [
-      "T",
-      "Je Jan Bolhin Saakshi Shivodham‌, Ve Jan Sukhiyaa Rahte Hardam."
-    ],
-    [
+      "Ta",
+      "Je Jan Bolhin Saakshi Shivodham‌, Ve Jan Sukhiyaa Rahte Hardam.",
       "Kahtaa Teun Sumar Svatantar,",
-      "Saakshi Shivodham‌U Saakshi Shivodham‌ || 5. ||."
+      "Saakshi Shivodham‌U Saakshi Shivodham‌ || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || || 15 || 328 ||.",
-    "Sab Unche Svar Se Bolo Milkar",
-    "सब ुनचे सवर से बोलो मिलकर"
+    "सब ऊँचे स्वर से बोलो मिलकर,",
+    "Sab Unche Svar Se Bolo Milkar,",
+    "राग ज़िला भजन 15",
+    "Raag Zilaa Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 328,
+  "displayOrder": 15,
+  "overallOrder": 328,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 196",
+  "updatedAt": "2026-10-26"
 }

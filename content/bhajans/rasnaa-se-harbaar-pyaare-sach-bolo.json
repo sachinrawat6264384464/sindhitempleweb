@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0759",
+  "id": "bhajan-0757",
   "slug": "rasnaa-se-harbaar-pyaare-sach-bolo",
   "categoryId": "raag-pilaa",
-  "title": "रसना से हरबार, पयारे सच बोलो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "रसना से हरबार, प्यारे सच बोलो ॥",
   "romanTitle": "Rasnaa Se Harbaar, Pyaare Sach Bolo",
   "firstLine": "Rasnaa Se Harbaar, Pyaare Sach Bolo (Tek).",
+  "heading": "।। राग पीला भजन ॥।। ३७ ।। ७५९।।",
+  "tek": [
+    "रसना से हरबार, प्यारे सच बोलो ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Rasnaa Se Harbaar, Pyaare Sach Bolo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सच बराबर तपस्या नाहीं, पढ़कर देखो ग्रन्थों माहीं ।",
+        "सच से राखो प्यार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sach Baraabar Tapasyaa Naahin, Parhkar Dekho Granthon Maahin.",
+        "Sach Se Raakho Pyaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सच का बेड़ा हिलता डुलता, भवसागर में कबहुं न डुबता ।",
+        "आखिर उतरे पार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sach Kaa Beraa Hiltaa Dultaa, Bhavsaagar Men Kabhun Na Dubtaa.",
+        "Aakhir Utre Paar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पहले सच में है दुख भारी, पीछे होवे सूख अपारी ।",
+        "रीझे.. सत्‌कर्तार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pahle Sach Men Hai Dukh Bhaari, Pichhe Hove Sukh Apaari.",
+        "Rijhe.. Sat‌Kartaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तांते सच बोलो, सच की तकड़ी हरदम तोलो ।",
+        "जांसे जै जैकार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taante Sach Bolo, Sach Ki Takri Hardam Tolo.",
+        "Jaanse Jai Jaikaar || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "दत्त"
+      ],
+      "romanLines": [
+        "Datt"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रसना से हरबार, पयारे सच बोलो (टेक)."
+      "सच बराबर तपस्या नाहीं, पढ़कर देखो ग्रन्थों माहीं ।",
+      "सच से राखो प्यार ॥१ ॥"
     ],
     [
-      "सच बराबर तपसया नाहिन, परहकर देखो गरनथोन माहिन.",
-      "सच से राखो पयार || $ ||"
+      "सच का बेड़ा हिलता डुलता, भवसागर में कबहुं न डुबता ।",
+      "आखिर उतरे पार ॥२ ॥"
     ],
     [
-      "सच का बेरा हिलता दुलता, भवसागर मेन कभुन न दुबता.",
-      "ाखिर ुतरे पार ||.2 ||"
+      "पहले सच में है दुख भारी, पीछे होवे सूख अपारी ।",
+      "रीझे.. सत्‌कर्तार ॥३ ॥"
     ],
     [
-      "पहले सच मेन है दुःख भारि, पिचहे होवे सुख पारि.",
-      "रिझे.. सतकरतार ||.3. ||."
+      "कहे टेऊँ तांते सच बोलो, सच की तकड़ी हरदम तोलो ।",
+      "जांसे जै जैकार ॥४ ॥"
     ],
     [
-      "कहे तेऊँ तानते सच बोलो, सच कि तकरि हरदम तोलो.",
-      "जानसे जै जैकार ||.4. ||."
-    ],
-    [
-      "दतत"
+      "दत्त"
     ]
   ],
   "romanLyrics": [
     [
-      "Rasnaa Se Harbaar, Pyaare Sach Bolo (Tek)."
-    ],
-    [
       "Sach Baraabar Tapasyaa Naahin, Parhkar Dekho Granthon Maahin.",
-      "Sach Se Raakho Pyaar || $ ||"
+      "Sach Se Raakho Pyaar || 1 ||"
     ],
     [
-      "Sach Kaa Beraa Hiltaa Dultaa, Bhavsaagar Men Kabhun N Dubtaa.",
-      "Aakhir Utre Paar ||.2 ||"
+      "Sach Kaa Beraa Hiltaa Dultaa, Bhavsaagar Men Kabhun Na Dubtaa.",
+      "Aakhir Utre Paar || 2 ||"
     ],
     [
       "Pahle Sach Men Hai Dukh Bhaari, Pichhe Hove Sukh Apaari.",
-      "Rijhe.. Sat‌Kartaar ||.3. ||."
+      "Rijhe.. Sat‌Kartaar || 3 ||"
     ],
     [
       "Kahe Teun Taante Sach Bolo, Sach Ki Takri Hardam Tolo.",
-      "Jaanse Jai Jaikaar ||.4. ||."
+      "Jaanse Jai Jaikaar || 4 ||"
     ],
     [
       "Datt"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 37 || 759 ||",
+    "रसना से हरबार, प्यारे सच बोलो ॥",
     "Rasnaa Se Harbaar, Pyaare Sach Bolo",
-    "रसना से हरबार, पयारे सच बोलो"
+    "राग पीला भजन 36",
+    "Raag Pilaa Bhajan 36"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 759,
+  "displayOrder": 36,
+  "overallOrder": 757,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 401",
+  "updatedAt": "2026-10-26"
 }

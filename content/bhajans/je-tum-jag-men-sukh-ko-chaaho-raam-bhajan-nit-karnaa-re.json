@@ -2,54 +2,114 @@
   "id": "bhajan-0424",
   "slug": "je-tum-jag-men-sukh-ko-chaaho-raam-bhajan-nit-karnaa-re",
   "categoryId": "raag-tilang",
-  "title": "जे तुम जग मेन सुख को चाहो, राम भजन नित करना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "जे तुम जग में सुख को चाहो, राम भजन नित करना रे",
   "romanTitle": "Je Tum Jag Men Sukh Ko Chaaho, Raam Bhajan Nit Karnaa Re",
   "firstLine": "Je Tum Jag Men Sukh Ko Chaaho, Raam Bhajan Nit Karnaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६१ ।। ४२५।॥।",
+  "tek": [
+    "जे तुम जग में सुख को चाहो, राम भजन नित करना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Je Tum Jag Men Sukh Ko Chaaho, Raam Bhajan Nit Karnaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम भजन से सब दुख मेटे, जम का लेख न भरना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Se Sab Dukh Mete, Jam Kaa Lekh Na Bharnaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम भजन से निर्भय होके, काहूँ से ना डरना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Se Nirbhay Hoke, Kaahun Se Naa Darnaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम भजन से पांच क्लेशा, पाप ताप सब हरना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Se Paanch Kleshaa, Paap Taap Sab Harnaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम भजन से निर्बन्धन हो, जीवन मुक्ति विचरना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Se Nirbandhan Ho, Jivan Mukti Vichranaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ राम भजन कर, भव सागर से तरना रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Raam Bhajan Kar, Bhav Saagar Se Tarnaa Re || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जे तुम जग मेन सुख को चाहो, राम भजन नित करना रे (टेक)."
+      "राम भजन से सब दुख मेटे, जम का लेख न भरना रे ॥१ ॥"
     ],
     [
-      "राम भजन से सब दुःख मेते, जम का लेख न भरना रे || $ ||.",
-      "राम भजन से निरभय होके, काहुन से ना दरना रे || 2 ||."
+      "राम भजन से निर्भय होके, काहूँ से ना डरना रे ॥२ ॥"
     ],
     [
-      "राम भजन से पानच कलेशा, पाप ताप सब हरना रे.3 ||.",
-      "राम भजन से निरबनधन हो, जिवन मुक्ति विचरना रे || 4 ||"
+      "राम भजन से पांच क्लेशा, पाप ताप सब हरना रे ॥३ ॥"
     ],
     [
-      "कहता तेऊँ राम भजन कर, भव सागर से तरना रे || 5 ||."
+      "राम भजन से निर्बन्धन हो, जीवन मुक्ति विचरना रे ॥४ ॥"
+    ],
+    [
+      "कहता टेऊँ राम भजन कर, भव सागर से तरना रे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Je Tum Jag Men Sukh Ko Chaaho, Raam Bhajan Nit Karnaa Re (Tek)."
+      "Raam Bhajan Se Sab Dukh Mete, Jam Kaa Lekh Na Bharnaa Re || 1 ||"
     ],
     [
-      "Raam Bhajan Se Sab Dukh Mete, Jam Kaa Lekh N Bharnaa Re || $ ||.",
-      "Raam Bhajan Se Nirbhay Hoke, Kaahun Se Naa Darnaa Re || 2 ||."
+      "Raam Bhajan Se Nirbhay Hoke, Kaahun Se Naa Darnaa Re || 2 ||"
     ],
     [
-      "Raam Bhajan Se Paanch Kleshaa, Paap Taap Sab Harnaa Re.3 ||.",
+      "Raam Bhajan Se Paanch Kleshaa, Paap Taap Sab Harnaa Re || 3 ||"
+    ],
+    [
       "Raam Bhajan Se Nirbandhan Ho, Jivan Mukti Vichranaa Re || 4 ||"
     ],
     [
-      "Kahtaa Teun Raam Bhajan Kar, Bhav Saagar Se Tarnaa Re || 5 ||."
+      "Kahtaa Teun Raam Bhajan Kar, Bhav Saagar Se Tarnaa Re || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 61 || 425. ||.",
+    "जे तुम जग में सुख को चाहो, राम भजन नित करना रे",
     "Je Tum Jag Men Sukh Ko Chaaho, Raam Bhajan Nit Karnaa Re",
-    "जे तुम जग मेन सुख को चाहो, राम भजन नित करना रे"
+    "राग तिलंग भजन 61",
+    "Raag Tilang Bhajan 61"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 424,
+  "displayOrder": 61,
+  "overallOrder": 424,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 243",
+  "updatedAt": "2026-10-26"
 }

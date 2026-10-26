@@ -2,37 +2,86 @@
   "id": "bhajan-0086",
   "slug": "guru-raakho-charnani-paasaa-yah-meri-hai-ardaasaa",
   "categoryId": "raag-aasaa",
-  "title": "गुरु राखो चरननि पासा, यह मेरि है रदासा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "गुरु राखो चरननि पासा, यह मेरी है अर्दासा",
   "romanTitle": "Guru Raakho Charnani Paasaa, Yah Meri Hai Ardaasaa",
   "firstLine": "Guru Raakho Charnani Paasaa, Yah Meri Hai Ardaasaa (Tek).",
+  "heading": "।। राग आसा भजन ।। २४ ।। ८६॥।",
+  "tek": [
+    "गुरु राखो चरननि पासा, यह मेरी है अर्दासा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Raakho Charnani Paasaa, Yah Meri Hai Ardaasaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पानी भरके लकड़ी लाऊं, झाड़ दे घर साफ बनाऊँ ।",
+        "सेवहूँं बारह मासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paani Bharke Lakri Laaun, Jhaar De Ghar Saaph Banaaun.",
+        "Sevhunn Baarah Maasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "फूलों की मैं सेज सजाके, तां पर तुमको शयन कराके ।",
+        "चन्दन का दूं वासा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Phulon Ki Main Sej Sajaake, Taan Par Tumko Shayan Karaake.",
+        "Chandan Kaa Dun Vaasaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गंगाजल से चरन पखारूँ, पान करे मैं पाप निवारूँ ।",
+        "धारूँ उर विश्वासा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gangaajal Se Charan Pakhaarun, Paan Kare Main Paap Nivaarun.",
+        "Dhaarun Ur Vishvaasaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कर जोड़े कर कहता टेऊँ, ज्यों तुम चाहो त्यों मैं सेऊँ ।",
+        "देवो निकट निवासा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kar Jore Kar Kahtaa Teun, Jyon Tum Chaaho Tyon Main Seun.",
+        "Devo Nikat Nivaasaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु राखो चरननि पासा, यह मेरि है रदासा (टेक)."
+      "पानी भरके लकड़ी लाऊं, झाड़ दे घर साफ बनाऊँ ।",
+      "सेवहूँं बारह मासा ॥१ ॥"
     ],
     [
-      "पानि भरके लकरि लाुन, झार दे घर साफ बनाुन.",
-      "सेवहुनन बारह मासा.1. ||."
+      "फूलों की मैं सेज सजाके, तां पर तुमको शयन कराके ।",
+      "चन्दन का दूं वासा ॥२ ॥"
     ],
     [
-      "फुलोन कि मैं सेज सजाके, तान पर तुमको शयन कराके.",
-      "चनदन का दुन वासा || 2 ||"
+      "गंगाजल से चरन पखारूँ, पान करे मैं पाप निवारूँ ।",
+      "धारूँ उर विश्वासा ॥३ ॥"
     ],
     [
-      "गनगाजल से चरण पखारुन, पान करे मैं पाप निवारुन.",
-      "धारुन ुर विशवासा.3 ||."
-    ],
-    [
-      "कर जोरे कर कहता तेऊँ, जयोन तुम चाहो तयोन मैं सेुन.",
-      "देवो निकत निवासा || 4 ||"
+      "कर जोड़े कर कहता टेऊँ, ज्यों तुम चाहो त्यों मैं सेऊँ ।",
+      "देवो निकट निवासा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Guru Raakho Charnani Paasaa, Yah Meri Hai Ardaasaa (Tek)."
-    ],
-    [
       "Paani Bharke Lakri Laaun, Jhaar De Ghar Saaph Banaaun.",
-      "Sevhunn Baarah Maasaa.1. ||."
+      "Sevhunn Baarah Maasaa || 1 ||"
     ],
     [
       "Phulon Ki Main Sej Sajaake, Taan Par Tumko Shayan Karaake.",
@@ -40,7 +89,7 @@
     ],
     [
       "Gangaajal Se Charan Pakhaarun, Paan Kare Main Paap Nivaarun.",
-      "Dhaarun Ur Vishvaasaa.3 ||."
+      "Dhaarun Ur Vishvaasaa || 3 ||"
     ],
     [
       "Kar Jore Kar Kahtaa Teun, Jyon Tum Chaaho Tyon Main Seun.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 24 || 86 ||.",
+    "गुरु राखो चरननि पासा, यह मेरी है अर्दासा",
     "Guru Raakho Charnani Paasaa, Yah Meri Hai Ardaasaa",
-    "गुरु राखो चरननि पासा, यह मेरि है रदासा"
+    "राग आसा भजन 24",
+    "Raag Aasaa Bhajan 24"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 86,
+  "displayOrder": 24,
+  "overallOrder": 86,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 69",
+  "updatedAt": "2026-10-26"
 }

@@ -1,80 +1,139 @@
 {
-  "id": "bhajan-0841",
+  "id": "bhajan-0839",
   "slug": "saduguru-saagar-ke-sam-jaano-ratn-gunon-ko-dhartaa-hai",
   "categoryId": "raag-jog",
-  "title": "सदुगुरु सागर के सम जानो, रतन गुनोन को धरता है",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सदूगुरु सागर के सम जानो , रत्न गुणों को धरता है",
   "romanTitle": "Saduguru Saagar Ke Sam Jaano, Ratn Gunon Ko Dhartaa Hai",
   "firstLine": "Saduguru Saagar Ke Sam Jaano, Ratn Gunon Ko Dhartaa Hai (Tek).",
+  "heading": "।। राग जोग भजन ।। ११ ।। ८४१।।",
+  "tek": [
+    "सदूगुरु सागर के सम जानो , रत्न गुणों को धरता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saduguru Saagar Ke Sam Jaano, Ratn Gunon Ko Dhartaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "निर्मल दर्शन चन्द्र विकाशे, मदिरा हरि का प्रेम प्रकाशे ।",
+        "जिस पीवत रंग चढ़ता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nirmal Darshan Chandr Vikaashe, Madiraa Hari Kaa Prem Prakaashe.",
+        "Jis Pivat Rang Charhtaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ओडम्‌ शब्द शंख पहिचानो, सत्संग कल्प वृक्ष प्रमानो ।",
+        "जांसे कारज सरता है ॥? ॥२ ॥",
+        "प्राणायाम ऐरावत हाथी, धमी विद्या लक्ष्मी साथी ।",
+        "जांसे सब अघ हरता है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Odam‌ Shabd Shankh Pahichaano, Satsang Kalp Vriksh Pramaano.",
+        "Jaanse Kaaraj Sartaa Hai || ? || 2 ||",
+        "Praanaayaam Airaavat Haathi, Dhami Vidyaa Lakshmi Saathi.",
+        "Jaanse Sab Agh Hartaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कामधेनु हरि भक्ती राजे, अमृत आतम ज्ञान बिराजे ।",
+        "जो पीवे नहिं मरता है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kaamdhenu Hari Bhakti Raaje, Amrit Aatam Gyaan Biraaje.",
+        "Jo Pive Nahin Martaa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो जन इस सागर को सेवे, कहे टेऊँ सो सब फल लेवे ।",
+        "शरण पड़े भव तरता है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Jo Jan Is Saagar Ko Seve, Kahe Teun So Sab Phal Leve.",
+        "Sharan Pare Bhav Tartaa Hai || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द्ध"
+      ],
+      "romanLines": [
+        "Gddh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदुगुरु सागर के सम जानो, रतन गुनोन को धरता है (टेक)."
+      "निर्मल दर्शन चन्द्र विकाशे, मदिरा हरि का प्रेम प्रकाशे ।",
+      "जिस पीवत रंग चढ़ता है ॥१ ॥"
     ],
     [
-      "निर्मल दरशन चनदर विकाशे, मदिरा हरि का प्रेम परकाशे.",
-      "जिस पिवत रनग चरहता है || 1 ||."
+      "ओडम्‌ शब्द शंख पहिचानो, सत्संग कल्प वृक्ष प्रमानो ।",
+      "जांसे कारज सरता है ॥? ॥२ ॥",
+      "प्राणायाम ऐरावत हाथी, धमी विद्या लक्ष्मी साथी ।",
+      "जांसे सब अघ हरता है ॥३ ॥"
     ],
     [
-      "ोदम‌ शबद शनख पहिचानो, सत्संग कलप वरिकश परमानो.",
-      "जानसे कारज सरता है ||?2 ||."
+      "कामधेनु हरि भक्ती राजे, अमृत आतम ज्ञान बिराजे ।",
+      "जो पीवे नहिं मरता है ॥४ ॥"
     ],
     [
-      "परानायाम ैरावत हाथि, धमि विदया लकशमि साथि.",
-      "जानसे सब घ हरता है || 3 ||."
+      "जो जन इस सागर को सेवे, कहे टेऊँ सो सब फल लेवे ।",
+      "शरण पड़े भव तरता है ॥५ ॥"
     ],
     [
-      "कामधेनु हरि भक्ति राजे, अमृत ातम ज्ञान बिराजे.",
-      "जो पिवे नहिन मरता है || 4 ||."
-    ],
-    [
-      "जो जन िस सागर को सेवे, कहे तेऊँ सो सब फल लेवे.",
-      "शरन परे भव तरता है || 5. ||."
-    ],
-    [
-      "गदध"
+      "ग््द्ध"
     ]
   ],
   "romanLyrics": [
     [
-      "Saduguru Saagar Ke Sam Jaano, Ratn Gunon Ko Dhartaa Hai (Tek)."
-    ],
-    [
       "Nirmal Darshan Chandr Vikaashe, Madiraa Hari Kaa Prem Prakaashe.",
-      "Jis Pivat Rang Charhtaa Hai || 1 ||."
+      "Jis Pivat Rang Charhtaa Hai || 1 ||"
     ],
     [
       "Odam‌ Shabd Shankh Pahichaano, Satsang Kalp Vriksh Pramaano.",
-      "Jaanse Kaaraj Sartaa Hai ||?2 ||."
-    ],
-    [
+      "Jaanse Kaaraj Sartaa Hai || ? || 2 ||",
       "Praanaayaam Airaavat Haathi, Dhami Vidyaa Lakshmi Saathi.",
-      "Jaanse Sab Agh Hartaa Hai || 3 ||."
+      "Jaanse Sab Agh Hartaa Hai || 3 ||"
     ],
     [
-      "Kaamdhenu Hari Bhakti Raaje, Amrit Aatam Jnyaan Biraaje.",
-      "Jo Pive Nahin Martaa Hai || 4 ||."
+      "Kaamdhenu Hari Bhakti Raaje, Amrit Aatam Gyaan Biraaje.",
+      "Jo Pive Nahin Martaa Hai || 4 ||"
     ],
     [
       "Jo Jan Is Saagar Ko Seve, Kahe Teun So Sab Phal Leve.",
-      "Sharan Pare Bhav Tartaa Hai || 5. ||."
+      "Sharan Pare Bhav Tartaa Hai || 5 ||"
     ],
     [
       "Gddh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 11 || 841 ||",
+    "सदूगुरु सागर के सम जानो , रत्न गुणों को धरता है",
     "Saduguru Saagar Ke Sam Jaano, Ratn Gunon Ko Dhartaa Hai",
-    "सदुगुरु सागर के सम जानो, रतन गुनोन को धरता है"
+    "राग जोग भजन 11",
+    "Raag Jog Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 841,
+  "displayOrder": 11,
+  "overallOrder": 839,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 445",
+  "updatedAt": "2026-10-26"
 }

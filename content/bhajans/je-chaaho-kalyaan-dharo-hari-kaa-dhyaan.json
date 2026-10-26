@@ -2,59 +2,98 @@
   "id": "bhajan-0080",
   "slug": "je-chaaho-kalyaan-dharo-hari-kaa-dhyaan",
   "categoryId": "raag-aasaa",
-  "title": "जे चाहो कलयान, धरो हरि का ध्यान",
-  "romanTitle": "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan",
-  "firstLine": "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan, Suno Suno Ai Sujaan, Prabhu Ko Bhulaanaa Mat Bhulke (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "जे चाहो कल्यान, धरो हरी का ध्यान,",
+  "romanTitle": "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan,",
+  "firstLine": "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan,",
+  "heading": "।॥। राग आसा भजन ।। १८ ।। ८०।।",
+  "tek": [
+    "जे चाहो कल्यान, धरो हरी का ध्यान,",
+    "सुनो सुनो ऐ सुजान, प्रभू को भुलाना मत भूलके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan,",
+    "Suno Suno Ai Sujaan, Prabhu Ko Bhulaanaa Mat Bhulke (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरी साथी तेरे आदि अन्त का, मत नाम भुलाओ भगवन्त का ।",
+        "जपो जपो भगवान, पावो सूख महान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Saathi Tere Aadi Ant Kaa, Mat Naam Bhulaao Bhagvant Kaa.",
+        "Japo Japo Bhagvaan, Paavo Sukh Mahaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "क्यों जग के पड़े हो जंजाल में, कुछ चलते न तेरे नाल में ।",
+        "यह झूठा है जहान, सच्चा प्रभू पहिचान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kyon Jag Ke Pare Ho Janjaal Men, Kuchh Chalte Na Tere Naal Men.",
+        "Yah Jhuthaa Hai Jahaan, Sachchaa Prabhu Pahichaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सदा साध संगति में जायके, कहे टेऊँ बैठो चित्त लायके ।",
+        "तजे तन अभिमान, करो हरी गुण गान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadaa Saadh Sangti Men Jaayke, Kahe Teun Baitho Chitt Laayke.",
+        "Taje Tan Abhimaan, Karo Hari Gun Gaan || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जे चाहो कलयान, धरो हरि का ध्यान,",
-      "सुनो सुनो ै सुजान, प्रभु को भुलाना मत भुलके (टेक)."
+      "हरी साथी तेरे आदि अन्त का, मत नाम भुलाओ भगवन्त का ।",
+      "जपो जपो भगवान, पावो सूख महान ॥१ ॥"
     ],
     [
-      "हरि साथि तेरे ादि नत का, मत नाम भुलाो भगवनत का.",
-      "जपो जपो भगवान, पावो सुख महान ||.1 ||"
+      "क्यों जग के पड़े हो जंजाल में, कुछ चलते न तेरे नाल में ।",
+      "यह झूठा है जहान, सच्चा प्रभू पहिचान ॥२ ॥"
     ],
     [
-      "कयोन जग के परे हो जनजाल मेन, कुचह चलते न तेरे नाल मेन.",
-      "यह झुथा है जहान, सचचा प्रभु पहिचान || 2 ||"
-    ],
-    [
-      "सदा साध सनगति मेन जायके, कहे तेऊँ बैथो चितत लायके.",
-      "तजे तन भिमान, करो हरि गुन गान ||.3 ||"
+      "सदा साध संगति में जायके, कहे टेऊँ बैठो चित्त लायके ।",
+      "तजे तन अभिमान, करो हरी गुण गान ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan,",
-      "Suno Suno Ai Sujaan, Prabhu Ko Bhulaanaa Mat Bhulke (Tek)."
-    ],
-    [
       "Hari Saathi Tere Aadi Ant Kaa, Mat Naam Bhulaao Bhagvant Kaa.",
-      "Japo Japo Bhagvaan, Paavo Sukh Mahaan ||.1 ||"
+      "Japo Japo Bhagvaan, Paavo Sukh Mahaan || 1 ||"
     ],
     [
-      "Kyon Jag Ke Pare Ho Janjaal Men, Kuchh Chalte N Tere Naal Men.",
+      "Kyon Jag Ke Pare Ho Janjaal Men, Kuchh Chalte Na Tere Naal Men.",
       "Yah Jhuthaa Hai Jahaan, Sachchaa Prabhu Pahichaan || 2 ||"
     ],
     [
       "Sadaa Saadh Sangti Men Jaayke, Kahe Teun Baitho Chitt Laayke.",
-      "Taje Tan Abhimaan, Karo Hari Gun Gaan ||.3 ||"
+      "Taje Tan Abhimaan, Karo Hari Gun Gaan || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    ". ||. Raag Aasaa Bhajan || 18 || 80 ||",
-    "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan",
-    "जे चाहो कलयान, धरो हरि का ध्यान"
+    "जे चाहो कल्यान, धरो हरी का ध्यान,",
+    "Je Chaaho Kalyaan, Dharo Hari Kaa Dhyaan,",
+    "राग आसा भजन 18",
+    "Raag Aasaa Bhajan 18"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 80,
+  "displayOrder": 18,
+  "overallOrder": 80,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 66",
+  "updatedAt": "2026-10-26"
 }

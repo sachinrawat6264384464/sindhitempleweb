@@ -2,66 +2,106 @@
   "id": "bhajan-0366",
   "slug": "phakiri-hai-kathin-karni-khande-ki-dhaar-par-chalnaa",
   "categoryId": "raag-tilang",
-  "title": "फकिरि है कथिन करनि, खनदे कि धार पर चलना",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "फकीरी है कठिन करनी, खण्डे की धार पर चलना",
   "romanTitle": "Phakiri Hai Kathin Karni, Khande Ki Dhaar Par Chalnaa",
-  "firstLine": "Phakiri Hai Kathin Karni, Khande Ki Dhaar Par Chalnaa. Pakaani Shikh Maakhan Ki, Birah Ki Aag Men Jalnaa (Tek).",
+  "firstLine": "Phakiri Hai Kathin Karni, Khande Ki Dhaar Par Chalnaa.",
+  "heading": "।। राग तिलंग भजन ॥। ३ ।। ३६७।।",
+  "tek": [
+    "फकीरी है कठिन करनी, खण्डे की धार पर चलना ।",
+    "पकानी शीख माखन की , बिरह की आग में जलना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Phakiri Hai Kathin Karni, Khande Ki Dhaar Par Chalnaa.",
+    "Pakaani Shikh Maakhan Ki, Birah Ki Aag Men Jalnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नहीं है काम कायर का, करेगा सूरमा कोई ।",
+        "हटाना पांच दैत्यों को, ममत मद मान को मलना ॥१ ॥",
+        "स्वर्ग लौं भोग जे सारे, तिनों की आस है तजनी ।",
+        "परम बैराग्य को धारे, मिटानी काम की कलना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nahin Hai Kaam Kaayar Kaa, Karegaa Surmaa Koi.",
+        "Hataanaa Paanch Daityon Ko, Mamat Mad Maan Ko Malnaa || 1 ||",
+        "Svarg Laun Bhog Je Saare, Tinon Ki Aas Hai Tajni.",
+        "Param Bairaagy Ko Dhaare, Mitaani Kaam Ki Kalnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जगत से तोड़के नाता, निभानी प्रीति प्रभू से ।",
+        "धरे गुरुदेव में नृती, शब्द में सुरति को रलना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jagat Se Torke Naataa, Nibhaani Priti Prabhu Se.",
+        "Dhare Gurudev Men Nriti, Shabd Men Surti Ko Ralnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सजन मेरे, फकीरी को अगर चाहो ।",
+        "कदम आगे उठा करके, पिछे नहिं पांव को वलना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sajan Mere, Phakiri Ko Agar Chaaho.",
+        "Kadam Aage Uthaa Karke, Pichhe Nahin Paanv Ko Valnaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "फकिरि है कथिन करनि, खनदे कि धार पर चलना.",
-      "पकानि शिख माखन कि, बिरह कि ाग मेन जलना (टेक)."
+      "नहीं है काम कायर का, करेगा सूरमा कोई ।",
+      "हटाना पांच दैत्यों को, ममत मद मान को मलना ॥१ ॥",
+      "स्वर्ग लौं भोग जे सारे, तिनों की आस है तजनी ।",
+      "परम बैराग्य को धारे, मिटानी काम की कलना ॥२ ॥"
     ],
     [
-      "नहिन है काम कायर का, करेगा सुरमा कोि.",
-      "हताना पानच दैतयोन को, ममत मद मान को मलना || ₹ ||."
+      "जगत से तोड़के नाता, निभानी प्रीति प्रभू से ।",
+      "धरे गुरुदेव में नृती, शब्द में सुरति को रलना ॥३ ॥"
     ],
     [
-      "सवरग लौन भोग जे सारे, तिनोन कि ास है तजनि.",
-      "परम बैरागय को धारे, मितानि काम कि कलना || 2 ||"
-    ],
-    [
-      "जगत से तोरके नाता, निभानि परिति प्रभु से.",
-      "धरे गुरुदेव मेन नरिति, शबद मेन सुरति को रलना ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ सजन मेरे, फकिरि को गर चाहो.",
-      "कदम ागे ुथा करके, पिचहे नहिन पानव को वलना ||.4 ||"
+      "कहे टेऊँ सजन मेरे, फकीरी को अगर चाहो ।",
+      "कदम आगे उठा करके, पिछे नहिं पांव को वलना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Phakiri Hai Kathin Karni, Khande Ki Dhaar Par Chalnaa.",
-      "Pakaani Shikh Maakhan Ki, Birah Ki Aag Men Jalnaa (Tek)."
-    ],
-    [
       "Nahin Hai Kaam Kaayar Kaa, Karegaa Surmaa Koi.",
-      "Hataanaa Paanch Daityon Ko, Mamat Mad Maan Ko Malnaa || ₹ ||."
-    ],
-    [
+      "Hataanaa Paanch Daityon Ko, Mamat Mad Maan Ko Malnaa || 1 ||",
       "Svarg Laun Bhog Je Saare, Tinon Ki Aas Hai Tajni.",
       "Param Bairaagy Ko Dhaare, Mitaani Kaam Ki Kalnaa || 2 ||"
     ],
     [
       "Jagat Se Torke Naataa, Nibhaani Priti Prabhu Se.",
-      "Dhare Gurudev Men Nriti, Shabd Men Surti Ko Ralnaa ||.3. ||."
+      "Dhare Gurudev Men Nriti, Shabd Men Surti Ko Ralnaa || 3 ||"
     ],
     [
       "Kahe Teun Sajan Mere, Phakiri Ko Agar Chaaho.",
-      "Kadam Aage Uthaa Karke, Pichhe Nahin Paanv Ko Valnaa ||.4 ||"
+      "Kadam Aage Uthaa Karke, Pichhe Nahin Paanv Ko Valnaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan ||. 3 || 367 ||",
+    "फकीरी है कठिन करनी, खण्डे की धार पर चलना",
     "Phakiri Hai Kathin Karni, Khande Ki Dhaar Par Chalnaa",
-    "फकिरि है कथिन करनि, खनदे कि धार पर चलना"
+    "राग तिलंग भजन 3",
+    "Raag Tilang Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 366,
+  "displayOrder": 3,
+  "overallOrder": 366,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 217",
+  "updatedAt": "2026-10-26"
 }

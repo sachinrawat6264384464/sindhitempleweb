@@ -1,73 +1,111 @@
 {
-  "id": "bhajan-0802",
+  "id": "bhajan-0800",
   "slug": "man-gaavo-hari-ke-gun-gaavo",
   "categoryId": "raag-pilaa",
-  "title": "मन गावो हरि के गुन गावो",
-  "romanTitle": "Man Gaavo Hari Ke Gun Gaavo",
-  "firstLine": "Man Gaavo Hari Ke Gun Gaavo, Yah Jivan Saphal Banaao (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मन गावो हरी के गुन गावो ,",
+  "romanTitle": "Man Gaavo Hari Ke Gun Gaavo,",
+  "firstLine": "Man Gaavo Hari Ke Gun Gaavo,",
+  "heading": "।। राग पीला भजन ।। ८० ।। ८०२ ॥।",
+  "tek": [
+    "मन गावो हरी के गुन गावो ,",
+    "यह जीवन सफल बनाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Gaavo Hari Ke Gun Gaavo,",
+    "Yah Jivan Saphal Banaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो हरि के गुन नित गावे, सो भव सिन्धु से तर जावे,",
+        "यह वेद पुरान बतावे ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Hari Ke Gun Nit Gaave, So Bhav Sindhu Se Tar Jaave,",
+        "Yah Ved Puraan Bataave || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "न्त",
+        "जो हरि का नाम भुलावे, सो वृथा जनम गंवावे,",
+        "फिर अन्त समय पछतावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nt",
+        "Jo Hari Kaa Naam Bhulaave, So Vrithaa Janam Ganvaave,",
+        "Phir Ant Samay Pachhtaave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "है कलूकाल यह भारी, नहिं और करे रखवारी ,",
+        "हरी नाम है पाप निवारी ॥ डे ॥",
+        "जब जम के दूत सतावे, तब हरि का नाम छुड़ावे,",
+        "कहे टेऊँ प्रभू अपनावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Hai Kalukaal Yah Bhaari, Nahin Aur Kare Rakhvaari,",
+        "Hari Naam Hai Paap Nivaari || De ||",
+        "Jab Jam Ke Dut Sataave, Tab Hari Kaa Naam Chhuraave,",
+        "Kahe Teun Prabhu Apnaave || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन गावो हरि के गुन गावो,",
-      "यह जिवन सफल बनाो (टेक)."
+      "जो हरि के गुन नित गावे, सो भव सिन्धु से तर जावे,",
+      "यह वेद पुरान बतावे ॥8 ॥१ ॥"
     ],
     [
-      "जो हरि के गुन नित गावे, सो भव सिनधु से तर जावे,",
-      "यह वेद पुरान बतावे || 8$ ||"
+      "न्त",
+      "जो हरि का नाम भुलावे, सो वृथा जनम गंवावे,",
+      "फिर अन्त समय पछतावे ॥२ ॥"
     ],
     [
-      "नत",
-      "जो हरि का नाम भुलावे, सो वरिथा जनम गनवावे,"
-    ],
-    [
-      "फिर नत समय पचहतावे || 2 ||"
-    ],
-    [
-      "है कलुकाल यह भारि, नहिन ौर करे रखवारि,",
-      "हरि नाम है पाप निवारि || दे ||"
-    ],
-    [
-      "जब जम के दुत सतावे, तब हरि का नाम चहुरावे,",
-      "कहे तेऊँ प्रभु पनावे || 4 ||"
+      "है कलूकाल यह भारी, नहिं और करे रखवारी ,",
+      "हरी नाम है पाप निवारी ॥ डे ॥",
+      "जब जम के दूत सतावे, तब हरि का नाम छुड़ावे,",
+      "कहे टेऊँ प्रभू अपनावे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Gaavo Hari Ke Gun Gaavo,",
-      "Yah Jivan Saphal Banaao (Tek)."
-    ],
-    [
       "Jo Hari Ke Gun Nit Gaave, So Bhav Sindhu Se Tar Jaave,",
-      "Yah Ved Puraan Bataave || 8$ ||"
+      "Yah Ved Puraan Bataave || 8 || 1 ||"
     ],
     [
       "Nt",
-      "Jo Hari Kaa Naam Bhulaave, So Vrithaa Janam Ganvaave,"
-    ],
-    [
+      "Jo Hari Kaa Naam Bhulaave, So Vrithaa Janam Ganvaave,",
       "Phir Ant Samay Pachhtaave || 2 ||"
     ],
     [
       "Hai Kalukaal Yah Bhaari, Nahin Aur Kare Rakhvaari,",
-      "Hari Naam Hai Paap Nivaari || De ||"
-    ],
-    [
+      "Hari Naam Hai Paap Nivaari || De ||",
       "Jab Jam Ke Dut Sataave, Tab Hari Kaa Naam Chhuraave,",
       "Kahe Teun Prabhu Apnaave || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 80 || 802 ||.",
-    "Man Gaavo Hari Ke Gun Gaavo",
-    "मन गावो हरि के गुन गावो"
+    "मन गावो हरी के गुन गावो ,",
+    "Man Gaavo Hari Ke Gun Gaavo,",
+    "राग पीला भजन 79",
+    "Raag Pilaa Bhajan 79"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 802,
+  "displayOrder": 79,
+  "overallOrder": 800,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 424",
+  "updatedAt": "2026-10-26"
 }

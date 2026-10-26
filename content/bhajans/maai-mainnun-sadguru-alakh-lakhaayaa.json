@@ -1,31 +1,74 @@
 {
-  "id": "bhajan-0613",
+  "id": "bhajan-0611",
   "slug": "maai-mainnun-sadguru-alakh-lakhaayaa",
   "categoryId": "raag-kalyaan",
-  "title": "माि मैननुन सद्गुरु लख लखाया",
-  "romanTitle": "Maai Mainnun Sadguru Alakh Lakhaayaa",
-  "firstLine": "Maai Mainnun Sadguru Alakh Lakhaayaa, Saat Dip Nav Khandon Maahin Ek Brahm Darsaayaa (Tek).",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "माई मैंनूं सद्गुरु अलख लखाया,",
+  "romanTitle": "Maai Mainnun Sadguru Alakh Lakhaayaa,",
+  "firstLine": "Maai Mainnun Sadguru Alakh Lakhaayaa,",
+  "heading": "।। राग कल्याण भजन ।। ५ ।। ६१२।॥।",
+  "tek": [
+    "माई मैंनूं सद्गुरु अलख लखाया,",
+    "सात दीप नव खण्डों माहीं एक ब्रह्म दरसाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maai Mainnun Sadguru Alakh Lakhaayaa,",
+    "Saat Dip Nav Khandon Maahin Ek Brahm Darsaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अस्ति भाति प्रिय निज स्वरूपा, नाम रूप में पाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Asti Bhaati Priy Nij Svarupaa, Naam Rup Men Paayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अमर अनादी अज अबिनासी, जहां धूप नहिं छाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Amar Anaadi Aj Abinaasi, Jahaan Dhup Nahin Chhaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ गुरु प्रसादे, सहजे ताहिं समाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Guru Prasaade, Sahje Taahin Samaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द्त्य"
+      ],
+      "romanLines": [
+        "Dty"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "माि मैननुन सद्गुरु लख लखाया,",
-      "सात दिप नव खनदोन माहिन ेक बरहम दरसाया (टेक)."
+      "अस्ति भाति प्रिय निज स्वरूपा, नाम रूप में पाया ॥१ ॥"
     ],
     [
-      "सति भाति परिय निज सवरुपा, नाम रुप मेन पाया || 1 ||"
+      "अमर अनादी अज अबिनासी, जहां धूप नहिं छाया ॥२ ॥"
     ],
     [
-      "मर नादि ज बिनासि, जहान धुप नहिन चहाया || 2 ||"
+      "कहता टेऊँ गुरु प्रसादे, सहजे ताहिं समाया ॥३ ॥"
     ],
     [
-      "कहता तेऊँ गुरु परसादे, सहजे ताहिन समाया ||.3 ||.",
-      "दतय"
+      "द्त्य"
     ]
   ],
   "romanLyrics": [
-    [
-      "Maai Mainnun Sadguru Alakh Lakhaayaa,",
-      "Saat Dip Nav Khandon Maahin Ek Brahm Darsaayaa (Tek)."
-    ],
     [
       "Asti Bhaati Priy Nij Svarupaa, Naam Rup Men Paayaa || 1 ||"
     ],
@@ -33,24 +76,27 @@
       "Amar Anaadi Aj Abinaasi, Jahaan Dhup Nahin Chhaayaa || 2 ||"
     ],
     [
-      "Kahtaa Teun Guru Prasaade, Sahje Taahin Samaayaa ||.3 ||.",
+      "Kahtaa Teun Guru Prasaade, Sahje Taahin Samaayaa || 3 ||"
+    ],
+    [
       "Dty"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 5 || 612. ||.",
-    "Maai Mainnun Sadguru Alakh Lakhaayaa",
-    "माि मैननुन सद्गुरु लख लखाया"
+    "माई मैंनूं सद्गुरु अलख लखाया,",
+    "Maai Mainnun Sadguru Alakh Lakhaayaa,",
+    "राग कल्याण भजन 5",
+    "Raag Kalyaan Bhajan 5"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 613,
+  "displayOrder": 5,
+  "overallOrder": 611,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 328",
+  "updatedAt": "2026-10-26"
 }

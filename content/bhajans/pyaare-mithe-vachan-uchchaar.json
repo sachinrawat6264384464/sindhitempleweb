@@ -1,44 +1,104 @@
 {
-  "id": "bhajan-0458",
+  "id": "bhajan-0457",
   "slug": "pyaare-mithe-vachan-uchchaar",
   "categoryId": "raag-tilang",
-  "title": "पयारे मिथे वचन ुचचार",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "प्यारे मीठे वचन उच्चार",
   "romanTitle": "Pyaare Mithe Vachan Uchchaar",
-  "firstLine": "Pyaare Mithe Vachan Uchchaar. Vachan Uchchaaro Pichhe Mukh Se, Pahle Man Vichaar (Tek).",
+  "firstLine": "Pyaare Mithe Vachan Uchchaar.",
+  "heading": "।। राग तिलंग भजन ।। ९४ ।। ४५८ ॥।",
+  "tek": [
+    "प्यारे मीठे वचन उच्चार ।",
+    "वचन उच्चारो पीछे मुख से, पहले मन वीचार ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Pyaare Mithe Vachan Uchchaar.",
+    "Vachan Uchchaaro Pichhe Mukh Se, Pahle Man Vichaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दिल का दर्पन है यह बानी, दिल की सारी कहत कहानी ।",
+        "मनुषपने की परख पड़त है, बोलन के अनुसार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dil Kaa Darpan Hai Yah Baani, Dil Ki Saari Kahat Kahaani.",
+        "Manushpane Ki Parakh Parat Hai, Bolan Ke Anusaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जो नहिं बोलत वचन सम्भारे, सो जन सहता कष्ट अपारे ।",
+        "द्रोपदा के बोलन से ज्यों, बढ़ गई बहुती रार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jo Nahin Bolat Vachan Sambhaare, So Jan Sahtaa Kasht Apaare.",
+        "Dropdaa Ke Bolan Se Jyon, Barh Gai Bahuti Raar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "घाव खड्जर का मिट सकता है, मगर वचन का नहिं मिट॒ता है ।",
+        "शेर कथा को स्मरण करके, बोलो वचन सम्भार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ghaav Khadjar Kaa Mit Saktaa Hai, Magar Vachan Kaa Nahin Mittaa Hai.",
+        "Sher Kathaa Ko Smaran Karke, Bolo Vachan Sambhaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अमृत जैसी कहिये वाणी, जांसे प्रसन्न हों सब प्राणी ।",
+        "प्रिय बचन कह सब से जोड़ो, नाता जगत मंजझार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Amrit Jaisi Kahiye Vaani, Jaanse Prasann Hon Sab Praani.",
+        "Priy Bachan Kah Sab Se Joro, Naataa Jagat Manjjhaar || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "सन्तों की ज्यों निर्मल बानी, सब सुख परमार्थ की दानी ।",
+        "कहे टेऊँ त्यों बाणी बोले, अपना जन्म सुधार ॥५ ॥"
+      ],
+      "romanLines": [
+        "Santon Ki Jyon Nirmal Baani, Sab Sukh Parmaarth Ki Daani.",
+        "Kahe Teun Tyon Baani Bole, Apnaa Janm Sudhaar || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पयारे मिथे वचन ुचचार.",
-      "वचन ुचचारो पिचहे मुख से, पहले मन विचार (टेक)."
+      "दिल का दर्पन है यह बानी, दिल की सारी कहत कहानी ।",
+      "मनुषपने की परख पड़त है, बोलन के अनुसार ॥१ ॥"
     ],
     [
-      "दिल का दरपन है यह बानी, दिल कि सारि कहत कहानि.",
-      "मनुशपने कि परख परत है, बोलन के नुसार || 1 ||."
+      "जो नहिं बोलत वचन सम्भारे, सो जन सहता कष्ट अपारे ।",
+      "द्रोपदा के बोलन से ज्यों, बढ़ गई बहुती रार ॥२ ॥"
     ],
     [
-      "जो नहिन बोलत वचन समभारे, सो जन सहता कशत पारे.",
-      "दरोपदा के बोलन से जयोन, बरह गै बहुति रार || 2 ||"
+      "घाव खड्जर का मिट सकता है, मगर वचन का नहिं मिट॒ता है ।",
+      "शेर कथा को स्मरण करके, बोलो वचन सम्भार ॥३ ॥"
     ],
     [
-      "घाव खदजर का मित सकता है, मगर वचन का नहिन मितता है.",
-      "शेर कथा को समरन करके, बोलो वचन समभार || 3े ||"
+      "अमृत जैसी कहिये वाणी, जांसे प्रसन्न हों सब प्राणी ।",
+      "प्रिय बचन कह सब से जोड़ो, नाता जगत मंजझार ॥४ ॥"
     ],
     [
-      "अमृत जैसि कहिये वाणी, जानसे परसनन होन सब परानि.",
-      "परिय बचन कह सब से जोरो, नाता जगत मनजझार || 4 ||"
-    ],
-    [
-      "सनतोन कि जयोन निर्मल बानी, सब सुख परमारथ कि दानि.",
-      "कहे तेऊँ तयोन बानी बोले, पना जनम सुधार || 5. ||."
+      "सन्तों की ज्यों निर्मल बानी, सब सुख परमार्थ की दानी ।",
+      "कहे टेऊँ त्यों बाणी बोले, अपना जन्म सुधार ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Pyaare Mithe Vachan Uchchaar.",
-      "Vachan Uchchaaro Pichhe Mukh Se, Pahle Man Vichaar (Tek)."
-    ],
-    [
       "Dil Kaa Darpan Hai Yah Baani, Dil Ki Saari Kahat Kahaani.",
-      "Manushpane Ki Parakh Parat Hai, Bolan Ke Anusaar || 1 ||."
+      "Manushpane Ki Parakh Parat Hai, Bolan Ke Anusaar || 1 ||"
     ],
     [
       "Jo Nahin Bolat Vachan Sambhaare, So Jan Sahtaa Kasht Apaare.",
@@ -46,7 +106,7 @@
     ],
     [
       "Ghaav Khadjar Kaa Mit Saktaa Hai, Magar Vachan Kaa Nahin Mittaa Hai.",
-      "Sher Kathaa Ko Smaran Karke, Bolo Vachan Sambhaar || 3E ||"
+      "Sher Kathaa Ko Smaran Karke, Bolo Vachan Sambhaar || 3 ||"
     ],
     [
       "Amrit Jaisi Kahiye Vaani, Jaanse Prasann Hon Sab Praani.",
@@ -54,22 +114,24 @@
     ],
     [
       "Santon Ki Jyon Nirmal Baani, Sab Sukh Parmaarth Ki Daani.",
-      "Kahe Teun Tyon Baani Bole, Apnaa Janm Sudhaar || 5. ||."
+      "Kahe Teun Tyon Baani Bole, Apnaa Janm Sudhaar || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 94 || 458 ||.",
+    "प्यारे मीठे वचन उच्चार",
     "Pyaare Mithe Vachan Uchchaar",
-    "पयारे मिथे वचन ुचचार"
+    "राग तिलंग भजन 94",
+    "Raag Tilang Bhajan 94"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 458,
+  "displayOrder": 94,
+  "overallOrder": 457,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 257",
+  "updatedAt": "2026-10-26"
 }

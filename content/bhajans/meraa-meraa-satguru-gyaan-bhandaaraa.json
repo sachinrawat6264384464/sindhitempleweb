@@ -1,0 +1,107 @@
+{
+  "id": "bhajan-0804",
+  "slug": "meraa-meraa-satguru-gyaan-bhandaaraa",
+  "categoryId": "raag-pilaa",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मेरा मेरा सत्‌गुरु ज्ञान भण्डारा,",
+  "romanTitle": "Meraa Meraa Sat‌Guru Gyaan Bhandaaraa,",
+  "firstLine": "Meraa Meraa Sat‌Guru Gyaan Bhandaaraa,",
+  "heading": "।। राग पीला भजन ॥।। ८४ ।। ८०६।॥।",
+  "tek": [
+    "मेरा मेरा सत्‌गुरु ज्ञान भण्डारा,",
+    "ज्ञान भण्डारा है परम उदारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meraa Meraa Sat‌Guru Gyaan Bhandaaraa,",
+    "Gyaan Bhandaaraa Hai Param Udaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पांच रीति से गुरु गोपाला, अपने शिष्य की करत संभाला,",
+        "बादल सम कर पर उपकारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanch Riti Se Guru Gopaalaa, Apne Shishy Ki Karat Sambhaalaa,",
+        "Baadal Sam Kar Par Upkaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पांच भांति के साधन जोड़े, तारत शिष्य को गुरु ना छोड़े,",
+        "लोक उभय का परम सहारा रे ॥? ॥",
+        "पांच भूतों में गुण है जोई, गुरु पूरे में गुण है सोई,",
+        "सूर्य सम तम कर परिहारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Bhaanti Ke Saadhan Jore, Taarat Shishy Ko Guru Naa Chhore,",
+        "Lok Ubhay Kaa Param Sahaaraa Re || ? ||",
+        "Paanch Bhuton Men Gun Hai Joi, Guru Pure Men Gun Hai Soi,",
+        "Sury Sam Tam Kar Parihaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच तरह गुरु रंग लगावे, कहे टेऊँ सत्‌ शब्द सुनावे,",
+        "महिमा गुरु की अपर अपारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paanch Tarah Guru Rang Lagaave, Kahe Teun Sat‌ Shabd Sunaave,",
+        "Mahimaa Guru Ki Apar Apaaraa Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "पांच रीति से गुरु गोपाला, अपने शिष्य की करत संभाला,",
+      "बादल सम कर पर उपकारा रे ॥१ ॥"
+    ],
+    [
+      "पांच भांति के साधन जोड़े, तारत शिष्य को गुरु ना छोड़े,",
+      "लोक उभय का परम सहारा रे ॥? ॥",
+      "पांच भूतों में गुण है जोई, गुरु पूरे में गुण है सोई,",
+      "सूर्य सम तम कर परिहारा रे ॥३ ॥"
+    ],
+    [
+      "पांच तरह गुरु रंग लगावे, कहे टेऊँ सत्‌ शब्द सुनावे,",
+      "महिमा गुरु की अपर अपारा रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Paanch Riti Se Guru Gopaalaa, Apne Shishy Ki Karat Sambhaalaa,",
+      "Baadal Sam Kar Par Upkaaraa Re || 1 ||"
+    ],
+    [
+      "Paanch Bhaanti Ke Saadhan Jore, Taarat Shishy Ko Guru Naa Chhore,",
+      "Lok Ubhay Kaa Param Sahaaraa Re || ? ||",
+      "Paanch Bhuton Men Gun Hai Joi, Guru Pure Men Gun Hai Soi,",
+      "Sury Sam Tam Kar Parihaaraa Re || 3 ||"
+    ],
+    [
+      "Paanch Tarah Guru Rang Lagaave, Kahe Teun Sat‌ Shabd Sunaave,",
+      "Mahimaa Guru Ki Apar Apaaraa Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मेरा मेरा सत्‌गुरु ज्ञान भण्डारा,",
+    "Meraa Meraa Sat‌Guru Gyaan Bhandaaraa,",
+    "राग पीला भजन 83",
+    "Raag Pilaa Bhajan 83"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
+  ],
+  "displayOrder": 83,
+  "overallOrder": 804,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 427",
+  "updatedAt": "2026-10-26"
+}

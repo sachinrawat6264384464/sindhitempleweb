@@ -2,70 +2,115 @@
   "id": "bhajan-0187",
   "slug": "raam-sumar-sukh-mul-mere-man-raam-sumar-sukh-mul",
   "categoryId": "raag-dhanaashri",
-  "title": "राम सुमर सुख मुल मेरे मन, राम सुमर सुख मुल",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "राम सुमर सुख मूल मेरे मन, राम सुमर सुख मूल",
   "romanTitle": "Raam Sumar Sukh Mul Mere Man, Raam Sumar Sukh Mul",
   "firstLine": "Raam Sumar Sukh Mul Mere Man, Raam Sumar Sukh Mul (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। ७ ।। १८७।।",
+  "tek": [
+    "राम सुमर सुख मूल मेरे मन, राम सुमर सुख मूल ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Sumar Sukh Mul Mere Man, Raam Sumar Sukh Mul (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस प्रभू ने नर तन दीना, तिस प्रभू का नाम न लीना ।",
+        "भारी कीनी भूल मेरे मन ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Prabhu Ne Nar Tan Dinaa, Tis Prabhu Kaa Naam Na Linaa.",
+        "Bhaari Kini Bhul Mere Man || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "झूठी काया झूठी माया, तांसे तुम क्यों नेह लगाया ।",
+        "अन्त सहेंगे शूल मेरे मन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jhuthi Kaayaa Jhuthi Maayaa, Taanse Tum Kyon Neh Lagaayaa.",
+        "Ant Sahenge Shul Mere Man || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जो हरि तेरा अन्त सहाई, प्रीति उसी से ना तुम पाई ।",
+        "रहे विषय रस फूल मेरे मन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jo Hari Teraa Ant Sahaai, Priti Usi Se Naa Tum Paai.",
+        "Rahe Vishay Ras Phul Mere Man || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जे सुख को चाहो, हरदम राम नाम गुण गाओ ।",
+        "प्रेम हिण्डोले झूल मेरे मन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Sukh Ko Chaaho, Hardam Raam Naam Gun Gaao.",
+        "Prem Hindole Jhul Mere Man || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम सुमर सुख मुल मेरे मन, राम सुमर सुख मुल (टेक)."
+      "जिस प्रभू ने नर तन दीना, तिस प्रभू का नाम न लीना ।",
+      "भारी कीनी भूल मेरे मन ॥१ ॥"
     ],
     [
-      "जिस प्रभु ने नर तन दिना, तिस प्रभु का नाम न लिना.",
-      "भारि किनि भुल मेरे मन || 1 ||"
+      "झूठी काया झूठी माया, तांसे तुम क्यों नेह लगाया ।",
+      "अन्त सहेंगे शूल मेरे मन ॥२ ॥"
     ],
     [
-      "झुथि काया झुथि माया, तानसे तुम कयोन नेह लगाया.",
-      "नत सहेनगे शुल मेरे मन || 2 ||."
+      "जो हरि तेरा अन्त सहाई, प्रीति उसी से ना तुम पाई ।",
+      "रहे विषय रस फूल मेरे मन ॥३ ॥"
     ],
     [
-      "जो हरि तेरा नत सहाि, परिति ुसि से ना तुम पाि.",
-      "रहे विशय रस फुल मेरे मन ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ जे सुख को चाहो, हरदम राम नाम गुन गाो.",
-      "प्रेम हिनदोले झुल मेरे मन ||.4. ||."
-    ],
-    [
-      "हा"
+      "कहे टेऊँ जे सुख को चाहो, हरदम राम नाम गुण गाओ ।",
+      "प्रेम हिण्डोले झूल मेरे मन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Sumar Sukh Mul Mere Man, Raam Sumar Sukh Mul (Tek)."
-    ],
-    [
-      "Jis Prabhu Ne Nar Tan Dinaa, Tis Prabhu Kaa Naam N Linaa.",
+      "Jis Prabhu Ne Nar Tan Dinaa, Tis Prabhu Kaa Naam Na Linaa.",
       "Bhaari Kini Bhul Mere Man || 1 ||"
     ],
     [
       "Jhuthi Kaayaa Jhuthi Maayaa, Taanse Tum Kyon Neh Lagaayaa.",
-      "Ant Sahenge Shul Mere Man || 2 ||."
+      "Ant Sahenge Shul Mere Man || 2 ||"
     ],
     [
       "Jo Hari Teraa Ant Sahaai, Priti Usi Se Naa Tum Paai.",
-      "Rahe Vishay Ras Phul Mere Man ||.3 ||"
+      "Rahe Vishay Ras Phul Mere Man || 3 ||"
     ],
     [
       "Kahe Teun Je Sukh Ko Chaaho, Hardam Raam Naam Gun Gaao.",
-      "Prem Hindole Jhul Mere Man ||.4. ||."
-    ],
-    [
-      "Haa"
+      "Prem Hindole Jhul Mere Man || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 7 || 187 ||",
+    "राम सुमर सुख मूल मेरे मन, राम सुमर सुख मूल",
     "Raam Sumar Sukh Mul Mere Man, Raam Sumar Sukh Mul",
-    "राम सुमर सुख मुल मेरे मन, राम सुमर सुख मुल"
+    "राग धनाश्री भजन 7",
+    "Raag Dhanaashri Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 187,
+  "displayOrder": 7,
+  "overallOrder": 187,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 122",
+  "updatedAt": "2026-10-26"
 }

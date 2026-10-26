@@ -2,37 +2,86 @@
   "id": "bhajan-0013",
   "slug": "pratyaksh-hai-parmeshvar-poshak-prabhu-paaragraami-ji",
   "categoryId": "raag-raamkali",
-  "title": "परतयकश है परमेशवर पोशक प्रभु पारगरामि जी",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "प्रत्यक्ष है परमेश्वर पोषक प्रभू पारग्रामी जी",
   "romanTitle": "Pratyaksh Hai Parmeshvar Poshak Prabhu Paaragraami Ji",
   "firstLine": "Pratyaksh Hai Parmeshvar Poshak Prabhu Paaragraami Ji (Tek).",
+  "heading": "।। राग रामकली भजन ।। १ ।। १३।।",
+  "tek": [
+    "प्रत्यक्ष है परमेश्वर पोषक प्रभू पारग्रामी जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pratyaksh Hai Parmeshvar Poshak Prabhu Paaragraami Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सम्पति सागर सर्व स्वरूपा सर्व समाना स्वामी जी ।",
+        "सर्व स्नेही समर्थ साहिब साक्षी सब सुख धामी जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sampati Saagar Sarv Svarupaa Sarv Samaanaa Svaami Ji.",
+        "Sarv Snehi Samarth Saahib Saakshi Sab Sukh Dhaami Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाम निरंजन नर नारायण निरहंकार निष्कामी जी ।",
+        "नटवर नागर नाथ निसंगा निरालम्ब निरआमी जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naam Niranjan Nar Naaraayan Nirhankaar Nishkaami Ji.",
+        "Natvar Naagar Naath Nisangaa Niraalamb Niraami Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अचल अच्छेदा अटल अभेदा आत्म अन्तर्यामी जी ।",
+        "अमर अनादी अजर अजाती अगम अगाध अनामी जी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Achal Achchhedaa Atal Abhedaa Aatm Antaryaami Ji.",
+        "Amar Anaadi Ajar Ajaati Agam Agaadh Anaami Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पाख्रह्म परमात्म पावन प्रेरक पूर्णकामी जी ।",
+        "कहे टेऊँ स्मरण पूजन कर करहूं ताहिं नमामी जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paakhrahm Parmaatm Paavan Prerak Purnakaami Ji.",
+        "Kahe Teun Smaran Pujan Kar Karhun Taahin Namaami Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परतयकश है परमेशवर पोशक प्रभु पारगरामि जी (टेक)."
+      "सम्पति सागर सर्व स्वरूपा सर्व समाना स्वामी जी ।",
+      "सर्व स्नेही समर्थ साहिब साक्षी सब सुख धामी जी ॥१ ॥"
     ],
     [
-      "समपति सागर सर्व सवरुपा सर्व समाना स्वामी जी.",
-      "सर्व सनेहि समरथ साहिब साक्षी सब सुख धामि जी.1 ||."
+      "नाम निरंजन नर नारायण निरहंकार निष्कामी जी ।",
+      "नटवर नागर नाथ निसंगा निरालम्ब निरआमी जी ॥२ ॥"
     ],
     [
-      "नाम निरनजन नर नारायन निरहनकार निशकामि जी.",
-      "नतवर नागर नाथ निसनगा निरालमब निरामि जी || 2 ||"
+      "अचल अच्छेदा अटल अभेदा आत्म अन्तर्यामी जी ।",
+      "अमर अनादी अजर अजाती अगम अगाध अनामी जी ॥ ३े ॥"
     ],
     [
-      "चल चचहेदा तल भेदा ातम नतरयामि जी.",
-      "मर नादि जर जाति गम गाध नामि जी || 3े ||"
-    ],
-    [
-      "पाखरहम परमातम पावन परेरक पुरनकामि जी.",
-      "कहे तेऊँ समरन पुजन कर करहुन ताहिन नमामि जी || 4 ||"
+      "पाख्रह्म परमात्म पावन प्रेरक पूर्णकामी जी ।",
+      "कहे टेऊँ स्मरण पूजन कर करहूं ताहिं नमामी जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Pratyaksh Hai Parmeshvar Poshak Prabhu Paaragraami Ji (Tek)."
-    ],
-    [
       "Sampati Saagar Sarv Svarupaa Sarv Samaanaa Svaami Ji.",
-      "Sarv Snehi Samarth Saahib Saakshi Sab Sukh Dhaami Ji.1 ||."
+      "Sarv Snehi Samarth Saahib Saakshi Sab Sukh Dhaami Ji || 1 ||"
     ],
     [
       "Naam Niranjan Nar Naaraayan Nirhankaar Nishkaami Ji.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Raamkali Bhajan || 1 || 13 ||",
+    "प्रत्यक्ष है परमेश्वर पोषक प्रभू पारग्रामी जी",
     "Pratyaksh Hai Parmeshvar Poshak Prabhu Paaragraami Ji",
-    "परतयकश है परमेशवर पोशक प्रभु पारगरामि जी"
+    "राग रामकली भजन 1",
+    "Raag Raamkali Bhajan 1"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "raamkali",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
     "bhajan"
   ],
-  "displayOrder": 13,
+  "displayOrder": 1,
+  "overallOrder": 13,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 32",
+  "updatedAt": "2026-10-26"
 }

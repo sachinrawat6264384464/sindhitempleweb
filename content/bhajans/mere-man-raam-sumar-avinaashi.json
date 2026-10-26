@@ -1,39 +1,86 @@
 {
-  "id": "bhajan-0466",
+  "id": "bhajan-0465",
   "slug": "mere-man-raam-sumar-avinaashi",
   "categoryId": "raag-huseni",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
   "title": "मेरे मन राम सुमर अविनाशी",
   "romanTitle": "Mere Man Raam Sumar Avinaashi",
-  "firstLine": "Mere Man Raam Sumar Avinaashi. Jaanke Sumrat Sab Dukh Naashe Tute Yam Ki Phaasi (Tek).",
+  "firstLine": "Mere Man Raam Sumar Avinaashi.",
+  "heading": "।। राग हुसेनी भजन ।। ४ ।। ४६६।।",
+  "tek": [
+    "मेरे मन राम सुमर अविनाशी ।",
+    "जांके सुमरत सब दुख नाशे टूटे यम की फासी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Raam Sumar Avinaashi.",
+    "Jaanke Sumrat Sab Dukh Naashe Tute Yam Ki Phaasi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम को संतनि सुमरे पाई आनन्द राशी ।",
+        "जन्म मरन का फेरा मेटे अमर देश भये वासी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ko Santni Sumre Paai Aanand Raashi.",
+        "Janm Maran Kaa Pheraa Mete Amar Desh Bhaye Vaasi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम का सुमरण कर बहु जग ते भये उदासी ।",
+        "गोपीचन्द भरथरी पीपा बन गये बन के वासी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Kaa Sumran Kar Bahu Jag Te Bhaye Udaasi.",
+        "Gopichand Bharthari Pipaa Ban Gaye Ban Ke Vaasi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम के सुमरन से ही पाप पुज्ज हो नाशी ।",
+        "कहे टेऊँ हरि के सुमरण बिन यमपुर होवे हासी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ke Sumran Se Hi Paap Pujj Ho Naashi.",
+        "Kahe Teun Hari Ke Sumran Bin Yampur Hove Haasi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "त्ठ"
+      ],
+      "romanLines": [
+        "Tth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन राम सुमर अविनाशी.",
-      "जानके सुमरत सब दुःख नाशे तुते यम कि फासि (टेक)."
+      "राम नाम को संतनि सुमरे पाई आनन्द राशी ।",
+      "जन्म मरन का फेरा मेटे अमर देश भये वासी ॥१ ॥"
     ],
     [
-      "राम नाम को सनतनि सुमरे पाि आनंद राशि.",
-      "जनम मरन का फेरा मेते मर देश भये वासि || 1 ||."
+      "राम नाम का सुमरण कर बहु जग ते भये उदासी ।",
+      "गोपीचन्द भरथरी पीपा बन गये बन के वासी ॥२ ॥"
     ],
     [
-      "राम नाम का सुमरन कर बहु जग ते भये ुदासि.",
-      "गोपिचनद भरथरि पिपा बन गये बन के वासि || 2 ||"
+      "राम नाम के सुमरन से ही पाप पुज्ज हो नाशी ।",
+      "कहे टेऊँ हरि के सुमरण बिन यमपुर होवे हासी ॥३ ॥"
     ],
     [
-      "राम नाम के सुमरन से हि पाप पुजज हो नाशि.",
-      "कहे तेऊँ हरि के सुमरन बिन यमपुर होवे हासि || 3 ||."
-    ],
-    [
-      "तथ"
+      "त्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Raam Sumar Avinaashi.",
-      "Jaanke Sumrat Sab Dukh Naashe Tute Yam Ki Phaasi (Tek)."
-    ],
-    [
       "Raam Naam Ko Santni Sumre Paai Aanand Raashi.",
-      "Janm Maran Kaa Pheraa Mete Amar Desh Bhaye Vaasi || 1 ||."
+      "Janm Maran Kaa Pheraa Mete Amar Desh Bhaye Vaasi || 1 ||"
     ],
     [
       "Raam Naam Kaa Sumran Kar Bahu Jag Te Bhaye Udaasi.",
@@ -41,25 +88,27 @@
     ],
     [
       "Raam Naam Ke Sumran Se Hi Paap Pujj Ho Naashi.",
-      "Kahe Teun Hari Ke Sumran Bin Yampur Hove Haasi || 3 ||."
+      "Kahe Teun Hari Ke Sumran Bin Yampur Hove Haasi || 3 ||"
     ],
     [
       "Tth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Huseni Bhajan || 4 || 466 ||",
+    "मेरे मन राम सुमर अविनाशी",
     "Mere Man Raam Sumar Avinaashi",
-    "मेरे मन राम सुमर अविनाशी"
+    "राग हुसैनी भजन 4",
+    "Raag Huseni Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 466,
+  "displayOrder": 4,
+  "overallOrder": 465,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 261",
+  "updatedAt": "2026-10-26"
 }

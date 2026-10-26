@@ -2,77 +2,127 @@
   "id": "bhajan-0139",
   "slug": "re-man-mere-chhor-mamat-ko-jhuthaa-yah-sansaar-hai",
   "categoryId": "raag-aasaa",
-  "title": "रे मन मेरे चहोर ममत को, झुथा यह सनसार है",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "रे मन मेरे छोड़ ममत को, झूठा यह संसार है",
   "romanTitle": "Re Man Mere Chhor Mamat Ko, Jhuthaa Yah Sansaar Hai",
-  "firstLine": "Re Man Mere Chhor Mamat Ko, Jhuthaa Yah Sansaar Hai. Jaise Paani Maaruthal Kaa, Taise Jagat Asaar Hai (Tek).",
+  "firstLine": "Re Man Mere Chhor Mamat Ko, Jhuthaa Yah Sansaar Hai.",
+  "heading": "।। राग आसा भजन ।। ७७ ।। १३९।।",
+  "tek": [
+    "रे मन मेरे छोड़ ममत को, झूठा यह संसार है ।",
+    "जैसे पानी मारूथल का, तैसे जगत असार है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Mere Chhor Mamat Ko, Jhuthaa Yah Sansaar Hai.",
+    "Jaise Paani Maaruthal Kaa, Taise Jagat Asaar Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "थोड़ा सा जब हो प्रकाशा, थोड़ा सा अंधकार हो ।",
+        "प्रत्यक्ष हो ना रूप रज्जू का, वृत्ती इदमाकार हो ।",
+        "भ्रम सर्प का तबहीं पड़ता, ज्ञानियों का वीचार है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Thoraa Saa Jab Ho Prakaashaa, Thoraa Saa Andhkaar Ho.",
+        "Pratyaksh Ho Naa Rup Rajju Kaa, Vritti Idmaakaar Ho.",
+        "Bhram Sarp Kaa Tabhin Partaa, Jnyaaniyon Kaa Vichaar Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वृत्ती में आरूढ़ स्वामी, अविद्या है तिस पास में ।",
+        "जानत ना जब वृत्ति रज्जू को, क्षोभ होत है तास में ।",
+        "तब अहि भासत ज्ञान समेता, साक्षी भ्रम निवार है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vritti Men Aarurh Svaami, Avidyaa Hai Tis Paas Men.",
+        "Jaanat Naa Jab Vritti Rajju Ko, Kshobh Hot Hai Taas Men.",
+        "Tab Ahi Bhaasat Gyaan Sametaa, Saakshi Bhram Nivaar Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अविद्या का परिणाम जगत यह, चेतन से विपरीत है ।",
+        "नाम रूप जग मिधथ्या सारा, भासत मध्य में मीत है ।",
+        "प्रातीभासिक सत्ता जगत की, पल पल पलटनहार है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Avidyaa Kaa Parinaam Jagat Yah, Chetan Se Viprit Hai.",
+        "Naam Rup Jag Midhathyaa Saaraa, Bhaasat Madhy Men Mit Hai.",
+        "Praatibhaasik Sattaa Jagat Ki, Pal Pal Paltanhaar Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जांके जाने से जग नासे, बिन जाने प्रतीति हो ।",
+        "कहे टेऊँ सो जाने तिसको, जांकी गुरु में प्रीति हो ।",
+        "गुरु कृपा से ब्रह्म पछानो, जग का जो आधार है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jaanke Jaane Se Jag Naase, Bin Jaane Pratiti Ho.",
+        "Kahe Teun So Jaane Tisko, Jaanki Guru Men Priti Ho.",
+        "Guru Kripaa Se Brahm Pachhaano, Jag Kaa Jo Aadhaar Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "त्द्"
+      ],
+      "romanLines": [
+        "Td"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरे चहोर ममत को, झुथा यह सनसार है.",
-      "जैसे पानि मारुथल का, तैसे जगत सार है (टेक)."
+      "थोड़ा सा जब हो प्रकाशा, थोड़ा सा अंधकार हो ।",
+      "प्रत्यक्ष हो ना रूप रज्जू का, वृत्ती इदमाकार हो ।",
+      "भ्रम सर्प का तबहीं पड़ता, ज्ञानियों का वीचार है ॥१ ॥"
     ],
     [
-      "थोरा सा जब हो परकाशा, थोरा सा नधकार हो.",
-      "परतयकश हो ना रुप रजजु का, वरितति िदमाकार हो."
+      "वृत्ती में आरूढ़ स्वामी, अविद्या है तिस पास में ।",
+      "जानत ना जब वृत्ति रज्जू को, क्षोभ होत है तास में ।",
+      "तब अहि भासत ज्ञान समेता, साक्षी भ्रम निवार है ॥२ ॥"
     ],
     [
-      "भरम सरप का तभिन परता, जनयानियोन का विचार है || 1 ||."
+      "अविद्या का परिणाम जगत यह, चेतन से विपरीत है ।",
+      "नाम रूप जग मिधथ्या सारा, भासत मध्य में मीत है ।",
+      "प्रातीभासिक सत्ता जगत की, पल पल पलटनहार है ॥३ ॥"
     ],
     [
-      "वरितति मेन ारुरह स्वामी, विदया है तिस पास मेन.",
-      "जानत ना जब वरितति रजजु को, कशोभ होत है तास मेन."
+      "जांके जाने से जग नासे, बिन जाने प्रतीति हो ।",
+      "कहे टेऊँ सो जाने तिसको, जांकी गुरु में प्रीति हो ।",
+      "गुरु कृपा से ब्रह्म पछानो, जग का जो आधार है ॥४ ॥"
     ],
     [
-      "तब हि भासत ज्ञान समेता, साक्षी भरम निवार है || 2 ||"
-    ],
-    [
-      "विदया का परिनाम जगत यह, चेतन से विपरित है.",
-      "नाम रुप जग मिधथया सारा, भासत मधय मेन मित है."
-    ],
-    [
-      "परातिभासिक सतता जगत कि, पल पल पलतनहार है || 3 ||"
-    ],
-    [
-      "जानके जाने से जग नासे, बिन जाने परतिति हो.",
-      "कहे तेऊँ सो जाने तिसको, जानकि गुरु मेन परिति हो."
-    ],
-    [
-      "गुरु कृपा से बरहम पचहानो, जग का जो ाधार है || 4 ||"
-    ],
-    [
-      "तद"
+      "त्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Mere Chhor Mamat Ko, Jhuthaa Yah Sansaar Hai.",
-      "Jaise Paani Maaruthal Kaa, Taise Jagat Asaar Hai (Tek)."
-    ],
-    [
       "Thoraa Saa Jab Ho Prakaashaa, Thoraa Saa Andhkaar Ho.",
-      "Pratyaksh Ho Naa Rup Rajju Kaa, Vritti Idmaakaar Ho."
-    ],
-    [
-      "Bhram Sarp Kaa Tabhin Partaa, Jnyaaniyon Kaa Vichaar Hai || 1 ||."
+      "Pratyaksh Ho Naa Rup Rajju Kaa, Vritti Idmaakaar Ho.",
+      "Bhram Sarp Kaa Tabhin Partaa, Jnyaaniyon Kaa Vichaar Hai || 1 ||"
     ],
     [
       "Vritti Men Aarurh Svaami, Avidyaa Hai Tis Paas Men.",
-      "Jaanat Naa Jab Vritti Rajju Ko, Kshobh Hot Hai Taas Men."
-    ],
-    [
-      "Tab Ahi Bhaasat Jnyaan Sametaa, Saakshi Bhram Nivaar Hai || 2 ||"
+      "Jaanat Naa Jab Vritti Rajju Ko, Kshobh Hot Hai Taas Men.",
+      "Tab Ahi Bhaasat Gyaan Sametaa, Saakshi Bhram Nivaar Hai || 2 ||"
     ],
     [
       "Avidyaa Kaa Parinaam Jagat Yah, Chetan Se Viprit Hai.",
-      "Naam Rup Jag Midhathyaa Saaraa, Bhaasat Madhy Men Mit Hai."
-    ],
-    [
+      "Naam Rup Jag Midhathyaa Saaraa, Bhaasat Madhy Men Mit Hai.",
       "Praatibhaasik Sattaa Jagat Ki, Pal Pal Paltanhaar Hai || 3 ||"
     ],
     [
       "Jaanke Jaane Se Jag Naase, Bin Jaane Pratiti Ho.",
-      "Kahe Teun So Jaane Tisko, Jaanki Guru Men Priti Ho."
-    ],
-    [
+      "Kahe Teun So Jaane Tisko, Jaanki Guru Men Priti Ho.",
       "Guru Kripaa Se Brahm Pachhaano, Jag Kaa Jo Aadhaar Hai || 4 ||"
     ],
     [
@@ -80,18 +130,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 77 || 139 ||",
+    "रे मन मेरे छोड़ ममत को, झूठा यह संसार है",
     "Re Man Mere Chhor Mamat Ko, Jhuthaa Yah Sansaar Hai",
-    "रे मन मेरे चहोर ममत को, झुथा यह सनसार है"
+    "राग आसा भजन 77",
+    "Raag Aasaa Bhajan 77"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 139,
+  "displayOrder": 77,
+  "overallOrder": 139,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 96",
+  "updatedAt": "2026-10-26"
 }

@@ -1,49 +1,100 @@
 {
-  "id": "bhajan-0535",
+  "id": "bhajan-0533",
   "slug": "dharle-hari-kaa-dhyaan-re-tujhe-shaanti-milegi",
   "categoryId": "raag-sorath",
-  "title": "धरले हरि का ध्यान, रे तुझे शांति मिलेगि",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "धरले हरि का ध्यान, रे तुझे शान्ति मिलेगी",
   "romanTitle": "Dharle Hari Kaa Dhyaan, Re Tujhe Shaanti Milegi",
   "firstLine": "Dharle Hari Kaa Dhyaan, Re Tujhe Shaanti Milegi (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ३ ।। '५३४।॥।",
+  "tek": [
+    "धरले हरि का ध्यान, रे तुझे शान्ति मिलेगी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dharle Hari Kaa Dhyaan, Re Tujhe Shaanti Milegi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हृदय में तुम हरी बसाओ, जीभ से कर गुन गान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hriday Men Tum Hari Basaao, Jibh Se Kar Gun Gaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आंखों से हरि दर्शन करिये, सुनले हरि यश कान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aankhon Se Hari Darshan Kariye, Sunle Hari Yash Kaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांवों से चल सत्संग जाओ, हाथों से दे दान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanvon Se Chal Satsang Jaao, Haathon Se De Daan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु नाम सुमरले, श्वासों श्वास सुजान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Naam Sumrale, Shvaason Shvaas Sujaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धरले हरि का ध्यान, रे तुझे शांति मिलेगि (टेक)."
+      "हृदय में तुम हरी बसाओ, जीभ से कर गुन गान ॥१ ॥"
     ],
     [
-      "हरिदय मेन तुम हरि बसाो, जिभ से कर गुन गान ||.1 ||.",
-      "ानखोन से हरि दरशन करिये, सुनले हरि यश कान || 2 ||."
+      "आंखों से हरि दर्शन करिये, सुनले हरि यश कान ॥२ ॥"
     ],
     [
-      "पानवोन से चल सत्संग जाो, हाथोन से दे दान ||.3 ||.",
-      "कहे तेऊँ गुरु नाम सुमरले, शवासोन शवास सुजान ||.4 ||"
+      "पांवों से चल सत्संग जाओ, हाथों से दे दान ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु नाम सुमरले, श्वासों श्वास सुजान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dharle Hari Kaa Dhyaan, Re Tujhe Shaanti Milegi (Tek)."
+      "Hriday Men Tum Hari Basaao, Jibh Se Kar Gun Gaan || 1 ||"
     ],
     [
-      "Hriday Men Tum Hari Basaao, Jibh Se Kar Gun Gaan ||.1 ||.",
-      "Aankhon Se Hari Darshan Kariye, Sunle Hari Yash Kaan || 2 ||."
+      "Aankhon Se Hari Darshan Kariye, Sunle Hari Yash Kaan || 2 ||"
     ],
     [
-      "Paanvon Se Chal Satsang Jaao, Haathon Se De Daan ||.3 ||.",
-      "Kahe Teun Guru Naam Sumrale, Shvaason Shvaas Sujaan ||.4 ||"
+      "Paanvon Se Chal Satsang Jaao, Haathon Se De Daan || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Naam Sumrale, Shvaason Shvaas Sujaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 3 || '534. ||.",
+    "धरले हरि का ध्यान, रे तुझे शान्ति मिलेगी",
     "Dharle Hari Kaa Dhyaan, Re Tujhe Shaanti Milegi",
-    "धरले हरि का ध्यान, रे तुझे शांति मिलेगि"
+    "राग सोरठ भजन 3",
+    "Raag Sorath Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "sorath"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 535,
+  "displayOrder": 3,
+  "overallOrder": 533,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 293",
+  "updatedAt": "2026-10-26"
 }

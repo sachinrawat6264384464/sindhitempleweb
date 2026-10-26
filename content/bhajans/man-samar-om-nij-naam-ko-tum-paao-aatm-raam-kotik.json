@@ -1,76 +1,93 @@
 {
   "id": "bhajan-0296",
   "slug": "man-samar-om-nij-naam-ko-tum-paao-aatm-raam-kotik",
-  "categoryId": "raag-bhairav",
-  "title": "मन समर ॐ निज नाम को, तुम पाो ातम राम कोतिक ",
-  "romanTitle": "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik ",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मन समर ओम निज नाम को, तुम पाओ आत्म राम को ।टिक",
+  "romanTitle": "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik",
   "firstLine": "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik ||",
+  "heading": "।। राग भैरवी भजन ।। ८१ ।। २९६।।",
+  "tek": [
+    "मन समर ओम निज नाम को, तुम पाओ आत्म राम को ।टिक ॥",
+    "जगत ओम में स्थित सारा, ओम बसे इस जगत मंजझारा ।"
+  ],
+  "romanTek": [
+    "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik ||",
+    "Jagat Om Men Sthit Saaraa, Om Base Is Jagat Manjjhaaraa."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यों लख ओम अभिराम को ।१ ॥१ ॥",
+        "आदि नाद मय ओम उच्चारा, नाद ब्रह्म मय वेद पुकारा ।",
+        "ध्वनि चाले आठों याम को ॥२ ॥",
+        "्ह्य",
+        "सुरति मिलाओ नाद ध्वनी से, प्रथम सीखो किसी मुनी से ।",
+        "जो जानत ऐसे माम को ॥३ ॥",
+        "नाद ध्वनि के दस प्रकारा, पकड़ चलो ले ध्वनि आधारा ।",
+        "यों पहुंचोगे पिय धाम को ॥४ ॥",
+        "कहे टेऊँ जे ओम उपासी, पाये पूरण पद अविनाशी ।",
+        "फिर लौटे ना जग गाम को ॥५ ॥"
+      ],
+      "romanLines": [
+        "Yon Lakh Om Abhiraam Ko.1 || 1 ||",
+        "Aadi Naad May Om Uchchaaraa, Naad Brahm May Ved Pukaaraa.",
+        "Dhvani Chaale Aathon Yaam Ko || 2 ||",
+        "Hy",
+        "Surti Milaao Naad Dhvani Se, Pratham Sikho Kisi Muni Se.",
+        "Jo Jaanat Aise Maam Ko || 3 ||",
+        "Naad Dhvani Ke Das Prakaaraa, Pakar Chalo Le Dhvani Aadhaaraa.",
+        "Yon Pahunchoge Piy Dhaam Ko || 4 ||",
+        "Kahe Teun Je Om Upaasi, Paaye Puran Pad Avinaashi.",
+        "Phir Laute Naa Jag Gaam Ko || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन समर ॐ निज नाम को, तुम पाो ातम राम कोतिक ||",
-      "जगत ॐ मेन सथित सारा, ॐ बसे िस जगत मनजझारा."
-    ],
-    [
-      "योन लख ॐ भिराम को.1$ ||.",
-      "ादि नाद मय ॐ ुचचारा, नाद बरहम मय वेद पुकारा."
-    ],
-    [
-      "धवनि चाले ाथोन याम को ||.2 ||",
-      "हय"
-    ],
-    [
-      "सुरति मिलाो नाद धवनि से, परथम सिखो किसि मुनि से.",
-      "जो जानत ैसे माम को ||.3 ||"
-    ],
-    [
-      "नाद धवनि के दस परकारा, पकर चलो ले धवनि ाधारा.",
-      "योन पहुनचोगे पिय धाम को || 4 ||."
-    ],
-    [
-      "कहे तेऊँ जे ॐ ुपासि, पाये पुरन पद अविनाशी.",
-      "फिर लौते ना जग गाम को || 5 ||"
+      "यों लख ओम अभिराम को ।१ ॥१ ॥",
+      "आदि नाद मय ओम उच्चारा, नाद ब्रह्म मय वेद पुकारा ।",
+      "ध्वनि चाले आठों याम को ॥२ ॥",
+      "्ह्य",
+      "सुरति मिलाओ नाद ध्वनी से, प्रथम सीखो किसी मुनी से ।",
+      "जो जानत ऐसे माम को ॥३ ॥",
+      "नाद ध्वनि के दस प्रकारा, पकड़ चलो ले ध्वनि आधारा ।",
+      "यों पहुंचोगे पिय धाम को ॥४ ॥",
+      "कहे टेऊँ जे ओम उपासी, पाये पूरण पद अविनाशी ।",
+      "फिर लौटे ना जग गाम को ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik ||",
-      "Jagat Om Men Sthit Saaraa, Om Base Is Jagat Manjjhaaraa."
-    ],
-    [
-      "Yon Lakh Om Abhiraam Ko.1$ ||.",
-      "Aadi Naad May Om Uchchaaraa, Naad Brahm May Ved Pukaaraa."
-    ],
-    [
-      "Dhvani Chaale Aathon Yaam Ko ||.2 ||",
-      "Hy"
-    ],
-    [
+      "Yon Lakh Om Abhiraam Ko.1 || 1 ||",
+      "Aadi Naad May Om Uchchaaraa, Naad Brahm May Ved Pukaaraa.",
+      "Dhvani Chaale Aathon Yaam Ko || 2 ||",
+      "Hy",
       "Surti Milaao Naad Dhvani Se, Pratham Sikho Kisi Muni Se.",
-      "Jo Jaanat Aise Maam Ko ||.3 ||"
-    ],
-    [
+      "Jo Jaanat Aise Maam Ko || 3 ||",
       "Naad Dhvani Ke Das Prakaaraa, Pakar Chalo Le Dhvani Aadhaaraa.",
-      "Yon Pahunchoge Piy Dhaam Ko || 4 ||."
-    ],
-    [
+      "Yon Pahunchoge Piy Dhaam Ko || 4 ||",
       "Kahe Teun Je Om Upaasi, Paaye Puran Pad Avinaashi.",
       "Phir Laute Naa Jag Gaam Ko || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 81 || 296 ||",
-    "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik ",
-    "मन समर ॐ निज नाम को, तुम पाो ातम राम कोतिक "
+    "मन समर ओम निज नाम को, तुम पाओ आत्म राम को ।टिक",
+    "Man Samar Om Nij Naam Ko, Tum Paao Aatm Raam Ko.Tik",
+    "राग भैरवी भजन 81",
+    "Raag Bhairvi Bhajan 81"
   ],
   "tags": [
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 296,
+  "displayOrder": 81,
+  "overallOrder": 296,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 178",
+  "updatedAt": "2026-10-26"
 }

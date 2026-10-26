@@ -1,0 +1,100 @@
+{
+  "id": "bhajan-0854",
+  "slug": "dekh-jagat-kaa-rang-na-bhulo-jaan-kapat-kaa-jaalaa-re",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "देख जगत का रंग न भूलो, जान कपट का जाला रे",
+  "romanTitle": "Dekh Jagat Kaa Rang Na Bhulo, Jaan Kapat Kaa Jaalaa Re",
+  "firstLine": "Dekh Jagat Kaa Rang Na Bhulo, Jaan Kapat Kaa Jaalaa Re (Tek).",
+  "heading": "।। राग जोग भजन ।। २६ ।। ८५६।।",
+  "tek": [
+    "देख जगत का रंग न भूलो, जान कपट का जाला रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dekh Jagat Kaa Rang Na Bhulo, Jaan Kapat Kaa Jaalaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इसी जाल में जोई फसता, तांको मारत काला रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Isi Jaal Men Joi Phastaa, Taanko Maarat Kaalaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मर्कट पंछी केहरि फसकर, देखा दूख विशाला रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Markat Panchhi Kehri Phaskar, Dekhaa Dukh Vishaalaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मृग करी अलि मीन पतंगे, पाया कष्ट कराला रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mrig Kari Ali Min Patange, Paayaa Kasht Karaalaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सो कबहुं न भूले, जांका गुरु रखवाला रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun So Kabhun Na Bhule, Jaankaa Guru Rakhvaalaa Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "इसी जाल में जोई फसता, तांको मारत काला रे ॥१ ॥"
+    ],
+    [
+      "मर्कट पंछी केहरि फसकर, देखा दूख विशाला रे ॥२ ॥"
+    ],
+    [
+      "मृग करी अलि मीन पतंगे, पाया कष्ट कराला रे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ सो कबहुं न भूले, जांका गुरु रखवाला रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Isi Jaal Men Joi Phastaa, Taanko Maarat Kaalaa Re || 1 ||"
+    ],
+    [
+      "Markat Panchhi Kehri Phaskar, Dekhaa Dukh Vishaalaa Re || 2 ||"
+    ],
+    [
+      "Mrig Kari Ali Min Patange, Paayaa Kasht Karaalaa Re || 3 ||"
+    ],
+    [
+      "Kahe Teun So Kabhun Na Bhule, Jaankaa Guru Rakhvaalaa Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "देख जगत का रंग न भूलो, जान कपट का जाला रे",
+    "Dekh Jagat Kaa Rang Na Bhulo, Jaan Kapat Kaa Jaalaa Re",
+    "राग जोग भजन 26",
+    "Raag Jog Bhajan 26"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 26,
+  "overallOrder": 854,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 452",
+  "updatedAt": "2026-10-26"
+}

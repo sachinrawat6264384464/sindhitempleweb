@@ -2,80 +2,131 @@
   "id": "bhajan-0156",
   "slug": "amrit-vele-om-om-om-ratle",
   "categoryId": "raag-aasaa",
-  "title": "अमृत वेले ॐ ॐ ॐ रतले",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "अमृत वेले ओम ओम ओम रटले",
   "romanTitle": "Amrit Vele Om Om Om Ratle",
   "firstLine": "Amrit Vele Om Om Om Ratle (Tek).",
+  "heading": "।। राग आसा भजन ।। ९४ ।। १५६।।",
+  "tek": [
+    "अमृत वेले ओम ओम ओम रटले ॥टेक ॥"
+  ],
+  "romanTek": [
+    "Amrit Vele Om Om Om Ratle (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्मा विष्णू शंकर आदी ओम से उपजे ।",
+        "वेद शास्त्र पुराण सारे ओम से निपजे ।",
+        "ओम से सारी सृष्टी भई पुस्तक पढ़ले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Vishnu Shankar Aadi Om Se Upje.",
+        "Ved Shaastr Puraan Saare Om Se Nipje.",
+        "Om Se Saari Srishti Bhai Pustak Parhle || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तीन मात्रा ओम में है शास्त्र सुनाते ।",
+        "अकार उकार मकार अर्थ बिन्दु बताते ।",
+        "ओम ईश का नाम अनादी हृदय डटले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tin Maatraa Om Men Hai Shaastr Sunaate.",
+        "Akaar Ukaar Makaar Arth Bindu Bataate.",
+        "Om Ish Kaa Naam Anaadi Hriday Datle || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चारों वस्था सफली होवे ओम उच्चारे ।",
+        "चारों पट्टी होय प्राप्त ओम विचारे ।",
+        "चतुर भान्ति से ओम स्मरे बाज़ी खटले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Chaaron Vasthaa Saphli Hove Om Uchchaare.",
+        "Chaaron Patti Hoy Praapt Om Vichaare.",
+        "Chatur Bhaanti Se Om Smare Baazi Khatle || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ओम मुनियों का गुप्त खज़ाना मूल मन्त्र है ।",
+        "कहे टेऊँ ये मन जीतन का तेज़ तन्त्र है ।",
+        "गुरु द्वारा ओम जपे यम फासी कटले ॥४ ॥"
+      ],
+      "romanLines": [
+        "Om Muniyon Kaa Gupt Khazaanaa Mul Mantr Hai.",
+        "Kahe Teun Ye Man Jitan Kaa Tez Tantr Hai.",
+        "Guru Dvaaraa Om Jape Yam Phaasi Katle || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमृत वेले ॐ ॐ ॐ रतले (टेक)."
+      "ब्रह्मा विष्णू शंकर आदी ओम से उपजे ।",
+      "वेद शास्त्र पुराण सारे ओम से निपजे ।",
+      "ओम से सारी सृष्टी भई पुस्तक पढ़ले ॥१ ॥"
     ],
     [
-      "बरहम विशनु शनकर ादि ॐ से ुपजे.",
-      "वेद शासतर पुरान सारे ॐ से निपजे."
+      "तीन मात्रा ओम में है शास्त्र सुनाते ।",
+      "अकार उकार मकार अर्थ बिन्दु बताते ।",
+      "ओम ईश का नाम अनादी हृदय डटले ॥२ ॥"
     ],
     [
-      "ॐ से सारि सरिशति भै पुसतक परहले.1. ||.",
-      "तिन मातरा ॐ मेन है शासतर सुनाते."
+      "चारों वस्था सफली होवे ओम उच्चारे ।",
+      "चारों पट्टी होय प्राप्त ओम विचारे ।",
+      "चतुर भान्ति से ओम स्मरे बाज़ी खटले ॥३ ॥"
     ],
     [
-      "कार ुकार मकार रथ बिनदु बताते.",
-      "ॐ िश का नाम नादि हरिदय दतले ||.2 ||"
-    ],
-    [
-      "चारोन वसथा सफलि होवे ॐ ुचचारे.",
-      "चारोन पतति होय परापत ॐ विचारे."
-    ],
-    [
-      "चतुर भानति से ॐ समरे बाzि खतले ||.3 ||",
-      "ॐ मुनियोन का गुपत खzाना मुल मनतर है."
-    ],
-    [
-      "कहे तेऊँ ये मन जितन का तेz तनतर है.",
-      "गुरु दवारा ॐ जपे यम फासि कतले ||.4. ||."
+      "ओम मुनियों का गुप्त खज़ाना मूल मन्त्र है ।",
+      "कहे टेऊँ ये मन जीतन का तेज़ तन्त्र है ।",
+      "गुरु द्वारा ओम जपे यम फासी कटले ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amrit Vele Om Om Om Ratle (Tek)."
+      "Brahmaa Vishnu Shankar Aadi Om Se Upje.",
+      "Ved Shaastr Puraan Saare Om Se Nipje.",
+      "Om Se Saari Srishti Bhai Pustak Parhle || 1 ||"
     ],
     [
-      "Brahma Vishnu Shankar Aadi Om Se Upje.",
-      "Ved Shaastr Puraan Saare Om Se Nipje."
-    ],
-    [
-      "Om Se Saari Srishti Bhai Pustak Parhle.1. ||.",
-      "Tin Maatraa Om Men Hai Shaastr Sunaate."
-    ],
-    [
+      "Tin Maatraa Om Men Hai Shaastr Sunaate.",
       "Akaar Ukaar Makaar Arth Bindu Bataate.",
-      "Om Ish Kaa Naam Anaadi Hriday Datle ||.2 ||"
+      "Om Ish Kaa Naam Anaadi Hriday Datle || 2 ||"
     ],
     [
       "Chaaron Vasthaa Saphli Hove Om Uchchaare.",
-      "Chaaron Patti Hoy Praapt Om Vichaare."
+      "Chaaron Patti Hoy Praapt Om Vichaare.",
+      "Chatur Bhaanti Se Om Smare Baazi Khatle || 3 ||"
     ],
     [
-      "Chatur Bhaanti Se Om Smare Baazi Khatle ||.3 ||",
-      "Om Muniyon Kaa Gupt Khazaanaa Mul Mantr Hai."
-    ],
-    [
+      "Om Muniyon Kaa Gupt Khazaanaa Mul Mantr Hai.",
       "Kahe Teun Ye Man Jitan Kaa Tez Tantr Hai.",
-      "Guru Dvaaraa Om Jape Yam Phaasi Katle ||.4. ||."
+      "Guru Dvaaraa Om Jape Yam Phaasi Katle || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 94 || 156 ||",
+    "अमृत वेले ओम ओम ओम रटले",
     "Amrit Vele Om Om Om Ratle",
-    "अमृत वेले ॐ ॐ ॐ रतले"
+    "राग आसा भजन 94",
+    "Raag Aasaa Bhajan 94"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 156,
+  "displayOrder": 94,
+  "overallOrder": 156,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 107",
+  "updatedAt": "2026-10-26"
 }

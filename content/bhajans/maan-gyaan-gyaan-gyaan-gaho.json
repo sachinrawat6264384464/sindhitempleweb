@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0125",
+  "slug": "maan-gyaan-gyaan-gyaan-gaho",
+  "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मान ज्ञान ज्ञान ज्ञान गहो",
+  "romanTitle": "Maan Gyaan Gyaan Gyaan Gaho",
+  "firstLine": "Maan Gyaan Gyaan Gyaan Gaho.",
+  "heading": "।। राग आसा भजन ।। ६३ ।। १२५।।",
+  "tek": [
+    "मान ज्ञान ज्ञान ज्ञान गहो ।",
+    "श्रद्धा धारे पूर्ण गुरु से, निज आत्म का ज्ञान गहो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maan Gyaan Gyaan Gyaan Gaho.",
+    "Shraddhaa Dhaare Purn Guru Se, Nij Aatm Kaa Gyaan Gaho (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज्ञान बिना नर है अज्ञानी, अज्ञानी नर पशू समानी ।",
+        "भ्रमत है सो चारों खानी, तांते ना अज्ञान गहो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Binaa Nar Hai Ajnyaani, Ajnyaani Nar Pashu Samaani.",
+        "Bhramat Hai So Chaaron Khaani, Taante Naa Ajnyaan Gaho || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ज्ञान बिना ना होवे मुक्ती, ज्ञान बिना ना युक्ती उकती ।",
+        "ज्ञान बिना नहिं शकती भक्ती, ये शास्त्र प्रमान गहो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Binaa Naa Hove Mukti, Gyaan Binaa Naa Yukti Ukti.",
+        "Gyaan Binaa Nahin Shakti Bhakti, Ye Shaastr Pramaan Gaho || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज्ञान बिना है जीवन वृथा, अन्न खावन जल पीवन वृथा ।",
+        "लेवन देवन सेवन वृथा, तांते ब्रह्म विज्ञान गहो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Gyaan Binaa Hai Jivan Vrithaa, Ann Khaavan Jal Pivan Vrithaa.",
+        "Levan Devan Sevan Vrithaa, Taante Brahm Vijnyaan Gaho || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ क्यों संकट सहता , जाता भव जल में क्यों बहता ।",
+        "ज्ञान बिना मन सुख ना लहता , तांते ज्ञान सुजान गहो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kyon Sankat Sahtaa, Jaataa Bhav Jal Men Kyon Bahtaa.",
+        "Gyaan Binaa Man Sukh Naa Lahtaa, Taante Gyaan Sujaan Gaho || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "ज्ञान बिना नर है अज्ञानी, अज्ञानी नर पशू समानी ।",
+      "भ्रमत है सो चारों खानी, तांते ना अज्ञान गहो ॥१ ॥"
+    ],
+    [
+      "ज्ञान बिना ना होवे मुक्ती, ज्ञान बिना ना युक्ती उकती ।",
+      "ज्ञान बिना नहिं शकती भक्ती, ये शास्त्र प्रमान गहो ॥२ ॥"
+    ],
+    [
+      "ज्ञान बिना है जीवन वृथा, अन्न खावन जल पीवन वृथा ।",
+      "लेवन देवन सेवन वृथा, तांते ब्रह्म विज्ञान गहो ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ क्यों संकट सहता , जाता भव जल में क्यों बहता ।",
+      "ज्ञान बिना मन सुख ना लहता , तांते ज्ञान सुजान गहो ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Gyaan Binaa Nar Hai Ajnyaani, Ajnyaani Nar Pashu Samaani.",
+      "Bhramat Hai So Chaaron Khaani, Taante Naa Ajnyaan Gaho || 1 ||"
+    ],
+    [
+      "Gyaan Binaa Naa Hove Mukti, Gyaan Binaa Naa Yukti Ukti.",
+      "Gyaan Binaa Nahin Shakti Bhakti, Ye Shaastr Pramaan Gaho || 2 ||"
+    ],
+    [
+      "Gyaan Binaa Hai Jivan Vrithaa, Ann Khaavan Jal Pivan Vrithaa.",
+      "Levan Devan Sevan Vrithaa, Taante Brahm Vijnyaan Gaho || 3 ||"
+    ],
+    [
+      "Kahe Teun Kyon Sankat Sahtaa, Jaataa Bhav Jal Men Kyon Bahtaa.",
+      "Gyaan Binaa Man Sukh Naa Lahtaa, Taante Gyaan Sujaan Gaho || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मान ज्ञान ज्ञान ज्ञान गहो",
+    "Maan Gyaan Gyaan Gyaan Gaho",
+    "राग आसा भजन 63",
+    "Raag Aasaa Bhajan 63"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
+  ],
+  "displayOrder": 63,
+  "overallOrder": 125,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 89",
+  "updatedAt": "2026-10-26"
+}

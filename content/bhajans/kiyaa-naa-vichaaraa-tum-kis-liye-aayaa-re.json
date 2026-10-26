@@ -1,29 +1,90 @@
 {
-  "id": "bhajan-0689",
+  "id": "bhajan-0687",
   "slug": "kiyaa-naa-vichaaraa-tum-kis-liye-aayaa-re",
   "categoryId": "raag-pahaari",
-  "title": "किया ना विचारा तुम, किस लिये ाया रे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "किया ना वीचारा तुम, किस लिये आया रे",
   "romanTitle": "Kiyaa Naa Vichaaraa Tum, Kis Liye Aayaa Re",
   "firstLine": "Kiyaa Naa Vichaaraa Tum, Kis Liye Aayaa Re (Tek).",
+  "heading": "।। राग पहाड़ी भजन ॥। ४० ।। ६८८॥।॥",
+  "tek": [
+    "किया ना वीचारा तुम, किस लिये आया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kiyaa Naa Vichaaraa Tum, Kis Liye Aayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पूरब में शुभ कर्म कमाया, मानुष जन्म अमोलक पाया ।",
+        "तांको वृथा मूण्ड गंवाया, हरी न ध्याया रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Purab Men Shubh Karm Kamaayaa, Maanush Janm Amolak Paayaa.",
+        "Taanko Vrithaa Mund Ganvaayaa, Hari Na Dhyaayaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिस प्रभू ने पैदा कीना, तिसका नाम न कबहूं लीना ।",
+        "पाप कर्म में तुम चित्त दीना, पुण्य न कमाया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jis Prabhu Ne Paidaa Kinaa, Tiskaa Naam Na Kabhun Linaa.",
+        "Paap Karm Men Tum Chitt Dinaa, Puny Na Kamaayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भोगों में भगवान भुलाया, पशुओं जैसे जन्म गंवाया ।",
+        "जग बन्धन में आप बन्धाया, मो क्ष नहीं पाया रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhogon Men Bhagvaan Bhulaayaa, Pashuon Jaise Janm Ganvaayaa.",
+        "Jag Bandhan Men Aap Bandhaayaa, Mo Ksh Nahin Paayaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "झूठे जग से करे किनारा, कहे टेऊँ ना किया उद्धारा ।",
+        "बहुत बढ़ाया तुम परिवारा, मोह न मिटाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jhuthe Jag Se Kare Kinaaraa, Kahe Teun Naa Kiyaa Uddhaaraa.",
+        "Bahut Barhaayaa Tum Parivaaraa, Moh Na Mitaayaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "दया"
+      ],
+      "romanLines": [
+        "Dayaa"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "किया ना विचारा तुम, किस लिये ाया रे (टेक)."
+      "पूरब में शुभ कर्म कमाया, मानुष जन्म अमोलक पाया ।",
+      "तांको वृथा मूण्ड गंवाया, हरी न ध्याया रे ॥१ ॥"
     ],
     [
-      "पुरब मेन शुभ करम कमाया, मानुश जनम मोलक पाया.",
-      "तानको वरिथा मुनद गनवाया, हरि न धयाया रे.1 ||"
+      "जिस प्रभू ने पैदा कीना, तिसका नाम न कबहूं लीना ।",
+      "पाप कर्म में तुम चित्त दीना, पुण्य न कमाया रे ॥२ ॥"
     ],
     [
-      "जिस प्रभु ने पैदा किना, तिसका नाम न कभुन लिना.",
-      "पाप करम मेन तुम चितत दिना, पुनय न कमाया रे || 2 ||."
+      "भोगों में भगवान भुलाया, पशुओं जैसे जन्म गंवाया ।",
+      "जग बन्धन में आप बन्धाया, मो क्ष नहीं पाया रे ॥३ ॥"
     ],
     [
-      "भोगोन मेन भगवान भुलाया, पशुोन जैसे जनम गनवाया.",
-      "जग बनधन मेन ाप बनधाया, मो कश नहिन पाया रे || 3 ||."
-    ],
-    [
-      "झुथे जग से करे किनारा, कहे तेऊँ ना किया ुदधारा.",
-      "बहुत बरहाया तुम परिवारा, मोह न मिताया रे || 4 ||."
+      "झूठे जग से करे किनारा, कहे टेऊँ ना किया उद्धारा ।",
+      "बहुत बढ़ाया तुम परिवारा, मोह न मिटाया रे ॥४ ॥"
     ],
     [
       "दया"
@@ -31,41 +92,40 @@
   ],
   "romanLyrics": [
     [
-      "Kiyaa Naa Vichaaraa Tum, Kis Liye Aayaa Re (Tek)."
-    ],
-    [
       "Purab Men Shubh Karm Kamaayaa, Maanush Janm Amolak Paayaa.",
-      "Taanko Vrithaa Mund Ganvaayaa, Hari N Dhyaayaa Re.1 ||"
+      "Taanko Vrithaa Mund Ganvaayaa, Hari Na Dhyaayaa Re || 1 ||"
     ],
     [
-      "Jis Prabhu Ne Paidaa Kinaa, Tiskaa Naam N Kabhun Linaa.",
-      "Paap Karm Men Tum Chitt Dinaa, Puny N Kamaayaa Re || 2 ||."
+      "Jis Prabhu Ne Paidaa Kinaa, Tiskaa Naam Na Kabhun Linaa.",
+      "Paap Karm Men Tum Chitt Dinaa, Puny Na Kamaayaa Re || 2 ||"
     ],
     [
       "Bhogon Men Bhagvaan Bhulaayaa, Pashuon Jaise Janm Ganvaayaa.",
-      "Jag Bandhan Men Aap Bandhaayaa, Mo Ksh Nahin Paayaa Re || 3 ||."
+      "Jag Bandhan Men Aap Bandhaayaa, Mo Ksh Nahin Paayaa Re || 3 ||"
     ],
     [
       "Jhuthe Jag Se Kare Kinaaraa, Kahe Teun Naa Kiyaa Uddhaaraa.",
-      "Bahut Barhaayaa Tum Parivaaraa, Moh N Mitaayaa Re || 4 ||."
+      "Bahut Barhaayaa Tum Parivaaraa, Moh Na Mitaayaa Re || 4 ||"
     ],
     [
       "Dayaa"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan ||. 40 || 688 ||. ||",
+    "किया ना वीचारा तुम, किस लिये आया रे",
     "Kiyaa Naa Vichaaraa Tum, Kis Liye Aayaa Re",
-    "किया ना विचारा तुम, किस लिये ाया रे"
+    "राग पहाड़ी भजन 40",
+    "Raag Pahaari Bhajan 40"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 689,
+  "displayOrder": 40,
+  "overallOrder": 687,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 365",
+  "updatedAt": "2026-10-26"
 }

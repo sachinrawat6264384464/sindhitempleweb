@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0686",
+  "id": "bhajan-0684",
   "slug": "dharm-sanaatan-saar-dil-dhar-apne-dharam-se",
   "categoryId": "raag-pahaari",
-  "title": "धरम सनातन सार, दिल धर पने धरम से",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "धर्म सनातन सार, दिल धर अपने धरम से ॥",
   "romanTitle": "Dharm Sanaatan Saar, Dil Dhar Apne Dharam Se",
   "firstLine": "Dharm Sanaatan Saar, Dil Dhar Apne Dharam Se (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ३७ ।। ६८५।।",
+  "tek": [
+    "धर्म सनातन सार, दिल धर अपने धरम से ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Dharm Sanaatan Saar, Dil Dhar Apne Dharam Se (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और धर्म से चीत हटाके, अपने धर्म से दिल को लाके ।",
+        "गीता ज्ञान विचार, रहिये अपने शरम से ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Dharm Se Chit Hataake, Apne Dharm Se Dil Ko Laake.",
+        "Gitaa Gyaan Vichaar, Rahiye Apne Sharam Se || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "धर्म जिसी में तन है धारा, धर्म उसी को धरले प्यारा ।",
+        "धर्म हेत शिर डार, मोह न कर अपने चरम से ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dharm Jisi Men Tan Hai Dhaaraa, Dharm Usi Ko Dharle Pyaaraa.",
+        "Dharm Het Shir Daar, Moh Na Kar Apne Charam Se || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पशु पंछी की सहस ज़ाती, अपनी अपनी बोलत बाती ।",
+        "आतम शक्ति संभार, मुक्ति पाय अपने मरम से ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pashu Panchhi Ki Sahas Zaati, Apni Apni Bolat Baati.",
+        "Aatam Shakti Sambhaar, Mukti Paay Apne Maram Se || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तिन लोकों माहीं, धर्म सनातन सम को नाहीं ।",
+        "परम पदार्थ चार, पाओ अपने करम से ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tin Lokon Maahin, Dharm Sanaatan Sam Ko Naahin.",
+        "Param Padaarth Chaar, Paao Apne Karam Se || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धरम सनातन सार, दिल धर पने धरम से (टेक)."
+      "और धर्म से चीत हटाके, अपने धर्म से दिल को लाके ।",
+      "गीता ज्ञान विचार, रहिये अपने शरम से ॥१ ॥"
     ],
     [
-      "ौर धरम से चित हताके, पने धरम से दिल को लाके.",
-      "गिता ज्ञान विचार, रहिये पने शरम से || 1 ||"
+      "धर्म जिसी में तन है धारा, धर्म उसी को धरले प्यारा ।",
+      "धर्म हेत शिर डार, मोह न कर अपने चरम से ॥२ ॥"
     ],
     [
-      "धरम जिसि मेन तन है धारा, धरम ुसि को धरले पयारा.",
-      "धरम हेत शिर दार, मोह न कर पने चरम से || 2 ||"
+      "पशु पंछी की सहस ज़ाती, अपनी अपनी बोलत बाती ।",
+      "आतम शक्ति संभार, मुक्ति पाय अपने मरम से ॥३ ॥"
     ],
     [
-      "पशु पनचहि कि सहस zाति, पनि पनि बोलत बाति.",
-      "ातम शकति समभार, मुक्ति पाय पने मरम से || 3 ||"
-    ],
-    [
-      "कहे तेऊँ तिन लोकोन माहिन, धरम सनातन सम को नाहिन.",
-      "परम पदारथ चार, पाो पने करम से ||.4 ||"
+      "कहे टेऊँ तिन लोकों माहीं, धर्म सनातन सम को नाहीं ।",
+      "परम पदार्थ चार, पाओ अपने करम से ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dharm Sanaatan Saar, Dil Dhar Apne Dharam Se (Tek)."
-    ],
-    [
       "Aur Dharm Se Chit Hataake, Apne Dharm Se Dil Ko Laake.",
-      "Gitaa Jnyaan Vichaar, Rahiye Apne Sharam Se || 1 ||"
+      "Gitaa Gyaan Vichaar, Rahiye Apne Sharam Se || 1 ||"
     ],
     [
       "Dharm Jisi Men Tan Hai Dhaaraa, Dharm Usi Ko Dharle Pyaaraa.",
-      "Dharm Het Shir Daar, Moh N Kar Apne Charam Se || 2 ||"
+      "Dharm Het Shir Daar, Moh Na Kar Apne Charam Se || 2 ||"
     ],
     [
       "Pashu Panchhi Ki Sahas Zaati, Apni Apni Bolat Baati.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahe Teun Tin Lokon Maahin, Dharm Sanaatan Sam Ko Naahin.",
-      "Param Padaarth Chaar, Paao Apne Karam Se ||.4 ||"
+      "Param Padaarth Chaar, Paao Apne Karam Se || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 37 || 685 ||",
+    "धर्म सनातन सार, दिल धर अपने धरम से ॥",
     "Dharm Sanaatan Saar, Dil Dhar Apne Dharam Se",
-    "धरम सनातन सार, दिल धर पने धरम से"
+    "राग पहाड़ी भजन 37",
+    "Raag Pahaari Bhajan 37"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 686,
+  "displayOrder": 37,
+  "overallOrder": 684,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 364",
+  "updatedAt": "2026-10-26"
 }

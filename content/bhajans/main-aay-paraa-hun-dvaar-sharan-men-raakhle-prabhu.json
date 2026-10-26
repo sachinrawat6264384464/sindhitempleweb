@@ -2,83 +2,112 @@
   "id": "bhajan-0097",
   "slug": "main-aay-paraa-hun-dvaar-sharan-men-raakhle-prabhu",
   "categoryId": "raag-aasaa",
-  "title": "मैं ाय परा हुन दवार, शरन मेन राखले प्रभु",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मैं आय पड़ा हूँ द्वार, शरण में राखले प्रभू",
   "romanTitle": "Main Aay Paraa Hun Dvaar, Sharan Men Raakhle Prabhu",
   "firstLine": "Main Aay Paraa Hun Dvaar, Sharan Men Raakhle Prabhu.",
+  "heading": "।। राग आसा भजन ।। ३५ ।। ९७।।",
+  "tek": [
+    "मैं आय पड़ा हूँ द्वार, शरण में राखले प्रभू ।",
+    "तुम दीन बन्धू दातार, करो यह विनय मेरी स्वीकार,",
+    "शरण में राखले प्रभू ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Aay Paraa Hun Dvaar, Sharan Men Raakhle Prabhu.",
+    "Tum Din Bandhu Daataar, Karo Yah Vinay Meri Svikaar,",
+    "Sharan Men Raakhle Prabhu (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम हो सब गुण सम्पन्न स्वामी , मैं हूँ अवगुन खानी ।",
+        "तेरे दर का मैं भीखारी, तुम हो पूर्ण दानी ।",
+        "तुम सब जग पालनहार, मुझे है तेरा नित आधार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Sab Gun Sampann Svaami, Main Hun Avgun Khaani.",
+        "Tere Dar Kaa Main Bhikhaari, Tum Ho Purn Daani.",
+        "Tum Sab Jag Paalnahaar, Mujhe Hai Teraa Nit Aadhaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "महिमा तेरी है अति भारी, पार नहीं मैं पाऊँ ।",
+        "मैं अल्पज्ञ तुम सर्वज्ञ स्वामी , कैसे तब गुन गाऊँ ।",
+        "तुम हो अलख अपार, नेति नेति कहते वेद पुकार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mahimaa Teri Hai Ati Bhaari, Paar Nahin Main Paaun.",
+        "Main Alpajny Tum Sarvajny Svaami, Kaise Tab Gun Gaaun.",
+        "Tum Ho Alakh Apaar, Neti Neti Kahte Ved Pukaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सर्व ओर से होय निरासा, शरन तुम्हारी आया ।",
+        "तेरी शरण निर्भय पद देती, संतों ने यह गाया ।",
+        "कहे टेऊँ करो रखवार, देहि मोहि निर्भय पद निर्धार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sarv Or Se Hoy Niraasaa, Sharan Tumhaari Aayaa.",
+        "Teri Sharan Nirbhay Pad Deti, Santon Ne Yah Gaayaa.",
+        "Kahe Teun Karo Rakhvaar, Dehi Mohi Nirbhay Pad Nirdhaar || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं ाय परा हुन दवार, शरन मेन राखले प्रभु.",
-      "तुम दीन बनधु दातार, करो यह विनय मेरि सविकार,"
+      "तुम हो सब गुण सम्पन्न स्वामी , मैं हूँ अवगुन खानी ।",
+      "तेरे दर का मैं भीखारी, तुम हो पूर्ण दानी ।",
+      "तुम सब जग पालनहार, मुझे है तेरा नित आधार ॥१ ॥"
     ],
     [
-      "शरन मेन राखले प्रभु (टेक)."
+      "महिमा तेरी है अति भारी, पार नहीं मैं पाऊँ ।",
+      "मैं अल्पज्ञ तुम सर्वज्ञ स्वामी , कैसे तब गुन गाऊँ ।",
+      "तुम हो अलख अपार, नेति नेति कहते वेद पुकार ॥२ ॥"
     ],
     [
-      "तुम हो सब गुन समपनन स्वामी, मैं हुन वगुन खानि.",
-      "तेरे दर का मैं भिखारि, तुम हो पुरन दानि."
-    ],
-    [
-      "तुम सब जग पालनहार, मुझे है तेरा नित ाधार || 1 ||."
-    ],
-    [
-      "महिमा तेरि है ति भारि, पार नहिन मैं पाुन.",
-      "मैं लपजनय तुम सरवजनय स्वामी, कैसे तब गुन गाुन."
-    ],
-    [
-      "तुम हो लख पार, नेति नेति कहते वेद पुकार || 2. ||."
-    ],
-    [
-      "सर्व ोर से होय निरासा, शरन तुमहारि ाया.",
-      "तेरि शरन निरभय पद देति, सनतोन ने यह गाया."
-    ],
-    [
-      "कहे तेऊँ करो रखवार, देही मोहि निरभय पद निरधार || 3 ||"
+      "सर्व ओर से होय निरासा, शरन तुम्हारी आया ।",
+      "तेरी शरण निर्भय पद देती, संतों ने यह गाया ।",
+      "कहे टेऊँ करो रखवार, देहि मोहि निर्भय पद निर्धार ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Aay Paraa Hun Dvaar, Sharan Men Raakhle Prabhu.",
-      "Tum Din Bandhu Daataar, Karo Yah Vinay Meri Svikaar,"
-    ],
-    [
-      "Sharan Men Raakhle Prabhu (Tek)."
-    ],
-    [
       "Tum Ho Sab Gun Sampann Svaami, Main Hun Avgun Khaani.",
-      "Tere Dar Kaa Main Bhikhaari, Tum Ho Purn Daani."
-    ],
-    [
-      "Tum Sab Jag Paalnahaar, Mujhe Hai Teraa Nit Aadhaar || 1 ||."
+      "Tere Dar Kaa Main Bhikhaari, Tum Ho Purn Daani.",
+      "Tum Sab Jag Paalnahaar, Mujhe Hai Teraa Nit Aadhaar || 1 ||"
     ],
     [
       "Mahimaa Teri Hai Ati Bhaari, Paar Nahin Main Paaun.",
-      "Main Alpajny Tum Sarvajny Svaami, Kaise Tab Gun Gaaun."
-    ],
-    [
-      "Tum Ho Alakh Apaar, Neti Neti Kahte Ved Pukaar || 2. ||."
+      "Main Alpajny Tum Sarvajny Svaami, Kaise Tab Gun Gaaun.",
+      "Tum Ho Alakh Apaar, Neti Neti Kahte Ved Pukaar || 2 ||"
     ],
     [
       "Sarv Or Se Hoy Niraasaa, Sharan Tumhaari Aayaa.",
-      "Teri Sharan Nirbhay Pad Deti, Santon Ne Yah Gaayaa."
-    ],
-    [
+      "Teri Sharan Nirbhay Pad Deti, Santon Ne Yah Gaayaa.",
       "Kahe Teun Karo Rakhvaar, Dehi Mohi Nirbhay Pad Nirdhaar || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 35 || 97 ||",
+    "मैं आय पड़ा हूँ द्वार, शरण में राखले प्रभू",
     "Main Aay Paraa Hun Dvaar, Sharan Men Raakhle Prabhu",
-    "मैं ाय परा हुन दवार, शरन मेन राखले प्रभु"
+    "राग आसा भजन 35",
+    "Raag Aasaa Bhajan 35"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 97,
+  "displayOrder": 35,
+  "overallOrder": 97,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 74",
+  "updatedAt": "2026-10-26"
 }

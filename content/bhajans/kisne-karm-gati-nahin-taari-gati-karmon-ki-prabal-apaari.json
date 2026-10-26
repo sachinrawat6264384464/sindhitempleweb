@@ -1,93 +1,138 @@
 {
-  "id": "bhajan-0790",
+  "id": "bhajan-0788",
   "slug": "kisne-karm-gati-nahin-taari-gati-karmon-ki-prabal-apaari",
   "categoryId": "raag-pilaa",
-  "title": "किसने करम गति नहिन तारि, गति करमोन कि परबल पारि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "किसने कर्म गती नहिं टारी, गति कर्मों की प्रबल अपारी",
   "romanTitle": "Kisne Karm Gati Nahin Taari, Gati Karmon Ki Prabal Apaari",
-  "firstLine": "Kisne Karm Gati Nahin Taari, Gati Karmon Ki Prabal Apaari. He Sujaano Sat‌ Kar Maano (Tek).",
+  "firstLine": "Kisne Karm Gati Nahin Taari, Gati Karmon Ki Prabal Apaari.",
+  "heading": "।। राग पीला भजन ।। ६८ ।। ७९०॥।",
+  "tek": [
+    "किसने कर्म गती नहिं टारी, गति कर्मों की प्रबल अपारी ।",
+    "हे सुजानो सत्‌ कर मानो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kisne Karm Gati Nahin Taari, Gati Karmon Ki Prabal Apaari.",
+    "He Sujaano Sat‌ Kar Maano (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "द्ठ्ठ",
+        "देव दैत्यों ने किया जब क्षीर सागर को मथन ।",
+        "ज़हर अमृत आदि निकले ताहिं से चौदह रतन ।",
+        "मिली कर्मों से शिव विष भारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dthth",
+        "Dev Daityon Ne Kiyaa Jab Kshir Saagar Ko Mathan.",
+        "Zahar Amrit Aadi Nikle Taahin Se Chaudah Ratan.",
+        "Mili Karmon Se Shiv Vish Bhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम बन सीया हरन दशरथ त्यागे प्रान जी ।",
+        "कलंक केकई को लगा और लखन लागा बान जी ।",
+        "मरे कर्म से रावण हंकारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Ban Siyaa Haran Dashrath Tyaage Praan Ji.",
+        "Kalank Keki Ko Lagaa Aur Lakhan Laagaa Baan Ji.",
+        "Mare Karm Se Raavan Hankaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "वर्ष तेरह पाण्डवों ने भोगिया बनवास जी ।",
+        "कर्म करके नूप नल ने दुख सहा बन दास जी ।",
+        "देह सर्प की नहुष ने धारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Varsh Terah Paandavon Ne Bhogiyaa Banvaas Ji.",
+        "Karm Karke Nup Nal Ne Dukh Sahaa Ban Daas Ji.",
+        "Deh Sarp Ki Nahush Ne Dhaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ कर्म आगे ज़ोर किसका ना चले ।",
+        "कर्म के वश सृष्टि सारी बीज कमों का फले ।",
+        "भोगत कर्म को सब नर नारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Karm Aage Zor Kiskaa Naa Chale.",
+        "Karm Ke Vash Srishti Saari Bij Kamon Kaa Phale.",
+        "Bhogat Karm Ko Sab Nar Naari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "किसने करम गति नहिन तारि, गति करमोन कि परबल पारि.",
-      "हे सुजानो सत‌ कर मानो (टेक)."
+      "द्ठ्ठ",
+      "देव दैत्यों ने किया जब क्षीर सागर को मथन ।",
+      "ज़हर अमृत आदि निकले ताहिं से चौदह रतन ।",
+      "मिली कर्मों से शिव विष भारी ॥१ ॥"
     ],
     [
-      "दथथ",
-      "देव दैतयोन ने किया जब कशिर सागर को मथन."
+      "राम बन सीया हरन दशरथ त्यागे प्रान जी ।",
+      "कलंक केकई को लगा और लखन लागा बान जी ।",
+      "मरे कर्म से रावण हंकारी ॥२ ॥"
     ],
     [
-      "zहर अमृत ादि निकले ताहिन से चौदह रतन.",
-      "मिलि करमोन से शिव विश भारि || 1 ||."
+      "वर्ष तेरह पाण्डवों ने भोगिया बनवास जी ।",
+      "कर्म करके नूप नल ने दुख सहा बन दास जी ।",
+      "देह सर्प की नहुष ने धारी ॥३ ॥"
     ],
     [
-      "राम बन सिया हरन दशरथ तयागे परान जी.",
-      "कलनक केकि को लगा ौर लखन लागा बान जी."
-    ],
-    [
-      "मरे करम से रावन हनकारि || || 2 ||."
-    ],
-    [
-      "वरश तेरह पानदवोन ने भोगिया बनवास जी.",
-      "करम करके नुप नल ने दुःख सहा बन दास जी."
-    ],
-    [
-      "देह सरप कि नहुश ने धारि || 3 ||."
-    ],
-    [
-      "कहत तेऊँ करम ागे zोर किसका ना चले.",
-      "करम के वश सरिशति सारि बिज कमोन का फले."
-    ],
-    [
-      "भोगत करम को सब नर नारि || 4 ||"
+      "कहत टेऊँ कर्म आगे ज़ोर किसका ना चले ।",
+      "कर्म के वश सृष्टि सारी बीज कमों का फले ।",
+      "भोगत कर्म को सब नर नारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kisne Karm Gati Nahin Taari, Gati Karmon Ki Prabal Apaari.",
-      "He Sujaano Sat‌ Kar Maano (Tek)."
-    ],
-    [
       "Dthth",
-      "Dev Daityon Ne Kiyaa Jab Kshir Saagar Ko Mathan."
-    ],
-    [
+      "Dev Daityon Ne Kiyaa Jab Kshir Saagar Ko Mathan.",
       "Zahar Amrit Aadi Nikle Taahin Se Chaudah Ratan.",
-      "Mili Karmon Se Shiv Vish Bhaari || 1 ||."
+      "Mili Karmon Se Shiv Vish Bhaari || 1 ||"
     ],
     [
       "Raam Ban Siyaa Haran Dashrath Tyaage Praan Ji.",
-      "Kalank Keki Ko Lagaa Aur Lakhan Laagaa Baan Ji."
-    ],
-    [
-      "Mare Karm Se Raavan Hankaari || || 2 ||."
+      "Kalank Keki Ko Lagaa Aur Lakhan Laagaa Baan Ji.",
+      "Mare Karm Se Raavan Hankaari || 2 ||"
     ],
     [
       "Varsh Terah Paandavon Ne Bhogiyaa Banvaas Ji.",
-      "Karm Karke Nup Nal Ne Dukh Sahaa Ban Daas Ji."
-    ],
-    [
-      "Deh Sarp Ki Nahush Ne Dhaari || 3 ||."
+      "Karm Karke Nup Nal Ne Dukh Sahaa Ban Daas Ji.",
+      "Deh Sarp Ki Nahush Ne Dhaari || 3 ||"
     ],
     [
       "Kahat Teun Karm Aage Zor Kiskaa Naa Chale.",
-      "Karm Ke Vash Srishti Saari Bij Kamon Kaa Phale."
-    ],
-    [
+      "Karm Ke Vash Srishti Saari Bij Kamon Kaa Phale.",
       "Bhogat Karm Ko Sab Nar Naari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 68 || 790 ||.",
+    "किसने कर्म गती नहिं टारी, गति कर्मों की प्रबल अपारी",
     "Kisne Karm Gati Nahin Taari, Gati Karmon Ki Prabal Apaari",
-    "किसने करम गति नहिन तारि, गति करमोन कि परबल पारि"
+    "राग पीला भजन 67",
+    "Raag Pilaa Bhajan 67"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 790,
+  "displayOrder": 67,
+  "overallOrder": 788,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 416",
+  "updatedAt": "2026-10-26"
 }

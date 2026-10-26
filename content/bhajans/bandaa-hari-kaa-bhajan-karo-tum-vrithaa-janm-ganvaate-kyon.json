@@ -2,52 +2,99 @@
   "id": "bhajan-0428",
   "slug": "bandaa-hari-kaa-bhajan-karo-tum-vrithaa-janm-ganvaate-kyon",
   "categoryId": "raag-tilang",
-  "title": "बनदा हरि का भजन करो तुम, वरिथा जनम गनवाते कयोन",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "बन्दा हरि का भजन करो तुम, वृथा जन्म गँवाते क्यों",
   "romanTitle": "Bandaa Hari Kaa Bhajan Karo Tum, Vrithaa Janm Ganvaate Kyon",
   "firstLine": "Bandaa Hari Kaa Bhajan Karo Tum, Vrithaa Janm Ganvaate Kyon (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६५ ।। ४२९।।",
+  "tek": [
+    "बन्दा हरि का भजन करो तुम, वृथा जन्म गँवाते क्यों ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandaa Hari Kaa Bhajan Karo Tum, Vrithaa Janm Ganvaate Kyon (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भजन हेतु तन मानुष पाया, विषयों में लपटाते क्यों ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhajan Hetu Tan Maanush Paayaa, Vishyon Men Laptaate Kyon || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आज कहे मैं काल भजूंगा, यों कह वक्त बिताते क्यों ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aaj Kahe Main Kaal Bhajungaa, Yon Kah Vakt Bitaate Kyon || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "संतों ने तुझ बहु समझाया, दिल में सो न हंडाते क्यों ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Santon Ne Tujh Bahu Samjhaayaa, Dil Men So Na Handaate Kyon || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि भजन बिना नर, जग में बहु दुख पाते क्यों ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Bhajan Binaa Nar, Jag Men Bahu Dukh Paate Kyon || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनदा हरि का भजन करो तुम, वरिथा जनम गनवाते कयोन (टेक)."
+      "भजन हेतु तन मानुष पाया, विषयों में लपटाते क्यों ॥१ ॥"
     ],
     [
-      "भजन हेतु तन मानुश पाया, विशयोन मेन लपताते कयोन || 1 ||."
+      "आज कहे मैं काल भजूंगा, यों कह वक्त बिताते क्यों ॥२ ॥"
     ],
     [
-      "ाज कहे मैं काल भजुनगा, योन कह वकत बिताते कयोन || 2 ||"
+      "संतों ने तुझ बहु समझाया, दिल में सो न हंडाते क्यों ॥ ३े ॥"
     ],
     [
-      "सनतोन ने तुझ बहु समझाया, दिल मेन सो न हनदाते कयोन || 3े ||",
-      "कहे तेऊँ हरि भजन बिना नर, जग मेन बहु दुःख पाते कयोन || 4 ||"
+      "कहे टेऊँ हरि भजन बिना नर, जग में बहु दुख पाते क्यों ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandaa Hari Kaa Bhajan Karo Tum, Vrithaa Janm Ganvaate Kyon (Tek)."
-    ],
-    [
-      "Bhajan Hetu Tan Maanush Paayaa, Vishyon Men Laptaate Kyon || 1 ||."
+      "Bhajan Hetu Tan Maanush Paayaa, Vishyon Men Laptaate Kyon || 1 ||"
     ],
     [
       "Aaj Kahe Main Kaal Bhajungaa, Yon Kah Vakt Bitaate Kyon || 2 ||"
     ],
     [
-      "Santon Ne Tujh Bahu Samjhaayaa, Dil Men So N Handaate Kyon || 3E ||",
+      "Santon Ne Tujh Bahu Samjhaayaa, Dil Men So Na Handaate Kyon || 3E ||"
+    ],
+    [
       "Kahe Teun Hari Bhajan Binaa Nar, Jag Men Bahu Dukh Paate Kyon || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 65 || 429 ||",
+    "बन्दा हरि का भजन करो तुम, वृथा जन्म गँवाते क्यों",
     "Bandaa Hari Kaa Bhajan Karo Tum, Vrithaa Janm Ganvaate Kyon",
-    "बनदा हरि का भजन करो तुम, वरिथा जनम गनवाते कयोन"
+    "राग तिलंग भजन 65",
+    "Raag Tilang Bhajan 65"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 428,
+  "displayOrder": 65,
+  "overallOrder": 428,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 244",
+  "updatedAt": "2026-10-26"
 }

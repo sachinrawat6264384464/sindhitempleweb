@@ -1,94 +1,138 @@
 {
-  "id": "bhajan-0791",
+  "id": "bhajan-0789",
   "slug": "mohi-paar-utaar-akhev-guru",
   "categoryId": "raag-pilaa",
-  "title": "मोहि पार ुतार खेव गुरु",
-  "romanTitle": "Mohi Paar Utaar Akhev Guru",
-  "firstLine": "Mohi Paar Utaar Akhev Guru, Meri Laaj Rakho Hari Ev Guru (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मोहि पार उतार अखेव गुरू,",
+  "romanTitle": "Mohi Paar Utaar Akhev Guru,",
+  "firstLine": "Mohi Paar Utaar Akhev Guru,",
+  "heading": "।। राग पीला भजन ।। ६९ ।। ७९१।॥।",
+  "tek": [
+    "मोहि पार उतार अखेव गुरू,",
+    "मेरी लाज रखो हरि एव गुरू ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mohi Paar Utaar Akhev Guru,",
+    "Meri Laaj Rakho Hari Ev Guru (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दिल केरे दरियाह में, प्रवाह चिन्ता का बड़ा ।",
+        "तमो गुण तूफान भारी, तरंग फुरना है खड़ा ।",
+        "अज्ञ तम हरो रवि देव गुरू ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dil Kere Dariyaah Men, Pravaah Chintaa Kaa Baraa.",
+        "Tamo Gun Tuphaan Bhaari, Tarang Phurnaa Hai Kharaa.",
+        "Ajny Tam Haro Ravi Dev Guru || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शुभ अशुभ जिसके किनारे, सुख दुख की लहरी लगी ।",
+        "लोभ के लुधड़े बने पुनि, वासना बग ज्यों जगी ।",
+        "मच्छ मदन हरो सत्‌ सेव गुरू ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shubh Ashubh Jiske Kinaare, Sukh Dukh Ki Lahri Lagi.",
+        "Lobh Ke Ludhre Bane Puni, Vaasnaa Bag Jyon Jagi.",
+        "Machchh Madan Haro Sat‌ Sev Guru || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्द्ठ",
+        "भ्रान्ति की बहुलण बड़ी है, कामना के कुन बहू ।",
+        "विरोध के वागू बली अरु, क्रोध के भारी कछू ।",
+        "भय दूर करो हरिदेव गुरू ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Ddth",
+        "Bhraanti Ki Bahulan Bari Hai, Kaamnaa Ke Kun Bahu.",
+        "Virodh Ke Vaagu Bali Aru, Krodh Ke Bhaari Kachhu.",
+        "Bhay Dur Karo Haridev Guru || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ जोड़ कर यह, टेर गुरु मेरी सुनो ।",
+        "ज्ञान नौका पर चढ़ा कर, भमर संसा सब हनो ।",
+        "माथे हाथ धरो महादेव गुरू ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Jor Kar Yah, Ter Guru Meri Suno.",
+        "Gyaan Naukaa Par Charhaa Kar, Bhamar Sansaa Sab Hano.",
+        "Maathe Haath Dharo Mahaadev Guru || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोहि पार ुतार खेव गुरु,",
-      "मेरि लाज रखो हरि ेव गुरु (टेक)."
+      "दिल केरे दरियाह में, प्रवाह चिन्ता का बड़ा ।",
+      "तमो गुण तूफान भारी, तरंग फुरना है खड़ा ।",
+      "अज्ञ तम हरो रवि देव गुरू ॥१ ॥"
     ],
     [
-      "दिल केरे दरियाह मेन, परवाह चिनता का बरा.",
-      "तमो गुन तुफान भारि, तरनग फुरना है खरा."
+      "शुभ अशुभ जिसके किनारे, सुख दुख की लहरी लगी ।",
+      "लोभ के लुधड़े बने पुनि, वासना बग ज्यों जगी ।",
+      "मच्छ मदन हरो सत्‌ सेव गुरू ॥२ ॥"
     ],
     [
-      "जनय तम हरो रवि देव गुरु || 1 ||."
+      "द्द्ठ",
+      "भ्रान्ति की बहुलण बड़ी है, कामना के कुन बहू ।",
+      "विरोध के वागू बली अरु, क्रोध के भारी कछू ।",
+      "भय दूर करो हरिदेव गुरू ॥ ।३े ॥ ।"
     ],
     [
-      "शुभ शुभ जिसके किनारे, सुख दुःख कि लहरि लगि.",
-      "लोभ के लुधरे बने पुनि, वासना बग जयोन जगि."
-    ],
-    [
-      "मचचह मदन हरो सत‌ सेव गुरु || 2 ||"
-    ],
-    [
-      "ददथ",
-      "भरानति कि बहुलन बरि है, कामना के कुन बहु."
-    ],
-    [
-      "विरोध के वागु बलि रु, करोध के भारि कचहु.",
-      "भय दुर करो हरिदेव गुरु ||.3े ||."
-    ],
-    [
-      "कहत तेऊँ जोर कर यह, तेर गुरु मेरि सुनो.",
-      "ज्ञान नौका पर चरहा कर, भमर सनसा सब हनो."
-    ],
-    [
-      "माथे हाथ धरो महादेव गुरु || 4. ||."
+      "कहत टेऊँ जोड़ कर यह, टेर गुरु मेरी सुनो ।",
+      "ज्ञान नौका पर चढ़ा कर, भमर संसा सब हनो ।",
+      "माथे हाथ धरो महादेव गुरू ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mohi Paar Utaar Akhev Guru,",
-      "Meri Laaj Rakho Hari Ev Guru (Tek)."
-    ],
-    [
       "Dil Kere Dariyaah Men, Pravaah Chintaa Kaa Baraa.",
-      "Tamo Gun Tuphaan Bhaari, Tarang Phurnaa Hai Kharaa."
-    ],
-    [
-      "Ajny Tam Haro Ravi Dev Guru || 1 ||."
+      "Tamo Gun Tuphaan Bhaari, Tarang Phurnaa Hai Kharaa.",
+      "Ajny Tam Haro Ravi Dev Guru || 1 ||"
     ],
     [
       "Shubh Ashubh Jiske Kinaare, Sukh Dukh Ki Lahri Lagi.",
-      "Lobh Ke Ludhre Bane Puni, Vaasnaa Bag Jyon Jagi."
-    ],
-    [
+      "Lobh Ke Ludhre Bane Puni, Vaasnaa Bag Jyon Jagi.",
       "Machchh Madan Haro Sat‌ Sev Guru || 2 ||"
     ],
     [
       "Ddth",
-      "Bhraanti Ki Bahulan Bari Hai, Kaamnaa Ke Kun Bahu."
-    ],
-    [
+      "Bhraanti Ki Bahulan Bari Hai, Kaamnaa Ke Kun Bahu.",
       "Virodh Ke Vaagu Bali Aru, Krodh Ke Bhaari Kachhu.",
-      "Bhay Dur Karo Haridev Guru ||.3E ||."
+      "Bhay Dur Karo Haridev Guru || 3E ||"
     ],
     [
       "Kahat Teun Jor Kar Yah, Ter Guru Meri Suno.",
-      "Jnyaan Naukaa Par Charhaa Kar, Bhamar Sansaa Sab Hano."
-    ],
-    [
-      "Maathe Haath Dharo Mahaadev Guru || 4. ||."
+      "Gyaan Naukaa Par Charhaa Kar, Bhamar Sansaa Sab Hano.",
+      "Maathe Haath Dharo Mahaadev Guru || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 69 || 791. ||.",
-    "Mohi Paar Utaar Akhev Guru",
-    "मोहि पार ुतार खेव गुरु"
+    "मोहि पार उतार अखेव गुरू,",
+    "Mohi Paar Utaar Akhev Guru,",
+    "राग पीला भजन 68",
+    "Raag Pilaa Bhajan 68"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 791,
+  "displayOrder": 68,
+  "overallOrder": 789,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 417",
+  "updatedAt": "2026-10-26"
 }

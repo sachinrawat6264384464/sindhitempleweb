@@ -1,51 +1,102 @@
 {
-  "id": "bhajan-0514",
+  "id": "bhajan-0512",
   "slug": "sahsen-saang-banaae-saajan",
   "categoryId": "raag-kohiyaari",
-  "title": "सहसेन सानग बनाे साजन",
-  "romanTitle": "Sahsen Saang Banaae Saajan",
-  "firstLine": "Sahsen Saang Banaae Saajan, Apni Mauj Machaae, Raas Rachaae (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सहसें सांग बनाए साजन,",
+  "romanTitle": "Sahsen Saang Banaae Saajan,",
+  "firstLine": "Sahsen Saang Banaae Saajan,",
+  "heading": "।। राग कोह्यारी भजन ।। ३३ ।। ५१३।॥।",
+  "tek": [
+    "सहसें सांग बनाए साजन,",
+    "अपनी मौज मचाए, रास रचाए ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sahsen Saang Banaae Saajan,",
+    "Apni Mauj Machaae, Raas Rachaae (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आप विष्णु शिव ब्रह्मा बनकर, नाना खेल खिलाए ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aap Vishnu Shiv Brahmaa Bankar, Naanaa Khel Khilaae || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आप बली पुनि बावन होकर, महिमा दान बढ़ाए ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aap Bali Puni Baavan Hokar, Mahimaa Daan Barhaae || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आप कृष्ण पुनि सखियां बनकर, मुरली मधुर बजाए ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Aap Krishn Puni Sakhiyaan Bankar, Murli Madhur Bajaae || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हो आपे हरिजन, निशदिन निज गुन गाए ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ho Aape Harijan, Nishdin Nij Gun Gaae || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सहसेन सानग बनाे साजन,",
-      "पनि मौज मचाे, रास रचाे (टेक)."
+      "आप विष्णु शिव ब्रह्मा बनकर, नाना खेल खिलाए ॥१ ॥"
     ],
     [
-      "ाप विशनु शिव बरहम बनकर, नाना खेल खिलाे.1 ||.",
-      "ाप बलि पुनि बावन होकर, महिमा दान बरहाे || 2 ||."
+      "आप बली पुनि बावन होकर, महिमा दान बढ़ाए ॥२ ॥"
     ],
     [
-      "ाप करिशन पुनि सखियान बनकर, मुरलि मधुर बजाे || 3े ||",
-      "कहे तेऊँ हो ापे हरिजन, निशदिन निज गुन गाे || 4 ||"
+      "आप कृष्ण पुनि सखियां बनकर, मुरली मधुर बजाए ॥ ३े ॥"
+    ],
+    [
+      "कहे टेऊँ हो आपे हरिजन, निशदिन निज गुन गाए ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sahsen Saang Banaae Saajan,",
-      "Apni Mauj Machaae, Raas Rachaae (Tek)."
+      "Aap Vishnu Shiv Brahmaa Bankar, Naanaa Khel Khilaae || 1 ||"
     ],
     [
-      "Aap Vishnu Shiv Brahma Bankar, Naanaa Khel Khilaae.1 ||.",
-      "Aap Bali Puni Baavan Hokar, Mahimaa Daan Barhaae || 2 ||."
+      "Aap Bali Puni Baavan Hokar, Mahimaa Daan Barhaae || 2 ||"
     ],
     [
-      "Aap Krishn Puni Sakhiyaan Bankar, Murli Madhur Bajaae || 3E ||",
+      "Aap Krishn Puni Sakhiyaan Bankar, Murli Madhur Bajaae || 3E ||"
+    ],
+    [
       "Kahe Teun Ho Aape Harijan, Nishdin Nij Gun Gaae || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohyaari Bhajan || 33 || 513. ||.",
-    "Sahsen Saang Banaae Saajan",
-    "सहसेन सानग बनाे साजन"
+    "सहसें सांग बनाए साजन,",
+    "Sahsen Saang Banaae Saajan,",
+    "राग कोहियारी भजन 33",
+    "Raag Kohiyaari Bhajan 33"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 514,
+  "displayOrder": 33,
+  "overallOrder": 512,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 284",
+  "updatedAt": "2026-10-26"
 }

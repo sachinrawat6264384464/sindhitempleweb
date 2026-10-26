@@ -2,70 +2,124 @@
   "id": "bhajan-0077",
   "slug": "man-ke-maaran-vaalaa-virlaa-jnyaani",
   "categoryId": "raag-aasaa",
-  "title": "मन के मारन वाला विरला जनयानि",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मन के मारन वाला विरला ज्ञानी",
   "romanTitle": "Man Ke Maaran Vaalaa Virlaa Jnyaani",
   "firstLine": "Man Ke Maaran Vaalaa Virlaa Jnyaani (Tek).",
+  "heading": "।। राग आसा भजन ।। १५ ।। ७७॥।",
+  "tek": [
+    "मन के मारन वाला विरला ज्ञानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Ke Maaran Vaalaa Virlaa Jnyaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धातू के मारन वाले देखे बहुतियां,",
+        "बूटी के जारन वाले पेखे केतियां ।",
+        "पंछी के मारन वाले केते कमानी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhaatu Ke Maaran Vaale Dekhe Bahutiyaan,",
+        "Buti Ke Jaaran Vaale Pekhe Ketiyaan.",
+        "Panchhi Ke Maaran Vaale Kete Kamaani || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कान के कटान वाले केते देखिया,",
+        "भेख के बनान वाले केते भेखिया ।",
+        "ध्यान के धारन वाले बहुते ध्यानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaan Ke Kataan Vaale Kete Dekhiyaa,",
+        "Bhekh Ke Banaan Vaale Kete Bhekhiyaa.",
+        "Dhyaan Ke Dhaaran Vaale Bahute Dhyaani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पवन के रोकन वाले बहुत जोगियां,",
+        "जग के ठगन वाले बहुत ठोगियां ।",
+        "वेद के वख्यान वाले बहुत वख्यानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pavan Ke Rokan Vaale Bahut Jogiyaan,",
+        "Jag Ke Thagan Vaale Bahut Thogiyaan.",
+        "Ved Ke Vakhyaan Vaale Bahut Vakhyaani || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "और सभी कर्म है सुगम धारना,",
+        "कहे टेऊँ कठिन एक मन मारना ।",
+        "जोई मन मारे सोई वीर विज्ञानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aur Sabhi Karm Hai Sugam Dhaarnaa,",
+        "Kahe Teun Kathin Ek Man Maarnaa.",
+        "Joi Man Maare Soi Vir Vijnyaani || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््ठ"
+      ],
+      "romanLines": [
+        "Gth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन के मारन वाला विरला जनयानि (टेक)."
+      "धातू के मारन वाले देखे बहुतियां,",
+      "बूटी के जारन वाले पेखे केतियां ।",
+      "पंछी के मारन वाले केते कमानी ॥१ ॥"
     ],
     [
-      "धातु के मारन वाले देखे बहुतियान,",
-      "बुति के जारन वाले पेखे केतियान."
+      "कान के कटान वाले केते देखिया,",
+      "भेख के बनान वाले केते भेखिया ।",
+      "ध्यान के धारन वाले बहुते ध्यानी ॥२ ॥"
     ],
     [
-      "पनचहि के मारन वाले केते कमानि || 1 ||"
+      "पवन के रोकन वाले बहुत जोगियां,",
+      "जग के ठगन वाले बहुत ठोगियां ।",
+      "वेद के वख्यान वाले बहुत वख्यानी ॥३ ॥"
     ],
     [
-      "कान के कतान वाले केते देखिया,",
-      "भेख के बनान वाले केते भेखिया."
+      "और सभी कर्म है सुगम धारना,",
+      "कहे टेऊँ कठिन एक मन मारना ।",
+      "जोई मन मारे सोई वीर विज्ञानी ॥४ ॥"
     ],
     [
-      "ध्यान के धारन वाले बहुते धयानि || 2 ||"
-    ],
-    [
-      "पवन के रोकन वाले बहुत जोगियान,",
-      "जग के थगन वाले बहुत थोगियान."
-    ],
-    [
-      "वेद के वखयान वाले बहुत वखयानि ||.3 ||.",
-      "ौर सभि करम है सुगम धारना,"
-    ],
-    [
-      "कहे तेऊँ कथिन ेक मन मारना.",
-      "जोि मन मारे सोि विर विजनयानि || 4 ||"
-    ],
-    [
-      "गथ"
+      "ग््ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Ke Maaran Vaalaa Virlaa Jnyaani (Tek)."
-    ],
-    [
       "Dhaatu Ke Maaran Vaale Dekhe Bahutiyaan,",
-      "Buti Ke Jaaran Vaale Pekhe Ketiyaan."
-    ],
-    [
+      "Buti Ke Jaaran Vaale Pekhe Ketiyaan.",
       "Panchhi Ke Maaran Vaale Kete Kamaani || 1 ||"
     ],
     [
       "Kaan Ke Kataan Vaale Kete Dekhiyaa,",
-      "Bhekh Ke Banaan Vaale Kete Bhekhiyaa."
-    ],
-    [
+      "Bhekh Ke Banaan Vaale Kete Bhekhiyaa.",
       "Dhyaan Ke Dhaaran Vaale Bahute Dhyaani || 2 ||"
     ],
     [
       "Pavan Ke Rokan Vaale Bahut Jogiyaan,",
-      "Jag Ke Thagan Vaale Bahut Thogiyaan."
+      "Jag Ke Thagan Vaale Bahut Thogiyaan.",
+      "Ved Ke Vakhyaan Vaale Bahut Vakhyaani || 3 ||"
     ],
     [
-      "Ved Ke Vakhyaan Vaale Bahut Vakhyaani ||.3 ||.",
-      "Aur Sabhi Karm Hai Sugam Dhaarnaa,"
-    ],
-    [
+      "Aur Sabhi Karm Hai Sugam Dhaarnaa,",
       "Kahe Teun Kathin Ek Man Maarnaa.",
       "Joi Man Maare Soi Vir Vijnyaani || 4 ||"
     ],
@@ -74,18 +128,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 15 || 77 ||.",
+    "मन के मारन वाला विरला ज्ञानी",
     "Man Ke Maaran Vaalaa Virlaa Jnyaani",
-    "मन के मारन वाला विरला जनयानि"
+    "राग आसा भजन 15",
+    "Raag Aasaa Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 77,
+  "displayOrder": 15,
+  "overallOrder": 77,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 64",
+  "updatedAt": "2026-10-26"
 }

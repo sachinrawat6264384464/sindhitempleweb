@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0785",
+  "id": "bhajan-0783",
   "slug": "bandhan-se-jo-chhutan-chaaho-jag-se-ho-vairaagi-re",
   "categoryId": "raag-pilaa",
-  "title": "बनधन से जो चहुतन चाहो, जग से हो वैरागि रे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "बन्धन से जो छूटन चाहो, जग से हो वैरागी रे",
   "romanTitle": "Bandhan Se Jo Chhutan Chaaho, Jag Se Ho Vairaagi Re",
   "firstLine": "Bandhan Se Jo Chhutan Chaaho, Jag Se Ho Vairaagi Re (Tek).",
+  "heading": "।। राग पीला भजन ।। ६३ ।। ७८५।॥।",
+  "tek": [
+    "बन्धन से जो छूटन चाहो, जग से हो वैरागी रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bandhan Se Jo Chhutan Chaaho, Jag Se Ho Vairaagi Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मृग गले ज्यों तुम्हरे मन में, ममता डोरी लागी रे ।",
+        "माया खूंटी से तुम बांधे, मूंढमती दुर्भागी रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mrig Gale Jyon Tumhare Man Men, Mamtaa Dori Laagi Re.",
+        "Maayaa Khunti Se Tum Baandhe, Mundhmati Durbhaagi Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "विराग खड्जर बुद्धि कर में ले, काट जेवरी जागी रे ।",
+        "निर्बन्धन हो हरि को सुमरे, हरि में हो अनुरागी रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Viraag Khadjar Buddhi Kar Men Le, Kaat Jevri Jaagi Re.",
+        "Nirbandhan Ho Hari Ko Sumre, Hari Men Ho Anuraagi Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच विषय में ममता करके, पांचों देह त्यागी रे ।",
+        "ममता कर शुक मरकट आदिक, होये दुख के भागी रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Vishay Men Mamtaa Karke, Paanchon Deh Tyaagi Re.",
+        "Mamtaa Kar Shuk Markat Aadik, Hoye Dukh Ke Bhaagi Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भोग विषय को दुखमय लख कर, होय न इनमें रागी रे ।",
+        "कहे टेऊँं सब ममता त्यागे, हो जा तुम बड़भागी रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhog Vishay Ko Dukhmay Lakh Kar, Hoy Na Inmen Raagi Re.",
+        "Kahe Teunn Sab Mamtaa Tyaage, Ho Jaa Tum Barbhaagi Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बनधन से जो चहुतन चाहो, जग से हो वैरागि रे (टेक)."
+      "मृग गले ज्यों तुम्हरे मन में, ममता डोरी लागी रे ।",
+      "माया खूंटी से तुम बांधे, मूंढमती दुर्भागी रे ॥१ ॥"
     ],
     [
-      "मरिग गले जयोन तुमहरे मन मेन, ममता दोरि लागि रे.",
-      "माया खुनति से तुम बानधे, मुनधमति दुरभागि रे.1 ||."
+      "विराग खड्जर बुद्धि कर में ले, काट जेवरी जागी रे ।",
+      "निर्बन्धन हो हरि को सुमरे, हरि में हो अनुरागी रे ॥२ ॥"
     ],
     [
-      "विराग खदजर बुदधि कर मेन ले, कात जेवरि जागि रे.",
-      "निरबनधन हो हरि को सुमरे, हरि मेन हो नुरागि रे || 2 ||."
+      "पांच विषय में ममता करके, पांचों देह त्यागी रे ।",
+      "ममता कर शुक मरकट आदिक, होये दुख के भागी रे ॥३ ॥"
     ],
     [
-      "पानच विशय मेन ममता करके, पानचोन देह तयागि रे.",
-      "ममता कर शुक मरकत ादिक, होये दुःख के भागि रे || 3 ||"
-    ],
-    [
-      "भोग विशय को दुखमय लख कर, होय न िनमेन रागि रे.",
-      "कहे तेुनन सब ममता तयागे, हो जा तुम बरभागि रे || 4 ||."
+      "भोग विषय को दुखमय लख कर, होय न इनमें रागी रे ।",
+      "कहे टेऊँं सब ममता त्यागे, हो जा तुम बड़भागी रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bandhan Se Jo Chhutan Chaaho, Jag Se Ho Vairaagi Re (Tek)."
-    ],
-    [
       "Mrig Gale Jyon Tumhare Man Men, Mamtaa Dori Laagi Re.",
-      "Maayaa Khunti Se Tum Baandhe, Mundhmati Durbhaagi Re.1 ||."
+      "Maayaa Khunti Se Tum Baandhe, Mundhmati Durbhaagi Re || 1 ||"
     ],
     [
       "Viraag Khadjar Buddhi Kar Men Le, Kaat Jevri Jaagi Re.",
-      "Nirbandhan Ho Hari Ko Sumre, Hari Men Ho Anuraagi Re || 2 ||."
+      "Nirbandhan Ho Hari Ko Sumre, Hari Men Ho Anuraagi Re || 2 ||"
     ],
     [
       "Paanch Vishay Men Mamtaa Karke, Paanchon Deh Tyaagi Re.",
       "Mamtaa Kar Shuk Markat Aadik, Hoye Dukh Ke Bhaagi Re || 3 ||"
     ],
     [
-      "Bhog Vishay Ko Dukhmay Lakh Kar, Hoy N Inmen Raagi Re.",
-      "Kahe Teunn Sab Mamtaa Tyaage, Ho Jaa Tum Barbhaagi Re || 4 ||."
+      "Bhog Vishay Ko Dukhmay Lakh Kar, Hoy Na Inmen Raagi Re.",
+      "Kahe Teunn Sab Mamtaa Tyaage, Ho Jaa Tum Barbhaagi Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 63 || 785. ||.",
+    "बन्धन से जो छूटन चाहो, जग से हो वैरागी रे",
     "Bandhan Se Jo Chhutan Chaaho, Jag Se Ho Vairaagi Re",
-    "बनधन से जो चहुतन चाहो, जग से हो वैरागि रे"
+    "राग पीला भजन 62",
+    "Raag Pilaa Bhajan 62"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 785,
+  "displayOrder": 62,
+  "overallOrder": 783,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 414",
+  "updatedAt": "2026-10-26"
 }

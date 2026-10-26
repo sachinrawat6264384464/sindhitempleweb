@@ -1,65 +1,116 @@
 {
   "id": "bhajan-0351",
   "slug": "birah-basant-mere-ghar-aaye-hoyaa-manglachaaraa-ji",
-  "categoryId": "raag-aasaa",
-  "title": "बिरह बसनत मेरे घर ाये, होया मनगलचारा जी",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "बिरह बसन्त मेरे घर आये, होया मंगलचारा जी",
   "romanTitle": "Birah Basant Mere Ghar Aaye, Hoyaa Manglachaaraa Ji",
   "firstLine": "Birah Basant Mere Ghar Aaye, Hoyaa Manglachaaraa Ji (Tek).",
+  "heading": "।। राग बसन्त भजन ।। ८ ।। ३५१।।",
+  "tek": [
+    "बिरह बसन्त मेरे घर आये, होया मंगलचारा जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Birah Basant Mere Ghar Aaye, Hoyaa Manglachaaraa Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बाजे बन्सी शंख सितारा, बाजे मृदंग चंग चौतारा ।",
+        "झांझन का झनकारा जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baaje Bansi Shankh Sitaaraa, Baaje Mridang Chang Chautaaraa.",
+        "Jhaanjhan Kaa Jhankaaraa Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रिलमिल सखियां हरि गुन गाया, सुरति निरति ने आनन्द पाया ।",
+        "भूल गया व्यवहारा जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Rilmil Sakhiyaan Hari Gun Gaayaa, Surti Nirti Ne Aanand Paayaa.",
+        "Bhul Gayaa Vyavhaaraa Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन मन्दिर में भया प्रकाशा , अविद्या तम का भया विनाशा ।",
+        "होया जय जयकारा जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man Mandir Men Bhayaa Prakaashaa, Avidyaa Tam Kaa Bhayaa Vinaashaa.",
+        "Hoyaa Jay Jaykaaraa Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मोहि दर्शन दीना, दर्शन कर मैं सब दुख छीना ।",
+        "पाया सूख अपारा जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mohi Darshan Dinaa, Darshan Kar Main Sab Dukh Chhinaa.",
+        "Paayaa Sukh Apaaraa Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बिरह बसनत मेरे घर ाये, होया मनगलचारा जी (टेक)."
+      "बाजे बन्सी शंख सितारा, बाजे मृदंग चंग चौतारा ।",
+      "झांझन का झनकारा जी ॥१ ॥"
     ],
     [
-      "बाजे बनसि शनख सितारा, बाजे मरिदनग चनग चौतारा.",
-      "झानझन का झनकारा जी ||.1. ||."
+      "रिलमिल सखियां हरि गुन गाया, सुरति निरति ने आनन्द पाया ।",
+      "भूल गया व्यवहारा जी ॥२ ॥"
     ],
     [
-      "रिलमिल सखियान हरि गुन गाया, सुरति निरति ने आनंद पाया.",
-      "भुल गया वयवहारा जी || 2 ||."
+      "मन मन्दिर में भया प्रकाशा , अविद्या तम का भया विनाशा ।",
+      "होया जय जयकारा जी ॥३ ॥"
     ],
     [
-      "मन मनदिर मेन भया परकाशा, विदया तम का भया विनाशा.",
-      "होया जय जयकारा जी. ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ मोहि दरशन दिना, दरशन कर मैं सब दुःख चहिना.",
-      "पाया सुख पारा जी. ||.4 ||."
+      "कहे टेऊँ मोहि दर्शन दीना, दर्शन कर मैं सब दुख छीना ।",
+      "पाया सूख अपारा जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Birah Basant Mere Ghar Aaye, Hoyaa Manglachaaraa Ji (Tek)."
-    ],
-    [
       "Baaje Bansi Shankh Sitaaraa, Baaje Mridang Chang Chautaaraa.",
-      "Jhaanjhan Kaa Jhankaaraa Ji ||.1. ||."
+      "Jhaanjhan Kaa Jhankaaraa Ji || 1 ||"
     ],
     [
       "Rilmil Sakhiyaan Hari Gun Gaayaa, Surti Nirti Ne Aanand Paayaa.",
-      "Bhul Gayaa Vyavhaaraa Ji || 2 ||."
+      "Bhul Gayaa Vyavhaaraa Ji || 2 ||"
     ],
     [
       "Man Mandir Men Bhayaa Prakaashaa, Avidyaa Tam Kaa Bhayaa Vinaashaa.",
-      "Hoyaa Jay Jaykaaraa Ji. ||.3 ||"
+      "Hoyaa Jay Jaykaaraa Ji || 3 ||"
     ],
     [
       "Kahe Teun Mohi Darshan Dinaa, Darshan Kar Main Sab Dukh Chhinaa.",
-      "Paayaa Sukh Apaaraa Ji. ||.4 ||."
+      "Paayaa Sukh Apaaraa Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 8 || 351 ||",
+    "बिरह बसन्त मेरे घर आये, होया मंगलचारा जी",
     "Birah Basant Mere Ghar Aaye, Hoyaa Manglachaaraa Ji",
-    "बिरह बसनत मेरे घर ाये, होया मनगलचारा जी"
+    "राग बसंत भजन 8",
+    "Raag Basant Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 351,
+  "displayOrder": 8,
+  "overallOrder": 351,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 208",
+  "updatedAt": "2026-10-26"
 }

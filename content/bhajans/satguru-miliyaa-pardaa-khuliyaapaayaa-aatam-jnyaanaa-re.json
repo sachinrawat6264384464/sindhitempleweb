@@ -1,54 +1,89 @@
 {
-  "id": "bhajan-0855",
+  "id": "bhajan-0853",
   "slug": "satguru-miliyaa-pardaa-khuliyaapaayaa-aatam-jnyaanaa-re",
   "categoryId": "raag-jog",
-  "title": "सतगुरु मिलिया परदा खुलियापाया ातम जनयाना रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सत्‌गुरु मिलिया पड़दा खुलिया ,पाया आतम ज्ञाना रे",
   "romanTitle": "Sat‌Guru Miliyaa Pardaa Khuliyaa,Paayaa Aatam Jnyaanaa Re",
   "firstLine": "Sat‌Guru Miliyaa Pardaa Khuliyaa,Paayaa Aatam Jnyaanaa Re (Tek).",
+  "heading": "।। राग जोग भजन ।। २५ ।। ८५५।।",
+  "tek": [
+    "सत्‌गुरु मिलिया पड़दा खुलिया ,पाया आतम ज्ञाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Miliyaa Pardaa Khuliyaa,Paayaa Aatam Jnyaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सर्व जगत आतममय भासत, भेद भ्रम सब भाना रे ॥१ ॥",
+        "शत्रु मित्र पुनि कंचन माटी, नीच ऊँच सम जाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Jagat Aatmamay Bhaasat, Bhed Bhram Sab Bhaanaa Re || 1 ||",
+        "Shatru Mitr Puni Kanchan Maati, Nich Unch Sam Jaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हर्ष शोक नहिं सुख दुख व्यापे, नाहिं मान अपमाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Harsh Shok Nahin Sukh Dukh Vyaape, Naahin Maan Apmaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु कृपा से हम, पाया पद निर्बाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kripaa Se Ham, Paayaa Pad Nirbaanaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु मिलिया परदा खुलियापाया ातम जनयाना रे (टेक)."
+      "सर्व जगत आतममय भासत, भेद भ्रम सब भाना रे ॥१ ॥",
+      "शत्रु मित्र पुनि कंचन माटी, नीच ऊँच सम जाना रे ॥२ ॥"
     ],
     [
-      "सर्व जगत ातममय भासत, भेद भरम सब भाना रे 1",
-      "शतरु मितर पुनि कनचन माति, निच ुनच सम जाना रे || 2 ||."
+      "हर्ष शोक नहिं सुख दुख व्यापे, नाहिं मान अपमाना रे ॥३ ॥"
     ],
     [
-      "हरश शोक नहिन सुख दुःख वयापे, नाहिन मान पमाना रे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु कृपा से हम, पाया पद निरबाना रे || 4 ||."
+      "कहे टेऊँ गुरु कृपा से हम, पाया पद निर्बाना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Miliyaa Pardaa Khuliyaa,Paayaa Aatam Jnyaanaa Re (Tek)."
+      "Sarv Jagat Aatmamay Bhaasat, Bhed Bhram Sab Bhaanaa Re || 1 ||",
+      "Shatru Mitr Puni Kanchan Maati, Nich Unch Sam Jaanaa Re || 2 ||"
     ],
     [
-      "Sarv Jagat Aatmamay Bhaasat, Bhed Bhram Sab Bhaanaa Re 1",
-      "Shatru Mitr Puni Kanchan Maati, Nich Unch Sam Jaanaa Re || 2 ||."
+      "Harsh Shok Nahin Sukh Dukh Vyaape, Naahin Maan Apmaanaa Re || 3 ||"
     ],
     [
-      "Harsh Shok Nahin Sukh Dukh Vyaape, Naahin Maan Apmaanaa Re || 3 ||."
-    ],
-    [
-      "Kahe Teun Guru Kripaa Se Ham, Paayaa Pad Nirbaanaa Re || 4 ||."
+      "Kahe Teun Guru Kripaa Se Ham, Paayaa Pad Nirbaanaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 25 || 855 ||",
+    "सत्‌गुरु मिलिया पड़दा खुलिया ,पाया आतम ज्ञाना रे",
     "Sat‌Guru Miliyaa Pardaa Khuliyaa,Paayaa Aatam Jnyaanaa Re",
-    "सतगुरु मिलिया परदा खुलियापाया ातम जनयाना रे"
+    "राग जोग भजन 25",
+    "Raag Jog Bhajan 25"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 855,
+  "displayOrder": 25,
+  "overallOrder": 853,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 452",
+  "updatedAt": "2026-10-26"
 }

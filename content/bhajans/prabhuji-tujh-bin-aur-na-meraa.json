@@ -1,0 +1,99 @@
+{
+  "id": "bhajan-0470",
+  "slug": "prabhuji-tujh-bin-aur-na-meraa",
+  "categoryId": "raag-huseni",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "प्रभुजी तुझ बिन और न मेरा",
+  "romanTitle": "Prabhuji Tujh Bin Aur Na Meraa",
+  "firstLine": "Prabhuji Tujh Bin Aur Na Meraa.",
+  "heading": "।। राग हुसेनी भजन ।। ९ ।। ४७१।।",
+  "tek": [
+    "प्रभुजी तुझ बिन और न मेरा ।",
+    "दीन दयाल सदा कृपाला मोहि आसरा तेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhuji Tujh Bin Aur Na Meraa.",
+    "Din Dayal Sadaa Kripaalaa Mohi Aasraa Teraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता ज्यों तुम प्रतिपालक निशदिन सांझ सबेरा ।",
+        "मैं हूँ शरण तुम्हारी स्वामी जान आपना चेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Jyon Tum Pratipaalak Nishdin Saanjh Saberaa.",
+        "Main Hun Sharan Tumhaari Svaami Jaan Aapnaa Cheraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं अज्ञानी कछु नहिं जानत पड़ा आपके डेरा ।",
+        "कृपा कर मोहि ज्ञान सुनाके मेट अज्ञान अंधेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Main Ajnyaani Kachhu Nahin Jaanat Paraa Aapke Deraa.",
+        "Kripaa Kar Mohi Gyaan Sunaake Met Ajnyaan Andheraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ मैं विनय करत हूँ सुनले मेरी टेरा ।",
+        "ऐसी दया दास पर कीजे मिट जावे जम फेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Vinay Karat Hun Sunle Meri Teraa.",
+        "Aisi Dayaa Daas Par Kije Mit Jaave Jam Pheraa || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मात पिता ज्यों तुम प्रतिपालक निशदिन सांझ सबेरा ।",
+      "मैं हूँ शरण तुम्हारी स्वामी जान आपना चेरा ॥१ ॥"
+    ],
+    [
+      "मैं अज्ञानी कछु नहिं जानत पड़ा आपके डेरा ।",
+      "कृपा कर मोहि ज्ञान सुनाके मेट अज्ञान अंधेरा ॥२ ॥"
+    ],
+    [
+      "कहे टेऊँ मैं विनय करत हूँ सुनले मेरी टेरा ।",
+      "ऐसी दया दास पर कीजे मिट जावे जम फेरा ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Maat Pitaa Jyon Tum Pratipaalak Nishdin Saanjh Saberaa.",
+      "Main Hun Sharan Tumhaari Svaami Jaan Aapnaa Cheraa || 1 ||"
+    ],
+    [
+      "Main Ajnyaani Kachhu Nahin Jaanat Paraa Aapke Deraa.",
+      "Kripaa Kar Mohi Gyaan Sunaake Met Ajnyaan Andheraa || 2 ||"
+    ],
+    [
+      "Kahe Teun Main Vinay Karat Hun Sunle Meri Teraa.",
+      "Aisi Dayaa Daas Par Kije Mit Jaave Jam Pheraa || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "प्रभुजी तुझ बिन और न मेरा",
+    "Prabhuji Tujh Bin Aur Na Meraa",
+    "राग हुसैनी भजन 9",
+    "Raag Huseni Bhajan 9"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
+  ],
+  "displayOrder": 9,
+  "overallOrder": 470,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 264",
+  "updatedAt": "2026-10-26"
+}

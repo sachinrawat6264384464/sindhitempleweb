@@ -1,48 +1,97 @@
 {
-  "id": "bhajan-0668",
+  "id": "bhajan-0666",
   "slug": "man-darshan-kar-apnaa",
   "categoryId": "raag-pahaari",
-  "title": "मन दरशन कर पना",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मन दर्शन कर अपना",
   "romanTitle": "Man Darshan Kar Apnaa",
-  "firstLine": "Man Darshan Kar Apnaa. Guru Jnyaan Ke Nainon Se, Nij Aatam Ko Lakhnaa (Tek).",
+  "firstLine": "Man Darshan Kar Apnaa.",
+  "heading": "।। राग पहाड़ी भजन ।। १९ ।। ६६७।।",
+  "tek": [
+    "मन दर्शन कर अपना ।",
+    "गुरु ज्ञान के नैनों से, निज आतम को लखना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Darshan Kar Apnaa.",
+    "Guru Gyaan Ke Nainon Se, Nij Aatam Ko Lakhnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन मिधथ्या जड़ सारा, यह रूप नहीं तेरा,",
+        "तूं इनसे है न्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Midhathyaa Jar Saaraa, Yah Rup Nahin Teraa,",
+        "Tu Inse Hai Nyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दिल दर्पन में देखो, तुम अन्तर्मुख होके,",
+        "निज आतम को पेखो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dil Darpan Men Dekho, Tum Antarmukh Hoke,",
+        "Nij Aatam Ko Pekho || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नट स्वाड् धरे जैसे, त्यों खेल करे आतम,",
+        "फिर जैसे को तैसे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Nat Svaad Dhare Jaise, Tyon Khel Kare Aatam,",
+        "Phir Jaise Ko Taise || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तज शभ्रांती, हैं स्वांग सभी झूठे ।",
+        "लख निर्मल निज क्रान्ती ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taj Shabhraanti, Hain Svaang Sabhi Jhuthe.",
+        "Lakh Nirmal Nij Kraanti || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन दरशन कर पना.",
-      "गुरु ज्ञान के नैनोन से, निज ातम को लखना (टेक)."
+      "तन मिधथ्या जड़ सारा, यह रूप नहीं तेरा,",
+      "तूं इनसे है न्यारा ॥१ ॥"
     ],
     [
-      "तन मिधथया जर सारा, यह रुप नहिन तेरा,",
-      "तु िनसे है नयारा ||.1 ||."
+      "दिल दर्पन में देखो, तुम अन्तर्मुख होके,",
+      "निज आतम को पेखो ॥२ ॥"
     ],
     [
-      "दिल दरपन मेन देखो, तुम नतरमुख होके,",
-      "निज ातम को पेखो || 2 ||."
+      "नट स्वाड् धरे जैसे, त्यों खेल करे आतम,",
+      "फिर जैसे को तैसे ॥३ ॥"
     ],
     [
-      "नत सवाद धरे जैसे, तयोन खेल करे ातम,",
-      "फिर जैसे को तैसे ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ तज शभरानति, हैन सवानग सभि झुथे.",
-      "लख निर्मल निज करानति || 4 ||"
+      "कहे टेऊँ तज शभ्रांती, हैं स्वांग सभी झूठे ।",
+      "लख निर्मल निज क्रान्ती ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Darshan Kar Apnaa.",
-      "Guru Jnyaan Ke Nainon Se, Nij Aatam Ko Lakhnaa (Tek)."
-    ],
-    [
       "Tan Midhathyaa Jar Saaraa, Yah Rup Nahin Teraa,",
-      "Tu Inse Hai Nyaaraa ||.1 ||."
+      "Tu Inse Hai Nyaaraa || 1 ||"
     ],
     [
       "Dil Darpan Men Dekho, Tum Antarmukh Hoke,",
-      "Nij Aatam Ko Pekho || 2 ||."
+      "Nij Aatam Ko Pekho || 2 ||"
     ],
     [
       "Nat Svaad Dhare Jaise, Tyon Khel Kare Aatam,",
-      "Phir Jaise Ko Taise ||.3 ||."
+      "Phir Jaise Ko Taise || 3 ||"
     ],
     [
       "Kahe Teun Taj Shabhraanti, Hain Svaang Sabhi Jhuthe.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 19 || 667 ||",
+    "मन दर्शन कर अपना",
     "Man Darshan Kar Apnaa",
-    "मन दरशन कर पना"
+    "राग पहाड़ी भजन 19",
+    "Raag Pahaari Bhajan 19"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 668,
+  "displayOrder": 19,
+  "overallOrder": 666,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 355",
+  "updatedAt": "2026-10-26"
 }

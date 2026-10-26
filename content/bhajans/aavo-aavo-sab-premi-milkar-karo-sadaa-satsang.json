@@ -1,35 +1,84 @@
 {
   "id": "bhajan-0264",
   "slug": "aavo-aavo-sab-premi-milkar-karo-sadaa-satsang",
-  "categoryId": "raag-bhairav",
-  "title": "ावो ावो सब परेमि मिलकर करो सदा सत्संग",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "आवो आवो सब प्रेमी मिलकर करो सदा सत्संग",
   "romanTitle": "Aavo Aavo Sab Premi Milkar Karo Sadaa Satsang",
   "firstLine": "Aavo Aavo Sab Premi Milkar Karo Sadaa Satsang (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ४९ ।। २६४।।",
+  "tek": [
+    "आवो आवो सब प्रेमी मिलकर करो सदा सत्संग ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aavo Aavo Sab Premi Milkar Karo Sadaa Satsang (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग सुरतरु सम सब फल दे कीजे धार उमँग ।",
+        "पाप ताप संताप नसावे लावे आत्म रंग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Surtaru Sam Sab Phal De Kije Dhaar Umang.",
+        "Paap Taap Santaap Nasaave Laave Aatm Rang || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नीच ऊँच नर केते तर गये सुन संतनि प्रसंग ।",
+        "तुम भी तीन लजा को तोड़े सत्संग करो निसंग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nich Unch Nar Kete Tar Gaye Sun Santni Prasang.",
+        "Tum Bhi Tin Lajaa Ko Tore Satsang Karo Nisang || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सदा जगत में दुख देता है मूंढ पुरुष का संग ।",
+        "तांको तज सन्तों के संग से यह मन जीत कुरंग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadaa Jagat Men Dukh Detaa Hai Mundh Purush Kaa Sang.",
+        "Taanko Taj Santon Ke Sang Se Yah Man Jit Kurang || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सनतों का संग मेटे मस्तक अँग ।",
+        "सनतों के सत्संग से करले भेद श्रान्ती भंग ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Santon Kaa Sang Mete Mastak Ang.",
+        "Santon Ke Satsang Se Karle Bhed Shraanti Bhang || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ावो ावो सब परेमि मिलकर करो सदा सत्संग (टेक)."
+      "सत्संग सुरतरु सम सब फल दे कीजे धार उमँग ।",
+      "पाप ताप संताप नसावे लावे आत्म रंग ॥१ ॥"
     ],
     [
-      "सत्संग सुरतरु सम सब फल दे किजे धार ुमनग.",
-      "पाप ताप सनताप नसावे लावे ातम रनग || 1 ||"
+      "नीच ऊँच नर केते तर गये सुन संतनि प्रसंग ।",
+      "तुम भी तीन लजा को तोड़े सत्संग करो निसंग ॥२ ॥"
     ],
     [
-      "निच ुनच नर केते तर गये सुन सनतनि परसनग.",
-      "तुम भि तिन लजा को तोरे सत्संग करो निसनग || 2 ||"
+      "सदा जगत में दुख देता है मूंढ पुरुष का संग ।",
+      "तांको तज सन्तों के संग से यह मन जीत कुरंग ॥३ ॥"
     ],
     [
-      "सदा जगत मेन दुःख देता है मुनध पुरुश का सनग.",
-      "तानको तज सनतोन के सनग से यह मन जित कुरनग || 3 ||"
-    ],
-    [
-      "कहता तेऊँ सनतोन का सनग मेते मसतक नग.",
-      "सनतोन के सत्संग से करले भेद शरानति भनग || 4. ||."
+      "कहता टेऊँ सनतों का संग मेटे मस्तक अँग ।",
+      "सनतों के सत्संग से करले भेद श्रान्ती भंग ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Aavo Aavo Sab Premi Milkar Karo Sadaa Satsang (Tek)."
-    ],
     [
       "Satsang Surtaru Sam Sab Phal De Kije Dhaar Umang.",
       "Paap Taap Santaap Nasaave Laave Aatm Rang || 1 ||"
@@ -44,22 +93,24 @@
     ],
     [
       "Kahtaa Teun Santon Kaa Sang Mete Mastak Ang.",
-      "Santon Ke Satsang Se Karle Bhed Shraanti Bhang || 4. ||."
+      "Santon Ke Satsang Se Karle Bhed Shraanti Bhang || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 49 || 264 ||",
+    "आवो आवो सब प्रेमी मिलकर करो सदा सत्संग",
     "Aavo Aavo Sab Premi Milkar Karo Sadaa Satsang",
-    "ावो ावो सब परेमि मिलकर करो सदा सत्संग"
+    "राग भैरवी भजन 49",
+    "Raag Bhairvi Bhajan 49"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 264,
+  "displayOrder": 49,
+  "overallOrder": 264,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 163",
+  "updatedAt": "2026-10-26"
 }

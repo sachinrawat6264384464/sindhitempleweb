@@ -1,92 +1,121 @@
 {
   "id": "bhajan-0356",
   "slug": "shri-raam-naam-ko-ratnaa-re-jam-phaasi-katnaa-re",
-  "categoryId": "raag-aasaa",
-  "title": "श्री राम नाम को रतना रे, जम फासि कतना रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "श्री राम नाम को रटना रे, जम फासी कटना रे",
   "romanTitle": "Shri Raam Naam Ko Ratnaa Re, Jam Phaasi Katnaa Re",
   "firstLine": "Shri Raam Naam Ko Ratnaa Re, Jam Phaasi Katnaa Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १३ ।। ३५६।॥।",
+  "tek": [
+    "श्री राम नाम को रटना रे, जम फासी कटना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shri Raam Naam Ko Ratnaa Re, Jam Phaasi Katnaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम साथ आराम बिराजे, देखो राम बुलाये ।",
+        "राम से विष विश्राम होत है, देखो राम मिलाये ।",
+        "हरि सुमरन से दुख घटना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Saath Aaraam Biraaje, Dekho Raam Bulaaye.",
+        "Raam Se Vish Vishraam Hot Hai, Dekho Raam Milaaye.",
+        "Hari Sumran Se Dukh Ghatnaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भाव किसीसे भी तुम जग में, राम रटो दिन राती ।",
+        "राम तुम्हारे पाप हरेंगे, यह गुन तिसमें जाती ।",
+        "हरि सुमरन से नहीं हटना रे ॥र ॥२ ॥",
+        "समय समय अन साधन बदले, मुक्ती देने वाले ।",
+        "राम नाम ना कबहूँ बदले, समझ लेहु मतिवाले ।",
+        "हरि सुमरे बाज़ी खटना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhaav Kisise Bhi Tum Jag Men, Raam Rato Din Raati.",
+        "Raam Tumhaare Paap Harenge, Yah Gun Tismen Jaati.",
+        "Hari Sumran Se Nahin Hatnaa Re || Ra || 2 ||",
+        "Samay Samay An Saadhan Badle, Mukti Dene Vaale.",
+        "Raam Naam Naa Kabhun Badle, Samajh Lehu Mativaale.",
+        "Hari Sumre Baazi Khatnaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ जे चाहो मेरा, भव से हो निस्तारा ।",
+        "तो सनतों के संग में रहकर, सुमरो राम उदारा ।",
+        "जड़ पापों की तुम पटना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Je Chaaho Meraa, Bhav Se Ho Nistaaraa.",
+        "To Santon Ke Sang Men Rahkar, Sumro Raam Udaaraa.",
+        "Jar Paapon Ki Tum Patnaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "श्री राम नाम को रतना रे, जम फासि कतना रे (टेक)."
+      "राम साथ आराम बिराजे, देखो राम बुलाये ।",
+      "राम से विष विश्राम होत है, देखो राम मिलाये ।",
+      "हरि सुमरन से दुख घटना रे ॥१ ॥"
     ],
     [
-      "राम साथ ाराम बिराजे, देखो राम बुलाये.",
-      "राम से विश विशराम होत है, देखो राम मिलाये."
+      "भाव किसीसे भी तुम जग में, राम रटो दिन राती ।",
+      "राम तुम्हारे पाप हरेंगे, यह गुन तिसमें जाती ।",
+      "हरि सुमरन से नहीं हटना रे ॥र ॥२ ॥",
+      "समय समय अन साधन बदले, मुक्ती देने वाले ।",
+      "राम नाम ना कबहूँ बदले, समझ लेहु मतिवाले ।",
+      "हरि सुमरे बाज़ी खटना रे ॥३ ॥"
     ],
     [
-      "हरि सुमरन से दुःख घतना रे || 1. ||."
-    ],
-    [
-      "भाव किसिसे भि तुम जग मेन, राम रतो दीन राति.",
-      "राम तुमहारे पाप हरेनगे, यह गुन तिसमेन जाति."
-    ],
-    [
-      "हरि सुमरन से नहिन हतना रे || र2 ||",
-      "समय समय न साधन बदले, मुक्ति देने वाले."
-    ],
-    [
-      "राम नाम ना कभुन बदले, समझ लेहु मतिवाले.",
-      "हरि सुमरे बाzि खतना रे || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जे चाहो मेरा, भव से हो निसतारा.",
-      "तो सनतोन के सनग मेन रहकर, सुमरो राम ुदारा."
-    ],
-    [
-      "जर पापोन कि तुम पतना रे || 4. ||."
-    ],
-    [
-      "तह"
+      "कहे टेऊँ जे चाहो मेरा, भव से हो निस्तारा ।",
+      "तो सनतों के संग में रहकर, सुमरो राम उदारा ।",
+      "जड़ पापों की तुम पटना रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shri Raam Naam Ko Ratnaa Re, Jam Phaasi Katnaa Re (Tek)."
-    ],
-    [
       "Raam Saath Aaraam Biraaje, Dekho Raam Bulaaye.",
-      "Raam Se Vish Vishraam Hot Hai, Dekho Raam Milaaye."
-    ],
-    [
-      "Hari Sumran Se Dukh Ghatnaa Re || 1. ||."
+      "Raam Se Vish Vishraam Hot Hai, Dekho Raam Milaaye.",
+      "Hari Sumran Se Dukh Ghatnaa Re || 1 ||"
     ],
     [
       "Bhaav Kisise Bhi Tum Jag Men, Raam Rato Din Raati.",
-      "Raam Tumhaare Paap Harenge, Yah Gun Tismen Jaati."
-    ],
-    [
-      "Hari Sumran Se Nahin Hatnaa Re || R2 ||",
-      "Samay Samay An Saadhan Badle, Mukti Dene Vaale."
-    ],
-    [
+      "Raam Tumhaare Paap Harenge, Yah Gun Tismen Jaati.",
+      "Hari Sumran Se Nahin Hatnaa Re || Ra || 2 ||",
+      "Samay Samay An Saadhan Badle, Mukti Dene Vaale.",
       "Raam Naam Naa Kabhun Badle, Samajh Lehu Mativaale.",
       "Hari Sumre Baazi Khatnaa Re || 3 ||"
     ],
     [
       "Kahe Teun Je Chaaho Meraa, Bhav Se Ho Nistaaraa.",
-      "To Santon Ke Sang Men Rahkar, Sumro Raam Udaaraa."
-    ],
-    [
-      "Jar Paapon Ki Tum Patnaa Re || 4. ||."
-    ],
-    [
-      "Tah"
+      "To Santon Ke Sang Men Rahkar, Sumro Raam Udaaraa.",
+      "Jar Paapon Ki Tum Patnaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 13 || 356. ||.",
+    "श्री राम नाम को रटना रे, जम फासी कटना रे",
     "Shri Raam Naam Ko Ratnaa Re, Jam Phaasi Katnaa Re",
-    "श्री राम नाम को रतना रे, जम फासि कतना रे"
+    "राग बसंत भजन 13",
+    "Raag Basant Bhajan 13"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 356,
+  "displayOrder": 13,
+  "overallOrder": 356,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 210",
+  "updatedAt": "2026-10-26"
 }

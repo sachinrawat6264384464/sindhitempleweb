@@ -2,52 +2,109 @@
   "id": "bhajan-0115",
   "slug": "saadhan-sukh-ke-saadhi-jijnyaasusaadhan-sukh-ke-saathi",
   "categoryId": "raag-aasaa",
-  "title": "साधन सुख के साधि जिजनयासुसाधन सुख के साथि",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "साधन सुख के साधि जिज्ञासू,साधन सुख के साथि",
   "romanTitle": "Saadhan Sukh Ke Saadhi Jijnyaasu,Saadhan Sukh Ke Saathi",
   "firstLine": "Saadhan Sukh Ke Saadhi Jijnyaasu,Saadhan Sukh Ke Saathi (Tek).",
+  "heading": "।। राग आसा भजन ।। ५३ ।। ११५।।",
+  "tek": [
+    "साधन सुख के साधि जिज्ञासू,साधन सुख के साथि ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadhan Sukh Ke Saadhi Jijnyaasu,Saadhan Sukh Ke Saathi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अमृत वेले जागी जागी, गुरु चरनों में लागी लागी ।",
+        "भोग विषय से भागी भागी, इंश्वर को आराधि ॥१ ॥"
+      ],
+      "romanLines": [
+        "Amrit Vele Jaagi Jaagi, Guru Charnon Men Laagi Laagi.",
+        "Bhog Vishay Se Bhaagi Bhaagi, Inshvar Ko Aaraadhi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "किस्मत पर ना धरिये धरिये, परम पुरुषार्थ करिये करिये ।",
+        "पाप मती को हरिये हरिये, मन की छोड़ उपाधि ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kismat Par Naa Dhariye Dhariye, Param Purushaarth Kariye Kariye.",
+        "Paap Mati Ko Hariye Hariye, Man Ki Chhor Upaadhi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि मार्ग में हालो हालो, बैठ रहो ना चालो चालो ।",
+        "काम क्रोध को टालो टालो, वृथा कर न विषाद ॥ ।३े ॥"
+      ],
+      "romanLines": [
+        "Hari Maarg Men Haalo Haalo, Baith Raho Naa Chaalo Chaalo.",
+        "Kaam Krodh Ko Taalo Taalo, Vrithaa Kar Na Vishaad || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "श्रेष्ठ गुणों को सजले सजले, दुष्कर्मों को तजले तजले ।",
+        "साध संगति को भजले भजले, जान जगत को बाध ॥४ ॥"
+      ],
+      "romanLines": [
+        "Shreshth Gunon Ko Sajle Sajle, Dushkarmon Ko Tajle Tajle.",
+        "Saadh Sangti Ko Bhajle Bhajle, Jaan Jagat Ko Baadh || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ बन्ध तोड़े तोड़े, माया से मन मोड़े मोड़े ।",
+        "जीव आत्म से जोड़े जोड़े, लावो सहज समाधि ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bandh Tore Tore, Maayaa Se Man More More.",
+        "Jiv Aatm Se Jore Jore, Laavo Sahaj Samaadhi || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधन सुख के साधि जिजनयासुसाधन सुख के साथि (टेक)."
+      "अमृत वेले जागी जागी, गुरु चरनों में लागी लागी ।",
+      "भोग विषय से भागी भागी, इंश्वर को आराधि ॥१ ॥"
     ],
     [
-      "अमृत वेले जागि जागि, गुरु चरनोन मेन लागि लागि.",
-      "भोग विशय से भागि भागि, िनशवर को ाराधि || 1 ||."
+      "किस्मत पर ना धरिये धरिये, परम पुरुषार्थ करिये करिये ।",
+      "पाप मती को हरिये हरिये, मन की छोड़ उपाधि ॥२ ॥"
     ],
     [
-      "किसमत पर ना धरिये धरिये, परम पुरुशारथ करिये करिये.",
-      "पाप मति को हरिये हरिये, मन कि चहोर ुपाधि || 2 ||."
+      "हरि मार्ग में हालो हालो, बैठ रहो ना चालो चालो ।",
+      "काम क्रोध को टालो टालो, वृथा कर न विषाद ॥ ।३े ॥"
     ],
     [
-      "हरि मारग मेन हालो हालो, बैथ रहो ना चालो चालो.",
-      "काम करोध को तालो तालो, वरिथा कर न विशाद ||.3े ||"
+      "श्रेष्ठ गुणों को सजले सजले, दुष्कर्मों को तजले तजले ।",
+      "साध संगति को भजले भजले, जान जगत को बाध ॥४ ॥"
     ],
     [
-      "शरेशथ गुनोन को सजले सजले, दुशकरमोन को तजले तजले.",
-      "साध सनगति को भजले भजले, जान जगत को बाध || 4 ||"
-    ],
-    [
-      "कहे तेऊँ बनध तोरे तोरे, माया से मन मोरे मोरे.",
-      "जिव ातम से जोरे जोरे, लावो सहज समाधि || 5. ||."
-    ],
-    [
-      "द"
+      "कहे टेऊँ बन्ध तोड़े तोड़े, माया से मन मोड़े मोड़े ।",
+      "जीव आत्म से जोड़े जोड़े, लावो सहज समाधि ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadhan Sukh Ke Saadhi Jijnyaasu,Saadhan Sukh Ke Saathi (Tek)."
-    ],
-    [
       "Amrit Vele Jaagi Jaagi, Guru Charnon Men Laagi Laagi.",
-      "Bhog Vishay Se Bhaagi Bhaagi, Inshvar Ko Aaraadhi || 1 ||."
+      "Bhog Vishay Se Bhaagi Bhaagi, Inshvar Ko Aaraadhi || 1 ||"
     ],
     [
       "Kismat Par Naa Dhariye Dhariye, Param Purushaarth Kariye Kariye.",
-      "Paap Mati Ko Hariye Hariye, Man Ki Chhor Upaadhi || 2 ||."
+      "Paap Mati Ko Hariye Hariye, Man Ki Chhor Upaadhi || 2 ||"
     ],
     [
       "Hari Maarg Men Haalo Haalo, Baith Raho Naa Chaalo Chaalo.",
-      "Kaam Krodh Ko Taalo Taalo, Vrithaa Kar N Vishaad ||.3E ||"
+      "Kaam Krodh Ko Taalo Taalo, Vrithaa Kar Na Vishaad || 3E ||"
     ],
     [
       "Shreshth Gunon Ko Sajle Sajle, Dushkarmon Ko Tajle Tajle.",
@@ -55,25 +112,24 @@
     ],
     [
       "Kahe Teun Bandh Tore Tore, Maayaa Se Man More More.",
-      "Jiv Aatm Se Jore Jore, Laavo Sahaj Samaadhi || 5. ||."
-    ],
-    [
-      "D"
+      "Jiv Aatm Se Jore Jore, Laavo Sahaj Samaadhi || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 53 || 115 ||",
+    "साधन सुख के साधि जिज्ञासू,साधन सुख के साथि",
     "Saadhan Sukh Ke Saadhi Jijnyaasu,Saadhan Sukh Ke Saathi",
-    "साधन सुख के साधि जिजनयासुसाधन सुख के साथि"
+    "राग आसा भजन 53",
+    "Raag Aasaa Bhajan 53"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 115,
+  "displayOrder": 53,
+  "overallOrder": 115,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 83",
+  "updatedAt": "2026-10-26"
 }

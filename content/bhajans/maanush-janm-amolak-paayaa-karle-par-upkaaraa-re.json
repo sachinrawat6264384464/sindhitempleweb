@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0786",
+  "id": "bhajan-0784",
   "slug": "maanush-janm-amolak-paayaa-karle-par-upkaaraa-re",
   "categoryId": "raag-pilaa",
-  "title": "मानुश जनम मोलक पाया, करले पर ुपकारा रे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मानुष जन्म अमोलक पाया, करले पर उपकारा रे",
   "romanTitle": "Maanush Janm Amolak Paayaa, Karle Par Upkaaraa Re",
   "firstLine": "Maanush Janm Amolak Paayaa, Karle Par Upkaaraa Re (Tek).",
+  "heading": "।। राग पीला भजन ॥। ६४ ।। ७८६।॥।",
+  "tek": [
+    "मानुष जन्म अमोलक पाया, करले पर उपकारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Janm Amolak Paayaa, Karle Par Upkaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस तन से उपकार न होवे, सो तन है मुड़दारा रे ।",
+        "मानुष हो पर काज न करहीं, तिहें जीवन बेकारा रे ।4 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Tan Se Upkaar Na Hove, So Tan Hai Murdaaraa Re.",
+        "Maanush Ho Par Kaaj Na Karhin, Tihen Jivan Bekaaraa Re.4 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "घास खाय पशु दूध पिलावे, फल दे बिरछ अपारा रे ।",
+        "बांस सीप गिरि मोती देवे, सांप देहि मणि प्यारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ghaas Khaay Pashu Dudh Pilaave, Phal De Birachh Apaaraa Re.",
+        "Baans Sip Giri Moti Deve, Saanp Dehi Mani Pyaaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मीठे मीठे भोजन खाकर, पीके ठण्डा वारा रे ।",
+        "कुछ भी तुम उपकार न कीया, तांते तोहि धिकारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Mithe Mithe Bhojan Khaakar, Pike Thandaa Vaaraa Re.",
+        "Kuchh Bhi Tum Upkaar Na Kiyaa, Taante Tohi Dhikaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अजहूं नहिं बिगड़ी, मन में कर वीचारा रे ।",
+        "तन मन धन से पर हित करके, अपना करो उद्धारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ajhun Nahin Bigri, Man Men Kar Vichaaraa Re.",
+        "Tan Man Dhan Se Par Hit Karke, Apnaa Karo Uddhaaraa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द््ठ"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश जनम मोलक पाया, करले पर ुपकारा रे (टेक)."
+      "जिस तन से उपकार न होवे, सो तन है मुड़दारा रे ।",
+      "मानुष हो पर काज न करहीं, तिहें जीवन बेकारा रे ।4 ॥१ ॥"
     ],
     [
-      "जिस तन से ुपकार न होवे, सो तन है मुरदारा रे.",
-      "मानुश हो पर काज न करहिन, तिहेन जिवन बेकारा रे.41 ||."
+      "घास खाय पशु दूध पिलावे, फल दे बिरछ अपारा रे ।",
+      "बांस सीप गिरि मोती देवे, सांप देहि मणि प्यारा रे ॥२ ॥"
     ],
     [
-      "घास खाय पशु दुध पिलावे, फल दे बिरचह पारा रे.",
-      "बानस सिप गिरि मोति देवे, सानप देही मनि पयारा रे || 2 ||."
+      "मीठे मीठे भोजन खाकर, पीके ठण्डा वारा रे ।",
+      "कुछ भी तुम उपकार न कीया, तांते तोहि धिकारा रे ॥३ ॥"
     ],
     [
-      "मिथे मिथे भोजन खाकर, पिके थनदा वारा रे.",
-      "कुचह भि तुम ुपकार न किया, तानते तोहि धिकारा रे || 3 ||."
+      "कहे टेऊँ अजहूं नहिं बिगड़ी, मन में कर वीचारा रे ।",
+      "तन मन धन से पर हित करके, अपना करो उद्धारा रे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ झुन नहिन बिगरि, मन मेन कर विचारा रे.",
-      "तन मन धन से पर हित करके, पना करो ुदधारा रे || 4. ||."
-    ],
-    [
-      "दथ"
+      "द््ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Maanush Janm Amolak Paayaa, Karle Par Upkaaraa Re (Tek)."
-    ],
-    [
-      "Jis Tan Se Upkaar N Hove, So Tan Hai Murdaaraa Re.",
-      "Maanush Ho Par Kaaj N Karhin, Tihen Jivan Bekaaraa Re.41 ||."
+      "Jis Tan Se Upkaar Na Hove, So Tan Hai Murdaaraa Re.",
+      "Maanush Ho Par Kaaj Na Karhin, Tihen Jivan Bekaaraa Re.4 || 1 ||"
     ],
     [
       "Ghaas Khaay Pashu Dudh Pilaave, Phal De Birachh Apaaraa Re.",
-      "Baans Sip Giri Moti Deve, Saanp Dehi Mani Pyaaraa Re || 2 ||."
+      "Baans Sip Giri Moti Deve, Saanp Dehi Mani Pyaaraa Re || 2 ||"
     ],
     [
       "Mithe Mithe Bhojan Khaakar, Pike Thandaa Vaaraa Re.",
-      "Kuchh Bhi Tum Upkaar N Kiyaa, Taante Tohi Dhikaaraa Re || 3 ||."
+      "Kuchh Bhi Tum Upkaar Na Kiyaa, Taante Tohi Dhikaaraa Re || 3 ||"
     ],
     [
       "Kahe Teun Ajhun Nahin Bigri, Man Men Kar Vichaaraa Re.",
-      "Tan Man Dhan Se Par Hit Karke, Apnaa Karo Uddhaaraa Re || 4. ||."
+      "Tan Man Dhan Se Par Hit Karke, Apnaa Karo Uddhaaraa Re || 4 ||"
     ],
     [
       "Dth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan ||. 64 || 786. ||.",
+    "मानुष जन्म अमोलक पाया, करले पर उपकारा रे",
     "Maanush Janm Amolak Paayaa, Karle Par Upkaaraa Re",
-    "मानुश जनम मोलक पाया, करले पर ुपकारा रे"
+    "राग पीला भजन 63",
+    "Raag Pilaa Bhajan 63"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 786,
+  "displayOrder": 63,
+  "overallOrder": 784,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 414",
+  "updatedAt": "2026-10-26"
 }

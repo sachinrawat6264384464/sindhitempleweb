@@ -1,83 +1,123 @@
 {
-  "id": "bhajan-0707",
+  "id": "bhajan-0705",
   "slug": "bhajle-bande-bhagvat-ko",
   "categoryId": "raag-pahaari",
-  "title": "भजले बनदे भगवत को",
-  "romanTitle": "Bhajle Bande Bhagvat Ko",
-  "firstLine": "Bhajle Bande Bhagvat Ko, Bhagvat Ne Tujhko Diyaa Maanush Cholaa (Tek).",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "भजले बन्दे भगवत को,",
+  "romanTitle": "Bhajle Bande Bhagvat Ko,",
+  "firstLine": "Bhajle Bande Bhagvat Ko,",
+  "heading": "।। राग पहाड़ी भजन ।। ५८ ।। ७०६।॥।",
+  "tek": [
+    "भजले बन्दे भगवत को,",
+    "भगवत ने तुझको दीया मानुष चोला ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhajle Bande Bhagvat Ko,",
+    "Bhagvat Ne Tujhko Diyaa Maanush Cholaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात गर्भ में हरि सुमरण का कौल किया ।",
+        "माया में तुम फस कर उसको भूल गया ।",
+        "अब भी हरि को याद करो,",
+        "काहे गंवाते अपना श्वास अमोला ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Garbh Men Hari Sumran Kaa Kaul Kiyaa.",
+        "Maayaa Men Tum Phas Kar Usko Bhul Gayaa.",
+        "Ab Bhi Hari Ko Yaad Karo,",
+        "Kaahe Ganvaate Apnaa Shvaas Amolaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "निशदिन तेरे शिर पर काल पुकारत है ।",
+        "बड़े बड़े बलवानों को ये मारत है ।",
+        "जो इससे तुझ बचना है,",
+        "श्रद्धा से जपले हरि का नाम अडोला ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nishdin Tere Shir Par Kaal Pukaarat Hai.",
+        "Bare Bare Balvaanon Ko Ye Maarat Hai.",
+        "Jo Isse Tujh Bachnaa Hai,",
+        "Shraddhaa Se Japle Hari Kaa Naam Adolaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ यह दुनिया सारी फानी है ।",
+        "क्यों तुम इसमें अपनी ममता ठानी है ।",
+        "छोड़ ममत को ध्यान धरो,",
+        "सत्‌गुरु से ले उपदेशा कट भ्रम भोला ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Duniyaa Saari Phaani Hai.",
+        "Kyon Tum Ismen Apni Mamtaa Thaani Hai.",
+        "Chhor Mamat Ko Dhyaan Dharo,",
+        "Sat‌Guru Se Le Updeshaa Kat Bhram Bholaa || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भजले बनदे भगवत को,",
-      "भगवत ने तुझको दिया मानुश चोला (टेक)."
+      "मात गर्भ में हरि सुमरण का कौल किया ।",
+      "माया में तुम फस कर उसको भूल गया ।",
+      "अब भी हरि को याद करो,",
+      "काहे गंवाते अपना श्वास अमोला ॥१ ॥"
     ],
     [
-      "मात गरभ मेन हरि सुमरन का कौल किया.",
-      "माया मेन तुम फस कर ुसको भुल गया."
+      "निशदिन तेरे शिर पर काल पुकारत है ।",
+      "बड़े बड़े बलवानों को ये मारत है ।",
+      "जो इससे तुझ बचना है,",
+      "श्रद्धा से जपले हरि का नाम अडोला ॥२ ॥"
     ],
     [
-      "ब भि हरि को याद करो,",
-      "काहे गनवाते पना शवास मोला || 1 ||."
-    ],
-    [
-      "निशदिन तेरे शिर पर काल पुकारत है.",
-      "बरे बरे बलवानोन को ये मारत है."
-    ],
-    [
-      "जो िससे तुझ बचना है,",
-      "शरदधा से जपले हरि का नाम दोला || 2 ||"
-    ],
-    [
-      "कहे तेऊँ यह दुनिया सारि फानि है.",
-      "कयोन तुम िसमेन पनि ममता थानि है."
-    ],
-    [
-      "चहोर ममत को ध्यान धरो,",
-      "सतगुरु से ले ुपदेशा कत भरम भोला || 3े ||."
+      "कहे टेऊँ यह दुनिया सारी फानी है ।",
+      "क्यों तुम इसमें अपनी ममता ठानी है ।",
+      "छोड़ ममत को ध्यान धरो,",
+      "सत्‌गुरु से ले उपदेशा कट भ्रम भोला ॥३े ॥ ।"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhajle Bande Bhagvat Ko,",
-      "Bhagvat Ne Tujhko Diyaa Maanush Cholaa (Tek)."
-    ],
-    [
       "Maat Garbh Men Hari Sumran Kaa Kaul Kiyaa.",
-      "Maayaa Men Tum Phas Kar Usko Bhul Gayaa."
-    ],
-    [
+      "Maayaa Men Tum Phas Kar Usko Bhul Gayaa.",
       "Ab Bhi Hari Ko Yaad Karo,",
-      "Kaahe Ganvaate Apnaa Shvaas Amolaa || 1 ||."
+      "Kaahe Ganvaate Apnaa Shvaas Amolaa || 1 ||"
     ],
     [
       "Nishdin Tere Shir Par Kaal Pukaarat Hai.",
-      "Bare Bare Balvaanon Ko Ye Maarat Hai."
-    ],
-    [
+      "Bare Bare Balvaanon Ko Ye Maarat Hai.",
       "Jo Isse Tujh Bachnaa Hai,",
       "Shraddhaa Se Japle Hari Kaa Naam Adolaa || 2 ||"
     ],
     [
       "Kahe Teun Yah Duniyaa Saari Phaani Hai.",
-      "Kyon Tum Ismen Apni Mamtaa Thaani Hai."
-    ],
-    [
+      "Kyon Tum Ismen Apni Mamtaa Thaani Hai.",
       "Chhor Mamat Ko Dhyaan Dharo,",
-      "Sat‌Guru Se Le Updeshaa Kat Bhram Bholaa || 3E ||."
+      "Sat‌Guru Se Le Updeshaa Kat Bhram Bholaa || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 58 || 706. ||.",
-    "Bhajle Bande Bhagvat Ko",
-    "भजले बनदे भगवत को"
+    "भजले बन्दे भगवत को,",
+    "Bhajle Bande Bhagvat Ko,",
+    "राग पहाड़ी भजन 58",
+    "Raag Pahaari Bhajan 58"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 707,
+  "displayOrder": 58,
+  "overallOrder": 705,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 375",
+  "updatedAt": "2026-10-26"
 }

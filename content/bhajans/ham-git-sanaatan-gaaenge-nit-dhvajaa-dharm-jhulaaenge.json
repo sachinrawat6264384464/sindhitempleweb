@@ -2,51 +2,98 @@
   "id": "bhajan-0325",
   "slug": "ham-git-sanaatan-gaaenge-nit-dhvajaa-dharm-jhulaaenge",
   "categoryId": "raag-zilaa",
-  "title": "हम गित सनातन गाेनगे, नित धवजा धरम झुलाेनगे",
+  "categoryName": "राग ज़िला",
+  "romanCategoryName": "Raag Zilaa",
+  "title": "हम गीत सनातन गाएँगे, नित ध्वजा धर्म झुलाएँगे",
   "romanTitle": "Ham Git Sanaatan Gaaenge, Nit Dhvajaa Dharm Jhulaaenge",
   "firstLine": "Ham Git Sanaatan Gaaenge, Nit Dhvajaa Dharm Jhulaaenge (Tek).",
+  "heading": "।। राग ज़िला भजन ।। १२ ।। ३२५॥।",
+  "tek": [
+    "हम गीत सनातन गाएँगे, नित ध्वजा धर्म झुलाएँगे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ham Git Sanaatan Gaaenge, Nit Dhvajaa Dharm Jhulaaenge (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर्म सनातन इंश चलाया, राम कृष्ण ऋषि मुनि मन भाया ।",
+        "पूर्व पुण्य से हमने पाया, लगन इसी से लाएँगे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharm Sanaatan Insh Chalaayaa, Raam Krishn Rishi Muni Man Bhaayaa.",
+        "Purv Puny Se Hamne Paayaa, Lagan Isi Se Laaenge || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गत्ते",
+        "धर्म सनातन आदि हमारा, जिसके आशय अनन्त अपारा ।",
+        "वेदों ने इस भांति पुकारा, तिसको नाहिं भुलाएँगे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gatte",
+        "Dharm Sanaatan Aadi Hamaaraa, Jiske Aashay Anant Apaaraa.",
+        "Vedon Ne Is Bhaanti Pukaaraa, Tisko Naahin Bhulaaenge || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धर्म सनातन को हम धारे, भेद श्रान्ती भ्रम निवारे ।",
+        "ऊँचे स्वर से कह जयकारे, सोते जीव जगाएँगे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dharm Sanaatan Ko Ham Dhaare, Bhed Shraanti Bhram Nivaare.",
+        "Unche Svar Se Kah Jaykaare, Sote Jiv Jagaaenge || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सर्व धर्म का है यह स्वामी, सर्व व्यापक है सुख धामी ।",
+        "कहे टेऊँ दे मुक्ति मुदामी, तांको सीस निवाएँगे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sarv Dharm Kaa Hai Yah Svaami, Sarv Vyaapak Hai Sukh Dhaami.",
+        "Kahe Teun De Mukti Mudaami, Taanko Sis Nivaaenge || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हम गित सनातन गाेनगे, नित धवजा धरम झुलाेनगे (टेक)."
+      "धर्म सनातन इंश चलाया, राम कृष्ण ऋषि मुनि मन भाया ।",
+      "पूर्व पुण्य से हमने पाया, लगन इसी से लाएँगे ॥१ ॥"
     ],
     [
-      "धरम सनातन िनश चलाया, राम करिशन रिशि मुनि मन भाया.",
-      "पुरव पुनय से हमने पाया, लगन िसि से लाेनगे || 1 ||."
+      "गत्ते",
+      "धर्म सनातन आदि हमारा, जिसके आशय अनन्त अपारा ।",
+      "वेदों ने इस भांति पुकारा, तिसको नाहिं भुलाएँगे ॥२ ॥"
     ],
     [
-      "गतते",
-      "धरम सनातन ादि हमारा, जिसके ाशय ननत पारा."
+      "धर्म सनातन को हम धारे, भेद श्रान्ती भ्रम निवारे ।",
+      "ऊँचे स्वर से कह जयकारे, सोते जीव जगाएँगे ॥३ ॥"
     ],
     [
-      "वेदोन ने िस भानति पुकारा, तिसको नाहिन भुलाेनगे || 2 ||"
-    ],
-    [
-      "धरम सनातन को हम धारे, भेद शरानति भरम निवारे.",
-      "ुनचे सवर से कह जयकारे, सोते जिव जगाेनगे || 3 ||."
-    ],
-    [
-      "सर्व धरम का है यह स्वामी, सर्व वयापक है सुख धामि.",
-      "कहे तेऊँ दे मुक्ति मुदामि, तानको सिस निवाेनगे || 4 ||"
+      "सर्व धर्म का है यह स्वामी, सर्व व्यापक है सुख धामी ।",
+      "कहे टेऊँ दे मुक्ति मुदामी, तांको सीस निवाएँगे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ham Git Sanaatan Gaaenge, Nit Dhvajaa Dharm Jhulaaenge (Tek)."
-    ],
-    [
       "Dharm Sanaatan Insh Chalaayaa, Raam Krishn Rishi Muni Man Bhaayaa.",
-      "Purv Puny Se Hamne Paayaa, Lagan Isi Se Laaenge || 1 ||."
+      "Purv Puny Se Hamne Paayaa, Lagan Isi Se Laaenge || 1 ||"
     ],
     [
       "Gatte",
-      "Dharm Sanaatan Aadi Hamaaraa, Jiske Aashay Anant Apaaraa."
-    ],
-    [
+      "Dharm Sanaatan Aadi Hamaaraa, Jiske Aashay Anant Apaaraa.",
       "Vedon Ne Is Bhaanti Pukaaraa, Tisko Naahin Bhulaaenge || 2 ||"
     ],
     [
       "Dharm Sanaatan Ko Ham Dhaare, Bhed Shraanti Bhram Nivaare.",
-      "Unche Svar Se Kah Jaykaare, Sote Jiv Jagaaenge || 3 ||."
+      "Unche Svar Se Kah Jaykaare, Sote Jiv Jagaaenge || 3 ||"
     ],
     [
       "Sarv Dharm Kaa Hai Yah Svaami, Sarv Vyaapak Hai Sukh Dhaami.",
@@ -54,18 +101,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Zilaa Bhajan || 12 || 325 ||.",
+    "हम गीत सनातन गाएँगे, नित ध्वजा धर्म झुलाएँगे",
     "Ham Git Sanaatan Gaaenge, Nit Dhvajaa Dharm Jhulaaenge",
-    "हम गित सनातन गाेनगे, नित धवजा धरम झुलाेनगे"
+    "राग ज़िला भजन 12",
+    "Raag Zilaa Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "zilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-zilaa",
+    "bhajan"
   ],
-  "displayOrder": 325,
+  "displayOrder": 12,
+  "overallOrder": 325,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 194",
+  "updatedAt": "2026-10-26"
 }

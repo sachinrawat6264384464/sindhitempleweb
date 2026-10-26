@@ -1,39 +1,89 @@
 {
-  "id": "bhajan-0593",
+  "id": "bhajan-0591",
   "slug": "purab-desh-kaa-main-hun-vaasi-purab-men-meraa-sthaan",
   "categoryId": "raag-purab",
-  "title": "पुरब देश का मैं हुन वासि, पुरब मेन मेरा सथान",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "पूरब देश का मैं हूं वासी, पूरब में मेरा स्थान",
   "romanTitle": "Purab Desh Kaa Main Hun Vaasi, Purab Men Meraa Sthaan",
   "firstLine": "Purab Desh Kaa Main Hun Vaasi, Purab Men Meraa Sthaan (Tek).",
+  "heading": "।। राग पूरब भजन ।। १ ।। ५९२।।",
+  "tek": [
+    "पूरब देश का मैं हूं वासी, पूरब में मेरा स्थान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Purab Desh Kaa Main Hun Vaasi, Purab Men Meraa Sthaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पूरब देश सम देश न दूजा, पूरब है सब ते प्रधान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Purab Desh Sam Desh Na Dujaa, Purab Hai Sab Te Pradhaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पूरब देश में भेद न कोई, पूरब का है ऊँचा शान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Purab Desh Men Bhed Na Koi, Purab Kaa Hai Unchaa Shaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पूरब देश में तिमिर नहीं है, पूरब में प्रकाशत भान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Purab Desh Men Timir Nahin Hai, Purab Men Prakaashat Bhaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पूरब देश में नहिं को मरता , पूरब नित अविनाशी जान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Purab Desh Men Nahin Ko Martaa, Purab Nit Avinaashi Jaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "पूरब देश में ग़म ना कोई, कहे टेऊँ है मोद महान ॥५ ॥"
+      ],
+      "romanLines": [
+        "Purab Desh Men Gham Naa Koi, Kahe Teun Hai Mod Mahaan || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पुरब देश का मैं हुन वासि, पुरब मेन मेरा सथान (टेक)."
+      "पूरब देश सम देश न दूजा, पूरब है सब ते प्रधान ॥१ ॥"
     ],
     [
-      "पुरब देश सम देश न दुजा, पुरब है सब ते परधान || 1 ||"
+      "पूरब देश में भेद न कोई, पूरब का है ऊँचा शान ॥२ ॥"
     ],
     [
-      "पुरब देश मेन भेद न कोि, पुरब का है ुनचा शान || 2 ||"
+      "पूरब देश में तिमिर नहीं है, पूरब में प्रकाशत भान ॥३ ॥"
     ],
     [
-      "पुरब देश मेन तिमिर नहिन है, पुरब मेन परकाशत भान || 3 ||"
+      "पूरब देश में नहिं को मरता , पूरब नित अविनाशी जान ॥४ ॥"
     ],
     [
-      "पुरब देश मेन नहिन को मरता, पुरब नित अविनाशी जान || 4 ||"
-    ],
-    [
-      "पुरब देश मेन घम ना कोि, कहे तेऊँ है मोद महान || 5 ||."
+      "पूरब देश में ग़म ना कोई, कहे टेऊँ है मोद महान ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Purab Desh Kaa Main Hun Vaasi, Purab Men Meraa Sthaan (Tek)."
+      "Purab Desh Sam Desh Na Dujaa, Purab Hai Sab Te Pradhaan || 1 ||"
     ],
     [
-      "Purab Desh Sam Desh N Dujaa, Purab Hai Sab Te Pradhaan || 1 ||"
-    ],
-    [
-      "Purab Desh Men Bhed N Koi, Purab Kaa Hai Unchaa Shaan || 2 ||"
+      "Purab Desh Men Bhed Na Koi, Purab Kaa Hai Unchaa Shaan || 2 ||"
     ],
     [
       "Purab Desh Men Timir Nahin Hai, Purab Men Prakaashat Bhaan || 3 ||"
@@ -42,22 +92,24 @@
       "Purab Desh Men Nahin Ko Martaa, Purab Nit Avinaashi Jaan || 4 ||"
     ],
     [
-      "Purab Desh Men Gham Naa Koi, Kahe Teun Hai Mod Mahaan || 5 ||."
+      "Purab Desh Men Gham Naa Koi, Kahe Teun Hai Mod Mahaan || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Purab Bhajan || 1 || 592 ||",
+    "पूरब देश का मैं हूं वासी, पूरब में मेरा स्थान",
     "Purab Desh Kaa Main Hun Vaasi, Purab Men Meraa Sthaan",
-    "पुरब देश का मैं हुन वासि, पुरब मेन मेरा सथान"
+    "राग पूरब भजन 1",
+    "Raag Purab Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "purab",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 593,
+  "displayOrder": 1,
+  "overallOrder": 591,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 322",
+  "updatedAt": "2026-10-26"
 }

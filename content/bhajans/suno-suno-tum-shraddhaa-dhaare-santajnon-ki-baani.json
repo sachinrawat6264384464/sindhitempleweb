@@ -1,89 +1,112 @@
 {
   "id": "bhajan-0248",
   "slug": "suno-suno-tum-shraddhaa-dhaare-santajnon-ki-baani",
-  "categoryId": "raag-bhairav",
-  "title": "सुनो सुनो तुम शरदधा धारे सनतजनोन कि बानी",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सुनो सुनो तुम श्रद्धा धारे सन्तजनों की बानी",
   "romanTitle": "Suno Suno Tum Shraddhaa Dhaare Santajnon Ki Baani",
-  "firstLine": "Suno Suno Tum Shraddhaa Dhaare Santajnon Ki Baani. Jiske Shravan Karne Se Ho Bhed Bhram Ki Haani (Tek).",
+  "firstLine": "Suno Suno Tum Shraddhaa Dhaare Santajnon Ki Baani.",
+  "heading": "।। राग भैरवी भजन ।। ३३ ।। २४८।।",
+  "tek": [
+    "सुनो सुनो तुम श्रद्धा धारे सन्तजनों की बानी ।",
+    "जिसके श्रवण करने से हो भेद भ्रम की हानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Suno Suno Tum Shraddhaa Dhaare Santajnon Ki Baani.",
+    "Jiske Shravan Karne Se Ho Bhed Bhram Ki Haani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "संतजनों की बाणी पवित्र मन की मैल मिटावे ।",
+        "कर्म धर्म की राह बताकर स्वर्ग धाम पहुँचावे ।",
+        "प्रेम सहित जो श्रवण करता तांका दूख नसावे ।",
+        "परमेश्वर का प्रेम बढ़ावे पिला प्रेम का पानी ॥१ ॥",
+        "यह बाणी दे साची शिक्षा शील संयम सिखलाती ।",
+        "जप तप ब्रत नेम संध्यादिक सेवा माहिं लगाती ।",
+        "शम दम ज्ञान ध्यान वैरागा समता माहिं समाती ।",
+        "जीव ब्रह्म को एक लखा कर देवे पद निर्बानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santjanon Ki Baani Pavitr Man Ki Mail Mitaave.",
+        "Karm Dharm Ki Raah Bataakar Svarg Dhaam Pahunchaave.",
+        "Prem Sahit Jo Shravan Kartaa Taankaa Dukh Nasaave.",
+        "Parmeshvar Kaa Prem Barhaave Pilaa Prem Kaa Paani || 1 ||",
+        "Yah Baani De Saachi Shikshaa Shil Sanyam Sikhlaati.",
+        "Jap Tap Brat Nem Sandhyaadik Sevaa Maahin Lagaati.",
+        "Sham Dam Gyaan Dhyaan Vairaagaa Samtaa Maahin Samaati.",
+        "Jiv Brahm Ko Ek Lakhaa Kar Deve Pad Nirbaani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कहे टेऊँ सन्तों की बाणी हृदय में तुम धारो ।",
+        "उस पर अमल करे तुम हरदम अपना जन्म सुधारो ।",
+        "पूरण शान्ती पद को पाकर आवागमन निवारो ।",
+        "इस बाणी को नाहिं भुलाओ ये है अमृत खानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Santon Ki Baani Hriday Men Tum Dhaaro.",
+        "Us Par Amal Kare Tum Hardam Apnaa Janm Sudhaaro.",
+        "Puran Shaanti Pad Ko Paakar Aavaagman Nivaaro.",
+        "Is Baani Ko Naahin Bhulaao Ye Hai Amrit Khaani || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनो सुनो तुम शरदधा धारे सनतजनोन कि बानी.",
-      "जिसके शरवन करने से हो भेद भरम कि हानि (टेक)."
+      "संतजनों की बाणी पवित्र मन की मैल मिटावे ।",
+      "कर्म धर्म की राह बताकर स्वर्ग धाम पहुँचावे ।",
+      "प्रेम सहित जो श्रवण करता तांका दूख नसावे ।",
+      "परमेश्वर का प्रेम बढ़ावे पिला प्रेम का पानी ॥१ ॥",
+      "यह बाणी दे साची शिक्षा शील संयम सिखलाती ।",
+      "जप तप ब्रत नेम संध्यादिक सेवा माहिं लगाती ।",
+      "शम दम ज्ञान ध्यान वैरागा समता माहिं समाती ।",
+      "जीव ब्रह्म को एक लखा कर देवे पद निर्बानी ॥२ ॥"
     ],
     [
-      "सनतजनोन कि बानी पवित्र मन कि मैल मितावे.",
-      "करम धरम कि राह बताकर सवरग धाम पहुनचावे."
-    ],
-    [
-      "प्रेम सहित जो शरवन करता तानका दुःख नसावे.",
-      "परमेशवर का प्रेम बरहावे पिला प्रेम का पानि || ₹ ||."
-    ],
-    [
-      "गत",
-      "यह बानी दे साचि शिकशा शिल सनयम सिखलाति."
-    ],
-    [
-      "जप तप बरत नेम सनधयादिक सेवा माहिन लगाति.",
-      "शम दम ज्ञान ध्यान वैरागा समता माहिन समाति."
-    ],
-    [
-      "जिव बरहम को ेक लखा कर देवे पद निरबानि || 2. ||."
-    ],
-    [
-      "कहे तेऊँ सनतोन कि बानी हरिदय मेन तुम धारो.",
-      "ुस पर मल करे तुम हरदम पना जनम सुधारो."
-    ],
-    [
-      "पुरन शांति पद को पाकर ावागमन निवारो.",
-      "िस बानी को नाहिन भुलाो ये है अमृत खानि || 3 ||."
+      "कहे टेऊँ सन्तों की बाणी हृदय में तुम धारो ।",
+      "उस पर अमल करे तुम हरदम अपना जन्म सुधारो ।",
+      "पूरण शान्ती पद को पाकर आवागमन निवारो ।",
+      "इस बाणी को नाहिं भुलाओ ये है अमृत खानी ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Suno Suno Tum Shraddhaa Dhaare Santajnon Ki Baani.",
-      "Jiske Shravan Karne Se Ho Bhed Bhram Ki Haani (Tek)."
-    ],
-    [
       "Santjanon Ki Baani Pavitr Man Ki Mail Mitaave.",
-      "Karm Dharm Ki Raah Bataakar Svarg Dhaam Pahunchaave."
-    ],
-    [
+      "Karm Dharm Ki Raah Bataakar Svarg Dhaam Pahunchaave.",
       "Prem Sahit Jo Shravan Kartaa Taankaa Dukh Nasaave.",
-      "Parmeshvar Kaa Prem Barhaave Pilaa Prem Kaa Paani || ₹ ||."
-    ],
-    [
-      "Gat",
-      "Yah Baani De Saachi Shikshaa Shil Sanyam Sikhlaati."
-    ],
-    [
+      "Parmeshvar Kaa Prem Barhaave Pilaa Prem Kaa Paani || 1 ||",
+      "Yah Baani De Saachi Shikshaa Shil Sanyam Sikhlaati.",
       "Jap Tap Brat Nem Sandhyaadik Sevaa Maahin Lagaati.",
-      "Sham Dam Jnyaan Dhyaan Vairaagaa Samtaa Maahin Samaati."
-    ],
-    [
-      "Jiv Brahm Ko Ek Lakhaa Kar Deve Pad Nirbaani || 2. ||."
+      "Sham Dam Gyaan Dhyaan Vairaagaa Samtaa Maahin Samaati.",
+      "Jiv Brahm Ko Ek Lakhaa Kar Deve Pad Nirbaani || 2 ||"
     ],
     [
       "Kahe Teun Santon Ki Baani Hriday Men Tum Dhaaro.",
-      "Us Par Amal Kare Tum Hardam Apnaa Janm Sudhaaro."
-    ],
-    [
+      "Us Par Amal Kare Tum Hardam Apnaa Janm Sudhaaro.",
       "Puran Shaanti Pad Ko Paakar Aavaagman Nivaaro.",
-      "Is Baani Ko Naahin Bhulaao Ye Hai Amrit Khaani || 3 ||."
+      "Is Baani Ko Naahin Bhulaao Ye Hai Amrit Khaani || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 33 || 248 ||",
+    "सुनो सुनो तुम श्रद्धा धारे सन्तजनों की बानी",
     "Suno Suno Tum Shraddhaa Dhaare Santajnon Ki Baani",
-    "सुनो सुनो तुम शरदधा धारे सनतजनोन कि बानी"
+    "राग भैरवी भजन 33",
+    "Raag Bhairvi Bhajan 33"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 248,
+  "displayOrder": 33,
+  "overallOrder": 248,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 154",
+  "updatedAt": "2026-10-26"
 }

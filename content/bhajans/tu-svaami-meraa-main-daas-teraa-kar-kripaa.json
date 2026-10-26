@@ -1,51 +1,80 @@
 {
-  "id": "bhajan-0676",
+  "id": "bhajan-0674",
   "slug": "tu-svaami-meraa-main-daas-teraa-kar-kripaa",
   "categoryId": "raag-pahaari",
-  "title": "तु स्वामी मेरा मैं दास तेरा, कर कृपा",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "तूं स्वामी मेरा मैं दास तेरा, कर कृपा",
   "romanTitle": "Tu Svaami Meraa Main Daas Teraa, Kar Kripaa",
-  "firstLine": "Tu Svaami Meraa Main Daas Teraa, Kar Kripaa. Tu Maat Pitaa Hari Bandhu Sakhaa, Tujh Bin Koy N Meraa (Tek).",
+  "firstLine": "Tu Svaami Meraa Main Daas Teraa, Kar Kripaa.",
+  "heading": "।। राग पहाड़ी भजन ।। २७ ।। ६७५।।",
+  "tek": [
+    "तूं स्वामी मेरा मैं दास तेरा, कर कृपा ।",
+    "तूं मात पिता हरि बन्धु सखा, तुझ बिन कोय न मेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tu Svaami Meraa Main Daas Teraa, Kar Kripaa.",
+    "Tu Maat Pitaa Hari Bandhu Sakhaa, Tujh Bin Koy Na Meraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हाथ जोड़ अर्दास करूं, सीस धरूं पुनि सेव करूं ।",
+        "कृपा करो प्रभू कृपा करो, काटो जम का फेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Haath Jor Ardaas Karun, Sis Dharun Puni Sev Karun.",
+        "Kripaa Karo Prabhu Kripaa Karo, Kaato Jam Kaa Pheraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शरन तेरी में दास पड़ा, तुझ बिन कोय न सूझे बड़ा ।",
+        "अरज़ी सुनो मेरी अरज़ी सुनो, टेऊँ कहे कर चेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sharan Teri Men Daas Paraa, Tujh Bin Koy Na Sujhe Baraa.",
+        "Arzi Suno Meri Arzi Suno, Teun Kahe Kar Cheraa || 2 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तु स्वामी मेरा मैं दास तेरा, कर कृपा.",
-      "तु मात पिता हरि बनधु सखा, तुझ बिन कोय न मेरा (टेक)."
+      "हाथ जोड़ अर्दास करूं, सीस धरूं पुनि सेव करूं ।",
+      "कृपा करो प्रभू कृपा करो, काटो जम का फेरा ॥१ ॥"
     ],
     [
-      "हाथ जोर रदास करुन, सिस धरुन पुनि सेव करुन.",
-      "कृपा करो प्रभु कृपा करो, कातो जम का फेरा.1 ||."
-    ],
-    [
-      "शरन तेरि मेन दास परा, तुझ बिन कोय न सुझे बरा.",
-      "रzि सुनो मेरि रzि सुनो, तेऊँ कहे कर चेरा || 2 ||"
+      "शरन तेरी में दास पड़ा, तुझ बिन कोय न सूझे बड़ा ।",
+      "अरज़ी सुनो मेरी अरज़ी सुनो, टेऊँ कहे कर चेरा ॥२ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tu Svaami Meraa Main Daas Teraa, Kar Kripaa.",
-      "Tu Maat Pitaa Hari Bandhu Sakhaa, Tujh Bin Koy N Meraa (Tek)."
-    ],
-    [
       "Haath Jor Ardaas Karun, Sis Dharun Puni Sev Karun.",
-      "Kripaa Karo Prabhu Kripaa Karo, Kaato Jam Kaa Pheraa.1 ||."
+      "Kripaa Karo Prabhu Kripaa Karo, Kaato Jam Kaa Pheraa || 1 ||"
     ],
     [
-      "Sharan Teri Men Daas Paraa, Tujh Bin Koy N Sujhe Baraa.",
+      "Sharan Teri Men Daas Paraa, Tujh Bin Koy Na Sujhe Baraa.",
       "Arzi Suno Meri Arzi Suno, Teun Kahe Kar Cheraa || 2 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 27 || 675 ||",
+    "तूं स्वामी मेरा मैं दास तेरा, कर कृपा",
     "Tu Svaami Meraa Main Daas Teraa, Kar Kripaa",
-    "तु स्वामी मेरा मैं दास तेरा, कर कृपा"
+    "राग पहाड़ी भजन 27",
+    "Raag Pahaari Bhajan 27"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 676,
+  "displayOrder": 27,
+  "overallOrder": 674,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 359",
+  "updatedAt": "2026-10-26"
 }

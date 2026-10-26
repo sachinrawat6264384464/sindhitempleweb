@@ -1,59 +1,99 @@
 {
-  "id": "bhajan-0628",
+  "id": "bhajan-0626",
   "slug": "re-man-aatam-aanand-paay",
   "categoryId": "raag-kalyaan",
-  "title": "रे मन ातम आनंद पाय",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "रे मन आतम आनन्द पाय",
   "romanTitle": "Re Man Aatam Aanand Paay",
-  "firstLine": "Re Man Aatam Aanand Paay. Us Aanand Men Surti Samaaye, Sakle Dukh Mitaay (Tek).",
+  "firstLine": "Re Man Aatam Aanand Paay.",
+  "heading": "।। राग कल्याण भजन ।। २० ।। ६२७।।",
+  "tek": [
+    "रे मन आतम आनन्द पाय ।",
+    "उस आनन्द में सुरति समाये, सकले दूख मिटाय ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Aatam Aanand Paay.",
+    "Us Aanand Men Surti Samaaye, Sakle Dukh Mitaay (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "आतम आनन्द पावत ज्ञानी, होकर आतम अन्तर ध्यानी ।",
+        "तूं भी ध्यान लगाय ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aatam Aanand Paavat Jnyaani, Hokar Aatam Antar Dhyaani.",
+        "Tu Bhi Dhyaan Lagaay || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आतम आनन्द पावत योगी, भोग विषय से होय वियोगी ।",
+        "तूं भी योग कमाय ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aatam Aanand Paavat Yogi, Bhog Vishay Se Hoy Viyogi.",
+        "Tu Bhi Yog Kamaay || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु शरनी जाकर, ज्ञान योग की युक्ती पाकर ।",
+        "तामें चित्त को लाय ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharni Jaakar, Gyaan Yog Ki Yukti Paakar.",
+        "Taamen Chitt Ko Laay || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन ातम आनंद पाय.",
-      "ुस आनंद मेन सुरति समाये, सकले दुःख मिताय (टेक)."
+      "आतम आनन्द पावत ज्ञानी, होकर आतम अन्तर ध्यानी ।",
+      "तूं भी ध्यान लगाय ॥१ ॥"
     ],
     [
-      "ातम आनंद पावत जनयानि, होकर ातम नतर धयानि.",
-      "तु भि ध्यान लगाय || 1 ||"
+      "आतम आनन्द पावत योगी, भोग विषय से होय वियोगी ।",
+      "तूं भी योग कमाय ॥२ ॥"
     ],
     [
-      "ातम आनंद पावत योगि, भोग विशय से होय वियोगि.",
-      "तु भि योग कमाय || 2 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु शरनि जाकर, ज्ञान योग कि युकति पाकर.",
-      "तामेन चितत को लाय || 3 ||."
+      "कहे टेऊँ गुरु शरनी जाकर, ज्ञान योग की युक्ती पाकर ।",
+      "तामें चित्त को लाय ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Re Man Aatam Aanand Paay.",
-      "Us Aanand Men Surti Samaaye, Sakle Dukh Mitaay (Tek)."
-    ],
     [
       "Aatam Aanand Paavat Jnyaani, Hokar Aatam Antar Dhyaani.",
       "Tu Bhi Dhyaan Lagaay || 1 ||"
     ],
     [
       "Aatam Aanand Paavat Yogi, Bhog Vishay Se Hoy Viyogi.",
-      "Tu Bhi Yog Kamaay || 2 ||."
+      "Tu Bhi Yog Kamaay || 2 ||"
     ],
     [
-      "Kahe Teun Guru Sharni Jaakar, Jnyaan Yog Ki Yukti Paakar.",
-      "Taamen Chitt Ko Laay || 3 ||."
+      "Kahe Teun Guru Sharni Jaakar, Gyaan Yog Ki Yukti Paakar.",
+      "Taamen Chitt Ko Laay || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kalyaan Bhajan || 20 || 627 ||",
+    "रे मन आतम आनन्द पाय",
     "Re Man Aatam Aanand Paay",
-    "रे मन ातम आनंद पाय"
+    "राग कल्याण भजन 20",
+    "Raag Kalyaan Bhajan 20"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 628,
+  "displayOrder": 20,
+  "overallOrder": 626,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 336",
+  "updatedAt": "2026-10-26"
 }

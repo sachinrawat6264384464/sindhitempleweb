@@ -1,45 +1,105 @@
 {
-  "id": "bhajan-0784",
+  "id": "bhajan-0782",
   "slug": "man-meraa-jo-hit-ko-chaaho-karm-karo-vichaare",
   "categoryId": "raag-pilaa",
-  "title": "मन मेरा जो हित को चाहो, करम करो विचारे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मन मेरा जो हित को चाहो, कर्म करो वीचारे",
   "romanTitle": "Man Meraa Jo Hit Ko Chaaho, Karm Karo Vichaare",
   "firstLine": "Man Meraa Jo Hit Ko Chaaho, Karm Karo Vichaare (Tek).",
+  "heading": "।। राग पीला भजन ।। ६२ ।। ७८४।॥।",
+  "tek": [
+    "मन मेरा जो हित को चाहो, कर्म करो वीचारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Meraa Jo Hit Ko Chaaho, Karm Karo Vichaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ममता अरु फल आश धरे जो, कर्म करोगे प्यारे ।",
+        "वे दुख सुख के दायक बनकर, तोहि बंधन में डारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mamtaa Aru Phal Aash Dhare Jo, Karm Karoge Pyaare.",
+        "Ve Dukh Sukh Ke Daayak Bankar, Tohi Bandhan Men Daare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कर्तापन को मन से त्यागे, फल की आश निवारे ।",
+        "इस विधि कर्म करोगे जो तुम, वे तब बन्धन टारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kartaapan Ko Man Se Tyaage, Phal Ki Aash Nivaare.",
+        "Is Vidhi Karm Karoge Jo Tum, Ve Tab Bandhan Taare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पाप कर्म दे वास नरक में, काम्य स्वर्ग मंझारे ।",
+        "कर्म अकाम करे शुद्ध मन को, भवसागर से तारे ॥डे ॥",
+        "कर्म करन में जीव स्वतन्त्र, भोगत परवश सारे ।",
+        "ज्यों चोरी में चोर स्वतन्त्र, बांधा कष्ट सहारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paap Karm De Vaas Narak Men, Kaamy Svarg Manjhaare.",
+        "Karm Akaam Kare Shuddh Man Ko, Bhavsaagar Se Taare || De ||",
+        "Karm Karan Men Jiv Svatantr, Bhogat Parvash Saare.",
+        "Jyon Chori Men Chor Svatantr, Baandhaa Kasht Sahaare || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तज पाप कर्म को, यह शिक्षा मन धारे ।",
+        "हो निष्काम करो शुभ कर्मा, सत्संग सेव उदारे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taj Paap Karm Ko, Yah Shikshaa Man Dhaare.",
+        "Ho Nishkaam Karo Shubh Karmaa, Satsang Sev Udaare || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द््ठ"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन मेरा जो हित को चाहो, करम करो विचारे (टेक)."
+      "ममता अरु फल आश धरे जो, कर्म करोगे प्यारे ।",
+      "वे दुख सुख के दायक बनकर, तोहि बंधन में डारे ॥१ ॥"
     ],
     [
-      "ममता रु फल ाश धरे जो, करम करोगे पयारे.",
-      "वे दुःख सुख के दायक बनकर, तोहि बनधन मेन दारे.1 ||."
+      "कर्तापन को मन से त्यागे, फल की आश निवारे ।",
+      "इस विधि कर्म करोगे जो तुम, वे तब बन्धन टारे ॥२ ॥"
     ],
     [
-      "करतापन को मन से तयागे, फल कि ाश निवारे.",
-      "िस विधि करम करोगे जो तुम, वे तब बनधन तारे || 2 ||"
+      "पाप कर्म दे वास नरक में, काम्य स्वर्ग मंझारे ।",
+      "कर्म अकाम करे शुद्ध मन को, भवसागर से तारे ॥डे ॥",
+      "कर्म करन में जीव स्वतन्त्र, भोगत परवश सारे ।",
+      "ज्यों चोरी में चोर स्वतन्त्र, बांधा कष्ट सहारे ॥४ ॥"
     ],
     [
-      "पाप करम दे वास नरक मेन, कामय सवरग मनझारे.",
-      "करम काम करे शुदध मन को, भवसागर से तारे || दे ||"
+      "कहे टेऊँ तज पाप कर्म को, यह शिक्षा मन धारे ।",
+      "हो निष्काम करो शुभ कर्मा, सत्संग सेव उदारे ॥५ ॥"
     ],
     [
-      "करम करन मेन जिव सवतनतर, भोगत परवश सारे.",
-      "जयोन चोरि मेन चोर सवतनतर, बानधा कशत सहारे || 4 ||"
-    ],
-    [
-      "कहे तेऊँ तज पाप करम को, यह शिकशा मन धारे.",
-      "हो निशकाम करो शुभ करमा, सत्संग सेव ुदारे || 5 ||."
-    ],
-    [
-      "दथ"
+      "द््ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Meraa Jo Hit Ko Chaaho, Karm Karo Vichaare (Tek)."
-    ],
-    [
       "Mamtaa Aru Phal Aash Dhare Jo, Karm Karoge Pyaare.",
-      "Ve Dukh Sukh Ke Daayak Bankar, Tohi Bandhan Men Daare.1 ||."
+      "Ve Dukh Sukh Ke Daayak Bankar, Tohi Bandhan Men Daare || 1 ||"
     ],
     [
       "Kartaapan Ko Man Se Tyaage, Phal Ki Aash Nivaare.",
@@ -47,33 +107,33 @@
     ],
     [
       "Paap Karm De Vaas Narak Men, Kaamy Svarg Manjhaare.",
-      "Karm Akaam Kare Shuddh Man Ko, Bhavsaagar Se Taare || De ||"
-    ],
-    [
+      "Karm Akaam Kare Shuddh Man Ko, Bhavsaagar Se Taare || De ||",
       "Karm Karan Men Jiv Svatantr, Bhogat Parvash Saare.",
       "Jyon Chori Men Chor Svatantr, Baandhaa Kasht Sahaare || 4 ||"
     ],
     [
       "Kahe Teun Taj Paap Karm Ko, Yah Shikshaa Man Dhaare.",
-      "Ho Nishkaam Karo Shubh Karmaa, Satsang Sev Udaare || 5 ||."
+      "Ho Nishkaam Karo Shubh Karmaa, Satsang Sev Udaare || 5 ||"
     ],
     [
       "Dth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 62 || 784. ||.",
+    "मन मेरा जो हित को चाहो, कर्म करो वीचारे",
     "Man Meraa Jo Hit Ko Chaaho, Karm Karo Vichaare",
-    "मन मेरा जो हित को चाहो, करम करो विचारे"
+    "राग पीला भजन 61",
+    "Raag Pilaa Bhajan 61"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 784,
+  "displayOrder": 61,
+  "overallOrder": 782,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 413",
+  "updatedAt": "2026-10-26"
 }

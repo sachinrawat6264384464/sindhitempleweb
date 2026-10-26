@@ -1,67 +1,118 @@
 {
-  "id": "bhajan-0809",
+  "id": "bhajan-0807",
   "slug": "laage-laage-mainnun-ik-raam-pyaaraa",
   "categoryId": "raag-pilaa",
-  "title": "लागे लागे मैननुन िक राम पयारा",
-  "romanTitle": "Laage Laage Mainnun Ik Raam Pyaaraa",
-  "firstLine": "Laage Laage Mainnun Ik Raam Pyaaraa, Raam Pyaaraa Meraa Hai Rakhvaaraa Re (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "लागे लागे मैंनूं इक राम प्यारा,",
+  "romanTitle": "Laage Laage Mainnun Ik Raam Pyaaraa,",
+  "firstLine": "Laage Laage Mainnun Ik Raam Pyaaraa,",
+  "heading": "।। राग पीला भजन ।। ८७ ।। ८०९॥।",
+  "tek": [
+    "लागे लागे मैंनूं इक राम प्यारा,",
+    "राम प्यारा मेरा है रखवारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Laage Laage Mainnun Ik Raam Pyaaraa,",
+    "Raam Pyaaraa Meraa Hai Rakhvaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सो जन मेरा मित्र कहावे, भगवत की जो बात सुनावे ।",
+        "राम सनेही है प्रान अधारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "So Jan Meraa Mitr Kahaave, Bhagvat Ki Jo Baat Sunaave.",
+        "Raam Sanehi Hai Praan Adhaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सोई मेरा दुश्मन भारा, हरि बिन कर जो और उच्चारा ।",
+        "राम बिना है घर नरक द्वारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Soi Meraa Dushman Bhaaraa, Hari Bin Kar Jo Aur Uchchaaraa.",
+        "Raam Binaa Hai Ghar Narak Dvaaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जग की बात न मोहि सुनाओ, आप लोक भी निकट न आओ ।",
+        "राम बिना है जग काल अकारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jag Ki Baat Na Mohi Sunaao, Aap Lok Bhi Nikat Na Aao.",
+        "Raam Binaa Hai Jag Kaal Akaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरु कृपा से हरि मन लागा, प्रेम पुरातन आय अब जागा ।",
+        "कहता टेऊँ गुरु पर बलिहारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Kripaa Se Hari Man Laagaa, Prem Puraatan Aay Ab Jaagaa.",
+        "Kahtaa Teun Guru Par Balihaaraa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लागे लागे मैननुन िक राम पयारा,",
-      "राम पयारा मेरा है रखवारा रे (टेक)."
+      "सो जन मेरा मित्र कहावे, भगवत की जो बात सुनावे ।",
+      "राम सनेही है प्रान अधारा रे ॥१ ॥"
     ],
     [
-      "सो जन मेरा मितर कहावे, भगवत कि जो बात सुनावे.",
-      "राम सनेहि है परान धारा रे.1. ||."
+      "सोई मेरा दुश्मन भारा, हरि बिन कर जो और उच्चारा ।",
+      "राम बिना है घर नरक द्वारा रे ॥२ ॥"
     ],
     [
-      "सोि मेरा दुशमन भारा, हरि बिन कर जो ौर ुचचारा.",
-      "राम बिना है घर नरक दवारा रे || 2 ||"
+      "जग की बात न मोहि सुनाओ, आप लोक भी निकट न आओ ।",
+      "राम बिना है जग काल अकारा रे ॥३ ॥"
     ],
     [
-      "जग कि बात न मोहि सुनाो, ाप लोक भि निकत न ाो.",
-      "राम बिना है जग काल कारा रे || 3"
-    ],
-    [
-      "गुरु कृपा से हरि मन लागा, प्रेम पुरातन ाय ब जागा.",
-      "कहता तेऊँ गुरु पर बलिहारा रे || 4 ||."
+      "गुरु कृपा से हरि मन लागा, प्रेम पुरातन आय अब जागा ।",
+      "कहता टेऊँ गुरु पर बलिहारा रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Laage Laage Mainnun Ik Raam Pyaaraa,",
-      "Raam Pyaaraa Meraa Hai Rakhvaaraa Re (Tek)."
-    ],
-    [
       "So Jan Meraa Mitr Kahaave, Bhagvat Ki Jo Baat Sunaave.",
-      "Raam Sanehi Hai Praan Adhaaraa Re.1. ||."
+      "Raam Sanehi Hai Praan Adhaaraa Re || 1 ||"
     ],
     [
       "Soi Meraa Dushman Bhaaraa, Hari Bin Kar Jo Aur Uchchaaraa.",
       "Raam Binaa Hai Ghar Narak Dvaaraa Re || 2 ||"
     ],
     [
-      "Jag Ki Baat N Mohi Sunaao, Aap Lok Bhi Nikat N Aao.",
-      "Raam Binaa Hai Jag Kaal Akaaraa Re || 3"
+      "Jag Ki Baat Na Mohi Sunaao, Aap Lok Bhi Nikat Na Aao.",
+      "Raam Binaa Hai Jag Kaal Akaaraa Re || 3 ||"
     ],
     [
       "Guru Kripaa Se Hari Man Laagaa, Prem Puraatan Aay Ab Jaagaa.",
-      "Kahtaa Teun Guru Par Balihaaraa Re || 4 ||."
+      "Kahtaa Teun Guru Par Balihaaraa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 87 || 809 ||.",
-    "Laage Laage Mainnun Ik Raam Pyaaraa",
-    "लागे लागे मैननुन िक राम पयारा"
+    "लागे लागे मैंनूं इक राम प्यारा,",
+    "Laage Laage Mainnun Ik Raam Pyaaraa,",
+    "राग पीला भजन 86",
+    "Raag Pilaa Bhajan 86"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 809,
+  "displayOrder": 86,
+  "overallOrder": 807,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 428",
+  "updatedAt": "2026-10-26"
 }

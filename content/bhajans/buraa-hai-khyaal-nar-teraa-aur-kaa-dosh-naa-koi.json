@@ -1,42 +1,91 @@
 {
-  "id": "bhajan-0630",
+  "id": "bhajan-0628",
   "slug": "buraa-hai-khyaal-nar-teraa-aur-kaa-dosh-naa-koi",
   "categoryId": "raag-kalyaan",
-  "title": "बुरा है खयाल नर तेरा, ौर का दोश ना कोि",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "बुरा है ख्याल नर तेरा, और का दोष ना कोई । ॥",
   "romanTitle": "Buraa Hai Khyaal Nar Teraa, Aur Kaa Dosh Naa Koi",
   "firstLine": "Buraa Hai Khyaal Nar Teraa, Aur Kaa Dosh Naa Koi (Tek).",
+  "heading": "।। राग कल्याण भजन ।। २२ ।। ६२९।।",
+  "tek": [
+    "बुरा है ख्याल नर तेरा, और का दोष ना कोई । ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Buraa Hai Khyaal Nar Teraa, Aur Kaa Dosh Naa Koi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अरी दश सीस रघुवर को, विभीषण ने मित्र माना ।",
+        "विभीषण राज मरा रावण, राम का दोष ना कोई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ari Dash Sis Raghuvar Ko, Vibhishan Ne Mitr Maanaa.",
+        "Vibhishan Raaj Maraa Raavan, Raam Kaa Dosh Naa Koi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कृष्ण को कंस अरि समझा, मित्र समझा उग्रसेन ने ।",
+        "कंस मूआ भक्त मुक्ता, कृष्ण का दोष ना कोई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Krishn Ko Kans Ari Samjhaa, Mitr Samjhaa Ugrasen Ne.",
+        "Kans Muaa Bhakt Muktaa, Krishn Kaa Dosh Naa Koi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "रबी को अरि उल्लू जाने, मनुष्य जाने सज्जन तांको ।",
+        "उल्लू अंध हो मनुष्य रोशन, रवी का दोष ना कोई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Rabi Ko Ari Ullu Jaane, Manushy Jaane Sajjan Taanko.",
+        "Ullu Andh Ho Manushy Roshan, Ravi Kaa Dosh Naa Koi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुनो प्यारा, जोई जिस भाव से देखे ।",
+        "तिसी को फल मिले तैसा, किसी का दोष ना कोई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Suno Pyaaraa, Joi Jis Bhaav Se Dekhe.",
+        "Tisi Ko Phal Mile Taisaa, Kisi Kaa Dosh Naa Koi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बुरा है खयाल नर तेरा, ौर का दोश ना कोि (टेक)."
+      "अरी दश सीस रघुवर को, विभीषण ने मित्र माना ।",
+      "विभीषण राज मरा रावण, राम का दोष ना कोई ॥१ ॥"
     ],
     [
-      "रि दश सिस रघुवर को, विभिशन ने मितर माना.",
-      "विभिशन राज मरा रावन, राम का दोश ना कोि ||.8 ||."
+      "कृष्ण को कंस अरि समझा, मित्र समझा उग्रसेन ने ।",
+      "कंस मूआ भक्त मुक्ता, कृष्ण का दोष ना कोई ॥२ ॥"
     ],
     [
-      "करिशन को कनस रि समझा, मितर समझा ुगरसेन ने.",
-      "कनस मुा भकत मुकता, करिशन का दोश ना कोि || 2 ||."
+      "रबी को अरि उल्लू जाने, मनुष्य जाने सज्जन तांको ।",
+      "उल्लू अंध हो मनुष्य रोशन, रवी का दोष ना कोई ॥३ ॥"
     ],
     [
-      "रबि को रि ुललु जाने, मनुशय जाने सजजन तानको.",
-      "ुललु नध हो मनुशय रोशन, रवि का दोश ना कोि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ सुनो पयारा, जोि जिस भाव से देखे.",
-      "तिसि को फल मिले तैसा, किसि का दोश ना कोि || 4 ||."
+      "कहे टेऊँ सुनो प्यारा, जोई जिस भाव से देखे ।",
+      "तिसी को फल मिले तैसा, किसी का दोष ना कोई ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Buraa Hai Khyaal Nar Teraa, Aur Kaa Dosh Naa Koi (Tek)."
-    ],
-    [
       "Ari Dash Sis Raghuvar Ko, Vibhishan Ne Mitr Maanaa.",
-      "Vibhishan Raaj Maraa Raavan, Raam Kaa Dosh Naa Koi ||.8 ||."
+      "Vibhishan Raaj Maraa Raavan, Raam Kaa Dosh Naa Koi || 1 ||"
     ],
     [
       "Krishn Ko Kans Ari Samjhaa, Mitr Samjhaa Ugrasen Ne.",
-      "Kans Muaa Bhakt Muktaa, Krishn Kaa Dosh Naa Koi || 2 ||."
+      "Kans Muaa Bhakt Muktaa, Krishn Kaa Dosh Naa Koi || 2 ||"
     ],
     [
       "Rabi Ko Ari Ullu Jaane, Manushy Jaane Sajjan Taanko.",
@@ -44,22 +93,24 @@
     ],
     [
       "Kahe Teun Suno Pyaaraa, Joi Jis Bhaav Se Dekhe.",
-      "Tisi Ko Phal Mile Taisaa, Kisi Kaa Dosh Naa Koi || 4 ||."
+      "Tisi Ko Phal Mile Taisaa, Kisi Kaa Dosh Naa Koi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kalyaan Bhajan || 22 || 629 ||",
+    "बुरा है ख्याल नर तेरा, और का दोष ना कोई । ॥",
     "Buraa Hai Khyaal Nar Teraa, Aur Kaa Dosh Naa Koi",
-    "बुरा है खयाल नर तेरा, ौर का दोश ना कोि"
+    "राग कल्याण भजन 22",
+    "Raag Kalyaan Bhajan 22"
   ],
   "tags": [
-    "kalyaan",
-    "teunram",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 630,
+  "displayOrder": 22,
+  "overallOrder": 628,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 337",
+  "updatedAt": "2026-10-26"
 }

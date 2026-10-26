@@ -2,75 +2,108 @@
   "id": "bhajan-0076",
   "slug": "aise-meraa-man-vase-raam-naam-men",
   "categoryId": "raag-aasaa",
-  "title": "ैसे मेरा मन वसे राम नाम मेन",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "ऐसे मेरा मन वसे राम नाम में",
   "romanTitle": "Aise Meraa Man Vase Raam Naam Men",
   "firstLine": "Aise Meraa Man Vase Raam Naam Men (Tek).",
+  "heading": "।। राग आसा भजन ।। १४ ।। ७६।॥।",
+  "tek": [
+    "ऐसे मेरा मन वसे राम नाम में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aise Meraa Man Vase Raam Naam Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बालक का मन जैसे खीर वसन्दा,",
+        "मछली का मन जैसे नीर वसन्दा ।",
+        "भूखे केरा मन जैसे वसे ताम में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Baalak Kaa Man Jaise Khir Vasandaa,",
+        "Machhli Kaa Man Jaise Nir Vasandaa.",
+        "Bhukhe Keraa Man Jaise Vase Taam Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सांप केरा मन जैसे वसे मनियां,",
+        "कूकर का मन वसे धाम धनियां ।",
+        "लोभी केरा मन जैसे वसे दाम में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saanp Keraa Man Jaise Vase Maniyaan,",
+        "Kukar Kaa Man Vase Dhaam Dhaniyaan.",
+        "Lobhi Keraa Man Jaise Vase Daam Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ कूज्ज मन पूत वसन्दा,",
+        "कच्छुवों का मन जैसे अण्डे दिसन्दा ।",
+        "कामी केरा मन जैसे वसे वाम में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kujj Man Put Vasandaa,",
+        "Kachchhuvon Kaa Man Jaise Ande Disandaa.",
+        "Kaami Keraa Man Jaise Vase Vaam Men || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ैसे मेरा मन वसे राम नाम मेन (टेक)."
+      "बालक का मन जैसे खीर वसन्दा,",
+      "मछली का मन जैसे नीर वसन्दा ।",
+      "भूखे केरा मन जैसे वसे ताम में ॥१ ॥"
     ],
     [
-      "बालक का मन जैसे खिर वसनदा,",
-      "मचहलि का मन जैसे निर वसनदा."
+      "सांप केरा मन जैसे वसे मनियां,",
+      "कूकर का मन वसे धाम धनियां ।",
+      "लोभी केरा मन जैसे वसे दाम में ॥२ ॥"
     ],
     [
-      "भुखे केरा मन जैसे वसे ताम मेन || 1. ||."
-    ],
-    [
-      "सानप केरा मन जैसे वसे मनियान,",
-      "कुकर का मन वसे धाम धनियान."
-    ],
-    [
-      "लोभि केरा मन जैसे वसे दाम मेन || 2 ||"
-    ],
-    [
-      "कहे तेऊँ कुजज मन पुत वसनदा,",
-      "कचचहुवोन का मन जैसे नदे दिसनदा."
-    ],
-    [
-      "कामि केरा मन जैसे वसे वाम मेन || 3 ||"
+      "कहे टेऊँ कूज्ज मन पूत वसन्दा,",
+      "कच्छुवों का मन जैसे अण्डे दिसन्दा ।",
+      "कामी केरा मन जैसे वसे वाम में ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aise Meraa Man Vase Raam Naam Men (Tek)."
-    ],
-    [
       "Baalak Kaa Man Jaise Khir Vasandaa,",
-      "Machhli Kaa Man Jaise Nir Vasandaa."
-    ],
-    [
-      "Bhukhe Keraa Man Jaise Vase Taam Men || 1. ||."
+      "Machhli Kaa Man Jaise Nir Vasandaa.",
+      "Bhukhe Keraa Man Jaise Vase Taam Men || 1 ||"
     ],
     [
       "Saanp Keraa Man Jaise Vase Maniyaan,",
-      "Kukar Kaa Man Vase Dhaam Dhaniyaan."
-    ],
-    [
+      "Kukar Kaa Man Vase Dhaam Dhaniyaan.",
       "Lobhi Keraa Man Jaise Vase Daam Men || 2 ||"
     ],
     [
       "Kahe Teun Kujj Man Put Vasandaa,",
-      "Kachchhuvon Kaa Man Jaise Ande Disandaa."
-    ],
-    [
+      "Kachchhuvon Kaa Man Jaise Ande Disandaa.",
       "Kaami Keraa Man Jaise Vase Vaam Men || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 14 || 76. ||.",
+    "ऐसे मेरा मन वसे राम नाम में",
     "Aise Meraa Man Vase Raam Naam Men",
-    "ैसे मेरा मन वसे राम नाम मेन"
+    "राग आसा भजन 14",
+    "Raag Aasaa Bhajan 14"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 76,
+  "displayOrder": 14,
+  "overallOrder": 76,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 63",
+  "updatedAt": "2026-10-26"
 }

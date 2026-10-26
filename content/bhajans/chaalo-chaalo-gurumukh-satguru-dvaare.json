@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0805",
+  "id": "bhajan-0803",
   "slug": "chaalo-chaalo-gurumukh-satguru-dvaare",
   "categoryId": "raag-pilaa",
-  "title": "चालो चालो गुरुमुख सतगुरु दवारे",
-  "romanTitle": "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare",
-  "firstLine": "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare, Sat‌Guru Dvaare Man Men Shraddhaa Dhaare Re (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "चालो चालो गुरुमुख सत्‌गुरु द्वारे,",
+  "romanTitle": "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare,",
+  "firstLine": "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare,",
+  "heading": "।। राग पीला भजन ॥। ८३ ।। ८०५॥।",
+  "tek": [
+    "चालो चालो गुरुमुख सत्‌गुरु द्वारे,",
+    "सत्‌गुरु द्वारे मन में श्रद्धा धारे रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare,",
+    "Sat‌Guru Dvaare Man Men Shraddhaa Dhaare Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "विषय वासना सर्व त्यागे, मोक्ष हेत जो गुरु पद लागे,",
+        "मुक्ति करत तिस श्रम निवारे रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vishay Vaasnaa Sarv Tyaage, Moksh Het Jo Guru Pad Laage,",
+        "Mukti Karat Tis Shram Nivaare Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वैकुण्ठ की मन में धर आसा, गुरु पद में जो करत निवासा,",
+        "हरिपुर भेजे तिस काज संबारे रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vaikunth Ki Man Men Dhar Aasaa, Guru Pad Men Jo Karat Nivaasaa,",
+        "Haripur Bheje Tis Kaaj Sambaare Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धन सुत आदि की इच्छा धारे, शरन पड़े जो गुरु चरनारे,",
+        "ऋद्धि सिद्धि देके तिस दुख दर्द टारे रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhan Sut Aadi Ki Ichchhaa Dhaare, Sharan Pare Jo Guru Charnaare,",
+        "Riddhi Siddhi Deke Tis Dukh Dard Taare Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिस मनसा जैसी, पूरी करे गुरु तांकी तैसी,",
+        "गुरु पूरे के दर सब कुछ प्यारे रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jis Mansaa Jaisi, Puri Kare Guru Taanki Taisi,",
+        "Guru Pure Ke Dar Sab Kuchh Pyaare Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चालो चालो गुरुमुख सतगुरु दवारे,",
-      "सतगुरु दवारे मन मेन शरदधा धारे रे (टेक)."
+      "विषय वासना सर्व त्यागे, मोक्ष हेत जो गुरु पद लागे,",
+      "मुक्ति करत तिस श्रम निवारे रे ॥१ ॥"
     ],
     [
-      "विशय वासना सर्व तयागे, मोक्ष हेत जो गुरु पद लागे,",
-      "मुक्ति करत तिस शरम निवारे रे.1 ||."
+      "वैकुण्ठ की मन में धर आसा, गुरु पद में जो करत निवासा,",
+      "हरिपुर भेजे तिस काज संबारे रे ॥२ ॥"
     ],
     [
-      "वैकुनथ कि मन मेन धर ासा, गुरु पद मेन जो करत निवासा,",
-      "हरिपुर भेजे तिस काज समबारे रे.2 ||."
+      "धन सुत आदि की इच्छा धारे, शरन पड़े जो गुरु चरनारे,",
+      "ऋद्धि सिद्धि देके तिस दुख दर्द टारे रे ॥३ ॥"
     ],
     [
-      "धन सुत ादि कि िचचहा धारे, शरन परे जो गुरु चरनारे,",
-      "रिदधि सिदधि देके तिस दुःख दरद तारे रे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिस मनसा जैसि, पुरि करे गुरु तानकि तैसि,",
-      "गुरु पुरे के दर सब कुचह पयारे रे || 4 ||."
+      "कहे टेऊँ जिस मनसा जैसी, पूरी करे गुरु तांकी तैसी,",
+      "गुरु पूरे के दर सब कुछ प्यारे रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare,",
-      "Sat‌Guru Dvaare Man Men Shraddhaa Dhaare Re (Tek)."
-    ],
-    [
       "Vishay Vaasnaa Sarv Tyaage, Moksh Het Jo Guru Pad Laage,",
-      "Mukti Karat Tis Shram Nivaare Re.1 ||."
+      "Mukti Karat Tis Shram Nivaare Re || 1 ||"
     ],
     [
       "Vaikunth Ki Man Men Dhar Aasaa, Guru Pad Men Jo Karat Nivaasaa,",
-      "Haripur Bheje Tis Kaaj Sambaare Re.2 ||."
+      "Haripur Bheje Tis Kaaj Sambaare Re || 2 ||"
     ],
     [
       "Dhan Sut Aadi Ki Ichchhaa Dhaare, Sharan Pare Jo Guru Charnaare,",
-      "Riddhi Siddhi Deke Tis Dukh Dard Taare Re || 3 ||."
+      "Riddhi Siddhi Deke Tis Dukh Dard Taare Re || 3 ||"
     ],
     [
       "Kahe Teun Jis Mansaa Jaisi, Puri Kare Guru Taanki Taisi,",
-      "Guru Pure Ke Dar Sab Kuchh Pyaare Re || 4 ||."
+      "Guru Pure Ke Dar Sab Kuchh Pyaare Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan ||. 83 || 805 ||.",
-    "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare",
-    "चालो चालो गुरुमुख सतगुरु दवारे"
+    "चालो चालो गुरुमुख सत्‌गुरु द्वारे,",
+    "Chaalo Chaalo Gurumukh Sat‌Guru Dvaare,",
+    "राग पीला भजन 82",
+    "Raag Pilaa Bhajan 82"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 805,
+  "displayOrder": 82,
+  "overallOrder": 803,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 426",
+  "updatedAt": "2026-10-26"
 }

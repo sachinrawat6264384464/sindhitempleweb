@@ -2,56 +2,99 @@
   "id": "bhajan-0423",
   "slug": "sunle-pyaaraa-vachan-hamaaraa-govind-ke-gun-gaao-re",
   "categoryId": "raag-tilang",
-  "title": "सुनले पयारा वचन हमारा, गोविंद के गुन गाो रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सुनले प्यारा वचन हमारा, गोविन्द के गुण गाओ रे",
   "romanTitle": "Sunle Pyaaraa Vachan Hamaaraa, Govind Ke Gun Gaao Re",
   "firstLine": "Sunle Pyaaraa Vachan Hamaaraa, Govind Ke Gun Gaao Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६० ।। ४२४॥।",
+  "tek": [
+    "सुनले प्यारा वचन हमारा, गोविन्द के गुण गाओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sunle Pyaaraa Vachan Hamaaraa, Govind Ke Gun Gaao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि का नाम सदा सुखकारी , सुमर सुमर सुख पाओ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Kaa Naam Sadaa Sukhkaari, Sumar Sumar Sukh Paao Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सन्त जनां की करके सेवा, गर्व गुमान गँवाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sant Janaan Ki Karke Sevaa, Garv Gumaan Ganvaao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आशा तृष्णा दुर्मति त्यागे, ममता मोह मिटाओ रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aashaa Trishnaa Durmati Tyaage, Mamtaa Moh Mitaao Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ गुरु कृपा से, सुख स्वरूप समाओ रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Guru Kripaa Se, Sukh Svarup Samaao Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनले पयारा वचन हमारा, गोविंद के गुन गाो रे (टेक)."
+      "हरि का नाम सदा सुखकारी , सुमर सुमर सुख पाओ रे ॥१ ॥"
     ],
     [
-      "हरि का नाम सदा सुखकारि, सुमर सुमर सुख पाो रे || 1 ||."
+      "सन्त जनां की करके सेवा, गर्व गुमान गँवाओ रे ॥२ ॥"
     ],
     [
-      "संत जनान कि करके सेवा, गरव गुमान गनवाो रे || 2 ||."
+      "आशा तृष्णा दुर्मति त्यागे, ममता मोह मिटाओ रे ॥३ ॥"
     ],
     [
-      "ाशा तरिशना दुरमति तयागे, ममता मोह मिताो रे || 3 ||."
-    ],
-    [
-      "कहता तेऊँ गुरु कृपा से, सुख सवरुप समाो रे || 4 ||."
+      "कहता टेऊँ गुरु कृपा से, सुख स्वरूप समाओ रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sunle Pyaaraa Vachan Hamaaraa, Govind Ke Gun Gaao Re (Tek)."
+      "Hari Kaa Naam Sadaa Sukhkaari, Sumar Sumar Sukh Paao Re || 1 ||"
     ],
     [
-      "Hari Kaa Naam Sadaa Sukhkaari, Sumar Sumar Sukh Paao Re || 1 ||."
+      "Sant Janaan Ki Karke Sevaa, Garv Gumaan Ganvaao Re || 2 ||"
     ],
     [
-      "Sant Janaan Ki Karke Sevaa, Garv Gumaan Ganvaao Re || 2 ||."
+      "Aashaa Trishnaa Durmati Tyaage, Mamtaa Moh Mitaao Re || 3 ||"
     ],
     [
-      "Aashaa Trishnaa Durmati Tyaage, Mamtaa Moh Mitaao Re || 3 ||."
-    ],
-    [
-      "Kahtaa Teun Guru Kripaa Se, Sukh Svarup Samaao Re || 4 ||."
+      "Kahtaa Teun Guru Kripaa Se, Sukh Svarup Samaao Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 60 || 424 ||.",
+    "सुनले प्यारा वचन हमारा, गोविन्द के गुण गाओ रे",
     "Sunle Pyaaraa Vachan Hamaaraa, Govind Ke Gun Gaao Re",
-    "सुनले पयारा वचन हमारा, गोविंद के गुन गाो रे"
+    "राग तिलंग भजन 60",
+    "Raag Tilang Bhajan 60"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 423,
+  "displayOrder": 60,
+  "overallOrder": 423,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 243",
+  "updatedAt": "2026-10-26"
 }

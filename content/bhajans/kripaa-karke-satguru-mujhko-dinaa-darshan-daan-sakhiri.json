@@ -2,57 +2,99 @@
   "id": "bhajan-0182",
   "slug": "kripaa-karke-satguru-mujhko-dinaa-darshan-daan-sakhiri",
   "categoryId": "raag-dhanaashri",
-  "title": "कृपा करके सतगुरु मुझको दिना दरशन दान सखिरि",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "कृपा करके सत्गुरु मुझको दीना दर्शन दान सखीरी",
   "romanTitle": "Kripaa Karke Satguru Mujhko Dinaa Darshan Daan Sakhiri",
   "firstLine": "Kripaa Karke Satguru Mujhko Dinaa Darshan Daan Sakhiri (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। २ ।। १८२॥।",
+  "tek": [
+    "कृपा करके सत्गुरु मुझको दीना दर्शन दान सखीरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kripaa Karke Satguru Mujhko Dinaa Darshan Daan Sakhiri (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जन्म जन्म के भाग जगे हैं, आये घर भगवान सखीरी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Janm Janm Ke Bhaag Jage Hain, Aaye Ghar Bhagvaan Sakhiri || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आज दर्द दुख दूर भये सब, भया कुशल कल्यान सखीरी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aaj Dard Dukh Dur Bhaye Sab, Bhayaa Kushal Kalyaan Sakhiri || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आज उपाधी श्रान्ति गयी सब, उपजा निर्मल ज्ञान सखीरी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aaj Upaadhi Shraanti Gayi Sab, Upjaa Nirmal Gyaan Sakhiri || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं सत्गुरु ऊपर, वारौं तन मन प्रान सखीरी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Satguru Upar, Vaaraun Tan Man Praan Sakhiri || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कृपा करके सतगुरु मुझको दिना दरशन दान सखिरि (टेक)."
+      "जन्म जन्म के भाग जगे हैं, आये घर भगवान सखीरी ॥१ ॥"
     ],
     [
-      "जनम जनम के भाग जगे हैन, ाये घर भगवान सखिरि || 1 ||."
+      "आज दर्द दुख दूर भये सब, भया कुशल कल्यान सखीरी ॥२ ॥"
     ],
     [
-      "ाज दरद दुःख दुर भये सब, भया कुशल कलयान सखिरि || 2 ||."
+      "आज उपाधी श्रान्ति गयी सब, उपजा निर्मल ज्ञान सखीरी ॥३ ॥"
     ],
     [
-      "ाज ुपाधि शरानति गयि सब, ुपजा निर्मल ज्ञान सखिरि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ मैं सतगुरु ुपर, वारौन तन मन परान सखिरि || 4 ||"
+      "कहे टेऊँ मैं सत्गुरु ऊपर, वारौं तन मन प्रान सखीरी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kripaa Karke Satguru Mujhko Dinaa Darshan Daan Sakhiri (Tek)."
+      "Janm Janm Ke Bhaag Jage Hain, Aaye Ghar Bhagvaan Sakhiri || 1 ||"
     ],
     [
-      "Janm Janm Ke Bhaag Jage Hain, Aaye Ghar Bhagvaan Sakhiri || 1 ||."
+      "Aaj Dard Dukh Dur Bhaye Sab, Bhayaa Kushal Kalyaan Sakhiri || 2 ||"
     ],
     [
-      "Aaj Dard Dukh Dur Bhaye Sab, Bhayaa Kushal Kalyaan Sakhiri || 2 ||."
-    ],
-    [
-      "Aaj Upaadhi Shraanti Gayi Sab, Upjaa Nirmal Jnyaan Sakhiri || 3 ||"
+      "Aaj Upaadhi Shraanti Gayi Sab, Upjaa Nirmal Gyaan Sakhiri || 3 ||"
     ],
     [
       "Kahe Teun Main Satguru Upar, Vaaraun Tan Man Praan Sakhiri || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 2 || 182 ||.",
+    "कृपा करके सत्गुरु मुझको दीना दर्शन दान सखीरी",
     "Kripaa Karke Satguru Mujhko Dinaa Darshan Daan Sakhiri",
-    "कृपा करके सतगुरु मुझको दिना दरशन दान सखिरि"
+    "राग धनाश्री भजन 2",
+    "Raag Dhanaashri Bhajan 2"
   ],
   "tags": [
-    "teunram",
-    "dhanaashri",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 182,
+  "displayOrder": 2,
+  "overallOrder": 182,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 120",
+  "updatedAt": "2026-10-26"
 }

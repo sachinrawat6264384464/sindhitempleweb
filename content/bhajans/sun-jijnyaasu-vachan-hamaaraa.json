@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0525",
+  "id": "bhajan-0523",
   "slug": "sun-jijnyaasu-vachan-hamaaraa",
   "categoryId": "raag-kohiyaari",
-  "title": "सुन जिजनयासु वचन हमारा",
-  "romanTitle": "Sun Jijnyaasu Vachan Hamaaraa",
-  "firstLine": "Sun Jijnyaasu Vachan Hamaaraa, Jaanko Khojat So Tu Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सुन जिज्ञासू वचन हमारा,",
+  "romanTitle": "Sun Jijnyaasu Vachan Hamaaraa,",
+  "firstLine": "Sun Jijnyaasu Vachan Hamaaraa,",
+  "heading": "।। राग कोह्मारी भजन ।। ४ ।। ५२४।।",
+  "tek": [
+    "सुन जिज्ञासू वचन हमारा,",
+    "जांको खोजत सो तूं प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sun Jijnyaasu Vachan Hamaaraa,",
+    "Jaanko Khojat So Tu Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "काहे तीर्थ करने जाते, पाप हरन हित गोता खाते ।",
+        "तूं है तीर्थ रूप अपारा ॥8 ॥"
+      ],
+      "romanLines": [
+        "Kaahe Tirth Karne Jaate, Paap Haran Hit Gotaa Khaate.",
+        "Tu Hai Tirth Rup Apaaraa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काहे भेटत और शिवाला, देह तुम्हारी है शिवशाला ।",
+        "तूं है शंकर देव उदारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaahe Bhetat Aur Shivaalaa, Deh Tumhaari Hai Shivshaalaa.",
+        "Tu Hai Shankar Dev Udaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काहे जाकर वृन्दावन में, मनमोहन खोजत मन्दिर में ।",
+        "तूं है रास रचावनहारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaahe Jaakar Vrindaavan Men, Manmohan Khojat Mandir Men.",
+        "Tu Hai Raas Rachaavnahaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ चित थिर कर लीजे, तत्क्षण अपना दर्शन कीजे ।",
+        "छूटे सबहीं भेद विकारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Chit Thir Kar Lije, Tatkshan Apnaa Darshan Kije.",
+        "Chhute Sabhin Bhed Vikaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुन जिजनयासु वचन हमारा,",
-      "जानको खोजत सो तु पयारा (टेक)."
+      "काहे तीर्थ करने जाते, पाप हरन हित गोता खाते ।",
+      "तूं है तीर्थ रूप अपारा ॥8 ॥"
     ],
     [
-      "काहे तिरथ करने जाते, पाप हरन हित गोता खाते.",
-      "तु है तिरथ रुप पारा || 8 ||."
+      "काहे भेटत और शिवाला, देह तुम्हारी है शिवशाला ।",
+      "तूं है शंकर देव उदारा ॥२ ॥"
     ],
     [
-      "काहे भेतत ौर शिवाला, देह तुमहारि है शिवशाला.",
-      "तु है शनकर देव ुदारा || 2 ||"
+      "काहे जाकर वृन्दावन में, मनमोहन खोजत मन्दिर में ।",
+      "तूं है रास रचावनहारा ॥३ ॥"
     ],
     [
-      "काहे जाकर वरिनदावन मेन, मनमोहन खोजत मनदिर मेन.",
-      "तु है रास रचावनहारा ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ चित थिर कर लिजे, ततकशन पना दरशन किजे.",
-      "चहुते सभिन भेद विकारा || 4 ||."
+      "कहे टेऊँ चित थिर कर लीजे, तत्क्षण अपना दर्शन कीजे ।",
+      "छूटे सबहीं भेद विकारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sun Jijnyaasu Vachan Hamaaraa,",
-      "Jaanko Khojat So Tu Pyaaraa (Tek)."
-    ],
-    [
       "Kaahe Tirth Karne Jaate, Paap Haran Hit Gotaa Khaate.",
-      "Tu Hai Tirth Rup Apaaraa || 8 ||."
+      "Tu Hai Tirth Rup Apaaraa || 8 ||"
     ],
     [
       "Kaahe Bhetat Aur Shivaalaa, Deh Tumhaari Hai Shivshaalaa.",
@@ -42,26 +91,28 @@
     ],
     [
       "Kaahe Jaakar Vrindaavan Men, Manmohan Khojat Mandir Men.",
-      "Tu Hai Raas Rachaavnahaaraa ||.3 ||."
+      "Tu Hai Raas Rachaavnahaaraa || 3 ||"
     ],
     [
       "Kahe Teun Chit Thir Kar Lije, Tatkshan Apnaa Darshan Kije.",
-      "Chhute Sabhin Bhed Vikaaraa || 4 ||."
+      "Chhute Sabhin Bhed Vikaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohmaari Bhajan || 4 || 524 ||",
-    "Sun Jijnyaasu Vachan Hamaaraa",
-    "सुन जिजनयासु वचन हमारा"
+    "सुन जिज्ञासू वचन हमारा,",
+    "Sun Jijnyaasu Vachan Hamaaraa,",
+    "राग कोहियारी भजन 44",
+    "Raag Kohiyaari Bhajan 44"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 525,
+  "displayOrder": 44,
+  "overallOrder": 523,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 289",
+  "updatedAt": "2026-10-26"
 }

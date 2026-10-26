@@ -2,37 +2,86 @@
   "id": "bhajan-0432",
   "slug": "prem-pyaalaa-masti-vaalaa-mohi-pilaayaa-guru-bharke",
   "categoryId": "raag-tilang",
-  "title": "प्रेम पयाला मसति वाला, मोहि पिलाया गुरु भरके",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "प्रेम प्याला मस्ती वाला, मोहि पिलाया गुरु भरके",
   "romanTitle": "Prem Pyaalaa Masti Vaalaa, Mohi Pilaayaa Guru Bharke",
   "firstLine": "Prem Pyaalaa Masti Vaalaa, Mohi Pilaayaa Guru Bharke (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६९ ।। ४३ ३।।",
+  "tek": [
+    "प्रेम प्याला मस्ती वाला, मोहि पिलाया गुरु भरके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Pyaalaa Masti Vaalaa, Mohi Pilaayaa Guru Bharke (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु का सुनिया शब्द नगारा, काम्प उठे सब चोर विकारा ।",
+        "भाग चले सबहीं डरके ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Suniyaa Shabd Nagaaraa, Kaamp Uthe Sab Chor Vikaaraa.",
+        "Bhaag Chale Sabhin Darke || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सद्‌गुरु हृदय दीप जगाया, श्रम अन्धेरा दूर भगाया ।",
+        "निर्भय कीया भय हरके ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Hriday Dip Jagaayaa, Shram Andheraa Dur Bhagaayaa.",
+        "Nirbhay Kiyaa Bhay Harke || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्गुरु सम की औषधि दीनी, द्विधा व्याधी मन की छीनी ।",
+        "जीवित होया मैं मरके ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sadguru Sam Ki Aushdhi Dini, Dvidhaa Vyaadhi Man Ki Chhini.",
+        "Jivit Hoyaa Main Marke || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ध्यान बताया, सब घट निज स्वरूप लखाया ।",
+        "पार गया भव सिन्धु तरके ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Dhyaan Bataayaa, Sab Ghat Nij Svarup Lakhaayaa.",
+        "Paar Gayaa Bhav Sindhu Tarke || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम पयाला मसति वाला, मोहि पिलाया गुरु भरके (टेक)."
+      "गुरु का सुनिया शब्द नगारा, काम्प उठे सब चोर विकारा ।",
+      "भाग चले सबहीं डरके ॥१ ॥"
     ],
     [
-      "गुरु का सुनिया शबद नगारा, कामप ुथे सब चोर विकारा.",
-      "भाग चले सभिन दरके ||.8 ||."
+      "सद्‌गुरु हृदय दीप जगाया, श्रम अन्धेरा दूर भगाया ।",
+      "निर्भय कीया भय हरके ॥२ ॥"
     ],
     [
-      "सद्गुरु हरिदय दिप जगाया, शरम नधेरा दुर भगाया.",
-      "निरभय किया भय हरके || 2 ||"
+      "सद्गुरु सम की औषधि दीनी, द्विधा व्याधी मन की छीनी ।",
+      "जीवित होया मैं मरके ॥३ ॥"
     ],
     [
-      "सद्गुरु सम कि ौशधि दिनि, दविधा वयाधि मन कि चहिनि.",
-      "जिवित होया मैं मरके || 3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु ध्यान बताया, सब घत निज सवरुप लखाया.",
-      "पार गया भव सिनधु तरके || 4 ||"
+      "कहे टेऊँ गुरु ध्यान बताया, सब घट निज स्वरूप लखाया ।",
+      "पार गया भव सिन्धु तरके ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prem Pyaalaa Masti Vaalaa, Mohi Pilaayaa Guru Bharke (Tek)."
-    ],
-    [
       "Guru Kaa Suniyaa Shabd Nagaaraa, Kaamp Uthe Sab Chor Vikaaraa.",
-      "Bhaag Chale Sabhin Darke ||.8 ||."
+      "Bhaag Chale Sabhin Darke || 1 ||"
     ],
     [
       "Sad‌Guru Hriday Dip Jagaayaa, Shram Andheraa Dur Bhagaayaa.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 69 || 43 3 ||",
+    "प्रेम प्याला मस्ती वाला, मोहि पिलाया गुरु भरके",
     "Prem Pyaalaa Masti Vaalaa, Mohi Pilaayaa Guru Bharke",
-    "प्रेम पयाला मसति वाला, मोहि पिलाया गुरु भरके"
+    "राग तिलंग भजन 69",
+    "Raag Tilang Bhajan 69"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 432,
+  "displayOrder": 69,
+  "overallOrder": 432,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 246",
+  "updatedAt": "2026-10-26"
 }

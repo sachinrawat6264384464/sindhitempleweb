@@ -1,85 +1,132 @@
 {
   "id": "bhajan-0250",
   "slug": "karo-satsang-pritam-pyaaraa-bin-satsang-nahin-nistaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "करो सत्संग परितम पयारा, बिन सत्संग नहिन निसतारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "करो सत्संग प्रीतम प्यारा, बिन सत्संग नहिं निस्तारा",
   "romanTitle": "Karo Satsang Pritam Pyaaraa, Bin Satsang Nahin Nistaaraa",
   "firstLine": "Karo Satsang Pritam Pyaaraa, Bin Satsang Nahin Nistaaraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ३५ ।। २५०।।",
+  "tek": [
+    "करो सत्संग प्रीतम प्यारा, बिन सत्संग नहिं निस्तारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Satsang Pritam Pyaaraa, Bin Satsang Nahin Nistaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर श्रद्धा सत्संग कीजे, सुन शिक्षा कुमति हरीजे ।",
+        "भर प्रेम प्याला पीजे ।",
+        "करे तुम सेव, पावो निज भेव, देखो हरिदेव, अनन्त अपारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhar Shraddhaa Satsang Kije, Sun Shikshaa Kumti Harije.",
+        "Bhar Prem Pyaalaa Pije.",
+        "Kare Tum Sev, Paavo Nij Bhev, Dekho Haridev, Anant Apaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्संग जहाज समाना, ले नाम की टिकट सयाना ।",
+        "चढ़ भव सिन्धु से तर जाना ।",
+        "गुरू कपितान, करे बुद्धिमान, पाय कल्यान, कटो जम जारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Satsang Jahaaj Samaanaa, Le Naam Ki Tikat Sayaanaa.",
+        "Charh Bhav Sindhu Se Tar Jaanaa.",
+        "Guru Kapitaan, Kare Buddhimaan, Paay Kalyaan, Kato Jam Jaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बहु नीच करे सत्संगा, भये जग में ऊँच उतंगा ।",
+        "ज्यों जल गंग मिल हो गंगा ।",
+        "रही निःसंग, करे सत्संग, लाये हरि रंग, पावो फल चारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bahu Nich Kare Satsangaa, Bhaye Jag Men Unch Utangaa.",
+        "Jyon Jal Gang Mil Ho Gangaa.",
+        "Rahi Nihsang, Kare Satsang, Laaye Hari Rang, Paavo Phal Chaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सत्संग को जान प्रयागा, जो नावे सो बड़भागा ।",
+        "कहे टेऊँ कर अनुरागा ।",
+        "कटे कुल पाप, सर्व सन्ताप, लखे निज आप, लहो सुख सारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Satsang Ko Jaan Prayaagaa, Jo Naave So Barbhaagaa.",
+        "Kahe Teun Kar Anuraagaa.",
+        "Kate Kul Paap, Sarv Santaap, Lakhe Nij Aap, Laho Sukh Saaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सत्संग परितम पयारा, बिन सत्संग नहिन निसतारा (टेक)."
+      "धर श्रद्धा सत्संग कीजे, सुन शिक्षा कुमति हरीजे ।",
+      "भर प्रेम प्याला पीजे ।",
+      "करे तुम सेव, पावो निज भेव, देखो हरिदेव, अनन्त अपारा ॥१ ॥"
     ],
     [
-      "धर शरदधा सत्संग किजे, सुन शिकशा कुमति हरिजे.",
-      "भर प्रेम पयाला पिजे."
+      "सत्संग जहाज समाना, ले नाम की टिकट सयाना ।",
+      "चढ़ भव सिन्धु से तर जाना ।",
+      "गुरू कपितान, करे बुद्धिमान, पाय कल्यान, कटो जम जारा ॥२ ॥"
     ],
     [
-      "करे तुम सेव, पावो निज भेव, देखो हरिदेव, ननत पारा || 1.",
-      "सत्संग जहाज समाना, ले नाम कि तिकत सयाना."
+      "बहु नीच करे सत्संगा, भये जग में ऊँच उतंगा ।",
+      "ज्यों जल गंग मिल हो गंगा ।",
+      "रही निःसंग, करे सत्संग, लाये हरि रंग, पावो फल चारा ॥३ ॥"
     ],
     [
-      "चरह भव सिनधु से तर जाना.",
-      "गुरु कपितान, करे बुदधिमान, पाय कलयान, कतो जम जारा || 2 ||"
-    ],
-    [
-      "बहु निच करे सतसनगा, भये जग मेन ुनच ुतनगा.",
-      "जयोन जल गनग मिल हो गनगा."
-    ],
-    [
-      "रहि निहसनग, करे सत्संग, लाये हरि रनग, पावो फल चारा || 3 ||"
-    ],
-    [
-      "सत्संग को जान परयागा, जो नावे सो बरभागा.",
-      "कहे तेऊँ कर नुरागा."
-    ],
-    [
-      "कते कुल पाप, सर्व सनताप, लखे निज ाप, लहो सुख सारा || 4 ||"
+      "सत्संग को जान प्रयागा, जो नावे सो बड़भागा ।",
+      "कहे टेऊँ कर अनुरागा ।",
+      "कटे कुल पाप, सर्व सन्ताप, लखे निज आप, लहो सुख सारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karo Satsang Pritam Pyaaraa, Bin Satsang Nahin Nistaaraa (Tek)."
-    ],
-    [
       "Dhar Shraddhaa Satsang Kije, Sun Shikshaa Kumti Harije.",
-      "Bhar Prem Pyaalaa Pije."
+      "Bhar Prem Pyaalaa Pije.",
+      "Kare Tum Sev, Paavo Nij Bhev, Dekho Haridev, Anant Apaaraa || 1 ||"
     ],
     [
-      "Kare Tum Sev, Paavo Nij Bhev, Dekho Haridev, Anant Apaaraa || 1.",
-      "Satsang Jahaaj Samaanaa, Le Naam Ki Tikat Sayaanaa."
-    ],
-    [
+      "Satsang Jahaaj Samaanaa, Le Naam Ki Tikat Sayaanaa.",
       "Charh Bhav Sindhu Se Tar Jaanaa.",
       "Guru Kapitaan, Kare Buddhimaan, Paay Kalyaan, Kato Jam Jaaraa || 2 ||"
     ],
     [
       "Bahu Nich Kare Satsangaa, Bhaye Jag Men Unch Utangaa.",
-      "Jyon Jal Gang Mil Ho Gangaa."
-    ],
-    [
+      "Jyon Jal Gang Mil Ho Gangaa.",
       "Rahi Nihsang, Kare Satsang, Laaye Hari Rang, Paavo Phal Chaaraa || 3 ||"
     ],
     [
       "Satsang Ko Jaan Prayaagaa, Jo Naave So Barbhaagaa.",
-      "Kahe Teun Kar Anuraagaa."
-    ],
-    [
+      "Kahe Teun Kar Anuraagaa.",
       "Kate Kul Paap, Sarv Santaap, Lakhe Nij Aap, Laho Sukh Saaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 35 || 250 ||",
+    "करो सत्संग प्रीतम प्यारा, बिन सत्संग नहिं निस्तारा",
     "Karo Satsang Pritam Pyaaraa, Bin Satsang Nahin Nistaaraa",
-    "करो सत्संग परितम पयारा, बिन सत्संग नहिन निसतारा"
+    "राग भैरवी भजन 35",
+    "Raag Bhairvi Bhajan 35"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 250,
+  "displayOrder": 35,
+  "overallOrder": 250,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 156",
+  "updatedAt": "2026-10-26"
 }

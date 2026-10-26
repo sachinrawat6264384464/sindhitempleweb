@@ -2,46 +2,115 @@
   "id": "bhajan-0042",
   "slug": "ajab-ajaayab-kudrat-hamko-sadguru-dev-lakhaai",
   "categoryId": "raag-prabhaati",
-  "title": "जब जायब कुदरत हमको, सद्गुरु देव लखाि",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "अजब अजायब कुदरत हमको, सद्‌गुरु देव लखाई",
   "romanTitle": "Ajab Ajaayab Kudrat Hamko, Sad‌Guru Dev Lakhaai",
-  "firstLine": "Ajab Ajaayab Kudrat Hamko, Sad‌Guru Dev Lakhaai. Is Kudrat Ko Jo Jan Jaane, So Meraa Guru Bhaai (Tek).",
+  "firstLine": "Ajab Ajaayab Kudrat Hamko, Sad‌Guru Dev Lakhaai.",
+  "heading": "।। राग प्रभाती भजन ।। १० ।। ४२॥।",
+  "tek": [
+    "अजब अजायब कुदरत हमको, सद्‌गुरु देव लखाई ।",
+    "इस कुदरत को जो जन जाने, सो मेरा गुरु भाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ajab Ajaayab Kudrat Hamko, Sad‌Guru Dev Lakhaai.",
+    "Is Kudrat Ko Jo Jan Jaane, So Meraa Guru Bhaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वास मास बिन पंछी पिंजरे, देखत रहत उदासी ।",
+        "फूटे पिंजर नहिं कहँ जावे, अचल रहे अविनासी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Svaas Maas Bin Panchhi Pinjre, Dekhat Rahat Udaasi.",
+        "Phute Pinjar Nahin Kahan Jaave, Achal Rahe Avinaasi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "एक वृक्ष पर सम दो पंछी, नाम काम भिन्न जांके ।",
+        "ऊठत समय एक हो जाते, भेद मिटत सब तांके ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ek Vriksh Par Sam Do Panchhi, Naam Kaam Bhinn Jaanke.",
+        "Uthat Samay Ek Ho Jaate, Bhed Mitat Sab Taanke || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ऊपर मूल डार है नीचे, तरुवर एक अनूपा ।",
+        "तामें नित इक पंछी खेलत, धरके तीन स्वरूपा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Upar Mul Daar Hai Niche, Taruvar Ek Anupaa.",
+        "Taamen Nit Ik Panchhi Khelat, Dharke Tin Svarupaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "एक बाग में चार वृक्ष हैं, तां पर पंछी एका ।",
+        "वृक्ष वृक्ष पर भिन्‍न-भिन्‍न वपु धर, करते केल अनेका ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ek Baag Men Chaar Vriksh Hain, Taan Par Panchhi Ekaa.",
+        "Vriksh Vriksh Par Bhin‍Na-Bhin‍Na Vapu Dhar, Karte Kel Anekaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ बिन पर इक पंछी, आत जात नभ माहीं ।",
+        "पांच नाम धर पांच काम कर, देखत नैन न ताहीं ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bin Par Ik Panchhi, Aat Jaat Nabh Maahin.",
+        "Paanch Naam Dhar Paanch Kaam Kar, Dekhat Nain Na Taahin || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "द्द"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब जायब कुदरत हमको, सद्गुरु देव लखाि.",
-      "िस कुदरत को जो जन जाने, सो मेरा गुरु भाि (टेक)."
+      "स्वास मास बिन पंछी पिंजरे, देखत रहत उदासी ।",
+      "फूटे पिंजर नहिं कहँ जावे, अचल रहे अविनासी ॥१ ॥"
     ],
     [
-      "सवास मास बिन पनचहि पिनजरे, देखत रहत ुदासि.",
-      "फुते पिनजर नहिन कहन जावे, चल रहे विनासि || 1. ||."
+      "एक वृक्ष पर सम दो पंछी, नाम काम भिन्न जांके ।",
+      "ऊठत समय एक हो जाते, भेद मिटत सब तांके ॥२ ॥"
     ],
     [
-      "ेक वरिकश पर सम दो पनचहि, नाम काम भिनन जानके.",
-      "ुथत समय ेक हो जाते, भेद मितत सब तानके || 2 ||"
+      "ऊपर मूल डार है नीचे, तरुवर एक अनूपा ।",
+      "तामें नित इक पंछी खेलत, धरके तीन स्वरूपा ॥३ ॥"
     ],
     [
-      "ुपर मुल दार है निचे, तरुवर ेक नुपा.",
-      "तामेन नित िक पनचहि खेलत, धरके तिन सवरुपा || 3 ||"
+      "एक बाग में चार वृक्ष हैं, तां पर पंछी एका ।",
+      "वृक्ष वृक्ष पर भिन्‍न-भिन्‍न वपु धर, करते केल अनेका ॥४ ॥"
     ],
     [
-      "ेक बाग मेन चार वरिकश हैन, तान पर पनचहि ेका.",
-      "वरिकश वरिकश पर भिननभिनन वपु धर, करते केल नेका || 4. ||."
+      "कहे टेऊँ बिन पर इक पंछी, आत जात नभ माहीं ।",
+      "पांच नाम धर पांच काम कर, देखत नैन न ताहीं ॥५ ॥"
     ],
     [
-      "कहे तेऊँ बिन पर िक पनचहि, ात जात नभ माहिन.",
-      "पानच नाम धर पानच काम कर, देखत नैन न ताहिन || 5 ||"
-    ],
-    [
-      "दद"
+      "द्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Ajab Ajaayab Kudrat Hamko, Sad‌Guru Dev Lakhaai.",
-      "Is Kudrat Ko Jo Jan Jaane, So Meraa Guru Bhaai (Tek)."
-    ],
-    [
       "Svaas Maas Bin Panchhi Pinjre, Dekhat Rahat Udaasi.",
-      "Phute Pinjar Nahin Kahan Jaave, Achal Rahe Avinaasi || 1. ||."
+      "Phute Pinjar Nahin Kahan Jaave, Achal Rahe Avinaasi || 1 ||"
     ],
     [
       "Ek Vriksh Par Sam Do Panchhi, Naam Kaam Bhinn Jaanke.",
@@ -53,30 +122,31 @@
     ],
     [
       "Ek Baag Men Chaar Vriksh Hain, Taan Par Panchhi Ekaa.",
-      "Vriksh Vriksh Par Bhin‍N-Bhin‍N Vapu Dhar, Karte Kel Anekaa || 4. ||."
+      "Vriksh Vriksh Par Bhin‍Na-Bhin‍Na Vapu Dhar, Karte Kel Anekaa || 4 ||"
     ],
     [
       "Kahe Teun Bin Par Ik Panchhi, Aat Jaat Nabh Maahin.",
-      "Paanch Naam Dhar Paanch Kaam Kar, Dekhat Nain N Taahin || 5 ||"
+      "Paanch Naam Dhar Paanch Kaam Kar, Dekhat Nain Na Taahin || 5 ||"
     ],
     [
       "Dd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 10 || 42 ||.",
+    "अजब अजायब कुदरत हमको, सद्‌गुरु देव लखाई",
     "Ajab Ajaayab Kudrat Hamko, Sad‌Guru Dev Lakhaai",
-    "जब जायब कुदरत हमको, सद्गुरु देव लखाि"
+    "राग प्रभाती भजन 10",
+    "Raag Prabhaati Bhajan 10"
   ],
   "tags": [
-    "teunram",
-    "prabhaati",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
     "bhajan"
   ],
-  "displayOrder": 42,
+  "displayOrder": 10,
+  "overallOrder": 42,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 46",
+  "updatedAt": "2026-10-26"
 }

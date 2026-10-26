@@ -1,71 +1,131 @@
 {
   "id": "bhajan-0348",
   "slug": "basant-ki-ritu-hai-sukhdaai-bhanvron-ke-man-bhaai-re",
-  "categoryId": "raag-aasaa",
-  "title": "बसनत कि रितु है सुखदाि, भनवरोन के मन भाि रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "बसन्त की ऋतु है सुखदाई, भँवरों के मन भाई रे",
   "romanTitle": "Basant Ki Ritu Hai Sukhdaai, Bhanvron Ke Man Bhaai Re",
   "firstLine": "Basant Ki Ritu Hai Sukhdaai, Bhanvron Ke Man Bhaai Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। ५ ।। ३४८",
+  "tek": [
+    "बसन्त की ऋतु है सुखदाई, भँवरों के मन भाई रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Basant Ki Ritu Hai Sukhdaai, Bhanvron Ke Man Bhaai Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भँवरा जावत गुल स्थाना, होवत फूलों पर मस्ताना ।",
+        "तन की सुध बिसराई रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhanvraa Jaavat Gul Sthaanaa, Hovat Phulon Par Mastaanaa.",
+        "Tan Ki Sudh Bisraai Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बसन्त ऋतु की देख बहारी, चारों तरफ भई हुबकारी ।",
+        "पांचों ऋतु शर्माई रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Basant Ritu Ki Dekh Bahaari, Chaaron Taraph Bhai Hubkaari.",
+        "Paanchon Ritu Sharmaai Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बसन्त ऋतु अमृत को सींचे, फूले तन मन बाग बगीचे ।",
+        "जहं तहं सुगन्धी छाई रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Basant Ritu Amrit Ko Sinche, Phule Tan Man Baag Bagiche.",
+        "Jahan Tahan Sugandhi Chhaai Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बसन्त ऋतु की महिमा भारी, कहे टेऊँ मुझ लागत प्यारी ।",
+        "तां पर मैं बलि जाई रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Basant Ritu Ki Mahimaa Bhaari, Kahe Teun Mujh Laagat Pyaari.",
+        "Taan Par Main Bali Jaai Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गह्"
+      ],
+      "romanLines": [
+        "Gah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बसनत कि रितु है सुखदाि, भनवरोन के मन भाि रे (टेक)."
+      "भँवरा जावत गुल स्थाना, होवत फूलों पर मस्ताना ।",
+      "तन की सुध बिसराई रे ॥१ ॥"
     ],
     [
-      "भनवरा जावत गुल सथाना, होवत फुलोन पर मसताना.",
-      "तन कि सुध बिसराि रे.1 ||"
+      "बसन्त ऋतु की देख बहारी, चारों तरफ भई हुबकारी ।",
+      "पांचों ऋतु शर्माई रे ॥२ ॥"
     ],
     [
-      "बसनत रितु कि देख बहारि, चारोन तरफ भै हुबकारि.",
-      "पानचोन रितु शरमाि रे. ||.2 ||."
+      "बसन्त ऋतु अमृत को सींचे, फूले तन मन बाग बगीचे ।",
+      "जहं तहं सुगन्धी छाई रे ॥३ ॥"
     ],
     [
-      "बसनत रितु अमृत को सिनचे, फुले तन मन बाग बगिचे.",
-      "जहन तहन सुगनधि चहाि रे ||.3 ||"
+      "बसन्त ऋतु की महिमा भारी, कहे टेऊँ मुझ लागत प्यारी ।",
+      "तां पर मैं बलि जाई रे ॥४ ॥"
     ],
     [
-      "बसनत रितु कि महिमा भारि, कहे तेऊँ मुझ लागत पयारि.",
-      "तान पर मैं बलि जाि रे || 4. ||."
-    ],
-    [
-      "गह"
+      "गह्"
     ]
   ],
   "romanLyrics": [
     [
-      "Basant Ki Ritu Hai Sukhdaai, Bhanvron Ke Man Bhaai Re (Tek)."
-    ],
-    [
       "Bhanvraa Jaavat Gul Sthaanaa, Hovat Phulon Par Mastaanaa.",
-      "Tan Ki Sudh Bisraai Re.1 ||"
+      "Tan Ki Sudh Bisraai Re || 1 ||"
     ],
     [
       "Basant Ritu Ki Dekh Bahaari, Chaaron Taraph Bhai Hubkaari.",
-      "Paanchon Ritu Sharmaai Re. ||.2 ||."
+      "Paanchon Ritu Sharmaai Re || 2 ||"
     ],
     [
       "Basant Ritu Amrit Ko Sinche, Phule Tan Man Baag Bagiche.",
-      "Jahan Tahan Sugandhi Chhaai Re ||.3 ||"
+      "Jahan Tahan Sugandhi Chhaai Re || 3 ||"
     ],
     [
       "Basant Ritu Ki Mahimaa Bhaari, Kahe Teun Mujh Laagat Pyaari.",
-      "Taan Par Main Bali Jaai Re || 4. ||."
+      "Taan Par Main Bali Jaai Re || 4 ||"
     ],
     [
       "Gah"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 5 || 348",
+    "बसन्त की ऋतु है सुखदाई, भँवरों के मन भाई रे",
     "Basant Ki Ritu Hai Sukhdaai, Bhanvron Ke Man Bhaai Re",
-    "बसनत कि रितु है सुखदाि, भनवरोन के मन भाि रे"
+    "राग बसंत भजन 5",
+    "Raag Basant Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 348,
+  "displayOrder": 5,
+  "overallOrder": 348,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 206",
+  "updatedAt": "2026-10-26"
 }

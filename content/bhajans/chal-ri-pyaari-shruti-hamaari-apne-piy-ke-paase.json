@@ -2,72 +2,117 @@
   "id": "bhajan-0155",
   "slug": "chal-ri-pyaari-shruti-hamaari-apne-piy-ke-paase",
   "categoryId": "raag-aasaa",
-  "title": "चल रि पयारि शरुति हमारि पने पिय के पासे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "चल री प्यारी श्रुति हमारी अपने पिय के पासे",
   "romanTitle": "Chal Ri Pyaari Shruti Hamaari Apne Piy Ke Paase",
-  "firstLine": "Chal Ri Pyaari Shruti Hamaari Apne Piy Ke Paase. Dhani Tumhaaraa Rup Udaaraa Base Sadaa Aakaase (Tek).",
+  "firstLine": "Chal Ri Pyaari Shruti Hamaari Apne Piy Ke Paase.",
+  "heading": "।। राग आसा भजन ।। ९३ ।। १५५।।",
+  "tek": [
+    "चल री प्यारी श्रुति हमारी अपने पिय के पासे ।",
+    "धनी तुम्हारा रूप उदारा बसे सदा आकासे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chal Ri Pyaari Shruti Hamaari Apne Piy Ke Paase.",
+    "Dhani Tumhaaraa Rup Udaaraa Base Sadaa Aakaase (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "छोड़ जिसम को ऊपर जाना, एक थान पर नफ्स टिकाना ।",
+        "पकड़ धुनी को महा गुनी को, पहुंचोगी हरि वासे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chhor Jisam Ko Upar Jaanaa, Ek Thaan Par Naphs Tikaanaa.",
+        "Pakar Dhuni Ko Mahaa Guni Ko, Pahunchogi Hari Vaase || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "स्मरण करते छोड़ पसारा, शब्द रस्सी का ले आधारा ।",
+        "बेग़मपुर को चलना धुर को , जहाँ न काल विनासे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Smaran Karte Chhor Pasaaraa, Shabd Rassi Kaa Le Aadhaaraa.",
+        "Beghmapur Ko Chalnaa Dhur Ko, Jahaan Na Kaal Vinaase || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ध्यान कला से मन ठहराना ,ख्याल दुनिया के निकट न लाना ।",
+        "देख निज़ारे अद्भुत भारे, अन्तर पुब्ज प्रकासे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhyaan Kalaa Se Man Thahraanaa,Khyaal Duniyaa Ke Nikat Na Laanaa.",
+        "Dekh Nizaare Adbhut Bhaare, Antar Pubj Prakaase || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "टेऊँ गुरु यह भेद बतावे, गुरु बिन और न को बतलातवे ।",
+        "गुरु की चरनी लागो शरनी, कार्य होवहिं रासे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Teun Guru Yah Bhed Bataave, Guru Bin Aur Na Ko Batlaatve.",
+        "Guru Ki Charni Laago Sharni, Kaary Hovhin Raase || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चल रि पयारि शरुति हमारि पने पिय के पासे.",
-      "धनि तुमहारा रुप ुदारा बसे सदा ाकासे (टेक)."
+      "छोड़ जिसम को ऊपर जाना, एक थान पर नफ्स टिकाना ।",
+      "पकड़ धुनी को महा गुनी को, पहुंचोगी हरि वासे ॥१ ॥"
     ],
     [
-      "चहोर जिसम को ुपर जाना, ेक थान पर नफस तिकाना.",
-      "पकर धुनि को महा गुनि को, पहुनचोगि हरि वासे || 1 ||"
+      "स्मरण करते छोड़ पसारा, शब्द रस्सी का ले आधारा ।",
+      "बेग़मपुर को चलना धुर को , जहाँ न काल विनासे ॥२ ॥"
     ],
     [
-      "समरन करते चहोर पसारा, शबद रससि का ले ाधारा.",
-      "बेघमपुर को चलना धुर को, जहान न काल विनासे || 2 ||."
+      "ध्यान कला से मन ठहराना ,ख्याल दुनिया के निकट न लाना ।",
+      "देख निज़ारे अद्भुत भारे, अन्तर पुब्ज प्रकासे ॥३ ॥"
     ],
     [
-      "ध्यान कला से मन थहरानाखयाल दुनिया के निकत न लाना.",
-      "देख निzारे दभुत भारे, नतर पुबज परकासे || 3 ||"
-    ],
-    [
-      "तेऊँ गुरु यह भेद बतावे, गुरु बिन ौर न को बतलातवे.",
-      "गुरु कि चरनि लागो शरनि, कारय होवहिन रासे || 4 ||"
-    ],
-    [
-      "द"
+      "टेऊँ गुरु यह भेद बतावे, गुरु बिन और न को बतलातवे ।",
+      "गुरु की चरनी लागो शरनी, कार्य होवहिं रासे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Chal Ri Pyaari Shruti Hamaari Apne Piy Ke Paase.",
-      "Dhani Tumhaaraa Rup Udaaraa Base Sadaa Aakaase (Tek)."
-    ],
     [
       "Chhor Jisam Ko Upar Jaanaa, Ek Thaan Par Naphs Tikaanaa.",
       "Pakar Dhuni Ko Mahaa Guni Ko, Pahunchogi Hari Vaase || 1 ||"
     ],
     [
       "Smaran Karte Chhor Pasaaraa, Shabd Rassi Kaa Le Aadhaaraa.",
-      "Beghmapur Ko Chalnaa Dhur Ko, Jahaan N Kaal Vinaase || 2 ||."
+      "Beghmapur Ko Chalnaa Dhur Ko, Jahaan Na Kaal Vinaase || 2 ||"
     ],
     [
-      "Dhyaan Kalaa Se Man Thahraanaa,Khyaal Duniyaa Ke Nikat N Laanaa.",
+      "Dhyaan Kalaa Se Man Thahraanaa,Khyaal Duniyaa Ke Nikat Na Laanaa.",
       "Dekh Nizaare Adbhut Bhaare, Antar Pubj Prakaase || 3 ||"
     ],
     [
-      "Teun Guru Yah Bhed Bataave, Guru Bin Aur N Ko Batlaatve.",
+      "Teun Guru Yah Bhed Bataave, Guru Bin Aur Na Ko Batlaatve.",
       "Guru Ki Charni Laago Sharni, Kaary Hovhin Raase || 4 ||"
-    ],
-    [
-      "D"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 93 || 155 ||",
+    "चल री प्यारी श्रुति हमारी अपने पिय के पासे",
     "Chal Ri Pyaari Shruti Hamaari Apne Piy Ke Paase",
-    "चल रि पयारि शरुति हमारि पने पिय के पासे"
+    "राग आसा भजन 93",
+    "Raag Aasaa Bhajan 93"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 155,
+  "displayOrder": 93,
+  "overallOrder": 155,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 106",
+  "updatedAt": "2026-10-26"
 }

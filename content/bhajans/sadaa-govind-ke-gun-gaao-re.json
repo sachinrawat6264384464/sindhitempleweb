@@ -2,65 +2,113 @@
   "id": "bhajan-0194",
   "slug": "sadaa-govind-ke-gun-gaao-re",
   "categoryId": "raag-tori",
-  "title": "सदा गोविंद के गुन गाो रे",
-  "romanTitle": "Sadaa Govind Ke Gun Gaao Re",
-  "firstLine": "Sadaa Govind Ke Gun Gaao Re, Hari Kaa Naam Hriday Men Dhyaao Re (Tek).",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "सदा गोविन्द के गुण गाओ रे,",
+  "romanTitle": "Sadaa Govind Ke Gun Gaao Re,",
+  "firstLine": "Sadaa Govind Ke Gun Gaao Re,",
+  "heading": "।। राग टोड़ी भजन ।। २ ।। १९४।।",
+  "tek": [
+    "सदा गोविन्द के गुण गाओ रे,",
+    "हरि का नाम हृदय में ध्याओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sadaa Govind Ke Gun Gaao Re,",
+    "Hari Kaa Naam Hriday Men Dhyaao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "झूठे जग में ममता करके अपने को न फसाओ रे ।",
+        "भोग जगत के रोग जानके तांसे चीत हटाओ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jhuthe Jag Men Mamtaa Karke Apne Ko Na Phasaao Re.",
+        "Bhog Jagat Ke Rog Jaanke Taanse Chit Hataao Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "स्वार्थ का परिवार सभोई तांसे ना मन लाओ रे ।",
+        "स्वार्थ बिन हैं सन्त सनेही तिनसे नेह लगाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Kaa Parivaar Sabhoi Taanse Naa Man Laao Re.",
+        "Svaarth Bin Hain Sant Sanehi Tinse Neh Lagaao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ अवगुन त्यागे सबसे सार उठाओ रे ।",
+        "ऊठत बैठत सोबवत जागत नाम जपे सुख पाओ रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Avgun Tyaage Sabse Saar Uthaao Re.",
+        "Uthat Baithat Sobvat Jaagat Naam Jape Sukh Paao Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "्ठो"
+      ],
+      "romanLines": [
+        "Tho"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदा गोविंद के गुन गाो रे,",
-      "हरि का नाम हरिदय मेन धयाो रे (टेक)."
+      "झूठे जग में ममता करके अपने को न फसाओ रे ।",
+      "भोग जगत के रोग जानके तांसे चीत हटाओ रे ॥१ ॥"
     ],
     [
-      "झुथे जग मेन ममता करके पने को न फसाो रे.",
-      "भोग जगत के रोग जानके तानसे चित हताो रे || 1 ||"
+      "स्वार्थ का परिवार सभोई तांसे ना मन लाओ रे ।",
+      "स्वार्थ बिन हैं सन्त सनेही तिनसे नेह लगाओ रे ॥२ ॥"
     ],
     [
-      "सवारथ का परिवार सभोि तानसे ना मन लाो रे.",
-      "सवारथ बिन हैन संत सनेहि तिनसे नेह लगाो रे || 2 ||."
+      "कहता टेऊँ अवगुन त्यागे सबसे सार उठाओ रे ।",
+      "ऊठत बैठत सोबवत जागत नाम जपे सुख पाओ रे ॥३ ॥"
     ],
     [
-      "कहता तेऊँ वगुन तयागे सबसे सार ुथाो रे.",
-      "ुथत बैथत सोबवत जागत नाम जपे सुख पाो रे || 3े ||"
-    ],
-    [
-      "थो"
+      "्ठो"
     ]
   ],
   "romanLyrics": [
     [
-      "Sadaa Govind Ke Gun Gaao Re,",
-      "Hari Kaa Naam Hriday Men Dhyaao Re (Tek)."
-    ],
-    [
-      "Jhuthe Jag Men Mamtaa Karke Apne Ko N Phasaao Re.",
+      "Jhuthe Jag Men Mamtaa Karke Apne Ko Na Phasaao Re.",
       "Bhog Jagat Ke Rog Jaanke Taanse Chit Hataao Re || 1 ||"
     ],
     [
       "Svaarth Kaa Parivaar Sabhoi Taanse Naa Man Laao Re.",
-      "Svaarth Bin Hain Sant Sanehi Tinse Neh Lagaao Re || 2 ||."
+      "Svaarth Bin Hain Sant Sanehi Tinse Neh Lagaao Re || 2 ||"
     ],
     [
       "Kahtaa Teun Avgun Tyaage Sabse Saar Uthaao Re.",
-      "Uthat Baithat Sobvat Jaagat Naam Jape Sukh Paao Re || 3E ||"
+      "Uthat Baithat Sobvat Jaagat Naam Jape Sukh Paao Re || 3 ||"
     ],
     [
       "Tho"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 2 || 194 ||",
-    "Sadaa Govind Ke Gun Gaao Re",
-    "सदा गोविंद के गुन गाो रे"
+    "सदा गोविन्द के गुण गाओ रे,",
+    "Sadaa Govind Ke Gun Gaao Re,",
+    "राग तोड़ी भजन 2",
+    "Raag Tori Bhajan 2"
   ],
   "tags": [
-    "tori",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 194,
+  "displayOrder": 2,
+  "overallOrder": 194,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 125",
+  "updatedAt": "2026-10-26"
 }

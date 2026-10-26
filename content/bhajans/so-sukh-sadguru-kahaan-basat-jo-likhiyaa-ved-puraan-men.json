@@ -1,66 +1,105 @@
 {
-  "id": "bhajan-0645",
+  "id": "bhajan-0643",
   "slug": "so-sukh-sadguru-kahaan-basat-jo-likhiyaa-ved-puraan-men",
   "categoryId": "raag-kanso",
-  "title": "सो सुख सद्गुरु कहान बसत जो, लिखिया वेद पुरान मेन",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "सो सुख सद्‌गुरु कहां बसत जो, लिखिया वेद पुरान में",
   "romanTitle": "So Sukh Sad‌Guru Kahaan Basat Jo, Likhiyaa Ved Puraan Men",
   "firstLine": "So Sukh Sad‌Guru Kahaan Basat Jo, Likhiyaa Ved Puraan Men (Tek).",
+  "heading": "।। राग कंसो भजन ।। १४ ।। द४४।।",
+  "tek": [
+    "सो सुख सद्‌गुरु कहां बसत जो, लिखिया वेद पुरान में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "So Sukh Sad‌Guru Kahaan Basat Jo, Likhiyaa Ved Puraan Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कोई कहत सुख विद्या माहीं, कोई कहत है ध्यान में ।",
+        "कोई कहत सुख उपशम माहीं , कोई कहत निज ज्ञान में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Koi Kahat Sukh Vidyaa Maahin, Koi Kahat Hai Dhyaan Men.",
+        "Koi Kahat Sukh Upsham Maahin, Koi Kahat Nij Gyaan Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कोई कहत सुख मौन धरन में, कोई कहत वख्यान में ।",
+        "कोई कहत सुख सैर करन में, कोई कहत थिरथान में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Koi Kahat Sukh Maun Dharan Men, Koi Kahat Vakhyaan Men.",
+        "Koi Kahat Sukh Sair Karan Men, Koi Kahat Thirthaan Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कोई कहत सुख संपति माहीं, कोई कहत सुख मान में ।",
+        "कोई कहत सुख माहिं गरीबी , कोई कहत अभिमान में ॥ डे ॥",
+        "कोई कहत सुख स्वर्ग लोक में, कोई कहत जहान में ।",
+        "कहे टेऊँ गुरु खोल सुनाओ, है सुख किस स्थान में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Koi Kahat Sukh Sampti Maahin, Koi Kahat Sukh Maan Men.",
+        "Koi Kahat Sukh Maahin Garibi, Koi Kahat Abhimaan Men || De ||",
+        "Koi Kahat Sukh Svarg Lok Men, Koi Kahat Jahaan Men.",
+        "Kahe Teun Guru Khol Sunaao, Hai Sukh Kis Sthaan Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सो सुख सद्गुरु कहान बसत जो, लिखिया वेद पुरान मेन (टेक)."
+      "कोई कहत सुख विद्या माहीं, कोई कहत है ध्यान में ।",
+      "कोई कहत सुख उपशम माहीं , कोई कहत निज ज्ञान में ॥१ ॥"
     ],
     [
-      "कोि कहत सुख विदया माहिन, कोि कहत है ध्यान मेन.",
-      "कोि कहत सुख ुपशम माहिन, कोि कहत निज ज्ञान मेन || 1 ||"
+      "कोई कहत सुख मौन धरन में, कोई कहत वख्यान में ।",
+      "कोई कहत सुख सैर करन में, कोई कहत थिरथान में ॥२ ॥"
     ],
     [
-      "कोि कहत सुख मौन धरन मेन, कोि कहत वखयान मेन.",
-      "कोि कहत सुख सैर करन मेन, कोि कहत थिरथान मेन || 2 ||."
-    ],
-    [
-      "कोि कहत सुख समपति माहिन, कोि कहत सुख मान मेन.",
-      "कोि कहत सुख माहिन गरिबि, कोि कहत भिमान मेन || दे ||"
-    ],
-    [
-      "कोि कहत सुख सवरग लोक मेन, कोि कहत जहान मेन.",
-      "कहे तेऊँ गुरु खोल सुनाो, है सुख किस सथान मेन || 4 ||"
+      "कोई कहत सुख संपति माहीं, कोई कहत सुख मान में ।",
+      "कोई कहत सुख माहिं गरीबी , कोई कहत अभिमान में ॥ डे ॥",
+      "कोई कहत सुख स्वर्ग लोक में, कोई कहत जहान में ।",
+      "कहे टेऊँ गुरु खोल सुनाओ, है सुख किस स्थान में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "So Sukh Sad‌Guru Kahaan Basat Jo, Likhiyaa Ved Puraan Men (Tek)."
-    ],
-    [
       "Koi Kahat Sukh Vidyaa Maahin, Koi Kahat Hai Dhyaan Men.",
-      "Koi Kahat Sukh Upsham Maahin, Koi Kahat Nij Jnyaan Men || 1 ||"
+      "Koi Kahat Sukh Upsham Maahin, Koi Kahat Nij Gyaan Men || 1 ||"
     ],
     [
       "Koi Kahat Sukh Maun Dharan Men, Koi Kahat Vakhyaan Men.",
-      "Koi Kahat Sukh Sair Karan Men, Koi Kahat Thirthaan Men || 2 ||."
+      "Koi Kahat Sukh Sair Karan Men, Koi Kahat Thirthaan Men || 2 ||"
     ],
     [
       "Koi Kahat Sukh Sampti Maahin, Koi Kahat Sukh Maan Men.",
-      "Koi Kahat Sukh Maahin Garibi, Koi Kahat Abhimaan Men || De ||"
-    ],
-    [
+      "Koi Kahat Sukh Maahin Garibi, Koi Kahat Abhimaan Men || De ||",
       "Koi Kahat Sukh Svarg Lok Men, Koi Kahat Jahaan Men.",
       "Kahe Teun Guru Khol Sunaao, Hai Sukh Kis Sthaan Men || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 14 || D44 ||",
+    "सो सुख सद्‌गुरु कहां बसत जो, लिखिया वेद पुरान में",
     "So Sukh Sad‌Guru Kahaan Basat Jo, Likhiyaa Ved Puraan Men",
-    "सो सुख सद्गुरु कहान बसत जो, लिखिया वेद पुरान मेन"
+    "राग कंसो भजन 14",
+    "Raag Kanso Bhajan 14"
   ],
   "tags": [
-    "kanso",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
     "bhajan"
   ],
-  "displayOrder": 645,
+  "displayOrder": 14,
+  "overallOrder": 643,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 344",
+  "updatedAt": "2026-10-26"
 }

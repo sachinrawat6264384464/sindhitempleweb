@@ -2,64 +2,104 @@
   "id": "bhajan-0163",
   "slug": "satsang-jag-men-saar-pyaaresatsang-bin-nahin-ho-nistaaraa",
   "categoryId": "raag-vihaag",
-  "title": "सत्संग जग मेन सार पयारेसतसनग बिन नहिन हो निसतारा",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "सत्संग जग में सार प्यारे ,सत्संग बिन नहिं हो निस्तारा",
   "romanTitle": "Satsang Jag Men Saar Pyaare,Satsang Bin Nahin Ho Nistaaraa",
   "firstLine": "Satsang Jag Men Saar Pyaare,Satsang Bin Nahin Ho Nistaaraa (Tek).",
+  "heading": "।। राग विहाग भजन ।। ५ ।। १६३।।",
+  "tek": [
+    "सत्संग जग में सार प्यारे ,सत्संग बिन नहिं हो निस्तारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satsang Jag Men Saar Pyaare,Satsang Bin Nahin Ho Nistaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग करके नीच सुधर गये, भवसागर से पार उतर गये ।",
+        "नाम तिनी निरवार प्यारे, पाया है जिन पद निर्धारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Karke Nich Sudhar Gaye, Bhavsaagar Se Paar Utar Gaye.",
+        "Naam Tini Nirvaar Pyaare, Paayaa Hai Jin Pad Nirdhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्संग सुरतरु गंग पछानो, कामधेनु चिंतामणि जानो ।",
+        "कारज देत संवार प्यारे, पाप पुंज को कर परिहारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Satsang Surtaru Gang Pachhaano, Kaamdhenu Chintaamni Jaano.",
+        "Kaaraj Det Sanvaar Pyaare, Paap Punj Ko Kar Parihaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्संग सूर्य सम प्रकाशत , ज्ञान किरणों से तिमिर विनाशत ।",
+        "आनन्द देत अपार प्यारे, चन्दन चन्द ते शीतल भारा ॥ डे ॥",
+        "कहता टेऊँ सत्संग करके, संत वचन को उर में धरके ।",
+        "अपना करो उद्धार प्यारे, सत्संग है मुक्ती का द्वारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Satsang Sury Sam Prakaashat, Gyaan Kirnon Se Timir Vinaashat.",
+        "Aanand Det Apaar Pyaare, Chandan Chand Te Shital Bhaaraa || De ||",
+        "Kahtaa Teun Satsang Karke, Sant Vachan Ko Ur Men Dharke.",
+        "Apnaa Karo Uddhaar Pyaare, Satsang Hai Mukti Kaa Dvaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सत्संग जग मेन सार पयारेसतसनग बिन नहिन हो निसतारा (टेक)."
+      "सत्संग करके नीच सुधर गये, भवसागर से पार उतर गये ।",
+      "नाम तिनी निरवार प्यारे, पाया है जिन पद निर्धारा ॥१ ॥"
     ],
     [
-      "सत्संग करके निच सुधर गये, भवसागर से पार ुतर गये.",
-      "नाम तिनि निरवार पयारे, पाया है जिन पद निरधारा.1 ||."
+      "सत्संग सुरतरु गंग पछानो, कामधेनु चिंतामणि जानो ।",
+      "कारज देत संवार प्यारे, पाप पुंज को कर परिहारा ॥२ ॥"
     ],
     [
-      "सत्संग सुरतरु गनग पचहानो, कामधेनु चिनतामनि जानो.",
-      "कारज देत सनवार पयारे, पाप पुनज को कर परिहारा.2. ||."
-    ],
-    [
-      "सत्संग सुरय सम परकाशत, ज्ञान किरनोन से तिमिर विनाशत.",
-      "आनंद देत पार पयारे, चनदन चनद ते शितल भारा || दे ||"
-    ],
-    [
-      "कहता तेऊँ सत्संग करके, संत वचन को ुर मेन धरके.",
-      "पना करो ुदधार पयारे, सत्संग है मुक्ति का दवारा || 4."
+      "सत्संग सूर्य सम प्रकाशत , ज्ञान किरणों से तिमिर विनाशत ।",
+      "आनन्द देत अपार प्यारे, चन्दन चन्द ते शीतल भारा ॥ डे ॥",
+      "कहता टेऊँ सत्संग करके, संत वचन को उर में धरके ।",
+      "अपना करो उद्धार प्यारे, सत्संग है मुक्ती का द्वारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Satsang Jag Men Saar Pyaare,Satsang Bin Nahin Ho Nistaaraa (Tek)."
-    ],
-    [
       "Satsang Karke Nich Sudhar Gaye, Bhavsaagar Se Paar Utar Gaye.",
-      "Naam Tini Nirvaar Pyaare, Paayaa Hai Jin Pad Nirdhaaraa.1 ||."
+      "Naam Tini Nirvaar Pyaare, Paayaa Hai Jin Pad Nirdhaaraa || 1 ||"
     ],
     [
       "Satsang Surtaru Gang Pachhaano, Kaamdhenu Chintaamni Jaano.",
-      "Kaaraj Det Sanvaar Pyaare, Paap Punj Ko Kar Parihaaraa.2. ||."
+      "Kaaraj Det Sanvaar Pyaare, Paap Punj Ko Kar Parihaaraa || 2 ||"
     ],
     [
-      "Satsang Sury Sam Prakaashat, Jnyaan Kirnon Se Timir Vinaashat.",
-      "Aanand Det Apaar Pyaare, Chandan Chand Te Shital Bhaaraa || De ||"
-    ],
-    [
+      "Satsang Sury Sam Prakaashat, Gyaan Kirnon Se Timir Vinaashat.",
+      "Aanand Det Apaar Pyaare, Chandan Chand Te Shital Bhaaraa || De ||",
       "Kahtaa Teun Satsang Karke, Sant Vachan Ko Ur Men Dharke.",
-      "Apnaa Karo Uddhaar Pyaare, Satsang Hai Mukti Kaa Dvaaraa || 4."
+      "Apnaa Karo Uddhaar Pyaare, Satsang Hai Mukti Kaa Dvaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 5 || 163 ||",
+    "सत्संग जग में सार प्यारे ,सत्संग बिन नहिं हो निस्तारा",
     "Satsang Jag Men Saar Pyaare,Satsang Bin Nahin Ho Nistaaraa",
-    "सत्संग जग मेन सार पयारेसतसनग बिन नहिन हो निसतारा"
+    "राग विहाग भजन 5",
+    "Raag Vihaag Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 163,
+  "displayOrder": 5,
+  "overallOrder": 163,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 111",
+  "updatedAt": "2026-10-26"
 }

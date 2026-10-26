@@ -1,50 +1,100 @@
 {
-  "id": "bhajan-0602",
+  "id": "bhajan-0600",
   "slug": "sadguru-mujh-par-kripaa-kar-ke-apnaa-daas-banaao-ji",
   "categoryId": "raag-kaamol",
-  "title": "सद्गुरु मुझ पर कृपा कर के, पना दास बनाो जी",
+  "categoryName": "राग कामोल",
+  "romanCategoryName": "Raag Kaamol",
+  "title": "सद्‌गुरु मुझ पर कृपा कर के, अपना दास बनाओ जी",
   "romanTitle": "Sad‌Guru Mujh Par Kripaa Kar Ke, Apnaa Daas Banaao Ji",
   "firstLine": "Sad‌Guru Mujh Par Kripaa Kar Ke, Apnaa Daas Banaao Ji (Tek).",
+  "heading": "।॥। राग कामोल भजन ।। ३ ।। ६०१।॥।",
+  "tek": [
+    "सद्‌गुरु मुझ पर कृपा कर के, अपना दास बनाओ जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Mujh Par Kripaa Kar Ke, Apnaa Daas Banaao Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "और किसी की मन नहिं आसा, अपनी सेव लगाओ जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aur Kisi Ki Man Nahin Aasaa, Apni Sev Lagaao Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मोह ममत के बन्धन तोड़े, अपने साथ मिलाओ जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Moh Mamat Ke Bandhan Tore, Apne Saath Milaao Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम से मिलना जे नहिं देवहिं, वे सब विध्न विलाओ जी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Tum Se Milnaa Je Nahin Devhin, Ve Sab Vidhn Vilaao Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ अपने संग में, हरि का नाम जपाओ जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Apne Sang Men, Hari Kaa Naam Japaao Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु मुझ पर कृपा कर के, पना दास बनाो जी (टेक)."
+      "और किसी की मन नहिं आसा, अपनी सेव लगाओ जी ॥१ ॥"
     ],
     [
-      "ौर किसि कि मन नहिन ासा, पनि सेव लगाो जी.1 ||",
-      "मोह ममत के बनधन तोरे, पने साथ मिलाो जी || 2 ||"
+      "मोह ममत के बन्धन तोड़े, अपने साथ मिलाओ जी ॥२ ॥"
     ],
     [
-      "तुम से मिलना जे नहिन देवहिन, वे सब विधन विलाो जी || 3े ||",
-      "कहता तेऊँ पने सनग मेन, हरि का नाम जपाो जी ||.4 ||."
+      "तुम से मिलना जे नहिं देवहिं, वे सब विध्न विलाओ जी ॥ ३े ॥"
+    ],
+    [
+      "कहता टेऊँ अपने संग में, हरि का नाम जपाओ जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Mujh Par Kripaa Kar Ke, Apnaa Daas Banaao Ji (Tek)."
+      "Aur Kisi Ki Man Nahin Aasaa, Apni Sev Lagaao Ji || 1 ||"
     ],
     [
-      "Aur Kisi Ki Man Nahin Aasaa, Apni Sev Lagaao Ji.1 ||",
       "Moh Mamat Ke Bandhan Tore, Apne Saath Milaao Ji || 2 ||"
     ],
     [
-      "Tum Se Milnaa Je Nahin Devhin, Ve Sab Vidhn Vilaao Ji || 3E ||",
-      "Kahtaa Teun Apne Sang Men, Hari Kaa Naam Japaao Ji ||.4 ||."
+      "Tum Se Milnaa Je Nahin Devhin, Ve Sab Vidhn Vilaao Ji || 3E ||"
+    ],
+    [
+      "Kahtaa Teun Apne Sang Men, Hari Kaa Naam Japaao Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|. Raag Kaamol Bhajan || 3 || 601. ||.",
+    "सद्‌गुरु मुझ पर कृपा कर के, अपना दास बनाओ जी",
     "Sad‌Guru Mujh Par Kripaa Kar Ke, Apnaa Daas Banaao Ji",
-    "सद्गुरु मुझ पर कृपा कर के, पना दास बनाो जी"
+    "राग कामोल भजन 3",
+    "Raag Kaamol Bhajan 3"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kaamol",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kaamol",
     "bhajan"
   ],
-  "displayOrder": 602,
+  "displayOrder": 3,
+  "overallOrder": 600,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 325",
+  "updatedAt": "2026-10-26"
 }

@@ -2,34 +2,83 @@
   "id": "bhajan-0436",
   "slug": "khud-masti-ke-maahin-aath-pahar-main-hun-mastaanaa",
   "categoryId": "raag-tilang",
-  "title": "खुद मसति के माहिन, ाथ पहर मैं हुन मसताना",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "खुद मस्ती के माहिं, आठ पहर मैं हूँ मस्ताना",
   "romanTitle": "Khud Masti Ke Maahin, Aath Pahar Main Hun Mastaanaa",
   "firstLine": "Khud Masti Ke Maahin, Aath Pahar Main Hun Mastaanaa (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ७३ ।। ४३७।।",
+  "tek": [
+    "खुद मस्ती के माहिं, आठ पहर मैं हूँ मस्ताना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Khud Masti Ke Maahin, Aath Pahar Main Hun Mastaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु दीना प्रेम प्याला, पी पी मस्त भया मतिवाला ।",
+        "दुनिया की सुध नाहिं, अपने आप में हूँ अलसाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Dinaa Prem Pyaalaa, Pi Pi Mast Bhayaa Mativaalaa.",
+        "Duniyaa Ki Sudh Naahin, Apne Aap Men Hun Alsaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाया आतमराम सनेही, दर्शन देखत भुल गयी देही ।",
+        "दौड़त मन नहिं काहिं , अपने घर में किया ठिकाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paayaa Aatmaraam Sanehi, Darshan Dekhat Bhul Gayi Dehi.",
+        "Daurat Man Nahin Kaahin, Apne Ghar Men Kiyaa Thikaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देश उसी में कीना वासा, जहाँ न सूर्य चन्द्र प्रकाशा ।",
+        "काल न व्यापे ताहिं, अमर देश में किया स्थाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Desh Usi Men Kinaa Vaasaa, Jahaan Na Sury Chandr Prakaashaa.",
+        "Kaal Na Vyaape Taahin, Amar Desh Men Kiyaa Sthaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मैं आप गँवाया, आत्म सुख में सहज समाया ।",
+        "दूख न परसे जाहिं, ब्रह्मानन्द रहेँ गल्ताना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Main Aap Ganvaayaa, Aatm Sukh Men Sahaj Samaayaa.",
+        "Dukh Na Parse Jaahin, Brahmaanand Rahen Galtaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "खुद मसति के माहिन, ाथ पहर मैं हुन मसताना (टेक)."
+      "सद्‌गुरु दीना प्रेम प्याला, पी पी मस्त भया मतिवाला ।",
+      "दुनिया की सुध नाहिं, अपने आप में हूँ अलसाना ॥१ ॥"
     ],
     [
-      "सद्गुरु दिना प्रेम पयाला, पि पि मसत भया मतिवाला.",
-      "दुनिया कि सुध नाहिन, पने ाप मेन हुन लसाना || 1 ||"
+      "पाया आतमराम सनेही, दर्शन देखत भुल गयी देही ।",
+      "दौड़त मन नहिं काहिं , अपने घर में किया ठिकाना ॥२ ॥"
     ],
     [
-      "पाया ातमराम सनेहि, दरशन देखत भुल गयि देही.",
-      "दौरत मन नहिन काहिन, पने घर मेन किया थिकाना || 2 ||"
+      "देश उसी में कीना वासा, जहाँ न सूर्य चन्द्र प्रकाशा ।",
+      "काल न व्यापे ताहिं, अमर देश में किया स्थाना ॥३ ॥"
     ],
     [
-      "देश ुसि मेन किना वासा, जहान न सुरय चनदर परकाशा.",
-      "काल न वयापे ताहिन, मर देश मेन किया सथाना || 3 ||"
-    ],
-    [
-      "कहे तेऊँ मैं ाप गनवाया, ातम सुख मेन सहज समाया.",
-      "दुःख न परसे जाहिन, बरहमाननद रहेन गलताना || 4. ||."
+      "कहे टेऊँ मैं आप गँवाया, आत्म सुख में सहज समाया ।",
+      "दूख न परसे जाहिं, ब्रह्मानन्द रहेँ गल्ताना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Khud Masti Ke Maahin, Aath Pahar Main Hun Mastaanaa (Tek)."
-    ],
     [
       "Sad‌Guru Dinaa Prem Pyaalaa, Pi Pi Mast Bhayaa Mativaalaa.",
       "Duniyaa Ki Sudh Naahin, Apne Aap Men Hun Alsaanaa || 1 ||"
@@ -39,27 +88,29 @@
       "Daurat Man Nahin Kaahin, Apne Ghar Men Kiyaa Thikaanaa || 2 ||"
     ],
     [
-      "Desh Usi Men Kinaa Vaasaa, Jahaan N Sury Chandr Prakaashaa.",
-      "Kaal N Vyaape Taahin, Amar Desh Men Kiyaa Sthaanaa || 3 ||"
+      "Desh Usi Men Kinaa Vaasaa, Jahaan Na Sury Chandr Prakaashaa.",
+      "Kaal Na Vyaape Taahin, Amar Desh Men Kiyaa Sthaanaa || 3 ||"
     ],
     [
       "Kahe Teun Main Aap Ganvaayaa, Aatm Sukh Men Sahaj Samaayaa.",
-      "Dukh N Parse Jaahin, Brahmaanand Rahen Galtaanaa || 4. ||."
+      "Dukh Na Parse Jaahin, Brahmaanand Rahen Galtaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 73 || 437 ||",
+    "खुद मस्ती के माहिं, आठ पहर मैं हूँ मस्ताना",
     "Khud Masti Ke Maahin, Aath Pahar Main Hun Mastaanaa",
-    "खुद मसति के माहिन, ाथ पहर मैं हुन मसताना"
+    "राग तिलंग भजन 73",
+    "Raag Tilang Bhajan 73"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 436,
+  "displayOrder": 73,
+  "overallOrder": 436,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 248",
+  "updatedAt": "2026-10-26"
 }

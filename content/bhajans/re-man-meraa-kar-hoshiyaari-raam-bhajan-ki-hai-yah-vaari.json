@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0834",
+  "id": "bhajan-0832",
   "slug": "re-man-meraa-kar-hoshiyaari-raam-bhajan-ki-hai-yah-vaari",
   "categoryId": "raag-jog",
-  "title": "रे मन मेरा कर होशियारि, राम भजन कि है यह वारि",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "रे मन मेरा कर होशियारी, राम भजन की है यह वारी",
   "romanTitle": "Re Man Meraa Kar Hoshiyaari, Raam Bhajan Ki Hai Yah Vaari",
   "firstLine": "Re Man Meraa Kar Hoshiyaari, Raam Bhajan Ki Hai Yah Vaari (Tek).",
+  "heading": "।। राग जोग भजन ।। ४ ।। ८३४।॥।",
+  "tek": [
+    "रे मन मेरा कर होशियारी, राम भजन की है यह वारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Meraa Kar Hoshiyaari, Raam Bhajan Ki Hai Yah Vaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष देही पुण्य ते पाई, दुर्लभ मुनिवर वेदनि गाई ।",
+        "हरि सुमरे कर सफली सारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Dehi Puny Te Paai, Durlabh Munivar Vedni Gaai.",
+        "Hari Sumre Kar Saphli Saari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जोनि चराचर फिर फिर आया, जन्म मरण का बहु दुख पाया ।",
+        "अब तो सुमरो हरि सुखकारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Joni Charaachar Phir Phir Aayaa, Janm Maran Kaa Bahu Dukh Paayaa.",
+        "Ab To Sumro Hari Sukhkaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ऐसा बेला नहिं फिर होवहिं, गुज़र जायेगा तब तुम रोवहिं ।",
+        "तांते जपले नाम मुरारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aisaa Belaa Nahin Phir Hovhin, Guzar Jaayegaa Tab Tum Rovhin.",
+        "Taante Japle Naam Muraari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शरणी लीजे, सन्तों के संग नाम जपीजे ।",
+        "जांते टूटे जम की जारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharni Lije, Santon Ke Sang Naam Japije.",
+        "Jaante Tute Jam Ki Jaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन मेरा कर होशियारि, राम भजन कि है यह वारि (टेक)."
+      "मानुष देही पुण्य ते पाई, दुर्लभ मुनिवर वेदनि गाई ।",
+      "हरि सुमरे कर सफली सारी ॥१ ॥"
     ],
     [
-      "मानुश देही पुनय ते पाि, दुरलभ मुनिवर वेदनि गाि.",
-      "हरि सुमरे कर सफलि सारि || 1 ||."
+      "जोनि चराचर फिर फिर आया, जन्म मरण का बहु दुख पाया ।",
+      "अब तो सुमरो हरि सुखकारी ॥२ ॥"
     ],
     [
-      "जोनि चराचर फिर फिर ाया, जनम मरन का बहु दुःख पाया.",
-      "ब तो सुमरो हरि सुखकारि || 2 ||"
+      "ऐसा बेला नहिं फिर होवहिं, गुज़र जायेगा तब तुम रोवहिं ।",
+      "तांते जपले नाम मुरारी ॥३ ॥"
     ],
     [
-      "ैसा बेला नहिन फिर होवहिन, गुzर जायेगा तब तुम रोवहिन.",
-      "तानते जपले नाम मुरारि. ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु शरनि लिजे, सनतोन के सनग नाम जपिजे.",
-      "जानते तुते जम कि जारि || 4. ||."
+      "कहे टेऊँ गुरु शरणी लीजे, सन्तों के संग नाम जपीजे ।",
+      "जांते टूटे जम की जारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Meraa Kar Hoshiyaari, Raam Bhajan Ki Hai Yah Vaari (Tek)."
-    ],
-    [
       "Maanush Dehi Puny Te Paai, Durlabh Munivar Vedni Gaai.",
-      "Hari Sumre Kar Saphli Saari || 1 ||."
+      "Hari Sumre Kar Saphli Saari || 1 ||"
     ],
     [
       "Joni Charaachar Phir Phir Aayaa, Janm Maran Kaa Bahu Dukh Paayaa.",
@@ -40,26 +89,28 @@
     ],
     [
       "Aisaa Belaa Nahin Phir Hovhin, Guzar Jaayegaa Tab Tum Rovhin.",
-      "Taante Japle Naam Muraari. ||.3 ||."
+      "Taante Japle Naam Muraari || 3 ||"
     ],
     [
       "Kahe Teun Guru Sharni Lije, Santon Ke Sang Naam Japije.",
-      "Jaante Tute Jam Ki Jaari || 4. ||."
+      "Jaante Tute Jam Ki Jaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 4 || 834. ||.",
+    "रे मन मेरा कर होशियारी, राम भजन की है यह वारी",
     "Re Man Meraa Kar Hoshiyaari, Raam Bhajan Ki Hai Yah Vaari",
-    "रे मन मेरा कर होशियारि, राम भजन कि है यह वारि"
+    "राग जोग भजन 4",
+    "Raag Jog Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 834,
+  "displayOrder": 4,
+  "overallOrder": 832,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 442",
+  "updatedAt": "2026-10-26"
 }

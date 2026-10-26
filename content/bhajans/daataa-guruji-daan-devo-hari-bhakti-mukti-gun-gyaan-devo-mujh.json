@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0648",
+  "slug": "daataa-guruji-daan-devo-hari-bhakti-mukti-gun-gyaan-devo-mujh",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "दाता गुरुजी दान देवो हरि, भक्ति मुक्ति गुण ज्ञान देवो मुझ,",
+  "romanTitle": "Daataa Guruji Daan Devo Hari, Bhakti Mukti Gun Gyaan Devo Mujh,",
+  "firstLine": "Daataa Guruji Daan Devo Hari, Bhakti Mukti Gun Gyaan Devo Mujh,",
+  "heading": "।। राग पहाड़ी भजन ।। १ ।। ६४९।।",
+  "tek": [
+    "दाता गुरुजी दान देवो हरि, भक्ति मुक्ति गुण ज्ञान देवो मुझ,",
+    "निर्गुण नाम लखाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Daataa Guruji Daan Devo Hari, Bhakti Mukti Gun Gyaan Devo Mujh,",
+    "Nirgun Naam Lakhaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं हूं लोहा कीट आअज्ञानी, तुम गुरु पारस भूृंग ज्ञानी ।",
+        "मेरा जन्म मिटाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Lohaa Kit Aajnyaani, Tum Guru Paaras Bhuring Jnyaani.",
+        "Meraa Janm Mitaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैं अपराधी अधम अधीना, तुम गुरु पावन तीर्थ चीना ।",
+        "मेरा पाप नसाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Main Apraadhi Adham Adhinaa, Tum Guru Paavan Tirth Chinaa.",
+        "Meraa Paap Nasaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं हूं निर्गुण कर्म कंगाला, तुम गुरु सुरतरु दीन दयाला ।",
+        "दे गुण दोष हटाओ । ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Main Hun Nirgun Karm Kangaalaa, Tum Guru Surtaru Din Dayaalaa.",
+        "De Gun Dosh Hataao || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ अरदासा, तुम हो सद्‌गुरु स्वयं प्रकाशा ।",
+        "अनुभव ज्योति जगाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Ardaasaa, Tum Ho Sad‌Guru Svayan Prakaashaa.",
+        "Anubhav Jyoti Jagaao || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मैं हूं लोहा कीट आअज्ञानी, तुम गुरु पारस भूृंग ज्ञानी ।",
+      "मेरा जन्म मिटाओ ॥१ ॥"
+    ],
+    [
+      "मैं अपराधी अधम अधीना, तुम गुरु पावन तीर्थ चीना ।",
+      "मेरा पाप नसाओ ॥२ ॥"
+    ],
+    [
+      "मैं हूं निर्गुण कर्म कंगाला, तुम गुरु सुरतरु दीन दयाला ।",
+      "दे गुण दोष हटाओ । ॥ ।३े ॥ ।"
+    ],
+    [
+      "कहे टेऊँ कर जोड़ अरदासा, तुम हो सद्‌गुरु स्वयं प्रकाशा ।",
+      "अनुभव ज्योति जगाओ ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Main Hun Lohaa Kit Aajnyaani, Tum Guru Paaras Bhuring Jnyaani.",
+      "Meraa Janm Mitaao || 1 ||"
+    ],
+    [
+      "Main Apraadhi Adham Adhinaa, Tum Guru Paavan Tirth Chinaa.",
+      "Meraa Paap Nasaao || 2 ||"
+    ],
+    [
+      "Main Hun Nirgun Karm Kangaalaa, Tum Guru Surtaru Din Dayaalaa.",
+      "De Gun Dosh Hataao || 3E ||"
+    ],
+    [
+      "Kahe Teun Kar Jor Ardaasaa, Tum Ho Sad‌Guru Svayan Prakaashaa.",
+      "Anubhav Jyoti Jagaao || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "दाता गुरुजी दान देवो हरि, भक्ति मुक्ति गुण ज्ञान देवो मुझ,",
+    "Daataa Guruji Daan Devo Hari, Bhakti Mukti Gun Gyaan Devo Mujh,",
+    "राग पहाड़ी भजन 1",
+    "Raag Pahaari Bhajan 1"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 1,
+  "overallOrder": 648,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 346",
+  "updatedAt": "2026-10-26"
+}

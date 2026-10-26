@@ -1,65 +1,105 @@
 {
   "id": "bhajan-0349",
   "slug": "saakshi-chetan-basant-ritu-se-phule-pind-brahmandaa-re",
-  "categoryId": "raag-aasaa",
-  "title": "साक्षी चेतन बसनत रितु से, फुले पिनद बरहमनदा रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "साक्षी चेतन बसन्त ऋतु से, फूले पिण्ड ब्रह्मण्डा रे",
   "romanTitle": "Saakshi Chetan Basant Ritu Se, Phule Pind Brahmandaa Re",
   "firstLine": "Saakshi Chetan Basant Ritu Se, Phule Pind Brahmandaa Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। ६ ।। ३४९।।",
+  "tek": [
+    "साक्षी चेतन बसन्त ऋतु से, फूले पिण्ड ब्रह्मण्डा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saakshi Chetan Basant Ritu Se, Phule Pind Brahmandaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "माया जीव ईश्वर फूले, ब्रह्मा विष्णु महेश्वर फूले ।",
+        "फूले रवि प्रचण्डा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maayaa Jiv Ishvar Phule, Brahmaa Vishnu Maheshvar Phule.",
+        "Phule Ravi Prachandaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "फूले धरणी पवन अकाशा, फूले पानी अग्नि प्रकाशा ।",
+        "फूल रहे नव खण्डा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Phule Dharni Pavan Akaashaa, Phule Paani Agni Prakaashaa.",
+        "Phul Rahe Nav Khandaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "फूले सूक्ष्म थूल पसारा, फूले जीव चराचर सारा ।",
+        "फूले यम का डण्डा रे डे",
+        "चेतन ऋतु कर सब जग फूले, कहे टेऊँ लख अंग अंग फूले ।",
+        "फूले ज्ञान अखण्डा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Phule Sukshm Thul Pasaaraa, Phule Jiv Charaachar Saaraa.",
+        "Phule Yam Kaa Dandaa Re De",
+        "Chetan Ritu Kar Sab Jag Phule, Kahe Teun Lakh Ang Ang Phule.",
+        "Phule Gyaan Akhandaa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साक्षी चेतन बसनत रितु से, फुले पिनद बरहमनदा रे (टेक)."
+      "माया जीव ईश्वर फूले, ब्रह्मा विष्णु महेश्वर फूले ।",
+      "फूले रवि प्रचण्डा रे ॥१ ॥"
     ],
     [
-      "माया जिव िशवर फुले, बरहम विशनु महेशवर फुले.",
-      "फुले रवि परचनदा रे || 1 ||."
+      "फूले धरणी पवन अकाशा, फूले पानी अग्नि प्रकाशा ।",
+      "फूल रहे नव खण्डा रे ॥२ ॥"
     ],
     [
-      "फुले धरनि पवन काशा, फुले पानि गनि परकाशा.",
-      "फुल रहे नव खनदा रे || 2 ||."
-    ],
-    [
-      "फुले सुकशम थुल पसारा, फुले जिव चराचर सारा.",
-      "फुले यम का दनदा रे दे"
-    ],
-    [
-      "चेतन रितु कर सब जग फुले, कहे तेऊँ लख नग नग फुले.",
-      "फुले ज्ञान खनदा रे || 4. ||."
+      "फूले सूक्ष्म थूल पसारा, फूले जीव चराचर सारा ।",
+      "फूले यम का डण्डा रे डे",
+      "चेतन ऋतु कर सब जग फूले, कहे टेऊँ लख अंग अंग फूले ।",
+      "फूले ज्ञान अखण्डा रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saakshi Chetan Basant Ritu Se, Phule Pind Brahmandaa Re (Tek)."
-    ],
-    [
-      "Maayaa Jiv Ishvar Phule, Brahma Vishnu Maheshvar Phule.",
-      "Phule Ravi Prachandaa Re || 1 ||."
+      "Maayaa Jiv Ishvar Phule, Brahmaa Vishnu Maheshvar Phule.",
+      "Phule Ravi Prachandaa Re || 1 ||"
     ],
     [
       "Phule Dharni Pavan Akaashaa, Phule Paani Agni Prakaashaa.",
-      "Phul Rahe Nav Khandaa Re || 2 ||."
+      "Phul Rahe Nav Khandaa Re || 2 ||"
     ],
     [
       "Phule Sukshm Thul Pasaaraa, Phule Jiv Charaachar Saaraa.",
-      "Phule Yam Kaa Dandaa Re De"
-    ],
-    [
+      "Phule Yam Kaa Dandaa Re De",
       "Chetan Ritu Kar Sab Jag Phule, Kahe Teun Lakh Ang Ang Phule.",
-      "Phule Jnyaan Akhandaa Re || 4. ||."
+      "Phule Gyaan Akhandaa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 6 || 349 ||",
+    "साक्षी चेतन बसन्त ऋतु से, फूले पिण्ड ब्रह्मण्डा रे",
     "Saakshi Chetan Basant Ritu Se, Phule Pind Brahmandaa Re",
-    "साक्षी चेतन बसनत रितु से, फुले पिनद बरहमनदा रे"
+    "राग बसंत भजन 6",
+    "Raag Basant Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 349,
+  "displayOrder": 6,
+  "overallOrder": 349,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 207",
+  "updatedAt": "2026-10-26"
 }

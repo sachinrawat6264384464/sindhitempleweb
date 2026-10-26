@@ -2,41 +2,90 @@
   "id": "bhajan-0055",
   "slug": "amrit-vele-unche-svar-se-smaro-om-hari-hari",
   "categoryId": "raag-prabhaati",
-  "title": "अमृत वेले ुनचे सवर से, समरो ॐ हरि हरि",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "अमृत वेले ऊंचे स्वर से, स्मरो ओम हरी हरी",
   "romanTitle": "Amrit Vele Unche Svar Se, Smaro Om Hari Hari",
   "firstLine": "Amrit Vele Unche Svar Se, Smaro Om Hari Hari (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। २३ ।। ५५।॥।",
+  "tek": [
+    "अमृत वेले ऊंचे स्वर से, स्मरो ओम हरी हरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amrit Vele Unche Svar Se, Smaro Om Hari Hari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ओम ईश का नाम उदारा, सिमरो तिसको बारंबारा ।",
+        "भव सागर से उतरो पारा, सब दुःख जावहिं टरी टरी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Om Ish Kaa Naam Udaaraa, Simro Tisko Baarambaaraa.",
+        "Bhav Saagar Se Utro Paaraa, Sab Duhkh Jaavhin Tari Tari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ओम ईश का नाम अनादी, बीज मन्त्र है आदि जुगादी ।",
+        "योगी स्मरे लाय समाधी, मुनिजन स्मरे घड़ी घड़ी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Om Ish Kaa Naam Anaadi, Bij Mantr Hai Aadi Jugaadi.",
+        "Yogi Smare Laay Samaadhi, Munijan Smare Ghari Ghari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ओम सोडहम्‌ से प्रकट जानो, ओम ब्रह्म का वाचक मानो ।",
+        "ओम मनोहर गीत पछानो, अमृत रस की झड़ी झड़ी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Om Sodham‌ Se Prakat Jaano, Om Brahm Kaa Vaachak Maano.",
+        "Om Manohar Git Pachhaano, Amrit Ras Ki Jhari Jhari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह गुरु मन्त्र है, मन जीतन का तेज तन्त्र है ।",
+        "हरि मिलने का यह यन्त्र है, देखो पुस्तक पढ़ी पढ़ी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Guru Mantr Hai, Man Jitan Kaa Tej Tantr Hai.",
+        "Hari Milne Kaa Yah Yantr Hai, Dekho Pustak Parhi Parhi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमृत वेले ुनचे सवर से, समरो ॐ हरि हरि (टेक)."
+      "ओम ईश का नाम उदारा, सिमरो तिसको बारंबारा ।",
+      "भव सागर से उतरो पारा, सब दुःख जावहिं टरी टरी ॥१ ॥"
     ],
     [
-      "ॐ िश का नाम ुदारा, सिमरो तिसको बारमबारा.",
-      "भव सागर से ुतरो पारा, सब दुःख जावहिन तरि तरि || $ ||."
+      "ओम ईश का नाम अनादी, बीज मन्त्र है आदि जुगादी ।",
+      "योगी स्मरे लाय समाधी, मुनिजन स्मरे घड़ी घड़ी ॥२ ॥"
     ],
     [
-      "ॐ िश का नाम नादि, बिज मनतर है ादि जुगादि.",
-      "योगि समरे लाय समाधि, मुनिजन समरे घरि घरि || 2 ||."
+      "ओम सोडहम्‌ से प्रकट जानो, ओम ब्रह्म का वाचक मानो ।",
+      "ओम मनोहर गीत पछानो, अमृत रस की झड़ी झड़ी ॥३ ॥"
     ],
     [
-      "ॐ सोधम‌ से परकत जानो, ॐ बरहम का वाचक मानो.",
-      "ॐ मनोहर गित पचहानो, अमृत रस कि झरि झरि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ यह गुरु मनतर है, मन जितन का तेज तनतर है.",
-      "हरि मिलने का यह यनतर है, देखो पुसतक परहि परहि || 4 ||"
+      "कहे टेऊँ यह गुरु मन्त्र है, मन जीतन का तेज तन्त्र है ।",
+      "हरि मिलने का यह यन्त्र है, देखो पुस्तक पढ़ी पढ़ी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Amrit Vele Unche Svar Se, Smaro Om Hari Hari (Tek)."
-    ],
-    [
       "Om Ish Kaa Naam Udaaraa, Simro Tisko Baarambaaraa.",
-      "Bhav Saagar Se Utro Paaraa, Sab Duhkh Jaavhin Tari Tari || $ ||."
+      "Bhav Saagar Se Utro Paaraa, Sab Duhkh Jaavhin Tari Tari || 1 ||"
     ],
     [
       "Om Ish Kaa Naam Anaadi, Bij Mantr Hai Aadi Jugaadi.",
-      "Yogi Smare Laay Samaadhi, Munijan Smare Ghari Ghari || 2 ||."
+      "Yogi Smare Laay Samaadhi, Munijan Smare Ghari Ghari || 2 ||"
     ],
     [
       "Om Sodham‌ Se Prakat Jaano, Om Brahm Kaa Vaachak Maano.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 23 || 55. ||.",
+    "अमृत वेले ऊंचे स्वर से, स्मरो ओम हरी हरी",
     "Amrit Vele Unche Svar Se, Smaro Om Hari Hari",
-    "अमृत वेले ुनचे सवर से, समरो ॐ हरि हरि"
+    "राग प्रभाती भजन 23",
+    "Raag Prabhaati Bhajan 23"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 55,
+  "displayOrder": 23,
+  "overallOrder": 55,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 53",
+  "updatedAt": "2026-10-26"
 }

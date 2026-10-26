@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0575",
+  "slug": "jagat-musaaphirkhaanaa-re-man-kiskaa-yah-na-thikaanaa",
+  "categoryId": "raag-maaru",
+  "categoryName": "राग मारू",
+  "romanCategoryName": "Raag Maaru",
+  "title": "जगत मुसाफिरखाना , रे मन किसका यह न ठिकाना",
+  "romanTitle": "Jagat Musaaphirkhaanaa, Re Man Kiskaa Yah Na Thikaanaa",
+  "firstLine": "Jagat Musaaphirkhaanaa, Re Man Kiskaa Yah Na Thikaanaa (Tek).",
+  "heading": "।। राग मारू भजन ।। ५ ।। ५७६।।",
+  "tek": [
+    "जगत मुसाफिरखाना , रे मन किसका यह न ठिकाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jagat Musaaphirkhaanaa, Re Man Kiskaa Yah Na Thikaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धर्मशाला में लोग हज़ारे, आकर रहते दिन दो चारे ।",
+        "सब आखिर करत पयाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharmashaalaa Men Log Hazaare, Aakar Rahte Din Do Chaare.",
+        "Sab Aakhir Karat Payaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सांझ समय जिमि पंछी सारे, बैठ बिरछ पर रैन गुज़ारे ।",
+        "उड़ जाते होय विहाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saanjh Samay Jimi Panchhi Saare, Baith Birachh Par Rain Guzaare.",
+        "Ur Jaate Hoy Vihaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जैसे देख लगा आखाड़ा, लोक जुड़े पल माहिं अपारा ।",
+        "जब टूटे होय रवाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaise Dekh Lagaa Aakhaaraa, Lok Jure Pal Maahin Apaaraa.",
+        "Jab Tute Hoy Ravaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तुम जल्दी जागो, अबहीं हरि सुमरण में लागो ।",
+        "इस जग का मोह मिटाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Tum Jaldi Jaago, Abhin Hari Sumran Men Laago.",
+        "Is Jag Kaa Moh Mitaanaa || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "धर्मशाला में लोग हज़ारे, आकर रहते दिन दो चारे ।",
+      "सब आखिर करत पयाना ॥१ ॥"
+    ],
+    [
+      "सांझ समय जिमि पंछी सारे, बैठ बिरछ पर रैन गुज़ारे ।",
+      "उड़ जाते होय विहाना ॥२ ॥"
+    ],
+    [
+      "जैसे देख लगा आखाड़ा, लोक जुड़े पल माहिं अपारा ।",
+      "जब टूटे होय रवाना ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ तुम जल्दी जागो, अबहीं हरि सुमरण में लागो ।",
+      "इस जग का मोह मिटाना ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Dharmashaalaa Men Log Hazaare, Aakar Rahte Din Do Chaare.",
+      "Sab Aakhir Karat Payaanaa || 1 ||"
+    ],
+    [
+      "Saanjh Samay Jimi Panchhi Saare, Baith Birachh Par Rain Guzaare.",
+      "Ur Jaate Hoy Vihaanaa || 2 ||"
+    ],
+    [
+      "Jaise Dekh Lagaa Aakhaaraa, Lok Jure Pal Maahin Apaaraa.",
+      "Jab Tute Hoy Ravaanaa || 3 ||"
+    ],
+    [
+      "Kahe Teun Tum Jaldi Jaago, Abhin Hari Sumran Men Laago.",
+      "Is Jag Kaa Moh Mitaanaa || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "जगत मुसाफिरखाना , रे मन किसका यह न ठिकाना",
+    "Jagat Musaaphirkhaanaa, Re Man Kiskaa Yah Na Thikaanaa",
+    "राग मारू भजन 5",
+    "Raag Maaru Bhajan 5"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maaru",
+    "bhajan"
+  ],
+  "displayOrder": 5,
+  "overallOrder": 575,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 313",
+  "updatedAt": "2026-10-26"
+}

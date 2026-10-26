@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0913",
+  "id": "bhajan-0911",
   "slug": "saphal-kar-maanush-tan-bandaa",
   "categoryId": "raag-jog",
-  "title": "सफल कर मानुश तन बनदा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "सफल कर मानुष तन बन्दा",
   "romanTitle": "Saphal Kar Maanush Tan Bandaa",
   "firstLine": "Saphal Kar Maanush Tan Bandaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ८३ ।। ९१३ ॥।",
+  "tek": [
+    "सफल कर मानुष तन बन्दा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saphal Kar Maanush Tan Bandaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन है कंचन बर्तन, हीरा तामें पाओ ।",
+        "भोग विषय की गंदगी से तुम, गाफिल कर ना गंदा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Hai Kanchan Bartan, Hiraa Taamen Paao.",
+        "Bhog Vishay Ki Gandgi Se Tum, Gaaphil Kar Naa Gandaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष तन है मन्दिर के सम, तामें हरि बिठलाओ ।",
+        "काम क्रोध कूकर बैठाये, मैला कर ना मंदा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Hai Mandir Ke Sam, Taamen Hari Bithlaao.",
+        "Kaam Krodh Kukar Baithaaye, Mailaa Kar Naa Mandaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मानुष तन है फूलों के सम, हरि चरणों में राखो ।",
+        "तोड़ फोड़ कर विषयों में तुम, फेंक न देना अन्धा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Hai Phulon Ke Sam, Hari Charnon Men Raakho.",
+        "Tor Phor Kar Vishyon Men Tum, Phenk Na Denaa Andhaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मानुष तन में सर्व काम तज, भजन करो इक हरि का ।",
+        "कहे टेऊँ हरि स्मरण करके, काटो यम का फंदा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Men Sarv Kaam Taj, Bhajan Karo Ik Hari Kaa.",
+        "Kahe Teun Hari Smaran Karke, Kaato Yam Kaa Phandaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््"
+      ],
+      "romanLines": [
+        "Ga"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सफल कर मानुश तन बनदा (टेक)."
+      "मानुष तन है कंचन बर्तन, हीरा तामें पाओ ।",
+      "भोग विषय की गंदगी से तुम, गाफिल कर ना गंदा ॥१ ॥"
     ],
     [
-      "मानुश तन है कनचन बरतन, हिरा तामेन पाो.",
-      "भोग विशय कि गनदगि से तुम, गाफिल कर ना गनदा || 1 ||."
+      "मानुष तन है मन्दिर के सम, तामें हरि बिठलाओ ।",
+      "काम क्रोध कूकर बैठाये, मैला कर ना मंदा ॥२ ॥"
     ],
     [
-      "मानुश तन है मनदिर के सम, तामेन हरि बिथलाो.",
-      "काम करोध कुकर बैथाये, मैला कर ना मनदा ||.2 ||."
+      "मानुष तन है फूलों के सम, हरि चरणों में राखो ।",
+      "तोड़ फोड़ कर विषयों में तुम, फेंक न देना अन्धा ॥३ ॥"
     ],
     [
-      "मानुश तन है फुलोन के सम, हरि चरनोन मेन राखो.",
-      "तोर फोर कर विशयोन मेन तुम, फेनक न देना नधा || 3 ||"
+      "मानुष तन में सर्व काम तज, भजन करो इक हरि का ।",
+      "कहे टेऊँ हरि स्मरण करके, काटो यम का फंदा ॥४ ॥"
     ],
     [
-      "मानुश तन मेन सर्व काम तज, भजन करो िक हरि का.",
-      "कहे तेऊँ हरि समरन करके, कातो यम का फनदा || 4 ||"
-    ],
-    [
-      "ग"
+      "ग््"
     ]
   ],
   "romanLyrics": [
     [
-      "Saphal Kar Maanush Tan Bandaa (Tek)."
-    ],
-    [
       "Maanush Tan Hai Kanchan Bartan, Hiraa Taamen Paao.",
-      "Bhog Vishay Ki Gandgi Se Tum, Gaaphil Kar Naa Gandaa || 1 ||."
+      "Bhog Vishay Ki Gandgi Se Tum, Gaaphil Kar Naa Gandaa || 1 ||"
     ],
     [
       "Maanush Tan Hai Mandir Ke Sam, Taamen Hari Bithlaao.",
-      "Kaam Krodh Kukar Baithaaye, Mailaa Kar Naa Mandaa ||.2 ||."
+      "Kaam Krodh Kukar Baithaaye, Mailaa Kar Naa Mandaa || 2 ||"
     ],
     [
       "Maanush Tan Hai Phulon Ke Sam, Hari Charnon Men Raakho.",
-      "Tor Phor Kar Vishyon Men Tum, Phenk N Denaa Andhaa || 3 ||"
+      "Tor Phor Kar Vishyon Men Tum, Phenk Na Denaa Andhaa || 3 ||"
     ],
     [
       "Maanush Tan Men Sarv Kaam Taj, Bhajan Karo Ik Hari Kaa.",
       "Kahe Teun Hari Smaran Karke, Kaato Yam Kaa Phandaa || 4 ||"
     ],
     [
-      "G"
+      "Ga"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 83 || 913 ||.",
+    "सफल कर मानुष तन बन्दा",
     "Saphal Kar Maanush Tan Bandaa",
-    "सफल कर मानुश तन बनदा"
+    "राग जोग भजन 83",
+    "Raag Jog Bhajan 83"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 913,
+  "displayOrder": 83,
+  "overallOrder": 911,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 479",
+  "updatedAt": "2026-10-26"
 }

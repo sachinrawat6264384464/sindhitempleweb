@@ -1,60 +1,104 @@
 {
-  "id": "bhajan-0609",
+  "id": "bhajan-0607",
   "slug": "charan-pakar-guru-kaa-sumran-kar-mansaa",
   "categoryId": "raag-kalyaan",
-  "title": "चरण पकर गुरु का, सुमरन कर मनसा",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "चरन पकड़ गुरु का, सुमरण कर मनसा",
   "romanTitle": "Charan Pakar Guru Kaa, Sumran Kar Mansaa",
   "firstLine": "Charan Pakar Guru Kaa, Sumran Kar Mansaa (Tek).",
+  "heading": "।। राग कल्याण भजन ।। १ ।। ६०८",
+  "tek": [
+    "चरन पकड़ गुरु का, सुमरण कर मनसा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Charan Pakar Guru Kaa, Sumran Kar Mansaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दर्शन गुरु के द्वैत विनाशे, बिनस बिनस संसा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Darshan Guru Ke Dvait Vinaashe, Binas Binas Sansaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु की वाणी अमृत धारी, धार धार दम सा ॥? ॥२ ॥",
+        "गुरु का नाद अनाहत बाजे, बाज बाज बरसा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Vaani Amrit Dhaari, Dhaar Dhaar Dam Saa || ? || 2 ||",
+        "Guru Kaa Naad Anaahat Baaje, Baaj Baaj Barsaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु का ज्ञान परस घट माहीं, परस परस परसा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Gyaan Paras Ghat Maahin, Paras Paras Parsaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सद्‌गुरु प्रसादे, तत्त्व तत्त्व दरसा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sad‌Guru Prasaade, Tattv Tattv Darsaa || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चरण पकर गुरु का, सुमरन कर मनसा (टेक)."
+      "दर्शन गुरु के द्वैत विनाशे, बिनस बिनस संसा ॥१ ॥"
     ],
     [
-      "दरशन गुरु के दवैत विनाशे, बिनस बिनस सनसा || 1. ||."
+      "गुरु की वाणी अमृत धारी, धार धार दम सा ॥? ॥२ ॥",
+      "गुरु का नाद अनाहत बाजे, बाज बाज बरसा ॥३ ॥"
     ],
     [
-      "गुरु कि वाणी अमृत धारि, धार धार दम सा ||?2. ||.",
-      "गुरु का नाद नाहत बाजे, बाज बाज बरसा ||.3 ||."
+      "गुरु का ज्ञान परस घट माहीं, परस परस परसा ॥४ ॥"
     ],
     [
-      "गुरु का ज्ञान परस घत माहिन, परस परस परसा || 4. ||."
-    ],
-    [
-      "कहे तेऊँ सद्गुरु परसादे, तततव तततव दरसा ||.5 ||."
+      "कहे टेऊँ सद्‌गुरु प्रसादे, तत्त्व तत्त्व दरसा ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Charan Pakar Guru Kaa, Sumran Kar Mansaa (Tek)."
+      "Darshan Guru Ke Dvait Vinaashe, Binas Binas Sansaa || 1 ||"
     ],
     [
-      "Darshan Guru Ke Dvait Vinaashe, Binas Binas Sansaa || 1. ||."
+      "Guru Ki Vaani Amrit Dhaari, Dhaar Dhaar Dam Saa || ? || 2 ||",
+      "Guru Kaa Naad Anaahat Baaje, Baaj Baaj Barsaa || 3 ||"
     ],
     [
-      "Guru Ki Vaani Amrit Dhaari, Dhaar Dhaar Dam Saa ||?2. ||.",
-      "Guru Kaa Naad Anaahat Baaje, Baaj Baaj Barsaa ||.3 ||."
+      "Guru Kaa Gyaan Paras Ghat Maahin, Paras Paras Parsaa || 4 ||"
     ],
     [
-      "Guru Kaa Jnyaan Paras Ghat Maahin, Paras Paras Parsaa || 4. ||."
-    ],
-    [
-      "Kahe Teun Sad‌Guru Prasaade, Tattv Tattv Darsaa ||.5 ||."
+      "Kahe Teun Sad‌Guru Prasaade, Tattv Tattv Darsaa || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kalyaan Bhajan || 1 || 608",
+    "चरन पकड़ गुरु का, सुमरण कर मनसा",
     "Charan Pakar Guru Kaa, Sumran Kar Mansaa",
-    "चरण पकर गुरु का, सुमरन कर मनसा"
+    "राग कल्याण भजन 1",
+    "Raag Kalyaan Bhajan 1"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 609,
+  "displayOrder": 1,
+  "overallOrder": 607,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 327",
+  "updatedAt": "2026-10-26"
 }

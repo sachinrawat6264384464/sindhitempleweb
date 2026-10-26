@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0522",
+  "id": "bhajan-0520",
   "slug": "prem-prabhu-se-karle-pyaare-chhor-jagat-ke-phurne-saare",
   "categoryId": "raag-kohiyaari",
-  "title": "प्रेम प्रभु से करले पयारे, चहोर जगत के फुरने सारे",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "प्रेम प्रभू से करले प्यारे, छोड़ जगत के फुरने सारे",
   "romanTitle": "Prem Prabhu Se Karle Pyaare, Chhor Jagat Ke Phurne Saare",
   "firstLine": "Prem Prabhu Se Karle Pyaare, Chhor Jagat Ke Phurne Saare (Tek).",
+  "heading": "।। राग कोदह्यारी भजन ।। ४१ ।। ५२१।॥।",
+  "tek": [
+    "प्रेम प्रभू से करले प्यारे, छोड़ जगत के फुरने सारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Prabhu Se Karle Pyaare, Chhor Jagat Ke Phurne Saare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रेम प्रभू से शबरी कीना, रघुवर तांको दर्शन दीना ।",
+        "सर्व ऋषिन के छोड़ द्वार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prem Prabhu Se Shabri Kinaa, Raghuvar Taanko Darshan Dinaa.",
+        "Sarv Rishin Ke Chhor Dvaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम प्रभू से विदुर लगाया, शाक अलूणा तांका खाया ।",
+        "राजा के तज भोग अपारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Prabhu Se Vidur Lagaayaa, Shaak Alunaa Taankaa Khaayaa.",
+        "Raajaa Ke Taj Bhog Apaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम प्रभू से पीपे लाया, हरि दर्शन हित आप डुबाया ।",
+        "द्वारिका देखी जलधि मंँ7झारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Prabhu Se Pipe Laayaa, Hari Darshan Hit Aap Dubaayaa.",
+        "Dvaarikaa Dekhi Jaldhi Mann7Jhaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि प्रेम सुहावे, प्रेम करे सो हरि को भावे ।",
+        "वेद ग्रन्थ यों सन्त उच्चारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Prem Suhaave, Prem Kare So Hari Ko Bhaave.",
+        "Ved Granth Yon Sant Uchchaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम प्रभु से करले पयारे, चहोर जगत के फुरने सारे (टेक)."
+      "प्रेम प्रभू से शबरी कीना, रघुवर तांको दर्शन दीना ।",
+      "सर्व ऋषिन के छोड़ द्वार ॥१ ॥"
     ],
     [
-      "प्रेम प्रभु से शबरि किना, रघुवर तानको दरशन दिना.",
-      "सर्व रिशिन के चहोर दवार || 1 ||."
+      "प्रेम प्रभू से विदुर लगाया, शाक अलूणा तांका खाया ।",
+      "राजा के तज भोग अपारे ॥२ ॥"
     ],
     [
-      "प्रेम प्रभु से विदुर लगाया, शाक लुना तानका खाया.",
-      "राजा के तज भोग पारे || 2 ||."
+      "प्रेम प्रभू से पीपे लाया, हरि दर्शन हित आप डुबाया ।",
+      "द्वारिका देखी जलधि मंँ7झारे ॥३ ॥"
     ],
     [
-      "प्रेम प्रभु से पिपे लाया, हरि दरशन हित ाप दुबाया.",
-      "दवारिका देखि जलधि मननझारे ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ हरि प्रेम सुहावे, प्रेम करे सो हरि को भावे.",
-      "वेद गरनथ योन संत ुचचारे || 4 ||."
-    ],
-    [
-      "हद"
+      "कहे टेऊँ हरि प्रेम सुहावे, प्रेम करे सो हरि को भावे ।",
+      "वेद ग्रन्थ यों सन्त उच्चारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prem Prabhu Se Karle Pyaare, Chhor Jagat Ke Phurne Saare (Tek)."
-    ],
-    [
       "Prem Prabhu Se Shabri Kinaa, Raghuvar Taanko Darshan Dinaa.",
-      "Sarv Rishin Ke Chhor Dvaar || 1 ||."
+      "Sarv Rishin Ke Chhor Dvaar || 1 ||"
     ],
     [
       "Prem Prabhu Se Vidur Lagaayaa, Shaak Alunaa Taankaa Khaayaa.",
-      "Raajaa Ke Taj Bhog Apaare || 2 ||."
+      "Raajaa Ke Taj Bhog Apaare || 2 ||"
     ],
     [
       "Prem Prabhu Se Pipe Laayaa, Hari Darshan Hit Aap Dubaayaa.",
-      "Dvaarikaa Dekhi Jaldhi Mann7Jhaare ||.3 ||"
+      "Dvaarikaa Dekhi Jaldhi Mann7Jhaare || 3 ||"
     ],
     [
       "Kahe Teun Hari Prem Suhaave, Prem Kare So Hari Ko Bhaave.",
-      "Ved Granth Yon Sant Uchchaare || 4 ||."
-    ],
-    [
-      "Had"
+      "Ved Granth Yon Sant Uchchaare || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kodahyaari Bhajan || 41 || 521. ||.",
+    "प्रेम प्रभू से करले प्यारे, छोड़ जगत के फुरने सारे",
     "Prem Prabhu Se Karle Pyaare, Chhor Jagat Ke Phurne Saare",
-    "प्रेम प्रभु से करले पयारे, चहोर जगत के फुरने सारे"
+    "राग कोहियारी भजन 41",
+    "Raag Kohiyaari Bhajan 41"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "kohiyaari",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 522,
+  "displayOrder": 41,
+  "overallOrder": 520,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 287",
+  "updatedAt": "2026-10-26"
 }

@@ -1,66 +1,116 @@
 {
-  "id": "bhajan-0873",
+  "id": "bhajan-0871",
   "slug": "svapne-sam-hai-yah-sansaar-mujhko-kahaa-guru-mahraajaa",
   "categoryId": "raag-jog",
-  "title": "सवपने सम है यह सनसार, मुझको कहा गुरु महराजा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "स्वप्ने सम है यह संसार, मुझको कहा गुरू महराजा",
   "romanTitle": "Svapne Sam Hai Yah Sansaar, Mujhko Kahaa Guru Mahraajaa",
   "firstLine": "Svapne Sam Hai Yah Sansaar, Mujhko Kahaa Guru Mahraajaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ४३ ।। ८७३।।",
+  "tek": [
+    "स्वप्ने सम है यह संसार, मुझको कहा गुरू महराजा ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Svapne Sam Hai Yah Sansaar, Mujhko Kahaa Guru Mahraajaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जैसे स्वप्ना मिथ्या भासे, तैसे झूठा जग प्रकाशे ।",
+        "दोनों को तुम जान असार, उभय स्मृती रूप अकाजा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaise Svapnaa Mithyaa Bhaase, Taise Jhuthaa Jag Prakaashe.",
+        "Donon Ko Tum Jaan Asaar, Ubhay Smriti Rup Akaajaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दृढ़ भावना करके मन में, सुख दुख मानत तूं आपन में ।",
+        "जीव वासना के अनुसार, देखत हो तुम द्वन्द्र समाजा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Drirh Bhaavnaa Karke Man Men, Sukh Dukh Maanat Tu Aapan Men.",
+        "Jiv Vaasnaa Ke Anusaar, Dekhat Ho Tum Dvandr Samaajaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जाग्रत स्वप्ने को जो जानत, सुषुप्ति को भी जो पहिचानत ।",
+        "सो तूं साक्षी चेतन सार, सब घट तेरा बाजत बाजा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapne Ko Jo Jaanat, Sushupti Ko Bhi Jo Pahichaanat.",
+        "So Tu Saakshi Chetan Saar, Sab Ghat Teraa Baajat Baajaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुन गुरु का ज्ञाना, मिटिया मेरा भ्रम अज्ञाना ।",
+        "जाऊँ सद्‌गुरु पै बलिहार, जिसने कीना पूर्ण काजा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sun Guru Kaa Jnyaanaa, Mitiyaa Meraa Bhram Ajnyaanaa.",
+        "Jaaun Sad‌Guru Pai Balihaar, Jisne Kinaa Purn Kaajaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सवपने सम है यह सनसार, मुझको कहा गुरु महराजा (टेक)."
+      "जैसे स्वप्ना मिथ्या भासे, तैसे झूठा जग प्रकाशे ।",
+      "दोनों को तुम जान असार, उभय स्मृती रूप अकाजा ॥१ ॥"
     ],
     [
-      "जैसे सवपना मिथया भासे, तैसे झुथा जग परकाशे.",
-      "दोनोन को तुम जान सार, ुभय समरिति रुप काजा.1 ||."
+      "दृढ़ भावना करके मन में, सुख दुख मानत तूं आपन में ।",
+      "जीव वासना के अनुसार, देखत हो तुम द्वन्द्र समाजा ॥२ ॥"
     ],
     [
-      "दरिरह भावना करके मन मेन, सुख दुःख मानत तु ापन मेन.",
-      "जिव वासना के नुसार, देखत हो तुम दवनदर समाजा || 2 ||."
+      "जाग्रत स्वप्ने को जो जानत, सुषुप्ति को भी जो पहिचानत ।",
+      "सो तूं साक्षी चेतन सार, सब घट तेरा बाजत बाजा ॥३ ॥"
     ],
     [
-      "जागरत सवपने को जो जानत, सुशुपति को भि जो पहिचानत.",
-      "सो तु साक्षी चेतन सार, सब घत तेरा बाजत बाजा ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ सुन गुरु का जनयाना, मितिया मेरा भरम जनयाना.",
-      "जाुन सद्गुरु पै बलिहार, जिसने किना पुरन काजा || 4 ||."
+      "कहे टेऊँ सुन गुरु का ज्ञाना, मिटिया मेरा भ्रम अज्ञाना ।",
+      "जाऊँ सद्‌गुरु पै बलिहार, जिसने कीना पूर्ण काजा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Svapne Sam Hai Yah Sansaar, Mujhko Kahaa Guru Mahraajaa (Tek)."
-    ],
-    [
       "Jaise Svapnaa Mithyaa Bhaase, Taise Jhuthaa Jag Prakaashe.",
-      "Donon Ko Tum Jaan Asaar, Ubhay Smriti Rup Akaajaa.1 ||."
+      "Donon Ko Tum Jaan Asaar, Ubhay Smriti Rup Akaajaa || 1 ||"
     ],
     [
       "Drirh Bhaavnaa Karke Man Men, Sukh Dukh Maanat Tu Aapan Men.",
-      "Jiv Vaasnaa Ke Anusaar, Dekhat Ho Tum Dvandr Samaajaa || 2 ||."
+      "Jiv Vaasnaa Ke Anusaar, Dekhat Ho Tum Dvandr Samaajaa || 2 ||"
     ],
     [
       "Jaagrat Svapne Ko Jo Jaanat, Sushupti Ko Bhi Jo Pahichaanat.",
-      "So Tu Saakshi Chetan Saar, Sab Ghat Teraa Baajat Baajaa ||.3. ||."
+      "So Tu Saakshi Chetan Saar, Sab Ghat Teraa Baajat Baajaa || 3 ||"
     ],
     [
       "Kahe Teun Sun Guru Kaa Jnyaanaa, Mitiyaa Meraa Bhram Ajnyaanaa.",
-      "Jaaun Sad‌Guru Pai Balihaar, Jisne Kinaa Purn Kaajaa || 4 ||."
+      "Jaaun Sad‌Guru Pai Balihaar, Jisne Kinaa Purn Kaajaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 43 || 873 ||",
+    "स्वप्ने सम है यह संसार, मुझको कहा गुरू महराजा",
     "Svapne Sam Hai Yah Sansaar, Mujhko Kahaa Guru Mahraajaa",
-    "सवपने सम है यह सनसार, मुझको कहा गुरु महराजा"
+    "राग जोग भजन 43",
+    "Raag Jog Bhajan 43"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 873,
+  "displayOrder": 43,
+  "overallOrder": 871,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 460",
+  "updatedAt": "2026-10-26"
 }

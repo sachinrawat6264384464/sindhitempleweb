@@ -1,119 +1,167 @@
 {
-  "id": "bhajan-0723",
+  "id": "bhajan-0721",
   "slug": "mere-uttam-jijnyaasi-aap-baat-svarup-ki-suno",
   "categoryId": "raag-pahaari",
-  "title": "मेरे ुततम जिजनयासि ाप, बात सवरुप कि सुनो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मेरे उत्तम जिज्ञासी आप, बात स्वरूप की सुनो",
   "romanTitle": "Mere Uttam Jijnyaasi Aap, Baat Svarup Ki Suno",
   "firstLine": "Mere Uttam Jijnyaasi Aap, Baat Svarup Ki Suno (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ७४ ।। ७२२॥।",
+  "tek": [
+    "मेरे उत्तम जिज्ञासी आप, बात स्वरूप की सुनो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Uttam Jijnyaasi Aap, Baat Svarup Ki Suno (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "विषय कथन की ना है साखी, कथन रहित निज रूप है ।",
+        "मन बुद्धि वाणी लखे न तांको, अनुभव रूप अनूप है ।",
+        "उस छुए न को वर शाप ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vishay Kathan Ki Naa Hai Saakhi, Kathan Rahit Nij Rup Hai.",
+        "Man Buddhi Vaani Lakhe Na Taanko, Anubhav Rup Anup Hai.",
+        "Us Chhue Na Ko Var Shaap || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अचरज कहना अचरज सुनना, अचरज उसका सोचना ।",
+        "अचरज महिमा अचरज उपमा, अचरज उसका लोचना ।",
+        "सो अचरज रूप अजाप ॥? ॥",
+        "कारण कार्य का गुण कोई, परस सके ना एक तां ।",
+        "वेद शास्त्र पुराण स्मृती, जान सके नहिं नेक तां ।",
+        "सो निलेपी निष्पाप ॥३ ॥"
+      ],
+      "romanLines": [
+        "Achraj Kahnaa Achraj Sunnaa, Achraj Uskaa Sochnaa.",
+        "Achraj Mahimaa Achraj Upmaa, Achraj Uskaa Lochnaa.",
+        "So Achraj Rup Ajaap || ? ||",
+        "Kaaran Kaary Kaa Gun Koi, Paras Sake Naa Ek Taan.",
+        "Ved Shaastr Puraan Smriti, Jaan Sake Nahin Nek Taan.",
+        "So Nilepi Nishpaap || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन की मैं से मन की मैं से, बुद्धि की मैं से हीन सो ।",
+        "ज़ाति पाति कुल वर्ण धर्म की, मैं से निपट विहीन सो ।",
+        "सो बिन माई बिन बाप ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tan Ki Main Se Man Ki Main Se, Buddhi Ki Main Se Hin So.",
+        "Zaati Paati Kul Varn Dharm Ki, Main Se Nipat Vihin So.",
+        "So Bin Maai Bin Baap || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अपने को वह आपहिं जाने, और न जाननहार तां ।",
+        "अपने को वह आप ही देखे, और न देखनहार तां ।",
+        "सो आत्म अलख अमाप ॥५ ॥"
+      ],
+      "romanLines": [
+        "Apne Ko Vah Aaphin Jaane, Aur Na Jaannahaar Taan.",
+        "Apne Ko Vah Aap Hi Dekhe, Aur Na Dekhnahaar Taan.",
+        "So Aatm Alakh Amaap || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ब्रह्म रूप से भिन्न न साक्षी, तेरा ब्रह्म स्वरूप है ।",
+        "कहे टेऊँ लख गुरु कृपा से, पूर्ण अगम अरूप है ।",
+        "सो निई्डन्द्वा निस्ताप ॥६ ॥"
+      ],
+      "romanLines": [
+        "Brahm Rup Se Bhinn Na Saakshi, Teraa Brahm Svarup Hai.",
+        "Kahe Teun Lakh Guru Kripaa Se, Purn Agam Arup Hai.",
+        "So Niidandvaa Nistaap || 6 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे ुततम जिजनयासि ाप, बात सवरुप कि सुनो (टेक)."
+      "विषय कथन की ना है साखी, कथन रहित निज रूप है ।",
+      "मन बुद्धि वाणी लखे न तांको, अनुभव रूप अनूप है ।",
+      "उस छुए न को वर शाप ॥१ ॥"
     ],
     [
-      "विशय कथन कि ना है साखि, कथन रहित निज रुप है.",
-      "मन बुदधि वाणी लखे न तानको, नुभव रुप नुप है."
+      "अचरज कहना अचरज सुनना, अचरज उसका सोचना ।",
+      "अचरज महिमा अचरज उपमा, अचरज उसका लोचना ।",
+      "सो अचरज रूप अजाप ॥? ॥",
+      "कारण कार्य का गुण कोई, परस सके ना एक तां ।",
+      "वेद शास्त्र पुराण स्मृती, जान सके नहिं नेक तां ।",
+      "सो निलेपी निष्पाप ॥३ ॥"
     ],
     [
-      "ुस चहुे न को वर शाप || 1 ||"
+      "तन की मैं से मन की मैं से, बुद्धि की मैं से हीन सो ।",
+      "ज़ाति पाति कुल वर्ण धर्म की, मैं से निपट विहीन सो ।",
+      "सो बिन माई बिन बाप ॥४ ॥"
     ],
     [
-      "चरज कहना चरज सुनना, चरज ुसका सोचना.",
-      "चरज महिमा चरज ुपमा, चरज ुसका लोचना."
+      "अपने को वह आपहिं जाने, और न जाननहार तां ।",
+      "अपने को वह आप ही देखे, और न देखनहार तां ।",
+      "सो आत्म अलख अमाप ॥५ ॥"
     ],
     [
-      "सो चरज रुप जाप ||? ||",
-      "कारन कारय का गुन कोि, परस सके ना ेक तान."
-    ],
-    [
-      "वेद शासतर पुरान समरिति, जान सके नहिन नेक तान.",
-      "सो निलेपि निशपाप || 3 ||"
-    ],
-    [
-      "तन कि मैं से मन कि मैं से, बुदधि कि मैं से हिन सो.",
-      "zाति पाति कुल वरन धरम कि, मैं से निपत विहिन सो."
-    ],
-    [
-      "सो बिन माि बिन बाप || 4 ||"
-    ],
-    [
-      "पने को वह ाफिन जाने, ौर न जाननहार तान.",
-      "पने को वह ाप हि देखे, ौर न देखनहार तान."
-    ],
-    [
-      "सो ातम लख माप || 5 ||"
-    ],
-    [
-      "बरहम रुप से भिनन न साक्षी, तेरा बरहम सवरुप है.",
-      "कहे तेऊँ लख गुरु कृपा से, पुरन गम रुप है."
-    ],
-    [
-      "सो नीदनदवा निसताप || 6 ||."
-    ],
-    [
-      "तन"
+      "ब्रह्म रूप से भिन्न न साक्षी, तेरा ब्रह्म स्वरूप है ।",
+      "कहे टेऊँ लख गुरु कृपा से, पूर्ण अगम अरूप है ।",
+      "सो निई्डन्द्वा निस्ताप ॥६ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Uttam Jijnyaasi Aap, Baat Svarup Ki Suno (Tek)."
-    ],
-    [
       "Vishay Kathan Ki Naa Hai Saakhi, Kathan Rahit Nij Rup Hai.",
-      "Man Buddhi Vaani Lakhe N Taanko, Anubhav Rup Anup Hai."
-    ],
-    [
-      "Us Chhue N Ko Var Shaap || 1 ||"
+      "Man Buddhi Vaani Lakhe Na Taanko, Anubhav Rup Anup Hai.",
+      "Us Chhue Na Ko Var Shaap || 1 ||"
     ],
     [
       "Achraj Kahnaa Achraj Sunnaa, Achraj Uskaa Sochnaa.",
-      "Achraj Mahimaa Achraj Upmaa, Achraj Uskaa Lochnaa."
-    ],
-    [
-      "So Achraj Rup Ajaap ||? ||",
-      "Kaaran Kaary Kaa Gun Koi, Paras Sake Naa Ek Taan."
-    ],
-    [
+      "Achraj Mahimaa Achraj Upmaa, Achraj Uskaa Lochnaa.",
+      "So Achraj Rup Ajaap || ? ||",
+      "Kaaran Kaary Kaa Gun Koi, Paras Sake Naa Ek Taan.",
       "Ved Shaastr Puraan Smriti, Jaan Sake Nahin Nek Taan.",
       "So Nilepi Nishpaap || 3 ||"
     ],
     [
       "Tan Ki Main Se Man Ki Main Se, Buddhi Ki Main Se Hin So.",
-      "Zaati Paati Kul Varn Dharm Ki, Main Se Nipat Vihin So."
-    ],
-    [
+      "Zaati Paati Kul Varn Dharm Ki, Main Se Nipat Vihin So.",
       "So Bin Maai Bin Baap || 4 ||"
     ],
     [
-      "Apne Ko Vah Aaphin Jaane, Aur N Jaannahaar Taan.",
-      "Apne Ko Vah Aap Hi Dekhe, Aur N Dekhnahaar Taan."
-    ],
-    [
+      "Apne Ko Vah Aaphin Jaane, Aur Na Jaannahaar Taan.",
+      "Apne Ko Vah Aap Hi Dekhe, Aur Na Dekhnahaar Taan.",
       "So Aatm Alakh Amaap || 5 ||"
     ],
     [
-      "Brahm Rup Se Bhinn N Saakshi, Teraa Brahm Svarup Hai.",
-      "Kahe Teun Lakh Guru Kripaa Se, Purn Agam Arup Hai."
-    ],
-    [
-      "So Niidandvaa Nistaap || 6 ||."
-    ],
-    [
-      "Tan"
+      "Brahm Rup Se Bhinn Na Saakshi, Teraa Brahm Svarup Hai.",
+      "Kahe Teun Lakh Guru Kripaa Se, Purn Agam Arup Hai.",
+      "So Niidandvaa Nistaap || 6 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 74 || 722 ||.",
+    "मेरे उत्तम जिज्ञासी आप, बात स्वरूप की सुनो",
     "Mere Uttam Jijnyaasi Aap, Baat Svarup Ki Suno",
-    "मेरे ुततम जिजनयासि ाप, बात सवरुप कि सुनो"
+    "राग पहाड़ी भजन 74",
+    "Raag Pahaari Bhajan 74"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 723,
+  "displayOrder": 74,
+  "overallOrder": 721,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 383",
+  "updatedAt": "2026-10-26"
 }

@@ -2,70 +2,130 @@
   "id": "bhajan-0117",
   "slug": "aatam-kaa-didaar-hai-sab-aatam-kaa-didaar",
   "categoryId": "raag-aasaa",
-  "title": "ातम का दिदार है सब, ातम का दिदार",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "आतम का दीदार है सब, आतम का दीदार",
   "romanTitle": "Aatam Kaa Didaar Hai Sab, Aatam Kaa Didaar",
   "firstLine": "Aatam Kaa Didaar Hai Sab, Aatam Kaa Didaar (Tek).",
+  "heading": "।। राग आसा भजन ।। ५५ ।। ११७।।",
+  "tek": [
+    "आतम का दीदार है सब, आतम का दीदार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aatam Kaa Didaar Hai Sab, Aatam Kaa Didaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम रूप सब आतम जानो, रंचक इसमें शडड न आनो ।",
+        "आतम ते भिन्न कछु न पछानो, आतम मय संसार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Rup Sab Aatam Jaano, Ranchak Ismen Shadad Na Aano.",
+        "Aatam Te Bhinn Kachhu Na Pachhaano, Aatam May Sansaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आतम धरणी आतम घट है, आतम सूत्र आतम पट है ।",
+        "आतम बाज़ी आतम नट है, आतम अग्नि अड्लार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aatam Dharni Aatam Ghat Hai, Aatam Sutr Aatam Pat Hai.",
+        "Aatam Baazi Aatam Nat Hai, Aatam Agni Adlaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आतम है ठाकुर पूजारी, आतम है दाता भीखारी ।",
+        "आतम नर है आतम नारी, सब आतम आकार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aatam Hai Thaakur Pujaari, Aatam Hai Daataa Bhikhaari.",
+        "Aatam Nar Hai Aatam Naari, Sab Aatam Aakaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शरणी जाओ, आतम दृष्टी तांसे पाओ ।",
+        "भेद हरे सुख सहज समाओ, पाओ मोक्ष द्वार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharni Jaao, Aatam Drishti Taanse Paao.",
+        "Bhed Hare Sukh Sahaj Samaao, Paao Moksh Dvaar || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ठो"
+      ],
+      "romanLines": [
+        "Ththo"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ातम का दिदार है सब, ातम का दिदार (टेक)."
+      "नाम रूप सब आतम जानो, रंचक इसमें शडड न आनो ।",
+      "आतम ते भिन्न कछु न पछानो, आतम मय संसार ॥१ ॥"
     ],
     [
-      "नाम रुप सब ातम जानो, रनचक िसमेन शदद न ानो.",
-      "ातम ते भिनन कचहु न पचहानो, ातम मय सनसार.1 ||."
+      "आतम धरणी आतम घट है, आतम सूत्र आतम पट है ।",
+      "आतम बाज़ी आतम नट है, आतम अग्नि अड्लार ॥२ ॥"
     ],
     [
-      "ातम धरनि ातम घत है, ातम सुतर ातम पत है.",
-      "ातम बाzि ातम नत है, ातम गनि दलार || 2 ||."
+      "आतम है ठाकुर पूजारी, आतम है दाता भीखारी ।",
+      "आतम नर है आतम नारी, सब आतम आकार ॥३ ॥"
     ],
     [
-      "ातम है थाकुर पुजारि, ातम है दाता भिखारि.",
-      "ातम नर है ातम नारि, सब ातम ाकार ||.3 ||."
+      "कहे टेऊँ गुरु शरणी जाओ, आतम दृष्टी तांसे पाओ ।",
+      "भेद हरे सुख सहज समाओ, पाओ मोक्ष द्वार ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु शरनि जाो, ातम दरिशति तानसे पाो.",
-      "भेद हरे सुख सहज समाो, पाो मोक्ष दवार.4 ||"
-    ],
-    [
-      "थथो"
+      "ठ्ठो"
     ]
   ],
   "romanLyrics": [
     [
-      "Aatam Kaa Didaar Hai Sab, Aatam Kaa Didaar (Tek)."
-    ],
-    [
-      "Naam Rup Sab Aatam Jaano, Ranchak Ismen Shadad N Aano.",
-      "Aatam Te Bhinn Kachhu N Pachhaano, Aatam May Sansaar.1 ||."
+      "Naam Rup Sab Aatam Jaano, Ranchak Ismen Shadad Na Aano.",
+      "Aatam Te Bhinn Kachhu Na Pachhaano, Aatam May Sansaar || 1 ||"
     ],
     [
       "Aatam Dharni Aatam Ghat Hai, Aatam Sutr Aatam Pat Hai.",
-      "Aatam Baazi Aatam Nat Hai, Aatam Agni Adlaar || 2 ||."
+      "Aatam Baazi Aatam Nat Hai, Aatam Agni Adlaar || 2 ||"
     ],
     [
       "Aatam Hai Thaakur Pujaari, Aatam Hai Daataa Bhikhaari.",
-      "Aatam Nar Hai Aatam Naari, Sab Aatam Aakaar ||.3 ||."
+      "Aatam Nar Hai Aatam Naari, Sab Aatam Aakaar || 3 ||"
     ],
     [
       "Kahe Teun Guru Sharni Jaao, Aatam Drishti Taanse Paao.",
-      "Bhed Hare Sukh Sahaj Samaao, Paao Moksh Dvaar.4 ||"
+      "Bhed Hare Sukh Sahaj Samaao, Paao Moksh Dvaar || 4 ||"
     ],
     [
       "Ththo"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 55 || 117 ||",
+    "आतम का दीदार है सब, आतम का दीदार",
     "Aatam Kaa Didaar Hai Sab, Aatam Kaa Didaar",
-    "ातम का दिदार है सब, ातम का दिदार"
+    "राग आसा भजन 55",
+    "Raag Aasaa Bhajan 55"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 117,
+  "displayOrder": 55,
+  "overallOrder": 117,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 84",
+  "updatedAt": "2026-10-26"
 }

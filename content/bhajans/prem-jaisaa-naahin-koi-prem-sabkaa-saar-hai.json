@@ -2,33 +2,71 @@
   "id": "bhajan-0177",
   "slug": "prem-jaisaa-naahin-koi-prem-sabkaa-saar-hai",
   "categoryId": "raag-vihaag",
-  "title": "प्रेम जैसा नाहिन कोि, प्रेम सबका सार है",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "प्रेम जैसा नाहिं कोई, प्रेम सबका सार है",
   "romanTitle": "Prem Jaisaa Naahin Koi, Prem Sabkaa Saar Hai",
   "firstLine": "Prem Jaisaa Naahin Koi, Prem Sabkaa Saar Hai (Tek).",
+  "heading": "।। राग विहाग भजन ।। १९ ।। १७७।।",
+  "tek": [
+    "प्रेम जैसा नाहिं कोई, प्रेम सबका सार है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prem Jaisaa Naahin Koi, Prem Sabkaa Saar Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मनुष वा हैवान राक्षस प्रेत पंछी देवता ।",
+        "प्रेम सब हैरान कीये, वेद पुराण पुकार है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Manush Vaa Haivaan Raakshas Pret Panchhi Devtaa.",
+        "Prem Sab Hairaan Kiye, Ved Puraan Pukaar Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बहुत आकिल इलम वाले चतुर पण्डित धीर जे ।",
+        "प्रेम सब परेशान कीये , फिरत ज्यों मतवार है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bahut Aakil Ilam Vaale Chatur Pandit Dhir Je.",
+        "Prem Sab Pareshaan Kiye, Phirat Jyon Matvaar Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहत टेऊँ प्रेम आगे ज़ोर किसका ना चले ।",
+        "प्रेम सबको बान्ध लेता, प्रेम जग आधार है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Prem Aage Zor Kiskaa Naa Chale.",
+        "Prem Sabko Baandh Letaa, Prem Jag Aadhaar Hai || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रेम जैसा नाहिन कोि, प्रेम सबका सार है (टेक)."
+      "मनुष वा हैवान राक्षस प्रेत पंछी देवता ।",
+      "प्रेम सब हैरान कीये, वेद पुराण पुकार है ॥१ ॥"
     ],
     [
-      "मनुश वा हैवान राकशस परेत पनचहि देवता.",
-      "प्रेम सब हैरान किये, वेद पुरान पुकार है || 1. ||."
+      "बहुत आकिल इलम वाले चतुर पण्डित धीर जे ।",
+      "प्रेम सब परेशान कीये , फिरत ज्यों मतवार है ॥२ ॥"
     ],
     [
-      "बहुत ाकिल िलम वाले चतुर पनदित धिर जे.",
-      "प्रेम सब परेशान किये, फिरत जयोन मतवार है || 2 ||"
-    ],
-    [
-      "कहत तेऊँ प्रेम ागे zोर किसका ना चले.",
-      "प्रेम सबको बानध लेता, प्रेम जग ाधार है || 3 ||"
+      "कहत टेऊँ प्रेम आगे ज़ोर किसका ना चले ।",
+      "प्रेम सबको बान्ध लेता, प्रेम जग आधार है ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prem Jaisaa Naahin Koi, Prem Sabkaa Saar Hai (Tek)."
-    ],
-    [
       "Manush Vaa Haivaan Raakshas Pret Panchhi Devtaa.",
-      "Prem Sab Hairaan Kiye, Ved Puraan Pukaar Hai || 1. ||."
+      "Prem Sab Hairaan Kiye, Ved Puraan Pukaar Hai || 1 ||"
     ],
     [
       "Bahut Aakil Ilam Vaale Chatur Pandit Dhir Je.",
@@ -40,18 +78,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 19 || 177 ||",
+    "प्रेम जैसा नाहिं कोई, प्रेम सबका सार है",
     "Prem Jaisaa Naahin Koi, Prem Sabkaa Saar Hai",
-    "प्रेम जैसा नाहिन कोि, प्रेम सबका सार है"
+    "राग विहाग भजन 19",
+    "Raag Vihaag Bhajan 19"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 177,
+  "displayOrder": 19,
+  "overallOrder": 177,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 118",
+  "updatedAt": "2026-10-26"
 }

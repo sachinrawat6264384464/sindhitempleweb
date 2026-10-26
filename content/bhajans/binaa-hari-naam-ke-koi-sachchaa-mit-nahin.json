@@ -1,59 +1,104 @@
 {
-  "id": "bhajan-0702",
+  "id": "bhajan-0700",
   "slug": "binaa-hari-naam-ke-koi-sachchaa-mit-nahin",
   "categoryId": "raag-pahaari",
-  "title": "बिना हरि नाम के, कोि सचचा मित नहिन",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "बिना हरी नाम के, कोई सच्चा मीत नहीं",
   "romanTitle": "Binaa Hari Naam Ke, Koi Sachchaa Mit Nahin",
-  "firstLine": "Binaa Hari Naam Ke, Koi Sachchaa Mit Nahin. Naam Binaa Haar Gaye, Hoi Kiski Jit Nahin (Tek).",
+  "firstLine": "Binaa Hari Naam Ke, Koi Sachchaa Mit Nahin.",
+  "heading": "।। राग पहाड़ी भजन ।। ५३ ।। ७०१॥।",
+  "tek": [
+    "बिना हरी नाम के, कोई सच्चा मीत नहीं ।",
+    "नाम बिना हार गये, होई किसकी जीत नहीं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Binaa Hari Naam Ke, Koi Sachchaa Mit Nahin.",
+    "Naam Binaa Haar Gaye, Hoi Kiski Jit Nahin (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "स्वार्थ के मात तात दारा सुत श्रात हैं,",
+        "बिन स्वार्थ कोई पूछत न बात है ।",
+        "सोच कर देखो साची, जग की प्रीति नहीं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Ke Maat Taat Daaraa Sut Shraat Hain,",
+        "Bin Svaarth Koi Puchhat Na Baat Hai.",
+        "Soch Kar Dekho Saachi, Jag Ki Priti Nahin || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जब धन देखे सब कहे मेरा यार है,",
+        "बिना धन वाले का तो इक कर्तार है ।",
+        "बिना मतलब कोई, राखे प्रतीति नहीं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jab Dhan Dekhe Sab Kahe Meraa Yaar Hai,",
+        "Binaa Dhan Vaale Kaa To Ik Kartaar Hai.",
+        "Binaa Matlab Koi, Raakhe Pratiti Nahin || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ तांते तुम हरि से लगन लाओ,",
+        "अन्त जो सहाय करे ताहिं उर में बसाओ ।",
+        "पाओ निर्भय पद, लागे कछु भीत नहीं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taante Tum Hari Se Lagan Laao,",
+        "Ant Jo Sahaay Kare Taahin Ur Men Basaao.",
+        "Paao Nirbhay Pad, Laage Kachhu Bhit Nahin || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द्दह"
+      ],
+      "romanLines": [
+        "Ddah"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बिना हरि नाम के, कोि सचचा मित नहिन.",
-      "नाम बिना हार गये, होि किसकि जित नहिन (टेक)."
-    ],
-    [
-      "सवारथ के मात तात दारा सुत शरात हैन,",
-      "बिन सवारथ कोि पुचहत न बात है."
-    ],
-    [
-      "सोच कर देखो साचि, जग कि परिति नहिन || 1 ||"
+      "स्वार्थ के मात तात दारा सुत श्रात हैं,",
+      "बिन स्वार्थ कोई पूछत न बात है ।",
+      "सोच कर देखो साची, जग की प्रीति नहीं ॥१ ॥"
     ],
     [
       "जब धन देखे सब कहे मेरा यार है,",
-      "बिना धन वाले का तो िक करतार है."
+      "बिना धन वाले का तो इक कर्तार है ।",
+      "बिना मतलब कोई, राखे प्रतीति नहीं ॥२ ॥"
     ],
     [
-      "बिना मतलब कोि, राखे परतिति नहिन ||.2 ||",
-      "कहे तेऊँ तानते तुम हरि से लगन लाो,"
+      "कहे टेऊँ तांते तुम हरि से लगन लाओ,",
+      "अन्त जो सहाय करे ताहिं उर में बसाओ ।",
+      "पाओ निर्भय पद, लागे कछु भीत नहीं ॥३ ॥"
     ],
     [
-      "नत जो सहाय करे ताहिन ुर मेन बसाो.",
-      "पाो निरभय पद, लागे कचहु भित नहिन || 3 ||"
-    ],
-    [
-      "ददह"
+      "द्दह"
     ]
   ],
   "romanLyrics": [
     [
-      "Binaa Hari Naam Ke, Koi Sachchaa Mit Nahin.",
-      "Naam Binaa Haar Gaye, Hoi Kiski Jit Nahin (Tek)."
-    ],
-    [
       "Svaarth Ke Maat Taat Daaraa Sut Shraat Hain,",
-      "Bin Svaarth Koi Puchhat N Baat Hai."
-    ],
-    [
+      "Bin Svaarth Koi Puchhat Na Baat Hai.",
       "Soch Kar Dekho Saachi, Jag Ki Priti Nahin || 1 ||"
     ],
     [
       "Jab Dhan Dekhe Sab Kahe Meraa Yaar Hai,",
-      "Binaa Dhan Vaale Kaa To Ik Kartaar Hai."
+      "Binaa Dhan Vaale Kaa To Ik Kartaar Hai.",
+      "Binaa Matlab Koi, Raakhe Pratiti Nahin || 2 ||"
     ],
     [
-      "Binaa Matlab Koi, Raakhe Pratiti Nahin ||.2 ||",
-      "Kahe Teun Taante Tum Hari Se Lagan Laao,"
-    ],
-    [
+      "Kahe Teun Taante Tum Hari Se Lagan Laao,",
       "Ant Jo Sahaay Kare Taahin Ur Men Basaao.",
       "Paao Nirbhay Pad, Laage Kachhu Bhit Nahin || 3 ||"
     ],
@@ -62,19 +107,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 53 || 701 ||.",
+    "बिना हरी नाम के, कोई सच्चा मीत नहीं",
     "Binaa Hari Naam Ke, Koi Sachchaa Mit Nahin",
-    "बिना हरि नाम के, कोि सचचा मित नहिन"
+    "राग पहाड़ी भजन 53",
+    "Raag Pahaari Bhajan 53"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 702,
+  "displayOrder": 53,
+  "overallOrder": 700,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 372",
+  "updatedAt": "2026-10-26"
 }

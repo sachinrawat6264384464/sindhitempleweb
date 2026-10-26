@@ -2,57 +2,96 @@
   "id": "bhajan-0005",
   "slug": "satguru-daan-de-svaami-daan-de",
   "categoryId": "raag-bhairav",
-  "title": "सतगुरु दान दे, स्वामी दान दे",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "सत्‌गुरु दान दे, स्वामी दान दे",
   "romanTitle": "Sat‌Guru Daan De, Svaami Daan De",
   "firstLine": "Sat‌Guru Daan De, Svaami Daan De (Tek).",
+  "heading": "।। राग भैरव भजन ।। ५ ॥।",
+  "tek": [
+    "सत्‌गुरु दान दे, स्वामी दान दे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Daan De, Svaami Daan De (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नाम दान दे सत्‌गुरु साईं और नहीं मुझ आसा ।",
+        "नाम तुम्हारा तेग धार ज्यों काटे जम की फासा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naam Daan De Sat‌Guru Saain Aur Nahin Mujh Aasaa.",
+        "Naam Tumhaaraa Teg Dhaar Jyon Kaate Jam Ki Phaasaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मैत्री करुणा मुदिता आदिक शान्ति शक्ति पुनि दीजे ।",
+        "सत्संग शुभमति ज्ञान ध्यान अरु प्रेम भगति मन भीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maitri Karunaa Muditaa Aadik Shaanti Shakti Puni Dije.",
+        "Satsang Shubhmati Gyaan Dhyaan Aru Prem Bhagti Man Bhije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ मांगत हूँ यह सत्य धर्म चित्त लागे ।",
+        "राम नाम में लगन लगे नित भेद भ्रम भय भागे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Maangat Hun Yah Saty Dharm Chitt Laage.",
+        "Raam Naam Men Lagan Lage Nit Bhed Bhram Bhay Bhaage || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु दान दे, स्वामी दान दे (टेक)."
+      "नाम दान दे सत्‌गुरु साईं और नहीं मुझ आसा ।",
+      "नाम तुम्हारा तेग धार ज्यों काटे जम की फासा ॥१ ॥"
     ],
     [
-      "नाम दान दे सतगुरु सािन ौर नहिन मुझ ासा.",
-      "नाम तुमहारा तेग धार जयोन काते जम कि फासा ||.1 ||"
+      "मैत्री करुणा मुदिता आदिक शान्ति शक्ति पुनि दीजे ।",
+      "सत्संग शुभमति ज्ञान ध्यान अरु प्रेम भगति मन भीजे ॥२ ॥"
     ],
     [
-      "मैतरि करुना मुदिता ादिक शांति शकति पुनि दिजे.",
-      "सत्संग शुभमति ज्ञान ध्यान रु प्रेम भगति मन भिजे || 2 ||"
-    ],
-    [
-      "कहता तेऊँ मानगत हुन यह सतय धरम चितत लागे.",
-      "राम नाम मेन लगन लगे नित भेद भरम भय भागे || 3े ||"
+      "कहता टेऊँ मांगत हूँ यह सत्य धर्म चित्त लागे ।",
+      "राम नाम में लगन लगे नित भेद भ्रम भय भागे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Daan De, Svaami Daan De (Tek)."
-    ],
-    [
       "Naam Daan De Sat‌Guru Saain Aur Nahin Mujh Aasaa.",
-      "Naam Tumhaaraa Teg Dhaar Jyon Kaate Jam Ki Phaasaa ||.1 ||"
+      "Naam Tumhaaraa Teg Dhaar Jyon Kaate Jam Ki Phaasaa || 1 ||"
     ],
     [
       "Maitri Karunaa Muditaa Aadik Shaanti Shakti Puni Dije.",
-      "Satsang Shubhmati Jnyaan Dhyaan Aru Prem Bhagti Man Bhije || 2 ||"
+      "Satsang Shubhmati Gyaan Dhyaan Aru Prem Bhagti Man Bhije || 2 ||"
     ],
     [
       "Kahtaa Teun Maangat Hun Yah Saty Dharm Chitt Laage.",
-      "Raam Naam Men Lagan Lage Nit Bhed Bhram Bhay Bhaage || 3E ||"
+      "Raam Naam Men Lagan Lage Nit Bhed Bhram Bhay Bhaage || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairav Bhajan || 5 ||.",
+    "सत्‌गुरु दान दे, स्वामी दान दे",
     "Sat‌Guru Daan De, Svaami Daan De",
-    "सतगुरु दान दे, स्वामी दान दे"
+    "राग भैरव भजन 5",
+    "Raag Bhairav Bhajan 5"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 5,
+  "overallOrder": 5,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 28",
+  "updatedAt": "2026-10-26"
 }

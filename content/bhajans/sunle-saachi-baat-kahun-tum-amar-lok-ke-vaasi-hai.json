@@ -1,59 +1,115 @@
 {
-  "id": "bhajan-0450",
+  "id": "bhajan-0449",
   "slug": "sunle-saachi-baat-kahun-tum-amar-lok-ke-vaasi-hai",
   "categoryId": "raag-tilang",
-  "title": "सुनले साचि बात कहुन तुम, मर लोक के वासि है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सुनले साची बात कहूं तुम, अमर लोक के वासी है",
   "romanTitle": "Sunle Saachi Baat Kahun Tum, Amar Lok Ke Vaasi Hai",
   "firstLine": "Sunle Saachi Baat Kahun Tum, Amar Lok Ke Vaasi Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८६ ।। ४५०।।",
+  "tek": [
+    "सुनले साची बात कहूं तुम, अमर लोक के वासी है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sunle Saachi Baat Kahun Tum, Amar Lok Ke Vaasi Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भली भान्ति मैं जानत हूँ तुम, चेतन चिद आकाशी है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhali Bhaanti Main Jaanat Hun Tum, Chetan Chid Aakaashi Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाम वर्ण नहिं ज़ाति तुम्हारी , तुम तो अज अविनाशी है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naam Varn Nahin Zaati Tumhaari, Tum To Aj Avinaashi Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अपनी इच्छा से तुम आये, अब क्यों भया उदासी है ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Apni Ichchhaa Se Tum Aaye, Ab Kyon Bhayaa Udaasi Hai || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तुझ में दुख तो रंचक नाहीं, आनन्द की तुम राशी है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tujh Men Dukh To Ranchak Naahin, Aanand Ki Tum Raashi Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ निज रूप पछानो, तुम तो स्वयं प्रकाशी है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nij Rup Pachhaano, Tum To Svayan Prakaashi Hai || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनले साचि बात कहुन तुम, मर लोक के वासि है (टेक)."
+      "भली भान्ति मैं जानत हूँ तुम, चेतन चिद आकाशी है ॥१ ॥"
     ],
     [
-      "भलि भानति मैं जानत हुन तुम, चेतन चिद ाकाशि है || 1 ||."
+      "नाम वर्ण नहिं ज़ाति तुम्हारी , तुम तो अज अविनाशी है ॥२ ॥"
     ],
     [
-      "नाम वरन नहिन zाति तुमहारि, तुम तो ज अविनाशी है || 2 ||."
+      "अपनी इच्छा से तुम आये, अब क्यों भया उदासी है ॥ ३े ॥"
     ],
     [
-      "पनि िचचहा से तुम ाये, ब कयोन भया ुदासि है || 3े ||",
-      "तुझ मेन दुःख तो रनचक नाहिन, आनंद कि तुम राशि है || 4. ||."
+      "तुझ में दुख तो रंचक नाहीं, आनन्द की तुम राशी है ॥४ ॥"
     ],
     [
-      "कहे तेऊँ निज रुप पचहानो, तुम तो सवयन परकाशि है || 5 ||"
+      "कहे टेऊँ निज रूप पछानो, तुम तो स्वयं प्रकाशी है ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sunle Saachi Baat Kahun Tum, Amar Lok Ke Vaasi Hai (Tek)."
+      "Bhali Bhaanti Main Jaanat Hun Tum, Chetan Chid Aakaashi Hai || 1 ||"
     ],
     [
-      "Bhali Bhaanti Main Jaanat Hun Tum, Chetan Chid Aakaashi Hai || 1 ||."
+      "Naam Varn Nahin Zaati Tumhaari, Tum To Aj Avinaashi Hai || 2 ||"
     ],
     [
-      "Naam Varn Nahin Zaati Tumhaari, Tum To Aj Avinaashi Hai || 2 ||."
+      "Apni Ichchhaa Se Tum Aaye, Ab Kyon Bhayaa Udaasi Hai || 3E ||"
     ],
     [
-      "Apni Ichchhaa Se Tum Aaye, Ab Kyon Bhayaa Udaasi Hai || 3E ||",
-      "Tujh Men Dukh To Ranchak Naahin, Aanand Ki Tum Raashi Hai || 4. ||."
+      "Tujh Men Dukh To Ranchak Naahin, Aanand Ki Tum Raashi Hai || 4 ||"
     ],
     [
       "Kahe Teun Nij Rup Pachhaano, Tum To Svayan Prakaashi Hai || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 86 || 450 ||",
+    "सुनले साची बात कहूं तुम, अमर लोक के वासी है",
     "Sunle Saachi Baat Kahun Tum, Amar Lok Ke Vaasi Hai",
-    "सुनले साचि बात कहुन तुम, मर लोक के वासि है"
+    "राग तिलंग भजन 86",
+    "Raag Tilang Bhajan 86"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 450,
+  "displayOrder": 86,
+  "overallOrder": 449,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 253",
+  "updatedAt": "2026-10-26"
 }

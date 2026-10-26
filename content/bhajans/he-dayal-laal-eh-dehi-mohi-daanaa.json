@@ -2,67 +2,117 @@
   "id": "bhajan-0003",
   "slug": "he-dayal-laal-eh-dehi-mohi-daanaa",
   "categoryId": "raag-bhairav",
-  "title": "हे दयाल लाल ेह देही मोहि दाना",
+  "categoryName": "राग भैरव",
+  "romanCategoryName": "Raag Bhairav",
+  "title": "हे दयाल लाल एह ॒देहि मोहि दाना",
   "romanTitle": "He Dayal Laal Eh Dehi Mohi Daanaa",
-  "firstLine": "He Dayal Laal Eh Dehi Mohi Daanaa. Sarv Dosh Dur Kare Dehi Gun Vijnyaanaa (Tek).",
+  "firstLine": "He Dayal Laal Eh Dehi Mohi Daanaa.",
+  "heading": "।। राग भैरव भजन ।। ३ ॥।",
+  "tek": [
+    "हे दयाल लाल एह ॒देहि मोहि दाना ।",
+    "सर्व दोष दूर करे देहि गुन विज्ञाना । ॥ । टेक ॥ ।"
+  ],
+  "romanTek": [
+    "He Dayal Laal Eh Dehi Mohi Daanaa.",
+    "Sarv Dosh Dur Kare Dehi Gun Vijnyaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सन्त संग राम रंग प्रेम दे प्रधाना ।",
+        "झूठ कपट तर्क दृष्टि श्रम भय मिटाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sant Sang Raam Rang Prem De Pradhaanaa.",
+        "Jhuth Kapat Tark Drishti Shram Bhay Mitaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भाव भक्ति शान्ति सुमति देहि चरण ध्याना ।",
+        "हर्ष शोक जन्म मरण हरो हरि सुजाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhaav Bhakti Shaanti Sumti Dehi Charan Dhyaanaa.",
+        "Harsh Shok Janm Maran Haro Hari Sujaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रवण मनन दमन शमन देहि ब्रह्म ज्ञाना ।",
+        "काम क्रोध लोभ मोह हरो तम आअज्ञाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shravan Manan Daman Shaman Dehi Brahm Jnyaanaa.",
+        "Kaam Krodh Lobh Moh Haro Tam Aajnyaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ काल जाल काटले भगवाना ।",
+        "जोग जुगति मोक्ष मुक्ति देहि कर कल्याना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kaal Jaal Kaatle Bhagvaanaa.",
+        "Jog Jugti Moksh Mukti Dehi Kar Kalyaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे दयाल लाल ेह देही मोहि दाना.",
-      "सर्व दोश दुर करे देही गुन विजनयाना (टेक)."
+      "सन्त संग राम रंग प्रेम दे प्रधाना ।",
+      "झूठ कपट तर्क दृष्टि श्रम भय मिटाना ॥१ ॥"
     ],
     [
-      "संत सनग राम रनग प्रेम दे परधाना.",
-      "झुथ कपत तरक दरिशति शरम भय मिताना || 1 ||"
+      "भाव भक्ति शान्ति सुमति देहि चरण ध्याना ।",
+      "हर्ष शोक जन्म मरण हरो हरि सुजाना ॥२ ॥"
     ],
     [
-      "भाव भक्ति शांति सुमति देही चरण धयाना.",
-      "हरश शोक जनम मरन हरो हरि सुजाना ||.2 ||."
+      "श्रवण मनन दमन शमन देहि ब्रह्म ज्ञाना ।",
+      "काम क्रोध लोभ मोह हरो तम आअज्ञाना ॥३ ॥"
     ],
     [
-      "शरवन मनन दमन शमन देही बरहम जनयाना.",
-      "काम करोध लोभ मोह हरो तम ाजनयाना. ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ काल जाल कातले भगवाना.",
-      "जोग जुगति मोक्ष मुक्ति देही कर कलयाना || 4. ||."
+      "कहे टेऊँ काल जाल काटले भगवाना ।",
+      "जोग जुगति मोक्ष मुक्ति देहि कर कल्याना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "He Dayal Laal Eh Dehi Mohi Daanaa.",
-      "Sarv Dosh Dur Kare Dehi Gun Vijnyaanaa (Tek)."
-    ],
     [
       "Sant Sang Raam Rang Prem De Pradhaanaa.",
       "Jhuth Kapat Tark Drishti Shram Bhay Mitaanaa || 1 ||"
     ],
     [
       "Bhaav Bhakti Shaanti Sumti Dehi Charan Dhyaanaa.",
-      "Harsh Shok Janm Maran Haro Hari Sujaanaa ||.2 ||."
+      "Harsh Shok Janm Maran Haro Hari Sujaanaa || 2 ||"
     ],
     [
       "Shravan Manan Daman Shaman Dehi Brahm Jnyaanaa.",
-      "Kaam Krodh Lobh Moh Haro Tam Aajnyaanaa. ||.3 ||."
+      "Kaam Krodh Lobh Moh Haro Tam Aajnyaanaa || 3 ||"
     ],
     [
       "Kahe Teun Kaal Jaal Kaatle Bhagvaanaa.",
-      "Jog Jugti Moksh Mukti Dehi Kar Kalyaanaa || 4. ||."
+      "Jog Jugti Moksh Mukti Dehi Kar Kalyaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairav Bhajan || 3 ||.",
+    "हे दयाल लाल एह ॒देहि मोहि दाना",
     "He Dayal Laal Eh Dehi Mohi Daanaa",
-    "हे दयाल लाल ेह देही मोहि दाना"
+    "राग भैरव भजन 3",
+    "Raag Bhairav Bhajan 3"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairav",
+    "bhajan"
   ],
   "displayOrder": 3,
+  "overallOrder": 3,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 27",
+  "updatedAt": "2026-10-26"
 }

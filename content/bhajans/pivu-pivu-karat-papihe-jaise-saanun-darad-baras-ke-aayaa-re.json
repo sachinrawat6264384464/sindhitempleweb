@@ -1,45 +1,103 @@
 {
-  "id": "bhajan-0580",
+  "id": "bhajan-0578",
   "slug": "pivu-pivu-karat-papihe-jaise-saanun-darad-baras-ke-aayaa-re",
   "categoryId": "raag-saarang",
-  "title": "पिवु पिवु करत पपिहे जैसे, सानुन दरद बरस के ाया रे",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "पीवु पीवु करत पपीहे जैसे, सानूं दरद बरस के आया रे",
   "romanTitle": "Pivu Pivu Karat Papihe Jaise, Saanun Darad Baras Ke Aayaa Re",
   "firstLine": "Pivu Pivu Karat Papihe Jaise, Saanun Darad Baras Ke Aayaa Re (Tek).",
+  "heading": "।। राग सारंग भजन ।। १ ।। ५७९।।",
+  "tek": [
+    "पीवु पीवु करत पपीहे जैसे, सानूं दरद बरस के आया रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pivu Pivu Karat Papihe Jaise, Saanun Darad Baras Ke Aayaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पीवु पीवु कर जीव गया मेरा, अन्तर बाहर आगम तेरा ।",
+        "नैनों नीर बहाया रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pivu Pivu Kar Jiv Gayaa Meraa, Antar Baahar Aagam Teraa.",
+        "Nainon Nir Bahaayaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बरसो बादल छाया करके, कृपा दृष्टी अपनी धरके ।",
+        "ताप हरो हरिराया रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Barso Baadal Chhaayaa Karke, Kripaa Drishti Apni Dharke.",
+        "Taap Haro Hariraayaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जहं बरसो तह हरिया मन्दिर, सत्ता तुम्हारी सबके अन्दर ।",
+        "तुम हीं हुकम चलाया रे ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Jahan Barso Tah Hariyaa Mandir, Sattaa Tumhaari Sabke Andar.",
+        "Tum Hin Hukam Chalaayaa Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह उर में आसा, दर्शन देखन की बहु प्यासा ।",
+        "दे दर्शन कर दाया रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Ur Men Aasaa, Darshan Dekhan Ki Bahu Pyaasaa.",
+        "De Darshan Kar Daayaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "च्फ"
+      ],
+      "romanLines": [
+        "Chph"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पिवु पिवु करत पपिहे जैसे, सानुन दरद बरस के ाया रे (टेक)."
+      "पीवु पीवु कर जीव गया मेरा, अन्तर बाहर आगम तेरा ।",
+      "नैनों नीर बहाया रे ॥१ ॥"
     ],
     [
-      "पिवु पिवु कर जिव गया मेरा, नतर बाहर ागम तेरा.",
-      "नैनोन निर बहाया रे.1 ||."
+      "बरसो बादल छाया करके, कृपा दृष्टी अपनी धरके ।",
+      "ताप हरो हरिराया रे ॥२ ॥"
     ],
     [
-      "बरसो बादल चहाया करके, कृपा दरिशति पनि धरके.",
-      "ताप हरो हरिराया रे || 2 ||."
+      "जहं बरसो तह हरिया मन्दिर, सत्ता तुम्हारी सबके अन्दर ।",
+      "तुम हीं हुकम चलाया रे ॥ ३े ॥"
     ],
     [
-      "जहन बरसो तह हरिया मनदिर, सतता तुमहारि सबके नदर.",
-      "तुम हिन हुकम चलाया रे || 3े ||"
+      "कहे टेऊँ यह उर में आसा, दर्शन देखन की बहु प्यासा ।",
+      "दे दर्शन कर दाया रे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ यह ुर मेन ासा, दरशन देखन कि बहु पयासा.",
-      "दे दरशन कर दाया रे. ||.4. ||."
-    ],
-    [
-      "चफ"
+      "च्फ"
     ]
   ],
   "romanLyrics": [
     [
-      "Pivu Pivu Karat Papihe Jaise, Saanun Darad Baras Ke Aayaa Re (Tek)."
-    ],
-    [
       "Pivu Pivu Kar Jiv Gayaa Meraa, Antar Baahar Aagam Teraa.",
-      "Nainon Nir Bahaayaa Re.1 ||."
+      "Nainon Nir Bahaayaa Re || 1 ||"
     ],
     [
       "Barso Baadal Chhaayaa Karke, Kripaa Drishti Apni Dharke.",
-      "Taap Haro Hariraayaa Re || 2 ||."
+      "Taap Haro Hariraayaa Re || 2 ||"
     ],
     [
       "Jahan Barso Tah Hariyaa Mandir, Sattaa Tumhaari Sabke Andar.",
@@ -47,25 +105,27 @@
     ],
     [
       "Kahe Teun Yah Ur Men Aasaa, Darshan Dekhan Ki Bahu Pyaasaa.",
-      "De Darshan Kar Daayaa Re. ||.4. ||."
+      "De Darshan Kar Daayaa Re || 4 ||"
     ],
     [
       "Chph"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Saarang Bhajan || 1 || 579 ||",
+    "पीवु पीवु करत पपीहे जैसे, सानूं दरद बरस के आया रे",
     "Pivu Pivu Karat Papihe Jaise, Saanun Darad Baras Ke Aayaa Re",
-    "पिवु पिवु करत पपिहे जैसे, सानुन दरद बरस के ाया रे"
+    "राग सारंग भजन 1",
+    "Raag Saarang Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 580,
+  "displayOrder": 1,
+  "overallOrder": 578,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 314",
+  "updatedAt": "2026-10-26"
 }

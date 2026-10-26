@@ -1,50 +1,110 @@
 {
-  "id": "bhajan-0877",
+  "id": "bhajan-0875",
   "slug": "mere-man-ab-japle-raam-aur-jagat-ke-kaam-bisaare",
   "categoryId": "raag-jog",
-  "title": "मेरे मन ब जपले राम, ौर जगत के काम बिसारे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "मेरे मन अब जपले राम, और जगत के काम बिसारे",
   "romanTitle": "Mere Man Ab Japle Raam, Aur Jagat Ke Kaam Bisaare",
   "firstLine": "Mere Man Ab Japle Raam, Aur Jagat Ke Kaam Bisaare (Tek).",
+  "heading": "।। राग जोग भजन ।। ४७ ।। ८७७",
+  "tek": [
+    "मेरे मन अब जपले राम, और जगत के काम बिसारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Ab Japle Raam, Aur Jagat Ke Kaam Bisaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "काम जगत के कर कर भारी, खोई अपनी आयू सारी ।",
+        "नेक न पाया मन विश्राम, रो रोकर बहु जन्म गुज़ारे ।१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kaam Jagat Ke Kar Kar Bhaari, Khoi Apni Aayu Saari.",
+        "Nek Na Paayaa Man Vishraam, Ro Rokar Bahu Janm Guzaare.1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काले केस पलट भये श्वेता, अबहूं तुमने मूण्ड न चेता ।",
+        "शर्म न तुझको नमकहराम, खात हरी का और चितारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaale Kes Palat Bhaye Shvetaa, Abhun Tumne Mund Na Chetaa.",
+        "Sharm Na Tujhko Namkahraam, Khaat Hari Kaa Aur Chitaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सात बीस खट चार अठारा, सन्त सभा यह कीन विचारा ।",
+        "सब से नीका है यह काम, राम भजन कर प्रीतम प्यारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saat Bis Khat Chaar Athaaraa, Sant Sabhaa Yah Kin Vichaaraa.",
+        "Sab Se Nikaa Hai Yah Kaam, Raam Bhajan Kar Pritam Pyaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "काम क्रोध मद मोह त्यागो, दैवी सम्पत्ति में नित लागो ।",
+        "होय कुसंग से तुम उपराम, जन्म सफल कर सन्त द्वारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Mad Moh Tyaago, Daivi Sampatti Men Nit Laago.",
+        "Hoy Kusang Se Tum Upraam, Janm Saphal Kar Sant Dvaare || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "भव सिन्धु के तरने का साधन, वेद कहा है नाम अराधन ।",
+        "तांते सुमरो हरि का नाम, कहे टेऊँं कर जोड़ पुकारे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Bhav Sindhu Ke Tarne Kaa Saadhan, Ved Kahaa Hai Naam Araadhan.",
+        "Taante Sumro Hari Kaa Naam, Kahe Teunn Kar Jor Pukaare || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन ब जपले राम, ौर जगत के काम बिसारे (टेक)."
+      "काम जगत के कर कर भारी, खोई अपनी आयू सारी ।",
+      "नेक न पाया मन विश्राम, रो रोकर बहु जन्म गुज़ारे ।१ ॥१ ॥"
     ],
     [
-      "काम जगत के कर कर भारि, खोि पनि ायु सारि.",
-      "नेक न पाया मन विशराम, रो रोकर बहु जनम गुzारे.1$ ||."
+      "काले केस पलट भये श्वेता, अबहूं तुमने मूण्ड न चेता ।",
+      "शर्म न तुझको नमकहराम, खात हरी का और चितारे ॥२ ॥"
     ],
     [
-      "काले केस पलत भये शवेता, भुन तुमने मुनद न चेता.",
-      "शरम न तुझको नमकहराम, खात हरि का ौर चितारे || 2 ||."
+      "सात बीस खट चार अठारा, सन्त सभा यह कीन विचारा ।",
+      "सब से नीका है यह काम, राम भजन कर प्रीतम प्यारे ॥३ ॥"
     ],
     [
-      "सात बिस खत चार थारा, संत सभा यह किन विचारा.",
-      "सब से निका है यह काम, राम भजन कर परितम पयारे || 3 ||."
+      "काम क्रोध मद मोह त्यागो, दैवी सम्पत्ति में नित लागो ।",
+      "होय कुसंग से तुम उपराम, जन्म सफल कर सन्त द्वारे ॥४ ॥"
     ],
     [
-      "काम करोध मद मोह तयागो, दैवि समपतति मेन नित लागो.",
-      "होय कुसनग से तुम ुपराम, जनम सफल कर संत दवारे || 4 ||"
-    ],
-    [
-      "भव सिनधु के तरने का साधन, वेद कहा है नाम राधन.",
-      "तानते सुमरो हरि का नाम, कहे तेुनन कर जोर पुकारे.5 ||."
+      "भव सिन्धु के तरने का साधन, वेद कहा है नाम अराधन ।",
+      "तांते सुमरो हरि का नाम, कहे टेऊँं कर जोड़ पुकारे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Ab Japle Raam, Aur Jagat Ke Kaam Bisaare (Tek)."
-    ],
-    [
       "Kaam Jagat Ke Kar Kar Bhaari, Khoi Apni Aayu Saari.",
-      "Nek N Paayaa Man Vishraam, Ro Rokar Bahu Janm Guzaare.1$ ||."
+      "Nek Na Paayaa Man Vishraam, Ro Rokar Bahu Janm Guzaare.1 || 1 ||"
     ],
     [
-      "Kaale Kes Palat Bhaye Shvetaa, Abhun Tumne Mund N Chetaa.",
-      "Sharm N Tujhko Namkahraam, Khaat Hari Kaa Aur Chitaare || 2 ||."
+      "Kaale Kes Palat Bhaye Shvetaa, Abhun Tumne Mund Na Chetaa.",
+      "Sharm Na Tujhko Namkahraam, Khaat Hari Kaa Aur Chitaare || 2 ||"
     ],
     [
       "Saat Bis Khat Chaar Athaaraa, Sant Sabhaa Yah Kin Vichaaraa.",
-      "Sab Se Nikaa Hai Yah Kaam, Raam Bhajan Kar Pritam Pyaare || 3 ||."
+      "Sab Se Nikaa Hai Yah Kaam, Raam Bhajan Kar Pritam Pyaare || 3 ||"
     ],
     [
       "Kaam Krodh Mad Moh Tyaago, Daivi Sampatti Men Nit Laago.",
@@ -52,22 +112,24 @@
     ],
     [
       "Bhav Sindhu Ke Tarne Kaa Saadhan, Ved Kahaa Hai Naam Araadhan.",
-      "Taante Sumro Hari Kaa Naam, Kahe Teunn Kar Jor Pukaare.5 ||."
+      "Taante Sumro Hari Kaa Naam, Kahe Teunn Kar Jor Pukaare || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 47 || 877",
+    "मेरे मन अब जपले राम, और जगत के काम बिसारे",
     "Mere Man Ab Japle Raam, Aur Jagat Ke Kaam Bisaare",
-    "मेरे मन ब जपले राम, ौर जगत के काम बिसारे"
+    "राग जोग भजन 47",
+    "Raag Jog Bhajan 47"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 877,
+  "displayOrder": 47,
+  "overallOrder": 875,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 462",
+  "updatedAt": "2026-10-26"
 }

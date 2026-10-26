@@ -1,0 +1,102 @@
+{
+  "id": "bhajan-0609",
+  "slug": "maai-mainnun-sadguru-gyaan-bataayaa",
+  "categoryId": "raag-kalyaan",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "माई मैंनूं सद्गुरु ज्ञान बताया,",
+  "romanTitle": "Maai Mainnun Sadguru Gyaan Bataayaa,",
+  "firstLine": "Maai Mainnun Sadguru Gyaan Bataayaa,",
+  "heading": "।। राग कल्याण भजन ।। डे ।। ६१०।।",
+  "tek": [
+    "माई मैंनूं सद्गुरु ज्ञान बताया,",
+    "तांके मनन निदिध्यासन माहीं , पुनि पुनि मुझे लगाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maai Mainnun Sadguru Gyaan Bataayaa,",
+    "Taanke Manan Nididhyaasan Maahin, Puni Puni Mujhe Lagaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मल विक्षेप आवरण का पड़दा, तीनों तुरत मिटाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mal Vikshep Aavran Kaa Pardaa, Tinon Turat Mitaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अनुभव ज्योति जगाई उर में, आतम लाल लखाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Anubhav Jyoti Jagaai Ur Men, Aatam Laal Lakhaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "द्न्द्र दूख ते किया अतीता, सुख स्वरूप समाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dndr Dukh Te Kiyaa Atitaa, Sukh Svarup Samaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु तोड़े बन्धन, मोक्ष धाम दरसाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Tore Bandhan, Moksh Dhaam Darsaayaa || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "मल विक्षेप आवरण का पड़दा, तीनों तुरत मिटाया ॥१ ॥"
+    ],
+    [
+      "अनुभव ज्योति जगाई उर में, आतम लाल लखाया ॥२ ॥"
+    ],
+    [
+      "द्न्द्र दूख ते किया अतीता, सुख स्वरूप समाया ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु तोड़े बन्धन, मोक्ष धाम दरसाया ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Mal Vikshep Aavran Kaa Pardaa, Tinon Turat Mitaayaa || 1 ||"
+    ],
+    [
+      "Anubhav Jyoti Jagaai Ur Men, Aatam Laal Lakhaayaa || 2 ||"
+    ],
+    [
+      "Dndr Dukh Te Kiyaa Atitaa, Sukh Svarup Samaayaa || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Tore Bandhan, Moksh Dhaam Darsaayaa || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "माई मैंनूं सद्गुरु ज्ञान बताया,",
+    "Maai Mainnun Sadguru Gyaan Bataayaa,",
+    "राग कल्याण भजन 3",
+    "Raag Kalyaan Bhajan 3"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
+  ],
+  "displayOrder": 3,
+  "overallOrder": 609,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 328",
+  "updatedAt": "2026-10-26"
+}

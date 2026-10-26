@@ -2,48 +2,121 @@
   "id": "bhajan-0441",
   "slug": "jab-jaan-liyaa-to-ratnaa-kyaa-tut-gayaa-jab-jar-se-taruvar",
   "categoryId": "raag-tilang",
-  "title": "जब जान लिया तो रतना कया, तुत गया जब जर से तरुवर",
-  "romanTitle": "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar",
-  "firstLine": "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar, Shaakhon Ko Phir Katnaa Kyaa (Tek).",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "जब जान लिया तो रटना क्या, टूट गया जब जड़ से तरुवर,",
+  "romanTitle": "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar,",
+  "firstLine": "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar,",
+  "heading": "।। राग तिलंग भजन ।। ७८ ।। ४ंडरे।।",
+  "tek": [
+    "जब जान लिया तो रटना क्या, टूट गया जब जड़ से तरुवर,",
+    "शाखों को फिर कटना क्या ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar,",
+    "Shaakhon Ko Phir Katnaa Kyaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पारस की मणि प्राप्त जांको, कौड़ी की नहिं इच्छा तांको ।",
+        "अमृत भोजन पाय लिया जब, चटनी को फिर चटना क्या ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paaras Ki Mani Praapt Jaanko, Kauri Ki Nahin Ichchhaa Taanko.",
+        "Amrit Bhojan Paay Liyaa Jab, Chatni Ko Phir Chatnaa Kyaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "त्र्द्",
+        "निद्रा से नर जागा जोई, स्वप्न चोर से डरत न सोई ।",
+        "सूर्य का प्रकाश भया जब, दीपक को फिर डटना क्या ॥२ ॥"
+      ],
+      "romanLines": [
+        "Trd",
+        "Nidraa Se Nar Jaagaa Joi, Svapn Chor Se Darat Na Soi.",
+        "Sury Kaa Prakaash Bhayaa Jab, Dipak Ko Phir Datnaa Kyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बायू रूपी वाहन जांको, अन्य सवारी की चाह न तांको ।",
+        "शेरों के जब सामने होया, हिरनों से फिर हटना क्या ॥३ ॥"
+      ],
+      "romanLines": [
+        "Baayu Rupi Vaahan Jaanko, Any Savaari Ki Chaah Na Taanko.",
+        "Sheron Ke Jab Saamne Hoyaa, Hirnon Se Phir Hatnaa Kyaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जिनके मन में नहिं कछु आसा, कहे टेऊँ वे न होय निरासा ।",
+        "आतम दर्शन पाय लिया जब, तीर्थों पै फिर अटना क्या ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jinke Man Men Nahin Kachhu Aasaa, Kahe Teun Ve Na Hoy Niraasaa.",
+        "Aatam Darshan Paay Liyaa Jab, Tirthon Pai Phir Atnaa Kyaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब जान लिया तो रतना कया, तुत गया जब जर से तरुवर,",
-      "शाखोन को फिर कतना कया (टेक)."
+      "पारस की मणि प्राप्त जांको, कौड़ी की नहिं इच्छा तांको ।",
+      "अमृत भोजन पाय लिया जब, चटनी को फिर चटना क्या ॥१ ॥"
     ],
     [
-      "पारस कि मनि परापत जानको, कौरि कि नहिन िचचहा तानको.",
-      "अमृत भोजन पाय लिया जब, चतनि को फिर चतना कया || 1 ||"
+      "त्र्द्",
+      "निद्रा से नर जागा जोई, स्वप्न चोर से डरत न सोई ।",
+      "सूर्य का प्रकाश भया जब, दीपक को फिर डटना क्या ॥२ ॥"
     ],
     [
-      "तरद"
+      "बायू रूपी वाहन जांको, अन्य सवारी की चाह न तांको ।",
+      "शेरों के जब सामने होया, हिरनों से फिर हटना क्या ॥३ ॥"
+    ],
+    [
+      "जिनके मन में नहिं कछु आसा, कहे टेऊँ वे न होय निरासा ।",
+      "आतम दर्शन पाय लिया जब, तीर्थों पै फिर अटना क्या ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar,",
-      "Shaakhon Ko Phir Katnaa Kyaa (Tek)."
-    ],
     [
       "Paaras Ki Mani Praapt Jaanko, Kauri Ki Nahin Ichchhaa Taanko.",
       "Amrit Bhojan Paay Liyaa Jab, Chatni Ko Phir Chatnaa Kyaa || 1 ||"
     ],
     [
-      "Trd"
+      "Trd",
+      "Nidraa Se Nar Jaagaa Joi, Svapn Chor Se Darat Na Soi.",
+      "Sury Kaa Prakaash Bhayaa Jab, Dipak Ko Phir Datnaa Kyaa || 2 ||"
+    ],
+    [
+      "Baayu Rupi Vaahan Jaanko, Any Savaari Ki Chaah Na Taanko.",
+      "Sheron Ke Jab Saamne Hoyaa, Hirnon Se Phir Hatnaa Kyaa || 3 ||"
+    ],
+    [
+      "Jinke Man Men Nahin Kachhu Aasaa, Kahe Teun Ve Na Hoy Niraasaa.",
+      "Aatam Darshan Paay Liyaa Jab, Tirthon Pai Phir Atnaa Kyaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 78 || 4Ndre ||",
-    "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar",
-    "जब जान लिया तो रतना कया, तुत गया जब जर से तरुवर"
+    "जब जान लिया तो रटना क्या, टूट गया जब जड़ से तरुवर,",
+    "Jab Jaan Liyaa To Ratnaa Kyaa, Tut Gayaa Jab Jar Se Taruvar,",
+    "राग तिलंग भजन 78",
+    "Raag Tilang Bhajan 78"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 441,
+  "displayOrder": 78,
+  "overallOrder": 441,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 250",
+  "updatedAt": "2026-10-26"
 }

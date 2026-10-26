@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0527",
+  "slug": "man-upar-vishvaas-na-karnaa",
+  "categoryId": "raag-kohiyaari",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "मन ऊपर विश्वास न करना,",
+  "romanTitle": "Man Upar Vishvaas Na Karnaa,",
+  "firstLine": "Man Upar Vishvaas Na Karnaa,",
+  "heading": "।। राग कोह्मारी भजन ।। ४८ ।। ५२८",
+  "tek": [
+    "मन ऊपर विश्वास न करना,",
+    "दम दम तां पर दृष्टी धरना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Upar Vishvaas Na Karnaa,",
+    "Dam Dam Taan Par Drishti Dharnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "एक श्वास हो आयू यद्यपी, मन से भयता राखो तद्यपी ।",
+        "भक्तमाल का प्रसंग पढ़ना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ek Shvaas Ho Aayu Yadyapi, Man Se Bhaytaa Raakho Tadyapi.",
+        "Bhaktamaal Kaa Prasang Parhnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बूढ़ापन हो तन पुनि रोगी, कथा सुनो बन तपसी योगी ।",
+        "तो भी मन की साख न भरना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Burhaapan Ho Tan Puni Rogi, Kathaa Suno Ban Tapsi Yogi.",
+        "To Bhi Man Ki Saakh Na Bharnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अर्ध गगन में ध्यान लगाओ, वेद शास्त्र पुनि पढ़ो पढ़ाओ ।",
+        "तो भी मन के छल से डरना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ardh Gagan Men Dhyaan Lagaao, Ved Shaastr Puni Parho Parhaao.",
+        "To Bhi Man Ke Chhal Se Darnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मन जीतन की जे तोहि प्यासा, छोड़ जगत की सारी आसा ।",
+        "कहे टेऊँ गुरु शरणी पड़ना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Man Jitan Ki Je Tohi Pyaasaa, Chhor Jagat Ki Saari Aasaa.",
+        "Kahe Teun Guru Sharni Parnaa || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "एक श्वास हो आयू यद्यपी, मन से भयता राखो तद्यपी ।",
+      "भक्तमाल का प्रसंग पढ़ना ॥१ ॥"
+    ],
+    [
+      "बूढ़ापन हो तन पुनि रोगी, कथा सुनो बन तपसी योगी ।",
+      "तो भी मन की साख न भरना ॥२ ॥"
+    ],
+    [
+      "अर्ध गगन में ध्यान लगाओ, वेद शास्त्र पुनि पढ़ो पढ़ाओ ।",
+      "तो भी मन के छल से डरना ॥३ ॥"
+    ],
+    [
+      "मन जीतन की जे तोहि प्यासा, छोड़ जगत की सारी आसा ।",
+      "कहे टेऊँ गुरु शरणी पड़ना ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Ek Shvaas Ho Aayu Yadyapi, Man Se Bhaytaa Raakho Tadyapi.",
+      "Bhaktamaal Kaa Prasang Parhnaa || 1 ||"
+    ],
+    [
+      "Burhaapan Ho Tan Puni Rogi, Kathaa Suno Ban Tapsi Yogi.",
+      "To Bhi Man Ki Saakh Na Bharnaa || 2 ||"
+    ],
+    [
+      "Ardh Gagan Men Dhyaan Lagaao, Ved Shaastr Puni Parho Parhaao.",
+      "To Bhi Man Ke Chhal Se Darnaa || 3 ||"
+    ],
+    [
+      "Man Jitan Ki Je Tohi Pyaasaa, Chhor Jagat Ki Saari Aasaa.",
+      "Kahe Teun Guru Sharni Parnaa || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मन ऊपर विश्वास न करना,",
+    "Man Upar Vishvaas Na Karnaa,",
+    "राग कोहियारी भजन 48",
+    "Raag Kohiyaari Bhajan 48"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
+    "bhajan"
+  ],
+  "displayOrder": 48,
+  "overallOrder": 527,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 290",
+  "updatedAt": "2026-10-26"
+}

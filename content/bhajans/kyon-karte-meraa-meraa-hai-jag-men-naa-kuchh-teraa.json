@@ -1,45 +1,103 @@
 {
   "id": "bhajan-0271",
   "slug": "kyon-karte-meraa-meraa-hai-jag-men-naa-kuchh-teraa",
-  "categoryId": "raag-bhairav",
-  "title": "कयोन करते मेरा मेरा, है जग मेन ना कुचह तेरा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "क्यों करते मेरा मेरा, है जग में ना कुछ तेरा",
   "romanTitle": "Kyon Karte Meraa Meraa, Hai Jag Men Naa Kuchh Teraa",
   "firstLine": "Kyon Karte Meraa Meraa, Hai Jag Men Naa Kuchh Teraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५६ ।। २७१।।",
+  "tek": [
+    "क्यों करते मेरा मेरा, है जग में ना कुछ तेरा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kyon Karte Meraa Meraa, Hai Jag Men Naa Kuchh Teraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात गर्भ से जब तुम निकले, साथ नहीं कुछ लाये ।",
+        "तन छूटे कुछ साथ चले ना, खाली करत बखेरा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Garbh Se Jab Tum Nikle, Saath Nahin Kuchh Laaye.",
+        "Tan Chhute Kuchh Saath Chale Naa, Khaali Karat Bakheraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नदी नाव ज्यों लोग कुटुम्ब का, पाव पलक है मेला ।",
+        "प्रात भये सब उड़ जाये ज्यों, पंछी बिरछ बसेरा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nadi Naav Jyon Log Kutumb Kaa, Paav Palak Hai Melaa.",
+        "Praat Bhaye Sab Ur Jaaye Jyon, Panchhi Birachh Baseraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "रावण कंस हरनाकस दारा, छोड़ा धन परिवारा ।",
+        "हाथ झाड़ गये सिकन्दर कारून, काल आय जब घेरा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raavan Kans Harnaakas Daaraa, Chhoraa Dhan Parivaaraa.",
+        "Haath Jhaar Gaye Sikandar Kaarun, Kaal Aay Jab Gheraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मैं मेरा जिन जग में कीया, पाया तिहं दुख भारी ।",
+        "कहे टेऊँ मैं मेरा तज तुम, साहब सुमर सवेरा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Main Meraa Jin Jag Men Kiyaa, Paayaa Tihan Dukh Bhaari.",
+        "Kahe Teun Main Meraa Taj Tum, Saahab Sumar Saveraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गय्"
+      ],
+      "romanLines": [
+        "Gay"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कयोन करते मेरा मेरा, है जग मेन ना कुचह तेरा (टेक)."
+      "मात गर्भ से जब तुम निकले, साथ नहीं कुछ लाये ।",
+      "तन छूटे कुछ साथ चले ना, खाली करत बखेरा ॥१ ॥"
     ],
     [
-      "मात गरभ से जब तुम निकले, साथ नहिन कुचह लाये.",
-      "तन चहुते कुचह साथ चले ना, खालि करत बखेरा || 1. ||."
+      "नदी नाव ज्यों लोग कुटुम्ब का, पाव पलक है मेला ।",
+      "प्रात भये सब उड़ जाये ज्यों, पंछी बिरछ बसेरा ॥२ ॥"
     ],
     [
-      "नदि नाव जयोन लोग कुतुमब का, पाव पलक है मेला.",
-      "परात भये सब ुर जाये जयोन, पनचहि बिरचह बसेरा.2 ||."
+      "रावण कंस हरनाकस दारा, छोड़ा धन परिवारा ।",
+      "हाथ झाड़ गये सिकन्दर कारून, काल आय जब घेरा ॥३ ॥"
     ],
     [
-      "रावन कनस हरनाकस दारा, चहोरा धन परिवारा.",
-      "हाथ झार गये सिकनदर कारुन, काल ाय जब घेरा || 3 ||"
+      "मैं मेरा जिन जग में कीया, पाया तिहं दुख भारी ।",
+      "कहे टेऊँ मैं मेरा तज तुम, साहब सुमर सवेरा ॥४ ॥"
     ],
     [
-      "मैं मेरा जिन जग मेन किया, पाया तिहन दुःख भारि.",
-      "कहे तेऊँ मैं मेरा तज तुम, साहब सुमर सवेरा || 4 ||."
-    ],
-    [
-      "गय"
+      "गय्"
     ]
   ],
   "romanLyrics": [
     [
-      "Kyon Karte Meraa Meraa, Hai Jag Men Naa Kuchh Teraa (Tek)."
-    ],
-    [
       "Maat Garbh Se Jab Tum Nikle, Saath Nahin Kuchh Laaye.",
-      "Tan Chhute Kuchh Saath Chale Naa, Khaali Karat Bakheraa || 1. ||."
+      "Tan Chhute Kuchh Saath Chale Naa, Khaali Karat Bakheraa || 1 ||"
     ],
     [
       "Nadi Naav Jyon Log Kutumb Kaa, Paav Palak Hai Melaa.",
-      "Praat Bhaye Sab Ur Jaaye Jyon, Panchhi Birachh Baseraa.2 ||."
+      "Praat Bhaye Sab Ur Jaaye Jyon, Panchhi Birachh Baseraa || 2 ||"
     ],
     [
       "Raavan Kans Harnaakas Daaraa, Chhoraa Dhan Parivaaraa.",
@@ -47,25 +105,27 @@
     ],
     [
       "Main Meraa Jin Jag Men Kiyaa, Paayaa Tihan Dukh Bhaari.",
-      "Kahe Teun Main Meraa Taj Tum, Saahab Sumar Saveraa || 4 ||."
+      "Kahe Teun Main Meraa Taj Tum, Saahab Sumar Saveraa || 4 ||"
     ],
     [
       "Gay"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 56 || 271 ||",
+    "क्यों करते मेरा मेरा, है जग में ना कुछ तेरा",
     "Kyon Karte Meraa Meraa, Hai Jag Men Naa Kuchh Teraa",
-    "कयोन करते मेरा मेरा, है जग मेन ना कुचह तेरा"
+    "राग भैरवी भजन 56",
+    "Raag Bhairvi Bhajan 56"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 271,
+  "displayOrder": 56,
+  "overallOrder": 271,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 166",
+  "updatedAt": "2026-10-26"
 }

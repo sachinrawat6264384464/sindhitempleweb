@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0651",
+  "slug": "sadguru-bole-sun-re-chelaa-1",
+  "categoryId": "raag-pahaari",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "सद्‌गुरु बोले सुन रे चेला,",
+  "romanTitle": "Sad‌Guru Bole Sun Re Chelaa,",
+  "firstLine": "Sad‌Guru Bole Sun Re Chelaa,",
+  "heading": "।। राग पहाड़ी भजन ।। ४ ।। ६५२।।",
+  "tek": [
+    "सद्‌गुरु बोले सुन रे चेला,",
+    "साधु कहावन जीवित मरना, सौदा समझी कीजे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Bole Sun Re Chelaa,",
+    "Saadhu Kahaavan Jivit Marnaa, Saudaa Samjhi Kije (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पहले अपना आप गंवाये, श्रद्धा से सिर दीजे ।",
+        "पांव धरे पीछे नहीं हटना, दम पै कदम धरीजे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pahle Apnaa Aap Ganvaaye, Shraddhaa Se Sir Dije.",
+        "Paanv Dhare Pichhe Nahin Hatnaa, Dam Pai Kadam Dharije || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "एक दिवस का काम नहीं है, अन्तक रहति रहीजे ।",
+        "सुख दुख आदिक में सम रहना, निर्भय ज्ञान गहीजे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ek Divas Kaa Kaam Nahin Hai, Antak Rahti Rahije.",
+        "Sukh Dukh Aadik Men Sam Rahnaa, Nirbhay Gyaan Gahije || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आठों याम एकांती रहिये, अजपा जाप जपीजे ।",
+        "अष्ट कमल पर आसन करना, अनहद नाद सुनीजे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aathon Yaam Ekaanti Rahiye, Ajpaa Jaap Japije.",
+        "Asht Kamal Par Aasan Karnaa, Anhad Naad Sunije || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ काया अन्दर, अपना आप लखीजे ।",
+        "तुरिया से भी होय अतीता, अगम देश लख लीजे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Kaayaa Andar, Apnaa Aap Lakhije.",
+        "Turiyaa Se Bhi Hoy Atitaa, Agam Desh Lakh Lije || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "पहले अपना आप गंवाये, श्रद्धा से सिर दीजे ।",
+      "पांव धरे पीछे नहीं हटना, दम पै कदम धरीजे ॥१ ॥"
+    ],
+    [
+      "एक दिवस का काम नहीं है, अन्तक रहति रहीजे ।",
+      "सुख दुख आदिक में सम रहना, निर्भय ज्ञान गहीजे ॥२ ॥"
+    ],
+    [
+      "आठों याम एकांती रहिये, अजपा जाप जपीजे ।",
+      "अष्ट कमल पर आसन करना, अनहद नाद सुनीजे ॥३ ॥"
+    ],
+    [
+      "कहता टेऊँ काया अन्दर, अपना आप लखीजे ।",
+      "तुरिया से भी होय अतीता, अगम देश लख लीजे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Pahle Apnaa Aap Ganvaaye, Shraddhaa Se Sir Dije.",
+      "Paanv Dhare Pichhe Nahin Hatnaa, Dam Pai Kadam Dharije || 1 ||"
+    ],
+    [
+      "Ek Divas Kaa Kaam Nahin Hai, Antak Rahti Rahije.",
+      "Sukh Dukh Aadik Men Sam Rahnaa, Nirbhay Gyaan Gahije || 2 ||"
+    ],
+    [
+      "Aathon Yaam Ekaanti Rahiye, Ajpaa Jaap Japije.",
+      "Asht Kamal Par Aasan Karnaa, Anhad Naad Sunije || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Kaayaa Andar, Apnaa Aap Lakhije.",
+      "Turiyaa Se Bhi Hoy Atitaa, Agam Desh Lakh Lije || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "सद्‌गुरु बोले सुन रे चेला,",
+    "Sad‌Guru Bole Sun Re Chelaa,",
+    "राग पहाड़ी भजन 4",
+    "Raag Pahaari Bhajan 4"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
+  ],
+  "displayOrder": 4,
+  "overallOrder": 651,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 348",
+  "updatedAt": "2026-10-26"
+}

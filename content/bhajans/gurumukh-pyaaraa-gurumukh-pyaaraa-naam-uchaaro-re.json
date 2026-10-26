@@ -2,60 +2,98 @@
   "id": "bhajan-0107",
   "slug": "gurumukh-pyaaraa-gurumukh-pyaaraa-naam-uchaaro-re",
   "categoryId": "raag-aasaa",
-  "title": "गुरुमुख पयारा गुरुमुख पयारा नाम ुचारो रे",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "गुरुमुख प्यारा गुरुमुख प्यारा नाम उचारो रे",
   "romanTitle": "Gurumukh Pyaaraa Gurumukh Pyaaraa Naam Uchaaro Re",
-  "firstLine": "Gurumukh Pyaaraa Gurumukh Pyaaraa Naam Uchaaro Re. Santon Kaa Sang Karke Apnaa Janm Sudhaaro Re (Tek).",
+  "firstLine": "Gurumukh Pyaaraa Gurumukh Pyaaraa Naam Uchaaro Re.",
+  "heading": "।। राग आसा भजन ।। ४५ ।। १०७॥।",
+  "tek": [
+    "गुरुमुख प्यारा गुरुमुख प्यारा नाम उचारो रे ।",
+    "सन्तों का संग करके अपना जन्म सुधारो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gurumukh Pyaaraa Gurumukh Pyaaraa Naam Uchaaro Re.",
+    "Santon Kaa Sang Karke Apnaa Janm Sudhaaro Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दुष्ट पुरुषों का संग त्यागो, सत्पुरुषों से कर अनुरागो ।",
+        "तांकी बानी श्रद्धा से तुम हृदय धारो रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dusht Purushon Kaa Sang Tyaago, Satpurushon Se Kar Anuraago.",
+        "Taanki Baani Shraddhaa Se Tum Hriday Dhaaro Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पांच ठगों से न आप ठगाओ, गुरु चरनों में चीत लगाओ ।",
+        "खोटे संकल्प विकल्प सारे मन के टारो रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paanch Thagon Se Na Aap Thagaao, Guru Charnon Men Chit Lagaao.",
+        "Khote Sankalp Vikalp Saare Man Ke Taaro Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ गुरु नाम सुमरिये, भवसागर से पारि उतरिये ।",
+        "जन्म मरण का भारी दुख जो ताहिं निवारो रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Naam Sumriye, Bhavsaagar Se Paari Utriye.",
+        "Janm Maran Kaa Bhaari Dukh Jo Taahin Nivaaro Re || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुमुख पयारा गुरुमुख पयारा नाम ुचारो रे.",
-      "सनतोन का सनग करके पना जनम सुधारो रे (टेक)."
+      "दुष्ट पुरुषों का संग त्यागो, सत्पुरुषों से कर अनुरागो ।",
+      "तांकी बानी श्रद्धा से तुम हृदय धारो रे ॥१ ॥"
     ],
     [
-      "दुशत पुरुशोन का सनग तयागो, सतपुरुशोन से कर नुरागो.",
-      "तानकि बानी शरदधा से तुम हरिदय धारो रे || $ ||."
+      "पांच ठगों से न आप ठगाओ, गुरु चरनों में चीत लगाओ ।",
+      "खोटे संकल्प विकल्प सारे मन के टारो रे ॥२ ॥"
     ],
     [
-      "पानच थगोन से न ाप थगाो, गुरु चरनोन मेन चित लगाो.",
-      "खोते सनकलप विकलप सारे मन के तारो रे.2 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु नाम सुमरिये, भवसागर से पारि ुतरिये.",
-      "जनम मरन का भारि दुःख जो ताहिन निवारो रे || 3 ||."
+      "कहे टेऊँ गुरु नाम सुमरिये, भवसागर से पारि उतरिये ।",
+      "जन्म मरण का भारी दुख जो ताहिं निवारो रे ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gurumukh Pyaaraa Gurumukh Pyaaraa Naam Uchaaro Re.",
-      "Santon Kaa Sang Karke Apnaa Janm Sudhaaro Re (Tek)."
-    ],
-    [
       "Dusht Purushon Kaa Sang Tyaago, Satpurushon Se Kar Anuraago.",
-      "Taanki Baani Shraddhaa Se Tum Hriday Dhaaro Re || $ ||."
+      "Taanki Baani Shraddhaa Se Tum Hriday Dhaaro Re || 1 ||"
     ],
     [
-      "Paanch Thagon Se N Aap Thagaao, Guru Charnon Men Chit Lagaao.",
-      "Khote Sankalp Vikalp Saare Man Ke Taaro Re.2 ||."
+      "Paanch Thagon Se Na Aap Thagaao, Guru Charnon Men Chit Lagaao.",
+      "Khote Sankalp Vikalp Saare Man Ke Taaro Re || 2 ||"
     ],
     [
       "Kahe Teun Guru Naam Sumriye, Bhavsaagar Se Paari Utriye.",
-      "Janm Maran Kaa Bhaari Dukh Jo Taahin Nivaaro Re || 3 ||."
+      "Janm Maran Kaa Bhaari Dukh Jo Taahin Nivaaro Re || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 45 || 107 ||.",
+    "गुरुमुख प्यारा गुरुमुख प्यारा नाम उचारो रे",
     "Gurumukh Pyaaraa Gurumukh Pyaaraa Naam Uchaaro Re",
-    "गुरुमुख पयारा गुरुमुख पयारा नाम ुचारो रे"
+    "राग आसा भजन 45",
+    "Raag Aasaa Bhajan 45"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 107,
+  "displayOrder": 45,
+  "overallOrder": 107,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 79",
+  "updatedAt": "2026-10-26"
 }

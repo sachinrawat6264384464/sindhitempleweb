@@ -1,67 +1,116 @@
 {
-  "id": "bhajan-0871",
+  "id": "bhajan-0869",
   "slug": "shvaason-se-sumro-guru-naam-gurumukh-apni-shruti-lagaake",
   "categoryId": "raag-jog",
-  "title": "शवासोन से सुमरो गुरु नाम, गुरुमुख पनि शरुति लगाके",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "श्वासों से सुमरो गुरु नाम, गुरुमुख अपनी श्रुति लगाके",
   "romanTitle": "Shvaason Se Sumro Guru Naam, Gurumukh Apni Shruti Lagaake",
   "firstLine": "Shvaason Se Sumro Guru Naam, Gurumukh Apni Shruti Lagaake (Tek).",
+  "heading": "।। राग जोग भजन ।। ४१ ।। ८७१॥।",
+  "tek": [
+    "श्वासों से सुमरो गुरु नाम, गुरुमुख अपनी श्रुति लगाके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shvaason Se Sumro Guru Naam, Gurumukh Apni Shruti Lagaake (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ऊठत बैठत आवत जावत, सोबवत जागत पीवत खावत ।",
+        "शब्द गुरू का सुमर ललाम, फुरने का व्यवधान हटाके ॥१ ॥"
+      ],
+      "romanLines": [
+        "Uthat Baithat Aavat Jaavat, Sobvat Jaagat Pivat Khaavat.",
+        "Shabd Guru Kaa Sumar Lalaam, Phurne Kaa Vyavdhaan Hataake || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सहनजे ब्राण में श्वास चरत है, शब्द श्वास में गमन करत है ।",
+        "तांको सुनले मति अभिराम , अपने मन को अचल बनाके ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sahnaje Braan Men Shvaas Charat Hai, Shabd Shvaas Men Gaman Karat Hai.",
+        "Taanko Sunle Mati Abhiraam, Apne Man Ko Achal Banaake || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्राण हिंडोले गुरुमुख झूले, शब्द सुधा ले मन में फूले ।",
+        "मस्त रहत है आठों याम, तन अपने का भास भुलाके ॥३ ॥"
+      ],
+      "romanLines": [
+        "Praan Hindole Gurumukh Jhule, Shabd Sudhaa Le Man Men Phule.",
+        "Mast Rahat Hai Aathon Yaam, Tan Apne Kaa Bhaas Bhulaake || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सो जन बड़भागी, जो सुमरे गुरु मंतर जागी ।",
+        "पूरन तांके होवहिं काम, पाय अमर घर जन्म मिटाके ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun So Jan Barbhaagi, Jo Sumre Guru Mantar Jaagi.",
+        "Puran Taanke Hovhin Kaam, Paay Amar Ghar Janm Mitaake || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शवासोन से सुमरो गुरु नाम, गुरुमुख पनि शरुति लगाके (टेक)."
+      "ऊठत बैठत आवत जावत, सोबवत जागत पीवत खावत ।",
+      "शब्द गुरू का सुमर ललाम, फुरने का व्यवधान हटाके ॥१ ॥"
     ],
     [
-      "ुथत बैथत ावत जावत, सोबवत जागत पिवत खावत.",
-      "शबद गुरु का सुमर ललाम, फुरने का वयवधान हताके || 1 ||."
+      "सहनजे ब्राण में श्वास चरत है, शब्द श्वास में गमन करत है ।",
+      "तांको सुनले मति अभिराम , अपने मन को अचल बनाके ॥२ ॥"
     ],
     [
-      "सहनजे बरान मेन शवास चरत है, शबद शवास मेन गमन करत है.",
-      "तानको सुनले मति भिराम, पने मन को चल बनाके || 2 ||."
+      "प्राण हिंडोले गुरुमुख झूले, शब्द सुधा ले मन में फूले ।",
+      "मस्त रहत है आठों याम, तन अपने का भास भुलाके ॥३ ॥"
     ],
     [
-      "परान हिनदोले गुरुमुख झुले, शबद सुधा ले मन मेन फुले.",
-      "मसत रहत है ाथोन याम, तन पने का भास भुलाके ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ सो जन बरभागि, जो सुमरे गुरु मनतर जागि.",
-      "पुरन तानके होवहिन काम, पाय मर घर जनम मिताके || 4 ||."
+      "कहे टेऊँ सो जन बड़भागी, जो सुमरे गुरु मंतर जागी ।",
+      "पूरन तांके होवहिं काम, पाय अमर घर जन्म मिटाके ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Shvaason Se Sumro Guru Naam, Gurumukh Apni Shruti Lagaake (Tek)."
-    ],
-    [
       "Uthat Baithat Aavat Jaavat, Sobvat Jaagat Pivat Khaavat.",
-      "Shabd Guru Kaa Sumar Lalaam, Phurne Kaa Vyavdhaan Hataake || 1 ||."
+      "Shabd Guru Kaa Sumar Lalaam, Phurne Kaa Vyavdhaan Hataake || 1 ||"
     ],
     [
       "Sahnaje Braan Men Shvaas Charat Hai, Shabd Shvaas Men Gaman Karat Hai.",
-      "Taanko Sunle Mati Abhiraam, Apne Man Ko Achal Banaake || 2 ||."
+      "Taanko Sunle Mati Abhiraam, Apne Man Ko Achal Banaake || 2 ||"
     ],
     [
       "Praan Hindole Gurumukh Jhule, Shabd Sudhaa Le Man Men Phule.",
-      "Mast Rahat Hai Aathon Yaam, Tan Apne Kaa Bhaas Bhulaake ||.3 ||"
+      "Mast Rahat Hai Aathon Yaam, Tan Apne Kaa Bhaas Bhulaake || 3 ||"
     ],
     [
       "Kahe Teun So Jan Barbhaagi, Jo Sumre Guru Mantar Jaagi.",
-      "Puran Taanke Hovhin Kaam, Paay Amar Ghar Janm Mitaake || 4 ||."
+      "Puran Taanke Hovhin Kaam, Paay Amar Ghar Janm Mitaake || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 41 || 871 ||.",
+    "श्वासों से सुमरो गुरु नाम, गुरुमुख अपनी श्रुति लगाके",
     "Shvaason Se Sumro Guru Naam, Gurumukh Apni Shruti Lagaake",
-    "शवासोन से सुमरो गुरु नाम, गुरुमुख पनि शरुति लगाके"
+    "राग जोग भजन 41",
+    "Raag Jog Bhajan 41"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
   ],
-  "displayOrder": 871,
+  "displayOrder": 41,
+  "overallOrder": 869,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 459",
+  "updatedAt": "2026-10-26"
 }

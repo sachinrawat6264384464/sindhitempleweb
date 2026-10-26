@@ -1,31 +1,69 @@
 {
-  "id": "bhajan-0751",
+  "id": "bhajan-0749",
   "slug": "satsang-ki-hameshaa-santani-hati-nikaali",
   "categoryId": "raag-pilaa",
-  "title": "सत्संग कि हमेशा, सनतनि हति निकालि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्संग की हमेशा, सन्तनि हटी निकाली",
   "romanTitle": "Satsang Ki Hameshaa, Santani Hati Nikaali",
   "firstLine": "Satsang Ki Hameshaa, Santani Hati Nikaali (Tek).",
+  "heading": "।। राग पीला भजन ।। २९ ।। ७५१।।",
+  "tek": [
+    "सत्संग की हमेशा, सन्तनि हटी निकाली ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Satsang Ki Hameshaa, Santani Hati Nikaali (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो सन्त पास आवे, तिसको शिक्षा सुनावे ।",
+        "निज धर्म में लगावे, सन्तों की एह चाली ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Sant Paas Aave, Tisko Shikshaa Sunaave.",
+        "Nij Dharm Men Lagaave, Santon Ki Eh Chaali || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आतम विद्या पढ़ाये, संसा सकल मिटाये ।",
+        "रंग राम का चढ़ाये, करते बुद्धी उजाली ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aatam Vidyaa Parhaaye, Sansaa Sakal Mitaaye.",
+        "Rang Raam Kaa Charhaaye, Karte Buddhi Ujaali || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सन्त सारे, गुण ज्ञान देनहारे ।",
+        "जाओ तिनी द्वार, छोड़े कभी न खाली ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sant Saare, Gun Gyaan Denhaare.",
+        "Jaao Tini Dvaar, Chhore Kabhi Na Khaali || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सत्संग कि हमेशा, सनतनि हति निकालि (टेक)."
+      "जो सन्त पास आवे, तिसको शिक्षा सुनावे ।",
+      "निज धर्म में लगावे, सन्तों की एह चाली ॥१ ॥"
     ],
     [
-      "जो संत पास ावे, तिसको शिकशा सुनावे.",
-      "निज धरम मेन लगावे, सनतोन कि ेह चालि || 1 ||"
+      "आतम विद्या पढ़ाये, संसा सकल मिटाये ।",
+      "रंग राम का चढ़ाये, करते बुद्धी उजाली ॥२ ॥"
     ],
     [
-      "ातम विदया परहाये, सनसा सकल मिताये.",
-      "रनग राम का चरहाये, करते बुदधि ुजालि || 2 ||"
-    ],
-    [
-      "कहे तेऊँ संत सारे, गुन ज्ञान देनहारे.",
-      "जाो तिनि दवार, चहोरे कभि न खालि ||.3 ||"
+      "कहे टेऊँ सन्त सारे, गुण ज्ञान देनहारे ।",
+      "जाओ तिनी द्वार, छोड़े कभी न खाली ॥३ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Satsang Ki Hameshaa, Santani Hati Nikaali (Tek)."
-    ],
     [
       "Jo Sant Paas Aave, Tisko Shikshaa Sunaave.",
       "Nij Dharm Men Lagaave, Santon Ki Eh Chaali || 1 ||"
@@ -35,23 +73,25 @@
       "Rang Raam Kaa Charhaaye, Karte Buddhi Ujaali || 2 ||"
     ],
     [
-      "Kahe Teun Sant Saare, Gun Jnyaan Denhaare.",
-      "Jaao Tini Dvaar, Chhore Kabhi N Khaali ||.3 ||"
+      "Kahe Teun Sant Saare, Gun Gyaan Denhaare.",
+      "Jaao Tini Dvaar, Chhore Kabhi Na Khaali || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 29 || 751 ||",
+    "सत्संग की हमेशा, सन्तनि हटी निकाली",
     "Satsang Ki Hameshaa, Santani Hati Nikaali",
-    "सत्संग कि हमेशा, सनतनि हति निकालि"
+    "राग पीला भजन 28",
+    "Raag Pilaa Bhajan 28"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 751,
+  "displayOrder": 28,
+  "overallOrder": 749,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 397",
+  "updatedAt": "2026-10-26"
 }

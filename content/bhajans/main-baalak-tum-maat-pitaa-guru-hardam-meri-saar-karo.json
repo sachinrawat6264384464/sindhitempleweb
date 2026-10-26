@@ -2,53 +2,99 @@
   "id": "bhajan-0417",
   "slug": "main-baalak-tum-maat-pitaa-guru-hardam-meri-saar-karo",
   "categoryId": "raag-tilang",
-  "title": "मैं बालक तुम मात पिता गुरु, हरदम मेरि सार करो",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मैं बालक तुम मात पिता गुरु, हरदम मेरी सार करो",
   "romanTitle": "Main Baalak Tum Maat Pitaa Guru, Hardam Meri Saar Karo",
   "firstLine": "Main Baalak Tum Maat Pitaa Guru, Hardam Meri Saar Karo (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५४ ।। ४१८।।",
+  "tek": [
+    "मैं बालक तुम मात पिता गुरु, हरदम मेरी सार करो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Main Baalak Tum Maat Pitaa Guru, Hardam Meri Saar Karo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मैं हूं पापी तुम हो पावन, पाप सर्व संहार करो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Main Hun Paapi Tum Ho Paavan, Paap Sarv Sanhaar Karo || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तीन ताप में जलता हैं मैं, मुझको ठण्डा ठार करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tin Taap Men Jaltaa Hain Main, Mujhko Thandaa Thaar Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मैं गुण हीना तुम गुणखानी , मम उर गुण भण्डार करो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Main Gun Hinaa Tum Gunkhaani, Mam Ur Gun Bhandaar Karo || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "डूबत हूं मैं भव सागर में, कहे टेऊं॑ अब पार करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Dubat Hun Main Bhav Saagar Men, Kahe Teun Ab Paar Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मैं बालक तुम मात पिता गुरु, हरदम मेरि सार करो (टेक)."
+      "मैं हूं पापी तुम हो पावन, पाप सर्व संहार करो ॥१ ॥"
     ],
     [
-      "मैं हुन पापि तुम हो पावन, पाप सर्व सनहार करो ||.1. ||.",
-      "तिन ताप मेन जलता हैन मैं, मुझको थनदा थार करो || 2 ||."
+      "तीन ताप में जलता हैं मैं, मुझको ठण्डा ठार करो ॥२ ॥"
     ],
     [
-      "मैं गुन हिना तुम गुनखानि, मम ुर गुन भनदार करो || 3 ||."
+      "मैं गुण हीना तुम गुणखानी , मम उर गुण भण्डार करो ॥३ ॥"
     ],
     [
-      "दुबत हुन मैं भव सागर मेन, कहे तेऊँ ब पार करो ||.4 ||."
+      "डूबत हूं मैं भव सागर में, कहे टेऊं॑ अब पार करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Main Baalak Tum Maat Pitaa Guru, Hardam Meri Saar Karo (Tek)."
+      "Main Hun Paapi Tum Ho Paavan, Paap Sarv Sanhaar Karo || 1 ||"
     ],
     [
-      "Main Hun Paapi Tum Ho Paavan, Paap Sarv Sanhaar Karo ||.1. ||.",
-      "Tin Taap Men Jaltaa Hain Main, Mujhko Thandaa Thaar Karo || 2 ||."
+      "Tin Taap Men Jaltaa Hain Main, Mujhko Thandaa Thaar Karo || 2 ||"
     ],
     [
-      "Main Gun Hinaa Tum Gunkhaani, Mam Ur Gun Bhandaar Karo || 3 ||."
+      "Main Gun Hinaa Tum Gunkhaani, Mam Ur Gun Bhandaar Karo || 3 ||"
     ],
     [
-      "Dubat Hun Main Bhav Saagar Men, Kahe Teun Ab Paar Karo ||.4 ||."
+      "Dubat Hun Main Bhav Saagar Men, Kahe Teun Ab Paar Karo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 54 || 418 ||",
+    "मैं बालक तुम मात पिता गुरु, हरदम मेरी सार करो",
     "Main Baalak Tum Maat Pitaa Guru, Hardam Meri Saar Karo",
-    "मैं बालक तुम मात पिता गुरु, हरदम मेरि सार करो"
+    "राग तिलंग भजन 54",
+    "Raag Tilang Bhajan 54"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 417,
+  "displayOrder": 54,
+  "overallOrder": 417,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 241",
+  "updatedAt": "2026-10-26"
 }

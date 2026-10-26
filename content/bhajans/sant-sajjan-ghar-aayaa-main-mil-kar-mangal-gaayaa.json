@@ -1,49 +1,107 @@
 {
-  "id": "bhajan-0732",
+  "id": "bhajan-0730",
   "slug": "sant-sajjan-ghar-aayaa-main-mil-kar-mangal-gaayaa",
   "categoryId": "raag-pilaa",
-  "title": "संत सजजन घर ाया, मैं मिल कर मनगल गाया",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सन्त सज्जन घर आया, मैं मिल कर मंगल गाया",
   "romanTitle": "Sant Sajjan Ghar Aayaa, Main Mil Kar Mangal Gaayaa",
   "firstLine": "Sant Sajjan Ghar Aayaa, Main Mil Kar Mangal Gaayaa (Tek).",
+  "heading": "।। राग पीला भजन ।। १० ।। ७३२।।",
+  "tek": [
+    "सन्त सज्जन घर आया, मैं मिल कर मंगल गाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sant Sajjan Ghar Aayaa, Main Mil Kar Mangal Gaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दो कर जोड़ करे प्रणामा, तन मन भेट धरे धन धामा ।",
+        "ले हरि नाम ध्याया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Do Kar Jor Kare Pranaamaa, Tan Man Bhet Dhare Dhan Dhaamaa.",
+        "Le Hari Naam Dhyaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सनतों की मैं करके सेवा, देखा अन्तर आत्म देवा ।",
+        "मुक्ति पदार्थ पाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santon Ki Main Karke Sevaa, Dekhaa Antar Aatm Devaa.",
+        "Mukti Padaarth Paayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सनतों की मैं सुन कर बानी, पाया पूरन पद निर्बानी ।",
+        "जन्म मरन दुख जाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Santon Ki Main Sun Kar Baani, Paayaa Puran Pad Nirbaani.",
+        "Janm Maran Dukh Jaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ धन भाग हमारे, आज मेरे घर सन्त पधारे ।",
+        "उर में आनन्द छाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Dhan Bhaag Hamaare, Aaj Mere Ghar Sant Padhaare.",
+        "Ur Men Aanand Chhaayaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्ह्य"
+      ],
+      "romanLines": [
+        "Thhy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "संत सजजन घर ाया, मैं मिल कर मनगल गाया (टेक)."
+      "दो कर जोड़ करे प्रणामा, तन मन भेट धरे धन धामा ।",
+      "ले हरि नाम ध्याया ॥१ ॥"
     ],
     [
-      "दो कर जोर करे परनामा, तन मन भेत धरे धन धामा.",
-      "ले हरि नाम धयाया.1 ||."
+      "सनतों की मैं करके सेवा, देखा अन्तर आत्म देवा ।",
+      "मुक्ति पदार्थ पाया ॥२ ॥"
     ],
     [
-      "सनतोन कि मैं करके सेवा, देखा नतर ातम देवा.",
-      "मुक्ति पदारथ पाया || 2 || ||"
+      "सनतों की मैं सुन कर बानी, पाया पूरन पद निर्बानी ।",
+      "जन्म मरन दुख जाया ॥३ ॥"
     ],
     [
-      "सनतोन कि मैं सुन कर बानी, पाया पुरन पद निरबानि.",
-      "जनम मरन दुःख जाया ||.3. ||."
+      "कहे टेऊँ धन भाग हमारे, आज मेरे घर सन्त पधारे ।",
+      "उर में आनन्द छाया ॥४ ॥"
     ],
     [
-      "कहे तेऊँ धन भाग हमारे, ाज मेरे घर संत पधारे.",
-      "ुर मेन आनंद चहाया || 4 ||"
-    ],
-    [
-      "थहय"
+      "ठ्ह्य"
     ]
   ],
   "romanLyrics": [
     [
-      "Sant Sajjan Ghar Aayaa, Main Mil Kar Mangal Gaayaa (Tek)."
-    ],
-    [
       "Do Kar Jor Kare Pranaamaa, Tan Man Bhet Dhare Dhan Dhaamaa.",
-      "Le Hari Naam Dhyaayaa.1 ||."
+      "Le Hari Naam Dhyaayaa || 1 ||"
     ],
     [
       "Santon Ki Main Karke Sevaa, Dekhaa Antar Aatm Devaa.",
-      "Mukti Padaarth Paayaa || 2 || ||"
+      "Mukti Padaarth Paayaa || 2 ||"
     ],
     [
       "Santon Ki Main Sun Kar Baani, Paayaa Puran Pad Nirbaani.",
-      "Janm Maran Dukh Jaayaa ||.3. ||."
+      "Janm Maran Dukh Jaayaa || 3 ||"
     ],
     [
       "Kahe Teun Dhan Bhaag Hamaare, Aaj Mere Ghar Sant Padhaare.",
@@ -54,18 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 10 || 732 ||",
+    "सन्त सज्जन घर आया, मैं मिल कर मंगल गाया",
     "Sant Sajjan Ghar Aayaa, Main Mil Kar Mangal Gaayaa",
-    "संत सजजन घर ाया, मैं मिल कर मनगल गाया"
+    "राग पीला भजन 9",
+    "Raag Pilaa Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 732,
+  "displayOrder": 9,
+  "overallOrder": 730,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 388",
+  "updatedAt": "2026-10-26"
 }

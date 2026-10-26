@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0776",
+  "id": "bhajan-0774",
   "slug": "raam-kaho-tum-raam-kaho-tum-raam-kaho-tum-mitr-hamaare",
   "categoryId": "raag-pilaa",
-  "title": "राम कहो तुम राम कहो तुम, राम कहो तुम मितर हमारे",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "राम कहो तुम राम कहो तुम, राम कहो तुम मित्र हमारे",
   "romanTitle": "Raam Kaho Tum Raam Kaho Tum, Raam Kaho Tum Mitr Hamaare",
   "firstLine": "Raam Kaho Tum Raam Kaho Tum, Raam Kaho Tum Mitr Hamaare (Tek).",
+  "heading": "।। राग पीला भजन ।। ५४ ।। ७७६।॥।",
+  "tek": [
+    "राम कहो तुम राम कहो तुम, राम कहो तुम मित्र हमारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Kaho Tum Raam Kaho Tum, Raam Kaho Tum Mitr Hamaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम सुख शान्ति भण्डारा, जनम मरण दुख हरने हारा ।",
+        "बन्ध छुड़ाए मुक्ति मिलाए, सहज समाए पद निर्धारे ।१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Sukh Shaanti Bhandaaraa, Janam Maran Dukh Harne Haaraa.",
+        "Bandh Chhuraae Mukti Milaae, Sahaj Samaae Pad Nirdhaare.1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम है बोहथ भारी, जो चढ़ता है ताहिं मंझारी ।",
+        "ताहिं तरावत बार न लावत, पार पहुंचावत मोक्ष द्वारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Hai Bohath Bhaari, Jo Charhtaa Hai Taahin Manjhaari.",
+        "Taahin Taraavat Baar Na Laavat, Paar Pahunchaavat Moksh Dvaare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम जो मन में धारे, जम का दूत न तांको मारे ।",
+        "राम जपीजे अमृत पीजे, जुग जुग जीजे प्रीतम प्यारे ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Jo Man Men Dhaare, Jam Kaa Dut Na Taanko Maare.",
+        "Raam Japije Amrit Pije, Jug Jug Jije Pritam Pyaare || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हरि नाम उचारे, राम नाम का अर्थ विचारे ।",
+        "भ्रम मिटाओ आनन्द पाओ,फेर न आओ जगत मंजझारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hari Naam Uchaare, Raam Naam Kaa Arth Vichaare.",
+        "Bhram Mitaao Aanand Paao,Pher Na Aao Jagat Manjjhaare || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम कहो तुम राम कहो तुम, राम कहो तुम मितर हमारे (टेक)."
+      "राम नाम सुख शान्ति भण्डारा, जनम मरण दुख हरने हारा ।",
+      "बन्ध छुड़ाए मुक्ति मिलाए, सहज समाए पद निर्धारे ।१ ॥१ ॥"
     ],
     [
-      "राम नाम सुख शांति भनदारा, जनम मरन दुःख हरने हारा.",
-      "बनध चहुराे मुक्ति मिलाे, सहज समाे पद निरधारे.1$ ||."
+      "राम नाम है बोहथ भारी, जो चढ़ता है ताहिं मंझारी ।",
+      "ताहिं तरावत बार न लावत, पार पहुंचावत मोक्ष द्वारे ॥२ ॥"
     ],
     [
-      "राम नाम है बोहथ भारि, जो चरहता है ताहिन मनझारि.",
-      "ताहिन तरावत बार न लावत, पार पहुनचावत मोक्ष दवारे || 2 ||."
+      "राम नाम जो मन में धारे, जम का दूत न तांको मारे ।",
+      "राम जपीजे अमृत पीजे, जुग जुग जीजे प्रीतम प्यारे ॥ ३े ॥"
     ],
     [
-      "राम नाम जो मन मेन धारे, जम का दुत न तानको मारे.",
-      "राम जपिजे अमृत पिजे, जुग जुग जिजे परितम पयारे || 3े ||"
-    ],
-    [
-      "कहे तेऊँ हरि नाम ुचारे, राम नाम का रथ विचारे.",
-      "भरम मिताो आनंद पाोफेर न ाो जगत मनजझारे.. 4 ||"
+      "कहे टेऊँ हरि नाम उचारे, राम नाम का अर्थ विचारे ।",
+      "भ्रम मिटाओ आनन्द पाओ,फेर न आओ जगत मंजझारे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Kaho Tum Raam Kaho Tum, Raam Kaho Tum Mitr Hamaare (Tek)."
-    ],
-    [
       "Raam Naam Sukh Shaanti Bhandaaraa, Janam Maran Dukh Harne Haaraa.",
-      "Bandh Chhuraae Mukti Milaae, Sahaj Samaae Pad Nirdhaare.1$ ||."
+      "Bandh Chhuraae Mukti Milaae, Sahaj Samaae Pad Nirdhaare.1 || 1 ||"
     ],
     [
       "Raam Naam Hai Bohath Bhaari, Jo Charhtaa Hai Taahin Manjhaari.",
-      "Taahin Taraavat Baar N Laavat, Paar Pahunchaavat Moksh Dvaare || 2 ||."
+      "Taahin Taraavat Baar Na Laavat, Paar Pahunchaavat Moksh Dvaare || 2 ||"
     ],
     [
-      "Raam Naam Jo Man Men Dhaare, Jam Kaa Dut N Taanko Maare.",
+      "Raam Naam Jo Man Men Dhaare, Jam Kaa Dut Na Taanko Maare.",
       "Raam Japije Amrit Pije, Jug Jug Jije Pritam Pyaare || 3E ||"
     ],
     [
       "Kahe Teun Hari Naam Uchaare, Raam Naam Kaa Arth Vichaare.",
-      "Bhram Mitaao Aanand Paao,Pher N Aao Jagat Manjjhaare.. 4 ||"
+      "Bhram Mitaao Aanand Paao,Pher Na Aao Jagat Manjjhaare || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 54 || 776. ||.",
+    "राम कहो तुम राम कहो तुम, राम कहो तुम मित्र हमारे",
     "Raam Kaho Tum Raam Kaho Tum, Raam Kaho Tum Mitr Hamaare",
-    "राम कहो तुम राम कहो तुम, राम कहो तुम मितर हमारे"
+    "राग पीला भजन 53",
+    "Raag Pilaa Bhajan 53"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 776,
+  "displayOrder": 53,
+  "overallOrder": 774,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 410",
+  "updatedAt": "2026-10-26"
 }

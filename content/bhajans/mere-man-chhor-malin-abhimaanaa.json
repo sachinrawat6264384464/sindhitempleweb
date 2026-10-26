@@ -1,65 +1,114 @@
 {
-  "id": "bhajan-0476",
+  "id": "bhajan-0475",
   "slug": "mere-man-chhor-malin-abhimaanaa",
   "categoryId": "raag-huseni",
-  "title": "मेरे मन चहोर मलिन भिमाना",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "मेरे मन छोड़ मलिन अभिमाना",
   "romanTitle": "Mere Man Chhor Malin Abhimaanaa",
-  "firstLine": "Mere Man Chhor Malin Abhimaanaa. Sant Granth Sab Puraan Pukaare Suniye De Nij Kaanaa (Tek).",
+  "firstLine": "Mere Man Chhor Malin Abhimaanaa.",
+  "heading": "।। राग हुसेनी भजन ।। १४ ।। ४७६।॥।",
+  "tek": [
+    "मेरे मन छोड़ मलिन अभिमाना ।",
+    "सन्त ग्रन्थ सब पुरान पुकारे सुनिये दे निज काना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Chhor Malin Abhimaanaa.",
+    "Sant Granth Sab Puraan Pukaare Suniye De Nij Kaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रान प्यारे साथी चल गये तुम भी चलने हारा ।",
+        "दो दिन के हैं रहने वाले जीव सकल संसारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Praan Pyaare Saathi Chal Gaye Tum Bhi Chalne Haaraa.",
+        "Do Din Ke Hain Rahne Vaale Jiv Sakal Sansaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जबहीं जग में जन्म लिया तुम साथ नहीं कुछ लाये ।",
+        "धन परिवार को बहुत बढ़ाया, अन्त काम नहिं आये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jabhin Jag Men Janm Liyaa Tum Saath Nahin Kuchh Laaye.",
+        "Dhan Parivaar Ko Bahut Barhaayaa, Ant Kaam Nahin Aaye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ अब कर वीचारा सत्‌गुरु शरणी जाओ ।",
+        "लेकर तांसे आत्म ज्ञाना परम मुक्ति को पाओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Kar Vichaaraa Sat‌Guru Sharni Jaao.",
+        "Lekar Taanse Aatm Jnyaanaa Param Mukti Ko Paao || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द््य्दध"
+      ],
+      "romanLines": [
+        "Dydadh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन चहोर मलिन भिमाना.",
-      "संत गरनथ सब पुरान पुकारे सुनिये दे निज काना (टेक)."
+      "प्रान प्यारे साथी चल गये तुम भी चलने हारा ।",
+      "दो दिन के हैं रहने वाले जीव सकल संसारा ॥१ ॥"
     ],
     [
-      "परान पयारे साथि चल गये तुम भि चलने हारा.",
-      "दो दीन के हैन रहने वाले जिव सकल सनसारा.1 ||."
+      "जबहीं जग में जन्म लिया तुम साथ नहीं कुछ लाये ।",
+      "धन परिवार को बहुत बढ़ाया, अन्त काम नहिं आये ॥२ ॥"
     ],
     [
-      "जभिन जग मेन जनम लिया तुम साथ नहिन कुचह लाये.",
-      "धन परिवार को बहुत बरहाया, नत काम नहिन ाये || 2 ||."
+      "कहे टेऊँ अब कर वीचारा सत्‌गुरु शरणी जाओ ।",
+      "लेकर तांसे आत्म ज्ञाना परम मुक्ति को पाओ ॥३ ॥"
     ],
     [
-      "कहे तेऊँ ब कर विचारा सतगुरु शरनि जाो.",
-      "लेकर तानसे ातम जनयाना परम मुक्ति को पाो. ||.3 ||"
-    ],
-    [
-      "दयदध"
+      "द््य्दध"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Chhor Malin Abhimaanaa.",
-      "Sant Granth Sab Puraan Pukaare Suniye De Nij Kaanaa (Tek)."
-    ],
-    [
       "Praan Pyaare Saathi Chal Gaye Tum Bhi Chalne Haaraa.",
-      "Do Din Ke Hain Rahne Vaale Jiv Sakal Sansaaraa.1 ||."
+      "Do Din Ke Hain Rahne Vaale Jiv Sakal Sansaaraa || 1 ||"
     ],
     [
       "Jabhin Jag Men Janm Liyaa Tum Saath Nahin Kuchh Laaye.",
-      "Dhan Parivaar Ko Bahut Barhaayaa, Ant Kaam Nahin Aaye || 2 ||."
+      "Dhan Parivaar Ko Bahut Barhaayaa, Ant Kaam Nahin Aaye || 2 ||"
     ],
     [
       "Kahe Teun Ab Kar Vichaaraa Sat‌Guru Sharni Jaao.",
-      "Lekar Taanse Aatm Jnyaanaa Param Mukti Ko Paao. ||.3 ||"
+      "Lekar Taanse Aatm Jnyaanaa Param Mukti Ko Paao || 3 ||"
     ],
     [
       "Dydadh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Huseni Bhajan || 14 || 476. ||.",
+    "मेरे मन छोड़ मलिन अभिमाना",
     "Mere Man Chhor Malin Abhimaanaa",
-    "मेरे मन चहोर मलिन भिमाना"
+    "राग हुसैनी भजन 14",
+    "Raag Huseni Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 476,
+  "displayOrder": 14,
+  "overallOrder": 475,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 266",
+  "updatedAt": "2026-10-26"
 }

@@ -1,53 +1,100 @@
 {
-  "id": "bhajan-0852",
+  "id": "bhajan-0850",
   "slug": "baadal-amrit-dhaaraa-barse-pivat-chaatrak-pyaaraa-re",
   "categoryId": "raag-jog",
-  "title": "बादल अमृत धारा बरसे, पिवत चातरक पयारा रे",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "बादल अमृत धारा बरसे, पीवत चात्रक प्यारा रे",
   "romanTitle": "Baadal Amrit Dhaaraa Barse, Pivat Chaatrak Pyaaraa Re",
   "firstLine": "Baadal Amrit Dhaaraa Barse, Pivat Chaatrak Pyaaraa Re (Tek).",
+  "heading": "।। राग जोग भजन ।। २२ ।। ८५२।।",
+  "tek": [
+    "बादल अमृत धारा बरसे, पीवत चात्रक प्यारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Baadal Amrit Dhaaraa Barse, Pivat Chaatrak Pyaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चात्रक जीवन बून्द स्वांती, पीवत और न वारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chaatrak Jivan Bund Svaanti, Pivat Aur Na Vaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सागर सर सरिता का पानी, लागे तांको खारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saagar Sar Saritaa Kaa Paani, Laage Taanko Khaaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अन्त काल सिर करहिं न नीवां, ऊँचे चोंच पुकारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ant Kaal Sir Karhin Na Nivaan, Unche Chonch Pukaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ इस अटल नियम पर, जाऊँ मैं बलिहारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Is Atal Niyam Par, Jaaun Main Balihaaraa Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बादल अमृत धारा बरसे, पिवत चातरक पयारा रे (टेक)."
+      "चात्रक जीवन बून्द स्वांती, पीवत और न वारा रे ॥१ ॥"
     ],
     [
-      "चातरक जिवन बुनद सवानति, पिवत ौर न वारा रे.1 ||.",
-      "सागर सर सरिता का पानि, लागे तानको खारा रे. || 2 ||."
+      "सागर सर सरिता का पानी, लागे तांको खारा रे ॥२ ॥"
     ],
     [
-      "नत काल सिर करहिन न निवान, ुनचे चोनच पुकारा रे || 3 ||."
+      "अन्त काल सिर करहिं न नीवां, ऊँचे चोंच पुकारा रे ॥३ ॥"
     ],
     [
-      "कहे तेऊँ िस तल नियम पर, जाुन मैं बलिहारा रे.4 ||."
+      "कहे टेऊँ इस अटल नियम पर, जाऊँ मैं बलिहारा रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Baadal Amrit Dhaaraa Barse, Pivat Chaatrak Pyaaraa Re (Tek)."
+      "Chaatrak Jivan Bund Svaanti, Pivat Aur Na Vaaraa Re || 1 ||"
     ],
     [
-      "Chaatrak Jivan Bund Svaanti, Pivat Aur N Vaaraa Re.1 ||.",
-      "Saagar Sar Saritaa Kaa Paani, Laage Taanko Khaaraa Re. || 2 ||."
+      "Saagar Sar Saritaa Kaa Paani, Laage Taanko Khaaraa Re || 2 ||"
     ],
     [
-      "Ant Kaal Sir Karhin N Nivaan, Unche Chonch Pukaaraa Re || 3 ||."
+      "Ant Kaal Sir Karhin Na Nivaan, Unche Chonch Pukaaraa Re || 3 ||"
     ],
     [
-      "Kahe Teun Is Atal Niyam Par, Jaaun Main Balihaaraa Re.4 ||."
+      "Kahe Teun Is Atal Niyam Par, Jaaun Main Balihaaraa Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 22 || 852 ||",
+    "बादल अमृत धारा बरसे, पीवत चात्रक प्यारा रे",
     "Baadal Amrit Dhaaraa Barse, Pivat Chaatrak Pyaaraa Re",
-    "बादल अमृत धारा बरसे, पिवत चातरक पयारा रे"
+    "राग जोग भजन 22",
+    "Raag Jog Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 852,
+  "displayOrder": 22,
+  "overallOrder": 850,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 451",
+  "updatedAt": "2026-10-26"
 }

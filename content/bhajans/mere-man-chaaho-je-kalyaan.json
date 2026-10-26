@@ -2,80 +2,136 @@
   "id": "bhajan-0214",
   "slug": "mere-man-chaaho-je-kalyaan",
   "categoryId": "raag-tori",
-  "title": "मेरे मन चाहो जे कलयान",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "मेरे मन चाहो जे कल्यान",
   "romanTitle": "Mere Man Chaaho Je Kalyaan",
-  "firstLine": "Mere Man Chaaho Je Kalyaan. Santon Se Nit Shravan Kije Sadu Updesh Sujaan (Tek).",
+  "firstLine": "Mere Man Chaaho Je Kalyaan.",
+  "heading": "।। राग टोड़ी भजन ।। २२ ।। २१४।।",
+  "tek": [
+    "मेरे मन चाहो जे कल्यान ।",
+    "सनतों से नित श्रवण कीजे सदू उपदेश सुजान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Chaaho Je Kalyaan.",
+    "Santon Se Nit Shravan Kije Sadu Updesh Sujaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "नौधा भक्ती ज्ञान साधन में पहला श्रवण जान ।",
+        "तां बिन योग न भक्ती होवे ना हो ज्ञान विज्ञान ॥8 ॥"
+      ],
+      "romanLines": [
+        "Naudhaa Bhakti Gyaan Saadhan Men Pahlaa Shravan Jaan.",
+        "Taan Bin Yog Na Bhakti Hove Naa Ho Gyaan Vijnyaan || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भूप परीक्षित श्रवण कीना श्रीमद्भागवत पुरान ।",
+        "काल सांप के भय को मेटे पाया पद प्रधान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhup Parikshit Shravan Kinaa Shriimadbhaagvat Puraan.",
+        "Kaal Saanp Ke Bhay Ko Mete Paayaa Pad Pradhaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कथा श्रवण हित पृथु ने मांगा हरि से सहसदश कान ।",
+        "पार्वती ने श्रवण कीना शिव से ज्ञान महान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kathaa Shravan Hit Prithu Ne Maangaa Hari Se Sahsadash Kaan.",
+        "Paarvati Ne Shravan Kinaa Shiv Se Gyaan Mahaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सुना सूत से ऋषियों ने भी पुराणों का वख्यान ।",
+        "कृष्ण से गीता सुन अर्जुन होया अति बलवान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sunaa Sut Se Rishiyon Ne Bhi Puraanon Kaa Vakhyaan.",
+        "Krishn Se Gitaa Sun Arjun Hoyaa Ati Balvaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "जिसने जग में जो कछु पाया श्रवण से पहिचान ।",
+        "कहे टेडँ श्रद्धा से तुम भी सुनलो गुरु से ज्ञान ॥५ ॥"
+      ],
+      "romanLines": [
+        "Jisne Jag Men Jo Kachhu Paayaa Shravan Se Pahichaan.",
+        "Kahe Tedan Shraddhaa Se Tum Bhi Sunlo Guru Se Gyaan || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन चाहो जे कलयान.",
-      "सनतोन से नित शरवन किजे सदु ुपदेश सुजान (टेक)."
+      "नौधा भक्ती ज्ञान साधन में पहला श्रवण जान ।",
+      "तां बिन योग न भक्ती होवे ना हो ज्ञान विज्ञान ॥8 ॥"
     ],
     [
-      "नौधा भक्ति ज्ञान साधन मेन पहला शरवन जान.",
-      "तान बिन योग न भक्ति होवे ना हो ज्ञान विजनयान || 8 ||"
+      "भूप परीक्षित श्रवण कीना श्रीमद्भागवत पुरान ।",
+      "काल सांप के भय को मेटे पाया पद प्रधान ॥२ ॥"
     ],
     [
-      "भुप परिकशित शरवन किना शरीमदभागवत पुरान.",
-      "काल सानप के भय को मेते पाया पद परधान || 2 ||."
+      "कथा श्रवण हित पृथु ने मांगा हरि से सहसदश कान ।",
+      "पार्वती ने श्रवण कीना शिव से ज्ञान महान ॥३ ॥"
     ],
     [
-      "कथा शरवन हित परिथु ने मानगा हरि से सहसदश कान.",
-      "पारवति ने शरवन किना शिव से ज्ञान महान || 3 ||"
+      "सुना सूत से ऋषियों ने भी पुराणों का वख्यान ।",
+      "कृष्ण से गीता सुन अर्जुन होया अति बलवान ॥४ ॥"
     ],
     [
-      "सुना सुत से रिशियोन ने भि पुरानोन का वखयान.",
-      "करिशन से गिता सुन रजुन होया ति बलवान || 4. ||."
-    ],
-    [
-      "जिसने जग मेन जो कचहु पाया शरवन से पहिचान.",
-      "कहे तेदन शरदधा से तुम भि सुनलो गुरु से ज्ञान || 5 ||."
-    ],
-    [
-      "रा"
+      "जिसने जग में जो कछु पाया श्रवण से पहिचान ।",
+      "कहे टेडँ श्रद्धा से तुम भी सुनलो गुरु से ज्ञान ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Chaaho Je Kalyaan.",
-      "Santon Se Nit Shravan Kije Sadu Updesh Sujaan (Tek)."
-    ],
-    [
-      "Naudhaa Bhakti Jnyaan Saadhan Men Pahlaa Shravan Jaan.",
-      "Taan Bin Yog N Bhakti Hove Naa Ho Jnyaan Vijnyaan || 8 ||"
+      "Naudhaa Bhakti Gyaan Saadhan Men Pahlaa Shravan Jaan.",
+      "Taan Bin Yog Na Bhakti Hove Naa Ho Gyaan Vijnyaan || 8 ||"
     ],
     [
       "Bhup Parikshit Shravan Kinaa Shriimadbhaagvat Puraan.",
-      "Kaal Saanp Ke Bhay Ko Mete Paayaa Pad Pradhaan || 2 ||."
+      "Kaal Saanp Ke Bhay Ko Mete Paayaa Pad Pradhaan || 2 ||"
     ],
     [
       "Kathaa Shravan Hit Prithu Ne Maangaa Hari Se Sahsadash Kaan.",
-      "Paarvati Ne Shravan Kinaa Shiv Se Jnyaan Mahaan || 3 ||"
+      "Paarvati Ne Shravan Kinaa Shiv Se Gyaan Mahaan || 3 ||"
     ],
     [
       "Sunaa Sut Se Rishiyon Ne Bhi Puraanon Kaa Vakhyaan.",
-      "Krishn Se Gitaa Sun Arjun Hoyaa Ati Balvaan || 4. ||."
+      "Krishn Se Gitaa Sun Arjun Hoyaa Ati Balvaan || 4 ||"
     ],
     [
       "Jisne Jag Men Jo Kachhu Paayaa Shravan Se Pahichaan.",
-      "Kahe Tedan Shraddhaa Se Tum Bhi Sunlo Guru Se Jnyaan || 5 ||."
-    ],
-    [
-      "Raa"
+      "Kahe Tedan Shraddhaa Se Tum Bhi Sunlo Guru Se Gyaan || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 22 || 214 ||",
+    "मेरे मन चाहो जे कल्यान",
     "Mere Man Chaaho Je Kalyaan",
-    "मेरे मन चाहो जे कलयान"
+    "राग तोड़ी भजन 22",
+    "Raag Tori Bhajan 22"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 214,
+  "displayOrder": 22,
+  "overallOrder": 214,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 135",
+  "updatedAt": "2026-10-26"
 }

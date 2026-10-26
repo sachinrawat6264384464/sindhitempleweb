@@ -1,71 +1,116 @@
 {
-  "id": "bhajan-0743",
+  "id": "bhajan-0741",
   "slug": "samajh-manaa-samajh-manaa-samajh-manaa-samajh-manaa",
   "categoryId": "raag-pilaa",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
   "title": "समझ मना, समझ मना, समझ मना, समझ मना",
   "romanTitle": "Samajh Manaa, Samajh Manaa, Samajh Manaa, Samajh Manaa",
   "firstLine": "Samajh Manaa, Samajh Manaa, Samajh Manaa, Samajh Manaa (Tek).",
+  "heading": "।। राग पीला भजन ॥।। २१ ।। ७४३।।",
+  "tek": [
+    "समझ मना, समझ मना, समझ मना, समझ मना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Samajh Manaa, Samajh Manaa, Samajh Manaa, Samajh Manaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह जगत मुसाफिरखाना है, यह रहने का न ठिकाना है ।",
+        "तुम दो दिन का महिमाना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Jagat Musaaphirkhaanaa Hai, Yah Rahne Kaa Na Thikaanaa Hai.",
+        "Tum Do Din Kaa Mahimaanaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ये मात पिता सुत दारा है, सब स्वार्थ का परिवारा है ।",
+        "को साथ न चलनेहारा है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ye Maat Pitaa Sut Daaraa Hai, Sab Svaarth Kaa Parivaaraa Hai.",
+        "Ko Saath Na Chalnehaaraa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ये भोग लगत जे प्यारा है, फल आख़िर इसका खारा है ।",
+        "ये सन्तनि साफ पुकारा है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ye Bhog Lagat Je Pyaaraa Hai, Phal Aakhir Iskaa Khaaraa Hai.",
+        "Ye Santani Saaph Pukaaraa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सबका त्याग करो, हरि चरनों में अनुराग करो ।",
+        "करे भक्ती ऊँचा भाग करो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sabkaa Tyaag Karo, Hari Charnon Men Anuraag Karo.",
+        "Kare Bhakti Unchaa Bhaag Karo || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "समझ मना, समझ मना, समझ मना, समझ मना (टेक)."
+      "यह जगत मुसाफिरखाना है, यह रहने का न ठिकाना है ।",
+      "तुम दो दिन का महिमाना है ॥१ ॥"
     ],
     [
-      "यह जगत मुसाफिरखाना है, यह रहने का न थिकाना है.",
-      "तुम दो दीन का महिमाना है || 1 ||"
+      "ये मात पिता सुत दारा है, सब स्वार्थ का परिवारा है ।",
+      "को साथ न चलनेहारा है ॥२ ॥"
     ],
     [
-      "ये मात पिता सुत दारा है, सब सवारथ का परिवारा है.",
-      "को साथ न चलनेहारा है || 2 ||."
+      "ये भोग लगत जे प्यारा है, फल आख़िर इसका खारा है ।",
+      "ये सन्तनि साफ पुकारा है ॥३ ॥"
     ],
     [
-      "ये भोग लगत जे पयारा है, फल ाखिर िसका खारा है.",
-      "ये सनतनि साफ पुकारा है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सबका तयाग करो, हरि चरनोन मेन नुराग करो.",
-      "करे भक्ति ुनचा भाग करो ||.4 ||"
-    ],
-    [
-      "नल"
+      "कहे टेऊँ सबका त्याग करो, हरि चरनों में अनुराग करो ।",
+      "करे भक्ती ऊँचा भाग करो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Samajh Manaa, Samajh Manaa, Samajh Manaa, Samajh Manaa (Tek)."
-    ],
-    [
-      "Yah Jagat Musaaphirkhaanaa Hai, Yah Rahne Kaa N Thikaanaa Hai.",
+      "Yah Jagat Musaaphirkhaanaa Hai, Yah Rahne Kaa Na Thikaanaa Hai.",
       "Tum Do Din Kaa Mahimaanaa Hai || 1 ||"
     ],
     [
       "Ye Maat Pitaa Sut Daaraa Hai, Sab Svaarth Kaa Parivaaraa Hai.",
-      "Ko Saath N Chalnehaaraa Hai || 2 ||."
+      "Ko Saath Na Chalnehaaraa Hai || 2 ||"
     ],
     [
       "Ye Bhog Lagat Je Pyaaraa Hai, Phal Aakhir Iskaa Khaaraa Hai.",
-      "Ye Santani Saaph Pukaaraa Hai || 3 ||."
+      "Ye Santani Saaph Pukaaraa Hai || 3 ||"
     ],
     [
       "Kahe Teun Sabkaa Tyaag Karo, Hari Charnon Men Anuraag Karo.",
-      "Kare Bhakti Unchaa Bhaag Karo ||.4 ||"
-    ],
-    [
-      "Nal"
+      "Kare Bhakti Unchaa Bhaag Karo || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 21 || 743 ||",
+    "समझ मना, समझ मना, समझ मना, समझ मना",
     "Samajh Manaa, Samajh Manaa, Samajh Manaa, Samajh Manaa",
-    "समझ मना, समझ मना, समझ मना, समझ मना"
+    "राग पीला भजन 20",
+    "Raag Pilaa Bhajan 20"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 743,
+  "displayOrder": 20,
+  "overallOrder": 741,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 393",
+  "updatedAt": "2026-10-26"
 }

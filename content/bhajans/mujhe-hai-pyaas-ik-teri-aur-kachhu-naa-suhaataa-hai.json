@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0562",
+  "id": "bhajan-0560",
   "slug": "mujhe-hai-pyaas-ik-teri-aur-kachhu-naa-suhaataa-hai",
   "categoryId": "raag-khambhaat",
-  "title": "मुझे है पयास िक तेरि, ौर कचहु ना सुहाता है",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "मुझे है प्यास इक तेरी, और कछु ना सुहाता है",
   "romanTitle": "Mujhe Hai Pyaas Ik Teri, Aur Kachhu Naa Suhaataa Hai",
   "firstLine": "Mujhe Hai Pyaas Ik Teri, Aur Kachhu Naa Suhaataa Hai (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १२ ।। ५६१।।",
+  "tek": [
+    "मुझे है प्यास इक तेरी, और कछु ना सुहाता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mujhe Hai Pyaas Ik Teri, Aur Kachhu Naa Suhaataa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बदन तो है इधर मेरा, मगर मन पास है तेरे ।",
+        "दर्द में नैन रो रोके, रक्त जल को बहाता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Badan To Hai Idhar Meraa, Magar Man Paas Hai Tere.",
+        "Dard Men Nain Ro Roke, Rakt Jal Ko Bahaataa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अग्नि तेरे विरह की जब, जलाती है जिगर मेरा ।",
+        "निकल तब नीर नैनों का, उसी को जा बुझाता है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Agni Tere Virah Ki Jab, Jalaati Hai Jigar Meraa.",
+        "Nikal Tab Nir Nainon Kaa, Usi Ko Jaa Bujhaataa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिसी क्षण याद आते हो, उसी क्षण सूझ ना रहती ।",
+        "तजे मन ख्याल दुनिया का, हरी तुझ में समाता है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jisi Kshan Yaad Aate Ho, Usi Kshan Sujh Naa Rahti.",
+        "Taje Man Khyaal Duniyaa Kaa, Hari Tujh Men Samaataa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुनो स्वामी, करूं पीउ पीउ पपीहे ज्यों ।",
+        "तुम्हारे दरस हित मनुवा, चकोरे ज्यों चिल्लाता है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Suno Svaami, Karun Piu Piu Papihe Jyon.",
+        "Tumhaare Daras Hit Manuvaa, Chakore Jyon Chillaataa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मुझे है पयास िक तेरि, ौर कचहु ना सुहाता है (टेक)."
+      "बदन तो है इधर मेरा, मगर मन पास है तेरे ।",
+      "दर्द में नैन रो रोके, रक्त जल को बहाता है ॥१ ॥"
     ],
     [
-      "बदन तो है िधर मेरा, मगर मन पास है तेरे.",
-      "दरद मेन नैन रो रोके, रकत जल को बहाता है.1 ||"
+      "अग्नि तेरे विरह की जब, जलाती है जिगर मेरा ।",
+      "निकल तब नीर नैनों का, उसी को जा बुझाता है ॥२ ॥"
     ],
     [
-      "गनि तेरे विरह कि जब, जलाति है जिगर मेरा.",
-      "निकल तब निर नैनोन का, ुसि को जा बुझाता है || 2 ||"
+      "जिसी क्षण याद आते हो, उसी क्षण सूझ ना रहती ।",
+      "तजे मन ख्याल दुनिया का, हरी तुझ में समाता है ॥३ ॥"
     ],
     [
-      "जिसि कशन याद ाते हो, ुसि कशन सुझ ना रहति.",
-      "तजे मन खयाल दुनिया का, हरि तुझ मेन समाता है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सुनो स्वामी, करुन पिु पिु पपिहे जयोन.",
-      "तुमहारे दरस हित मनुवा, चकोरे जयोन चिललाता है || 4 ||"
+      "कहे टेऊँ सुनो स्वामी, करूं पीउ पीउ पपीहे ज्यों ।",
+      "तुम्हारे दरस हित मनुवा, चकोरे ज्यों चिल्लाता है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mujhe Hai Pyaas Ik Teri, Aur Kachhu Naa Suhaataa Hai (Tek)."
-    ],
-    [
       "Badan To Hai Idhar Meraa, Magar Man Paas Hai Tere.",
-      "Dard Men Nain Ro Roke, Rakt Jal Ko Bahaataa Hai.1 ||"
+      "Dard Men Nain Ro Roke, Rakt Jal Ko Bahaataa Hai || 1 ||"
     ],
     [
       "Agni Tere Virah Ki Jab, Jalaati Hai Jigar Meraa.",
@@ -40,7 +89,7 @@
     ],
     [
       "Jisi Kshan Yaad Aate Ho, Usi Kshan Sujh Naa Rahti.",
-      "Taje Man Khyaal Duniyaa Kaa, Hari Tujh Men Samaataa Hai || 3 ||."
+      "Taje Man Khyaal Duniyaa Kaa, Hari Tujh Men Samaataa Hai || 3 ||"
     ],
     [
       "Kahe Teun Suno Svaami, Karun Piu Piu Papihe Jyon.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 12 || 561 ||",
+    "मुझे है प्यास इक तेरी, और कछु ना सुहाता है",
     "Mujhe Hai Pyaas Ik Teri, Aur Kachhu Naa Suhaataa Hai",
-    "मुझे है पयास िक तेरि, ौर कचहु ना सुहाता है"
+    "राग खंभात भजन 12",
+    "Raag Khambhaat Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 562,
+  "displayOrder": 12,
+  "overallOrder": 560,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 306",
+  "updatedAt": "2026-10-26"
 }

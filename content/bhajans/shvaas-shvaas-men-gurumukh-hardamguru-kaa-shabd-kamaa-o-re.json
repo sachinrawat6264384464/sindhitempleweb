@@ -2,71 +2,130 @@
   "id": "bhajan-0038",
   "slug": "shvaas-shvaas-men-gurumukh-hardamguru-kaa-shabd-kamaa-o-re",
   "categoryId": "raag-prabhaati",
-  "title": "शवास शवास मेन गुरुमुख हरदमगुरु का शबद कमा ो रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "श्वास श्वास में गुरुमुख हरदम ,गुरु का शब्द कमा ओ रे",
   "romanTitle": "Shvaas Shvaas Men Gurumukh Hardam,Guru Kaa Shabd Kamaa O Re",
   "firstLine": "Shvaas Shvaas Men Gurumukh Hardam,Guru Kaa Shabd Kamaa O Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। ६ ।। ३८॥।",
+  "tek": [
+    "श्वास श्वास में गुरुमुख हरदम ,गुरु का शब्द कमा ओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shvaas Shvaas Men Gurumukh Hardam,Guru Kaa Shabd Kamaa O Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "लाल अमुल है उर कोठी में, लगा श्रम का ताला है ।",
+        "शब्द कुंजी से खोले तांको, देखो और दिखाओ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Laal Amul Hai Ur Kothi Men, Lagaa Shram Kaa Taalaa Hai.",
+        "Shabd Kunji Se Khole Taanko, Dekho Aur Dikhaao Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देह धरणि में है इक कूंआ, आनन्द अमृत तामें है ।",
+        "शब्द रस्सी से मन घट भरकर,पीवो और पिलाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Deh Dharni Men Hai Ik Kunaa, Aanand Amrit Taamen Hai.",
+        "Shabd Rassi Se Man Ghat Bharkar,Pivo Aur Pilaao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बदन बगीचा इन्द्रिय तरुवर, ज्ञान ध्यान फल फूला है ।",
+        "शब्द लकुट से तांको लेकर,खाओ और खिलाओ रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Badan Bagichaa Indriy Taruvar, Gyaan Dhyaan Phal Phulaa Hai.",
+        "Shabd Lakut Se Taanko Lekar,Khaao Aur Khilaao Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जिन जिन गुरु का शब्द सुमरिया, सरिया तिन का काजा है ।",
+        "कहे टेऊँ तुम गुरु कृपा से, गुरु के शब्द समाओ रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jin Jin Guru Kaa Shabd Sumriyaa, Sariyaa Tin Kaa Kaajaa Hai.",
+        "Kahe Teun Tum Guru Kripaa Se, Guru Ke Shabd Samaao Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "तर्ठ"
+      ],
+      "romanLines": [
+        "Tarth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शवास शवास मेन गुरुमुख हरदमगुरु का शबद कमा ो रे (टेक)."
+      "लाल अमुल है उर कोठी में, लगा श्रम का ताला है ।",
+      "शब्द कुंजी से खोले तांको, देखो और दिखाओ रे ॥१ ॥"
     ],
     [
-      "लाल मुल है ुर कोथि मेन, लगा शरम का ताला है.",
-      "शबद कुनजि से खोले तानको, देखो ौर दिखाो रे.1 ||."
+      "देह धरणि में है इक कूंआ, आनन्द अमृत तामें है ।",
+      "शब्द रस्सी से मन घट भरकर,पीवो और पिलाओ रे ॥२ ॥"
     ],
     [
-      "देह धरनि मेन है िक कुना, आनंद अमृत तामेन है.",
-      "शबद रससि से मन घत भरकरपिवो ौर पिलाो रे || 2 ||."
+      "बदन बगीचा इन्द्रिय तरुवर, ज्ञान ध्यान फल फूला है ।",
+      "शब्द लकुट से तांको लेकर,खाओ और खिलाओ रे ॥३ ॥"
     ],
     [
-      "बदन बगिचा िनदरिय तरुवर, ज्ञान ध्यान फल फुला है.",
-      "शबद लकुत से तानको लेकरखाो ौर खिलाो रे || 3 ||."
+      "जिन जिन गुरु का शब्द सुमरिया, सरिया तिन का काजा है ।",
+      "कहे टेऊँ तुम गुरु कृपा से, गुरु के शब्द समाओ रे ॥४ ॥"
     ],
     [
-      "जिन जिन गुरु का शबद सुमरिया, सरिया तिन का काजा है.",
-      "कहे तेऊँ तुम गुरु कृपा से, गुरु के शबद समाो रे || 4. ||."
-    ],
-    [
-      "तरथ"
+      "तर्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Shvaas Shvaas Men Gurumukh Hardam,Guru Kaa Shabd Kamaa O Re (Tek)."
-    ],
-    [
       "Laal Amul Hai Ur Kothi Men, Lagaa Shram Kaa Taalaa Hai.",
-      "Shabd Kunji Se Khole Taanko, Dekho Aur Dikhaao Re.1 ||."
+      "Shabd Kunji Se Khole Taanko, Dekho Aur Dikhaao Re || 1 ||"
     ],
     [
       "Deh Dharni Men Hai Ik Kunaa, Aanand Amrit Taamen Hai.",
-      "Shabd Rassi Se Man Ghat Bharkar,Pivo Aur Pilaao Re || 2 ||."
+      "Shabd Rassi Se Man Ghat Bharkar,Pivo Aur Pilaao Re || 2 ||"
     ],
     [
-      "Badan Bagichaa Indriy Taruvar, Jnyaan Dhyaan Phal Phulaa Hai.",
-      "Shabd Lakut Se Taanko Lekar,Khaao Aur Khilaao Re || 3 ||."
+      "Badan Bagichaa Indriy Taruvar, Gyaan Dhyaan Phal Phulaa Hai.",
+      "Shabd Lakut Se Taanko Lekar,Khaao Aur Khilaao Re || 3 ||"
     ],
     [
       "Jin Jin Guru Kaa Shabd Sumriyaa, Sariyaa Tin Kaa Kaajaa Hai.",
-      "Kahe Teun Tum Guru Kripaa Se, Guru Ke Shabd Samaao Re || 4. ||."
+      "Kahe Teun Tum Guru Kripaa Se, Guru Ke Shabd Samaao Re || 4 ||"
     ],
     [
       "Tarth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 6 || 38 ||.",
+    "श्वास श्वास में गुरुमुख हरदम ,गुरु का शब्द कमा ओ रे",
     "Shvaas Shvaas Men Gurumukh Hardam,Guru Kaa Shabd Kamaa O Re",
-    "शवास शवास मेन गुरुमुख हरदमगुरु का शबद कमा ो रे"
+    "राग प्रभाती भजन 6",
+    "Raag Prabhaati Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "prabhaati",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
     "bhajan"
   ],
-  "displayOrder": 38,
+  "displayOrder": 6,
+  "overallOrder": 38,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 44",
+  "updatedAt": "2026-10-26"
 }

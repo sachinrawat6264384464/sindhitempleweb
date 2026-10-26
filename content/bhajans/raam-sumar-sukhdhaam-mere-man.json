@@ -2,46 +2,95 @@
   "id": "bhajan-0184",
   "slug": "raam-sumar-sukhdhaam-mere-man",
   "categoryId": "raag-dhanaashri",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
   "title": "राम सुमर सुखधाम मेरे मन",
   "romanTitle": "Raam Sumar Sukhdhaam Mere Man",
-  "firstLine": "Raam Sumar Sukhdhaam Mere Man. Hovain Purn Kaam Mere Man (Tek).",
+  "firstLine": "Raam Sumar Sukhdhaam Mere Man.",
+  "heading": "।। राग धनाश्री भजन ।। ४ ।। १८४।।",
+  "tek": [
+    "राम सुमर सुखधाम मेरे मन ।",
+    "होवैं पूर्ण काम मेरे मन ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Sumar Sukhdhaam Mere Man.",
+    "Hovain Purn Kaam Mere Man (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता सुत मित अर्धंगी, अन्त काल में होय न संगी ।",
+        "सब कहते जप राम मेरे मन ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Mit Ardhangi, Ant Kaal Men Hoy Na Sangi.",
+        "Sab Kahte Jap Raam Mere Man || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम जप केते उधरे, नामा सधना सैना सुधरे ।",
+        "पाया उर आराम मेरे मन ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Jap Kete Udhre, Naamaa Sadhnaa Sainaa Sudhre.",
+        "Paayaa Ur Aaraam Mere Man || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "राम नाम रसना से रटले, जम की फासी ज्ञान से कटले ।",
+        "रहिये नित निष्काम मेरे मन ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Rasnaa Se Ratle, Jam Ki Phaasi Gyaan Se Katle.",
+        "Rahiye Nit Nishkaam Mere Man || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सो है त्रिकाली, हर्ता कर्ता अगम अकाली ।",
+        "सब घट देखो श्याम मेरे मन ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun So Hai Trikaali, Hartaa Kartaa Agam Akaali.",
+        "Sab Ghat Dekho Shyaam Mere Man || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम सुमर सुखधाम मेरे मन.",
-      "होवैन पुरन काम मेरे मन (टेक)."
+      "मात पिता सुत मित अर्धंगी, अन्त काल में होय न संगी ।",
+      "सब कहते जप राम मेरे मन ॥8 ॥१ ॥"
     ],
     [
-      "मात पिता सुत मित रधनगि, नत काल मेन होय न सनगि.",
-      "सब कहते जप राम मेरे मन || 8$ ||."
+      "राम नाम जप केते उधरे, नामा सधना सैना सुधरे ।",
+      "पाया उर आराम मेरे मन ॥२ ॥"
     ],
     [
-      "राम नाम जप केते ुधरे, नामा सधना सैना सुधरे.",
-      "पाया ुर ाराम मेरे मन || 2 ||"
+      "राम नाम रसना से रटले, जम की फासी ज्ञान से कटले ।",
+      "रहिये नित निष्काम मेरे मन ॥३ ॥"
     ],
     [
-      "राम नाम रसना से रतले, जम कि फासि ज्ञान से कतले.",
-      "रहिये नित निशकाम मेरे मन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ सो है तरिकालि, हरता करता गम कालि.",
-      "सब घत देखो शयाम मेरे मन || 4 ||"
+      "कहे टेऊँ सो है त्रिकाली, हर्ता कर्ता अगम अकाली ।",
+      "सब घट देखो श्याम मेरे मन ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Sumar Sukhdhaam Mere Man.",
-      "Hovain Purn Kaam Mere Man (Tek)."
-    ],
-    [
-      "Maat Pitaa Sut Mit Ardhangi, Ant Kaal Men Hoy N Sangi.",
-      "Sab Kahte Jap Raam Mere Man || 8$ ||."
+      "Maat Pitaa Sut Mit Ardhangi, Ant Kaal Men Hoy Na Sangi.",
+      "Sab Kahte Jap Raam Mere Man || 8 || 1 ||"
     ],
     [
       "Raam Naam Jap Kete Udhre, Naamaa Sadhnaa Sainaa Sudhre.",
       "Paayaa Ur Aaraam Mere Man || 2 ||"
     ],
     [
-      "Raam Naam Rasnaa Se Ratle, Jam Ki Phaasi Jnyaan Se Katle.",
+      "Raam Naam Rasnaa Se Ratle, Jam Ki Phaasi Gyaan Se Katle.",
       "Rahiye Nit Nishkaam Mere Man || 3 ||"
     ],
     [
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Dhanaashri Bhajan || 4 || 184 ||",
+    "राम सुमर सुखधाम मेरे मन",
     "Raam Sumar Sukhdhaam Mere Man",
-    "राम सुमर सुखधाम मेरे मन"
+    "राग धनाश्री भजन 4",
+    "Raag Dhanaashri Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 184,
+  "displayOrder": 4,
+  "overallOrder": 184,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 121",
+  "updatedAt": "2026-10-26"
 }

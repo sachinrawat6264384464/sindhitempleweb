@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0469",
+  "id": "bhajan-0468",
   "slug": "ik-hi-prem-prabhu-ko-bhaayaa",
   "categoryId": "raag-huseni",
-  "title": "िक हि प्रेम प्रभु को भाया",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "इक ही प्रेम प्रभू को भाया",
   "romanTitle": "Ik Hi Prem Prabhu Ko Bhaayaa",
-  "firstLine": "Ik Hi Prem Prabhu Ko Bhaayaa. Zaati Varn Kul Karm N Dekhaa Prem Ke Haath Bikaayaa (Tek).",
+  "firstLine": "Ik Hi Prem Prabhu Ko Bhaayaa.",
+  "heading": "।। राग हुसेनी भजन ।। ७ ।। ४६९।।",
+  "tek": [
+    "इक ही प्रेम प्रभू को भाया ।",
+    "ज़ाति वर्ण कुल कर्म न देखा प्रेम के हाथ बिकाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ik Hi Prem Prabhu Ko Bhaayaa.",
+    "Zaati Varn Kul Karm Na Dekhaa Prem Ke Haath Bikaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रेम अटल जब केवट कीना राम देख मुस्काया ।",
+        "जिन चरणों को योगी चाहत से निज चरण धुलाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prem Atal Jab Kevat Kinaa Raam Dekh Muskaayaa.",
+        "Jin Charnon Ko Yogi Chaahat Se Nij Charan Dhulaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम भीलनी का जब देखा रघुवर तब घर आया ।",
+        "प्रेम जटायू का लख हरि ने अपने धाम पठाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Bhilni Kaa Jab Dekhaa Raghuvar Tab Ghar Aayaa.",
+        "Prem Jataayu Kaa Lakh Hari Ne Apne Dhaam Pathaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम देख सुग्रीव का हरि ने अपना मित्र बनाया ।",
+        "प्रेम पवनसुत ऐसा कीना रघुपति कण्ठ लगाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Dekh Sugriv Kaa Hari Ne Apnaa Mitr Banaayaa.",
+        "Prem Pavnasut Aisaa Kinaa Raghupti Kanth Lagaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "प्रेम विभीषण का जब देखा तब हरि राज दिलाया ।",
+        "कहे टेऊँ यह प्रेम हरी का भाग बड़े किस पाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Prem Vibhishan Kaa Jab Dekhaa Tab Hari Raaj Dilaayaa.",
+        "Kahe Teun Yah Prem Hari Kaa Bhaag Bare Kis Paayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िक हि प्रेम प्रभु को भाया.",
-      "zाति वरन कुल करम न देखा प्रेम के हाथ बिकाया (टेक)."
+      "प्रेम अटल जब केवट कीना राम देख मुस्काया ।",
+      "जिन चरणों को योगी चाहत से निज चरण धुलाया ॥१ ॥"
     ],
     [
-      "प्रेम तल जब केवत किना राम देख मुसकाया.",
-      "जिन चरनोन को योगि चाहत से निज चरण धुलाया || 1. ||."
+      "प्रेम भीलनी का जब देखा रघुवर तब घर आया ।",
+      "प्रेम जटायू का लख हरि ने अपने धाम पठाया ॥२ ॥"
     ],
     [
-      "प्रेम भिलनि का जब देखा रघुवर तब घर ाया.",
-      "प्रेम जतायु का लख हरि ने पने धाम पथाया ||.2. ||."
+      "प्रेम देख सुग्रीव का हरि ने अपना मित्र बनाया ।",
+      "प्रेम पवनसुत ऐसा कीना रघुपति कण्ठ लगाया ॥३ ॥"
     ],
     [
-      "प्रेम देख सुगरिव का हरि ने पना मितर बनाया.",
-      "प्रेम पवनसुत ैसा किना रघुपति कनथ लगाया ||.3 ||."
-    ],
-    [
-      "प्रेम विभिशन का जब देखा तब हरि राज दिलाया.",
-      "कहे तेऊँ यह प्रेम हरि का भाग बरे किस पाया ||.4. ||."
+      "प्रेम विभीषण का जब देखा तब हरि राज दिलाया ।",
+      "कहे टेऊँ यह प्रेम हरी का भाग बड़े किस पाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ik Hi Prem Prabhu Ko Bhaayaa.",
-      "Zaati Varn Kul Karm N Dekhaa Prem Ke Haath Bikaayaa (Tek)."
-    ],
-    [
       "Prem Atal Jab Kevat Kinaa Raam Dekh Muskaayaa.",
-      "Jin Charnon Ko Yogi Chaahat Se Nij Charan Dhulaayaa || 1. ||."
+      "Jin Charnon Ko Yogi Chaahat Se Nij Charan Dhulaayaa || 1 ||"
     ],
     [
       "Prem Bhilni Kaa Jab Dekhaa Raghuvar Tab Ghar Aayaa.",
-      "Prem Jataayu Kaa Lakh Hari Ne Apne Dhaam Pathaayaa ||.2. ||."
+      "Prem Jataayu Kaa Lakh Hari Ne Apne Dhaam Pathaayaa || 2 ||"
     ],
     [
       "Prem Dekh Sugriv Kaa Hari Ne Apnaa Mitr Banaayaa.",
-      "Prem Pavnasut Aisaa Kinaa Raghupti Kanth Lagaayaa ||.3 ||."
+      "Prem Pavnasut Aisaa Kinaa Raghupti Kanth Lagaayaa || 3 ||"
     ],
     [
       "Prem Vibhishan Kaa Jab Dekhaa Tab Hari Raaj Dilaayaa.",
-      "Kahe Teun Yah Prem Hari Kaa Bhaag Bare Kis Paayaa ||.4. ||."
+      "Kahe Teun Yah Prem Hari Kaa Bhaag Bare Kis Paayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 7 || 469 ||",
+    "इक ही प्रेम प्रभू को भाया",
     "Ik Hi Prem Prabhu Ko Bhaayaa",
-    "िक हि प्रेम प्रभु को भाया"
+    "राग हुसैनी भजन 7",
+    "Raag Huseni Bhajan 7"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 469,
+  "displayOrder": 7,
+  "overallOrder": 468,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 263",
+  "updatedAt": "2026-10-26"
 }

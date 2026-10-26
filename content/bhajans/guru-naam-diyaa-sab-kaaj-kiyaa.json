@@ -1,37 +1,86 @@
 {
-  "id": "bhajan-0649",
+  "id": "bhajan-0647",
   "slug": "guru-naam-diyaa-sab-kaaj-kiyaa",
   "categoryId": "raag-kanso",
-  "title": "गुरु नाम दिया, सब काज किया",
-  "romanTitle": "Guru Naam Diyaa, Sab Kaaj Kiyaa",
-  "firstLine": "Guru Naam Diyaa, Sab Kaaj Kiyaa, Sukh Surti Liyaa, Piy Sang Rahi (Tek).",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "गुरु नाम दिया, सब काज किया,",
+  "romanTitle": "Guru Naam Diyaa, Sab Kaaj Kiyaa,",
+  "firstLine": "Guru Naam Diyaa, Sab Kaaj Kiyaa,",
+  "heading": "।। राग कंसो भजन ।। १८ ।। द४८।॥।",
+  "tek": [
+    "गुरु नाम दिया, सब काज किया,",
+    "सुख सुरति लिया, पीय संग रही ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Naam Diyaa, Sab Kaaj Kiyaa,",
+    "Sukh Surti Liyaa, Piy Sang Rahi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पाए हृदय अन्दर झाती, देखी अपनी ज़ाति सनाती ।",
+        "मिट गयी पांचों भेद भ्रान्ती, सब घट देखा राम सही ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paae Hriday Andar Jhaati, Dekhi Apni Zaati Sanaati.",
+        "Mit Gayi Paanchon Bhed Bhraanti, Sab Ghat Dekhaa Raam Sahi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दसम द्वारे ज्योति प्रकाशी, पाया आत्म तह अविनाशी ।",
+        "टूटी कठिन काल की पाशी, श्रम अन्धेरी दूर गयी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dasam Dvaare Jyoti Prakaashi, Paayaa Aatm Tah Avinaashi.",
+        "Tuti Kathin Kaal Ki Paashi, Shram Andheri Dur Gayi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म ज्ञान का डड्ढा लागा, पांचों तस्कर भय कर भागा ।",
+        "चेतन का नित पहरा जागा, काया नगरी शांति भयी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm Gyaan Kaa Daddhaa Laagaa, Paanchon Taskar Bhay Kar Bhaagaa.",
+        "Chetan Kaa Nit Pahraa Jaagaa, Kaayaa Nagri Shaanti Bhayi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अनुभव घर का खोले ताला, पीया भरकर अमृत प्याला ।",
+        "कहे टेऊँ गुरु किया निहाला, देश अगम की सूझ गही ॥४ ॥"
+      ],
+      "romanLines": [
+        "Anubhav Ghar Kaa Khole Taalaa, Piyaa Bharkar Amrit Pyaalaa.",
+        "Kahe Teun Guru Kiyaa Nihaalaa, Desh Agam Ki Sujh Gahi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरु नाम दिया, सब काज किया,",
-      "सुख सुरति लिया, पिय सनग रहि (टेक)."
+      "पाए हृदय अन्दर झाती, देखी अपनी ज़ाति सनाती ।",
+      "मिट गयी पांचों भेद भ्रान्ती, सब घट देखा राम सही ॥१ ॥"
     ],
     [
-      "पाे हरिदय नदर झाति, देखि पनि zाति सनाति.",
-      "मित गयि पानचोन भेद भरानति, सब घत देखा राम सहि || 1 ||"
+      "दसम द्वारे ज्योति प्रकाशी, पाया आत्म तह अविनाशी ।",
+      "टूटी कठिन काल की पाशी, श्रम अन्धेरी दूर गयी ॥२ ॥"
     ],
     [
-      "दसम दवारे जयोति परकाशि, पाया ातम तह अविनाशी.",
-      "तुति कथिन काल कि पाशि, शरम नधेरि दुर गयि || 2 ||"
+      "ब्रह्म ज्ञान का डड्ढा लागा, पांचों तस्कर भय कर भागा ।",
+      "चेतन का नित पहरा जागा, काया नगरी शांति भयी ॥३ ॥"
     ],
     [
-      "बरहम ज्ञान का ददधा लागा, पानचोन तसकर भय कर भागा.",
-      "चेतन का नित पहरा जागा, काया नगरि शांति भयि || 3. ||."
-    ],
-    [
-      "नुभव घर का खोले ताला, पिया भरकर अमृत पयाला.",
-      "कहे तेऊँ गुरु किया निहाला, देश गम कि सुझ गहि || 4 ||"
+      "अनुभव घर का खोले ताला, पीया भरकर अमृत प्याला ।",
+      "कहे टेऊँ गुरु किया निहाला, देश अगम की सूझ गही ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Guru Naam Diyaa, Sab Kaaj Kiyaa,",
-      "Sukh Surti Liyaa, Piy Sang Rahi (Tek)."
-    ],
     [
       "Paae Hriday Andar Jhaati, Dekhi Apni Zaati Sanaati.",
       "Mit Gayi Paanchon Bhed Bhraanti, Sab Ghat Dekhaa Raam Sahi || 1 ||"
@@ -41,8 +90,8 @@
       "Tuti Kathin Kaal Ki Paashi, Shram Andheri Dur Gayi || 2 ||"
     ],
     [
-      "Brahm Jnyaan Kaa Daddhaa Laagaa, Paanchon Taskar Bhay Kar Bhaagaa.",
-      "Chetan Kaa Nit Pahraa Jaagaa, Kaayaa Nagri Shaanti Bhayi || 3. ||."
+      "Brahm Gyaan Kaa Daddhaa Laagaa, Paanchon Taskar Bhay Kar Bhaagaa.",
+      "Chetan Kaa Nit Pahraa Jaagaa, Kaayaa Nagri Shaanti Bhayi || 3 ||"
     ],
     [
       "Anubhav Ghar Kaa Khole Taalaa, Piyaa Bharkar Amrit Pyaalaa.",
@@ -50,20 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 18 || D48. ||.",
-    "Guru Naam Diyaa, Sab Kaaj Kiyaa",
-    "गुरु नाम दिया, सब काज किया"
+    "गुरु नाम दिया, सब काज किया,",
+    "Guru Naam Diyaa, Sab Kaaj Kiyaa,",
+    "राग कंसो भजन 18",
+    "Raag Kanso Bhajan 18"
   ],
   "tags": [
-    "kanso",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 649,
+  "displayOrder": 18,
+  "overallOrder": 647,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 346",
+  "updatedAt": "2026-10-26"
 }

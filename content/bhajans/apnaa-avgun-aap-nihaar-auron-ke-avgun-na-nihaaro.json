@@ -1,0 +1,131 @@
+{
+  "id": "bhajan-0872",
+  "slug": "apnaa-avgun-aap-nihaar-auron-ke-avgun-na-nihaaro",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "अपना अवगुन आप निहार, औरों के अवगुन न निहारो",
+  "romanTitle": "Apnaa Avgun Aap Nihaar, Auron Ke Avgun Na Nihaaro",
+  "firstLine": "Apnaa Avgun Aap Nihaar, Auron Ke Avgun Na Nihaaro (Tek).",
+  "heading": "।। राग जोग भजन ।। ४४ ।। ८७४।॥",
+  "tek": [
+    "अपना अवगुन आप निहार, औरों के अवगुन न निहारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Apnaa Avgun Aap Nihaar, Auron Ke Avgun Na Nihaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अवगुन दृष्टी जब तक होवे, ज्ञान दृष्टि ना तब तक होवे ।",
+        "मन में ये ही बात विचार, भूल न किसके ऐब निकारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Avgun Drishti Jab Tak Hove, Gyaan Drishti Naa Tab Tak Hove.",
+        "Man Men Ye Hi Baat Vichaar, Bhul Na Kiske Aib Nikaaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अवगुन को देखत आज्ञानी, गुन को देखत गुरुमुख ज्ञानी ।",
+        "भूण्ड मैल का करे अहार, भंवर सुगन्धि का करत अहारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Avgun Ko Dekhat Aajnyaani, Gun Ko Dekhat Gurumukh Jnyaani.",
+        "Bhund Mail Kaa Kare Ahaar, Bhanvar Sugandhi Kaa Karat Ahaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दर्पन में करहें मुख जैसा, दीसत है अपना मुख तैसा ।",
+        "दृढ़ भाव ये मन में धार, दर्पन दोष न दोष तुम्हारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Darpan Men Karhen Mukh Jaisaa, Disat Hai Apnaa Mukh Taisaa.",
+        "Drirh Bhaav Ye Man Men Dhaar, Darpan Dosh Na Dosh Tumhaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्‌ वचन सुनीजे, अवगुन को तज गुन को लीजे ।",
+        "ऐसे कहते वेद पुकार, गुण ग्राही का होय उद्धारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sat‌ Vachan Sunije, Avgun Ko Taj Gun Ko Lije.",
+        "Aise Kahte Ved Pukaar, Gun Graahi Kaa Hoy Uddhaaro || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग्रह"
+      ],
+      "romanLines": [
+        "Grah"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "अवगुन दृष्टी जब तक होवे, ज्ञान दृष्टि ना तब तक होवे ।",
+      "मन में ये ही बात विचार, भूल न किसके ऐब निकारो ॥१ ॥"
+    ],
+    [
+      "अवगुन को देखत आज्ञानी, गुन को देखत गुरुमुख ज्ञानी ।",
+      "भूण्ड मैल का करे अहार, भंवर सुगन्धि का करत अहारो ॥२ ॥"
+    ],
+    [
+      "दर्पन में करहें मुख जैसा, दीसत है अपना मुख तैसा ।",
+      "दृढ़ भाव ये मन में धार, दर्पन दोष न दोष तुम्हारो ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ सत्‌ वचन सुनीजे, अवगुन को तज गुन को लीजे ।",
+      "ऐसे कहते वेद पुकार, गुण ग्राही का होय उद्धारो ॥४ ॥"
+    ],
+    [
+      "ग्रह"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Avgun Drishti Jab Tak Hove, Gyaan Drishti Naa Tab Tak Hove.",
+      "Man Men Ye Hi Baat Vichaar, Bhul Na Kiske Aib Nikaaro || 1 ||"
+    ],
+    [
+      "Avgun Ko Dekhat Aajnyaani, Gun Ko Dekhat Gurumukh Jnyaani.",
+      "Bhund Mail Kaa Kare Ahaar, Bhanvar Sugandhi Kaa Karat Ahaaro || 2 ||"
+    ],
+    [
+      "Darpan Men Karhen Mukh Jaisaa, Disat Hai Apnaa Mukh Taisaa.",
+      "Drirh Bhaav Ye Man Men Dhaar, Darpan Dosh Na Dosh Tumhaaro || 3 ||"
+    ],
+    [
+      "Kahe Teun Sat‌ Vachan Sunije, Avgun Ko Taj Gun Ko Lije.",
+      "Aise Kahte Ved Pukaar, Gun Graahi Kaa Hoy Uddhaaro || 4 ||"
+    ],
+    [
+      "Grah"
+    ]
+  ],
+  "alternateSpellings": [
+    "अपना अवगुन आप निहार, औरों के अवगुन न निहारो",
+    "Apnaa Avgun Aap Nihaar, Auron Ke Avgun Na Nihaaro",
+    "राग जोग भजन 44",
+    "Raag Jog Bhajan 44"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 44,
+  "overallOrder": 872,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 460",
+  "updatedAt": "2026-10-26"
+}

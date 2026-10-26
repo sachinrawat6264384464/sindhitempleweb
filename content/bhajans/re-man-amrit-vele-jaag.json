@@ -2,37 +2,86 @@
   "id": "bhajan-0091",
   "slug": "re-man-amrit-vele-jaag",
   "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
   "title": "रे मन अमृत वेले जाग",
   "romanTitle": "Re Man Amrit Vele Jaag",
   "firstLine": "Re Man Amrit Vele Jaag (Tek).",
+  "heading": "।। राग आसा भजन ।। २९ ।। ९१।।",
+  "tek": [
+    "रे मन अमृत वेले जाग ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Amrit Vele Jaag (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु सागर के ढिग जाके, ज्ञान ध्यान के मोती लाके ।",
+        "दूर करो दुर्भाग ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Saagar Ke Dhig Jaake, Gyaan Dhyaan Ke Moti Laake.",
+        "Dur Karo Durbhaag || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तन मन इन्द्रियां थिर कर लेवो, सार शब्द में श्रुती देवो ।",
+        "भोग विषय से भाग ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tan Man Indriyaan Thir Kar Levo, Saar Shabd Men Shruti Devo.",
+        "Bhog Vishay Se Bhaag || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त समागम में तुम जाओ, अमर कथा सुन पाप मिटाओ ।",
+        "छोड़ द्ेष औ आग ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Samaagam Men Tum Jaao, Amar Kathaa Sun Paap Mitaao.",
+        "Chhor Desh Au Aag || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ विलम्ब न कीजे, ब्रह्मानन्द रस अबहीं पीजे ।",
+        "तृष्णा का कर त्याग ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Vilamb Na Kije, Brahmaanand Ras Abhin Pije.",
+        "Trishnaa Kaa Kar Tyaag || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रे मन अमृत वेले जाग (टेक)."
+      "सद्‌गुरु सागर के ढिग जाके, ज्ञान ध्यान के मोती लाके ।",
+      "दूर करो दुर्भाग ॥१ ॥"
     ],
     [
-      "सद्गुरु सागर के धिग जाके, ज्ञान ध्यान के मोति लाके.",
-      "दुर करो दुरभाग || 1 ||."
+      "तन मन इन्द्रियां थिर कर लेवो, सार शब्द में श्रुती देवो ।",
+      "भोग विषय से भाग ॥२ ॥"
     ],
     [
-      "तन मन िनदरियान थिर कर लेवो, सार शबद मेन शरुति देवो.",
-      "भोग विशय से भाग || 2 ||"
+      "सन्त समागम में तुम जाओ, अमर कथा सुन पाप मिटाओ ।",
+      "छोड़ द्ेष औ आग ॥३ ॥"
     ],
     [
-      "संत समागम मेन तुम जाो, मर कथा सुन पाप मिताो.",
-      "चहोर देश ौ ाग || 3 ||."
-    ],
-    [
-      "कहता तेऊँ विलमब न किजे, बरहमाननद रस भिन पिजे.",
-      "तरिशना का कर तयाग ||.4. ||."
+      "कहता टेऊँ विलम्ब न कीजे, ब्रह्मानन्द रस अबहीं पीजे ।",
+      "तृष्णा का कर त्याग ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Re Man Amrit Vele Jaag (Tek)."
-    ],
-    [
-      "Sad‌Guru Saagar Ke Dhig Jaake, Jnyaan Dhyaan Ke Moti Laake.",
-      "Dur Karo Durbhaag || 1 ||."
+      "Sad‌Guru Saagar Ke Dhig Jaake, Gyaan Dhyaan Ke Moti Laake.",
+      "Dur Karo Durbhaag || 1 ||"
     ],
     [
       "Tan Man Indriyaan Thir Kar Levo, Saar Shabd Men Shruti Devo.",
@@ -40,26 +89,28 @@
     ],
     [
       "Sant Samaagam Men Tum Jaao, Amar Kathaa Sun Paap Mitaao.",
-      "Chhor Desh Au Aag || 3 ||."
+      "Chhor Desh Au Aag || 3 ||"
     ],
     [
-      "Kahtaa Teun Vilamb N Kije, Brahmaanand Ras Abhin Pije.",
-      "Trishnaa Kaa Kar Tyaag ||.4. ||."
+      "Kahtaa Teun Vilamb Na Kije, Brahmaanand Ras Abhin Pije.",
+      "Trishnaa Kaa Kar Tyaag || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 29 || 91 ||",
+    "रे मन अमृत वेले जाग",
     "Re Man Amrit Vele Jaag",
-    "रे मन अमृत वेले जाग"
+    "राग आसा भजन 29",
+    "Raag Aasaa Bhajan 29"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 91,
+  "displayOrder": 29,
+  "overallOrder": 91,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 71",
+  "updatedAt": "2026-10-26"
 }

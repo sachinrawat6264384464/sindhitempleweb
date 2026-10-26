@@ -2,65 +2,104 @@
   "id": "bhajan-0045",
   "slug": "shabd-guru-kaa-hai-sukhdaai-sakle-dukh-mitaavat-hai",
   "categoryId": "raag-prabhaati",
-  "title": "शबद गुरु का है सुखदाि, सकले दुःख मितावत है",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "शब्द गुरू का है सुखदाई, सकले दूख मिटावत है",
   "romanTitle": "Shabd Guru Kaa Hai Sukhdaai, Sakle Dukh Mitaavat Hai",
   "firstLine": "Shabd Guru Kaa Hai Sukhdaai, Sakle Dukh Mitaavat Hai (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। १३ ।। ४५॥।",
+  "tek": [
+    "शब्द गुरू का है सुखदाई, सकले दूख मिटावत है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Shabd Guru Kaa Hai Sukhdaai, Sakle Dukh Mitaavat Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अन्तकाल में आकर जबहीं, यम के दूत डरावत हैं ।",
+        "शब्द गुरू का याद करन से, निकट नहीं वे आवत हैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Antakaal Men Aakar Jabhin, Yam Ke Dut Daraavat Hain.",
+        "Shabd Guru Kaa Yaad Karan Se, Nikat Nahin Ve Aavat Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सागर अपने लहरों से जब, बेड़े को कम्पावत है ।",
+        "शब्द गुरू का याद करन से, बेड़ा सो तर जावत है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saagar Apne Lahron Se Jab, Bere Ko Kampaavat Hai.",
+        "Shabd Guru Kaa Yaad Karan Se, Beraa So Tar Jaavat Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "घोर झंगल में मारन हित जब, दुश्मन घेरा लावत है ।",
+        "शब्द गुरू का याद करन से, वैरी सब क्षय पावत है ॥ डे ॥",
+        "तांते गुरु का शब्द न भूलो, सन्त सभी समझावत है ।",
+        "कहता टेऊँ शब्द गुरू का, हरदम लाज बचावत है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Ghor Jhangal Men Maaran Hit Jab, Dushman Gheraa Laavat Hai.",
+        "Shabd Guru Kaa Yaad Karan Se, Vairi Sab Kshay Paavat Hai || De ||",
+        "Taante Guru Kaa Shabd Na Bhulo, Sant Sabhi Samjhaavat Hai.",
+        "Kahtaa Teun Shabd Guru Kaa, Hardam Laaj Bachaavat Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शबद गुरु का है सुखदाि, सकले दुःख मितावत है (टेक)."
+      "अन्तकाल में आकर जबहीं, यम के दूत डरावत हैं ।",
+      "शब्द गुरू का याद करन से, निकट नहीं वे आवत हैं ॥१ ॥"
     ],
     [
-      "नतकाल मेन ाकर जभिन, यम के दुत दरावत हैन.",
-      "शबद गुरु का याद करन से, निकत नहिन वे ावत हैन || 1 ||"
+      "सागर अपने लहरों से जब, बेड़े को कम्पावत है ।",
+      "शब्द गुरू का याद करन से, बेड़ा सो तर जावत है ॥२ ॥"
     ],
     [
-      "सागर पने लहरोन से जब, बेरे को कमपावत है.",
-      "शबद गुरु का याद करन से, बेरा सो तर जावत है || 2 ||."
-    ],
-    [
-      "घोर झनगल मेन मारन हित जब, दुशमन घेरा लावत है.",
-      "शबद गुरु का याद करन से, वैरि सब कशय पावत है || दे ||"
-    ],
-    [
-      "तानते गुरु का शबद न भुलो, संत सभि समझावत है.",
-      "कहता तेऊँ शबद गुरु का, हरदम लाज बचावत है || 4 ||."
+      "घोर झंगल में मारन हित जब, दुश्मन घेरा लावत है ।",
+      "शब्द गुरू का याद करन से, वैरी सब क्षय पावत है ॥ डे ॥",
+      "तांते गुरु का शब्द न भूलो, सन्त सभी समझावत है ।",
+      "कहता टेऊँ शब्द गुरू का, हरदम लाज बचावत है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Shabd Guru Kaa Hai Sukhdaai, Sakle Dukh Mitaavat Hai (Tek)."
-    ],
     [
       "Antakaal Men Aakar Jabhin, Yam Ke Dut Daraavat Hain.",
       "Shabd Guru Kaa Yaad Karan Se, Nikat Nahin Ve Aavat Hain || 1 ||"
     ],
     [
       "Saagar Apne Lahron Se Jab, Bere Ko Kampaavat Hai.",
-      "Shabd Guru Kaa Yaad Karan Se, Beraa So Tar Jaavat Hai || 2 ||."
+      "Shabd Guru Kaa Yaad Karan Se, Beraa So Tar Jaavat Hai || 2 ||"
     ],
     [
       "Ghor Jhangal Men Maaran Hit Jab, Dushman Gheraa Laavat Hai.",
-      "Shabd Guru Kaa Yaad Karan Se, Vairi Sab Kshay Paavat Hai || De ||"
-    ],
-    [
-      "Taante Guru Kaa Shabd N Bhulo, Sant Sabhi Samjhaavat Hai.",
-      "Kahtaa Teun Shabd Guru Kaa, Hardam Laaj Bachaavat Hai || 4 ||."
+      "Shabd Guru Kaa Yaad Karan Se, Vairi Sab Kshay Paavat Hai || De ||",
+      "Taante Guru Kaa Shabd Na Bhulo, Sant Sabhi Samjhaavat Hai.",
+      "Kahtaa Teun Shabd Guru Kaa, Hardam Laaj Bachaavat Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Prabhaati Bhajan || 13 || 45 ||.",
+    "शब्द गुरू का है सुखदाई, सकले दूख मिटावत है",
     "Shabd Guru Kaa Hai Sukhdaai, Sakle Dukh Mitaavat Hai",
-    "शबद गुरु का है सुखदाि, सकले दुःख मितावत है"
+    "राग प्रभाती भजन 13",
+    "Raag Prabhaati Bhajan 13"
   ],
   "tags": [
-    "teunram",
-    "prabhaati",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
     "bhajan"
   ],
-  "displayOrder": 45,
+  "displayOrder": 13,
+  "overallOrder": 45,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 48",
+  "updatedAt": "2026-10-26"
 }

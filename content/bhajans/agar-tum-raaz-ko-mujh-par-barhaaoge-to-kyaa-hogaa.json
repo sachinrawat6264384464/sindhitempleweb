@@ -1,74 +1,133 @@
 {
-  "id": "bhajan-0673",
+  "id": "bhajan-0671",
   "slug": "agar-tum-raaz-ko-mujh-par-barhaaoge-to-kyaa-hogaa",
   "categoryId": "raag-pahaari",
-  "title": "गर तुम राz को मुझ पर, बरहाोगे तो कया होगा",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "अगर तुम राज़ को मुझ पर, बढ़ाओगे तो क्या होगा",
   "romanTitle": "Agar Tum Raaz Ko Mujh Par, Barhaaoge To Kyaa Hogaa",
-  "firstLine": "Agar Tum Raaz Ko Mujh Par, Barhaaoge To Kyaa Hogaa. Prabhu Tum Prem Kaa Naataa, Nibhaaoge To Kyaa Hogaa (Tek).",
+  "firstLine": "Agar Tum Raaz Ko Mujh Par, Barhaaoge To Kyaa Hogaa.",
+  "heading": "।। राग पहाड़ी भजन ।। २४ ।। ६७२।।",
+  "tek": [
+    "अगर तुम राज़ को मुझ पर, बढ़ाओगे तो क्या होगा ।",
+    "प्रभू तुम प्रेम का नाता, निभाओगे तो क्या होगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Agar Tum Raaz Ko Mujh Par, Barhaaoge To Kyaa Hogaa.",
+    "Prabhu Tum Prem Kaa Naataa, Nibhaaoge To Kyaa Hogaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रभू इक प्रेम तेरे का, प्यासी रैन दिन मैं हूं ।",
+        "भरे तुम प्रेम का प्याला, पिलाओगे तो क्या होगा ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prabhu Ik Prem Tere Kaa, Pyaasi Rain Din Main Hun.",
+        "Bhare Tum Prem Kaa Pyaalaa, Pilaaoge To Kyaa Hogaa || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "किये हैं पाप बहुतेरे, प्रभू तुम हो पतित पावन ।",
+        "दया कर दास के अवगुन, मिटाओगे तो क्या होगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kiye Hain Paap Bahutere, Prabhu Tum Ho Patit Paavan.",
+        "Dayaa Kar Daas Ke Avgun, Mitaaoge To Kyaa Hogaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तेरी दर्बार में हरगिज़, कमी किस वस्तु की ना है ।",
+        "पदार्थ भाव भक्ती का, दिलाओगे तो क्या होगा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Teri Darbaar Men Hargiz, Kami Kis Vastu Ki Naa Hai.",
+        "Padaarth Bhaav Bhakti Kaa, Dilaaoge To Kyaa Hogaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तजे सबको, पड़ा हूं द्वार पर तेरे ।",
+        "हरी निज हाथ से मुझको, उठाओगे तो क्या होगा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taje Sabko, Paraa Hun Dvaar Par Tere.",
+        "Hari Nij Haath Se Mujhko, Uthaaoge To Kyaa Hogaa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्ठ"
+      ],
+      "romanLines": [
+        "Ddth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गर तुम राz को मुझ पर, बरहाोगे तो कया होगा.",
-      "प्रभु तुम प्रेम का नाता, निभाोगे तो कया होगा (टेक)."
+      "प्रभू इक प्रेम तेरे का, प्यासी रैन दिन मैं हूं ।",
+      "भरे तुम प्रेम का प्याला, पिलाओगे तो क्या होगा ॥8 ॥१ ॥"
     ],
     [
-      "प्रभु िक प्रेम तेरे का, पयासि रैन दीन मैं हुन.",
-      "भरे तुम प्रेम का पयाला, पिलाोगे तो कया होगा || 8$ ||"
+      "किये हैं पाप बहुतेरे, प्रभू तुम हो पतित पावन ।",
+      "दया कर दास के अवगुन, मिटाओगे तो क्या होगा ॥२ ॥"
     ],
     [
-      "किये हैन पाप बहुतेरे, प्रभु तुम हो पतित पावन.",
-      "दया कर दास के वगुन, मिताोगे तो कया होगा || 2 ||."
+      "तेरी दर्बार में हरगिज़, कमी किस वस्तु की ना है ।",
+      "पदार्थ भाव भक्ती का, दिलाओगे तो क्या होगा ॥३ ॥"
     ],
     [
-      "तेरि दरबार मेन हरगिz, कमि किस वसतु कि ना है.",
-      "पदारथ भाव भक्ति का, दिलाोगे तो कया होगा ||.3 ||."
+      "कहे टेऊँ तजे सबको, पड़ा हूं द्वार पर तेरे ।",
+      "हरी निज हाथ से मुझको, उठाओगे तो क्या होगा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ तजे सबको, परा हुन दवार पर तेरे.",
-      "हरि निज हाथ से मुझको, ुथाोगे तो कया होगा || 4 ||."
-    ],
-    [
-      "ददथ"
+      "द्द्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Agar Tum Raaz Ko Mujh Par, Barhaaoge To Kyaa Hogaa.",
-      "Prabhu Tum Prem Kaa Naataa, Nibhaaoge To Kyaa Hogaa (Tek)."
-    ],
-    [
       "Prabhu Ik Prem Tere Kaa, Pyaasi Rain Din Main Hun.",
-      "Bhare Tum Prem Kaa Pyaalaa, Pilaaoge To Kyaa Hogaa || 8$ ||"
+      "Bhare Tum Prem Kaa Pyaalaa, Pilaaoge To Kyaa Hogaa || 8 || 1 ||"
     ],
     [
       "Kiye Hain Paap Bahutere, Prabhu Tum Ho Patit Paavan.",
-      "Dayaa Kar Daas Ke Avgun, Mitaaoge To Kyaa Hogaa || 2 ||."
+      "Dayaa Kar Daas Ke Avgun, Mitaaoge To Kyaa Hogaa || 2 ||"
     ],
     [
       "Teri Darbaar Men Hargiz, Kami Kis Vastu Ki Naa Hai.",
-      "Padaarth Bhaav Bhakti Kaa, Dilaaoge To Kyaa Hogaa ||.3 ||."
+      "Padaarth Bhaav Bhakti Kaa, Dilaaoge To Kyaa Hogaa || 3 ||"
     ],
     [
       "Kahe Teun Taje Sabko, Paraa Hun Dvaar Par Tere.",
-      "Hari Nij Haath Se Mujhko, Uthaaoge To Kyaa Hogaa || 4 ||."
+      "Hari Nij Haath Se Mujhko, Uthaaoge To Kyaa Hogaa || 4 ||"
     ],
     [
       "Ddth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 24 || 672 ||",
+    "अगर तुम राज़ को मुझ पर, बढ़ाओगे तो क्या होगा",
     "Agar Tum Raaz Ko Mujh Par, Barhaaoge To Kyaa Hogaa",
-    "गर तुम राz को मुझ पर, बरहाोगे तो कया होगा"
+    "राग पहाड़ी भजन 24",
+    "Raag Pahaari Bhajan 24"
   ],
   "tags": [
-    "prarthana",
-    "pahaari",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 673,
+  "displayOrder": 24,
+  "overallOrder": 671,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 357",
+  "updatedAt": "2026-10-26"
 }

@@ -2,62 +2,114 @@
   "id": "bhajan-0429",
   "slug": "ishk-akl-kaa-jhagraa-bhaari-tiskaa-karun-bayaanaa-re",
   "categoryId": "raag-tilang",
-  "title": "िशक कल का झगरा भारि, तिसका करुन बयाना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "इश्क अक्ल का झगड़ा भारी, तिसका करूँ बयाना रे",
   "romanTitle": "Ishk Akl Kaa Jhagraa Bhaari, Tiskaa Karun Bayaanaa Re",
   "firstLine": "Ishk Akl Kaa Jhagraa Bhaari, Tiskaa Karun Bayaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ॥। ६६ ।। ४३०।।",
+  "tek": [
+    "इश्क अक्ल का झगड़ा भारी, तिसका करूँ बयाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ishk Akl Kaa Jhagraa Bhaari, Tiskaa Karun Bayaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अक्ल कहे हो महल मकाना, इश्क चहे श्मशाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Akl Kahe Ho Mahal Makaanaa, Ishk Chahe Shmashaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अक्ल कहे हो बस्ती सुन्दर, इश्क चहे वैराना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Akl Kahe Ho Basti Sundar, Ishk Chahe Vairaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अक्ल कहे हो मान बड़ाई, इश्क चहे निर्माना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Akl Kahe Ho Maan Baraai, Ishk Chahe Nirmaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अक्ल कहे मैं राज कमाऊँ, इश्क चहे मंग खाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Akl Kahe Main Raaj Kamaaun, Ishk Chahe Mang Khaanaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ छोड़ अक्ल को, इश्क से नेह लगाना रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Chhor Akl Ko, Ishk Se Neh Lagaanaa Re || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िशक कल का झगरा भारि, तिसका करुन बयाना रे (टेक)."
+      "अक्ल कहे हो महल मकाना, इश्क चहे श्मशाना रे ॥१ ॥"
     ],
     [
-      "कल कहे हो महल मकाना, िशक चहे शमशाना रे. || 1 ||."
+      "अक्ल कहे हो बस्ती सुन्दर, इश्क चहे वैराना रे ॥२ ॥"
     ],
     [
-      "कल कहे हो बसति सुनदर, िशक चहे वैराना रे || 2 ||."
+      "अक्ल कहे हो मान बड़ाई, इश्क चहे निर्माना रे ॥३ ॥"
     ],
     [
-      "कल कहे हो मान बराि, िशक चहे निरमाना रे || 3 ||."
+      "अक्ल कहे मैं राज कमाऊँ, इश्क चहे मंग खाना रे ॥४ ॥"
     ],
     [
-      "कल कहे मैं राज कमाुन, िशक चहे मनग खाना रे || 4 ||."
-    ],
-    [
-      "कहता तेऊँ चहोर कल को, िशक से नेह लगाना रे || 5 ||"
+      "कहता टेऊँ छोड़ अक्ल को, इश्क से नेह लगाना रे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ishk Akl Kaa Jhagraa Bhaari, Tiskaa Karun Bayaanaa Re (Tek)."
+      "Akl Kahe Ho Mahal Makaanaa, Ishk Chahe Shmashaanaa Re || 1 ||"
     ],
     [
-      "Akl Kahe Ho Mahal Makaanaa, Ishk Chahe Shmashaanaa Re. || 1 ||."
+      "Akl Kahe Ho Basti Sundar, Ishk Chahe Vairaanaa Re || 2 ||"
     ],
     [
-      "Akl Kahe Ho Basti Sundar, Ishk Chahe Vairaanaa Re || 2 ||."
+      "Akl Kahe Ho Maan Baraai, Ishk Chahe Nirmaanaa Re || 3 ||"
     ],
     [
-      "Akl Kahe Ho Maan Baraai, Ishk Chahe Nirmaanaa Re || 3 ||."
-    ],
-    [
-      "Akl Kahe Main Raaj Kamaaun, Ishk Chahe Mang Khaanaa Re || 4 ||."
+      "Akl Kahe Main Raaj Kamaaun, Ishk Chahe Mang Khaanaa Re || 4 ||"
     ],
     [
       "Kahtaa Teun Chhor Akl Ko, Ishk Se Neh Lagaanaa Re || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan ||. 66 || 430 ||",
+    "इश्क अक्ल का झगड़ा भारी, तिसका करूँ बयाना रे",
     "Ishk Akl Kaa Jhagraa Bhaari, Tiskaa Karun Bayaanaa Re",
-    "िशक कल का झगरा भारि, तिसका करुन बयाना रे"
+    "राग तिलंग भजन 66",
+    "Raag Tilang Bhajan 66"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 429,
+  "displayOrder": 66,
+  "overallOrder": 429,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 245",
+  "updatedAt": "2026-10-26"
 }

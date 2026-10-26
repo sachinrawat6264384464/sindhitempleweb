@@ -2,87 +2,135 @@
   "id": "bhajan-0157",
   "slug": "praat-samay-yah-prabhu-meraa-arz-aghaao",
   "categoryId": "raag-aasaa",
-  "title": "परात समय यह प्रभु मेरा रz घाो",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "प्रात समय यह प्रभू मेरा अर्ज़ अघाओ",
   "romanTitle": "Praat Samay Yah Prabhu Meraa Arz Aghaao",
   "firstLine": "Praat Samay Yah Prabhu Meraa Arz Aghaao (Tek).",
+  "heading": "।। राग आसा भजन ।। ९५ ।। १५७।।",
+  "tek": [
+    "प्रात समय यह प्रभू मेरा अर्ज़ अघाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Praat Samay Yah Prabhu Meraa Arz Aghaao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रभू तुझको लागे जेई सन्त प्यारे ।",
+        "वेद शास्त्र पुराण जिनके गीत उच्चारे ।",
+        "ऐसे सन्त जनों का मुझसे मेल मिलाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prabhu Tujhko Laage Jei Sant Pyaare.",
+        "Ved Shaastr Puraan Jinke Git Uchchaare.",
+        "Aise Sant Janon Kaa Mujhse Mel Milaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रभू तेरी याद रहे तेरा चिन्तन हो ।",
+        "महिमा तेरी सुनता रहूं तेरा दर्शन हो ।",
+        "श्वास श्वास से अपना प्रभू नाम जपाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prabhu Teri Yaad Rahe Teraa Chintan Ho.",
+        "Mahimaa Teri Suntaa Rahun Teraa Darshan Ho.",
+        "Shvaas Shvaas Se Apnaa Prabhu Naam Japaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ठ्ठ",
+        "मुमोझ्षिनि को मोक्ष दीजे ज्ञान ज्ञानियों को ।",
+        "कर्म दीजे कर्मिनि को पुनि ध्यान ध्यानियों को ।",
+        "मेरी तो हरि निज चरणों में प्रीति बढ़ा ओ ॥३ ॥"
+      ],
+      "romanLines": [
+        "Thth",
+        "Mumojhshini Ko Moksh Dije Gyaan Jnyaaniyon Ko.",
+        "Karm Dije Karmini Ko Puni Dhyaan Dhyaaniyon Ko.",
+        "Meri To Hari Nij Charnon Men Priti Barhaa O || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कर्म कराओ मुझसे सो जो भावे आपको ।",
+        "रहे न मेरे जीवन में कुछ अंश पाप को ।",
+        "कहे टेऊँ हरि अवगुण मेटे कण्ठ लगाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Karm Karaao Mujhse So Jo Bhaave Aapko.",
+        "Rahe Na Mere Jivan Men Kuchh Ansh Paap Ko.",
+        "Kahe Teun Hari Avgun Mete Kanth Lagaao || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परात समय यह प्रभु मेरा रz घाो (टेक)."
+      "प्रभू तुझको लागे जेई सन्त प्यारे ।",
+      "वेद शास्त्र पुराण जिनके गीत उच्चारे ।",
+      "ऐसे सन्त जनों का मुझसे मेल मिलाओ ॥१ ॥"
     ],
     [
-      "प्रभु तुझको लागे जेि संत पयारे.",
-      "वेद शासतर पुरान जिनके गित ुचचारे."
+      "प्रभू तेरी याद रहे तेरा चिन्तन हो ।",
+      "महिमा तेरी सुनता रहूं तेरा दर्शन हो ।",
+      "श्वास श्वास से अपना प्रभू नाम जपाओ ॥२ ॥"
     ],
     [
-      "ैसे संत जनोन का मुझसे मेल मिलाो. ||.1 ||.",
-      "प्रभु तेरि याद रहे तेरा चिनतन हो."
+      "ठ्ठ",
+      "मुमोझ्षिनि को मोक्ष दीजे ज्ञान ज्ञानियों को ।",
+      "कर्म दीजे कर्मिनि को पुनि ध्यान ध्यानियों को ।",
+      "मेरी तो हरि निज चरणों में प्रीति बढ़ा ओ ॥३ ॥"
     ],
     [
-      "महिमा तेरि सुनता रहुन तेरा दरशन हो.",
-      "शवास शवास से पना प्रभु नाम जपाो || 2 ||"
-    ],
-    [
-      "थथ",
-      "मुमोझशिनि को मोक्ष दिजे ज्ञान जनयानियोन को."
-    ],
-    [
-      "करम दिजे करमिनि को पुनि ध्यान धयानियोन को.",
-      "मेरि तो हरि निज चरनोन मेन परिति बरहा ो || 3 ||."
-    ],
-    [
-      "करम कराो मुझसे सो जो भावे ापको.",
-      "रहे न मेरे जिवन मेन कुचह नश पाप को."
-    ],
-    [
-      "कहे तेऊँ हरि वगुन मेते कनथ लगाो || 4 ||."
+      "कर्म कराओ मुझसे सो जो भावे आपको ।",
+      "रहे न मेरे जीवन में कुछ अंश पाप को ।",
+      "कहे टेऊँ हरि अवगुण मेटे कण्ठ लगाओ ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Praat Samay Yah Prabhu Meraa Arz Aghaao (Tek)."
-    ],
-    [
       "Prabhu Tujhko Laage Jei Sant Pyaare.",
-      "Ved Shaastr Puraan Jinke Git Uchchaare."
+      "Ved Shaastr Puraan Jinke Git Uchchaare.",
+      "Aise Sant Janon Kaa Mujhse Mel Milaao || 1 ||"
     ],
     [
-      "Aise Sant Janon Kaa Mujhse Mel Milaao. ||.1 ||.",
-      "Prabhu Teri Yaad Rahe Teraa Chintan Ho."
-    ],
-    [
+      "Prabhu Teri Yaad Rahe Teraa Chintan Ho.",
       "Mahimaa Teri Suntaa Rahun Teraa Darshan Ho.",
       "Shvaas Shvaas Se Apnaa Prabhu Naam Japaao || 2 ||"
     ],
     [
       "Thth",
-      "Mumojhshini Ko Moksh Dije Jnyaan Jnyaaniyon Ko."
-    ],
-    [
+      "Mumojhshini Ko Moksh Dije Gyaan Jnyaaniyon Ko.",
       "Karm Dije Karmini Ko Puni Dhyaan Dhyaaniyon Ko.",
-      "Meri To Hari Nij Charnon Men Priti Barhaa O || 3 ||."
+      "Meri To Hari Nij Charnon Men Priti Barhaa O || 3 ||"
     ],
     [
       "Karm Karaao Mujhse So Jo Bhaave Aapko.",
-      "Rahe N Mere Jivan Men Kuchh Ansh Paap Ko."
-    ],
-    [
-      "Kahe Teun Hari Avgun Mete Kanth Lagaao || 4 ||."
+      "Rahe Na Mere Jivan Men Kuchh Ansh Paap Ko.",
+      "Kahe Teun Hari Avgun Mete Kanth Lagaao || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 95 || 157 ||",
+    "प्रात समय यह प्रभू मेरा अर्ज़ अघाओ",
     "Praat Samay Yah Prabhu Meraa Arz Aghaao",
-    "परात समय यह प्रभु मेरा रz घाो"
+    "राग आसा भजन 95",
+    "Raag Aasaa Bhajan 95"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "aasaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
     "bhajan"
   ],
-  "displayOrder": 157,
+  "displayOrder": 95,
+  "overallOrder": 157,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 107",
+  "updatedAt": "2026-10-26"
 }

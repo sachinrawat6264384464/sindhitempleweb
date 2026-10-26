@@ -1,143 +1,223 @@
 {
   "id": "bhajan-0246",
   "slug": "shankar-bole-paarvati-sun-amar-kathaa-sukhdaani",
-  "categoryId": "raag-bhairav",
-  "title": "शनकर बोले पारवति सुन मर कथा सुखदानि",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "शंकर बोले पार्वती सुन अमर कथा सुखदानी",
   "romanTitle": "Shankar Bole Paarvati Sun Amar Kathaa Sukhdaani",
-  "firstLine": "Shankar Bole Paarvati Sun Amar Kathaa Sukhdaani. Jaanke Shravan Se Kat Jaave Kathin Kaal Ki Kaani (Tek).",
+  "firstLine": "Shankar Bole Paarvati Sun Amar Kathaa Sukhdaani.",
+  "heading": "।। राग भैरवी भजन ।। ३१ ।। २४६।।",
+  "tek": [
+    "शंकर बोले पार्वती सुन अमर कथा सुखदानी ।",
+    "जांके श्रवण से कट जावे कठिन काल की कानी ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Shankar Bole Paarvati Sun Amar Kathaa Sukhdaani.",
+    "Jaanke Shravan Se Kat Jaave Kathin Kaal Ki Kaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चन्द्र कला के विमल छटा से शोभत था बन सारा ।",
+        "शान्ति धुनी से गूंज रहा था अद्भुत रैन निज़ारा ।",
+        "हिमाचल की कन्दरा बैठे गौरी शंकर प्यारा ।",
+        "अमर कथा अब मोहि सुनाओ कहने लगी भवानी ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chandr Kalaa Ke Vimal Chhataa Se Shobhat Thaa Ban Saaraa.",
+        "Shaanti Dhuni Se Gunj Rahaa Thaa Adbhut Rain Nizaaraa.",
+        "Himaachal Ki Kandaraa Baithe Gauri Shankar Pyaaraa.",
+        "Amar Kathaa Ab Mohi Sunaao Kahne Lagi Bhavaani || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गदर",
+        "धन्य धन्य मति गिरिजा तेरी अमर कथा रुचि धारी ।",
+        "देवों को भी दुर्लभ मिलती अमर कथा यह प्यारी ।",
+        "अमर कथा यह अमर बनावे काटे ममता जारी ।",
+        "अमर कथा के कहने वाला जग में को गुरु ज्ञानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gadar",
+        "Dhany Dhany Mati Girijaa Teri Amar Kathaa Ruchi Dhaari.",
+        "Devon Ko Bhi Durlabh Milti Amar Kathaa Yah Pyaari.",
+        "Amar Kathaa Yah Amar Banaave Kaate Mamtaa Jaari.",
+        "Amar Kathaa Ke Kahne Vaalaa Jag Men Ko Guru Jnyaani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अमर आत्मा देह अनात्म आत्म रूप तुम्हारा ।",
+        "आत्म दृष्टा देह दृश्य है आत्म सब से न्यारा ।",
+        "जाग्रत स्वपन सुषोप्ति का इक आत्म है आधारा ।",
+        "इन्द्रिय अगोचर आत्म है जिहैँ मन बुद्धि लखे न बानी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Amar Aatmaa Deh Anaatm Aatm Rup Tumhaaraa.",
+        "Aatm Drishtaa Deh Drishy Hai Aatm Sab Se Nyaaraa.",
+        "Jaagrat Svapan Sushopti Kaa Ik Aatm Hai Aadhaaraa.",
+        "Indriy Agochar Aatm Hai Jihain Man Buddhi Lakhe Na Baani || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ब्रह्मा आत्मा स्थित है नित अपने महिमा माहीं ।",
+        "बन्ध मोक्ष ते असंग आत्मा आत जात कहें नाहीं ।",
+        "पांच भूत प्रकृती सारी स्पर्श करत न ताहीं ।",
+        "अगम अरूप अनूप अनादी वेदनि गति नहिं जानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Aatmaa Sthit Hai Nit Apne Mahimaa Maahin.",
+        "Bandh Moksh Te Asang Aatmaa Aat Jaat Kahen Naahin.",
+        "Paanch Bhut Prakriti Saari Sparsh Karat Na Taahin.",
+        "Agam Arup Anup Anaadi Vedni Gati Nahin Jaani || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "गाथा सुनते पार्वती को आ गई निद्रा वाहीं ।",
+        "सावधान हो हूं हूं करके तोते सुन लई ताहीं ।",
+        "मर्म न जाना महादेव था मस्त मौज के माहीं ।",
+        "शंकर पूछा गिरिजा बोली मैं निद्रा उरझानी ॥५ ॥"
+      ],
+      "romanLines": [
+        "Gaathaa Sunte Paarvati Ko Aa Gai Nidraa Vaahin.",
+        "Saavdhaan Ho Hun Hun Karke Tote Sun Lai Taahin.",
+        "Marm Na Jaanaa Mahaadev Thaa Mast Mauj Ke Maahin.",
+        "Shankar Puchhaa Girijaa Boli Main Nidraa Urjhaani || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "कहे टेऊँ शुक गाथा सुनली भेद शम्भू ने पाया ।",
+        "तोते के तब मारन कारन डण्डा ले उठ धाया ।",
+        "उड़के तोता वेद व्यास के त्रिया वदन समाया ।",
+        "व्यास वचन सुन तोते को तज चले शंभू सैलानी ॥६ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Shuk Gaathaa Sunli Bhed Shambhu Ne Paayaa.",
+        "Tote Ke Tab Maaran Kaaran Dandaa Le Uth Dhaayaa.",
+        "Urke Totaa Ved Vyaas Ke Triyaa Vadan Samaayaa.",
+        "Vyaas Vachan Sun Tote Ko Taj Chale Shambhu Sailaani || 6 ||"
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        "ग्द्"
+      ],
+      "romanLines": [
+        "Gd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "शनकर बोले पारवति सुन मर कथा सुखदानि.",
-      "जानके शरवन से कत जावे कथिन काल कि कानि (टेक)."
-    ],
-    [
-      "चनदर कला के विमल चहता से शोभत था बन सारा.",
-      "शांति धुनि से गुनज रहा था दभुत रैन निzारा."
-    ],
-    [
-      "हिमाचल कि कनदरा बैथे गौरि शनकर पयारा.",
-      "मर कथा ब मोहि सुनाो कहने लगि भवानि || 1₹ ||."
+      "चन्द्र कला के विमल छटा से शोभत था बन सारा ।",
+      "शान्ति धुनी से गूंज रहा था अद्भुत रैन निज़ारा ।",
+      "हिमाचल की कन्दरा बैठे गौरी शंकर प्यारा ।",
+      "अमर कथा अब मोहि सुनाओ कहने लगी भवानी ॥१ ॥१ ॥"
     ],
     [
       "गदर",
-      "धनय धनय मति गिरिजा तेरि मर कथा रुचि धारि."
+      "धन्य धन्य मति गिरिजा तेरी अमर कथा रुचि धारी ।",
+      "देवों को भी दुर्लभ मिलती अमर कथा यह प्यारी ।",
+      "अमर कथा यह अमर बनावे काटे ममता जारी ।",
+      "अमर कथा के कहने वाला जग में को गुरु ज्ञानी ॥२ ॥"
     ],
     [
-      "देवोन को भि दुरलभ मिलति मर कथा यह पयारि.",
-      "मर कथा यह मर बनावे काते ममता जारि."
+      "अमर आत्मा देह अनात्म आत्म रूप तुम्हारा ।",
+      "आत्म दृष्टा देह दृश्य है आत्म सब से न्यारा ।",
+      "जाग्रत स्वपन सुषोप्ति का इक आत्म है आधारा ।",
+      "इन्द्रिय अगोचर आत्म है जिहैँ मन बुद्धि लखे न बानी ॥३ ॥"
     ],
     [
-      "मर कथा के कहने वाला जग मेन को गुरु जनयानि || 2 ||."
+      "ब्रह्मा आत्मा स्थित है नित अपने महिमा माहीं ।",
+      "बन्ध मोक्ष ते असंग आत्मा आत जात कहें नाहीं ।",
+      "पांच भूत प्रकृती सारी स्पर्श करत न ताहीं ।",
+      "अगम अरूप अनूप अनादी वेदनि गति नहिं जानी ॥४ ॥"
     ],
     [
-      "मर ातमा देह नातम ातम रुप तुमहारा.",
-      "ातम दरिशता देह दरिशय है ातम सब से नयारा."
+      "गाथा सुनते पार्वती को आ गई निद्रा वाहीं ।",
+      "सावधान हो हूं हूं करके तोते सुन लई ताहीं ।",
+      "मर्म न जाना महादेव था मस्त मौज के माहीं ।",
+      "शंकर पूछा गिरिजा बोली मैं निद्रा उरझानी ॥५ ॥"
     ],
     [
-      "जागरत सवपन सुशोपति का िक ातम है ाधारा.",
-      "िनदरिय गोचर ातम है जिहैन मन बुदधि लखे न बानी || 3 ||."
+      "कहे टेऊँ शुक गाथा सुनली भेद शम्भू ने पाया ।",
+      "तोते के तब मारन कारन डण्डा ले उठ धाया ।",
+      "उड़के तोता वेद व्यास के त्रिया वदन समाया ।",
+      "व्यास वचन सुन तोते को तज चले शंभू सैलानी ॥६ ॥"
     ],
     [
-      "बरहम ातमा सथित है नित पने महिमा माहिन.",
-      "बनध मोक्ष ते सनग ातमा ात जात कहेन नाहिन."
-    ],
-    [
-      "पानच भुत परकरिति सारि सपरश करत न ताहिन.",
-      "गम रुप नुप नादि वेदनि गति नहिन जानि || 4 ||."
-    ],
-    [
-      "गाथा सुनते पारवति को ा गै निदरा वाहिन.",
-      "सावधान हो हुन हुन करके तोते सुन लै ताहिन."
-    ],
-    [
-      "मरम न जाना महादेव था मसत मौज के माहिन.",
-      "शनकर पुचहा गिरिजा बोलि मैं निदरा ुरझानि || 5. ||."
-    ],
-    [
-      "कहे तेऊँ शुक गाथा सुनलि भेद शमभु ने पाया.",
-      "तोते के तब मारन कारन दनदा ले ुथ धाया."
-    ],
-    [
-      "ुरके तोता वेद वयास के तरिया वदन समाया.",
-      "वयास वचन सुन तोते को तज चले शमभु सैलानि || 6. ||."
-    ],
-    [
-      "गद"
+      "ग्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Shankar Bole Paarvati Sun Amar Kathaa Sukhdaani.",
-      "Jaanke Shravan Se Kat Jaave Kathin Kaal Ki Kaani (Tek)."
-    ],
-    [
       "Chandr Kalaa Ke Vimal Chhataa Se Shobhat Thaa Ban Saaraa.",
-      "Shaanti Dhuni Se Gunj Rahaa Thaa Adbhut Rain Nizaaraa."
-    ],
-    [
+      "Shaanti Dhuni Se Gunj Rahaa Thaa Adbhut Rain Nizaaraa.",
       "Himaachal Ki Kandaraa Baithe Gauri Shankar Pyaaraa.",
-      "Amar Kathaa Ab Mohi Sunaao Kahne Lagi Bhavaani || 1₹ ||."
+      "Amar Kathaa Ab Mohi Sunaao Kahne Lagi Bhavaani || 1 || 1 ||"
     ],
     [
       "Gadar",
-      "Dhany Dhany Mati Girijaa Teri Amar Kathaa Ruchi Dhaari."
-    ],
-    [
+      "Dhany Dhany Mati Girijaa Teri Amar Kathaa Ruchi Dhaari.",
       "Devon Ko Bhi Durlabh Milti Amar Kathaa Yah Pyaari.",
-      "Amar Kathaa Yah Amar Banaave Kaate Mamtaa Jaari."
-    ],
-    [
-      "Amar Kathaa Ke Kahne Vaalaa Jag Men Ko Guru Jnyaani || 2 ||."
+      "Amar Kathaa Yah Amar Banaave Kaate Mamtaa Jaari.",
+      "Amar Kathaa Ke Kahne Vaalaa Jag Men Ko Guru Jnyaani || 2 ||"
     ],
     [
       "Amar Aatmaa Deh Anaatm Aatm Rup Tumhaaraa.",
-      "Aatm Drishtaa Deh Drishy Hai Aatm Sab Se Nyaaraa."
-    ],
-    [
+      "Aatm Drishtaa Deh Drishy Hai Aatm Sab Se Nyaaraa.",
       "Jaagrat Svapan Sushopti Kaa Ik Aatm Hai Aadhaaraa.",
-      "Indriy Agochar Aatm Hai Jihain Man Buddhi Lakhe N Baani || 3 ||."
+      "Indriy Agochar Aatm Hai Jihain Man Buddhi Lakhe Na Baani || 3 ||"
     ],
     [
-      "Brahma Aatmaa Sthit Hai Nit Apne Mahimaa Maahin.",
-      "Bandh Moksh Te Asang Aatmaa Aat Jaat Kahen Naahin."
-    ],
-    [
-      "Paanch Bhut Prakriti Saari Sparsh Karat N Taahin.",
-      "Agam Arup Anup Anaadi Vedni Gati Nahin Jaani || 4 ||."
+      "Brahmaa Aatmaa Sthit Hai Nit Apne Mahimaa Maahin.",
+      "Bandh Moksh Te Asang Aatmaa Aat Jaat Kahen Naahin.",
+      "Paanch Bhut Prakriti Saari Sparsh Karat Na Taahin.",
+      "Agam Arup Anup Anaadi Vedni Gati Nahin Jaani || 4 ||"
     ],
     [
       "Gaathaa Sunte Paarvati Ko Aa Gai Nidraa Vaahin.",
-      "Saavdhaan Ho Hun Hun Karke Tote Sun Lai Taahin."
-    ],
-    [
-      "Marm N Jaanaa Mahaadev Thaa Mast Mauj Ke Maahin.",
-      "Shankar Puchhaa Girijaa Boli Main Nidraa Urjhaani || 5. ||."
+      "Saavdhaan Ho Hun Hun Karke Tote Sun Lai Taahin.",
+      "Marm Na Jaanaa Mahaadev Thaa Mast Mauj Ke Maahin.",
+      "Shankar Puchhaa Girijaa Boli Main Nidraa Urjhaani || 5 ||"
     ],
     [
       "Kahe Teun Shuk Gaathaa Sunli Bhed Shambhu Ne Paayaa.",
-      "Tote Ke Tab Maaran Kaaran Dandaa Le Uth Dhaayaa."
-    ],
-    [
+      "Tote Ke Tab Maaran Kaaran Dandaa Le Uth Dhaayaa.",
       "Urke Totaa Ved Vyaas Ke Triyaa Vadan Samaayaa.",
-      "Vyaas Vachan Sun Tote Ko Taj Chale Shambhu Sailaani || 6. ||."
+      "Vyaas Vachan Sun Tote Ko Taj Chale Shambhu Sailaani || 6 ||"
     ],
     [
       "Gd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 31 || 246 ||",
+    "शंकर बोले पार्वती सुन अमर कथा सुखदानी",
     "Shankar Bole Paarvati Sun Amar Kathaa Sukhdaani",
-    "शनकर बोले पारवति सुन मर कथा सुखदानि"
+    "राग भैरवी भजन 31",
+    "Raag Bhairvi Bhajan 31"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 246,
+  "displayOrder": 31,
+  "overallOrder": 246,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 152",
+  "updatedAt": "2026-10-26"
 }

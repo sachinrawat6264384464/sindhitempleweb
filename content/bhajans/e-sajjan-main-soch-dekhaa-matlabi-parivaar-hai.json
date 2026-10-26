@@ -2,43 +2,92 @@
   "id": "bhajan-0173",
   "slug": "e-sajjan-main-soch-dekhaa-matlabi-parivaar-hai",
   "categoryId": "raag-vihaag",
-  "title": "े सजजन मैं सोच देखा मतलबि परिवार है",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "ए सज्जन मैं सोच देखा मतलबी परिवार है",
   "romanTitle": "E Sajjan Main Soch Dekhaa Matlabi Parivaar Hai",
-  "firstLine": "E Sajjan Main Soch Dekhaa Matlabi Parivaar Hai. Saaph Tujhko Kahat Hun Yah Kapat Kaa Vyavhaar Hai (Tek).",
+  "firstLine": "E Sajjan Main Soch Dekhaa Matlabi Parivaar Hai.",
+  "heading": "।। राग विहाग भजन ।। १५ ।। १७३।।",
+  "tek": [
+    "ए सज्जन मैं सोच देखा मतलबी परिवार है ।",
+    "साफ तुझको कहत हूँ यह कपट का व्यवहार है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "E Sajjan Main Soch Dekhaa Matlabi Parivaar Hai.",
+    "Saaph Tujhko Kahat Hun Yah Kapat Kaa Vyavhaar Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भजन सत्संग से हटाए काम घर के लावते ।",
+        "अन्त वेले यों कहे सब राम तब रखवार है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhajan Satsang Se Hataae Kaam Ghar Ke Laavte.",
+        "Ant Vele Yon Kahe Sab Raam Tab Rakhvaar Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सूख सम्पति के समय में प्यार जे तुझ से करे ।",
+        "विपति में वे मित्र तुमको देत ना आधार है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sukh Sampati Ke Samay Men Pyaar Je Tujh Se Kare.",
+        "Vipti Men Ve Mitr Tumko Det Naa Aadhaar Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्यार जोबन में करत है पुत्र दारा मीत जे ।",
+        "वृद्धघन को देख घर से तुरत तोहि निकार है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Pyaar Joban Men Karat Hai Putr Daaraa Mit Je.",
+        "Vriddhaghan Ko Dekh Ghar Se Turat Tohi Nikaar Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ तोड़ नाता कपट वाले कुटुम्ब का ।",
+        "प्रीति कर कर्तार से आधार जो हरवार है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Tor Naataa Kapat Vaale Kutumb Kaa.",
+        "Priti Kar Kartaar Se Aadhaar Jo Harvaar Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "े सजजन मैं सोच देखा मतलबि परिवार है.",
-      "साफ तुझको कहत हुन यह कपत का वयवहार है (टेक)."
+      "भजन सत्संग से हटाए काम घर के लावते ।",
+      "अन्त वेले यों कहे सब राम तब रखवार है ॥१ ॥"
     ],
     [
-      "भजन सत्संग से हताे काम घर के लावते.",
-      "नत वेले योन कहे सब राम तब रखवार है || 1 ||."
+      "सूख सम्पति के समय में प्यार जे तुझ से करे ।",
+      "विपति में वे मित्र तुमको देत ना आधार है ॥२ ॥"
     ],
     [
-      "सुख समपति के समय मेन पयार जे तुझ से करे.",
-      "विपति मेन वे मितर तुमको देत ना ाधार है || 2 ||."
+      "प्यार जोबन में करत है पुत्र दारा मीत जे ।",
+      "वृद्धघन को देख घर से तुरत तोहि निकार है ॥३ ॥"
     ],
     [
-      "पयार जोबन मेन करत है पुतर दारा मित जे.",
-      "वरिदधघन को देख घर से तुरत तोहि निकार है || 3 ||"
-    ],
-    [
-      "कहत तेऊँ तोर नाता कपत वाले कुतुमब का.",
-      "परिति कर करतार से ाधार जो हरवार है || 4 ||"
+      "कहत टेऊँ तोड़ नाता कपट वाले कुटुम्ब का ।",
+      "प्रीति कर कर्तार से आधार जो हरवार है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "E Sajjan Main Soch Dekhaa Matlabi Parivaar Hai.",
-      "Saaph Tujhko Kahat Hun Yah Kapat Kaa Vyavhaar Hai (Tek)."
-    ],
-    [
       "Bhajan Satsang Se Hataae Kaam Ghar Ke Laavte.",
-      "Ant Vele Yon Kahe Sab Raam Tab Rakhvaar Hai || 1 ||."
+      "Ant Vele Yon Kahe Sab Raam Tab Rakhvaar Hai || 1 ||"
     ],
     [
       "Sukh Sampati Ke Samay Men Pyaar Je Tujh Se Kare.",
-      "Vipti Men Ve Mitr Tumko Det Naa Aadhaar Hai || 2 ||."
+      "Vipti Men Ve Mitr Tumko Det Naa Aadhaar Hai || 2 ||"
     ],
     [
       "Pyaar Joban Men Karat Hai Putr Daaraa Mit Je.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 15 || 173 ||",
+    "ए सज्जन मैं सोच देखा मतलबी परिवार है",
     "E Sajjan Main Soch Dekhaa Matlabi Parivaar Hai",
-    "े सजजन मैं सोच देखा मतलबि परिवार है"
+    "राग विहाग भजन 15",
+    "Raag Vihaag Bhajan 15"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 173,
+  "displayOrder": 15,
+  "overallOrder": 173,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 116",
+  "updatedAt": "2026-10-26"
 }

@@ -1,65 +1,114 @@
 {
-  "id": "bhajan-0472",
+  "id": "bhajan-0471",
   "slug": "mere-man-hari-kaa-dharo-dhyaanaa",
   "categoryId": "raag-huseni",
-  "title": "मेरे मन हरि का धरो धयाना",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "मेरे मन हरि का धरो ध्याना",
   "romanTitle": "Mere Man Hari Kaa Dharo Dhyaanaa",
-  "firstLine": "Mere Man Hari Kaa Dharo Dhyaanaa. Hari Charnon Kaa Dhyaan Dhare Tum Paao Sukh Mahaanaa (Tek).",
+  "firstLine": "Mere Man Hari Kaa Dharo Dhyaanaa.",
+  "heading": "।। राग हुसेनी भजन ॥।। १० ।। ४७२।॥।",
+  "tek": [
+    "मेरे मन हरि का धरो ध्याना ।",
+    "हरि चरणों का ध्यान धरे तुम पाओ सूख महाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Hari Kaa Dharo Dhyaanaa.",
+    "Hari Charnon Kaa Dhyaan Dhare Tum Paao Sukh Mahaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शुभ कमों से प्रीति लगाके पाप से चीत हटाना ।",
+        "सर्व कामना छोड़ जगत की निष्कामी बन जाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shubh Kamon Se Priti Lagaake Paap Se Chit Hataanaa.",
+        "Sarv Kaamnaa Chhor Jagat Ki Nishkaami Ban Jaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आठ पहर हरिनाम उच्चारे मन का मोह मिटाना ।",
+        "साध संगति की सेवा करके चार पदार्थ पाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aath Pahar Harinaam Uchchaare Man Kaa Moh Mitaanaa.",
+        "Saadh Sangti Ki Sevaa Karke Chaar Padaarth Paanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि सुमरन में सुरति लगाके मन को अचल बनाना ।",
+        "कहता टेऊँ काट चौरासी पाओ पद निर्बाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Sumran Men Surti Lagaake Man Ko Achal Banaanaa.",
+        "Kahtaa Teun Kaat Chauraasi Paao Pad Nirbaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "त्र्यठ"
+      ],
+      "romanLines": [
+        "Tryath"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन हरि का धरो धयाना.",
-      "हरि चरनोन का ध्यान धरे तुम पाो सुख महाना (टेक)."
+      "शुभ कमों से प्रीति लगाके पाप से चीत हटाना ।",
+      "सर्व कामना छोड़ जगत की निष्कामी बन जाना ॥१ ॥"
     ],
     [
-      "शुभ कमोन से परिति लगाके पाप से चित हताना.",
-      "सर्व कामना चहोर जगत कि निशकामि बन जाना || 1 ||"
+      "आठ पहर हरिनाम उच्चारे मन का मोह मिटाना ।",
+      "साध संगति की सेवा करके चार पदार्थ पाना ॥२ ॥"
     ],
     [
-      "ाथ पहर हरिनाम ुचचारे मन का मोह मिताना.",
-      "साध सनगति कि सेवा करके चार पदारथ पाना || 2 ||."
+      "हरि सुमरन में सुरति लगाके मन को अचल बनाना ।",
+      "कहता टेऊँ काट चौरासी पाओ पद निर्बाना ॥३ ॥"
     ],
     [
-      "हरि सुमरन मेन सुरति लगाके मन को चल बनाना.",
-      "कहता तेऊँ कात चौरासि पाो पद निरबाना || 3 ||."
-    ],
-    [
-      "तरयथ"
+      "त्र्यठ"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mere Man Hari Kaa Dharo Dhyaanaa.",
-      "Hari Charnon Kaa Dhyaan Dhare Tum Paao Sukh Mahaanaa (Tek)."
-    ],
     [
       "Shubh Kamon Se Priti Lagaake Paap Se Chit Hataanaa.",
       "Sarv Kaamnaa Chhor Jagat Ki Nishkaami Ban Jaanaa || 1 ||"
     ],
     [
       "Aath Pahar Harinaam Uchchaare Man Kaa Moh Mitaanaa.",
-      "Saadh Sangti Ki Sevaa Karke Chaar Padaarth Paanaa || 2 ||."
+      "Saadh Sangti Ki Sevaa Karke Chaar Padaarth Paanaa || 2 ||"
     ],
     [
       "Hari Sumran Men Surti Lagaake Man Ko Achal Banaanaa.",
-      "Kahtaa Teun Kaat Chauraasi Paao Pad Nirbaanaa || 3 ||."
+      "Kahtaa Teun Kaat Chauraasi Paao Pad Nirbaanaa || 3 ||"
     ],
     [
       "Tryath"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Huseni Bhajan || || 10 || 472. ||.",
+    "मेरे मन हरि का धरो ध्याना",
     "Mere Man Hari Kaa Dharo Dhyaanaa",
-    "मेरे मन हरि का धरो धयाना"
+    "राग हुसैनी भजन 10",
+    "Raag Huseni Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 472,
+  "displayOrder": 10,
+  "overallOrder": 471,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 264",
+  "updatedAt": "2026-10-26"
 }

@@ -1,49 +1,89 @@
 {
-  "id": "bhajan-0443",
+  "id": "bhajan-0442",
   "slug": "jaldi-jaa-man-aatm-ghar-men-param-shaanti-ko-paao-re",
   "categoryId": "raag-tilang",
-  "title": "जलदि जा मन ातम घर मेन, परम शांति को पाो रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "जल्दी जा मन आत्म घर में, परम शान्ति को पाओ रे",
   "romanTitle": "Jaldi Jaa Man Aatm Ghar Men, Param Shaanti Ko Paao Re",
   "firstLine": "Jaldi Jaa Man Aatm Ghar Men, Param Shaanti Ko Paao Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ७९ ।। ४४ ३े।।",
+  "tek": [
+    "जल्दी जा मन आत्म घर में, परम शान्ति को पाओ रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaldi Jaa Man Aatm Ghar Men, Param Shaanti Ko Paao Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दुनिया की सब दावा छोड़े, लगन राम से लाओ रे ॥१ ॥",
+        "भयता वाला भवन त्यागे, निर्भय नगर बसाओ रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Duniyaa Ki Sab Daavaa Chhore, Lagan Raam Se Laao Re || 1 ||",
+        "Bhaytaa Vaalaa Bhavan Tyaage, Nirbhay Nagar Basaao Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुन्न महल में सीधा चलिये, इधर उधर मत धाओ रे ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Sunn Mahal Men Sidhaa Chaliye, Idhar Udhar Mat Dhaao Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ ब्रह्म ज्ञान से, आवागमन मिटाओ रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Brahm Gyaan Se, Aavaagman Mitaao Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जलदि जा मन ातम घर मेन, परम शांति को पाो रे (टेक)."
+      "दुनिया की सब दावा छोड़े, लगन राम से लाओ रे ॥१ ॥",
+      "भयता वाला भवन त्यागे, निर्भय नगर बसाओ रे ॥२ ॥"
     ],
     [
-      "दुनिया कि सब दावा चहोरे, लगन राम से लाो रे 1",
-      "भयता वाला भवन तयागे, निरभय नगर बसाो रे || 2 ||."
+      "सुन्न महल में सीधा चलिये, इधर उधर मत धाओ रे ॥ ।३े ॥ ।"
     ],
     [
-      "सुनन महल मेन सिधा चलिये, िधर ुधर मत धाो रे ||.3े ||.",
-      "कहता तेऊँ बरहम ज्ञान से, ावागमन मिताो रे || 4 ||."
+      "कहता टेऊँ ब्रह्म ज्ञान से, आवागमन मिटाओ रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jaldi Jaa Man Aatm Ghar Men, Param Shaanti Ko Paao Re (Tek)."
+      "Duniyaa Ki Sab Daavaa Chhore, Lagan Raam Se Laao Re || 1 ||",
+      "Bhaytaa Vaalaa Bhavan Tyaage, Nirbhay Nagar Basaao Re || 2 ||"
     ],
     [
-      "Duniyaa Ki Sab Daavaa Chhore, Lagan Raam Se Laao Re 1",
-      "Bhaytaa Vaalaa Bhavan Tyaage, Nirbhay Nagar Basaao Re || 2 ||."
+      "Sunn Mahal Men Sidhaa Chaliye, Idhar Udhar Mat Dhaao Re || 3E ||"
     ],
     [
-      "Sunn Mahal Men Sidhaa Chaliye, Idhar Udhar Mat Dhaao Re ||.3E ||.",
-      "Kahtaa Teun Brahm Jnyaan Se, Aavaagman Mitaao Re || 4 ||."
+      "Kahtaa Teun Brahm Gyaan Se, Aavaagman Mitaao Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 79 || 44 3E ||",
+    "जल्दी जा मन आत्म घर में, परम शान्ति को पाओ रे",
     "Jaldi Jaa Man Aatm Ghar Men, Param Shaanti Ko Paao Re",
-    "जलदि जा मन ातम घर मेन, परम शांति को पाो रे"
+    "राग तिलंग भजन 79",
+    "Raag Tilang Bhajan 79"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 443,
+  "displayOrder": 79,
+  "overallOrder": 442,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 251",
+  "updatedAt": "2026-10-26"
 }

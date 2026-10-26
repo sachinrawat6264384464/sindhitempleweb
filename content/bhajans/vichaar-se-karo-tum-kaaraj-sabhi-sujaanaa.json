@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0820",
+  "id": "bhajan-0818",
   "slug": "vichaar-se-karo-tum-kaaraj-sabhi-sujaanaa",
   "categoryId": "raag-maanjh",
-  "title": "विचार से करो तुम, कारज सभि सुजाना",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "वीचार से करो तुम, कारज सभी सुजाना",
   "romanTitle": "Vichaar Se Karo Tum, Kaaraj Sabhi Sujaanaa",
-  "firstLine": "Vichaar Se Karo Tum, Kaaraj Sabhi Sujaanaa. Kirat Rahe Jagat Men, Honge Sukhi Nidaanaa (Tek).",
+  "firstLine": "Vichaar Se Karo Tum, Kaaraj Sabhi Sujaanaa.",
+  "heading": "।। राग मांझ भजन ।। ७ ।॥। ८२०॥।",
+  "tek": [
+    "वीचार से करो तुम, कारज सभी सुजाना ।",
+    "कीरत रहे जगत में, होंगे सुखी निदाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Vichaar Se Karo Tum, Kaaraj Sabhi Sujaanaa.",
+    "Kirat Rahe Jagat Men, Honge Sukhi Nidaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धन धाम पुत्र त्रिया, बहु मान में न सुख है ।",
+        "बीचार में सर्व सुख, देखो धरे ध्याना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dhan Dhaam Putr Triyaa, Bahu Maan Men Na Sukh Hai.",
+        "Bichaar Men Sarv Sukh, Dekho Dhare Dhyaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "झंगल बसो नगर में, अथवा रहो गगन में ।",
+        "वीचार बिन मिले ना, शान्ती किसी मकाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jhangal Baso Nagar Men, Athvaa Raho Gagan Men.",
+        "Vichaar Bin Mile Naa, Shaanti Kisi Makaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बीचारवान सुखिया, सब देश में सर्वदा ।",
+        "वीचार हीन दुखिया, भावें पढ़े पुराना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bichaarvaan Sukhiyaa, Sab Desh Men Sarvadaa.",
+        "Vichaar Hin Dukhiyaa, Bhaaven Parhe Puraanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "वीचारवान का है, दर्जा बड़ा सर्व से ।",
+        "कहे टेऊँ तिस मनुष को , पूजे सकल जहाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Vichaarvaan Kaa Hai, Darjaa Baraa Sarv Se.",
+        "Kahe Teun Tis Manush Ko, Puje Sakal Jahaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "विचार से करो तुम, कारज सभि सुजाना.",
-      "किरत रहे जगत मेन, होनगे सुखि निदाना (टेक)."
+      "धन धाम पुत्र त्रिया, बहु मान में न सुख है ।",
+      "बीचार में सर्व सुख, देखो धरे ध्याना ॥१ ॥"
     ],
     [
-      "धन धाम पुतर तरिया, बहु मान मेन न सुख है.",
-      "बिचार मेन सर्व सुख, देखो धरे धयाना || 1 ||."
+      "झंगल बसो नगर में, अथवा रहो गगन में ।",
+      "वीचार बिन मिले ना, शान्ती किसी मकाना ॥२ ॥"
     ],
     [
-      "झनगल बसो नगर मेन, थवा रहो गगन मेन.",
-      "विचार बिन मिले ना, शांति किसि मकाना || 2 ||"
+      "बीचारवान सुखिया, सब देश में सर्वदा ।",
+      "वीचार हीन दुखिया, भावें पढ़े पुराना ॥३ ॥"
     ],
     [
-      "बिचारवान सुखिया, सब देश मेन सरवदा.",
-      "विचार हिन दुखिया, भावेन परहे पुराना || 3 ||."
-    ],
-    [
-      "विचारवान का है, दरजा बरा सर्व से.",
-      "कहे तेऊँ तिस मनुश को, पुजे सकल जहाना.4 ||."
+      "वीचारवान का है, दर्जा बड़ा सर्व से ।",
+      "कहे टेऊँ तिस मनुष को , पूजे सकल जहाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Vichaar Se Karo Tum, Kaaraj Sabhi Sujaanaa.",
-      "Kirat Rahe Jagat Men, Honge Sukhi Nidaanaa (Tek)."
-    ],
-    [
-      "Dhan Dhaam Putr Triyaa, Bahu Maan Men N Sukh Hai.",
-      "Bichaar Men Sarv Sukh, Dekho Dhare Dhyaanaa || 1 ||."
+      "Dhan Dhaam Putr Triyaa, Bahu Maan Men Na Sukh Hai.",
+      "Bichaar Men Sarv Sukh, Dekho Dhare Dhyaanaa || 1 ||"
     ],
     [
       "Jhangal Baso Nagar Men, Athvaa Raho Gagan Men.",
@@ -42,26 +91,28 @@
     ],
     [
       "Bichaarvaan Sukhiyaa, Sab Desh Men Sarvadaa.",
-      "Vichaar Hin Dukhiyaa, Bhaaven Parhe Puraanaa || 3 ||."
+      "Vichaar Hin Dukhiyaa, Bhaaven Parhe Puraanaa || 3 ||"
     ],
     [
       "Vichaarvaan Kaa Hai, Darjaa Baraa Sarv Se.",
-      "Kahe Teun Tis Manush Ko, Puje Sakal Jahaanaa.4 ||."
+      "Kahe Teun Tis Manush Ko, Puje Sakal Jahaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Maanjh Bhajan || 7. ||. 820 ||.",
+    "वीचार से करो तुम, कारज सभी सुजाना",
     "Vichaar Se Karo Tum, Kaaraj Sabhi Sujaanaa",
-    "विचार से करो तुम, कारज सभि सुजाना"
+    "राग मांझ भजन 7",
+    "Raag Maanjh Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 820,
+  "displayOrder": 7,
+  "overallOrder": 818,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 434",
+  "updatedAt": "2026-10-26"
 }

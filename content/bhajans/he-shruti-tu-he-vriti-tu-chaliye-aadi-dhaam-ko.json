@@ -1,31 +1,72 @@
 {
-  "id": "bhajan-0527",
+  "id": "bhajan-0525",
   "slug": "he-shruti-tu-he-vriti-tu-chaliye-aadi-dhaam-ko",
   "categoryId": "raag-kohiyaari",
-  "title": "हे शरुति तु, हे वरिति तु, चलिये ादि धाम को",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "हे श्रुती तूं, हे वृती तूं, चलिये आदी धाम को",
   "romanTitle": "He Shruti Tu, He Vriti Tu, Chaliye Aadi Dhaam Ko",
   "firstLine": "He Shruti Tu, He Vriti Tu, Chaliye Aadi Dhaam Ko (Tek).",
+  "heading": "।। राग कोह्मारी भजन ।। ४६ ।। ५२६।॥।",
+  "tek": [
+    "हे श्रुती तूं, हे वृती तूं, चलिये आदी धाम को ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "He Shruti Tu, He Vriti Tu, Chaliye Aadi Dhaam Ko (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सदूगुरु का सत्संग कर, नित्यप्रती तूं, हे वृती तूं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saduguru Kaa Satsang Kar, Nityaprati Tu, He Vriti Tu || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सद्‌गुरु के स्वरूप में, जोड़ नृती तूं, हे वृती तूं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Ke Svarup Men, Jor Nriti Tu, He Vriti Tu || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सुमरन आदी नाम की, कर कृती तूं, हे वृती तूं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sumran Aadi Naam Ki, Kar Kriti Tu, He Vriti Tu || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ निज ज्ञान की, धार धुती तूं, हे वृती तूं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nij Gyaan Ki, Dhaar Dhuti Tu, He Vriti Tu || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे शरुति तु, हे वरिति तु, चलिये ादि धाम को (टेक)."
+      "सदूगुरु का सत्संग कर, नित्यप्रती तूं, हे वृती तूं ॥१ ॥"
     ],
     [
-      "सदुगुरु का सत्संग कर, नितयपरति तु, हे वरिति तु || 1 ||"
+      "सद्‌गुरु के स्वरूप में, जोड़ नृती तूं, हे वृती तूं ॥२ ॥"
     ],
     [
-      "सद्गुरु के सवरुप मेन, जोर नरिति तु, हे वरिति तु || 2 ||"
+      "सुमरन आदी नाम की, कर कृती तूं, हे वृती तूं ॥३ ॥"
     ],
     [
-      "सुमरन ादि नाम कि, कर करिति तु, हे वरिति तु || 3 ||"
-    ],
-    [
-      "कहे तेऊँ निज ज्ञान कि, धार धुति तु, हे वरिति तु || 4 ||"
+      "कहे टेऊँ निज ज्ञान की, धार धुती तूं, हे वृती तूं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "He Shruti Tu, He Vriti Tu, Chaliye Aadi Dhaam Ko (Tek)."
-    ],
     [
       "Saduguru Kaa Satsang Kar, Nityaprati Tu, He Vriti Tu || 1 ||"
     ],
@@ -36,22 +77,24 @@
       "Sumran Aadi Naam Ki, Kar Kriti Tu, He Vriti Tu || 3 ||"
     ],
     [
-      "Kahe Teun Nij Jnyaan Ki, Dhaar Dhuti Tu, He Vriti Tu || 4 ||"
+      "Kahe Teun Nij Gyaan Ki, Dhaar Dhuti Tu, He Vriti Tu || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohmaari Bhajan || 46 || 526. ||.",
+    "हे श्रुती तूं, हे वृती तूं, चलिये आदी धाम को",
     "He Shruti Tu, He Vriti Tu, Chaliye Aadi Dhaam Ko",
-    "हे शरुति तु, हे वरिति तु, चलिये ादि धाम को"
+    "राग कोहियारी भजन 46",
+    "Raag Kohiyaari Bhajan 46"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 527,
+  "displayOrder": 46,
+  "overallOrder": 525,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 290",
+  "updatedAt": "2026-10-26"
 }

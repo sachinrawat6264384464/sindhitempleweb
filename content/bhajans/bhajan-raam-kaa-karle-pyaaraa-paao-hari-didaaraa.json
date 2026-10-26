@@ -1,73 +1,118 @@
 {
   "id": "bhajan-0307",
   "slug": "bhajan-raam-kaa-karle-pyaaraa-paao-hari-didaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "भजन राम का करले पयारा, पाो हरि दिदारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "भजन राम का करले प्यारा, पाओ हरि दीदारा",
   "romanTitle": "Bhajan Raam Kaa Karle Pyaaraa, Paao Hari Didaaraa",
-  "firstLine": "Bhajan Raam Kaa Karle Pyaaraa, Paao Hari Didaaraa. Bhajan Raam Kaa Hari Se Mele, Yam Se Ho Chhutkaaraa (Tek).",
+  "firstLine": "Bhajan Raam Kaa Karle Pyaaraa, Paao Hari Didaaraa.",
+  "heading": "।। राग भैरवी भजन ।। ९२ ।। ३०७।।",
+  "tek": [
+    "भजन राम का करले प्यारा, पाओ हरि दीदारा ।",
+    "भजन राम का हरि से मेले, यम से हो छुटकारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhajan Raam Kaa Karle Pyaaraa, Paao Hari Didaaraa.",
+    "Bhajan Raam Kaa Hari Se Mele, Yam Se Ho Chhutkaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भजन नाम है चित्त का चिन्तन, भजन धर्म है मन का ।",
+        "एक पलक मन छोड़ न साकत, चिन्तन यह निर्धारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhajan Naam Hai Chitt Kaa Chintan, Bhajan Dharm Hai Man Kaa.",
+        "Ek Palak Man Chhor Na Saakat, Chintan Yah Nirdhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जामें जांकी रुची होत है, अहनिशि तांको चितवे ।",
+        "जिस वस्तू का चिन्तन करते, बनते वह आकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaamen Jaanki Ruchi Hot Hai, Ahnishi Taanko Chitve.",
+        "Jis Vastu Kaa Chintan Karte, Bante Vah Aakaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जड़ चिन्तन से जड़ ही बनता, चेतन चितवे चेतन ।",
+        "तांते जड़ का चिन्तन तजके, हरि स्मरो इकतारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jar Chintan Se Jar Hi Bantaa, Chetan Chitve Chetan.",
+        "Taante Jar Kaa Chintan Tajke, Hari Smaro Iktaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आठ भान्ति से मन यह पलटे, कहे टेऊँ सत्‌ वाणी ।",
+        "साध संगति हरि चिन्तन करके, भव से उतरो पारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aath Bhaanti Se Man Yah Palte, Kahe Teun Sat‌ Vaani.",
+        "Saadh Sangti Hari Chintan Karke, Bhav Se Utro Paaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भजन राम का करले पयारा, पाो हरि दिदारा.",
-      "भजन राम का हरि से मेले, यम से हो चहुतकारा (टेक)."
+      "भजन नाम है चित्त का चिन्तन, भजन धर्म है मन का ।",
+      "एक पलक मन छोड़ न साकत, चिन्तन यह निर्धारा ॥१ ॥"
     ],
     [
-      "भजन नाम है चितत का चिनतन, भजन धरम है मन का.",
-      "ेक पलक मन चहोर न साकत, चिनतन यह निरधारा || 1 ||."
+      "जामें जांकी रुची होत है, अहनिशि तांको चितवे ।",
+      "जिस वस्तू का चिन्तन करते, बनते वह आकारा ॥२ ॥"
     ],
     [
-      "जामेन जानकि रुचि होत है, हनिशि तानको चितवे.",
-      "जिस वसतु का चिनतन करते, बनते वह ाकारा || 2. ||."
+      "जड़ चिन्तन से जड़ ही बनता, चेतन चितवे चेतन ।",
+      "तांते जड़ का चिन्तन तजके, हरि स्मरो इकतारा ॥३ ॥"
     ],
     [
-      "थ",
-      "जर चिनतन से जर हि बनता, चेतन चितवे चेतन."
-    ],
-    [
-      "तानते जर का चिनतन तजके, हरि समरो िकतारा || 3 ||."
-    ],
-    [
-      "ाथ भानति से मन यह पलते, कहे तेऊँ सत‌ वाणी.",
-      "साध सनगति हरि चिनतन करके, भव से ुतरो पारा || 4. ||."
+      "आठ भान्ति से मन यह पलटे, कहे टेऊँ सत्‌ वाणी ।",
+      "साध संगति हरि चिन्तन करके, भव से उतरो पारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhajan Raam Kaa Karle Pyaaraa, Paao Hari Didaaraa.",
-      "Bhajan Raam Kaa Hari Se Mele, Yam Se Ho Chhutkaaraa (Tek)."
-    ],
-    [
       "Bhajan Naam Hai Chitt Kaa Chintan, Bhajan Dharm Hai Man Kaa.",
-      "Ek Palak Man Chhor N Saakat, Chintan Yah Nirdhaaraa || 1 ||."
+      "Ek Palak Man Chhor Na Saakat, Chintan Yah Nirdhaaraa || 1 ||"
     ],
     [
       "Jaamen Jaanki Ruchi Hot Hai, Ahnishi Taanko Chitve.",
-      "Jis Vastu Kaa Chintan Karte, Bante Vah Aakaaraa || 2. ||."
+      "Jis Vastu Kaa Chintan Karte, Bante Vah Aakaaraa || 2 ||"
     ],
     [
-      "Th",
-      "Jar Chintan Se Jar Hi Bantaa, Chetan Chitve Chetan."
-    ],
-    [
-      "Taante Jar Kaa Chintan Tajke, Hari Smaro Iktaaraa || 3 ||."
+      "Jar Chintan Se Jar Hi Bantaa, Chetan Chitve Chetan.",
+      "Taante Jar Kaa Chintan Tajke, Hari Smaro Iktaaraa || 3 ||"
     ],
     [
       "Aath Bhaanti Se Man Yah Palte, Kahe Teun Sat‌ Vaani.",
-      "Saadh Sangti Hari Chintan Karke, Bhav Se Utro Paaraa || 4. ||."
+      "Saadh Sangti Hari Chintan Karke, Bhav Se Utro Paaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 92 || 307 ||",
+    "भजन राम का करले प्यारा, पाओ हरि दीदारा",
     "Bhajan Raam Kaa Karle Pyaaraa, Paao Hari Didaaraa",
-    "भजन राम का करले पयारा, पाो हरि दिदारा"
+    "राग भैरवी भजन 92",
+    "Raag Bhairvi Bhajan 92"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 307,
+  "displayOrder": 92,
+  "overallOrder": 307,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 185",
+  "updatedAt": "2026-10-26"
 }

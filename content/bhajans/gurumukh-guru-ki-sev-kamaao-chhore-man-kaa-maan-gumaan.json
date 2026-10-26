@@ -2,53 +2,99 @@
   "id": "bhajan-0425",
   "slug": "gurumukh-guru-ki-sev-kamaao-chhore-man-kaa-maan-gumaan",
   "categoryId": "raag-tilang",
-  "title": "गुरुमुख गुरु कि सेव कमाो, चहोरे मन का मान गुमान",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "गुरुमुख गुरु की सेव कमाओ, छोड़े मन का मान गुमान",
   "romanTitle": "Gurumukh Guru Ki Sev Kamaao, Chhore Man Kaa Maan Gumaan",
   "firstLine": "Gurumukh Guru Ki Sev Kamaao, Chhore Man Kaa Maan Gumaan (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६२ ।। ४२६।।",
+  "tek": [
+    "गुरुमुख गुरु की सेव कमाओ, छोड़े मन का मान गुमान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gurumukh Guru Ki Sev Kamaao, Chhore Man Kaa Maan Gumaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु मूरत में नृती लाये, हरदम तांका धरो ध्यान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Murat Men Nriti Laaye, Hardam Taankaa Dharo Dhyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु मंतर से सुरती मेले, निशदिन जाप जपो प्रधान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Mantar Se Surti Mele, Nishdin Jaap Japo Pradhaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरू ज्ञान में वृत्ती जोड़े, हर ले भेद श्रम अज्ञान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Gyaan Men Vritti Jore, Har Le Bhed Shram Ajnyaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गुरु पूरे को मनुष न मानो, कहे टेऊँ जानो भगवान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Guru Pure Ko Manush Na Maano, Kahe Teun Jaano Bhagvaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गुरुमुख गुरु कि सेव कमाो, चहोरे मन का मान गुमान (टेक)."
+      "गुरु मूरत में नृती लाये, हरदम तांका धरो ध्यान ॥१ ॥"
     ],
     [
-      "गुरु मुरत मेन नरिति लाये, हरदम तानका धरो ध्यान.1 ||.",
-      "गुरु मनतर से सुरति मेले, निशदिन जाप जपो परधान || 2 ||."
+      "गुरु मंतर से सुरती मेले, निशदिन जाप जपो प्रधान ॥२ ॥"
     ],
     [
-      "गुरु ज्ञान मेन वरितति जोरे, हर ले भेद शरम जनयान || 3 ||."
+      "गुरू ज्ञान में वृत्ती जोड़े, हर ले भेद श्रम अज्ञान ॥३ ॥"
     ],
     [
-      "गुरु पुरे को मनुश न मानो, कहे तेऊँ जानो भगवान || 4 ||"
+      "गुरु पूरे को मनुष न मानो, कहे टेऊँ जानो भगवान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Gurumukh Guru Ki Sev Kamaao, Chhore Man Kaa Maan Gumaan (Tek)."
+      "Guru Murat Men Nriti Laaye, Hardam Taankaa Dharo Dhyaan || 1 ||"
     ],
     [
-      "Guru Murat Men Nriti Laaye, Hardam Taankaa Dharo Dhyaan.1 ||.",
-      "Guru Mantar Se Surti Mele, Nishdin Jaap Japo Pradhaan || 2 ||."
+      "Guru Mantar Se Surti Mele, Nishdin Jaap Japo Pradhaan || 2 ||"
     ],
     [
-      "Guru Jnyaan Men Vritti Jore, Har Le Bhed Shram Ajnyaan || 3 ||."
+      "Guru Gyaan Men Vritti Jore, Har Le Bhed Shram Ajnyaan || 3 ||"
     ],
     [
-      "Guru Pure Ko Manush N Maano, Kahe Teun Jaano Bhagvaan || 4 ||"
+      "Guru Pure Ko Manush Na Maano, Kahe Teun Jaano Bhagvaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 62 || 426 ||",
+    "गुरुमुख गुरु की सेव कमाओ, छोड़े मन का मान गुमान",
     "Gurumukh Guru Ki Sev Kamaao, Chhore Man Kaa Maan Gumaan",
-    "गुरुमुख गुरु कि सेव कमाो, चहोरे मन का मान गुमान"
+    "राग तिलंग भजन 62",
+    "Raag Tilang Bhajan 62"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 425,
+  "displayOrder": 62,
+  "overallOrder": 425,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 243",
+  "updatedAt": "2026-10-26"
 }

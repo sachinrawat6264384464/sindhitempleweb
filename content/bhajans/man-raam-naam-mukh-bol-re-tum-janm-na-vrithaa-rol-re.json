@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0299",
+  "slug": "man-raam-naam-mukh-bol-re-tum-janm-na-vrithaa-rol-re",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "मन राम नाम मुख बोल रे, तुम जन्म न वृथा रोल रे",
+  "romanTitle": "Man Raam Naam Mukh Bol Re, Tum Janm Na Vrithaa Rol Re",
+  "firstLine": "Man Raam Naam Mukh Bol Re, Tum Janm Na Vrithaa Rol Re (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ८४ ।। २९९।।",
+  "tek": [
+    "मन राम नाम मुख बोल रे, तुम जन्म न वृथा रोल रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Raam Naam Mukh Bol Re, Tum Janm Na Vrithaa Rol Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम जपन से क्यों घबराता, गांठी से कुछ गिर नहीं जाता ।",
+        "नहिं लागत तेरा मोल रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raam Japan Se Kyon Ghabraataa, Gaanthi Se Kuchh Gir Nahin Jaataa.",
+        "Nahin Laagat Teraa Mol Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दम दम राम नाम को ध्याओ, वृथा श्वास न एक गंवाओ ।",
+        "यह जानो अति अनमोल रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dam Dam Raam Naam Ko Dhyaao, Vrithaa Shvaas Na Ek Ganvaao.",
+        "Yah Jaano Ati Anmol Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जीने पर इतबार न कोई, गया श्वास फिर आय न सोई ।",
+        "यह देखो दिल में तोल रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jine Par Itbaar Na Koi, Gayaa Shvaas Phir Aay Na Soi.",
+        "Yah Dekho Dil Men Tol Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम भजन बिन जो जहं जावे, कहे टेऊँ सो दुख तहैँ पावे ।",
+        "पढ़ देखो पुस्तक खोल रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Bhajan Bin Jo Jahan Jaave, Kahe Teun So Dukh Tahain Paave.",
+        "Parh Dekho Pustak Khol Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "राम जपन से क्यों घबराता, गांठी से कुछ गिर नहीं जाता ।",
+      "नहिं लागत तेरा मोल रे ॥१ ॥"
+    ],
+    [
+      "दम दम राम नाम को ध्याओ, वृथा श्वास न एक गंवाओ ।",
+      "यह जानो अति अनमोल रे ॥२ ॥"
+    ],
+    [
+      "जीने पर इतबार न कोई, गया श्वास फिर आय न सोई ।",
+      "यह देखो दिल में तोल रे ॥३ ॥"
+    ],
+    [
+      "राम भजन बिन जो जहं जावे, कहे टेऊँ सो दुख तहैँ पावे ।",
+      "पढ़ देखो पुस्तक खोल रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Raam Japan Se Kyon Ghabraataa, Gaanthi Se Kuchh Gir Nahin Jaataa.",
+      "Nahin Laagat Teraa Mol Re || 1 ||"
+    ],
+    [
+      "Dam Dam Raam Naam Ko Dhyaao, Vrithaa Shvaas Na Ek Ganvaao.",
+      "Yah Jaano Ati Anmol Re || 2 ||"
+    ],
+    [
+      "Jine Par Itbaar Na Koi, Gayaa Shvaas Phir Aay Na Soi.",
+      "Yah Dekho Dil Men Tol Re || 3 ||"
+    ],
+    [
+      "Raam Bhajan Bin Jo Jahan Jaave, Kahe Teun So Dukh Tahain Paave.",
+      "Parh Dekho Pustak Khol Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "मन राम नाम मुख बोल रे, तुम जन्म न वृथा रोल रे",
+    "Man Raam Naam Mukh Bol Re, Tum Janm Na Vrithaa Rol Re",
+    "राग भैरवी भजन 84",
+    "Raag Bhairvi Bhajan 84"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
+  ],
+  "displayOrder": 84,
+  "overallOrder": 299,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 180",
+  "updatedAt": "2026-10-26"
+}

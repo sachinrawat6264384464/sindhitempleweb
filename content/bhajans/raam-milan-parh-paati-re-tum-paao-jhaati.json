@@ -2,56 +2,105 @@
   "id": "bhajan-0063",
   "slug": "raam-milan-parh-paati-re-tum-paao-jhaati",
   "categoryId": "raag-aasaa",
-  "title": "राम मिलन परह पाति, रे तुम पाो झाति",
-  "romanTitle": "Raam Milan Parh Paati, Re Tum Paao Jhaati",
-  "firstLine": "Raam Milan Parh Paati, Re Tum Paao Jhaati, Man Eqaanti, Hove Shaanti (Tek).",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "राम मिलन पढ़ पाती, रे तुम पाओ झाती,",
+  "romanTitle": "Raam Milan Parh Paati, Re Tum Paao Jhaati,",
+  "firstLine": "Raam Milan Parh Paati, Re Tum Paao Jhaati,",
+  "heading": "।। राग आसा भजन ।। १ ।। ६३।।",
+  "tek": [
+    "राम मिलन पढ़ पाती, रे तुम पाओ झाती,",
+    "मन एक़ान्ती, होवे शांती ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Milan Parh Paati, Re Tum Paao Jhaati,",
+    "Man Eqaanti, Hove Shaanti (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ताप कलेशा पाप मिटाओ, सुनकर सन्तनि बाती ॥१ ॥"
+      ],
+      "romanLines": [
+        "Taap Kaleshaa Paap Mitaao, Sunkar Santani Baati || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चारों साधन को तुम साधे, ध्यान धरो दिन राती ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chaaron Saadhan Ko Tum Saadhe, Dhyaan Dharo Din Raati || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्‌गुरु से मिल सम सुख पाओ, भेद भ्रम हरे भ्रान्ती ॥ डे ॥",
+        "कहे टेऊँ हरि सुमरण करके, लखले अपनी ज़ाती ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Se Mil Sam Sukh Paao, Bhed Bhram Hare Bhraanti || De ||",
+        "Kahe Teun Hari Sumran Karke, Lakhle Apni Zaati || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द्द्"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "राम मिलन परह पाति, रे तुम पाो झाति,",
-      "मन ेqानति, होवे शांति (टेक)."
+      "ताप कलेशा पाप मिटाओ, सुनकर सन्तनि बाती ॥१ ॥"
     ],
     [
-      "ताप कलेशा पाप मिताो, सुनकर सनतनि बाति ||.1 ||.",
-      "चारोन साधन को तुम साधे, ध्यान धरो दीन राति || 2 ||."
+      "चारों साधन को तुम साधे, ध्यान धरो दिन राती ॥२ ॥"
     ],
     [
-      "सद्गुरु से मिल सम सुख पाो, भेद भरम हरे भरानति || दे ||",
-      "कहे तेऊँ हरि सुमरन करके, लखले पनि zाति || 4 ||."
+      "सद्‌गुरु से मिल सम सुख पाओ, भेद भ्रम हरे भ्रान्ती ॥ डे ॥",
+      "कहे टेऊँ हरि सुमरण करके, लखले अपनी ज़ाती ॥४ ॥"
     ],
     [
-      "दद"
+      "द्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Raam Milan Parh Paati, Re Tum Paao Jhaati,",
-      "Man Eqaanti, Hove Shaanti (Tek)."
+      "Taap Kaleshaa Paap Mitaao, Sunkar Santani Baati || 1 ||"
     ],
     [
-      "Taap Kaleshaa Paap Mitaao, Sunkar Santani Baati ||.1 ||.",
-      "Chaaron Saadhan Ko Tum Saadhe, Dhyaan Dharo Din Raati || 2 ||."
+      "Chaaron Saadhan Ko Tum Saadhe, Dhyaan Dharo Din Raati || 2 ||"
     ],
     [
       "Sad‌Guru Se Mil Sam Sukh Paao, Bhed Bhram Hare Bhraanti || De ||",
-      "Kahe Teun Hari Sumran Karke, Lakhle Apni Zaati || 4 ||."
+      "Kahe Teun Hari Sumran Karke, Lakhle Apni Zaati || 4 ||"
     ],
     [
       "Dd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 1 || 63 ||",
-    "Raam Milan Parh Paati, Re Tum Paao Jhaati",
-    "राम मिलन परह पाति, रे तुम पाो झाति"
+    "राम मिलन पढ़ पाती, रे तुम पाओ झाती,",
+    "Raam Milan Parh Paati, Re Tum Paao Jhaati,",
+    "राग आसा भजन 1",
+    "Raag Aasaa Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 63,
+  "displayOrder": 1,
+  "overallOrder": 63,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 56",
+  "updatedAt": "2026-10-26"
 }

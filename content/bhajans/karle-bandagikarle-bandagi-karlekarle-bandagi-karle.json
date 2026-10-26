@@ -2,56 +2,96 @@
   "id": "bhajan-0099",
   "slug": "karle-bandagikarle-bandagi-karlekarle-bandagi-karle",
   "categoryId": "raag-aasaa",
-  "title": "करले बनदगिकरले बनदगि करलेकरले बनदगि करले",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "करले बन्दगी ,करले बन्दगी करले ,करले बन्दगी करले",
   "romanTitle": "Karle Bandagi,Karle Bandagi Karle,Karle Bandagi Karle",
   "firstLine": "Karle Bandagi,Karle Bandagi Karle,Karle Bandagi Karle (Tek).",
+  "heading": "।। राग आसा भजन ।। ३७ ।। ९९।।",
+  "tek": [
+    "करले बन्दगी ,करले बन्दगी करले ,करले बन्दगी करले ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Bandagi,Karle Bandagi Karle,Karle Bandagi Karle (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिस मनुष ने बन्दगी कीती, तिस हारी बाज़ी जीती ।",
+        "तुम ध्यान हरी का धरले, बन्दगी करले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jis Manush Ne Bandagi Kiti, Tis Haari Baazi Jiti.",
+        "Tum Dhyaan Hari Kaa Dharle, Bandagi Karle || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बन्दा होय करे ना बन्दगी, तिस व्यर्थ जानो ज़िन्दगी ।",
+        "ना स्वास अमोलक हरले, बन्दगी करले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bandaa Hoy Kare Naa Bandagi, Tis Vyarth Jaano Zindagi.",
+        "Naa Svaas Amolak Harle, Bandagi Karle || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ अगर सुख चाहो, कर बंदगी सब सुख पाओ ।",
+        "भव सागर से तुम तरले, बन्दगी करले ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Kahe Teun Agar Sukh Chaaho, Kar Bandgi Sab Sukh Paao.",
+        "Bhav Saagar Se Tum Tarle, Bandagi Karle || 3E ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले बनदगिकरले बनदगि करलेकरले बनदगि करले (टेक)."
+      "जिस मनुष ने बन्दगी कीती, तिस हारी बाज़ी जीती ।",
+      "तुम ध्यान हरी का धरले, बन्दगी करले ॥१ ॥"
     ],
     [
-      "जिस मनुश ने बनदगि किति, तिस हारि बाzि जिति.",
-      "तुम ध्यान हरि का धरले, बनदगि करले.1. ||."
+      "बन्दा होय करे ना बन्दगी, तिस व्यर्थ जानो ज़िन्दगी ।",
+      "ना स्वास अमोलक हरले, बन्दगी करले ॥२ ॥"
     ],
     [
-      "बनदा होय करे ना बनदगि, तिस वयरथ जानो zिनदगि.",
-      "ना सवास मोलक हरले, बनदगि करले || 2. ||."
-    ],
-    [
-      "कहे तेऊँ गर सुख चाहो, कर बनदगि सब सुख पाो.",
-      "भव सागर से तुम तरले, बनदगि करले ||.3े ||."
+      "कहे टेऊँ अगर सुख चाहो, कर बंदगी सब सुख पाओ ।",
+      "भव सागर से तुम तरले, बन्दगी करले ॥ ।३े ॥ ।"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Bandagi,Karle Bandagi Karle,Karle Bandagi Karle (Tek)."
-    ],
-    [
       "Jis Manush Ne Bandagi Kiti, Tis Haari Baazi Jiti.",
-      "Tum Dhyaan Hari Kaa Dharle, Bandagi Karle.1. ||."
+      "Tum Dhyaan Hari Kaa Dharle, Bandagi Karle || 1 ||"
     ],
     [
       "Bandaa Hoy Kare Naa Bandagi, Tis Vyarth Jaano Zindagi.",
-      "Naa Svaas Amolak Harle, Bandagi Karle || 2. ||."
+      "Naa Svaas Amolak Harle, Bandagi Karle || 2 ||"
     ],
     [
       "Kahe Teun Agar Sukh Chaaho, Kar Bandgi Sab Sukh Paao.",
-      "Bhav Saagar Se Tum Tarle, Bandagi Karle ||.3E ||."
+      "Bhav Saagar Se Tum Tarle, Bandagi Karle || 3E ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 37 || 99 ||",
+    "करले बन्दगी ,करले बन्दगी करले ,करले बन्दगी करले",
     "Karle Bandagi,Karle Bandagi Karle,Karle Bandagi Karle",
-    "करले बनदगिकरले बनदगि करलेकरले बनदगि करले"
+    "राग आसा भजन 37",
+    "Raag Aasaa Bhajan 37"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 99,
+  "displayOrder": 37,
+  "overallOrder": 99,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 75",
+  "updatedAt": "2026-10-26"
 }

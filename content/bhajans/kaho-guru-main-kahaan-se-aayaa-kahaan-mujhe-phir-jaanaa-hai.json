@@ -1,31 +1,72 @@
 {
-  "id": "bhajan-0449",
+  "id": "bhajan-0448",
   "slug": "kaho-guru-main-kahaan-se-aayaa-kahaan-mujhe-phir-jaanaa-hai",
   "categoryId": "raag-tilang",
-  "title": "कहो गुरु मैं कहान से ाया, कहान मुझे फिर जाना है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "कहो गुरू मैं कहाँ से आया, कहां मुझे फिर जाना है",
   "romanTitle": "Kaho Guru Main Kahaan Se Aayaa, Kahaan Mujhe Phir Jaanaa Hai",
   "firstLine": "Kaho Guru Main Kahaan Se Aayaa, Kahaan Mujhe Phir Jaanaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८५ ।। ४४९।।",
+  "tek": [
+    "कहो गुरू मैं कहाँ से आया, कहां मुझे फिर जाना है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaho Guru Main Kahaan Se Aayaa, Kahaan Mujhe Phir Jaanaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ज़ाति वर्ण कया नाम हमारा, आदी कहाँ ठिकाना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Zaati Varn Kayaa Naam Hamaaraa, Aadi Kahaan Thikaanaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपनी मौज से आया हूं या, भेजा मुझ भगवाना है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Apni Mauj Se Aayaa Hun Yaa, Bhejaa Mujh Bhagvaanaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कैसे हमरा आना होया, क्या मुझको यहाँ पाना है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaise Hamraa Aanaa Hoyaa, Kyaa Mujhko Yahaan Paanaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब खोल सुनाओ, सत्गुरु आप सुजाना है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Khol Sunaao, Satguru Aap Sujaanaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कहो गुरु मैं कहान से ाया, कहान मुझे फिर जाना है (टेक)."
+      "ज़ाति वर्ण कया नाम हमारा, आदी कहाँ ठिकाना है ॥१ ॥"
     ],
     [
-      "zाति वरन कया नाम हमारा, ादि कहान थिकाना है || 1 ||"
+      "अपनी मौज से आया हूं या, भेजा मुझ भगवाना है ॥२ ॥"
     ],
     [
-      "पनि मौज से ाया हुन या, भेजा मुझ भगवाना है || 2 ||"
+      "कैसे हमरा आना होया, क्या मुझको यहाँ पाना है ॥३ ॥"
     ],
     [
-      "कैसे हमरा ाना होया, कया मुझको यहान पाना है || 3 ||"
-    ],
-    [
-      "कहे तेऊँ सब खोल सुनाो, सतगुरु ाप सुजाना है || 4 ||"
+      "कहे टेऊँ सब खोल सुनाओ, सत्गुरु आप सुजाना है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Kaho Guru Main Kahaan Se Aayaa, Kahaan Mujhe Phir Jaanaa Hai (Tek)."
-    ],
     [
       "Zaati Varn Kayaa Naam Hamaaraa, Aadi Kahaan Thikaanaa Hai || 1 ||"
     ],
@@ -40,19 +81,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 85 || 449 ||",
+    "कहो गुरू मैं कहाँ से आया, कहां मुझे फिर जाना है",
     "Kaho Guru Main Kahaan Se Aayaa, Kahaan Mujhe Phir Jaanaa Hai",
-    "कहो गुरु मैं कहान से ाया, कहान मुझे फिर जाना है"
+    "राग तिलंग भजन 85",
+    "Raag Tilang Bhajan 85"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 449,
+  "displayOrder": 85,
+  "overallOrder": 448,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 253",
+  "updatedAt": "2026-10-26"
 }

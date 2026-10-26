@@ -1,29 +1,90 @@
 {
-  "id": "bhajan-0635",
+  "id": "bhajan-0633",
   "slug": "karo-satsang-santon-kaa-yahi-hai-saar-sansaare",
   "categoryId": "raag-kanso",
-  "title": "करो सत्संग सनतोन का, यहि है सार सनसारे",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "करो सत्संग सन्तों का, यही है सार संसारे",
   "romanTitle": "Karo Satsang Santon Kaa, Yahi Hai Saar Sansaare",
   "firstLine": "Karo Satsang Santon Kaa, Yahi Hai Saar Sansaare (Tek).",
+  "heading": "।। राग कंसो भजन ।। ४ ।। ६३४।॥",
+  "tek": [
+    "करो सत्संग सन्तों का, यही है सार संसारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karo Satsang Santon Kaa, Yahi Hai Saar Sansaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बहुत विधि कर्म यज्ञ दाना, व्रत तप नेम जप नाना ।",
+        "करो प्रयाग इस्नाना, नहीं सत्संग सम सारे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bahut Vidhi Karm Yajny Daanaa, Vrat Tap Nem Jap Naanaa.",
+        "Karo Prayaag Isnaanaa, Nahin Satsang Sam Saare || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चन्दन शशि शीत जग माहीं, उभय सत्‌संग सम नाहीं ।",
+        "सदा सेवो सज्जन ताहीं, सर्व संसा श्रम टारे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chandan Shashi Shit Jag Maahin, Ubhay Sat‌Sang Sam Naahin.",
+        "Sadaa Sevo Sajjan Taahin, Sarv Sansaa Shram Taare || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्रद्धा से देव सब सेवे, जोई फल देव तिहें देवे ।",
+        "वही सत्संग से लेवे, अटल विश्वास जो धारे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shraddhaa Se Dev Sab Seve, Joi Phal Dev Tihen Deve.",
+        "Vahi Satsang Se Leve, Atal Vishvaas Jo Dhaare || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्य मानो, यही निश्चय हृदय आनो ।",
+        "बोहथ जग साधु संग जानो, तुरत भव सिन्धु जो तारे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Saty Maano, Yahi Nishchay Hriday Aano.",
+        "Bohath Jag Saadhu Sang Jaano, Turat Bhav Sindhu Jo Taare || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कान"
+      ],
+      "romanLines": [
+        "Kaan"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करो सत्संग सनतोन का, यहि है सार सनसारे (टेक)."
+      "बहुत विधि कर्म यज्ञ दाना, व्रत तप नेम जप नाना ।",
+      "करो प्रयाग इस्नाना, नहीं सत्संग सम सारे ॥१ ॥"
     ],
     [
-      "बहुत विधि करम यजनय दाना, वरत तप नेम जप नाना.",
-      "करो परयाग िसनाना, नहिन सत्संग सम सारे || 1 ||."
+      "चन्दन शशि शीत जग माहीं, उभय सत्‌संग सम नाहीं ।",
+      "सदा सेवो सज्जन ताहीं, सर्व संसा श्रम टारे ॥२ ॥"
     ],
     [
-      "चनदन शशि शित जग माहिन, ुभय सत्संग सम नाहिन.",
-      "सदा सेवो सजजन ताहिन, सर्व सनसा शरम तारे || 2 ||."
+      "श्रद्धा से देव सब सेवे, जोई फल देव तिहें देवे ।",
+      "वही सत्संग से लेवे, अटल विश्वास जो धारे ॥३ ॥"
     ],
     [
-      "शरदधा से देव सब सेवे, जोि फल देव तिहेन देवे.",
-      "वहि सत्संग से लेवे, तल विशवास जो धारे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सतय मानो, यहि निशचय हरिदय ानो.",
-      "बोहथ जग साधु सनग जानो, तुरत भव सिनधु जो तारे.4. ||."
+      "कहे टेऊँ सत्य मानो, यही निश्चय हृदय आनो ।",
+      "बोहथ जग साधु संग जानो, तुरत भव सिन्धु जो तारे ॥४ ॥"
     ],
     [
       "कान"
@@ -31,41 +92,40 @@
   ],
   "romanLyrics": [
     [
-      "Karo Satsang Santon Kaa, Yahi Hai Saar Sansaare (Tek)."
-    ],
-    [
       "Bahut Vidhi Karm Yajny Daanaa, Vrat Tap Nem Jap Naanaa.",
-      "Karo Prayaag Isnaanaa, Nahin Satsang Sam Saare || 1 ||."
+      "Karo Prayaag Isnaanaa, Nahin Satsang Sam Saare || 1 ||"
     ],
     [
       "Chandan Shashi Shit Jag Maahin, Ubhay Sat‌Sang Sam Naahin.",
-      "Sadaa Sevo Sajjan Taahin, Sarv Sansaa Shram Taare || 2 ||."
+      "Sadaa Sevo Sajjan Taahin, Sarv Sansaa Shram Taare || 2 ||"
     ],
     [
       "Shraddhaa Se Dev Sab Seve, Joi Phal Dev Tihen Deve.",
-      "Vahi Satsang Se Leve, Atal Vishvaas Jo Dhaare || 3 ||."
+      "Vahi Satsang Se Leve, Atal Vishvaas Jo Dhaare || 3 ||"
     ],
     [
       "Kahe Teun Saty Maano, Yahi Nishchay Hriday Aano.",
-      "Bohath Jag Saadhu Sang Jaano, Turat Bhav Sindhu Jo Taare.4. ||."
+      "Bohath Jag Saadhu Sang Jaano, Turat Bhav Sindhu Jo Taare || 4 ||"
     ],
     [
       "Kaan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 4 || 634. ||",
+    "करो सत्संग सन्तों का, यही है सार संसारे",
     "Karo Satsang Santon Kaa, Yahi Hai Saar Sansaare",
-    "करो सत्संग सनतोन का, यहि है सार सनसारे"
+    "राग कंसो भजन 4",
+    "Raag Kanso Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 635,
+  "displayOrder": 4,
+  "overallOrder": 633,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 339",
+  "updatedAt": "2026-10-26"
 }

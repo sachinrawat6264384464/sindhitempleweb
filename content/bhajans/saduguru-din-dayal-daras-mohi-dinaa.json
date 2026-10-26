@@ -1,51 +1,100 @@
 {
-  "id": "bhajan-0583",
+  "id": "bhajan-0581",
   "slug": "saduguru-din-dayal-daras-mohi-dinaa",
   "categoryId": "raag-saarang",
-  "title": "सदुगुरु दीन दयाल, दरस मोहि दिना",
+  "categoryName": "राग सारंग",
+  "romanCategoryName": "Raag Saarang",
+  "title": "सदूगुरु दीन दयाल, दरस मोहि दीना",
   "romanTitle": "Saduguru Din Dayal, Daras Mohi Dinaa",
   "firstLine": "Saduguru Din Dayal, Daras Mohi Dinaa (Tek).",
+  "heading": "।। राग सारंग भजन ।। ४ ।। ५८२॥।",
+  "tek": [
+    "सदूगुरु दीन दयाल, दरस मोहि दीना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saduguru Din Dayal, Daras Mohi Dinaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मेरे सिर पर हाथ धरे गुरु, कीना नाथ निहाल ॥१ ॥"
+      ],
+      "romanLines": [
+        "Mere Sir Par Haath Dhare Guru, Kinaa Naath Nihaal || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बिछुड़ा हंस मिलाया हरि से, बनकर आप दलाल ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bichhuraa Hans Milaayaa Hari Se, Bankar Aap Dalaal || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मोह ममत के बन्धन तोड़े, दीया मोक्ष विशाल ॥३ ॥"
+      ],
+      "romanLines": [
+        "Moh Mamat Ke Bandhan Tore, Diyaa Moksh Vishaal || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु कृपा करके, काटा जम का जाल ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Kripaa Karke, Kaataa Jam Kaa Jaal || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदुगुरु दीन दयाल, दरस मोहि दिना (टेक)."
+      "मेरे सिर पर हाथ धरे गुरु, कीना नाथ निहाल ॥१ ॥"
     ],
     [
-      "मेरे सिर पर हाथ धरे गुरु, किना नाथ निहाल ||.1 ||.",
-      "बिचहुरा हनस मिलाया हरि से, बनकर ाप दलाल. ||.2 ||."
+      "बिछुड़ा हंस मिलाया हरि से, बनकर आप दलाल ॥२ ॥"
     ],
     [
-      "मोह ममत के बनधन तोरे, दिया मोक्ष विशाल ||.3 ||",
-      "कहे तेऊँ गुरु कृपा करके, काता जम का जाल. ||.4. ||."
+      "मोह ममत के बन्धन तोड़े, दीया मोक्ष विशाल ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ गुरु कृपा करके, काटा जम का जाल ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saduguru Din Dayal, Daras Mohi Dinaa (Tek)."
+      "Mere Sir Par Haath Dhare Guru, Kinaa Naath Nihaal || 1 ||"
     ],
     [
-      "Mere Sir Par Haath Dhare Guru, Kinaa Naath Nihaal ||.1 ||.",
-      "Bichhuraa Hans Milaayaa Hari Se, Bankar Aap Dalaal. ||.2 ||."
+      "Bichhuraa Hans Milaayaa Hari Se, Bankar Aap Dalaal || 2 ||"
     ],
     [
-      "Moh Mamat Ke Bandhan Tore, Diyaa Moksh Vishaal ||.3 ||",
-      "Kahe Teun Guru Kripaa Karke, Kaataa Jam Kaa Jaal. ||.4. ||."
+      "Moh Mamat Ke Bandhan Tore, Diyaa Moksh Vishaal || 3 ||"
+    ],
+    [
+      "Kahe Teun Guru Kripaa Karke, Kaataa Jam Kaa Jaal || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Saarang Bhajan || 4 || 582 ||.",
+    "सदूगुरु दीन दयाल, दरस मोहि दीना",
     "Saduguru Din Dayal, Daras Mohi Dinaa",
-    "सदुगुरु दीन दयाल, दरस मोहि दिना"
+    "राग सारंग भजन 4",
+    "Raag Saarang Bhajan 4"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "saarang"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-saarang",
+    "bhajan"
   ],
-  "displayOrder": 583,
+  "displayOrder": 4,
+  "overallOrder": 581,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 316",
+  "updatedAt": "2026-10-26"
 }

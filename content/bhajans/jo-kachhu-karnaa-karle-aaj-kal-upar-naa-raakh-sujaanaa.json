@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0872",
+  "id": "bhajan-0870",
   "slug": "jo-kachhu-karnaa-karle-aaj-kal-upar-naa-raakh-sujaanaa",
   "categoryId": "raag-jog",
-  "title": "जो कचहु करना करले ाज, कल ुपर ना राख सुजाना",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "जो कछु करना करले आज, कल ऊपर ना राख सुजाना",
   "romanTitle": "Jo Kachhu Karnaa Karle Aaj, Kal Upar Naa Raakh Sujaanaa",
   "firstLine": "Jo Kachhu Karnaa Karle Aaj, Kal Upar Naa Raakh Sujaanaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ४२ ।। ८७२॥।",
+  "tek": [
+    "जो कछु करना करले आज, कल ऊपर ना राख सुजाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jo Kachhu Karnaa Karle Aaj, Kal Upar Naa Raakh Sujaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भूत काल को मृतक मानो, भविष्यत्‌ को ना जन्मा जानो ।",
+        "वर्तमान है तेरा राज, हाथों से ना ताहिं गंवाना ॥8 ॥"
+      ],
+      "romanLines": [
+        "Bhut Kaal Ko Mritak Maano, Bhavishyat‌ Ko Naa Janmaa Jaano.",
+        "Vartamaan Hai Teraa Raaj, Haathon Se Naa Taahin Ganvaanaa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "वर्तमान जिन सफला कीना, जग में तिनका सफला जीना ।",
+        "काल भरोसे तेरा काज, बिगड़ जाएगा ऐ नादाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Vartamaan Jin Saphlaa Kinaa, Jag Men Tinkaa Saphlaa Jinaa.",
+        "Kaal Bharose Teraa Kaaj, Bigar Jaaegaa Ai Naadaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काल काल कह रावण मूआ, पूरण काज न तांका हूआ ।",
+        "कह गये ऊँचा कर आवाज़, काम काल का आज निभाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaal Kaal Kah Raavan Muaa, Puran Kaaj Na Taankaa Huaa.",
+        "Kah Gaye Unchaa Kar Aavaaz, Kaam Kaal Kaa Aaj Nibhaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भूत भविष्यत्‌ की तज आसा, वर्तमान में करले वासा ।",
+        "टेऊँ कहता सन्त समाज , आज अन्दर कुल राज़ समाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhut Bhavishyat‌ Ki Taj Aasaa, Vartamaan Men Karle Vaasaa.",
+        "Teun Kahtaa Sant Samaaj, Aaj Andar Kul Raaz Samaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जो कचहु करना करले ाज, कल ुपर ना राख सुजाना (टेक)."
+      "भूत काल को मृतक मानो, भविष्यत्‌ को ना जन्मा जानो ।",
+      "वर्तमान है तेरा राज, हाथों से ना ताहिं गंवाना ॥8 ॥"
     ],
     [
-      "भुत काल को मरितक मानो, भविशयत‌ को ना जनमा जानो.",
-      "वरतमान है तेरा राज, हाथोन से ना ताहिन गनवाना || 8 ||."
+      "वर्तमान जिन सफला कीना, जग में तिनका सफला जीना ।",
+      "काल भरोसे तेरा काज, बिगड़ जाएगा ऐ नादाना ॥२ ॥"
     ],
     [
-      "वरतमान जिन सफला किना, जग मेन तिनका सफला जिना.",
-      "काल भरोसे तेरा काज, बिगर जाेगा ै नादाना || 2 ||."
+      "काल काल कह रावण मूआ, पूरण काज न तांका हूआ ।",
+      "कह गये ऊँचा कर आवाज़, काम काल का आज निभाना ॥३ ॥"
     ],
     [
-      "काल काल कह रावन मुा, पुरन काज न तानका हुा.",
-      "कह गये ुनचा कर ावाz, काम काल का ाज निभाना.3 ||"
-    ],
-    [
-      "भुत भविशयत‌ कि तज ासा, वरतमान मेन करले वासा.",
-      "तेऊँ कहता संत समाज, ाज नदर कुल राz समाना || 4 ||"
+      "भूत भविष्यत्‌ की तज आसा, वर्तमान में करले वासा ।",
+      "टेऊँ कहता सन्त समाज , आज अन्दर कुल राज़ समाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jo Kachhu Karnaa Karle Aaj, Kal Upar Naa Raakh Sujaanaa (Tek)."
-    ],
-    [
       "Bhut Kaal Ko Mritak Maano, Bhavishyat‌ Ko Naa Janmaa Jaano.",
-      "Vartamaan Hai Teraa Raaj, Haathon Se Naa Taahin Ganvaanaa || 8 ||."
+      "Vartamaan Hai Teraa Raaj, Haathon Se Naa Taahin Ganvaanaa || 8 ||"
     ],
     [
       "Vartamaan Jin Saphlaa Kinaa, Jag Men Tinkaa Saphlaa Jinaa.",
-      "Kaal Bharose Teraa Kaaj, Bigar Jaaegaa Ai Naadaanaa || 2 ||."
+      "Kaal Bharose Teraa Kaaj, Bigar Jaaegaa Ai Naadaanaa || 2 ||"
     ],
     [
-      "Kaal Kaal Kah Raavan Muaa, Puran Kaaj N Taankaa Huaa.",
-      "Kah Gaye Unchaa Kar Aavaaz, Kaam Kaal Kaa Aaj Nibhaanaa.3 ||"
+      "Kaal Kaal Kah Raavan Muaa, Puran Kaaj Na Taankaa Huaa.",
+      "Kah Gaye Unchaa Kar Aavaaz, Kaam Kaal Kaa Aaj Nibhaanaa || 3 ||"
     ],
     [
       "Bhut Bhavishyat‌ Ki Taj Aasaa, Vartamaan Men Karle Vaasaa.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 42 || 872 ||.",
+    "जो कछु करना करले आज, कल ऊपर ना राख सुजाना",
     "Jo Kachhu Karnaa Karle Aaj, Kal Upar Naa Raakh Sujaanaa",
-    "जो कचहु करना करले ाज, कल ुपर ना राख सुजाना"
+    "राग जोग भजन 42",
+    "Raag Jog Bhajan 42"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 872,
+  "displayOrder": 42,
+  "overallOrder": 870,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 459",
+  "updatedAt": "2026-10-26"
 }

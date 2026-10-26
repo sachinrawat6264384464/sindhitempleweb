@@ -1,66 +1,105 @@
 {
   "id": "bhajan-0266",
   "slug": "pyaare-pyaare-main-dam-dam-jaaun-sadguru-pai-kurbaan",
-  "categoryId": "raag-bhairav",
-  "title": "पयारे पयारे मैं दम दम जाुन सद्गुरु पै कुरबान",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "प्यारे प्यारे मैं दम दम जाऊँ सद्‌गुरु पै कुर्बान",
   "romanTitle": "Pyaare Pyaare Main Dam Dam Jaaun Sad‌Guru Pai Kurbaan",
   "firstLine": "Pyaare Pyaare Main Dam Dam Jaaun Sad‌Guru Pai Kurbaan (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ५१ ।। २६६।॥।",
+  "tek": [
+    "प्यारे प्यारे मैं दम दम जाऊँ सद्‌गुरु पै कुर्बान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pyaare Pyaare Main Dam Dam Jaaun Sad‌Guru Pai Kurbaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पहले मृण्ठ अज्ञानी था मैं कोई न आदर देत ।",
+        "सदूगुरु के प्रसादे अब तो सुर नर दे सन्मान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pahle Mrinth Ajnyaani Thaa Main Koi Na Aadar Det.",
+        "Saduguru Ke Prasaade Ab To Sur Nar De Sanmaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सद्‌गुरु मुझको ज्ञान सुनाके ट्वैत किया सब दूर ।",
+        "चींटी कुंचर सबके माहीं दिखलाया भगवान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Mujhko Gyaan Sunaake Tvait Kiyaa Sab Dur.",
+        "Chinti Kunchar Sabke Maahin Dikhlaayaa Bhagvaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भोगों रूपी कीचड़ में मैं पड़ा रात दिन था ।",
+        "अब मोहि सद्‌गुरु ब्रह्मानन्द में किया मगन मस्तान ॥ डे ॥",
+        "क्रोध अग्नि में हिरदा मेरा हरदम जलता था ।",
+        "कहे टेऊँ गुरु शान्ती दीनी देके आतम ज्ञान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhogon Rupi Kichar Men Main Paraa Raat Din Thaa.",
+        "Ab Mohi Sad‌Guru Brahmaanand Men Kiyaa Magan Mastaan || De ||",
+        "Krodh Agni Men Hirdaa Meraa Hardam Jaltaa Thaa.",
+        "Kahe Teun Guru Shaanti Dini Deke Aatam Gyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पयारे पयारे मैं दम दम जाुन सद्गुरु पै कुरबान (टेक)."
+      "पहले मृण्ठ अज्ञानी था मैं कोई न आदर देत ।",
+      "सदूगुरु के प्रसादे अब तो सुर नर दे सन्मान ॥१ ॥"
     ],
     [
-      "पहले मरिनथ जनयानि था मैं कोि न ादर देत.",
-      "सदुगुरु के परसादे ब तो सुर नर दे सनमान.1. ||."
+      "सद्‌गुरु मुझको ज्ञान सुनाके ट्वैत किया सब दूर ।",
+      "चींटी कुंचर सबके माहीं दिखलाया भगवान ॥२ ॥"
     ],
     [
-      "सद्गुरु मुझको ज्ञान सुनाके तवैत किया सब दुर.",
-      "चिनति कुनचर सबके माहिन दिखलाया भगवान ||.2 ||."
-    ],
-    [
-      "भोगोन रुपि किचर मेन मैं परा रात दीन था.",
-      "ब मोहि सद्गुरु बरहमाननद मेन किया मगन मसतान || दे ||"
-    ],
-    [
-      "करोध गनि मेन हिरदा मेरा हरदम जलता था.",
-      "कहे तेऊँ गुरु शांति दिनि देके ातम ज्ञान. ||.4. ||."
+      "भोगों रूपी कीचड़ में मैं पड़ा रात दिन था ।",
+      "अब मोहि सद्‌गुरु ब्रह्मानन्द में किया मगन मस्तान ॥ डे ॥",
+      "क्रोध अग्नि में हिरदा मेरा हरदम जलता था ।",
+      "कहे टेऊँ गुरु शान्ती दीनी देके आतम ज्ञान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Pyaare Pyaare Main Dam Dam Jaaun Sad‌Guru Pai Kurbaan (Tek)."
+      "Pahle Mrinth Ajnyaani Thaa Main Koi Na Aadar Det.",
+      "Saduguru Ke Prasaade Ab To Sur Nar De Sanmaan || 1 ||"
     ],
     [
-      "Pahle Mrinth Ajnyaani Thaa Main Koi N Aadar Det.",
-      "Saduguru Ke Prasaade Ab To Sur Nar De Sanmaan.1. ||."
-    ],
-    [
-      "Sad‌Guru Mujhko Jnyaan Sunaake Tvait Kiyaa Sab Dur.",
-      "Chinti Kunchar Sabke Maahin Dikhlaayaa Bhagvaan ||.2 ||."
+      "Sad‌Guru Mujhko Gyaan Sunaake Tvait Kiyaa Sab Dur.",
+      "Chinti Kunchar Sabke Maahin Dikhlaayaa Bhagvaan || 2 ||"
     ],
     [
       "Bhogon Rupi Kichar Men Main Paraa Raat Din Thaa.",
-      "Ab Mohi Sad‌Guru Brahmaanand Men Kiyaa Magan Mastaan || De ||"
-    ],
-    [
+      "Ab Mohi Sad‌Guru Brahmaanand Men Kiyaa Magan Mastaan || De ||",
       "Krodh Agni Men Hirdaa Meraa Hardam Jaltaa Thaa.",
-      "Kahe Teun Guru Shaanti Dini Deke Aatam Jnyaan. ||.4. ||."
+      "Kahe Teun Guru Shaanti Dini Deke Aatam Gyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 51 || 266. ||.",
+    "प्यारे प्यारे मैं दम दम जाऊँ सद्‌गुरु पै कुर्बान",
     "Pyaare Pyaare Main Dam Dam Jaaun Sad‌Guru Pai Kurbaan",
-    "पयारे पयारे मैं दम दम जाुन सद्गुरु पै कुरबान"
+    "राग भैरवी भजन 51",
+    "Raag Bhairvi Bhajan 51"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 266,
+  "displayOrder": 51,
+  "overallOrder": 266,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 164",
+  "updatedAt": "2026-10-26"
 }

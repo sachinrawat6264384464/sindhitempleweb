@@ -1,66 +1,116 @@
 {
   "id": "bhajan-0286",
   "slug": "jo-guru-ki-sharni-jaave-parmaanand-so-paave",
-  "categoryId": "raag-bhairav",
-  "title": "जो गुरु कि शरनि जावे, परमाननद सो पावे",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "जो गुरु की शरनी जावे, परमानन्द सो पावे",
   "romanTitle": "Jo Guru Ki Sharni Jaave, Parmaanand So Paave",
   "firstLine": "Jo Guru Ki Sharni Jaave, Parmaanand So Paave (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ७१ ।। २८६।।",
+  "tek": [
+    "जो गुरु की शरनी जावे, परमानन्द सो पावे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jo Guru Ki Sharni Jaave, Parmaanand So Paave (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु बिन शान्त कभी नहिं आवहिं, ऐसे वेद बतावे ।",
+        "चाहे जप तप तीरथ करले, चाहे जोग कमावे ॥ ।8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Bin Shaant Kabhi Nahin Aavhin, Aise Ved Bataave.",
+        "Chaahe Jap Tap Tirath Karle, Chaahe Jog Kamaave || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्‌गुरु के संग हरदम रह जो, ममता मोह मिटावे ।",
+        "सार शब्द का सुमरन कर सो, निज स्वरूप समावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Ke Sang Hardam Rah Jo, Mamtaa Moh Mitaave.",
+        "Saar Shabd Kaa Sumran Kar So, Nij Svarup Samaave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सत्‌गुरु साचा ब्रहमज्ञानी, संशय श्रम नसावे ।",
+        "काचे गुरु ते भ्रम न भागे, फिर फिर जोनी आवे ॥ ।३े । ॥ ।"
+      ],
+      "romanLines": [
+        "Sat‌Guru Saachaa Brahmajnyaani, Sanshay Shram Nasaave.",
+        "Kaache Guru Te Bhram Na Bhaage, Phir Phir Joni Aave || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो पूरन गुरु के, चरने ध्यान लगावे ।",
+        "निज आतम की लखिया ले सो, अनुभव ज्योति जगावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Puran Guru Ke, Charne Dhyaan Lagaave.",
+        "Nij Aatam Ki Lakhiyaa Le So, Anubhav Jyoti Jagaave || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जो गुरु कि शरनि जावे, परमाननद सो पावे (टेक)."
+      "गुरु बिन शान्त कभी नहिं आवहिं, ऐसे वेद बतावे ।",
+      "चाहे जप तप तीरथ करले, चाहे जोग कमावे ॥ ।8 ॥१ ॥"
     ],
     [
-      "गुरु बिन शानत कभि नहिन ावहिन, ैसे वेद बतावे.",
-      "चाहे जप तप तिरथ करले, चाहे जोग कमावे ||.8₹. ||."
+      "सत्‌गुरु के संग हरदम रह जो, ममता मोह मिटावे ।",
+      "सार शब्द का सुमरन कर सो, निज स्वरूप समावे ॥२ ॥"
     ],
     [
-      "सतगुरु के सनग हरदम रह जो, ममता मोह मितावे.",
-      "सार शबद का सुमरन कर सो, निज सवरुप समावे || 2 ||."
+      "सत्‌गुरु साचा ब्रहमज्ञानी, संशय श्रम नसावे ।",
+      "काचे गुरु ते भ्रम न भागे, फिर फिर जोनी आवे ॥ ।३े । ॥ ।"
     ],
     [
-      "सतगुरु साचा बरहमजनयानि, सनशय शरम नसावे.",
-      "काचे गुरु ते भरम न भागे, फिर फिर जोनि ावे ||.3े. ||."
-    ],
-    [
-      "कहे तेऊँ जो पुरन गुरु के, चरने ध्यान लगावे.",
-      "निज ातम कि लखिया ले सो, नुभव जयोति जगावे || 4 ||."
+      "कहे टेऊँ जो पूरन गुरु के, चरने ध्यान लगावे ।",
+      "निज आतम की लखिया ले सो, अनुभव ज्योति जगावे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jo Guru Ki Sharni Jaave, Parmaanand So Paave (Tek)."
-    ],
-    [
       "Guru Bin Shaant Kabhi Nahin Aavhin, Aise Ved Bataave.",
-      "Chaahe Jap Tap Tirath Karle, Chaahe Jog Kamaave ||.8₹. ||."
+      "Chaahe Jap Tap Tirath Karle, Chaahe Jog Kamaave || 8 || 1 ||"
     ],
     [
       "Sat‌Guru Ke Sang Hardam Rah Jo, Mamtaa Moh Mitaave.",
-      "Saar Shabd Kaa Sumran Kar So, Nij Svarup Samaave || 2 ||."
+      "Saar Shabd Kaa Sumran Kar So, Nij Svarup Samaave || 2 ||"
     ],
     [
       "Sat‌Guru Saachaa Brahmajnyaani, Sanshay Shram Nasaave.",
-      "Kaache Guru Te Bhram N Bhaage, Phir Phir Joni Aave ||.3E. ||."
+      "Kaache Guru Te Bhram Na Bhaage, Phir Phir Joni Aave || 3E ||"
     ],
     [
       "Kahe Teun Jo Puran Guru Ke, Charne Dhyaan Lagaave.",
-      "Nij Aatam Ki Lakhiyaa Le So, Anubhav Jyoti Jagaave || 4 ||."
+      "Nij Aatam Ki Lakhiyaa Le So, Anubhav Jyoti Jagaave || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 71 || 286 ||",
+    "जो गुरु की शरनी जावे, परमानन्द सो पावे",
     "Jo Guru Ki Sharni Jaave, Parmaanand So Paave",
-    "जो गुरु कि शरनि जावे, परमाननद सो पावे"
+    "राग भैरवी भजन 71",
+    "Raag Bhairvi Bhajan 71"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 286,
+  "displayOrder": 71,
+  "overallOrder": 286,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 174",
+  "updatedAt": "2026-10-26"
 }

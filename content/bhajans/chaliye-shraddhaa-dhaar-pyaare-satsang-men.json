@@ -1,65 +1,105 @@
 {
-  "id": "bhajan-0762",
+  "id": "bhajan-0760",
   "slug": "chaliye-shraddhaa-dhaar-pyaare-satsang-men",
   "categoryId": "raag-pilaa",
-  "title": "चलिये शरदधा धार, पयारे सत्संग मेन",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "चलिये श्रद्धा धार, प्यारे सत्संग में",
   "romanTitle": "Chaliye Shraddhaa Dhaar, Pyaare Satsang Men",
   "firstLine": "Chaliye Shraddhaa Dhaar, Pyaare Satsang Men (Tek).",
+  "heading": "।। राग पीला भजन ।। ४० ।। ७६२॥।",
+  "tek": [
+    "चलिये श्रद्धा धार, प्यारे सत्संग में ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chaliye Shraddhaa Dhaar, Pyaare Satsang Men (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्संग तन मन शीतल करहैं, पाप ताप को शीघ्र हरहैं ।",
+        "देवे अनन्द अपार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Satsang Tan Man Shital Karhain, Paap Taap Ko Shighr Harhain.",
+        "Deve Anand Apaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सत्संग में हरि का रंग लागे, अविद्या निद्रा से मन जागे ।",
+        "पावे तत्त्व विचार ॥? । ॥ ।",
+        "सत्संग है निज मोक्ष द्वारा, सत्संग बिन ना हो निस्तारा ।",
+        "कहते ग्रन्थ पुकार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Satsang Men Hari Kaa Rang Laage, Avidyaa Nidraa Se Man Jaage.",
+        "Paave Tattv Vichaar || ? ||",
+        "Satsang Hai Nij Moksh Dvaaraa, Satsang Bin Naa Ho Nistaaraa.",
+        "Kahte Granth Pukaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सत्संग सुखदाई, जांकी महिमा श्रीपति गाई ।",
+        "गावत पुनि षटू चार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Satsang Sukhdaai, Jaanki Mahimaa Shriipti Gaai.",
+        "Gaavat Puni Shatu Chaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चलिये शरदधा धार, पयारे सत्संग मेन (टेक)."
+      "सत्संग तन मन शीतल करहैं, पाप ताप को शीघ्र हरहैं ।",
+      "देवे अनन्द अपार ॥१ ॥"
     ],
     [
-      "सत्संग तन मन शितल करहैन, पाप ताप को शिघर हरहैन.",
-      "देवे आनंद पार. || 1 ||."
+      "सत्संग में हरि का रंग लागे, अविद्या निद्रा से मन जागे ।",
+      "पावे तत्त्व विचार ॥? । ॥ ।",
+      "सत्संग है निज मोक्ष द्वारा, सत्संग बिन ना हो निस्तारा ।",
+      "कहते ग्रन्थ पुकार ॥३ ॥"
     ],
     [
-      "सत्संग मेन हरि का रनग लागे, विदया निदरा से मन जागे.",
-      "पावे तततव विचार ||?. ||."
-    ],
-    [
-      "सत्संग है निज मोक्ष दवारा, सत्संग बिन ना हो निसतारा.",
-      "कहते गरनथ पुकार || 3. ||."
-    ],
-    [
-      "कहे तेऊँ सत्संग सुखदाि, जानकि महिमा शरीपति गाि.",
-      "गावत पुनि शतु चार ||.4. ||."
+      "कहे टेऊँ सत्संग सुखदाई, जांकी महिमा श्रीपति गाई ।",
+      "गावत पुनि षटू चार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Chaliye Shraddhaa Dhaar, Pyaare Satsang Men (Tek)."
-    ],
-    [
       "Satsang Tan Man Shital Karhain, Paap Taap Ko Shighr Harhain.",
-      "Deve Anand Apaar. || 1 ||."
+      "Deve Anand Apaar || 1 ||"
     ],
     [
       "Satsang Men Hari Kaa Rang Laage, Avidyaa Nidraa Se Man Jaage.",
-      "Paave Tattv Vichaar ||?. ||."
-    ],
-    [
+      "Paave Tattv Vichaar || ? ||",
       "Satsang Hai Nij Moksh Dvaaraa, Satsang Bin Naa Ho Nistaaraa.",
-      "Kahte Granth Pukaar || 3. ||."
+      "Kahte Granth Pukaar || 3 ||"
     ],
     [
       "Kahe Teun Satsang Sukhdaai, Jaanki Mahimaa Shriipti Gaai.",
-      "Gaavat Puni Shatu Chaar ||.4. ||."
+      "Gaavat Puni Shatu Chaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 40 || 762 ||.",
+    "चलिये श्रद्धा धार, प्यारे सत्संग में",
     "Chaliye Shraddhaa Dhaar, Pyaare Satsang Men",
-    "चलिये शरदधा धार, पयारे सत्संग मेन"
+    "राग पीला भजन 39",
+    "Raag Pilaa Bhajan 39"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 762,
+  "displayOrder": 39,
+  "overallOrder": 760,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 403",
+  "updatedAt": "2026-10-26"
 }

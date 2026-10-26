@@ -1,73 +1,120 @@
 {
-  "id": "bhajan-0680",
+  "id": "bhajan-0678",
   "slug": "balihaari-miliyaa-mujhko-sant-sudhir-ji",
   "categoryId": "raag-pahaari",
-  "title": "बलिहारि मिलिया, मुझको संत सुधिर जी",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "बलिहारी मिलिया, मुझको सन्त सुधीर जी",
   "romanTitle": "Balihaari Miliyaa, Mujhko Sant Sudhir Ji",
   "firstLine": "Balihaari Miliyaa, Mujhko Sant Sudhir Ji.",
+  "heading": "।। राग पहाड़ी भजन ।। ३१ ।। ६७९।।",
+  "tek": [
+    "बलिहारी मिलिया, मुझको सन्त सुधीर जी ।",
+    "मेरे मन की मिट गई पीर जी, धन धन भाग हमारे ।",
+    "आ गई दिल को धीर जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Balihaari Miliyaa, Mujhko Sant Sudhir Ji.",
+    "Mere Man Ki Mit Gai Pir Ji, Dhan Dhan Bhaag Hamaare.",
+    "Aa Gai Dil Ko Dhir Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "लक्षण सुनो तांके नर नारी, पूरण वे हैं पर उपकारी ।",
+        "आज मिलिया शान्ति शरीर जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Lakshan Suno Taanke Nar Naari, Puran Ve Hain Par Upkaari.",
+        "Aaj Miliyaa Shaanti Sharir Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नित अवतारी पुरुष उदारी, इन्द्रिय जित हैं उपशम धारी ।",
+        "आज मिलिया गुणी गहीर जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Nit Avtaari Purush Udaari, Indriy Jit Hain Upsham Dhaari.",
+        "Aaj Miliyaa Guni Gahir Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "धीरज धारी धर्म अचारी, वेद वेता जे वर वीचारी ।",
+        "आज मिलिया ज्ञानी गम्भीर जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dhiraj Dhaari Dharm Achaari, Ved Vetaa Je Var Vichaari.",
+        "Aaj Miliyaa Jnyaani Gambhir Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ वे वीर विज्ञानी, तिन पर जाऊं मैं कुर्बानी ।",
+        "आज मिलिया असुल फकीरी जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ve Vir Vijnyaani, Tin Par Jaaun Main Kurbaani.",
+        "Aaj Miliyaa Asul Phakiri Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बलिहारि मिलिया, मुझको संत सुधिर जी.",
-      "मेरे मन कि मित गै पिर जी, धन धन भाग हमारे."
+      "लक्षण सुनो तांके नर नारी, पूरण वे हैं पर उपकारी ।",
+      "आज मिलिया शान्ति शरीर जी ॥१ ॥"
     ],
     [
-      "ा गै दिल को धिर जी (टेक)."
+      "नित अवतारी पुरुष उदारी, इन्द्रिय जित हैं उपशम धारी ।",
+      "आज मिलिया गुणी गहीर जी ॥२ ॥"
     ],
     [
-      "लकशन सुनो तानके नर नारि, पुरन वे हैन पर ुपकारि.",
-      "ाज मिलिया शांति शरिर जी || 1 ||."
+      "धीरज धारी धर्म अचारी, वेद वेता जे वर वीचारी ।",
+      "आज मिलिया ज्ञानी गम्भीर जी ॥३ ॥"
     ],
     [
-      "नित वतारि पुरुश ुदारि, िनदरिय जित हैन ुपशम धारि.",
-      "ाज मिलिया गुनि गहिर जी. ||.2. ||."
-    ],
-    [
-      "धिरज धारि धरम चारि, वेद वेता जे वर विचारि.",
-      "ाज मिलिया जनयानि गमभिर जी ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ वे विर विजनयानि, तिन पर जाुन मैं कुरबानि.",
-      "ाज मिलिया सुल फकिरि जी || 4. ||."
+      "कहे टेऊँ वे वीर विज्ञानी, तिन पर जाऊं मैं कुर्बानी ।",
+      "आज मिलिया असुल फकीरी जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Balihaari Miliyaa, Mujhko Sant Sudhir Ji.",
-      "Mere Man Ki Mit Gai Pir Ji, Dhan Dhan Bhaag Hamaare."
-    ],
-    [
-      "Aa Gai Dil Ko Dhir Ji (Tek)."
-    ],
-    [
       "Lakshan Suno Taanke Nar Naari, Puran Ve Hain Par Upkaari.",
-      "Aaj Miliyaa Shaanti Sharir Ji || 1 ||."
+      "Aaj Miliyaa Shaanti Sharir Ji || 1 ||"
     ],
     [
       "Nit Avtaari Purush Udaari, Indriy Jit Hain Upsham Dhaari.",
-      "Aaj Miliyaa Guni Gahir Ji. ||.2. ||."
+      "Aaj Miliyaa Guni Gahir Ji || 2 ||"
     ],
     [
       "Dhiraj Dhaari Dharm Achaari, Ved Vetaa Je Var Vichaari.",
-      "Aaj Miliyaa Jnyaani Gambhir Ji ||.3 ||."
+      "Aaj Miliyaa Jnyaani Gambhir Ji || 3 ||"
     ],
     [
       "Kahe Teun Ve Vir Vijnyaani, Tin Par Jaaun Main Kurbaani.",
-      "Aaj Miliyaa Asul Phakiri Ji || 4. ||."
+      "Aaj Miliyaa Asul Phakiri Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 31 || 679 ||",
+    "बलिहारी मिलिया, मुझको सन्त सुधीर जी",
     "Balihaari Miliyaa, Mujhko Sant Sudhir Ji",
-    "बलिहारि मिलिया, मुझको संत सुधिर जी"
+    "राग पहाड़ी भजन 31",
+    "Raag Pahaari Bhajan 31"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 680,
+  "displayOrder": 31,
+  "overallOrder": 678,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 361",
+  "updatedAt": "2026-10-26"
 }

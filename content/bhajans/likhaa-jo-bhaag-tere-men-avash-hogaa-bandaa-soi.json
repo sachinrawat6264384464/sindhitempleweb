@@ -2,56 +2,96 @@
   "id": "bhajan-0375",
   "slug": "likhaa-jo-bhaag-tere-men-avash-hogaa-bandaa-soi",
   "categoryId": "raag-tilang",
-  "title": "लिखा जो भाग तेरे मेन, वश होगा बनदा सोि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "लिखा जो भाग तेरे में, अवश होगा बन्दा सोई",
   "romanTitle": "Likhaa Jo Bhaag Tere Men, Avash Hogaa Bandaa Soi",
   "firstLine": "Likhaa Jo Bhaag Tere Men, Avash Hogaa Bandaa Soi (Tek).",
+  "heading": "।। राग तिलंग भजन ।। १२ ।। ३७६।॥।",
+  "tek": [
+    "लिखा जो भाग तेरे में, अवश होगा बन्दा सोई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Likhaa Jo Bhaag Tere Men, Avash Hogaa Bandaa Soi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "धरनि पानी गुफा नभ में, छिपाओ आपको बन में ।",
+        "चाहे सुर नर करें रक्षा, अवश होगा बन्दा सोई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dharni Paani Guphaa Nabh Men, Chhipaao Aapko Ban Men.",
+        "Chaahe Sur Nar Karen Rakshaa, Avash Hogaa Bandaa Soi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "लिखो यन्त्र करो तन्त्र, पढ़ो पुनि मन्त्र वेदों के ।",
+        "चाहे औषधि करो कितनी, अवश होगा बन्दा सोई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Likho Yantr Karo Tantr, Parho Puni Mantr Vedon Ke.",
+        "Chaahe Aushdhi Karo Kitni, Avash Hogaa Bandaa Soi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ कर्म गति का, मिटे ना लेख यत्नों से ।",
+        "दुखी हो या सुखी हो तुम, अवश होगा बन्दा सोई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Karm Gati Kaa, Mite Naa Lekh Yatnon Se.",
+        "Dukhi Ho Yaa Sukhi Ho Tum, Avash Hogaa Bandaa Soi || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लिखा जो भाग तेरे मेन, वश होगा बनदा सोि (टेक)."
+      "धरनि पानी गुफा नभ में, छिपाओ आपको बन में ।",
+      "चाहे सुर नर करें रक्षा, अवश होगा बन्दा सोई ॥१ ॥"
     ],
     [
-      "धरनि पानि गुफा नभ मेन, चहिपाो ापको बन मेन.",
-      "चाहे सुर नर करेन रकशा, वश होगा बनदा सोि ||.1 ||."
+      "लिखो यन्त्र करो तन्त्र, पढ़ो पुनि मन्त्र वेदों के ।",
+      "चाहे औषधि करो कितनी, अवश होगा बन्दा सोई ॥२ ॥"
     ],
     [
-      "लिखो यनतर करो तनतर, परहो पुनि मनतर वेदोन के.",
-      "चाहे ौशधि करो कितनि, वश होगा बनदा सोि || 2 ||."
-    ],
-    [
-      "कहे तेऊँ करम गति का, मिते ना लेख यतनोन से.",
-      "दुखि हो या सुखि हो तुम, वश होगा बनदा सोि || 3 ||."
+      "कहे टेऊँ कर्म गति का, मिटे ना लेख यत्नों से ।",
+      "दुखी हो या सुखी हो तुम, अवश होगा बन्दा सोई ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Likhaa Jo Bhaag Tere Men, Avash Hogaa Bandaa Soi (Tek)."
-    ],
-    [
       "Dharni Paani Guphaa Nabh Men, Chhipaao Aapko Ban Men.",
-      "Chaahe Sur Nar Karen Rakshaa, Avash Hogaa Bandaa Soi ||.1 ||."
+      "Chaahe Sur Nar Karen Rakshaa, Avash Hogaa Bandaa Soi || 1 ||"
     ],
     [
       "Likho Yantr Karo Tantr, Parho Puni Mantr Vedon Ke.",
-      "Chaahe Aushdhi Karo Kitni, Avash Hogaa Bandaa Soi || 2 ||."
+      "Chaahe Aushdhi Karo Kitni, Avash Hogaa Bandaa Soi || 2 ||"
     ],
     [
       "Kahe Teun Karm Gati Kaa, Mite Naa Lekh Yatnon Se.",
-      "Dukhi Ho Yaa Sukhi Ho Tum, Avash Hogaa Bandaa Soi || 3 ||."
+      "Dukhi Ho Yaa Sukhi Ho Tum, Avash Hogaa Bandaa Soi || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 12 || 376. ||.",
+    "लिखा जो भाग तेरे में, अवश होगा बन्दा सोई",
     "Likhaa Jo Bhaag Tere Men, Avash Hogaa Bandaa Soi",
-    "लिखा जो भाग तेरे मेन, वश होगा बनदा सोि"
+    "राग तिलंग भजन 12",
+    "Raag Tilang Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 375,
+  "displayOrder": 12,
+  "overallOrder": 375,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 222",
+  "updatedAt": "2026-10-26"
 }

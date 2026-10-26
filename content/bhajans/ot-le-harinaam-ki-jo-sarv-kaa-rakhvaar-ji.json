@@ -2,37 +2,95 @@
   "id": "bhajan-0178",
   "slug": "ot-le-harinaam-ki-jo-sarv-kaa-rakhvaar-ji",
   "categoryId": "raag-vihaag",
-  "title": "ोत ले हरिनाम कि जो सर्व का रखवार जी",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "ओट ले हरिनाम की जो सर्व का रखवार जी",
   "romanTitle": "Ot Le Harinaam Ki Jo Sarv Kaa Rakhvaar Ji",
   "firstLine": "Ot Le Harinaam Ki Jo Sarv Kaa Rakhvaar Ji (Tek).",
+  "heading": "।। राग विहाग भजन ।। २० ।। १७८।।",
+  "tek": [
+    "ओट ले हरिनाम की जो सर्व का रखवार जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ot Le Harinaam Ki Jo Sarv Kaa Rakhvaar Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भक्तजन प्रहलाद को जब बाप दुख देने लगा ।",
+        "राम के आधार से तब, तां भया जयकार जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhaktajan Prahlaad Ko Jab Baap Dukh Dene Lagaa.",
+        "Raam Ke Aadhaar Se Tab, Taan Bhayaa Jaykaar Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जब दुःशासन द्रोपदा तन नगन करने को लगा ।",
+        "श्याम शरणी से भये तब, ताहिं चीर अपार जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jab Duhshaasan Dropdaa Tan Nagan Karne Ko Lagaa.",
+        "Shyaam Sharni Se Bhaye Tab, Taahin Chir Apaar Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बाज़ तरु पर बधिक नीचे तीतर बैठा बीच में ।",
+        "सांप से दोनों मरे लव, बचा हरि आधार जी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Baaz Taru Par Badhik Niche Titar Baithaa Bich Men.",
+        "Saanp Se Donon Mare Lav, Bachaa Hari Aadhaar Ji || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "राम की जिन ओट लीनी दूख ना तिन पाइया ।",
+        "कहत टेऊँ लोक तीनों, तां करत सत्कार जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Raam Ki Jin Ot Lini Dukh Naa Tin Paaiyaa.",
+        "Kahat Teun Lok Tinon, Taan Karat Satkaar Ji || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्य"
+      ],
+      "romanLines": [
+        "Dy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ोत ले हरिनाम कि जो सर्व का रखवार जी (टेक)."
+      "भक्तजन प्रहलाद को जब बाप दुख देने लगा ।",
+      "राम के आधार से तब, तां भया जयकार जी ॥१ ॥"
     ],
     [
-      "भकतजन परहलाद को जब बाप दुःख देने लगा.",
-      "राम के ाधार से तब, तान भया जयकार जी || 1 ||"
+      "जब दुःशासन द्रोपदा तन नगन करने को लगा ।",
+      "श्याम शरणी से भये तब, ताहिं चीर अपार जी ॥२ ॥"
     ],
     [
-      "जब दुहशासन दरोपदा तन नगन करने को लगा.",
-      "शयाम शरनि से भये तब, ताहिन चिर पार जी || 2 ||"
+      "बाज़ तरु पर बधिक नीचे तीतर बैठा बीच में ।",
+      "सांप से दोनों मरे लव, बचा हरि आधार जी ॥ ३े ॥"
     ],
     [
-      "बाz तरु पर बधिक निचे तितर बैथा बिच मेन.",
-      "सानप से दोनोन मरे लव, बचा हरि ाधार जी || 3े ||"
+      "राम की जिन ओट लीनी दूख ना तिन पाइया ।",
+      "कहत टेऊँ लोक तीनों, तां करत सत्कार जी ॥४ ॥"
     ],
     [
-      "राम कि जिन ोत लिनि दुःख ना तिन पािया.",
-      "कहत तेऊँ लोक तिनोन, तान करत सतकार जी || 4 ||"
-    ],
-    [
-      "दय"
+      "द्य"
     ]
   ],
   "romanLyrics": [
-    [
-      "Ot Le Harinaam Ki Jo Sarv Kaa Rakhvaar Ji (Tek)."
-    ],
     [
       "Bhaktajan Prahlaad Ko Jab Baap Dukh Dene Lagaa.",
       "Raam Ke Aadhaar Se Tab, Taan Bhayaa Jaykaar Ji || 1 ||"
@@ -54,19 +112,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 20 || 178 ||",
+    "ओट ले हरिनाम की जो सर्व का रखवार जी",
     "Ot Le Harinaam Ki Jo Sarv Kaa Rakhvaar Ji",
-    "ोत ले हरिनाम कि जो सर्व का रखवार जी"
+    "राग विहाग भजन 20",
+    "Raag Vihaag Bhajan 20"
   ],
   "tags": [
-    "teunram",
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 178,
+  "displayOrder": 20,
+  "overallOrder": 178,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 118",
+  "updatedAt": "2026-10-26"
 }

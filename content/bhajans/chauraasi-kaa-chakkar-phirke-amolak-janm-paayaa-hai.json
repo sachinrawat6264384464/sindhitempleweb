@@ -1,71 +1,105 @@
 {
-  "id": "bhajan-0569",
+  "id": "bhajan-0567",
   "slug": "chauraasi-kaa-chakkar-phirke-amolak-janm-paayaa-hai",
   "categoryId": "raag-khambhaat",
-  "title": "चौरासि का चककर फिरके, मोलक जनम पाया है",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "चौरासी का चक्कर फिरके, अमोलक जन्म पाया है",
   "romanTitle": "Chauraasi Kaa Chakkar Phirke, Amolak Janm Paayaa Hai",
   "firstLine": "Chauraasi Kaa Chakkar Phirke, Amolak Janm Paayaa Hai (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। १९ ।। ५६८।।",
+  "tek": [
+    "चौरासी का चक्कर फिरके, अमोलक जन्म पाया है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Chauraasi Kaa Chakkar Phirke, Amolak Janm Paayaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "किये शुभ कर्म पूरब में, मिली तिस कर मनुष देही ।",
+        "कमाया काल का खाते, अभी नहिं कछु कमाया है ॥१ ॥",
+        "मिला तो द्वार मुक्ती का, बन्धाया आप अपना तुम ।",
+        "पते पाया न कछु फायदा, उलट नर तन गँवाया है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kiye Shubh Karm Purab Men, Mili Tis Kar Manush Dehi.",
+        "Kamaayaa Kaal Kaa Khaate, Abhi Nahin Kachhu Kamaayaa Hai || 1 ||",
+        "Milaa To Dvaar Mukti Kaa, Bandhaayaa Aap Apnaa Tum.",
+        "Pate Paayaa Na Kachhu Phaaydaa, Ulat Nar Tan Ganvaayaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कुट्म्ब के मोह में फस कर, करे बहु पाप पालत हो ।",
+        "जिसी ने ये जन्म दीना, उसी को क्यों भुलाया है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kutmb Ke Moh Men Phas Kar, Kare Bahu Paap Paalat Ho.",
+        "Jisi Ne Ye Janm Dinaa, Usi Ko Kyon Bhulaayaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ समय सारा, बिताया भोग विषयों में ।",
+        "बिगाड़ा काज सब अपना, शर्म ना तोहि आया है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Samay Saaraa, Bitaayaa Bhog Vishyon Men.",
+        "Bigaaraa Kaaj Sab Apnaa, Sharm Naa Tohi Aayaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "चौरासि का चककर फिरके, मोलक जनम पाया है (टेक)."
+      "किये शुभ कर्म पूरब में, मिली तिस कर मनुष देही ।",
+      "कमाया काल का खाते, अभी नहिं कछु कमाया है ॥१ ॥",
+      "मिला तो द्वार मुक्ती का, बन्धाया आप अपना तुम ।",
+      "पते पाया न कछु फायदा, उलट नर तन गँवाया है ॥२ ॥"
     ],
     [
-      "किये शुभ करम पुरब मेन, मिलि तिस कर मनुश देही.",
-      "कमाया काल का खाते, भि नहिन कचहु कमाया है 1"
+      "कुट्म्ब के मोह में फस कर, करे बहु पाप पालत हो ।",
+      "जिसी ने ये जन्म दीना, उसी को क्यों भुलाया है ॥३ ॥"
     ],
     [
-      "मिला तो दवार मुक्ति का, बनधाया ाप पना तुम.",
-      "पते पाया न कचहु फायदा, ुलत नर तन गनवाया है || 2 ||"
-    ],
-    [
-      "कुतमब के मोह मेन फस कर, करे बहु पाप पालत हो.",
-      "जिसि ने ये जनम दिना, ुसि को कयोन भुलाया है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ समय सारा, बिताया भोग विशयोन मेन.",
-      "बिगारा काज सब पना, शरम ना तोहि ाया है || 4 ||"
-    ],
-    [
-      "गन"
+      "कहे टेऊँ समय सारा, बिताया भोग विषयों में ।",
+      "बिगाड़ा काज सब अपना, शर्म ना तोहि आया है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Chauraasi Kaa Chakkar Phirke, Amolak Janm Paayaa Hai (Tek)."
-    ],
-    [
       "Kiye Shubh Karm Purab Men, Mili Tis Kar Manush Dehi.",
-      "Kamaayaa Kaal Kaa Khaate, Abhi Nahin Kachhu Kamaayaa Hai 1"
-    ],
-    [
+      "Kamaayaa Kaal Kaa Khaate, Abhi Nahin Kachhu Kamaayaa Hai || 1 ||",
       "Milaa To Dvaar Mukti Kaa, Bandhaayaa Aap Apnaa Tum.",
-      "Pate Paayaa N Kachhu Phaaydaa, Ulat Nar Tan Ganvaayaa Hai || 2 ||"
+      "Pate Paayaa Na Kachhu Phaaydaa, Ulat Nar Tan Ganvaayaa Hai || 2 ||"
     ],
     [
       "Kutmb Ke Moh Men Phas Kar, Kare Bahu Paap Paalat Ho.",
-      "Jisi Ne Ye Janm Dinaa, Usi Ko Kyon Bhulaayaa Hai || 3 ||."
+      "Jisi Ne Ye Janm Dinaa, Usi Ko Kyon Bhulaayaa Hai || 3 ||"
     ],
     [
       "Kahe Teun Samay Saaraa, Bitaayaa Bhog Vishyon Men.",
       "Bigaaraa Kaaj Sab Apnaa, Sharm Naa Tohi Aayaa Hai || 4 ||"
-    ],
-    [
-      "Gan"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 19 || 568 ||",
+    "चौरासी का चक्कर फिरके, अमोलक जन्म पाया है",
     "Chauraasi Kaa Chakkar Phirke, Amolak Janm Paayaa Hai",
-    "चौरासि का चककर फिरके, मोलक जनम पाया है"
+    "राग खंभात भजन 19",
+    "Raag Khambhaat Bhajan 19"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 569,
+  "displayOrder": 19,
+  "overallOrder": 567,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 309",
+  "updatedAt": "2026-10-26"
 }

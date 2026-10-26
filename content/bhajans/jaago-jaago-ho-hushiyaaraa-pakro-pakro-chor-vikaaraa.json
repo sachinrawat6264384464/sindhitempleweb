@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0769",
+  "id": "bhajan-0767",
   "slug": "jaago-jaago-ho-hushiyaaraa-pakro-pakro-chor-vikaaraa",
   "categoryId": "raag-pilaa",
-  "title": "जागो जागो हो हुशियारा, पकरो पकरो चोर विकारा",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "जागो जागो हो हुशियारा, पकड़ो पकड़ो चोर विकारा",
   "romanTitle": "Jaago Jaago Ho Hushiyaaraa, Pakro Pakro Chor Vikaaraa",
   "firstLine": "Jaago Jaago Ho Hushiyaaraa, Pakro Pakro Chor Vikaaraa (Tek).",
+  "heading": "।। राग पीला भजन ॥। ४७ ।। ७६९।।",
+  "tek": [
+    "जागो जागो हो हुशियारा, पकड़ो पकड़ो चोर विकारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jaago Jaago Ho Hushiyaaraa, Pakro Pakro Chor Vikaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "यह संसार मुसाफिरखाना, तांमें लोक सभी महमाना ।",
+        "इक दिन यांसे होगा जाना, निश्चय जानो प्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Yah Sansaar Musaaphirkhaanaa, Taanmen Lok Sabhi Mahmaanaa.",
+        "Ik Din Yaanse Hogaa Jaanaa, Nishchay Jaano Pyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मात पिता सुत बान्धव नारी, तिन है जारी मोह पसारी ।",
+        "झूठी जानो इनकी यारी, तांसे करो किनारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Sut Baandhav Naari, Tin Hai Jaari Moh Pasaari.",
+        "Jhuthi Jaano Inki Yaari, Taanse Karo Kinaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरि का नाम जपो दिन राती, पाओ अपने हृदय झाती ।",
+        "देखो अपनी ज़ाति सनाती, होवे मोक्ष तुम्हारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Kaa Naam Japo Din Raati, Paao Apne Hriday Jhaati.",
+        "Dekho Apni Zaati Sanaati, Hove Moksh Tumhaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ चाहो कल्याना, गुरु से लेवो आत्मज्ञाना ।",
+        "मेटे भेद भ्रम अज्ञाना, पाओ पद निर्धारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Chaaho Kalyaanaa, Guru Se Levo Aatmajnyaanaa.",
+        "Mete Bhed Bhram Ajnyaanaa, Paao Pad Nirdhaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठहर"
+      ],
+      "romanLines": [
+        "Thahar"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जागो जागो हो हुशियारा, पकरो पकरो चोर विकारा (टेक)."
+      "यह संसार मुसाफिरखाना, तांमें लोक सभी महमाना ।",
+      "इक दिन यांसे होगा जाना, निश्चय जानो प्यारा ॥१ ॥"
     ],
     [
-      "यह सनसार मुसाफिरखाना, तानमेन लोक सभि महमाना.",
-      "िक दीन यानसे होगा जाना, निशचय जानो पयारा || 1 ||"
+      "मात पिता सुत बान्धव नारी, तिन है जारी मोह पसारी ।",
+      "झूठी जानो इनकी यारी, तांसे करो किनारा ॥२ ॥"
     ],
     [
-      "मात पिता सुत बानधव नारि, तिन है जारि मोह पसारि.",
-      "झुथि जानो िनकि यारि, तानसे करो किनारा || 2 ||."
+      "हरि का नाम जपो दिन राती, पाओ अपने हृदय झाती ।",
+      "देखो अपनी ज़ाति सनाती, होवे मोक्ष तुम्हारा ॥३ ॥"
     ],
     [
-      "हरि का नाम जपो दीन राति, पाो पने हरिदय झाति.",
-      "देखो पनि zाति सनाति, होवे मोक्ष तुमहारा || 3े ||"
+      "कहे टेऊँ चाहो कल्याना, गुरु से लेवो आत्मज्ञाना ।",
+      "मेटे भेद भ्रम अज्ञाना, पाओ पद निर्धारा ॥४ ॥"
     ],
     [
-      "कहे तेऊँ चाहो कलयाना, गुरु से लेवो ातमजनयाना.",
-      "मेते भेद भरम जनयाना, पाो पद निरधारा.4. ||."
-    ],
-    [
-      "थहर"
+      "ठहर"
     ]
   ],
   "romanLyrics": [
-    [
-      "Jaago Jaago Ho Hushiyaaraa, Pakro Pakro Chor Vikaaraa (Tek)."
-    ],
     [
       "Yah Sansaar Musaaphirkhaanaa, Taanmen Lok Sabhi Mahmaanaa.",
       "Ik Din Yaanse Hogaa Jaanaa, Nishchay Jaano Pyaaraa || 1 ||"
     ],
     [
       "Maat Pitaa Sut Baandhav Naari, Tin Hai Jaari Moh Pasaari.",
-      "Jhuthi Jaano Inki Yaari, Taanse Karo Kinaaraa || 2 ||."
+      "Jhuthi Jaano Inki Yaari, Taanse Karo Kinaaraa || 2 ||"
     ],
     [
       "Hari Kaa Naam Japo Din Raati, Paao Apne Hriday Jhaati.",
-      "Dekho Apni Zaati Sanaati, Hove Moksh Tumhaaraa || 3E ||"
+      "Dekho Apni Zaati Sanaati, Hove Moksh Tumhaaraa || 3 ||"
     ],
     [
       "Kahe Teun Chaaho Kalyaanaa, Guru Se Levo Aatmajnyaanaa.",
-      "Mete Bhed Bhram Ajnyaanaa, Paao Pad Nirdhaaraa.4. ||."
+      "Mete Bhed Bhram Ajnyaanaa, Paao Pad Nirdhaaraa || 4 ||"
     ],
     [
       "Thahar"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan ||. 47 || 769 ||",
+    "जागो जागो हो हुशियारा, पकड़ो पकड़ो चोर विकारा",
     "Jaago Jaago Ho Hushiyaaraa, Pakro Pakro Chor Vikaaraa",
-    "जागो जागो हो हुशियारा, पकरो पकरो चोर विकारा"
+    "राग पीला भजन 46",
+    "Raag Pilaa Bhajan 46"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 769,
+  "displayOrder": 46,
+  "overallOrder": 767,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 406",
+  "updatedAt": "2026-10-26"
 }

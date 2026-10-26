@@ -1,52 +1,85 @@
 {
-  "id": "bhajan-0711",
+  "id": "bhajan-0709",
   "slug": "kartaa-hun-ardaas-sunle-satguru-mere",
   "categoryId": "raag-pahaari",
-  "title": "करता हुन रदास, सुनले सतगुरु मेरे",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "करता हूं अर्दास, सुनले सत्‌गुरु मेरे",
   "romanTitle": "Kartaa Hun Ardaas, Sunle Sat‌Guru Mere",
   "firstLine": "Kartaa Hun Ardaas, Sunle Sat‌Guru Mere (Tek).",
+  "heading": "।। राग पहाड़ी भजन ॥। ६२ ।। ७१०॥।",
+  "tek": [
+    "करता हूं अर्दास, सुनले सत्‌गुरु मेरे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kartaa Hun Ardaas, Sunle Sat‌Guru Mere (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्म ज्ञान का देकर दाना, काटो कर्म की फास ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahm Gyaan Kaa Dekar Daanaa, Kaato Karm Ki Phaas || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बीज चन्द्र ज्यों बढ़ती जाये, पाख्रह्म की प्यास ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bij Chandr Jyon Barhti Jaaye, Paakhrahm Ki Pyaas || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ सब बन्धन टूटे, जगे न जग की आस ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Bandhan Tute, Jage Na Jag Ki Aas || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करता हुन रदास, सुनले सतगुरु मेरे (टेक)."
+      "ब्रह्म ज्ञान का देकर दाना, काटो कर्म की फास ॥१ ॥"
     ],
     [
-      "बरहम ज्ञान का देकर दाना, कातो करम कि फास || 1 ||"
+      "बीज चन्द्र ज्यों बढ़ती जाये, पाख्रह्म की प्यास ॥२ ॥"
     ],
     [
-      "बिज चनदर जयोन बरहति जाये, पाखरहम कि पयास || || 2 ||."
-    ],
-    [
-      "कहे तेऊँ सब बनधन तुते, जगे न जग कि ास || 3 ||."
+      "कहे टेऊँ सब बन्धन टूटे, जगे न जग की आस ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kartaa Hun Ardaas, Sunle Sat‌Guru Mere (Tek)."
+      "Brahm Gyaan Kaa Dekar Daanaa, Kaato Karm Ki Phaas || 1 ||"
     ],
     [
-      "Brahm Jnyaan Kaa Dekar Daanaa, Kaato Karm Ki Phaas || 1 ||"
+      "Bij Chandr Jyon Barhti Jaaye, Paakhrahm Ki Pyaas || 2 ||"
     ],
     [
-      "Bij Chandr Jyon Barhti Jaaye, Paakhrahm Ki Pyaas || || 2 ||."
-    ],
-    [
-      "Kahe Teun Sab Bandhan Tute, Jage N Jag Ki Aas || 3 ||."
+      "Kahe Teun Sab Bandhan Tute, Jage Na Jag Ki Aas || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan ||. 62 || 710 ||.",
+    "करता हूं अर्दास, सुनले सत्‌गुरु मेरे",
     "Kartaa Hun Ardaas, Sunle Sat‌Guru Mere",
-    "करता हुन रदास, सुनले सतगुरु मेरे"
+    "राग पहाड़ी भजन 62",
+    "Raag Pahaari Bhajan 62"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 711,
+  "displayOrder": 62,
+  "overallOrder": 709,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 377",
+  "updatedAt": "2026-10-26"
 }

@@ -1,57 +1,100 @@
 {
-  "id": "bhajan-0859",
+  "id": "bhajan-0857",
   "slug": "utho-utho-bhanvraa-yaanse-naatar-tum-pachhutaavengaa",
   "categoryId": "raag-jog",
-  "title": "ुथो ुथो भनवरा यानसे, नातर तुम पचहुतावेनगा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "ऊठो ऊठो भंवरा यांसे, नातर तुम पछुतावेंगा",
   "romanTitle": "Utho Utho Bhanvraa Yaanse, Naatar Tum Pachhutaavengaa",
   "firstLine": "Utho Utho Bhanvraa Yaanse, Naatar Tum Pachhutaavengaa (Tek).",
+  "heading": "।। राग जोग भजन ।। २९ ।। ८५९॥।",
+  "tek": [
+    "ऊठो ऊठो भंवरा यांसे, नातर तुम पछुतावेंगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Utho Utho Bhanvraa Yaanse, Naatar Tum Pachhutaavengaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुन्दर पंकज देख न भूलो, सांझ पड़े मुरझावेंगा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sundar Pankaj Dekh Na Bhulo, Saanjh Pare Murjhaavengaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "फूलों पर जो बैठ रहोगे, अन्त में तुम दुख पावेंगा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Phulon Par Jo Baith Rahoge, Ant Men Tum Dukh Paavengaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मूर्ख माण न कर फूलों का, बर्फ पड़े गल जावेंगा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Murkh Maan Na Kar Phulon Kaa, Barph Pare Gal Jaavengaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले केवल सुगन्धी, तब सुख माहिं समावेंगा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Keval Sugandhi, Tab Sukh Maahin Samaavengaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथो ुथो भनवरा यानसे, नातर तुम पचहुतावेनगा (टेक)."
+      "सुन्दर पंकज देख न भूलो, सांझ पड़े मुरझावेंगा ॥१ ॥"
     ],
     [
-      "सुनदर पनकज देख न भुलो, सानझ परे मुरझावेनगा || 1 ||."
+      "फूलों पर जो बैठ रहोगे, अन्त में तुम दुख पावेंगा ॥२ ॥"
     ],
     [
-      "फुलोन पर जो बैथ रहोगे, नत मेन तुम दुःख पावेनगा || 2 ||."
+      "मूर्ख माण न कर फूलों का, बर्फ पड़े गल जावेंगा ॥३ ॥"
     ],
     [
-      "मुरख मान न कर फुलोन का, बरफ परे गल जावेनगा || 3 ||."
-    ],
-    [
-      "कहे तेऊँ ले केवल सुगनधि, तब सुख माहिन समावेनगा || 4. ||."
+      "कहे टेऊँ ले केवल सुगन्धी, तब सुख माहिं समावेंगा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Utho Utho Bhanvraa Yaanse, Naatar Tum Pachhutaavengaa (Tek)."
+      "Sundar Pankaj Dekh Na Bhulo, Saanjh Pare Murjhaavengaa || 1 ||"
     ],
     [
-      "Sundar Pankaj Dekh N Bhulo, Saanjh Pare Murjhaavengaa || 1 ||."
+      "Phulon Par Jo Baith Rahoge, Ant Men Tum Dukh Paavengaa || 2 ||"
     ],
     [
-      "Phulon Par Jo Baith Rahoge, Ant Men Tum Dukh Paavengaa || 2 ||."
+      "Murkh Maan Na Kar Phulon Kaa, Barph Pare Gal Jaavengaa || 3 ||"
     ],
     [
-      "Murkh Maan N Kar Phulon Kaa, Barph Pare Gal Jaavengaa || 3 ||."
-    ],
-    [
-      "Kahe Teun Le Keval Sugandhi, Tab Sukh Maahin Samaavengaa || 4. ||."
+      "Kahe Teun Le Keval Sugandhi, Tab Sukh Maahin Samaavengaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 29 || 859 ||.",
+    "ऊठो ऊठो भंवरा यांसे, नातर तुम पछुतावेंगा",
     "Utho Utho Bhanvraa Yaanse, Naatar Tum Pachhutaavengaa",
-    "ुथो ुथो भनवरा यानसे, नातर तुम पचहुतावेनगा"
+    "राग जोग भजन 29",
+    "Raag Jog Bhajan 29"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 859,
+  "displayOrder": 29,
+  "overallOrder": 857,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 453",
+  "updatedAt": "2026-10-26"
 }

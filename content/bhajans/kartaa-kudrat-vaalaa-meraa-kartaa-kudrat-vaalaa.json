@@ -1,73 +1,111 @@
 {
-  "id": "bhajan-0552",
+  "id": "bhajan-0550",
   "slug": "kartaa-kudrat-vaalaa-meraa-kartaa-kudrat-vaalaa",
   "categoryId": "raag-khambhaat",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
   "title": "करता कुदरत वाला, मेरा करता कुदरत वाला",
   "romanTitle": "Kartaa Kudrat Vaalaa, Meraa Kartaa Kudrat Vaalaa",
-  "firstLine": "Kartaa Kudrat Vaalaa, Meraa Kartaa Kudrat Vaalaa. Khelat Khel Niraalaa (Tek).",
+  "firstLine": "Kartaa Kudrat Vaalaa, Meraa Kartaa Kudrat Vaalaa.",
+  "heading": "।। राग खम्भाट भजन ।। २ ।। ५५१।॥।",
+  "tek": [
+    "करता कुदरत वाला, मेरा करता कुदरत वाला ।",
+    "खेलत खेल निराला ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kartaa Kudrat Vaalaa, Meraa Kartaa Kudrat Vaalaa.",
+    "Khelat Khel Niraalaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "त्त्ह",
+        "बेरंग होके रंग रचाया, बिन काया सब कर्म कमाया ।",
+        "कामिल किया कमाला ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tth",
+        "Berang Hoke Rang Rachaayaa, Bin Kaayaa Sab Karm Kamaayaa.",
+        "Kaamil Kiyaa Kamaalaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपनी माया आप पसारे, अनहोता बहु ठाठ संँवारे ।",
+        "रचिया स्वर्ग पताला ॥? ॥",
+        "सूक्ष्म बीज से वृक्ष उपाए, पात फूल फल ताहिं लगाए ।",
+        "नाना. रंग निकाला ॥३ ॥"
+      ],
+      "romanLines": [
+        "Apni Maayaa Aap Pasaare, Anhotaa Bahu Thaath Sannvaare.",
+        "Rachiyaa Svarg Pataalaa || ? ||",
+        "Sukshm Bij Se Vriksh Upaae, Paat Phul Phal Taahin Lagaae.",
+        "Naanaa. Rang Nikaalaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ जिहैँ गुरू लखावे, कुदरत में सो करता पावे ।",
+        "जो है सबसे आला ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jihain Guru Lakhaave, Kudrat Men So Kartaa Paave.",
+        "Jo Hai Sabse Aalaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करता कुदरत वाला, मेरा करता कुदरत वाला.",
-      "खेलत खेल निराला (टेक)."
+      "त्त्ह",
+      "बेरंग होके रंग रचाया, बिन काया सब कर्म कमाया ।",
+      "कामिल किया कमाला ॥१ ॥"
     ],
     [
-      "तथ",
-      "बेरनग होके रनग रचाया, बिन काया सब करम कमाया."
+      "अपनी माया आप पसारे, अनहोता बहु ठाठ संँवारे ।",
+      "रचिया स्वर्ग पताला ॥? ॥",
+      "सूक्ष्म बीज से वृक्ष उपाए, पात फूल फल ताहिं लगाए ।",
+      "नाना. रंग निकाला ॥३ ॥"
     ],
     [
-      "कामिल किया कमाला ||.1 ||",
-      "पनि माया ाप पसारे, नहोता बहु थाथ सननवारे."
-    ],
-    [
-      "रचिया सवरग पताला ||? ||",
-      "सुकशम बिज से वरिकश ुपाे, पात फुल फल ताहिन लगाे."
-    ],
-    [
-      "नाना. रनग निकाला || 3 ||"
-    ],
-    [
-      "कहे तेऊँ जिहैन गुरु लखावे, कुदरत मेन सो करता पावे.",
-      "जो है सबसे ाला || 4. ||."
+      "कहे टेऊँ जिहैँ गुरू लखावे, कुदरत में सो करता पावे ।",
+      "जो है सबसे आला ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kartaa Kudrat Vaalaa, Meraa Kartaa Kudrat Vaalaa.",
-      "Khelat Khel Niraalaa (Tek)."
-    ],
-    [
       "Tth",
-      "Berang Hoke Rang Rachaayaa, Bin Kaayaa Sab Karm Kamaayaa."
+      "Berang Hoke Rang Rachaayaa, Bin Kaayaa Sab Karm Kamaayaa.",
+      "Kaamil Kiyaa Kamaalaa || 1 ||"
     ],
     [
-      "Kaamil Kiyaa Kamaalaa ||.1 ||",
-      "Apni Maayaa Aap Pasaare, Anhotaa Bahu Thaath Sannvaare."
-    ],
-    [
-      "Rachiyaa Svarg Pataalaa ||? ||",
-      "Sukshm Bij Se Vriksh Upaae, Paat Phul Phal Taahin Lagaae."
-    ],
-    [
+      "Apni Maayaa Aap Pasaare, Anhotaa Bahu Thaath Sannvaare.",
+      "Rachiyaa Svarg Pataalaa || ? ||",
+      "Sukshm Bij Se Vriksh Upaae, Paat Phul Phal Taahin Lagaae.",
       "Naanaa. Rang Nikaalaa || 3 ||"
     ],
     [
       "Kahe Teun Jihain Guru Lakhaave, Kudrat Men So Kartaa Paave.",
-      "Jo Hai Sabse Aalaa || 4. ||."
+      "Jo Hai Sabse Aalaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 2 || 551. ||.",
+    "करता कुदरत वाला, मेरा करता कुदरत वाला",
     "Kartaa Kudrat Vaalaa, Meraa Kartaa Kudrat Vaalaa",
-    "करता कुदरत वाला, मेरा करता कुदरत वाला"
+    "राग खंभात भजन 2",
+    "Raag Khambhaat Bhajan 2"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 552,
+  "displayOrder": 2,
+  "overallOrder": 550,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 300",
+  "updatedAt": "2026-10-26"
 }

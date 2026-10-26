@@ -2,70 +2,119 @@
   "id": "bhajan-0046",
   "slug": "je-tum-hari-se-milnaa-chaaho-chaar-shikshaa-ye-dhaaro-re",
   "categoryId": "raag-prabhaati",
-  "title": "जे तुम हरि से मिलना चाहो, चार शिकशा ये धारो रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "जे तुम हरि से मिलना चाहो, चार शिक्षा ये धारो रे",
   "romanTitle": "Je Tum Hari Se Milnaa Chaaho, Chaar Shikshaa Ye Dhaaro Re",
   "firstLine": "Je Tum Hari Se Milnaa Chaaho, Chaar Shikshaa Ye Dhaaro Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ॥।। १४ ।। डंद६।।",
+  "tek": [
+    "जे तुम हरि से मिलना चाहो, चार शिक्षा ये धारो रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Je Tum Hari Se Milnaa Chaaho, Chaar Shikshaa Ye Dhaaro Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रथमे भोजन स्वल्प सादा, सात्विक चिकना पावन हो ।",
+        "नेम टेम से प्राण रक्षा हित, अपने मुख में डारो रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prathme Bhojan Svalp Saadaa, Saatvik Chiknaa Paavan Ho.",
+        "Nem Tem Se Praan Rakshaa Hit, Apne Mukh Men Daaro Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दूजा अर्ध रात को उठके, नैन नीन्द से खोल ज़रा ।",
+        "सावधान हो यत्न करे तुम, आलस गफ्लत टारो रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dujaa Ardh Raat Ko Uthke, Nain Nind Se Khol Zaraa.",
+        "Saavdhaan Ho Yatn Kare Tum, Aalas Gaphlat Taaro Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तीजा बैठो जाय अकेला, जहाँ न कोई आय सके ।",
+        "बन पर्वत की कन्दरा हो वा, होवै गड़ किनारो रे ॥ डे ॥",
+        "चौथा पूर्ण श्रद्धा धारे, सत्‌गुरु से तुम मन्तर ले ।",
+        "कहता टेऊँ अर्थ सहित सो, स्वासों स्वास उचारो रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tijaa Baitho Jaay Akelaa, Jahaan Na Koi Aay Sake.",
+        "Ban Parvat Ki Kandaraa Ho Vaa, Hovai Gar Kinaaro Re || De ||",
+        "Chauthaa Purn Shraddhaa Dhaare, Sat‌Guru Se Tum Mantar Le.",
+        "Kahtaa Teun Arth Sahit So, Svaason Svaas Uchaaro Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "द््य"
+      ],
+      "romanLines": [
+        "Dy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जे तुम हरि से मिलना चाहो, चार शिकशा ये धारो रे (टेक)."
+      "प्रथमे भोजन स्वल्प सादा, सात्विक चिकना पावन हो ।",
+      "नेम टेम से प्राण रक्षा हित, अपने मुख में डारो रे ॥१ ॥"
     ],
     [
-      "परथमे भोजन सवलप सादा, सातविक चिकना पावन हो.",
-      "नेम तेम से परान रकशा हित, पने मुख मेन दारो रे || $ ||."
+      "दूजा अर्ध रात को उठके, नैन नीन्द से खोल ज़रा ।",
+      "सावधान हो यत्न करे तुम, आलस गफ्लत टारो रे ॥२ ॥"
     ],
     [
-      "दुजा रध रात को ुथके, नैन निनद से खोल zरा.",
-      "सावधान हो यतन करे तुम, ालस गफलत तारो रे.2 ||."
+      "तीजा बैठो जाय अकेला, जहाँ न कोई आय सके ।",
+      "बन पर्वत की कन्दरा हो वा, होवै गड़ किनारो रे ॥ डे ॥",
+      "चौथा पूर्ण श्रद्धा धारे, सत्‌गुरु से तुम मन्तर ले ।",
+      "कहता टेऊँ अर्थ सहित सो, स्वासों स्वास उचारो रे ॥४ ॥"
     ],
     [
-      "तिजा बैथो जाय केला, जहान न कोि ाय सके.",
-      "बन परवत कि कनदरा हो वा, होवै गर किनारो रे || दे ||"
-    ],
-    [
-      "चौथा पुरन शरदधा धारे, सतगुरु से तुम मनतर ले.",
-      "कहता तेऊँ रथ सहित सो, सवासोन सवास ुचारो रे || 4 ||."
-    ],
-    [
-      "दय"
+      "द््य"
     ]
   ],
   "romanLyrics": [
     [
-      "Je Tum Hari Se Milnaa Chaaho, Chaar Shikshaa Ye Dhaaro Re (Tek)."
-    ],
-    [
       "Prathme Bhojan Svalp Saadaa, Saatvik Chiknaa Paavan Ho.",
-      "Nem Tem Se Praan Rakshaa Hit, Apne Mukh Men Daaro Re || $ ||."
+      "Nem Tem Se Praan Rakshaa Hit, Apne Mukh Men Daaro Re || 1 ||"
     ],
     [
       "Dujaa Ardh Raat Ko Uthke, Nain Nind Se Khol Zaraa.",
-      "Saavdhaan Ho Yatn Kare Tum, Aalas Gaphlat Taaro Re.2 ||."
+      "Saavdhaan Ho Yatn Kare Tum, Aalas Gaphlat Taaro Re || 2 ||"
     ],
     [
-      "Tijaa Baitho Jaay Akelaa, Jahaan N Koi Aay Sake.",
-      "Ban Parvat Ki Kandaraa Ho Vaa, Hovai Gar Kinaaro Re || De ||"
-    ],
-    [
+      "Tijaa Baitho Jaay Akelaa, Jahaan Na Koi Aay Sake.",
+      "Ban Parvat Ki Kandaraa Ho Vaa, Hovai Gar Kinaaro Re || De ||",
       "Chauthaa Purn Shraddhaa Dhaare, Sat‌Guru Se Tum Mantar Le.",
-      "Kahtaa Teun Arth Sahit So, Svaason Svaas Uchaaro Re || 4 ||."
+      "Kahtaa Teun Arth Sahit So, Svaason Svaas Uchaaro Re || 4 ||"
     ],
     [
       "Dy"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || || 14 || Dand6 ||",
+    "जे तुम हरि से मिलना चाहो, चार शिक्षा ये धारो रे",
     "Je Tum Hari Se Milnaa Chaaho, Chaar Shikshaa Ye Dhaaro Re",
-    "जे तुम हरि से मिलना चाहो, चार शिकशा ये धारो रे"
+    "राग प्रभाती भजन 14",
+    "Raag Prabhaati Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 46,
+  "displayOrder": 14,
+  "overallOrder": 46,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 48",
+  "updatedAt": "2026-10-26"
 }

@@ -1,44 +1,93 @@
 {
-  "id": "bhajan-0812",
+  "id": "bhajan-0810",
   "slug": "meri-laaj-rakho-prabhu-paij-rakho-ihvaari",
   "categoryId": "raag-pilaa",
-  "title": "मेरि लाज रखो, प्रभु पैज रखो, िहवारि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "मेरी लाज रखो, प्रभू पैज रखो, इहवारी",
   "romanTitle": "Meri Laaj Rakho, Prabhu Paij Rakho, Ihvaari",
-  "firstLine": "Meri Laaj Rakho, Prabhu Paij Rakho, Ihvaari. Main Aayaa Hun Sharan Tumhaari (Tek).",
+  "firstLine": "Meri Laaj Rakho, Prabhu Paij Rakho, Ihvaari.",
+  "heading": "।। राग पीला भजन ॥।। ९० ।। ८१२॥।",
+  "tek": [
+    "मेरी लाज रखो, प्रभू पैज रखो, इहवारी ।",
+    "मैं आया हूं शरण तुम्हारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meri Laaj Rakho, Prabhu Paij Rakho, Ihvaari.",
+    "Main Aayaa Hun Sharan Tumhaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शुभ कर्म न मैं को कीना, नहिं नाम तुम्हारा लीना ।",
+        "किये पाप घने, सके कौन गने, अघहारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shubh Karm Na Main Ko Kinaa, Nahin Naam Tumhaaraa Linaa.",
+        "Kiye Paap Ghane, Sake Kaun Gane, Aghhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कलीकाल है कठिन कराला, मैं तो देख डरत कृपाला ।",
+        "तांसे रक्षा करो, सब विघ्न हरो, भयहारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kalikaal Hai Kathin Karaalaa, Main To Dekh Darat Kripaalaa.",
+        "Taanse Rakshaa Karo, Sab Vighn Haro, Bhayhaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच दुष्टों ने मोहि दुखाया, योनि चौरासी में भ्रमाया ।",
+        "तांसे राखो हमें, पड़ा द्वार तुमें, हितकारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Dushton Ne Mohi Dukhaayaa, Yoni Chauraasi Men Bhramaayaa.",
+        "Taanse Raakho Hamen, Paraa Dvaar Tumen, Hitkaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ये अर्ज़ हमारा, सुनो साहिब सत्‌कर्तारा ।",
+        "देहि भक्ती मुझे, निज मुक्ती मुझे, सुखकारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ye Arz Hamaaraa, Suno Saahib Sat‌Kartaaraa.",
+        "Dehi Bhakti Mujhe, Nij Mukti Mujhe, Sukhkaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरि लाज रखो, प्रभु पैज रखो, िहवारि.",
-      "मैं ाया हुन शरन तुमहारि (टेक)."
+      "शुभ कर्म न मैं को कीना, नहिं नाम तुम्हारा लीना ।",
+      "किये पाप घने, सके कौन गने, अघहारी ॥१ ॥"
     ],
     [
-      "शुभ करम न मैं को किना, नहिन नाम तुमहारा लिना.",
-      "किये पाप घने, सके कौन गने, घहारि || 1"
+      "कलीकाल है कठिन कराला, मैं तो देख डरत कृपाला ।",
+      "तांसे रक्षा करो, सब विघ्न हरो, भयहारी ॥२ ॥"
     ],
     [
-      "कलिकाल है कथिन कराला, मैं तो देख दरत करिपाला.",
-      "तानसे रकशा करो, सब विघन हरो, भयहारि || 2 ||."
+      "पांच दुष्टों ने मोहि दुखाया, योनि चौरासी में भ्रमाया ।",
+      "तांसे राखो हमें, पड़ा द्वार तुमें, हितकारी ॥३ ॥"
     ],
     [
-      "पानच दुशतोन ने मोहि दुखाया, योनि चौरासि मेन भरमाया.",
-      "तानसे राखो हमेन, परा दवार तुमेन, हितकारि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ ये रz हमारा, सुनो साहिब सतकरतारा.",
-      "देही भक्ति मुझे, निज मुक्ति मुझे, सुखकारि || 4. ||."
+      "कहे टेऊँ ये अर्ज़ हमारा, सुनो साहिब सत्‌कर्तारा ।",
+      "देहि भक्ती मुझे, निज मुक्ती मुझे, सुखकारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Meri Laaj Rakho, Prabhu Paij Rakho, Ihvaari.",
-      "Main Aayaa Hun Sharan Tumhaari (Tek)."
-    ],
-    [
-      "Shubh Karm N Main Ko Kinaa, Nahin Naam Tumhaaraa Linaa.",
-      "Kiye Paap Ghane, Sake Kaun Gane, Aghhaari || 1"
+      "Shubh Karm Na Main Ko Kinaa, Nahin Naam Tumhaaraa Linaa.",
+      "Kiye Paap Ghane, Sake Kaun Gane, Aghhaari || 1 ||"
     ],
     [
       "Kalikaal Hai Kathin Karaalaa, Main To Dekh Darat Kripaalaa.",
-      "Taanse Rakshaa Karo, Sab Vighn Haro, Bhayhaari || 2 ||."
+      "Taanse Rakshaa Karo, Sab Vighn Haro, Bhayhaari || 2 ||"
     ],
     [
       "Paanch Dushton Ne Mohi Dukhaayaa, Yoni Chauraasi Men Bhramaayaa.",
@@ -46,23 +95,24 @@
     ],
     [
       "Kahe Teun Ye Arz Hamaaraa, Suno Saahib Sat‌Kartaaraa.",
-      "Dehi Bhakti Mujhe, Nij Mukti Mujhe, Sukhkaari || 4. ||."
+      "Dehi Bhakti Mujhe, Nij Mukti Mujhe, Sukhkaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || || 90 || 812 ||.",
+    "मेरी लाज रखो, प्रभू पैज रखो, इहवारी",
     "Meri Laaj Rakho, Prabhu Paij Rakho, Ihvaari",
-    "मेरि लाज रखो, प्रभु पैज रखो, िहवारि"
+    "राग पीला भजन 89",
+    "Raag Pilaa Bhajan 89"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 812,
+  "displayOrder": 89,
+  "overallOrder": 810,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 430",
+  "updatedAt": "2026-10-26"
 }

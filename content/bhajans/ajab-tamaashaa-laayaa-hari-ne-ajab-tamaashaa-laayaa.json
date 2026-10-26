@@ -1,51 +1,102 @@
 {
-  "id": "bhajan-0551",
+  "id": "bhajan-0549",
   "slug": "ajab-tamaashaa-laayaa-hari-ne-ajab-tamaashaa-laayaa",
   "categoryId": "raag-khambhaat",
-  "title": "जब तमाशा लाया, हरि ने जब तमाशा लाया",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "अजब तमाशा लाया, हरि ने अजब तमाशा लाया",
   "romanTitle": "Ajab Tamaashaa Laayaa, Hari Ne Ajab Tamaashaa Laayaa",
-  "firstLine": "Ajab Tamaashaa Laayaa, Hari Ne Ajab Tamaashaa Laayaa. Main Dekh Dekh Vismaayaa (Tek).",
+  "firstLine": "Ajab Tamaashaa Laayaa, Hari Ne Ajab Tamaashaa Laayaa.",
+  "heading": "।। राग खम्भाट भजन ।। १ ।। ५५०।।",
+  "tek": [
+    "अजब तमाशा लाया, हरि ने अजब तमाशा लाया ।",
+    "मैं देख देख विस्माया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ajab Tamaashaa Laayaa, Hari Ne Ajab Tamaashaa Laayaa.",
+    "Main Dekh Dekh Vismaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "फुरने का यह बना पसारा, ना कछु आया जाया ॥ ।8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Phurne Kaa Yah Banaa Pasaaraa, Naa Kachhu Aayaa Jaayaa || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जो कछु देखत सो कछु नाहीं, स्वपने ज्यों दर्शाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jo Kachhu Dekhat So Kachhu Naahin, Svapne Jyon Darshaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ज्ञानी ध्यानी खोजत हारे, नेति नेति कह गाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jnyaani Dhyaani Khojat Haare, Neti Neti Kah Gaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ कहत न आवे, अद्भुत खेल खिलाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Kahat Na Aave, Adbhut Khel Khilaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जब तमाशा लाया, हरि ने जब तमाशा लाया.",
-      "मैं देख देख विसमाया (टेक)."
+      "फुरने का यह बना पसारा, ना कछु आया जाया ॥ ।8 ॥१ ॥"
     ],
     [
-      "फुरने का यह बना पसारा, ना कचहु ाया जाया ||.81. ||.",
-      "जो कचहु देखत सो कचहु नाहिन, सवपने जयोन दरशाया || 2 ||"
+      "जो कछु देखत सो कछु नाहीं, स्वपने ज्यों दर्शाया ॥२ ॥"
     ],
     [
-      "जनयानि धयानि खोजत हारे, नेति नेति कह गाया ||.3 ||.",
-      "कहता तेऊँ कहत न ावे, दभुत खेल खिलाया ||.4. ||."
+      "ज्ञानी ध्यानी खोजत हारे, नेति नेति कह गाया ॥३ ॥"
+    ],
+    [
+      "कहता टेऊँ कहत न आवे, अद्भुत खेल खिलाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ajab Tamaashaa Laayaa, Hari Ne Ajab Tamaashaa Laayaa.",
-      "Main Dekh Dekh Vismaayaa (Tek)."
+      "Phurne Kaa Yah Banaa Pasaaraa, Naa Kachhu Aayaa Jaayaa || 8 || 1 ||"
     ],
     [
-      "Phurne Kaa Yah Banaa Pasaaraa, Naa Kachhu Aayaa Jaayaa ||.81. ||.",
       "Jo Kachhu Dekhat So Kachhu Naahin, Svapne Jyon Darshaayaa || 2 ||"
     ],
     [
-      "Jnyaani Dhyaani Khojat Haare, Neti Neti Kah Gaayaa ||.3 ||.",
-      "Kahtaa Teun Kahat N Aave, Adbhut Khel Khilaayaa ||.4. ||."
+      "Jnyaani Dhyaani Khojat Haare, Neti Neti Kah Gaayaa || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Kahat Na Aave, Adbhut Khel Khilaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 1 || 550 ||",
+    "अजब तमाशा लाया, हरि ने अजब तमाशा लाया",
     "Ajab Tamaashaa Laayaa, Hari Ne Ajab Tamaashaa Laayaa",
-    "जब तमाशा लाया, हरि ने जब तमाशा लाया"
+    "राग खंभात भजन 1",
+    "Raag Khambhaat Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 551,
+  "displayOrder": 1,
+  "overallOrder": 549,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 300",
+  "updatedAt": "2026-10-26"
 }

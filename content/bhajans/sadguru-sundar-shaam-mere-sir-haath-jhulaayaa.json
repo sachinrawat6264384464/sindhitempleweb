@@ -1,66 +1,105 @@
 {
-  "id": "bhajan-0558",
+  "id": "bhajan-0556",
   "slug": "sadguru-sundar-shaam-mere-sir-haath-jhulaayaa",
   "categoryId": "raag-khambhaat",
-  "title": "सद्गुरु सुनदर शाम, मेरे सिर हाथ झुलाया",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "सद्‌गुरु सुन्दर शाम, मेरे सिर हाथ झुलाया ॥",
   "romanTitle": "Sad‌Guru Sundar Shaam, Mere Sir Haath Jhulaayaa",
   "firstLine": "Sad‌Guru Sundar Shaam, Mere Sir Haath Jhulaayaa (Tek).",
+  "heading": "।। राग खम्भाट भजन ।। ८ ।। ५५७॥।",
+  "tek": [
+    "सद्‌गुरु सुन्दर शाम, मेरे सिर हाथ झुलाया ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Sad‌Guru Sundar Shaam, Mere Sir Haath Jhulaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सद्‌गुरु मुझ पर कृपा कीनी , वस्तु अमोलक मुझको दीनी ।",
+        "सुमर सुमर सो नाम, हृदय में सत्‌ सुख पाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Mujh Par Kripaa Kini, Vastu Amolak Mujhko Dini.",
+        "Sumar Sumar So Naam, Hriday Men Sat‌ Sukh Paayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सदूगुरु शम दम साधन दीना, ब्रह्मज्ञान दे मुक्ता कीना ।",
+        "पाया पूरण धाम, इन्द्र का दूख मिटाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saduguru Sham Dam Saadhan Dinaa, Brahmajnyaan De Muktaa Kinaa.",
+        "Paayaa Puran Dhaam, Indr Kaa Dukh Mitaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सद्‌गुरु दीना प्रेम प्याला, पीवत पीवत भया मतिवाला ।",
+        "भूल गये सब काम, उर में अति आनन्द छाया ॥ । े ।",
+        "कहे टेऊँ गुरु पर बलिहारी, तन मन धन भेटा दे सारी ।",
+        "ताहिं करूं प्रणाम, जिसने हरि दरस कराया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sad‌Guru Dinaa Prem Pyaalaa, Pivat Pivat Bhayaa Mativaalaa.",
+        "Bhul Gaye Sab Kaam, Ur Men Ati Aanand Chhaayaa || E.",
+        "Kahe Teun Guru Par Balihaari, Tan Man Dhan Bhetaa De Saari.",
+        "Taahin Karun Pranaam, Jisne Hari Daras Karaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सद्गुरु सुनदर शाम, मेरे सिर हाथ झुलाया (टेक)."
+      "सद्‌गुरु मुझ पर कृपा कीनी , वस्तु अमोलक मुझको दीनी ।",
+      "सुमर सुमर सो नाम, हृदय में सत्‌ सुख पाया ॥१ ॥"
     ],
     [
-      "सद्गुरु मुझ पर कृपा किनि, वसतु मोलक मुझको दिनि.",
-      "सुमर सुमर सो नाम, हरिदय मेन सत‌ सुख पाया || 1 ||."
+      "सदूगुरु शम दम साधन दीना, ब्रह्मज्ञान दे मुक्ता कीना ।",
+      "पाया पूरण धाम, इन्द्र का दूख मिटाया ॥२ ॥"
     ],
     [
-      "सदुगुरु शम दम साधन दिना, बरहमजनयान दे मुकता किना.",
-      "पाया पुरन धाम, िनदर का दुःख मिताया || 2 ||."
-    ],
-    [
-      "सद्गुरु दिना प्रेम पयाला, पिवत पिवत भया मतिवाला.",
-      "भुल गये सब काम, ुर मेन ति आनंद चहाया ||. े."
-    ],
-    [
-      "कहे तेऊँ गुरु पर बलिहारि, तन मन धन भेता दे सारि.",
-      "ताहिन करुन परनाम, जिसने हरि दरस कराया ||.4. ||."
+      "सद्‌गुरु दीना प्रेम प्याला, पीवत पीवत भया मतिवाला ।",
+      "भूल गये सब काम, उर में अति आनन्द छाया ॥ । े ।",
+      "कहे टेऊँ गुरु पर बलिहारी, तन मन धन भेटा दे सारी ।",
+      "ताहिं करूं प्रणाम, जिसने हरि दरस कराया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sad‌Guru Sundar Shaam, Mere Sir Haath Jhulaayaa (Tek)."
-    ],
-    [
       "Sad‌Guru Mujh Par Kripaa Kini, Vastu Amolak Mujhko Dini.",
-      "Sumar Sumar So Naam, Hriday Men Sat‌ Sukh Paayaa || 1 ||."
+      "Sumar Sumar So Naam, Hriday Men Sat‌ Sukh Paayaa || 1 ||"
     ],
     [
       "Saduguru Sham Dam Saadhan Dinaa, Brahmajnyaan De Muktaa Kinaa.",
-      "Paayaa Puran Dhaam, Indr Kaa Dukh Mitaayaa || 2 ||."
+      "Paayaa Puran Dhaam, Indr Kaa Dukh Mitaayaa || 2 ||"
     ],
     [
       "Sad‌Guru Dinaa Prem Pyaalaa, Pivat Pivat Bhayaa Mativaalaa.",
-      "Bhul Gaye Sab Kaam, Ur Men Ati Aanand Chhaayaa ||. E."
-    ],
-    [
+      "Bhul Gaye Sab Kaam, Ur Men Ati Aanand Chhaayaa || E.",
       "Kahe Teun Guru Par Balihaari, Tan Man Dhan Bhetaa De Saari.",
-      "Taahin Karun Pranaam, Jisne Hari Daras Karaayaa ||.4. ||."
+      "Taahin Karun Pranaam, Jisne Hari Daras Karaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 8 || 557 ||.",
+    "सद्‌गुरु सुन्दर शाम, मेरे सिर हाथ झुलाया ॥",
     "Sad‌Guru Sundar Shaam, Mere Sir Haath Jhulaayaa",
-    "सद्गुरु सुनदर शाम, मेरे सिर हाथ झुलाया"
+    "राग खंभात भजन 8",
+    "Raag Khambhaat Bhajan 8"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "khambhaat",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
     "bhajan"
   ],
-  "displayOrder": 558,
+  "displayOrder": 8,
+  "overallOrder": 556,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 304",
+  "updatedAt": "2026-10-26"
 }

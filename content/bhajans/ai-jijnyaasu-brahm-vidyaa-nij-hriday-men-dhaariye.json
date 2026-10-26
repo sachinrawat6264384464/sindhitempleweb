@@ -2,72 +2,117 @@
   "id": "bhajan-0168",
   "slug": "ai-jijnyaasu-brahm-vidyaa-nij-hriday-men-dhaariye",
   "categoryId": "raag-vihaag",
-  "title": "ै जिजनयासु बरहम विदया निज हरिदय मेन धारिये",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "ऐ जिज्ञासू ब्रह्म विद्या निज हृदय में धारिये",
   "romanTitle": "Ai Jijnyaasu Brahm Vidyaa Nij Hriday Men Dhaariye",
-  "firstLine": "Ai Jijnyaasu Brahm Vidyaa Nij Hriday Men Dhaariye. Lok Aashaa Ko Tyaage Brahm Ko Vichaariye (Tek).",
+  "firstLine": "Ai Jijnyaasu Brahm Vidyaa Nij Hriday Men Dhaariye.",
+  "heading": "।। राग विहाग भजन ।। १० ।। १६८।।",
+  "tek": [
+    "ऐ जिज्ञासू ब्रह्म विद्या निज हृदय में धारिये ।",
+    "लोक आशा को त्यागे ब्रह्म को वीचारिये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ai Jijnyaasu Brahm Vidyaa Nij Hriday Men Dhaariye.",
+    "Lok Aashaa Ko Tyaage Brahm Ko Vichaariye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देह हूँ वा जीव हैँ मैं मन बुद्धी वा प्रान हैँ ।",
+        "ब्रह्म विद्या से अविद्या जनित संसा जारिये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Deh Hun Vaa Jiv Hain Main Man Buddhi Vaa Praan Hain.",
+        "Brahm Vidyaa Se Avidyaa Janit Sansaa Jaariye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्म व्यापक विश्व माहीं है सदा आकाश ज्यों ।",
+        "आप उस से नाहिं न्यारे अहं ब्रह्म उचारिये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahm Vyaapak Vishv Maahin Hai Sadaa Aakaash Jyon.",
+        "Aap Us Se Naahin Nyaare Ahan Brahm Uchaariye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्म थे तुम ब्रह्मा है अब जीव श्रान्ती छोड़दे ।",
+        "अन्त आदी बीज है सत्‌ पत्र शाखा वारिये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Brahm The Tum Brahmaa Hai Ab Jiv Shraanti Chhorde.",
+        "Ant Aadi Bij Hai Sat‌ Patr Shaakhaa Vaariye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ वाच्य त्यागे लक्ष्य में मन जोड़दे ।",
+        "ब्रह्म साक्षी एकरस तूं भेद श्रान्ती टारिये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Vaachy Tyaage Lakshy Men Man Jorde.",
+        "Brahm Saakshi Ekras Tu Bhed Shraanti Taariye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ै जिजनयासु बरहम विदया निज हरिदय मेन धारिये.",
-      "लोक ाशा को तयागे बरहम को विचारिये (टेक)."
+      "देह हूँ वा जीव हैँ मैं मन बुद्धी वा प्रान हैँ ।",
+      "ब्रह्म विद्या से अविद्या जनित संसा जारिये ॥१ ॥"
     ],
     [
-      "देह हुन वा जिव हैन मैं मन बुदधि वा परान हैन.",
-      "बरहम विदया से विदया जनित सनसा जारिये || 1 ||."
+      "ब्रह्म व्यापक विश्व माहीं है सदा आकाश ज्यों ।",
+      "आप उस से नाहिं न्यारे अहं ब्रह्म उचारिये ॥२ ॥"
     ],
     [
-      "बरहम वयापक विशव माहिन है सदा ाकाश जयोन.",
-      "ाप ुस से नाहिन नयारे हन बरहम ुचारिये || 2 ||."
+      "ब्रह्म थे तुम ब्रह्मा है अब जीव श्रान्ती छोड़दे ।",
+      "अन्त आदी बीज है सत्‌ पत्र शाखा वारिये ॥३ ॥"
     ],
     [
-      "बरहम थे तुम बरहम है ब जिव शरानति चहोरदे.",
-      "नत ादि बिज है सत‌ पतर शाखा वारिये.3 ||."
-    ],
-    [
-      "कहत तेऊँ वाचय तयागे लकशय मेन मन जोरदे.",
-      "बरहम साक्षी ेकरस तु भेद शरानति तारिये ||.4 ||"
-    ],
-    [
-      "दो"
+      "कहत टेऊँ वाच्य त्यागे लक्ष्य में मन जोड़दे ।",
+      "ब्रह्म साक्षी एकरस तूं भेद श्रान्ती टारिये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ai Jijnyaasu Brahm Vidyaa Nij Hriday Men Dhaariye.",
-      "Lok Aashaa Ko Tyaage Brahm Ko Vichaariye (Tek)."
-    ],
-    [
       "Deh Hun Vaa Jiv Hain Main Man Buddhi Vaa Praan Hain.",
-      "Brahm Vidyaa Se Avidyaa Janit Sansaa Jaariye || 1 ||."
+      "Brahm Vidyaa Se Avidyaa Janit Sansaa Jaariye || 1 ||"
     ],
     [
       "Brahm Vyaapak Vishv Maahin Hai Sadaa Aakaash Jyon.",
-      "Aap Us Se Naahin Nyaare Ahan Brahm Uchaariye || 2 ||."
+      "Aap Us Se Naahin Nyaare Ahan Brahm Uchaariye || 2 ||"
     ],
     [
-      "Brahm The Tum Brahma Hai Ab Jiv Shraanti Chhorde.",
-      "Ant Aadi Bij Hai Sat‌ Patr Shaakhaa Vaariye.3 ||."
+      "Brahm The Tum Brahmaa Hai Ab Jiv Shraanti Chhorde.",
+      "Ant Aadi Bij Hai Sat‌ Patr Shaakhaa Vaariye || 3 ||"
     ],
     [
       "Kahat Teun Vaachy Tyaage Lakshy Men Man Jorde.",
-      "Brahm Saakshi Ekras Tu Bhed Shraanti Taariye ||.4 ||"
-    ],
-    [
-      "Do"
+      "Brahm Saakshi Ekras Tu Bhed Shraanti Taariye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 10 || 168 ||",
+    "ऐ जिज्ञासू ब्रह्म विद्या निज हृदय में धारिये",
     "Ai Jijnyaasu Brahm Vidyaa Nij Hriday Men Dhaariye",
-    "ै जिजनयासु बरहम विदया निज हरिदय मेन धारिये"
+    "राग विहाग भजन 10",
+    "Raag Vihaag Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 168,
+  "displayOrder": 10,
+  "overallOrder": 168,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 113",
+  "updatedAt": "2026-10-26"
 }

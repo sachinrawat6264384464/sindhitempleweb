@@ -1,0 +1,116 @@
+{
+  "id": "bhajan-0538",
+  "slug": "gitaa-kaa-sun-gyaan-re-teraa-bhram-haregaa",
+  "categoryId": "raag-sorath",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "गीता का सुन ज्ञान, रे तेरा भ्रम हरेगा",
+  "romanTitle": "Gitaa Kaa Sun Gyaan, Re Teraa Bhram Haregaa",
+  "firstLine": "Gitaa Kaa Sun Gyaan, Re Teraa Bhram Haregaa (Tek).",
+  "heading": "।। राग सोरठ भजन ।। ८ ।। ५३९।॥।",
+  "tek": [
+    "गीता का सुन ज्ञान, रे तेरा भ्रम हरेगा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Gitaa Kaa Sun Gyaan, Re Teraa Bhram Haregaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सोच जिसीका ना हो करना, सोच उसी में ना तुम पड़ना ।",
+        "ये पण्डितों का ध्यान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Soch Jisikaa Naa Ho Karnaa, Soch Usi Men Naa Tum Parnaa.",
+        "Ye Panditon Kaa Dhyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अमर आत्मा तन से न्यारा, कोय न तांको छेदनहारा ।",
+        "व्यापक व्योम समान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Amar Aatmaa Tan Se Nyaaraa, Koy Na Taanko Chhednahaaraa.",
+        "Vyaapak Vyom Samaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जड़ परिणामी असत्‌ शरीरा, तांका शोक करत नहिं धीरा ।",
+        "आत्म सत्‌ पहिचान । ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Jar Parinaami Asat‌ Shariraa, Taankaa Shok Karat Nahin Dhiraa.",
+        "Aatm Sat‌ Pahichaan || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जो सत्‌ है सो कबहूँ न नासे, जोय असत्‌ सो कबहूँ न भासे ।",
+        "कहे टेऊँ सत्‌ जान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jo Sat‌ Hai So Kabhun Na Naase, Joy Asat‌ So Kabhun Na Bhaase.",
+        "Kahe Teun Sat‌ Jaan || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "सोच जिसीका ना हो करना, सोच उसी में ना तुम पड़ना ।",
+      "ये पण्डितों का ध्यान ॥१ ॥"
+    ],
+    [
+      "अमर आत्मा तन से न्यारा, कोय न तांको छेदनहारा ।",
+      "व्यापक व्योम समान ॥२ ॥"
+    ],
+    [
+      "जड़ परिणामी असत्‌ शरीरा, तांका शोक करत नहिं धीरा ।",
+      "आत्म सत्‌ पहिचान । ॥ ।३े ॥ ।"
+    ],
+    [
+      "जो सत्‌ है सो कबहूँ न नासे, जोय असत्‌ सो कबहूँ न भासे ।",
+      "कहे टेऊँ सत्‌ जान ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Soch Jisikaa Naa Ho Karnaa, Soch Usi Men Naa Tum Parnaa.",
+      "Ye Panditon Kaa Dhyaan || 1 ||"
+    ],
+    [
+      "Amar Aatmaa Tan Se Nyaaraa, Koy Na Taanko Chhednahaaraa.",
+      "Vyaapak Vyom Samaan || 2 ||"
+    ],
+    [
+      "Jar Parinaami Asat‌ Shariraa, Taankaa Shok Karat Nahin Dhiraa.",
+      "Aatm Sat‌ Pahichaan || 3E ||"
+    ],
+    [
+      "Jo Sat‌ Hai So Kabhun Na Naase, Joy Asat‌ So Kabhun Na Bhaase.",
+      "Kahe Teun Sat‌ Jaan || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "गीता का सुन ज्ञान, रे तेरा भ्रम हरेगा",
+    "Gitaa Kaa Sun Gyaan, Re Teraa Bhram Haregaa",
+    "राग सोरठ भजन 8",
+    "Raag Sorath Bhajan 8"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
+  ],
+  "displayOrder": 8,
+  "overallOrder": 538,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 295",
+  "updatedAt": "2026-10-26"
+}

@@ -2,82 +2,122 @@
   "id": "bhajan-0440",
   "slug": "raho-naa-gaflat-men-galtaan-utho-ab-yaad-karo-bhagvaan",
   "categoryId": "raag-tilang",
-  "title": "रहो ना गfलत मेन गलतान, ुथो ब याद करो भगवान",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "रहो ना गफ़्लत में गल्तान, उठो अब याद करो भगवान",
   "romanTitle": "Raho Naa Gaflat Men Galtaan, Utho Ab Yaad Karo Bhagvaan",
-  "firstLine": "Raho Naa Gaflat Men Galtaan, Utho Ab Yaad Karo Bhagvaan. Samay Karle Saphal (Tek).",
+  "firstLine": "Raho Naa Gaflat Men Galtaan, Utho Ab Yaad Karo Bhagvaan.",
+  "heading": "।। राग तिलंग भजन ।। ७७ ।। ४४१।।",
+  "tek": [
+    "रहो ना गफ़्लत में गल्तान, उठो अब याद करो भगवान ।",
+    "समय करले सफल ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raho Naa Gaflat Men Galtaan, Utho Ab Yaad Karo Bhagvaan.",
+    "Samay Karle Saphal (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पूरब में शुभ कर्म कमाया, तब यह दुर्लभ नर तन पाया ।",
+        "इसे ना मुफ्त गंवाओ तुम, हरी के गीत गाओ तुम,",
+        "समय करले सफल ॥१ ॥",
+        "पुण्य करन हित जग में आया, पाप कर्म क्यों बहुत बढ़ाया ।",
+        "करो ना स्वासों का नुकसान, साच का सौदा लेहु सुजान,",
+        "समय करले सफल ॥२ ॥"
+      ],
+      "romanLines": [
+        "Purab Men Shubh Karm Kamaayaa, Tab Yah Durlabh Nar Tan Paayaa.",
+        "Ise Naa Mupht Ganvaao Tum, Hari Ke Git Gaao Tum,",
+        "Samay Karle Saphal || 1 ||",
+        "Puny Karan Hit Jag Men Aayaa, Paap Karm Kyon Bahut Barhaayaa.",
+        "Karo Naa Svaason Kaa Nuksaan, Saach Kaa Saudaa Lehu Sujaan,",
+        "Samay Karle Saphal || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दीन जनों की सेवा करले, मान गुमान को मन से हरले ।",
+        "धर्म से हेत बढ़ाओ तुम, उसी पर जान लुटाओ तुम,",
+        "समय करले सफल ॥३ ॥"
+      ],
+      "romanLines": [
+        "Din Janon Ki Sevaa Karle, Maan Gumaan Ko Man Se Harle.",
+        "Dharm Se Het Barhaao Tum, Usi Par Jaan Lutaao Tum,",
+        "Samay Karle Saphal || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ नित सत्संग करके, प्रेम प्याला पीवो भरके ।",
+        "गुरू का शब्द कमाओ तुम, ज्ञान का दीप जगाओ तुम,",
+        "समय करले सफल ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nit Satsang Karke, Prem Pyaalaa Pivo Bharke.",
+        "Guru Kaa Shabd Kamaao Tum, Gyaan Kaa Dip Jagaao Tum,",
+        "Samay Karle Saphal || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "रहो ना गfलत मेन गलतान, ुथो ब याद करो भगवान.",
-      "समय करले सफल (टेक)."
+      "पूरब में शुभ कर्म कमाया, तब यह दुर्लभ नर तन पाया ।",
+      "इसे ना मुफ्त गंवाओ तुम, हरी के गीत गाओ तुम,",
+      "समय करले सफल ॥१ ॥",
+      "पुण्य करन हित जग में आया, पाप कर्म क्यों बहुत बढ़ाया ।",
+      "करो ना स्वासों का नुकसान, साच का सौदा लेहु सुजान,",
+      "समय करले सफल ॥२ ॥"
     ],
     [
-      "पुरब मेन शुभ करम कमाया, तब यह दुरलभ नर तन पाया.",
-      "िसे ना मुफत गनवाो तुम, हरि के गित गाो तुम,"
+      "दीन जनों की सेवा करले, मान गुमान को मन से हरले ।",
+      "धर्म से हेत बढ़ाओ तुम, उसी पर जान लुटाओ तुम,",
+      "समय करले सफल ॥३ ॥"
     ],
     [
-      "समय करले सफल || ₹ ||",
-      "पुनय करन हित जग मेन ाया, पाप करम कयोन बहुत बरहाया."
-    ],
-    [
-      "करो ना सवासोन का नुकसान, साच का सौदा लेहु सुजान,",
-      "समय करले सफल || 2 ||."
-    ],
-    [
-      "दीन जनोन कि सेवा करले, मान गुमान को मन से हरले.",
-      "धरम से हेत बरहाो तुम, ुसि पर जान लुताो तुम,"
-    ],
-    [
-      "समय करले सफल. ||.3 ||.",
-      "कहे तेऊँ नित सत्संग करके, प्रेम पयाला पिवो भरके."
-    ],
-    [
-      "गुरु का शबद कमाो तुम, ज्ञान का दिप जगाो तुम,",
-      "समय करले सफल ||.4. ||."
+      "कहे टेऊँ नित सत्संग करके, प्रेम प्याला पीवो भरके ।",
+      "गुरू का शब्द कमाओ तुम, ज्ञान का दीप जगाओ तुम,",
+      "समय करले सफल ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Raho Naa Gaflat Men Galtaan, Utho Ab Yaad Karo Bhagvaan.",
-      "Samay Karle Saphal (Tek)."
-    ],
-    [
       "Purab Men Shubh Karm Kamaayaa, Tab Yah Durlabh Nar Tan Paayaa.",
-      "Ise Naa Mupht Ganvaao Tum, Hari Ke Git Gaao Tum,"
-    ],
-    [
-      "Samay Karle Saphal || ₹ ||",
-      "Puny Karan Hit Jag Men Aayaa, Paap Karm Kyon Bahut Barhaayaa."
-    ],
-    [
+      "Ise Naa Mupht Ganvaao Tum, Hari Ke Git Gaao Tum,",
+      "Samay Karle Saphal || 1 ||",
+      "Puny Karan Hit Jag Men Aayaa, Paap Karm Kyon Bahut Barhaayaa.",
       "Karo Naa Svaason Kaa Nuksaan, Saach Kaa Saudaa Lehu Sujaan,",
-      "Samay Karle Saphal || 2 ||."
+      "Samay Karle Saphal || 2 ||"
     ],
     [
       "Din Janon Ki Sevaa Karle, Maan Gumaan Ko Man Se Harle.",
-      "Dharm Se Het Barhaao Tum, Usi Par Jaan Lutaao Tum,"
+      "Dharm Se Het Barhaao Tum, Usi Par Jaan Lutaao Tum,",
+      "Samay Karle Saphal || 3 ||"
     ],
     [
-      "Samay Karle Saphal. ||.3 ||.",
-      "Kahe Teun Nit Satsang Karke, Prem Pyaalaa Pivo Bharke."
-    ],
-    [
-      "Guru Kaa Shabd Kamaao Tum, Jnyaan Kaa Dip Jagaao Tum,",
-      "Samay Karle Saphal ||.4. ||."
+      "Kahe Teun Nit Satsang Karke, Prem Pyaalaa Pivo Bharke.",
+      "Guru Kaa Shabd Kamaao Tum, Gyaan Kaa Dip Jagaao Tum,",
+      "Samay Karle Saphal || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 77 || 441 ||",
+    "रहो ना गफ़्लत में गल्तान, उठो अब याद करो भगवान",
     "Raho Naa Gaflat Men Galtaan, Utho Ab Yaad Karo Bhagvaan",
-    "रहो ना गfलत मेन गलतान, ुथो ब याद करो भगवान"
+    "राग तिलंग भजन 77",
+    "Raag Tilang Bhajan 77"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 440,
+  "displayOrder": 77,
+  "overallOrder": 440,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 250",
+  "updatedAt": "2026-10-26"
 }

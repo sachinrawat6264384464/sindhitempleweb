@@ -2,80 +2,109 @@
   "id": "bhajan-0195",
   "slug": "tav-jivan-ko-dhikkaaraa-hari-ke-bhajan-binaa",
   "categoryId": "raag-tori",
-  "title": "तव जिवन को धिककारा हरि के भजन बिना",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "तव जीवन को धिक्कारा हरि के भजन बिना",
   "romanTitle": "Tav Jivan Ko Dhikkaaraa Hari Ke Bhajan Binaa",
   "firstLine": "Tav Jivan Ko Dhikkaaraa Hari Ke Bhajan Binaa (Tek).",
+  "heading": "।। राग टोड़ी भजन ।। ३ ।। १९५।।",
+  "tek": [
+    "तव जीवन को धिक्कारा हरि के भजन बिना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tav Jivan Ko Dhikkaaraa Hari Ke Bhajan Binaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बालापन खेलन में खोया कब हँसिके कब रोयके ।",
+        "सार असार की समझ गंवाई, मूृण्डमती तुम होयके ।",
+        "यौवन में सुन्दर नारी, अति लागी तुझको प्यारी ।",
+        "दुख मात पिता को दीना, पुनि कीना पाप अपारा ॥१ ॥",
+        "बूढ़ापन के माहिं तेरा भया निर्बल शरीर जी ।",
+        "आंख न देखे कान सुने नहिं दान्त गये अकसीर जी ।",
+        "तब तृष्णा लागी धन की, नहिं ममता मेटी मन की ।",
+        "आय चिन्ता रोग सताया, मन मोह लगा अति भारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baalaapan Khelan Men Khoyaa Kab Hansike Kab Royke.",
+        "Saar Asaar Ki Samajh Ganvaai, Murindamti Tum Hoyke.",
+        "Yauvan Men Sundar Naari, Ati Laagi Tujhko Pyaari.",
+        "Dukh Maat Pitaa Ko Dinaa, Puni Kinaa Paap Apaaraa || 1 ||",
+        "Burhaapan Ke Maahin Teraa Bhayaa Nirbal Sharir Ji.",
+        "Aankh Na Dekhe Kaan Sune Nahin Daant Gaye Aksir Ji.",
+        "Tab Trishnaa Laagi Dhan Ki, Nahin Mamtaa Meti Man Ki.",
+        "Aay Chintaa Rog Sataayaa, Man Moh Lagaa Ati Bhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तीन अवस्था वृथा हारी किया न कछु वीचार जी ।",
+        "झूठ कपट धोखेबाज़ी का सिर पर धारा भार जी ।",
+        "अब काल निकट है आया, कहे टेऊँ ना हरि ध्याया ।",
+        "कछु पुरुषार्थ नहिं कीना, यह जन्म गंवाया सारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tin Avasthaa Vrithaa Haari Kiyaa Na Kachhu Vichaar Ji.",
+        "Jhuth Kapat Dhokhebaazi Kaa Sir Par Dhaaraa Bhaar Ji.",
+        "Ab Kaal Nikat Hai Aayaa, Kahe Teun Naa Hari Dhyaayaa.",
+        "Kachhu Purushaarth Nahin Kinaa, Yah Janm Ganvaayaa Saaraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तव जिवन को धिककारा हरि के भजन बिना (टेक)."
+      "बालापन खेलन में खोया कब हँसिके कब रोयके ।",
+      "सार असार की समझ गंवाई, मूृण्डमती तुम होयके ।",
+      "यौवन में सुन्दर नारी, अति लागी तुझको प्यारी ।",
+      "दुख मात पिता को दीना, पुनि कीना पाप अपारा ॥१ ॥",
+      "बूढ़ापन के माहिं तेरा भया निर्बल शरीर जी ।",
+      "आंख न देखे कान सुने नहिं दान्त गये अकसीर जी ।",
+      "तब तृष्णा लागी धन की, नहिं ममता मेटी मन की ।",
+      "आय चिन्ता रोग सताया, मन मोह लगा अति भारा ॥२ ॥"
     ],
     [
-      "बालापन खेलन मेन खोया कब हनसिके कब रोयके.",
-      "सार सार कि समझ गनवाि, मुरिनदमति तुम होयके."
-    ],
-    [
-      "यौवन मेन सुनदर नारि, ति लागि तुझको पयारि.",
-      "दुःख मात पिता को दिना, पुनि किना पाप पारा 1"
-    ],
-    [
-      "बुरहापन के माहिन तेरा भया निरबल शरिर जी.",
-      "ानख न देखे कान सुने नहिन दानत गये कसिर जी."
-    ],
-    [
-      "तब तरिशना लागि धन कि, नहिन ममता मेति मन कि.",
-      "ाय चिनता रोग सताया, मन मोह लगा ति भारा || 2. ||."
-    ],
-    [
-      "तिन वसथा वरिथा हारि किया न कचहु विचार जी.",
-      "झुथ कपत धोखेबाzि का सिर पर धारा भार जी."
-    ],
-    [
-      "ब काल निकत है ाया, कहे तेऊँ ना हरि धयाया.",
-      "कचहु पुरुशारथ नहिन किना, यह जनम गनवाया सारा || 3. ||."
+      "तीन अवस्था वृथा हारी किया न कछु वीचार जी ।",
+      "झूठ कपट धोखेबाज़ी का सिर पर धारा भार जी ।",
+      "अब काल निकट है आया, कहे टेऊँ ना हरि ध्याया ।",
+      "कछु पुरुषार्थ नहिं कीना, यह जन्म गंवाया सारा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tav Jivan Ko Dhikkaaraa Hari Ke Bhajan Binaa (Tek)."
-    ],
-    [
       "Baalaapan Khelan Men Khoyaa Kab Hansike Kab Royke.",
-      "Saar Asaar Ki Samajh Ganvaai, Murindamti Tum Hoyke."
-    ],
-    [
+      "Saar Asaar Ki Samajh Ganvaai, Murindamti Tum Hoyke.",
       "Yauvan Men Sundar Naari, Ati Laagi Tujhko Pyaari.",
-      "Dukh Maat Pitaa Ko Dinaa, Puni Kinaa Paap Apaaraa 1"
-    ],
-    [
+      "Dukh Maat Pitaa Ko Dinaa, Puni Kinaa Paap Apaaraa || 1 ||",
       "Burhaapan Ke Maahin Teraa Bhayaa Nirbal Sharir Ji.",
-      "Aankh N Dekhe Kaan Sune Nahin Daant Gaye Aksir Ji."
-    ],
-    [
+      "Aankh Na Dekhe Kaan Sune Nahin Daant Gaye Aksir Ji.",
       "Tab Trishnaa Laagi Dhan Ki, Nahin Mamtaa Meti Man Ki.",
-      "Aay Chintaa Rog Sataayaa, Man Moh Lagaa Ati Bhaaraa || 2. ||."
+      "Aay Chintaa Rog Sataayaa, Man Moh Lagaa Ati Bhaaraa || 2 ||"
     ],
     [
-      "Tin Avasthaa Vrithaa Haari Kiyaa N Kachhu Vichaar Ji.",
-      "Jhuth Kapat Dhokhebaazi Kaa Sir Par Dhaaraa Bhaar Ji."
-    ],
-    [
+      "Tin Avasthaa Vrithaa Haari Kiyaa Na Kachhu Vichaar Ji.",
+      "Jhuth Kapat Dhokhebaazi Kaa Sir Par Dhaaraa Bhaar Ji.",
       "Ab Kaal Nikat Hai Aayaa, Kahe Teun Naa Hari Dhyaayaa.",
-      "Kachhu Purushaarth Nahin Kinaa, Yah Janm Ganvaayaa Saaraa || 3. ||."
+      "Kachhu Purushaarth Nahin Kinaa, Yah Janm Ganvaayaa Saaraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tori Bhajan || 3 || 195 ||",
+    "तव जीवन को धिक्कारा हरि के भजन बिना",
     "Tav Jivan Ko Dhikkaaraa Hari Ke Bhajan Binaa",
-    "तव जिवन को धिककारा हरि के भजन बिना"
+    "राग तोड़ी भजन 3",
+    "Raag Tori Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 195,
+  "displayOrder": 3,
+  "overallOrder": 195,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 126",
+  "updatedAt": "2026-10-26"
 }

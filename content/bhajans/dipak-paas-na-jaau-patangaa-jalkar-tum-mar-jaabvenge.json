@@ -1,0 +1,85 @@
+{
+  "id": "bhajan-0856",
+  "slug": "dipak-paas-na-jaau-patangaa-jalkar-tum-mar-jaabvenge",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "दीपक पास न जाउ पतंगा, जलकर तुम मर जाबवेंगे",
+  "romanTitle": "Dipak Paas Na Jaau Patangaa, Jalkar Tum Mar Jaabvenge",
+  "firstLine": "Dipak Paas Na Jaau Patangaa, Jalkar Tum Mar Jaabvenge (Tek).",
+  "heading": "।। राग जोग भजन ।। २८ ।। ८५८।॥।",
+  "tek": [
+    "दीपक पास न जाउ पतंगा, जलकर तुम मर जाबवेंगे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dipak Paas Na Jaau Patangaa, Jalkar Tum Mar Jaabvenge (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "रूप शमा का देख न भूलो, परसत ही जर जावेंगे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Rup Shamaa Kaa Dekh Na Bhulo, Parsat Hi Jar Jaavenge || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इस पर होवो ना मस्ताना, पंख तेरे गिर जावेंगे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Is Par Hovo Naa Mastaanaa, Pankh Tere Gir Jaavenge || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "टेऊँ जब इस आस तजोगे, तब सब दुख हर जावेंगे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Teun Jab Is Aas Tajoge, Tab Sab Dukh Har Jaavenge || 3 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "रूप शमा का देख न भूलो, परसत ही जर जावेंगे ॥१ ॥"
+    ],
+    [
+      "इस पर होवो ना मस्ताना, पंख तेरे गिर जावेंगे ॥२ ॥"
+    ],
+    [
+      "टेऊँ जब इस आस तजोगे, तब सब दुख हर जावेंगे ॥३ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Rup Shamaa Kaa Dekh Na Bhulo, Parsat Hi Jar Jaavenge || 1 ||"
+    ],
+    [
+      "Is Par Hovo Naa Mastaanaa, Pankh Tere Gir Jaavenge || 2 ||"
+    ],
+    [
+      "Teun Jab Is Aas Tajoge, Tab Sab Dukh Har Jaavenge || 3 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "दीपक पास न जाउ पतंगा, जलकर तुम मर जाबवेंगे",
+    "Dipak Paas Na Jaau Patangaa, Jalkar Tum Mar Jaabvenge",
+    "राग जोग भजन 28",
+    "Raag Jog Bhajan 28"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 28,
+  "overallOrder": 856,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 453",
+  "updatedAt": "2026-10-26"
+}

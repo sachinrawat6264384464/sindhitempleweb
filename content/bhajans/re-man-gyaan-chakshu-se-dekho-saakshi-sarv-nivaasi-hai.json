@@ -1,0 +1,97 @@
+{
+  "id": "bhajan-0026",
+  "slug": "re-man-gyaan-chakshu-se-dekho-saakshi-sarv-nivaasi-hai",
+  "categoryId": "raag-raamkali",
+  "categoryName": "राग रामकली",
+  "romanCategoryName": "Raag Raamkali",
+  "title": "रे मन ज्ञान चक्षू से देखो साक्षी सर्व निवासी है",
+  "romanTitle": "Re Man Gyaan Chakshu Se Dekho Saakshi Sarv Nivaasi Hai",
+  "firstLine": "Re Man Gyaan Chakshu Se Dekho Saakshi Sarv Nivaasi Hai (Tek).",
+  "heading": "।। राग रामकली भजन ।। १४ ।। २६।॥।",
+  "tek": [
+    "रे मन ज्ञान चक्षू से देखो साक्षी सर्व निवासी है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Re Man Gyaan Chakshu Se Dekho Saakshi Sarv Nivaasi Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अस्ति भाति अरु प्रिय रूप से आतम सब घट वासी है ।",
+        "नाम रूप जग जीव ईश की कलना सबहीं नाशी है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Asti Bhaati Aru Priy Rup Se Aatam Sab Ghat Vaasi Hai.",
+        "Naam Rup Jag Jiv Ish Ki Kalnaa Sabhin Naashi Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दूध घृत ज्यों सबके अन्तर व्यापक सो अविनाशी है ।",
+        "पूरन एक विभू वस्तू वह वेदान्तिनि को भासी है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dudh Ghrit Jyon Sabke Antar Vyaapak So Avinaashi Hai.",
+        "Puran Ek Vibhu Vastu Vah Vedaantini Ko Bhaasi Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्मा अखण्ड अद्वैत अनामय सत्‌ चित्‌ आनन्द राशी है ।",
+        "कहे टेऊँ सो प्रत्यक्ष जानो साक्षी स्वयं प्रकाशी है ॥ ३े ।"
+      ],
+      "romanLines": [
+        "Brahmaa Akhand Advait Anaamay Sat‌ Chit‌ Aanand Raashi Hai.",
+        "Kahe Teun So Pratyaksh Jaano Saakshi Svayan Prakaashi Hai || 3E."
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "अस्ति भाति अरु प्रिय रूप से आतम सब घट वासी है ।",
+      "नाम रूप जग जीव ईश की कलना सबहीं नाशी है ॥१ ॥"
+    ],
+    [
+      "दूध घृत ज्यों सबके अन्तर व्यापक सो अविनाशी है ।",
+      "पूरन एक विभू वस्तू वह वेदान्तिनि को भासी है ॥२ ॥"
+    ],
+    [
+      "ब्रह्मा अखण्ड अद्वैत अनामय सत्‌ चित्‌ आनन्द राशी है ।",
+      "कहे टेऊँ सो प्रत्यक्ष जानो साक्षी स्वयं प्रकाशी है ॥ ३े ।"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Asti Bhaati Aru Priy Rup Se Aatam Sab Ghat Vaasi Hai.",
+      "Naam Rup Jag Jiv Ish Ki Kalnaa Sabhin Naashi Hai || 1 ||"
+    ],
+    [
+      "Dudh Ghrit Jyon Sabke Antar Vyaapak So Avinaashi Hai.",
+      "Puran Ek Vibhu Vastu Vah Vedaantini Ko Bhaasi Hai || 2 ||"
+    ],
+    [
+      "Brahmaa Akhand Advait Anaamay Sat‌ Chit‌ Aanand Raashi Hai.",
+      "Kahe Teun So Pratyaksh Jaano Saakshi Svayan Prakaashi Hai || 3E."
+    ]
+  ],
+  "alternateSpellings": [
+    "रे मन ज्ञान चक्षू से देखो साक्षी सर्व निवासी है",
+    "Re Man Gyaan Chakshu Se Dekho Saakshi Sarv Nivaasi Hai",
+    "राग रामकली भजन 14",
+    "Raag Raamkali Bhajan 14"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-raamkali",
+    "bhajan"
+  ],
+  "displayOrder": 14,
+  "overallOrder": 26,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 38",
+  "updatedAt": "2026-10-26"
+}

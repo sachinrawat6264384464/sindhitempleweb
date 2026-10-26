@@ -1,35 +1,76 @@
 {
-  "id": "bhajan-0614",
+  "id": "bhajan-0612",
   "slug": "pyaare-sadguru-ke-dar-jaaiye",
   "categoryId": "raag-kalyaan",
-  "title": "पयारे सद्गुरु के दर जािये",
+  "categoryName": "राग कल्याण",
+  "romanCategoryName": "Raag Kalyaan",
+  "title": "प्यारे सद्गुरु के दर जाईये",
   "romanTitle": "Pyaare Sadguru Ke Dar Jaaiye",
-  "firstLine": "Pyaare Sadguru Ke Dar Jaaiye. Sad‌Guru Kaa Sang Abhin Karlo Yah N Samay Phir Paaiye (Tek).",
+  "firstLine": "Pyaare Sadguru Ke Dar Jaaiye.",
+  "heading": "।। राग कल्याण भजन ।। ६ ।। ६१३।।",
+  "tek": [
+    "प्यारे सद्गुरु के दर जाईये ।",
+    "सद्‌गुरु का संग अबहीं करलो यह न समय फिर पाईये ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pyaare Sadguru Ke Dar Jaaiye.",
+    "Sad‌Guru Kaa Sang Abhin Karlo Yah Na Samay Phir Paaiye (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "चार दिनों के पाहुन हो तुम, राम नाम गुन गाईये ॥१ ॥"
+      ],
+      "romanLines": [
+        "Chaar Dinon Ke Paahun Ho Tum, Raam Naam Gun Gaaiye || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "यह माया तरुवर की छाया, तां पीछे ना धाईये ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yah Maayaa Taruvar Ki Chhaayaa, Taan Pichhe Naa Dhaaiye || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "खाटन कारण आये जग में, साचा वखर विहाईये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Khaatan Kaaran Aaye Jag Men, Saachaa Vakhar Vihaaiye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शब्द विचारे, सुख स्वरूप समाईये ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Shabd Vichaare, Sukh Svarup Samaaiye || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पयारे सद्गुरु के दर जािये.",
-      "सद्गुरु का सनग भिन करलो यह न समय फिर पािये (टेक)."
+      "चार दिनों के पाहुन हो तुम, राम नाम गुन गाईये ॥१ ॥"
     ],
     [
-      "चार दिनोन के पाहुन हो तुम, राम नाम गुन गािये || 1 ||."
+      "यह माया तरुवर की छाया, तां पीछे ना धाईये ॥२ ॥"
     ],
     [
-      "यह माया तरुवर कि चहाया, तान पिचहे ना धािये || 2 ||"
+      "खाटन कारण आये जग में, साचा वखर विहाईये ॥३ ॥"
     ],
     [
-      "खातन कारन ाये जग मेन, साचा वखर विहािये || 3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु शबद विचारे, सुख सवरुप समािये || 4 ||."
+      "कहे टेऊँ गुरु शब्द विचारे, सुख स्वरूप समाईये ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Pyaare Sadguru Ke Dar Jaaiye.",
-      "Sad‌Guru Kaa Sang Abhin Karlo Yah N Samay Phir Paaiye (Tek)."
-    ],
-    [
-      "Chaar Dinon Ke Paahun Ho Tum, Raam Naam Gun Gaaiye || 1 ||."
+      "Chaar Dinon Ke Paahun Ho Tum, Raam Naam Gun Gaaiye || 1 ||"
     ],
     [
       "Yah Maayaa Taruvar Ki Chhaayaa, Taan Pichhe Naa Dhaaiye || 2 ||"
@@ -38,23 +79,24 @@
       "Khaatan Kaaran Aaye Jag Men, Saachaa Vakhar Vihaaiye || 3 ||"
     ],
     [
-      "Kahe Teun Guru Shabd Vichaare, Sukh Svarup Samaaiye || 4 ||."
+      "Kahe Teun Guru Shabd Vichaare, Sukh Svarup Samaaiye || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kalyaan Bhajan || 6 || 613 ||",
+    "प्यारे सद्गुरु के दर जाईये",
     "Pyaare Sadguru Ke Dar Jaaiye",
-    "पयारे सद्गुरु के दर जािये"
+    "राग कल्याण भजन 6",
+    "Raag Kalyaan Bhajan 6"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "kalyaan",
-    "bhajan",
-    "amarapur-vaani"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kalyaan",
+    "bhajan"
   ],
-  "displayOrder": 614,
+  "displayOrder": 6,
+  "overallOrder": 612,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 329",
+  "updatedAt": "2026-10-26"
 }

@@ -2,36 +2,71 @@
   "id": "bhajan-0166",
   "slug": "dekho-aatm-raam-manuvaa-apne-hriday-maahin-pyaaraa",
   "categoryId": "raag-vihaag",
-  "title": "देखो ातम राम मनुवा, पने हरिदय माहिन पयारा",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "देखो आत्म राम मनुवा, अपने हृदय माहिं प्यारा",
   "romanTitle": "Dekho Aatm Raam Manuvaa, Apne Hriday Maahin Pyaaraa",
   "firstLine": "Dekho Aatm Raam Manuvaa, Apne Hriday Maahin Pyaaraa (Tek).",
+  "heading": "।। राग विहाग भजन ।। ८ ।। १६६।।",
+  "tek": [
+    "देखो आत्म राम मनुवा, अपने हृदय माहिं प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dekho Aatm Raam Manuvaa, Apne Hriday Maahin Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्‌कर्मों से मैल मिटाये, विक्षेप हर हरि भक्ति कमाए ।",
+        "ले गुरु ज्ञान की माम मनुवा, दूर करो अज्ञान अन्धारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Karmon Se Mail Mitaaye, Vikshep Har Hari Bhakti Kamaae.",
+        "Le Guru Gyaan Ki Maam Manuvaa, Dur Karo Ajnyaan Andhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जाग्रत स्वप्न सुषुप्ति तीनों, मिथ्या जड़ परिणामी चीनो ।",
+        "कर तुर्या विश्राम मनुवा, चेतन का जामें चिमकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapn Sushupti Tinon, Mithyaa Jar Parinaami Chino.",
+        "Kar Turyaa Vishraam Manuvaa, Chetan Kaa Jaamen Chimkaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आनन्द रूप सदा अविनाशी, साक्षी चेतन स्वयं प्रकाशी ।",
+        "पाओ सोई धाम मनुवा, कहे टेऊँ जो सर्व अधारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aanand Rup Sadaa Avinaashi, Saakshi Chetan Svayan Prakaashi.",
+        "Paao Soi Dhaam Manuvaa, Kahe Teun Jo Sarv Adhaaraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "देखो ातम राम मनुवा, पने हरिदय माहिन पयारा (टेक)."
+      "सत्‌कर्मों से मैल मिटाये, विक्षेप हर हरि भक्ति कमाए ।",
+      "ले गुरु ज्ञान की माम मनुवा, दूर करो अज्ञान अन्धारा ॥१ ॥"
     ],
     [
-      "सतकरमोन से मैल मिताये, विकशेप हर हरि भक्ति कमाे.",
-      "ले गुरु ज्ञान कि माम मनुवा, दुर करो जनयान नधारा || 1 ||."
+      "जाग्रत स्वप्न सुषुप्ति तीनों, मिथ्या जड़ परिणामी चीनो ।",
+      "कर तुर्या विश्राम मनुवा, चेतन का जामें चिमकारा ॥२ ॥"
     ],
     [
-      "जागरत सवपन सुशुपति तिनोन, मिथया जर परिनामि चिनो.",
-      "कर तुरया विशराम मनुवा, चेतन का जामेन चिमकारा || 2 ||"
-    ],
-    [
-      "आनंद रुप सदा अविनाशी, साक्षी चेतन सवयन परकाशि.",
-      "पाो सोि धाम मनुवा, कहे तेऊँ जो सर्व धारा || 3 ||."
-    ],
-    [
-      "[  व  ]"
+      "आनन्द रूप सदा अविनाशी, साक्षी चेतन स्वयं प्रकाशी ।",
+      "पाओ सोई धाम मनुवा, कहे टेऊँ जो सर्व अधारा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dekho Aatm Raam Manuvaa, Apne Hriday Maahin Pyaaraa (Tek)."
-    ],
-    [
       "Sat‌Karmon Se Mail Mitaaye, Vikshep Har Hari Bhakti Kamaae.",
-      "Le Guru Jnyaan Ki Maam Manuvaa, Dur Karo Ajnyaan Andhaaraa || 1 ||."
+      "Le Guru Gyaan Ki Maam Manuvaa, Dur Karo Ajnyaan Andhaaraa || 1 ||"
     ],
     [
       "Jaagrat Svapn Sushupti Tinon, Mithyaa Jar Parinaami Chino.",
@@ -39,25 +74,24 @@
     ],
     [
       "Aanand Rup Sadaa Avinaashi, Saakshi Chetan Svayan Prakaashi.",
-      "Paao Soi Dhaam Manuvaa, Kahe Teun Jo Sarv Adhaaraa || 3 ||."
-    ],
-    [
-      "[  V  ]"
+      "Paao Soi Dhaam Manuvaa, Kahe Teun Jo Sarv Adhaaraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Vihaag Bhajan || 8 || 166 ||",
+    "देखो आत्म राम मनुवा, अपने हृदय माहिं प्यारा",
     "Dekho Aatm Raam Manuvaa, Apne Hriday Maahin Pyaaraa",
-    "देखो ातम राम मनुवा, पने हरिदय माहिन पयारा"
+    "राग विहाग भजन 8",
+    "Raag Vihaag Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "vihaag",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
+    "bhajan"
   ],
-  "displayOrder": 166,
+  "displayOrder": 8,
+  "overallOrder": 166,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 112",
+  "updatedAt": "2026-10-26"
 }

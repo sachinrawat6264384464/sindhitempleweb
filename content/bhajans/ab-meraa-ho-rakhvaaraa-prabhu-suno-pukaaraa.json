@@ -1,66 +1,116 @@
 {
   "id": "bhajan-0284",
   "slug": "ab-meraa-ho-rakhvaaraa-prabhu-suno-pukaaraa",
-  "categoryId": "raag-bhairav",
-  "title": "ब मेरा हो रखवारा, प्रभु सुनो पुकारा",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "अब मेरा हो रखवारा, प्रभू सुनो पुकारा",
   "romanTitle": "Ab Meraa Ho Rakhvaaraa, Prabhu Suno Pukaaraa",
   "firstLine": "Ab Meraa Ho Rakhvaaraa, Prabhu Suno Pukaaraa (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ६९ ।। २८४।॥",
+  "tek": [
+    "अब मेरा हो रखवारा, प्रभू सुनो पुकारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ab Meraa Ho Rakhvaaraa, Prabhu Suno Pukaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "दीन दयालू अति कृपालू, पावन नाम तुम्हारा ।",
+        "मैंने ओट गही इक तेरी, अपना जान सहारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Din Dayaalu Ati Kripaalu, Paavan Naam Tumhaaraa.",
+        "Mainne Ot Gahi Ik Teri, Apnaa Jaan Sahaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "स्वार्थ के हैं साथी सारे, मात पिता सुत दारा ।",
+        "तांको छोड़ स्वामी तेरा, लीना मैं आधारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Svaarth Ke Hain Saathi Saare, Maat Pitaa Sut Daaraa.",
+        "Taanko Chhor Svaami Teraa, Linaa Main Aadhaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "डूबत हूं मैं भव सागर के, तीक्षण वेग मँझारा ।",
+        "भगवन्‌ मेरी भुजा पकड़ के, कीजे भव से पारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Dubat Hun Main Bhav Saagar Ke, Tikshan Veg Manjhaaraa.",
+        "Bhagvan‌ Meri Bhujaa Pakar Ke, Kije Bhav Se Paaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह विनय सुनीजे, दुख भँजन दातारा ।",
+        "कृपा करके मुझको दीजे, निर्भय पद निर्धारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Vinay Sunije, Dukh Bhanjan Daataaraa.",
+        "Kripaa Karke Mujhko Dije, Nirbhay Pad Nirdhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ब मेरा हो रखवारा, प्रभु सुनो पुकारा (टेक)."
+      "दीन दयालू अति कृपालू, पावन नाम तुम्हारा ।",
+      "मैंने ओट गही इक तेरी, अपना जान सहारा ॥१ ॥"
     ],
     [
-      "दीन दयालु ति करिपालु, पावन नाम तुमहारा.",
-      "मैनने ोत गहि िक तेरि, पना जान सहारा || 1 ||."
+      "स्वार्थ के हैं साथी सारे, मात पिता सुत दारा ।",
+      "तांको छोड़ स्वामी तेरा, लीना मैं आधारा ॥२ ॥"
     ],
     [
-      "सवारथ के हैन साथि सारे, मात पिता सुत दारा.",
-      "तानको चहोर स्वामी तेरा, लिना मैं ाधारा ||.2 ||."
+      "डूबत हूं मैं भव सागर के, तीक्षण वेग मँझारा ।",
+      "भगवन्‌ मेरी भुजा पकड़ के, कीजे भव से पारा ॥३ ॥"
     ],
     [
-      "दुबत हुन मैं भव सागर के, तिकशन वेग मनझारा.",
-      "भगवन‌ मेरि भुजा पकर के, किजे भव से पारा ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ यह विनय सुनिजे, दुःख भनजन दातारा.",
-      "कृपा करके मुझको दिजे, निरभय पद निरधारा || 4 ||."
+      "कहे टेऊँ यह विनय सुनीजे, दुख भँजन दातारा ।",
+      "कृपा करके मुझको दीजे, निर्भय पद निर्धारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ab Meraa Ho Rakhvaaraa, Prabhu Suno Pukaaraa (Tek)."
-    ],
-    [
       "Din Dayaalu Ati Kripaalu, Paavan Naam Tumhaaraa.",
-      "Mainne Ot Gahi Ik Teri, Apnaa Jaan Sahaaraa || 1 ||."
+      "Mainne Ot Gahi Ik Teri, Apnaa Jaan Sahaaraa || 1 ||"
     ],
     [
       "Svaarth Ke Hain Saathi Saare, Maat Pitaa Sut Daaraa.",
-      "Taanko Chhor Svaami Teraa, Linaa Main Aadhaaraa ||.2 ||."
+      "Taanko Chhor Svaami Teraa, Linaa Main Aadhaaraa || 2 ||"
     ],
     [
       "Dubat Hun Main Bhav Saagar Ke, Tikshan Veg Manjhaaraa.",
-      "Bhagvan‌ Meri Bhujaa Pakar Ke, Kije Bhav Se Paaraa ||.3. ||."
+      "Bhagvan‌ Meri Bhujaa Pakar Ke, Kije Bhav Se Paaraa || 3 ||"
     ],
     [
       "Kahe Teun Yah Vinay Sunije, Dukh Bhanjan Daataaraa.",
-      "Kripaa Karke Mujhko Dije, Nirbhay Pad Nirdhaaraa || 4 ||."
+      "Kripaa Karke Mujhko Dije, Nirbhay Pad Nirdhaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Bhairvi Bhajan || 69 || 284. ||",
+    "अब मेरा हो रखवारा, प्रभू सुनो पुकारा",
     "Ab Meraa Ho Rakhvaaraa, Prabhu Suno Pukaaraa",
-    "ब मेरा हो रखवारा, प्रभु सुनो पुकारा"
+    "राग भैरवी भजन 69",
+    "Raag Bhairvi Bhajan 69"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 284,
+  "displayOrder": 69,
+  "overallOrder": 284,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 173",
+  "updatedAt": "2026-10-26"
 }

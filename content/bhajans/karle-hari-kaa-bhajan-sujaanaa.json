@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0523",
+  "id": "bhajan-0521",
   "slug": "karle-hari-kaa-bhajan-sujaanaa",
   "categoryId": "raag-kohiyaari",
-  "title": "करले हरि का भजन सुजाना",
-  "romanTitle": "Karle Hari Kaa Bhajan Sujaanaa",
-  "firstLine": "Karle Hari Kaa Bhajan Sujaanaa, Bhajan Binaa Nahin Ho Kalyaanaa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "करले हरी का भजन सुजाना,",
+  "romanTitle": "Karle Hari Kaa Bhajan Sujaanaa,",
+  "firstLine": "Karle Hari Kaa Bhajan Sujaanaa,",
+  "heading": "।। राग कोदह्यारी भजन ।। ४२ ।। ५२२।।",
+  "tek": [
+    "करले हरी का भजन सुजाना,",
+    "भजन बिना नहिं हो कल्याना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Karle Hari Kaa Bhajan Sujaanaa,",
+    "Bhajan Binaa Nahin Ho Kalyaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तीन लोक का होके राजा, भावें भोगे राज समाजा ।",
+        "भजन बिना पाय नर्क निदाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tin Lok Kaa Hoke Raajaa, Bhaaven Bhoge Raaj Samaajaa.",
+        "Bhajan Binaa Paay Nark Nidaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दीर्घ आयु अरोगी काया, भावें हो मन वांछित माया ।",
+        "भजन बिना दुख पाय महाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dirgh Aayu Arogi Kaayaa, Bhaaven Ho Man Vaanchhit Maayaa.",
+        "Bhajan Binaa Dukh Paay Mahaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भावें मन्तर तन्तर साधे, ऋद्धि सिद्धि पावे देव अराधे ।",
+        "भजन बिना पाय जोनी नाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhaaven Mantar Tantar Saadhe, Riddhi Siddhi Paave Dev Araadhe.",
+        "Bhajan Binaa Paay Joni Naanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मिल सन्तनि संगा, भजन करो तुम होय निसंगा ।",
+        "जांते पावो पद निर्बना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Mil Santani Sangaa, Bhajan Karo Tum Hoy Nisangaa.",
+        "Jaante Paavo Pad Nirbanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "करले हरि का भजन सुजाना,",
-      "भजन बिना नहिन हो कलयाना (टेक)."
+      "तीन लोक का होके राजा, भावें भोगे राज समाजा ।",
+      "भजन बिना पाय नर्क निदाना ॥१ ॥"
     ],
     [
-      "तिन लोक का होके राजा, भावेन भोगे राज समाजा.",
-      "भजन बिना पाय नरक निदाना || 1 ||."
+      "दीर्घ आयु अरोगी काया, भावें हो मन वांछित माया ।",
+      "भजन बिना दुख पाय महाना ॥२ ॥"
     ],
     [
-      "दिरघ ायु रोगि काया, भावेन हो मन वानचहित माया.",
-      "भजन बिना दुःख पाय महाना || 2 ||"
+      "भावें मन्तर तन्तर साधे, ऋद्धि सिद्धि पावे देव अराधे ।",
+      "भजन बिना पाय जोनी नाना ॥३ ॥"
     ],
     [
-      "भावेन मनतर तनतर साधे, रिदधि सिदधि पावे देव राधे.",
-      "भजन बिना पाय जोनि नाना ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ मिल सनतनि सनगा, भजन करो तुम होय निसनगा.",
-      "जानते पावो पद निरबना || 4 ||."
+      "कहे टेऊँ मिल सन्तनि संगा, भजन करो तुम होय निसंगा ।",
+      "जांते पावो पद निर्बना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Karle Hari Kaa Bhajan Sujaanaa,",
-      "Bhajan Binaa Nahin Ho Kalyaanaa (Tek)."
-    ],
-    [
       "Tin Lok Kaa Hoke Raajaa, Bhaaven Bhoge Raaj Samaajaa.",
-      "Bhajan Binaa Paay Nark Nidaanaa || 1 ||."
+      "Bhajan Binaa Paay Nark Nidaanaa || 1 ||"
     ],
     [
       "Dirgh Aayu Arogi Kaayaa, Bhaaven Ho Man Vaanchhit Maayaa.",
@@ -42,26 +91,28 @@
     ],
     [
       "Bhaaven Mantar Tantar Saadhe, Riddhi Siddhi Paave Dev Araadhe.",
-      "Bhajan Binaa Paay Joni Naanaa ||.3 ||"
+      "Bhajan Binaa Paay Joni Naanaa || 3 ||"
     ],
     [
       "Kahe Teun Mil Santani Sangaa, Bhajan Karo Tum Hoy Nisangaa.",
-      "Jaante Paavo Pad Nirbanaa || 4 ||."
+      "Jaante Paavo Pad Nirbanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kodahyaari Bhajan || 42 || 522 ||",
-    "Karle Hari Kaa Bhajan Sujaanaa",
-    "करले हरि का भजन सुजाना"
+    "करले हरी का भजन सुजाना,",
+    "Karle Hari Kaa Bhajan Sujaanaa,",
+    "राग कोहियारी भजन 42",
+    "Raag Kohiyaari Bhajan 42"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 523,
+  "displayOrder": 42,
+  "overallOrder": 521,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 288",
+  "updatedAt": "2026-10-26"
 }

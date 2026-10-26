@@ -1,73 +1,118 @@
 {
   "id": "bhajan-0289",
   "slug": "santon-se-mil-hari-gun-gaanaa-jaanse-ho-kalyaanaa",
-  "categoryId": "raag-bhairav",
-  "title": "सनतोन से मिल हरि गुन गाना, जानसे हो कलयाना",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "सन्तों से मिल हरि गुन गाना, जांसे हो कल्याना",
   "romanTitle": "Santon Se Mil Hari Gun Gaanaa, Jaanse Ho Kalyaanaa",
-  "firstLine": "Santon Se Mil Hari Gun Gaanaa, Jaanse Ho Kalyaanaa. Prem Bhaav Se Gaay Hari Gun, Bhav Sindhu Se Tar Jaanaa (Tek).",
+  "firstLine": "Santon Se Mil Hari Gun Gaanaa, Jaanse Ho Kalyaanaa.",
+  "heading": "।। राग भैरवी भजन ।। ७४ ।। २८९।।",
+  "tek": [
+    "सन्तों से मिल हरि गुन गाना, जांसे हो कल्याना ।",
+    "प्रेम भाव से गाय हरी गुन, भव सिन्धु से तर जाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Se Mil Hari Gun Gaanaa, Jaanse Ho Kalyaanaa.",
+    "Prem Bhaav Se Gaay Hari Gun, Bhav Sindhu Se Tar Jaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भवसागर से पार करत है हरि कीर्तन की नौका ।",
+        "सब कर्मों से हरि कीर्तन को ऊँचा भक्तों ने माना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhavsaagar Se Paar Karat Hai Hari Kirtan Ki Naukaa.",
+        "Sab Karmon Se Hari Kirtan Ko Unchaa Bhakton Ne Maanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "रिल मिल जहैँ हरि कीर्तन करते तहैँ मैं रहूँ सदाई ।",
+        "नारद से यह कहा विष्णु ने पढ़कर देख पुराना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ril Mil Jahain Hari Kirtan Karte Tahain Main Rahun Sadaai.",
+        "Naarad Se Yah Kahaa Vishnu Ne Parhkar Dekh Puraanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुलसीदास शुक सूरश्याम ने हरि कीर्तन को गाया ।",
+        "कबीर नरसी नामदेव भी हरि यश किया बखाना ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Tulsidaas Shuk Surashyaam Ne Hari Kirtan Ko Gaayaa.",
+        "Kabir Narsi Naamdev Bhi Hari Yash Kiyaa Bakhaanaa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कर्म उपासन ज्ञान कठिन है कहे टेऊँ कलि माहीं ।",
+        "सुगम कीर्तन है इक हरि का ताँसे प्रेम बढ़ाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Karm Upaasan Gyaan Kathin Hai Kahe Teun Kali Maahin.",
+        "Sugam Kirtan Hai Ik Hari Kaa Taanse Prem Barhaanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन से मिल हरि गुन गाना, जानसे हो कलयाना.",
-      "प्रेम भाव से गाय हरि गुन, भव सिनधु से तर जाना (टेक)."
+      "भवसागर से पार करत है हरि कीर्तन की नौका ।",
+      "सब कर्मों से हरि कीर्तन को ऊँचा भक्तों ने माना ॥१ ॥"
     ],
     [
-      "भवसागर से पार करत है हरि किरतन कि नौका.",
-      "सब करमोन से हरि किरतन को ुनचा भकतोन ने माना || 1 ||."
+      "रिल मिल जहैँ हरि कीर्तन करते तहैँ मैं रहूँ सदाई ।",
+      "नारद से यह कहा विष्णु ने पढ़कर देख पुराना ॥२ ॥"
     ],
     [
-      "रिल मिल जहैन हरि किरतन करते तहैन मैं रहुन सदाि.",
-      "नारद से यह कहा विशनु ने परहकर देख पुराना || 2 ||."
+      "तुलसीदास शुक सूरश्याम ने हरि कीर्तन को गाया ।",
+      "कबीर नरसी नामदेव भी हरि यश किया बखाना ॥ ।३े ॥ ।"
     ],
     [
-      "तुलसिदास शुक सुरशयाम ने हरि किरतन को गाया.",
-      "कबिर नरसि नामदेव भि हरि यश किया बखाना ||.3े ||."
-    ],
-    [
-      "करम ुपासन ज्ञान कथिन है कहे तेऊँ कलि माहिन.",
-      "सुगम किरतन है िक हरि का तानसे प्रेम बरहाना || 4 ||."
-    ],
-    [
-      "हम"
+      "कर्म उपासन ज्ञान कठिन है कहे टेऊँ कलि माहीं ।",
+      "सुगम कीर्तन है इक हरि का ताँसे प्रेम बढ़ाना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Santon Se Mil Hari Gun Gaanaa, Jaanse Ho Kalyaanaa.",
-      "Prem Bhaav Se Gaay Hari Gun, Bhav Sindhu Se Tar Jaanaa (Tek)."
-    ],
-    [
       "Bhavsaagar Se Paar Karat Hai Hari Kirtan Ki Naukaa.",
-      "Sab Karmon Se Hari Kirtan Ko Unchaa Bhakton Ne Maanaa || 1 ||."
+      "Sab Karmon Se Hari Kirtan Ko Unchaa Bhakton Ne Maanaa || 1 ||"
     ],
     [
       "Ril Mil Jahain Hari Kirtan Karte Tahain Main Rahun Sadaai.",
-      "Naarad Se Yah Kahaa Vishnu Ne Parhkar Dekh Puraanaa || 2 ||."
+      "Naarad Se Yah Kahaa Vishnu Ne Parhkar Dekh Puraanaa || 2 ||"
     ],
     [
       "Tulsidaas Shuk Surashyaam Ne Hari Kirtan Ko Gaayaa.",
-      "Kabir Narsi Naamdev Bhi Hari Yash Kiyaa Bakhaanaa ||.3E ||."
+      "Kabir Narsi Naamdev Bhi Hari Yash Kiyaa Bakhaanaa || 3E ||"
     ],
     [
-      "Karm Upaasan Jnyaan Kathin Hai Kahe Teun Kali Maahin.",
-      "Sugam Kirtan Hai Ik Hari Kaa Taanse Prem Barhaanaa || 4 ||."
-    ],
-    [
-      "Ham"
+      "Karm Upaasan Gyaan Kathin Hai Kahe Teun Kali Maahin.",
+      "Sugam Kirtan Hai Ik Hari Kaa Taanse Prem Barhaanaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 74 || 289 ||",
+    "सन्तों से मिल हरि गुन गाना, जांसे हो कल्याना",
     "Santon Se Mil Hari Gun Gaanaa, Jaanse Ho Kalyaanaa",
-    "सनतोन से मिल हरि गुन गाना, जानसे हो कलयाना"
+    "राग भैरवी भजन 74",
+    "Raag Bhairvi Bhajan 74"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 289,
+  "displayOrder": 74,
+  "overallOrder": 289,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 175",
+  "updatedAt": "2026-10-26"
 }

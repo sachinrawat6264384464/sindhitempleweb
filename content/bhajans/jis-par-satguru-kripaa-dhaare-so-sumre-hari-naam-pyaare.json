@@ -2,58 +2,99 @@
   "id": "bhajan-0191",
   "slug": "jis-par-satguru-kripaa-dhaare-so-sumre-hari-naam-pyaare",
   "categoryId": "raag-dhanaashri",
-  "title": "जिस पर सतगुरु कृपा धारे, सो सुमरे हरि नाम पयारे",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "जिस पर सत्गुरु कृपा धारे, सो सुमरे हरि नाम प्यारे",
   "romanTitle": "Jis Par Satguru Kripaa Dhaare, So Sumre Hari Naam Pyaare",
   "firstLine": "Jis Par Satguru Kripaa Dhaare, So Sumre Hari Naam Pyaare (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। ११ ।। १९१॥।",
+  "tek": [
+    "जिस पर सत्गुरु कृपा धारे, सो सुमरे हरि नाम प्यारे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jis Par Satguru Kripaa Dhaare, So Sumre Hari Naam Pyaare (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जिसको सत्गुरु शिक्षा दे सो, सेव करत निष्काम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jisko Satguru Shikshaa De So, Sev Karat Nishkaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जिसको सत्गुरु प्रेम पिलावे, सो भर पीवत जाम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jisko Satguru Prem Pilaave, So Bhar Pivat Jaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिसको सत्गुरु अलख लखावे, पावत सो सुख धाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jisko Satguru Alakh Lakhaave, Paavat So Sukh Dhaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिस सत्गुरु मिलिया, पूरण भये तिस काम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jis Satguru Miliyaa, Puran Bhaye Tis Kaam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिस पर सतगुरु कृपा धारे, सो सुमरे हरि नाम पयारे (टेक)."
+      "जिसको सत्गुरु शिक्षा दे सो, सेव करत निष्काम ॥१ ॥"
     ],
     [
-      "जिसको सतगुरु शिकशा दे सो, सेव करत निशकाम || 1. ||."
+      "जिसको सत्गुरु प्रेम पिलावे, सो भर पीवत जाम ॥२ ॥"
     ],
     [
-      "जिसको सतगुरु प्रेम पिलावे, सो भर पिवत जाम || 2 ||."
+      "जिसको सत्गुरु अलख लखावे, पावत सो सुख धाम ॥३ ॥"
     ],
     [
-      "जिसको सतगुरु लख लखावे, पावत सो सुख धाम || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिस सतगुरु मिलिया, पुरन भये तिस काम || 4 ||."
+      "कहे टेऊँ जिस सत्गुरु मिलिया, पूरण भये तिस काम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Jis Par Satguru Kripaa Dhaare, So Sumre Hari Naam Pyaare (Tek)."
+      "Jisko Satguru Shikshaa De So, Sev Karat Nishkaam || 1 ||"
     ],
     [
-      "Jisko Satguru Shikshaa De So, Sev Karat Nishkaam || 1. ||."
+      "Jisko Satguru Prem Pilaave, So Bhar Pivat Jaam || 2 ||"
     ],
     [
-      "Jisko Satguru Prem Pilaave, So Bhar Pivat Jaam || 2 ||."
+      "Jisko Satguru Alakh Lakhaave, Paavat So Sukh Dhaam || 3 ||"
     ],
     [
-      "Jisko Satguru Alakh Lakhaave, Paavat So Sukh Dhaam || 3 ||."
-    ],
-    [
-      "Kahe Teun Jis Satguru Miliyaa, Puran Bhaye Tis Kaam || 4 ||."
+      "Kahe Teun Jis Satguru Miliyaa, Puran Bhaye Tis Kaam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Dhanaashri Bhajan || 11 || 191 ||.",
+    "जिस पर सत्गुरु कृपा धारे, सो सुमरे हरि नाम प्यारे",
     "Jis Par Satguru Kripaa Dhaare, So Sumre Hari Naam Pyaare",
-    "जिस पर सतगुरु कृपा धारे, सो सुमरे हरि नाम पयारे"
+    "राग धनाश्री भजन 11",
+    "Raag Dhanaashri Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "dhanaashri",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
+    "bhajan"
   ],
-  "displayOrder": 191,
+  "displayOrder": 11,
+  "overallOrder": 191,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 124",
+  "updatedAt": "2026-10-26"
 }

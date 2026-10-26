@@ -1,69 +1,130 @@
 {
-  "id": "bhajan-0447",
+  "id": "bhajan-0446",
   "slug": "mere-man-shubh-karm-karo-nit-karmon-kaa-ye-jahaanaa-hai",
   "categoryId": "raag-tilang",
-  "title": "मेरे मन शुभ करम करो नित, करमोन का ये जहाना है",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मेरे मन शुभ कर्म करो नित, कर्मों का ये जहाना है",
   "romanTitle": "Mere Man Shubh Karm Karo Nit, Karmon Kaa Ye Jahaanaa Hai",
   "firstLine": "Mere Man Shubh Karm Karo Nit, Karmon Kaa Ye Jahaanaa Hai (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८३ ।। ४४७।।",
+  "tek": [
+    "मेरे मन शुभ कर्म करो नित, कर्मों का ये जहाना है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Shubh Karm Karo Nit, Karmon Kaa Ye Jahaanaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुख दुख फल है कमों केरा, बनता और बहाना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sukh Dukh Phal Hai Kamon Keraa, Bantaa Aur Bahaanaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जन्म मरण पुनि लाभ हानि का, कर्म अती प्रधाना है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Janm Maran Puni Laabh Haani Kaa, Karm Ati Pradhaanaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "किया कर्म कब मिटता नाहीं, कहते सन्त सुजाना है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kiyaa Karm Kab Mittaa Naahin, Kahte Sant Sujaanaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "भोगे बिन ये भागत नाहीं, टेरत वेद पुराना है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bhoge Bin Ye Bhaagat Naahin, Terat Ved Puraanaa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ निश्चय करिये, कर्म बहुत बलवाना है ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Nishchay Kariye, Karm Bahut Balvaanaa Hai || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "तर्द्"
+      ],
+      "romanLines": [
+        "Tard"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन शुभ करम करो नित, करमोन का ये जहाना है (टेक)."
+      "सुख दुख फल है कमों केरा, बनता और बहाना है ॥१ ॥"
     ],
     [
-      "सुख दुःख फल है कमोन केरा, बनता ौर बहाना है || 1 ||."
+      "जन्म मरण पुनि लाभ हानि का, कर्म अती प्रधाना है ॥२ ॥"
     ],
     [
-      "जनम मरन पुनि लाभ हानि का, करम ति परधाना है || 2 ||."
+      "किया कर्म कब मिटता नाहीं, कहते सन्त सुजाना है ॥३ ॥"
     ],
     [
-      "किया करम कब मितता नाहिन, कहते संत सुजाना है || 3 ||"
+      "भोगे बिन ये भागत नाहीं, टेरत वेद पुराना है ॥४ ॥"
     ],
     [
-      "भोगे बिन ये भागत नाहिन, तेरत वेद पुराना है || 4. ||."
+      "कहता टेऊँ निश्चय करिये, कर्म बहुत बलवाना है ॥५ ॥"
     ],
     [
-      "कहता तेऊँ निशचय करिये, करम बहुत बलवाना है || 5 ||."
-    ],
-    [
-      "तरद"
+      "तर्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Man Shubh Karm Karo Nit, Karmon Kaa Ye Jahaanaa Hai (Tek)."
+      "Sukh Dukh Phal Hai Kamon Keraa, Bantaa Aur Bahaanaa Hai || 1 ||"
     ],
     [
-      "Sukh Dukh Phal Hai Kamon Keraa, Bantaa Aur Bahaanaa Hai || 1 ||."
-    ],
-    [
-      "Janm Maran Puni Laabh Haani Kaa, Karm Ati Pradhaanaa Hai || 2 ||."
+      "Janm Maran Puni Laabh Haani Kaa, Karm Ati Pradhaanaa Hai || 2 ||"
     ],
     [
       "Kiyaa Karm Kab Mittaa Naahin, Kahte Sant Sujaanaa Hai || 3 ||"
     ],
     [
-      "Bhoge Bin Ye Bhaagat Naahin, Terat Ved Puraanaa Hai || 4. ||."
+      "Bhoge Bin Ye Bhaagat Naahin, Terat Ved Puraanaa Hai || 4 ||"
     ],
     [
-      "Kahtaa Teun Nishchay Kariye, Karm Bahut Balvaanaa Hai || 5 ||."
+      "Kahtaa Teun Nishchay Kariye, Karm Bahut Balvaanaa Hai || 5 ||"
     ],
     [
       "Tard"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 83 || 447 ||",
+    "मेरे मन शुभ कर्म करो नित, कर्मों का ये जहाना है",
     "Mere Man Shubh Karm Karo Nit, Karmon Kaa Ye Jahaanaa Hai",
-    "मेरे मन शुभ करम करो नित, करमोन का ये जहाना है"
+    "राग तिलंग भजन 83",
+    "Raag Tilang Bhajan 83"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 447,
+  "displayOrder": 83,
+  "overallOrder": 446,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 252",
+  "updatedAt": "2026-10-26"
 }

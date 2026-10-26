@@ -1,73 +1,133 @@
 {
-  "id": "bhajan-0807",
+  "id": "bhajan-0805",
   "slug": "jhuthaa-jhuthaa-jaano-yah-jagat-pasaaraa",
   "categoryId": "raag-pilaa",
-  "title": "झुथा झुथा जानो यह जगत पसारा",
-  "romanTitle": "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa",
-  "firstLine": "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa, Jagat Pasaaraa Yah Svapnaa Hai Saaraa Re (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "झूठा झूठा जानो यह जगत पसारा,",
+  "romanTitle": "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa,",
+  "firstLine": "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa,",
+  "heading": "।। राग पीला भजन ।। ८५ ।। ८०७।॥।",
+  "tek": [
+    "झूठा झूठा जानो यह जगत पसारा,",
+    "जगत पसारा यह स्वप्ना है सारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa,",
+    "Jagat Pasaaraa Yah Svapnaa Hai Saaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो यहं आता सो चल जाता, ठौर न कोई जग में पाता ।",
+        "सबके सिर पे बाजे काल नगारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Yahan Aataa So Chal Jaataa, Thaur Na Koi Jag Men Paataa.",
+        "Sabke Sir Pe Baaje Kaal Nagaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काल गये को जाय रहे अब, जाने वाले जाएंगे सब ।",
+        "कोई नहीं है यहं रहने हारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaal Gaye Ko Jaay Rahe Ab, Jaane Vaale Jaaenge Sab.",
+        "Koi Nahin Hai Yahan Rahne Haaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तन धन सम्पत्ति मान बड़ाई, तां पर ना कर बांवर भाई ।",
+        "साथ न चाले कछु अन्त मंजझारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tan Dhan Sampatti Maan Baraai, Taan Par Naa Kar Baanvar Bhaai.",
+        "Saath Na Chaale Kachhu Ant Manjjhaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ तज जग की आसा, सुमर हरी को स्वासों स्वासा ।",
+        "संगी सच्चा है इक सत्‌कर्तारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Taj Jag Ki Aasaa, Sumar Hari Ko Svaason Svaasaa.",
+        "Sangi Sachchaa Hai Ik Sat‌Kartaaraa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््ठद"
+      ],
+      "romanLines": [
+        "Gthad"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "झुथा झुथा जानो यह जगत पसारा,",
-      "जगत पसारा यह सवपना है सारा रे (टेक)."
+      "जो यहं आता सो चल जाता, ठौर न कोई जग में पाता ।",
+      "सबके सिर पे बाजे काल नगारा रे ॥१ ॥"
     ],
     [
-      "जो यहन ाता सो चल जाता, थौर न कोि जग मेन पाता.",
-      "सबके सिर पे बाजे काल नगारा रे || $ ||."
+      "काल गये को जाय रहे अब, जाने वाले जाएंगे सब ।",
+      "कोई नहीं है यहं रहने हारा रे ॥२ ॥"
     ],
     [
-      "काल गये को जाय रहे ब, जाने वाले जाेनगे सब.",
-      "कोि नहिन है यहन रहने हारा रे. || 2 ||."
+      "तन धन सम्पत्ति मान बड़ाई, तां पर ना कर बांवर भाई ।",
+      "साथ न चाले कछु अन्त मंजझारा रे ॥३ ॥"
     ],
     [
-      "तन धन समपतति मान बराि, तान पर ना कर बानवर भाि.",
-      "साथ न चाले कचहु नत मनजझारा रे. ||.3 ||"
+      "कहे टेऊँ तज जग की आसा, सुमर हरी को स्वासों स्वासा ।",
+      "संगी सच्चा है इक सत्‌कर्तारा रे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ तज जग कि ासा, सुमर हरि को सवासोन सवासा.",
-      "सनगि सचचा है िक सतकरतारा रे || 4 ||."
-    ],
-    [
-      "गथद"
+      "ग््ठद"
     ]
   ],
   "romanLyrics": [
     [
-      "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa,",
-      "Jagat Pasaaraa Yah Svapnaa Hai Saaraa Re (Tek)."
-    ],
-    [
-      "Jo Yahan Aataa So Chal Jaataa, Thaur N Koi Jag Men Paataa.",
-      "Sabke Sir Pe Baaje Kaal Nagaaraa Re || $ ||."
+      "Jo Yahan Aataa So Chal Jaataa, Thaur Na Koi Jag Men Paataa.",
+      "Sabke Sir Pe Baaje Kaal Nagaaraa Re || 1 ||"
     ],
     [
       "Kaal Gaye Ko Jaay Rahe Ab, Jaane Vaale Jaaenge Sab.",
-      "Koi Nahin Hai Yahan Rahne Haaraa Re. || 2 ||."
+      "Koi Nahin Hai Yahan Rahne Haaraa Re || 2 ||"
     ],
     [
       "Tan Dhan Sampatti Maan Baraai, Taan Par Naa Kar Baanvar Bhaai.",
-      "Saath N Chaale Kachhu Ant Manjjhaaraa Re. ||.3 ||"
+      "Saath Na Chaale Kachhu Ant Manjjhaaraa Re || 3 ||"
     ],
     [
       "Kahe Teun Taj Jag Ki Aasaa, Sumar Hari Ko Svaason Svaasaa.",
-      "Sangi Sachchaa Hai Ik Sat‌Kartaaraa Re || 4 ||."
+      "Sangi Sachchaa Hai Ik Sat‌Kartaaraa Re || 4 ||"
     ],
     [
       "Gthad"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 85 || 807. ||.",
-    "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa",
-    "झुथा झुथा जानो यह जगत पसारा"
+    "झूठा झूठा जानो यह जगत पसारा,",
+    "Jhuthaa Jhuthaa Jaano Yah Jagat Pasaaraa,",
+    "राग पीला भजन 84",
+    "Raag Pilaa Bhajan 84"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 807,
+  "displayOrder": 84,
+  "overallOrder": 805,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 427",
+  "updatedAt": "2026-10-26"
 }

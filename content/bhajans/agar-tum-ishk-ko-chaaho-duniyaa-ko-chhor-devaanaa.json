@@ -2,64 +2,113 @@
   "id": "bhajan-0372",
   "slug": "agar-tum-ishk-ko-chaaho-duniyaa-ko-chhor-devaanaa",
   "categoryId": "raag-tilang",
-  "title": "गर तुम िशक को चाहो, दुनिया को चहोर देवाना",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "अगर तुम इश्क को चाहो, दुनिया को छोड़ देवाना",
   "romanTitle": "Agar Tum Ishk Ko Chaaho, Duniyaa Ko Chhor Devaanaa",
-  "firstLine": "Agar Tum Ishk Ko Chaaho, Duniyaa Ko Chhor Devaanaa. Taje Tum Aas Sab Jag Ki,Jisam Kaa Tor Abhimaanaa (Tek).",
+  "firstLine": "Agar Tum Ishk Ko Chaaho, Duniyaa Ko Chhor Devaanaa.",
+  "heading": "।। राग तिलंग भजन ।। ९ ।। ३७३।।",
+  "tek": [
+    "अगर तुम इश्क को चाहो, दुनिया को छोड़ देवाना ।",
+    "तजे तुम आस सब जग की ,जिसम का तोड़ अभिमाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Agar Tum Ishk Ko Chaaho, Duniyaa Ko Chhor Devaanaa.",
+    "Taje Tum Aas Sab Jag Ki,Jisam Kaa Tor Abhimaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तर्क दुनिया तर्क उकबा, तर्क परिवार को करना ।",
+        "तर्क का तर्क कर तालब, तर्क कर नफ्स नादाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tark Duniyaa Tark Ukbaa, Tark Parivaar Ko Karnaa.",
+        "Tark Kaa Tark Kar Taalab, Tark Kar Naphs Naadaanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दुखावो दर्द का धूंआ, जलाओ जान जुज़बों से ।",
+        "दुखों का भार धर सिर पर, सुखों का छोड़ सामाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dukhaavo Dard Kaa Dhunaa, Jalaao Jaan Juzbon Se.",
+        "Dukhon Kaa Bhaar Dhar Sir Par, Sukhon Kaa Chhor Saamaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ लज्जा तोड़े, इश्क की राह पर चलना ।",
+        "बढ़ाओ कदम हो निर्भय, मरन से नाहिं घबराना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Lajjaa Tore, Ishk Ki Raah Par Chalnaa.",
+        "Barhaao Kadam Ho Nirbhay, Maran Se Naahin Ghabraanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "गठ्ह"
+      ],
+      "romanLines": [
+        "Gathh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गर तुम िशक को चाहो, दुनिया को चहोर देवाना.",
-      "तजे तुम ास सब जग किजिसम का तोर भिमाना (टेक)."
+      "तर्क दुनिया तर्क उकबा, तर्क परिवार को करना ।",
+      "तर्क का तर्क कर तालब, तर्क कर नफ्स नादाना ॥१ ॥"
     ],
     [
-      "तरक दुनिया तरक ुकबा, तरक परिवार को करना.",
-      "तरक का तरक कर तालब, तरक कर नफस नादाना || 1. ||."
+      "दुखावो दर्द का धूंआ, जलाओ जान जुज़बों से ।",
+      "दुखों का भार धर सिर पर, सुखों का छोड़ सामाना ॥२ ॥"
     ],
     [
-      "दुखावो दरद का धुना, जलाो जान जुzबोन से.",
-      "दुखोन का भार धर सिर पर, सुखोन का चहोर सामाना || 2 ||."
+      "कहे टेऊँ लज्जा तोड़े, इश्क की राह पर चलना ।",
+      "बढ़ाओ कदम हो निर्भय, मरन से नाहिं घबराना ॥३ ॥"
     ],
     [
-      "कहे तेऊँ लजजा तोरे, िशक कि राह पर चलना.",
-      "बरहाो कदम हो निरभय, मरन से नाहिन घबराना ||.3. ||."
-    ],
-    [
-      "गथह"
+      "गठ्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Agar Tum Ishk Ko Chaaho, Duniyaa Ko Chhor Devaanaa.",
-      "Taje Tum Aas Sab Jag Ki,Jisam Kaa Tor Abhimaanaa (Tek)."
-    ],
-    [
       "Tark Duniyaa Tark Ukbaa, Tark Parivaar Ko Karnaa.",
-      "Tark Kaa Tark Kar Taalab, Tark Kar Naphs Naadaanaa || 1. ||."
+      "Tark Kaa Tark Kar Taalab, Tark Kar Naphs Naadaanaa || 1 ||"
     ],
     [
       "Dukhaavo Dard Kaa Dhunaa, Jalaao Jaan Juzbon Se.",
-      "Dukhon Kaa Bhaar Dhar Sir Par, Sukhon Kaa Chhor Saamaanaa || 2 ||."
+      "Dukhon Kaa Bhaar Dhar Sir Par, Sukhon Kaa Chhor Saamaanaa || 2 ||"
     ],
     [
       "Kahe Teun Lajjaa Tore, Ishk Ki Raah Par Chalnaa.",
-      "Barhaao Kadam Ho Nirbhay, Maran Se Naahin Ghabraanaa ||.3. ||."
+      "Barhaao Kadam Ho Nirbhay, Maran Se Naahin Ghabraanaa || 3 ||"
     ],
     [
       "Gathh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 9 || 373 ||",
+    "अगर तुम इश्क को चाहो, दुनिया को छोड़ देवाना",
     "Agar Tum Ishk Ko Chaaho, Duniyaa Ko Chhor Devaanaa",
-    "गर तुम िशक को चाहो, दुनिया को चहोर देवाना"
+    "राग तिलंग भजन 9",
+    "Raag Tilang Bhajan 9"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 372,
+  "displayOrder": 9,
+  "overallOrder": 372,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 220",
+  "updatedAt": "2026-10-26"
 }

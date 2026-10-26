@@ -1,80 +1,115 @@
 {
-  "id": "bhajan-0799",
+  "id": "bhajan-0797",
   "slug": "prabhu-apni-kripaa-dhaaro-mujhko-bhav-saagar-se-taaro",
   "categoryId": "raag-pilaa",
-  "title": "प्रभु पनि कृपा धारो, मुझको भव सागर से तारो",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "प्रभू अपनी कृपा धारो, मुझको भव सागर से तारो",
   "romanTitle": "Prabhu Apni Kripaa Dhaaro, Mujhko Bhav Saagar Se Taaro",
-  "firstLine": "Prabhu Apni Kripaa Dhaaro, Mujhko Bhav Saagar Se Taaro. Main Hun Jaisaa Taisaa Teraa, Prabhu Mujhko Naahin Bisaaro (Tek).",
+  "firstLine": "Prabhu Apni Kripaa Dhaaro, Mujhko Bhav Saagar Se Taaro.",
+  "heading": "।। राग पीला भजन ॥।। ७७ ।। ७९९॥।",
+  "tek": [
+    "प्रभू अपनी कृपा धारो, मुझको भव सागर से तारो ।",
+    "मैं हूं जैसा तैसा तेरा, प्रभू मुझको नाहिं बिसारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Apni Kripaa Dhaaro, Mujhko Bhav Saagar Se Taaro.",
+    "Main Hun Jaisaa Taisaa Teraa, Prabhu Mujhko Naahin Bisaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "द्ठ्ह",
+        "सर्व द्वार को छोड़ स्वामी, शरन तुम्हारी आया ।",
+        "हाथ देहि प्रभु मोहि बचाओ, दुस्तर है यह माया ।",
+        "तुम तो अपना बिरद सम्भारो , मेरे अवगुन नाहिं निहारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dthh",
+        "Sarv Dvaar Ko Chhor Svaami, Sharan Tumhaari Aayaa.",
+        "Haath Dehi Prabhu Mohi Bachaao, Dustar Hai Yah Maayaa.",
+        "Tum To Apnaa Birad Sambhaaro, Mere Avgun Naahin Nihaaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मतलब के सब साथी जग में, सबको मैं अज़माया ।",
+        "बिन मतलब तुम दीन दयालू, सन्तों ने यह गाया ।",
+        "मेरे मन की मैल उतारो, देके सुमति कुमति को टारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Matlab Ke Sab Saathi Jag Men, Sabko Main Azmaayaa.",
+        "Bin Matlab Tum Din Dayaalu, Santon Ne Yah Gaayaa.",
+        "Mere Man Ki Mail Utaaro, Deke Sumti Kumti Ko Taaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कर्म धर्म कछु ना मैं कीया, तीर्थ व्रत न कीना ।",
+        "कहे टेऊँ मैं एक आसरा, गोविन्द तेरा लीना ।",
+        "मेरे पाप ताप परिहारो, मेरा आवागमन निवारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Karm Dharm Kachhu Naa Main Kiyaa, Tirth Vrat Na Kinaa.",
+        "Kahe Teun Main Ek Aasraa, Govind Teraa Linaa.",
+        "Mere Paap Taap Parihaaro, Meraa Aavaagman Nivaaro || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु पनि कृपा धारो, मुझको भव सागर से तारो.",
-      "मैं हुन जैसा तैसा तेरा, प्रभु मुझको नाहिन बिसारो (टेक)."
+      "द्ठ्ह",
+      "सर्व द्वार को छोड़ स्वामी, शरन तुम्हारी आया ।",
+      "हाथ देहि प्रभु मोहि बचाओ, दुस्तर है यह माया ।",
+      "तुम तो अपना बिरद सम्भारो , मेरे अवगुन नाहिं निहारो ॥१ ॥"
     ],
     [
-      "दथह",
-      "सर्व दवार को चहोर स्वामी, शरन तुमहारि ाया."
+      "मतलब के सब साथी जग में, सबको मैं अज़माया ।",
+      "बिन मतलब तुम दीन दयालू, सन्तों ने यह गाया ।",
+      "मेरे मन की मैल उतारो, देके सुमति कुमति को टारो ॥२ ॥"
     ],
     [
-      "हाथ देही प्रभु मोहि बचाो, दुसतर है यह माया.",
-      "तुम तो पना बिरद समभारो, मेरे वगुन नाहिन निहारो.. 1 ||"
-    ],
-    [
-      "मतलब के सब साथि जग मेन, सबको मैं zमाया.",
-      "बिन मतलब तुम दीन दयालु, सनतोन ने यह गाया."
-    ],
-    [
-      "मेरे मन कि मैल ुतारो, देके सुमति कुमति को तारो || 2 ||."
-    ],
-    [
-      "करम धरम कचहु ना मैं किया, तिरथ वरत न किना.",
-      "कहे तेऊँ मैं ेक ासरा, गोविंद तेरा लिना."
-    ],
-    [
-      "मेरे पाप ताप परिहारो, मेरा ावागमन निवारो || 3 ||"
+      "कर्म धर्म कछु ना मैं कीया, तीर्थ व्रत न कीना ।",
+      "कहे टेऊँ मैं एक आसरा, गोविन्द तेरा लीना ।",
+      "मेरे पाप ताप परिहारो, मेरा आवागमन निवारो ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhu Apni Kripaa Dhaaro, Mujhko Bhav Saagar Se Taaro.",
-      "Main Hun Jaisaa Taisaa Teraa, Prabhu Mujhko Naahin Bisaaro (Tek)."
-    ],
-    [
       "Dthh",
-      "Sarv Dvaar Ko Chhor Svaami, Sharan Tumhaari Aayaa."
-    ],
-    [
+      "Sarv Dvaar Ko Chhor Svaami, Sharan Tumhaari Aayaa.",
       "Haath Dehi Prabhu Mohi Bachaao, Dustar Hai Yah Maayaa.",
-      "Tum To Apnaa Birad Sambhaaro, Mere Avgun Naahin Nihaaro.. 1 ||"
+      "Tum To Apnaa Birad Sambhaaro, Mere Avgun Naahin Nihaaro || 1 ||"
     ],
     [
       "Matlab Ke Sab Saathi Jag Men, Sabko Main Azmaayaa.",
-      "Bin Matlab Tum Din Dayaalu, Santon Ne Yah Gaayaa."
+      "Bin Matlab Tum Din Dayaalu, Santon Ne Yah Gaayaa.",
+      "Mere Man Ki Mail Utaaro, Deke Sumti Kumti Ko Taaro || 2 ||"
     ],
     [
-      "Mere Man Ki Mail Utaaro, Deke Sumti Kumti Ko Taaro || 2 ||."
-    ],
-    [
-      "Karm Dharm Kachhu Naa Main Kiyaa, Tirth Vrat N Kinaa.",
-      "Kahe Teun Main Ek Aasraa, Govind Teraa Linaa."
-    ],
-    [
+      "Karm Dharm Kachhu Naa Main Kiyaa, Tirth Vrat Na Kinaa.",
+      "Kahe Teun Main Ek Aasraa, Govind Teraa Linaa.",
       "Mere Paap Taap Parihaaro, Meraa Aavaagman Nivaaro || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || || 77 || 799 ||.",
+    "प्रभू अपनी कृपा धारो, मुझको भव सागर से तारो",
     "Prabhu Apni Kripaa Dhaaro, Mujhko Bhav Saagar Se Taaro",
-    "प्रभु पनि कृपा धारो, मुझको भव सागर से तारो"
+    "राग पीला भजन 76",
+    "Raag Pilaa Bhajan 76"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 799,
+  "displayOrder": 76,
+  "overallOrder": 797,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 422",
+  "updatedAt": "2026-10-26"
 }

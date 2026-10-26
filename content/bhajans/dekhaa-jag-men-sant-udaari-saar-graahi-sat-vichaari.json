@@ -1,49 +1,96 @@
 {
-  "id": "bhajan-0524",
+  "id": "bhajan-0522",
   "slug": "dekhaa-jag-men-sant-udaari-saar-graahi-sat-vichaari",
   "categoryId": "raag-kohiyaari",
-  "title": "देखा जग मेन संत ुदारि, सार गराहि सत‌ विचारि",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "देखा जग में सन्त उदारी, सार ग्राही सत्‌ वीचारी",
   "romanTitle": "Dekhaa Jag Men Sant Udaari, Saar Graahi Sat‌ Vichaari",
   "firstLine": "Dekhaa Jag Men Sant Udaari, Saar Graahi Sat‌ Vichaari (Tek).",
+  "heading": "।। राग कोह्लारी भजन ।। ४३ ।। ५२३।।",
+  "tek": [
+    "देखा जग में सन्त उदारी, सार ग्राही सत्‌ वीचारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dekhaa Jag Men Sant Udaari, Saar Graahi Sat‌ Vichaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सच ही देवे सच ही लेवे, सच ही देखे सच ही सेवे ।",
+        "सम दम आदिक षटूगुणधारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sach Hi Deve Sach Hi Leve, Sach Hi Dekhe Sach Hi Seve.",
+        "Sam Dam Aadik Shatugundhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अपने शिर पर दूख सहारहिं, सब जीवों के कष्ट निवारहिं ।",
+        "स्वार्थ बिन से पर उपकारी ॥? ॥२ ॥",
+        "अति कृपालू कृपा करहैं, जन्म मरन दुख को वे हरहैं ।",
+        "मात पिता ते अति हितकारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Apne Shir Par Dukh Sahaarhin, Sab Jivon Ke Kasht Nivaarhin.",
+        "Svaarth Bin Se Par Upkaari || ? || 2 ||",
+        "Ati Kripaalu Kripaa Karhain, Janm Maran Dukh Ko Ve Harhain.",
+        "Maat Pitaa Te Ati Hitkaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ से ब्रह्म ज्ञानी, रहते आत्म अन्तर ध्यानी ।",
+        "जाऊँ तिन पर मैं बलिहारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Se Brahm Jnyaani, Rahte Aatm Antar Dhyaani.",
+        "Jaaun Tin Par Main Balihaari || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "त्र्ह्य"
+      ],
+      "romanLines": [
+        "Trhy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "देखा जग मेन संत ुदारि, सार गराहि सत‌ विचारि (टेक)."
+      "सच ही देवे सच ही लेवे, सच ही देखे सच ही सेवे ।",
+      "सम दम आदिक षटूगुणधारी ॥१ ॥"
     ],
     [
-      "सच हि देवे सच हि लेवे, सच हि देखे सच हि सेवे.",
-      "सम दम ादिक शतुगुनधारि || 1 ||"
+      "अपने शिर पर दूख सहारहिं, सब जीवों के कष्ट निवारहिं ।",
+      "स्वार्थ बिन से पर उपकारी ॥? ॥२ ॥",
+      "अति कृपालू कृपा करहैं, जन्म मरन दुख को वे हरहैं ।",
+      "मात पिता ते अति हितकारी ॥३ ॥"
     ],
     [
-      "पने शिर पर दुःख सहारहिन, सब जिवोन के कशत निवारहिन.",
-      "सवारथ बिन से पर ुपकारि ||?2 ||"
+      "कहे टेऊँ से ब्रह्म ज्ञानी, रहते आत्म अन्तर ध्यानी ।",
+      "जाऊँ तिन पर मैं बलिहारी ॥४ ॥"
     ],
     [
-      "ति करिपालु कृपा करहैन, जनम मरन दुःख को वे हरहैन.",
-      "मात पिता ते ति हितकारि || 3"
-    ],
-    [
-      "कहे तेऊँ से बरहम जनयानि, रहते ातम नतर धयानि.",
-      "जाुन तिन पर मैं बलिहारि || 4 ||"
-    ],
-    [
-      "तरहय"
+      "त्र्ह्य"
     ]
   ],
   "romanLyrics": [
-    [
-      "Dekhaa Jag Men Sant Udaari, Saar Graahi Sat‌ Vichaari (Tek)."
-    ],
     [
       "Sach Hi Deve Sach Hi Leve, Sach Hi Dekhe Sach Hi Seve.",
       "Sam Dam Aadik Shatugundhaari || 1 ||"
     ],
     [
       "Apne Shir Par Dukh Sahaarhin, Sab Jivon Ke Kasht Nivaarhin.",
-      "Svaarth Bin Se Par Upkaari ||?2 ||"
-    ],
-    [
+      "Svaarth Bin Se Par Upkaari || ? || 2 ||",
       "Ati Kripaalu Kripaa Karhain, Janm Maran Dukh Ko Ve Harhain.",
-      "Maat Pitaa Te Ati Hitkaari || 3"
+      "Maat Pitaa Te Ati Hitkaari || 3 ||"
     ],
     [
       "Kahe Teun Se Brahm Jnyaani, Rahte Aatm Antar Dhyaani.",
@@ -54,18 +101,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohlaari Bhajan || 43 || 523 ||",
+    "देखा जग में सन्त उदारी, सार ग्राही सत्‌ वीचारी",
     "Dekhaa Jag Men Sant Udaari, Saar Graahi Sat‌ Vichaari",
-    "देखा जग मेन संत ुदारि, सार गराहि सत‌ विचारि"
+    "राग कोहियारी भजन 43",
+    "Raag Kohiyaari Bhajan 43"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 524,
+  "displayOrder": 43,
+  "overallOrder": 522,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 288",
+  "updatedAt": "2026-10-26"
 }

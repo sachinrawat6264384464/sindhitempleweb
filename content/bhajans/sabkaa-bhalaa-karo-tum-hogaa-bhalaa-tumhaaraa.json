@@ -1,67 +1,107 @@
 {
-  "id": "bhajan-0817",
+  "id": "bhajan-0815",
   "slug": "sabkaa-bhalaa-karo-tum-hogaa-bhalaa-tumhaaraa",
   "categoryId": "raag-maanjh",
-  "title": "सबका भला करो तुम, होगा भला तुमहारा",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "सबका भला करो तुम, होगा भला तुम्हारा",
   "romanTitle": "Sabkaa Bhalaa Karo Tum, Hogaa Bhalaa Tumhaaraa",
-  "firstLine": "Sabkaa Bhalaa Karo Tum, Hogaa Bhalaa Tumhaaraa. Tere Uddhaar Kaa Hai, Saadhan Yahi Udaaraa (Tek).",
+  "firstLine": "Sabkaa Bhalaa Karo Tum, Hogaa Bhalaa Tumhaaraa.",
+  "heading": "।। राग मांझ भजन ।। ४ ।। ८१७।।",
+  "tek": [
+    "सबका भला करो तुम, होगा भला तुम्हारा ।",
+    "तेरे उद्धार का है, साधन यही उदारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sabkaa Bhalaa Karo Tum, Hogaa Bhalaa Tumhaaraa.",
+    "Tere Uddhaar Kaa Hai, Saadhan Yahi Udaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "लाखों उपाय करके, तेरा बुरा करे को ।",
+        "तो भी करो सदा तुम, तिसका भला प्यारा ॥१ ॥",
+        "करना भला भले से, करना बुरा बुरे से ।",
+        "यह है मता जगत का, आगम निगम उच्चारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Laakhon Upaay Karke, Teraa Buraa Kare Ko.",
+        "To Bhi Karo Sadaa Tum, Tiskaa Bhalaa Pyaaraa || 1 ||",
+        "Karnaa Bhalaa Bhale Se, Karnaa Buraa Bure Se.",
+        "Yah Hai Mataa Jagat Kaa, Aagam Nigam Uchchaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "माने न कोय माने, शशि सूर्य को जगत में ।",
+        "तो भी सदा सर्व पर, इक रस करे उजारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maane Na Koy Maane, Shashi Sury Ko Jagat Men.",
+        "To Bhi Sadaa Sarv Par, Ik Ras Kare Ujaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सब कर्म में उत्तम है, करना भला सर्व का ।",
+        "कहे टेऊँ मनुष चोला, उपकार बिन असारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sab Karm Men Uttam Hai, Karnaa Bhalaa Sarv Kaa.",
+        "Kahe Teun Manush Cholaa, Upkaar Bin Asaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सबका भला करो तुम, होगा भला तुमहारा.",
-      "तेरे ुदधार का है, साधन यहि ुदारा (टेक)."
+      "लाखों उपाय करके, तेरा बुरा करे को ।",
+      "तो भी करो सदा तुम, तिसका भला प्यारा ॥१ ॥",
+      "करना भला भले से, करना बुरा बुरे से ।",
+      "यह है मता जगत का, आगम निगम उच्चारा ॥२ ॥"
     ],
     [
-      "लाखोन ुपाय करके, तेरा बुरा करे को.",
-      "तो भि करो सदा तुम, तिसका भला पयारा 1"
+      "माने न कोय माने, शशि सूर्य को जगत में ।",
+      "तो भी सदा सर्व पर, इक रस करे उजारा ॥३ ॥"
     ],
     [
-      "करना भला भले से, करना बुरा बुरे से.",
-      "यह है मता जगत का, ागम निगम ुचचारा || 2 ||"
-    ],
-    [
-      "माने न कोय माने, शशि सुरय को जगत मेन.",
-      "तो भि सदा सर्व पर, िक रस करे ुजारा || 3 ||"
-    ],
-    [
-      "सब करम मेन ुततम है, करना भला सर्व का.",
-      "कहे तेऊँ मनुश चोला, ुपकार बिन सारा || 4 ||."
+      "सब कर्म में उत्तम है, करना भला सर्व का ।",
+      "कहे टेऊँ मनुष चोला, उपकार बिन असारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sabkaa Bhalaa Karo Tum, Hogaa Bhalaa Tumhaaraa.",
-      "Tere Uddhaar Kaa Hai, Saadhan Yahi Udaaraa (Tek)."
-    ],
-    [
       "Laakhon Upaay Karke, Teraa Buraa Kare Ko.",
-      "To Bhi Karo Sadaa Tum, Tiskaa Bhalaa Pyaaraa 1"
-    ],
-    [
+      "To Bhi Karo Sadaa Tum, Tiskaa Bhalaa Pyaaraa || 1 ||",
       "Karnaa Bhalaa Bhale Se, Karnaa Buraa Bure Se.",
       "Yah Hai Mataa Jagat Kaa, Aagam Nigam Uchchaaraa || 2 ||"
     ],
     [
-      "Maane N Koy Maane, Shashi Sury Ko Jagat Men.",
+      "Maane Na Koy Maane, Shashi Sury Ko Jagat Men.",
       "To Bhi Sadaa Sarv Par, Ik Ras Kare Ujaaraa || 3 ||"
     ],
     [
       "Sab Karm Men Uttam Hai, Karnaa Bhalaa Sarv Kaa.",
-      "Kahe Teun Manush Cholaa, Upkaar Bin Asaaraa || 4 ||."
+      "Kahe Teun Manush Cholaa, Upkaar Bin Asaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Maanjh Bhajan || 4 || 817 ||",
+    "सबका भला करो तुम, होगा भला तुम्हारा",
     "Sabkaa Bhalaa Karo Tum, Hogaa Bhalaa Tumhaaraa",
-    "सबका भला करो तुम, होगा भला तुमहारा"
+    "राग मांझ भजन 4",
+    "Raag Maanjh Bhajan 4"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "maanjh"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
   ],
-  "displayOrder": 817,
+  "displayOrder": 4,
+  "overallOrder": 815,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 433",
+  "updatedAt": "2026-10-26"
 }

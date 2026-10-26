@@ -1,72 +1,120 @@
 {
-  "id": "bhajan-0453",
+  "id": "bhajan-0452",
   "slug": "satguru-daataa-din-dayaalu-abhay-daan-mujh-dije-ji",
   "categoryId": "raag-tilang",
-  "title": "सतगुरु दाता दीन दयालु, भय दान मुझ दिजे जी",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सत्‌गुरु दाता दीन दयालू, अभय दान मुझ दीजे जी",
   "romanTitle": "Sat‌Guru Daataa Din Dayaalu, Abhay Daan Mujh Dije Ji",
   "firstLine": "Sat‌Guru Daataa Din Dayaalu, Abhay Daan Mujh Dije Ji (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ८९ ।। ४५३।।",
+  "tek": [
+    "सत्‌गुरु दाता दीन दयालू, अभय दान मुझ दीजे जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Daataa Din Dayaalu, Abhay Daan Mujh Dije Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "करुणा सागर करुणा करके, भेद श्रान्ती भयता हरके ।",
+        "निर्भय हमको कीजे जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Karunaa Saagar Karunaa Karke, Bhed Shraanti Bhaytaa Harke.",
+        "Nirbhay Hamko Kije Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आया हूँ मैं शरण तुम्हारी, मोह ममत की काटो जारी ।",
+        "जन्म मरण दुख छीजे जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aayaa Hun Main Sharan Tumhaari, Moh Mamat Ki Kaato Jaari.",
+        "Janm Maran Dukh Chhije Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "चरण कमल की सेवा करहूं, ध्यान तुम्हारा हरदम धरहं ।",
+        "भाव भक्ति मन भीजे जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Charan Kamal Ki Sevaa Karhun, Dhyaan Tumhaaraa Hardam Dharhan.",
+        "Bhaav Bhakti Man Bhije Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तर्दठ",
+        "कहे टेऊँ मैं दासनि दासा, सत्‌गुरु मेरी सुन अर्दासा ।",
+        "अपना कर मोहि लीजे जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tardath",
+        "Kahe Teun Main Daasni Daasaa, Sat‌Guru Meri Sun Ardaasaa.",
+        "Apnaa Kar Mohi Lije Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु दाता दीन दयालु, भय दान मुझ दिजे जी (टेक)."
+      "करुणा सागर करुणा करके, भेद श्रान्ती भयता हरके ।",
+      "निर्भय हमको कीजे जी ॥१ ॥"
     ],
     [
-      "करुना सागर करुना करके, भेद शरानति भयता हरके.",
-      "निरभय हमको किजे जी || 1 ||."
+      "आया हूँ मैं शरण तुम्हारी, मोह ममत की काटो जारी ।",
+      "जन्म मरण दुख छीजे जी ॥२ ॥"
     ],
     [
-      "ाया हुन मैं शरन तुमहारि, मोह ममत कि कातो जारि.",
-      "जनम मरन दुःख चहिजे जी || 2 ||."
+      "चरण कमल की सेवा करहूं, ध्यान तुम्हारा हरदम धरहं ।",
+      "भाव भक्ति मन भीजे जी ॥३ ॥"
     ],
     [
-      "चरण कमल कि सेवा करहुन, ध्यान तुमहारा हरदम धरहन.",
-      "भाव भक्ति मन भिजे जी || 3 ||."
-    ],
-    [
-      "तरदथ",
-      "कहे तेऊँ मैं दासनि दासा, सतगुरु मेरि सुन रदासा."
-    ],
-    [
-      "पना कर मोहि लिजे जी ||.4. ||."
+      "तर्दठ",
+      "कहे टेऊँ मैं दासनि दासा, सत्‌गुरु मेरी सुन अर्दासा ।",
+      "अपना कर मोहि लीजे जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Daataa Din Dayaalu, Abhay Daan Mujh Dije Ji (Tek)."
-    ],
-    [
       "Karunaa Saagar Karunaa Karke, Bhed Shraanti Bhaytaa Harke.",
-      "Nirbhay Hamko Kije Ji || 1 ||."
+      "Nirbhay Hamko Kije Ji || 1 ||"
     ],
     [
       "Aayaa Hun Main Sharan Tumhaari, Moh Mamat Ki Kaato Jaari.",
-      "Janm Maran Dukh Chhije Ji || 2 ||."
+      "Janm Maran Dukh Chhije Ji || 2 ||"
     ],
     [
       "Charan Kamal Ki Sevaa Karhun, Dhyaan Tumhaaraa Hardam Dharhan.",
-      "Bhaav Bhakti Man Bhije Ji || 3 ||."
+      "Bhaav Bhakti Man Bhije Ji || 3 ||"
     ],
     [
       "Tardath",
-      "Kahe Teun Main Daasni Daasaa, Sat‌Guru Meri Sun Ardaasaa."
-    ],
-    [
-      "Apnaa Kar Mohi Lije Ji ||.4. ||."
+      "Kahe Teun Main Daasni Daasaa, Sat‌Guru Meri Sun Ardaasaa.",
+      "Apnaa Kar Mohi Lije Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 89 || 453 ||",
+    "सत्‌गुरु दाता दीन दयालू, अभय दान मुझ दीजे जी",
     "Sat‌Guru Daataa Din Dayaalu, Abhay Daan Mujh Dije Ji",
-    "सतगुरु दाता दीन दयालु, भय दान मुझ दिजे जी"
+    "राग तिलंग भजन 89",
+    "Raag Tilang Bhajan 89"
   ],
   "tags": [
-    "tilang",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 453,
+  "displayOrder": 89,
+  "overallOrder": 452,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 254",
+  "updatedAt": "2026-10-26"
 }

@@ -1,35 +1,84 @@
 {
-  "id": "bhajan-0750",
+  "id": "bhajan-0748",
   "slug": "aaj-mere-ghar-sant-padhaare-mangal-gaaun-main",
   "categoryId": "raag-pilaa",
-  "title": "ाज मेरे घर संत पधारे, मनगल गाुन मैं",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "आज मेरे घर सन्त पधारे, मंगल गाऊँ मैं",
   "romanTitle": "Aaj Mere Ghar Sant Padhaare, Mangal Gaaun Main",
   "firstLine": "Aaj Mere Ghar Sant Padhaare, Mangal Gaaun Main (Tek).",
+  "heading": "।। राग पीला भजन ।। २८ ।। ७५०॥।",
+  "tek": [
+    "आज मेरे घर सन्त पधारे, मंगल गाऊँ मैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aaj Mere Ghar Sant Padhaare, Mangal Gaaun Main (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "फूलों से मैं सेज सजाये, तां पर सन्तों को बैठाये ।",
+        "मोती माला गल में पाये, सीस निवाऊँ मैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Phulon Se Main Sej Sajaaye, Taan Par Santon Ko Baithaaye.",
+        "Moti Maalaa Gal Men Paaye, Sis Nivaaun Main || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सनतों की मैं करके सेवा, पाऊँ चार पदार्थ मेवा ।",
+        "देखूं अन्तर आतम देवा, ध्यान लगाऊँ मैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santon Ki Main Karke Sevaa, Paaun Chaar Padaarth Mevaa.",
+        "Dekhun Antar Aatam Devaa, Dhyaan Lagaaun Main || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाना विधि प्रसाद बनाये, भाव भक्ति से ताहिं खिलाये ।",
+        "पान सुपारी भेंट चढ़ाये, चंबर झुलाऊँ मैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naanaa Vidhi Prasaad Banaaye, Bhaav Bhakti Se Taahin Khilaaye.",
+        "Paan Supaari Bhent Charhaaye, Chambar Jhulaaun Main || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कर जोड़ पुकारे, आज भया धन भाग हमारे ।",
+        "सन्तों ने सब काज संवारे, सदके जाऊँ मैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Pukaare, Aaj Bhayaa Dhan Bhaag Hamaare.",
+        "Santon Ne Sab Kaaj Sanvaare, Sadke Jaaun Main || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ाज मेरे घर संत पधारे, मनगल गाुन मैं (टेक)."
+      "फूलों से मैं सेज सजाये, तां पर सन्तों को बैठाये ।",
+      "मोती माला गल में पाये, सीस निवाऊँ मैं ॥१ ॥"
     ],
     [
-      "फुलोन से मैं सेज सजाये, तान पर सनतोन को बैथाये.",
-      "मोति माला गल मेन पाये, सिस निवाुन मैं || 1 ||"
+      "सनतों की मैं करके सेवा, पाऊँ चार पदार्थ मेवा ।",
+      "देखूं अन्तर आतम देवा, ध्यान लगाऊँ मैं ॥२ ॥"
     ],
     [
-      "सनतोन कि मैं करके सेवा, पाुन चार पदारथ मेवा.",
-      "देखुन नतर ातम देवा, ध्यान लगाुन मैं || 2 ||"
+      "नाना विधि प्रसाद बनाये, भाव भक्ति से ताहिं खिलाये ।",
+      "पान सुपारी भेंट चढ़ाये, चंबर झुलाऊँ मैं ॥३ ॥"
     ],
     [
-      "नाना विधि परसाद बनाये, भाव भक्ति से ताहिन खिलाये.",
-      "पान सुपारि भेनत चरहाये, चमबर झुलाुन मैं || 3 ||"
-    ],
-    [
-      "कहे तेऊँ कर जोर पुकारे, ाज भया धन भाग हमारे.",
-      "सनतोन ने सब काज सनवारे, सदके जाुन मैं || 4 ||"
+      "कहे टेऊँ कर जोड़ पुकारे, आज भया धन भाग हमारे ।",
+      "सन्तों ने सब काज संवारे, सदके जाऊँ मैं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Aaj Mere Ghar Sant Padhaare, Mangal Gaaun Main (Tek)."
-    ],
     [
       "Phulon Se Main Sej Sajaaye, Taan Par Santon Ko Baithaaye.",
       "Moti Maalaa Gal Men Paaye, Sis Nivaaun Main || 1 ||"
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 28 || 750 ||.",
+    "आज मेरे घर सन्त पधारे, मंगल गाऊँ मैं",
     "Aaj Mere Ghar Sant Padhaare, Mangal Gaaun Main",
-    "ाज मेरे घर संत पधारे, मनगल गाुन मैं"
+    "राग पीला भजन 27",
+    "Raag Pilaa Bhajan 27"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 750,
+  "displayOrder": 27,
+  "overallOrder": 748,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 397",
+  "updatedAt": "2026-10-26"
 }

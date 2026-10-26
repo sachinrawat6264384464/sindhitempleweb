@@ -1,74 +1,118 @@
 {
-  "id": "bhajan-0468",
+  "id": "bhajan-0467",
   "slug": "prabhuji-kar-kripaa-jan-jaani",
   "categoryId": "raag-huseni",
-  "title": "परभुजि कर कृपा जन जानि",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "प्रभुजी कर कृपा जन जानी",
   "romanTitle": "Prabhuji Kar Kripaa Jan Jaani",
-  "firstLine": "Prabhuji Kar Kripaa Jan Jaani. Sab Gun Sampann Tum Ho Svaami Main Hun Avgun Khaani (Tek).",
+  "firstLine": "Prabhuji Kar Kripaa Jan Jaani.",
+  "heading": "।। राग हुसेनी भजन ।। ६ ।। ४६८।॥।",
+  "tek": [
+    "प्रभुजी कर कृपा जन जानी ।",
+    "सब गुण सम्पन्न तुम हो स्वामी मैं हूं अवगुण खानी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhuji Kar Kripaa Jan Jaani.",
+    "Sab Gun Sampann Tum Ho Svaami Main Hun Avgun Khaani (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रबल है प्रभू तेरी माया मोहे मुनिवर ज्ञानी ।",
+        "मैं निर्बल किस लेखे माहीं अति हूं मूण्ड अज्ञानी ॥१ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prabal Hai Prabhu Teri Maayaa Mohe Munivar Jnyaani.",
+        "Main Nirbal Kis Lekhe Maahin Ati Hun Mund Ajnyaani || 1 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "केते तुमने दास उबारे कामी क्रोधी मानी ।",
+        "अवगुण उनका एक न देखा दीना पद निर्बानी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kete Tumne Daas Ubaare Kaami Krodhi Maani.",
+        "Avgun Unkaa Ek Na Dekhaa Dinaa Pad Nirbaani || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "आदि जुगादी तेरी चाली वेदनि यही बखानी ।",
+        "अपने जन को कबहुं न छोड़त दीनबन्धु सुखदानी ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Aadi Jugaadi Teri Chaali Vedni Yahi Bakhaani.",
+        "Apne Jan Ko Kabhun Na Chhorat Dinbandhu Sukhdaani || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मैं भीखारी यह वर मांगूं दाता दया निधानी ।",
+        "कहे टेऊँ हरि मुझको दीजे परा भक्ति प्रधानी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Main Bhikhaari Yah Var Maangun Daataa Dayaa Nidhaani.",
+        "Kahe Teun Hari Mujhko Dije Paraa Bhakti Pradhaani || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "परभुजि कर कृपा जन जानि.",
-      "सब गुन समपनन तुम हो स्वामी मैं हुन वगुन खानि (टेक)."
+      "प्रबल है प्रभू तेरी माया मोहे मुनिवर ज्ञानी ।",
+      "मैं निर्बल किस लेखे माहीं अति हूं मूण्ड अज्ञानी ॥१ ॥१ ॥"
     ],
     [
-      "परबल है प्रभु तेरि माया मोहे मुनिवर जनयानि.",
-      "मैं निरबल किस लेखे माहिन ति हुन मुनद जनयानि || 1$ ||."
+      "केते तुमने दास उबारे कामी क्रोधी मानी ।",
+      "अवगुण उनका एक न देखा दीना पद निर्बानी ॥२ ॥"
     ],
     [
-      "केते तुमने दास ुबारे कामि करोधि मानि.",
-      "वगुन ुनका ेक न देखा दिना पद निरबानि || 2 ||."
+      "आदि जुगादी तेरी चाली वेदनि यही बखानी ।",
+      "अपने जन को कबहुं न छोड़त दीनबन्धु सुखदानी ॥ ३े ॥"
     ],
     [
-      "ादि जुगादि तेरि चालि वेदनि यहि बखानि.",
-      "पने जन को कभुन न चहोरत दिनबनधु सुखदानि || 3े ||"
-    ],
-    [
-      "मैं भिखारि यह वर मानगुन दाता दया निधानि.",
-      "कहे तेऊँ हरि मुझको दिजे परा भक्ति परधानि || 4 ||."
-    ],
-    [
-      "तह"
+      "मैं भीखारी यह वर मांगूं दाता दया निधानी ।",
+      "कहे टेऊँ हरि मुझको दीजे परा भक्ति प्रधानी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Prabhuji Kar Kripaa Jan Jaani.",
-      "Sab Gun Sampann Tum Ho Svaami Main Hun Avgun Khaani (Tek)."
-    ],
-    [
       "Prabal Hai Prabhu Teri Maayaa Mohe Munivar Jnyaani.",
-      "Main Nirbal Kis Lekhe Maahin Ati Hun Mund Ajnyaani || 1$ ||."
+      "Main Nirbal Kis Lekhe Maahin Ati Hun Mund Ajnyaani || 1 || 1 ||"
     ],
     [
       "Kete Tumne Daas Ubaare Kaami Krodhi Maani.",
-      "Avgun Unkaa Ek N Dekhaa Dinaa Pad Nirbaani || 2 ||."
+      "Avgun Unkaa Ek Na Dekhaa Dinaa Pad Nirbaani || 2 ||"
     ],
     [
       "Aadi Jugaadi Teri Chaali Vedni Yahi Bakhaani.",
-      "Apne Jan Ko Kabhun N Chhorat Dinbandhu Sukhdaani || 3E ||"
+      "Apne Jan Ko Kabhun Na Chhorat Dinbandhu Sukhdaani || 3E ||"
     ],
     [
       "Main Bhikhaari Yah Var Maangun Daataa Dayaa Nidhaani.",
-      "Kahe Teun Hari Mujhko Dije Paraa Bhakti Pradhaani || 4 ||."
-    ],
-    [
-      "Tah"
+      "Kahe Teun Hari Mujhko Dije Paraa Bhakti Pradhaani || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Huseni Bhajan || 6 || 468. ||.",
+    "प्रभुजी कर कृपा जन जानी",
     "Prabhuji Kar Kripaa Jan Jaani",
-    "परभुजि कर कृपा जन जानि"
+    "राग हुसैनी भजन 6",
+    "Raag Huseni Bhajan 6"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 468,
+  "displayOrder": 6,
+  "overallOrder": 467,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 262",
+  "updatedAt": "2026-10-26"
 }

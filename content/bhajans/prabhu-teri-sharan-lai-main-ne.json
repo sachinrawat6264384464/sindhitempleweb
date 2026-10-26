@@ -1,42 +1,91 @@
 {
   "id": "bhajan-0312",
   "slug": "prabhu-teri-sharan-lai-main-ne",
-  "categoryId": "raag-bhairav",
-  "title": "प्रभु तेरि शरन लै मैं ने",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "प्रभू तेरी शरण लई मैं ने",
   "romanTitle": "Prabhu Teri Sharan Lai Main Ne",
   "firstLine": "Prabhu Teri Sharan Lai Main Ne (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ९७ ।। ३१२।।",
+  "tek": [
+    "प्रभू तेरी शरण लई मैं ने ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Prabhu Teri Sharan Lai Main Ne (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शरण पालक है नाम तुम्हारा, मुझ निर्बल का तुम आधारा ।",
+        "तेरी इक ओट गही मैं ने ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sharan Paalak Hai Naam Tumhaaraa, Mujh Nirbal Kaa Tum Aadhaaraa.",
+        "Teri Ik Ot Gahi Main Ne || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम ही मात पिता बन्धु श्राता, तुम ही सजन सखा सुख दाता ।",
+        "डोरी तुम हाथ दई मैं ने ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Hi Maat Pitaa Bandhu Shraataa, Tum Hi Sajan Sakhaa Sukh Daataa.",
+        "Dori Tum Haath Dai Main Ne || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जहं तुम भेजो तहं मैं जाऊँ, हरदम तेरे ही गुन गाऊँ ।",
+        "करी अभिलाष यही मैं ने ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Jahan Tum Bhejo Tahan Main Jaaun, Hardam Tere Hi Gun Gaaun.",
+        "Kari Abhilaash Yahi Main Ne || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुन दीन दयालू, मोहि मिलाओ सन्त कृपालू ।",
+        "यह निज आस कही मैं ने ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sun Din Dayaalu, Mohi Milaao Sant Kripaalu.",
+        "Yah Nij Aas Kahi Main Ne || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "प्रभु तेरि शरन लै मैं ने (टेक)."
+      "शरण पालक है नाम तुम्हारा, मुझ निर्बल का तुम आधारा ।",
+      "तेरी इक ओट गही मैं ने ॥१ ॥"
     ],
     [
-      "शरन पालक है नाम तुमहारा, मुझ निरबल का तुम ाधारा.",
-      "तेरि िक ोत गहि मैं ने || 1 ||"
+      "तुम ही मात पिता बन्धु श्राता, तुम ही सजन सखा सुख दाता ।",
+      "डोरी तुम हाथ दई मैं ने ॥२ ॥"
     ],
     [
-      "तुम हि मात पिता बनधु शराता, तुम हि सजन सखा सुख दाता.",
-      "दोरि तुम हाथ दै मैं ने || 2 ||."
+      "जहं तुम भेजो तहं मैं जाऊँ, हरदम तेरे ही गुन गाऊँ ।",
+      "करी अभिलाष यही मैं ने ॥ ३े ॥"
     ],
     [
-      "जहन तुम भेजो तहन मैं जाुन, हरदम तेरे हि गुन गाुन.",
-      "करि भिलाश यहि मैं ने || 3े ||"
-    ],
-    [
-      "कहे तेऊँ सुन दीन दयालु, मोहि मिलाो संत करिपालु.",
-      "यह निज ास कहि मैं ने || 4 ||."
+      "कहे टेऊँ सुन दीन दयालू, मोहि मिलाओ सन्त कृपालू ।",
+      "यह निज आस कही मैं ने ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Prabhu Teri Sharan Lai Main Ne (Tek)."
-    ],
     [
       "Sharan Paalak Hai Naam Tumhaaraa, Mujh Nirbal Kaa Tum Aadhaaraa.",
       "Teri Ik Ot Gahi Main Ne || 1 ||"
     ],
     [
       "Tum Hi Maat Pitaa Bandhu Shraataa, Tum Hi Sajan Sakhaa Sukh Daataa.",
-      "Dori Tum Haath Dai Main Ne || 2 ||."
+      "Dori Tum Haath Dai Main Ne || 2 ||"
     ],
     [
       "Jahan Tum Bhejo Tahan Main Jaaun, Hardam Tere Hi Gun Gaaun.",
@@ -44,23 +93,24 @@
     ],
     [
       "Kahe Teun Sun Din Dayaalu, Mohi Milaao Sant Kripaalu.",
-      "Yah Nij Aas Kahi Main Ne || 4 ||."
+      "Yah Nij Aas Kahi Main Ne || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 97 || 312 ||",
+    "प्रभू तेरी शरण लई मैं ने",
     "Prabhu Teri Sharan Lai Main Ne",
-    "प्रभु तेरि शरन लै मैं ने"
+    "राग भैरवी भजन 97",
+    "Raag Bhairvi Bhajan 97"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 312,
+  "displayOrder": 97,
+  "overallOrder": 312,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 188",
+  "updatedAt": "2026-10-26"
 }

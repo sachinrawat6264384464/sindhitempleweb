@@ -2,74 +2,108 @@
   "id": "bhajan-0075",
   "slug": "munth-manush-deh-ko-to-vrithaa-rolandaa",
   "categoryId": "raag-aasaa",
-  "title": "मुनथ मनुश देह को तो वरिथा रोलनदा",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "मूण्ठ मनुष देह को तो वृथा रोलन्दा",
   "romanTitle": "Munth Manush Deh Ko To Vrithaa Rolandaa",
   "firstLine": "Munth Manush Deh Ko To Vrithaa Rolandaa (Tek).",
+  "heading": "।। राग आसा भजन ।। १३ ।। ७५।।",
+  "tek": [
+    "मूण्ठ मनुष देह को तो वृथा रोलन्दा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Munth Manush Deh Ko To Vrithaa Rolandaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "साध संग माहिं कभी नाहिं आवंदा,",
+        "मूण्ठनि के संग दिन रैन धावंदा ।",
+        "मुख से न कभी राम नाम बोलंदा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sang Maahin Kabhi Naahin Aavandaa,",
+        "Munthani Ke Sang Din Rain Dhaavandaa.",
+        "Mukh Se Na Kabhi Raam Naam Bolandaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पाप की कमाई कर पेट पालंदा,",
+        "धर्म की न राह माहिं नेक चालंदा ।",
+        "आठों याम औरों के ही ऐब खोलंदा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Paap Ki Kamaai Kar Pet Paalandaa,",
+        "Dharm Ki Na Raah Maahin Nek Chaalandaa.",
+        "Aathon Yaam Auron Ke Hi Aib Kholandaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "काम क्रोध लोभ मोह माहिं घारंदा,",
+        "शील शौच ज्ञान ध्यान नाहिं धारंदा ।",
+        "कहे टेऊँ साच झूठ नाहिं तोलंदा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh Lobh Moh Maahin Ghaarandaa,",
+        "Shil Shauch Gyaan Dhyaan Naahin Dhaarandaa.",
+        "Kahe Teun Saach Jhuth Naahin Tolandaa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मुनथ मनुश देह को तो वरिथा रोलनदा (टेक)."
+      "साध संग माहिं कभी नाहिं आवंदा,",
+      "मूण्ठनि के संग दिन रैन धावंदा ।",
+      "मुख से न कभी राम नाम बोलंदा ॥१ ॥"
     ],
     [
-      "साध सनग माहिन कभि नाहिन ावनदा,",
-      "मुनथनि के सनग दीन रैन धावनदा."
+      "पाप की कमाई कर पेट पालंदा,",
+      "धर्म की न राह माहिं नेक चालंदा ।",
+      "आठों याम औरों के ही ऐब खोलंदा ॥२ ॥"
     ],
     [
-      "मुख से न कभि राम नाम बोलनदा || 1. ||."
-    ],
-    [
-      "पाप कि कमाि कर पेत पालनदा,",
-      "धरम कि न राह माहिन नेक चालनदा."
-    ],
-    [
-      "ाथोन याम ौरोन के हि ैब खोलनदा || 2 ||"
-    ],
-    [
-      "काम करोध लोभ मोह माहिन घारनदा,",
-      "शिल शौच ज्ञान ध्यान नाहिन धारनदा."
-    ],
-    [
-      "कहे तेऊँ साच झुथ नाहिन तोलनदा ||.3 ||."
+      "काम क्रोध लोभ मोह माहिं घारंदा,",
+      "शील शौच ज्ञान ध्यान नाहिं धारंदा ।",
+      "कहे टेऊँ साच झूठ नाहिं तोलंदा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Munth Manush Deh Ko To Vrithaa Rolandaa (Tek)."
-    ],
-    [
       "Saadh Sang Maahin Kabhi Naahin Aavandaa,",
-      "Munthani Ke Sang Din Rain Dhaavandaa."
-    ],
-    [
-      "Mukh Se N Kabhi Raam Naam Bolandaa || 1. ||."
+      "Munthani Ke Sang Din Rain Dhaavandaa.",
+      "Mukh Se Na Kabhi Raam Naam Bolandaa || 1 ||"
     ],
     [
       "Paap Ki Kamaai Kar Pet Paalandaa,",
-      "Dharm Ki N Raah Maahin Nek Chaalandaa."
-    ],
-    [
+      "Dharm Ki Na Raah Maahin Nek Chaalandaa.",
       "Aathon Yaam Auron Ke Hi Aib Kholandaa || 2 ||"
     ],
     [
       "Kaam Krodh Lobh Moh Maahin Ghaarandaa,",
-      "Shil Shauch Jnyaan Dhyaan Naahin Dhaarandaa."
-    ],
-    [
-      "Kahe Teun Saach Jhuth Naahin Tolandaa ||.3 ||."
+      "Shil Shauch Gyaan Dhyaan Naahin Dhaarandaa.",
+      "Kahe Teun Saach Jhuth Naahin Tolandaa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 13 || 75 ||",
+    "मूण्ठ मनुष देह को तो वृथा रोलन्दा",
     "Munth Manush Deh Ko To Vrithaa Rolandaa",
-    "मुनथ मनुश देह को तो वरिथा रोलनदा"
+    "राग आसा भजन 13",
+    "Raag Aasaa Bhajan 13"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 75,
+  "displayOrder": 13,
+  "overallOrder": 75,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 63",
+  "updatedAt": "2026-10-26"
 }

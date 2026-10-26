@@ -1,47 +1,105 @@
 {
-  "id": "bhajan-0557",
+  "id": "bhajan-0555",
   "slug": "lag-gayi-ishk-akul-di-chot",
   "categoryId": "raag-khambhaat",
-  "title": "लग गयि िशक कुल दि चोत",
-  "romanTitle": "Lag Gayi Ishk Akul Di Chot",
-  "firstLine": "Lag Gayi Ishk Akul Di Chot, Mazhabi Aashik Se Larande (Tek).",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "लग गयी इश्क अकुल दी चोट,",
+  "romanTitle": "Lag Gayi Ishk Akul Di Chot,",
+  "firstLine": "Lag Gayi Ishk Akul Di Chot,",
+  "heading": "।। राग खम्भाट भजन ।। ७ ।। ५५६।॥।",
+  "tek": [
+    "लग गयी इश्क अकुल दी चोट,",
+    "मज़हबी आशिक से लड़ँदे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Lag Gayi Ishk Akul Di Chot,",
+    "Mazhabi Aashik Se Larande (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इश्क दी उलटी बेरंग बाज़ी, इश्क में घिड़न्दे गोहर गाज़ी ।",
+        "तोड़ कुफ़र दे कोट, घायल इश्क अन्दर घिड़न्दे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ishk Di Ulti Berang Baazi, Ishk Men Ghirande Gohar Gaazi.",
+        "Tor Kufar De Kot, Ghaayal Ishk Andar Ghirande || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सूली पर मन्सूर चढ़ाया, बुलाशाह नूं कतल कराया ।",
+        "आशिक से अणमोट, सिर दा सांगा ना करन्दे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Suli Par Mansur Charhaayaa, Bulaashaah Nun Katal Karaayaa.",
+        "Aashik Se Anmot, Sir Daa Saangaa Naa Karande || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भक्त कबीर को बहुत सताया,पाय संगल जल माहिं बहाया ।",
+        "घाणे माहीं घोट, शाह बिलावल नूं पिड़न्दे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhakt Kabir Ko Bahut Sataayaa,Paay Sangal Jal Maahin Bahaayaa.",
+        "Ghaane Maahin Ghot, Shaah Bilaaval Nun Pirande || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आशिक टेऊँ रहत उजाला, मज़हबी है नित मन का काला ।",
+        "पकड़ इश्क दी ओट, आशिक चाढ़ी पै चढ़न्दे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aashik Teun Rahat Ujaalaa, Mazhabi Hai Nit Man Kaa Kaalaa.",
+        "Pakar Ishk Di Ot, Aashik Chaarhi Pai Charhande || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "तर्क"
+      ],
+      "romanLines": [
+        "Tark"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लग गयि िशक कुल दि चोत,",
-      "मzहबि ाशिक से लरनदे (टेक)."
+      "इश्क दी उलटी बेरंग बाज़ी, इश्क में घिड़न्दे गोहर गाज़ी ।",
+      "तोड़ कुफ़र दे कोट, घायल इश्क अन्दर घिड़न्दे ॥१ ॥"
     ],
     [
-      "िशक दि ुलति बेरनग बाzि, िशक मेन घिरनदे गोहर गाzि.",
-      "तोर कुfर दे कोत, घायल िशक नदर घिरनदे || 1 ||."
+      "सूली पर मन्सूर चढ़ाया, बुलाशाह नूं कतल कराया ।",
+      "आशिक से अणमोट, सिर दा सांगा ना करन्दे ॥२ ॥"
     ],
     [
-      "सुलि पर मनसुर चरहाया, बुलाशाह नुन कतल कराया.",
-      "ाशिक से नमोत, सिर दा सानगा ना करनदे || 2 ||."
+      "भक्त कबीर को बहुत सताया,पाय संगल जल माहिं बहाया ।",
+      "घाणे माहीं घोट, शाह बिलावल नूं पिड़न्दे ॥३ ॥"
     ],
     [
-      "भकत कबिर को बहुत सतायापाय सनगल जल माहिन बहाया.",
-      "घाने माहिन घोत, शाह बिलावल नुन पिरनदे || 3 ||"
+      "आशिक टेऊँ रहत उजाला, मज़हबी है नित मन का काला ।",
+      "पकड़ इश्क दी ओट, आशिक चाढ़ी पै चढ़न्दे ॥४ ॥"
     ],
     [
-      "ाशिक तेऊँ रहत ुजाला, मzहबि है नित मन का काला.",
-      "पकर िशक दि ोत, ाशिक चारहि पै चरहनदे || 4 ||."
-    ],
-    [
-      "तरक"
+      "तर्क"
     ]
   ],
   "romanLyrics": [
     [
-      "Lag Gayi Ishk Akul Di Chot,",
-      "Mazhabi Aashik Se Larande (Tek)."
-    ],
-    [
       "Ishk Di Ulti Berang Baazi, Ishk Men Ghirande Gohar Gaazi.",
-      "Tor Kufar De Kot, Ghaayal Ishk Andar Ghirande || 1 ||."
+      "Tor Kufar De Kot, Ghaayal Ishk Andar Ghirande || 1 ||"
     ],
     [
       "Suli Par Mansur Charhaayaa, Bulaashaah Nun Katal Karaayaa.",
-      "Aashik Se Anmot, Sir Daa Saangaa Naa Karande || 2 ||."
+      "Aashik Se Anmot, Sir Daa Saangaa Naa Karande || 2 ||"
     ],
     [
       "Bhakt Kabir Ko Bahut Sataayaa,Paay Sangal Jal Maahin Bahaayaa.",
@@ -49,25 +107,27 @@
     ],
     [
       "Aashik Teun Rahat Ujaalaa, Mazhabi Hai Nit Man Kaa Kaalaa.",
-      "Pakar Ishk Di Ot, Aashik Chaarhi Pai Charhande || 4 ||."
+      "Pakar Ishk Di Ot, Aashik Chaarhi Pai Charhande || 4 ||"
     ],
     [
       "Tark"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 7 || 556. ||.",
-    "Lag Gayi Ishk Akul Di Chot",
-    "लग गयि िशक कुल दि चोत"
+    "लग गयी इश्क अकुल दी चोट,",
+    "Lag Gayi Ishk Akul Di Chot,",
+    "राग खंभात भजन 7",
+    "Raag Khambhaat Bhajan 7"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 557,
+  "displayOrder": 7,
+  "overallOrder": 555,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 303",
+  "updatedAt": "2026-10-26"
 }

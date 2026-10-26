@@ -1,85 +1,182 @@
 {
   "id": "bhajan-0363",
   "slug": "maanush-tan-yah-saphlaa-kije-puje-guru-ko-pyaaraa-re",
-  "categoryId": "raag-aasaa",
-  "title": "मानुश तन यह सफला किजे, पुजे गुरु को पयारा रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "मानुष तन यह सफला कीजे, पूजे गुरु को प्यारा रे",
   "romanTitle": "Maanush Tan Yah Saphlaa Kije, Puje Guru Ko Pyaaraa Re",
   "firstLine": "Maanush Tan Yah Saphlaa Kije, Puje Guru Ko Pyaaraa Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। २० ।। ३६३।॥।",
+  "tek": [
+    "मानुष तन यह सफला कीजे, पूजे गुरु को प्यारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Maanush Tan Yah Saphlaa Kije, Puje Guru Ko Pyaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सत्‌गुरु को तुम ब्रह्म पछानो, पूर्ण श्रद्धा उर में आनो ।",
+        "गुरु है सिरजणहारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Ko Tum Brahm Pachhaano, Purn Shraddhaa Ur Men Aano.",
+        "Guru Hai Sirjanhaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सर्व देव हैं गुरु के अंगा, गुरु पूजे हो भव दुख भंगा ।",
+        "पाप मिटत पुनि सारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sarv Dev Hain Guru Ke Angaa, Guru Puje Ho Bhav Dukh Bhangaa.",
+        "Paap Mitat Puni Saaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु को पूजे जीव जुगादी, गुरु को पूजे देव अनादी ।",
+        "पूजत पुनि अवतारा रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Ko Puje Jiv Jugaadi, Guru Ko Puje Dev Anaadi.",
+        "Pujat Puni Avtaaraa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु पूजन करिये, तन मन धन की भेटा धरिये ।",
+        "पाओ सूख अपारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Pujan Kariye, Tan Man Dhan Ki Bhetaa Dhariye.",
+        "Paao Sukh Apaaraa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "॥ बसन्त महिमा भजन ॥ २१ ॥ ३६ ॥४ ॥"
+      ],
+      "romanLines": [
+        "|| Basant Mahimaa Bhajan || 21 || 36 || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "आई है आई है ऋतु बसन्त की ॥ टेक ॥",
+        "ऋतों में ऋतु सुहानी है, सुन्दर जिसकी कहानी है,",
+        "बरसे गुलाल होवे सब लाल, करे निहाल मोद मन में ॥१ ॥"
+      ],
+      "romanLines": [
+        "Aai Hai Aai Hai Ritu Basant Ki (Tek).",
+        "Riton Men Ritu Suhaani Hai, Sundar Jiski Kahaani Hai,",
+        "Barse Gulaal Hove Sab Laal, Kare Nihaal Mod Man Men || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        "सूखे तरुवर हरे होवेँं, पुराने पात को खोनें,",
+        "भयी गुलज़ार भँवर हुशियार, करे गुंजार गुल्शन में ॥२ ॥"
+      ],
+      "romanLines": [
+        "Sukhe Taruvar Hare Hovenn, Puraane Paat Ko Khonen,",
+        "Bhayi Gulzaar Bhanvar Hushiyaar, Kare Gunjaar Gulshan Men || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "lines": [
+        "बसन्त को सन्त जन गावे, सर्व के चीत में भावे,",
+        "होवे प्रसन्न सदा हरिजन, लगावे लगन भगवन में ॥३ ॥"
+      ],
+      "romanLines": [
+        "Basant Ko Sant Jan Gaave, Sarv Ke Chit Men Bhaave,",
+        "Hove Prasann Sadaa Harijan, Lagaave Lagan Bhagvan Men || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 9,
+      "lines": [
+        "कहे टेऊँ बसन्त गावो, परम आनन्द को पाओ,",
+        "रही निष्काम जपो हरि नाम, पाओ सुख धाम मनुष तन में ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Basant Gaavo, Param Aanand Ko Paao,",
+        "Rahi Nishkaam Japo Hari Naam, Paao Sukh Dhaam Manush Tan Men || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मानुश तन यह सफला किजे, पुजे गुरु को पयारा रे (टेक)."
+      "सत्‌गुरु को तुम ब्रह्म पछानो, पूर्ण श्रद्धा उर में आनो ।",
+      "गुरु है सिरजणहारा रे ॥१ ॥"
     ],
     [
-      "सतगुरु को तुम बरहम पचहानो, पुरन शरदधा ुर मेन ानो.",
-      "गुरु है सिरजनहारा रे || 1 ||."
+      "सर्व देव हैं गुरु के अंगा, गुरु पूजे हो भव दुख भंगा ।",
+      "पाप मिटत पुनि सारा रे ॥२ ॥"
     ],
     [
-      "सर्व देव हैन गुरु के नगा, गुरु पुजे हो भव दुःख भनगा.",
-      "पाप मितत पुनि सारा रे || 2 ||."
+      "गुरु को पूजे जीव जुगादी, गुरु को पूजे देव अनादी ।",
+      "पूजत पुनि अवतारा रे ॥३ ॥"
     ],
     [
-      "गुरु को पुजे जिव जुगादि, गुरु को पुजे देव नादि.",
-      "पुजत पुनि वतारा रे ||.3 ||."
+      "कहे टेऊँ गुरु पूजन करिये, तन मन धन की भेटा धरिये ।",
+      "पाओ सूख अपारा रे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु पुजन करिये, तन मन धन कि भेता धरिये.",
-      "पाो सुख पारा रे || 4. || ||"
+      "॥ बसन्त महिमा भजन ॥ २१ ॥ ३६ ॥४ ॥"
     ],
     [
-      "|| बसनत महिमा भजन || 21 || 364 ||"
+      "आई है आई है ऋतु बसन्त की ॥ टेक ॥",
+      "ऋतों में ऋतु सुहानी है, सुन्दर जिसकी कहानी है,",
+      "बरसे गुलाल होवे सब लाल, करे निहाल मोद मन में ॥१ ॥"
     ],
     [
-      "ाि है ाि है रितु बसनत कि (टेक)."
+      "सूखे तरुवर हरे होवेँं, पुराने पात को खोनें,",
+      "भयी गुलज़ार भँवर हुशियार, करे गुंजार गुल्शन में ॥२ ॥"
     ],
     [
-      "रितोन मेन रितु सुहानि है, सुनदर जिसकि कहानि है,",
-      "बरसे गुलाल होवे सब लाल, करे निहाल मोद मन मेन || 1 ||."
+      "बसन्त को सन्त जन गावे, सर्व के चीत में भावे,",
+      "होवे प्रसन्न सदा हरिजन, लगावे लगन भगवन में ॥३ ॥"
     ],
     [
-      "सुखे तरुवर हरे होवेनन, पुराने पात को खोनेन,",
-      "भयि गुलzार भनवर हुशियार, करे गुनजार गुलशन मेन || 2 ||"
-    ],
-    [
-      "बसनत को संत जन गावे, सर्व के चित मेन भावे,",
-      "होवे परसनन सदा हरिजन, लगावे लगन भगवन मेन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ बसनत गावो, परम आनंद को पाो,",
-      "रहि निशकाम जपो हरि नाम, पाो सुख धाम मनुश तन मेन || 4 ||"
-    ],
-    [
-      "गन"
+      "कहे टेऊँ बसन्त गावो, परम आनन्द को पाओ,",
+      "रही निष्काम जपो हरि नाम, पाओ सुख धाम मनुष तन में ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Maanush Tan Yah Saphlaa Kije, Puje Guru Ko Pyaaraa Re (Tek)."
-    ],
-    [
       "Sat‌Guru Ko Tum Brahm Pachhaano, Purn Shraddhaa Ur Men Aano.",
-      "Guru Hai Sirjanhaaraa Re || 1 ||."
+      "Guru Hai Sirjanhaaraa Re || 1 ||"
     ],
     [
       "Sarv Dev Hain Guru Ke Angaa, Guru Puje Ho Bhav Dukh Bhangaa.",
-      "Paap Mitat Puni Saaraa Re || 2 ||."
+      "Paap Mitat Puni Saaraa Re || 2 ||"
     ],
     [
       "Guru Ko Puje Jiv Jugaadi, Guru Ko Puje Dev Anaadi.",
-      "Pujat Puni Avtaaraa Re ||.3 ||."
+      "Pujat Puni Avtaaraa Re || 3 ||"
     ],
     [
       "Kahe Teun Guru Pujan Kariye, Tan Man Dhan Ki Bhetaa Dhariye.",
-      "Paao Sukh Apaaraa Re || 4. || ||"
+      "Paao Sukh Apaaraa Re || 4 ||"
     ],
     [
-      "|| Basant Mahimaa Bhajan || 21 || 364 ||"
+      "|| Basant Mahimaa Bhajan || 21 || 36 || 4 ||"
     ],
     [
-      "Aai Hai Aai Hai Ritu Basant Ki (Tek)."
-    ],
-    [
+      "Aai Hai Aai Hai Ritu Basant Ki (Tek).",
       "Riton Men Ritu Suhaani Hai, Sundar Jiski Kahaani Hai,",
-      "Barse Gulaal Hove Sab Laal, Kare Nihaal Mod Man Men || 1 ||."
+      "Barse Gulaal Hove Sab Laal, Kare Nihaal Mod Man Men || 1 ||"
     ],
     [
       "Sukhe Taruvar Hare Hovenn, Puraane Paat Ko Khonen,",
@@ -92,25 +189,23 @@
     [
       "Kahe Teun Basant Gaavo, Param Aanand Ko Paao,",
       "Rahi Nishkaam Japo Hari Naam, Paao Sukh Dhaam Manush Tan Men || 4 ||"
-    ],
-    [
-      "Gan"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Basant Bhajan || 20 || 363. ||.",
+    "मानुष तन यह सफला कीजे, पूजे गुरु को प्यारा रे",
     "Maanush Tan Yah Saphlaa Kije, Puje Guru Ko Pyaaraa Re",
-    "मानुश तन यह सफला किजे, पुजे गुरु को पयारा रे"
+    "राग बसंत भजन 20",
+    "Raag Basant Bhajan 20"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
     "bhajan"
   ],
-  "displayOrder": 363,
+  "displayOrder": 20,
+  "overallOrder": 363,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 215",
+  "updatedAt": "2026-10-26"
 }

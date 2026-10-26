@@ -1,71 +1,131 @@
 {
-  "id": "bhajan-0757",
+  "id": "bhajan-0755",
   "slug": "jivan-vrithaa-jaan-hari-ke-prem-binaa",
   "categoryId": "raag-pilaa",
-  "title": "जिवन वरिथा जान, हरि के प्रेम बिना",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "जीवन वृथा जान, हरि के प्रेम बिना",
   "romanTitle": "Jivan Vrithaa Jaan, Hari Ke Prem Binaa",
   "firstLine": "Jivan Vrithaa Jaan, Hari Ke Prem Binaa (Tek).",
+  "heading": "।। राग पीला भजन ।। ३५ ।। ७५७।।",
+  "tek": [
+    "जीवन वृथा जान, हरि के प्रेम बिना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Jivan Vrithaa Jaan, Hari Ke Prem Binaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "प्रेम बिना मन ठौर न पावे, प्रेम बिना बहु भटका खातवे ।",
+        "देखे दूख महान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Prem Binaa Man Thaur Na Paave, Prem Binaa Bahu Bhatkaa Khaatve.",
+        "Dekhe Dukh Mahaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "प्रेम बिना प्रतीत न आवे, प्रेम बिना हरि चीत न आतवे ।",
+        "रीझे ना भगवान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Prem Binaa Pratit Na Aave, Prem Binaa Hari Chit Na Aatve.",
+        "Rijhe Naa Bhagvaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम बिना होवत नहिं ज्ञाना, प्रेम बिना नहिं लागे ध्याना ।",
+        "मिले न पद निर्बान ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Prem Binaa Hovat Nahin Jnyaanaa, Prem Binaa Nahin Laage Dhyaanaa.",
+        "Mile Na Pad Nirbaan || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब सन्त सुनावे, प्रेम बिना कछु हरि ना भावे ।",
+        "कबहूं न हो कल्यान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Sant Sunaave, Prem Binaa Kachhu Hari Naa Bhaave.",
+        "Kabhun Na Ho Kalyaan || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्त्ह"
+      ],
+      "romanLines": [
+        "Dth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जिवन वरिथा जान, हरि के प्रेम बिना (टेक)."
+      "प्रेम बिना मन ठौर न पावे, प्रेम बिना बहु भटका खातवे ।",
+      "देखे दूख महान ॥१ ॥"
     ],
     [
-      "प्रेम बिना मन थौर न पावे, प्रेम बिना बहु भतका खातवे.",
-      "देखे दुःख महान || 1 ||."
+      "प्रेम बिना प्रतीत न आवे, प्रेम बिना हरि चीत न आतवे ।",
+      "रीझे ना भगवान ॥२ ॥"
     ],
     [
-      "प्रेम बिना परतित न ावे, प्रेम बिना हरि चित न ातवे.",
-      "रिझे ना भगवान || 2 ||."
+      "प्रेम बिना होवत नहिं ज्ञाना, प्रेम बिना नहिं लागे ध्याना ।",
+      "मिले न पद निर्बान ॥ ।३े ॥ ।"
     ],
     [
-      "प्रेम बिना होवत नहिन जनयाना, प्रेम बिना नहिन लागे धयाना.",
-      "मिले न पद निरबान ||.3े ||."
+      "कहे टेऊँ सब सन्त सुनावे, प्रेम बिना कछु हरि ना भावे ।",
+      "कबहूं न हो कल्यान ॥४ ॥"
     ],
     [
-      "कहे तेऊँ सब संत सुनावे, प्रेम बिना कचहु हरि ना भावे.",
-      "कभुन न हो कलयान ||.4 ||"
-    ],
-    [
-      "दथ"
+      "द्त्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Jivan Vrithaa Jaan, Hari Ke Prem Binaa (Tek)."
+      "Prem Binaa Man Thaur Na Paave, Prem Binaa Bahu Bhatkaa Khaatve.",
+      "Dekhe Dukh Mahaan || 1 ||"
     ],
     [
-      "Prem Binaa Man Thaur N Paave, Prem Binaa Bahu Bhatkaa Khaatve.",
-      "Dekhe Dukh Mahaan || 1 ||."
-    ],
-    [
-      "Prem Binaa Pratit N Aave, Prem Binaa Hari Chit N Aatve.",
-      "Rijhe Naa Bhagvaan || 2 ||."
+      "Prem Binaa Pratit Na Aave, Prem Binaa Hari Chit Na Aatve.",
+      "Rijhe Naa Bhagvaan || 2 ||"
     ],
     [
       "Prem Binaa Hovat Nahin Jnyaanaa, Prem Binaa Nahin Laage Dhyaanaa.",
-      "Mile N Pad Nirbaan ||.3E ||."
+      "Mile Na Pad Nirbaan || 3E ||"
     ],
     [
       "Kahe Teun Sab Sant Sunaave, Prem Binaa Kachhu Hari Naa Bhaave.",
-      "Kabhun N Ho Kalyaan ||.4 ||"
+      "Kabhun Na Ho Kalyaan || 4 ||"
     ],
     [
       "Dth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 35 || 757 ||",
+    "जीवन वृथा जान, हरि के प्रेम बिना",
     "Jivan Vrithaa Jaan, Hari Ke Prem Binaa",
-    "जिवन वरिथा जान, हरि के प्रेम बिना"
+    "राग पीला भजन 34",
+    "Raag Pilaa Bhajan 34"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 757,
+  "displayOrder": 34,
+  "overallOrder": 755,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 400",
+  "updatedAt": "2026-10-26"
 }

@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0661",
+  "id": "bhajan-0659",
   "slug": "dharo-man-guru-charnon-kaa-dhyaan",
   "categoryId": "raag-pahaari",
-  "title": "धरो मन गुरु चरनोन का ध्यान",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "धरो मन गुरु चरणों का ध्यान",
   "romanTitle": "Dharo Man Guru Charnon Kaa Dhyaan",
   "firstLine": "Dharo Man Guru Charnon Kaa Dhyaan (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। १२ ।। ६६०॥।",
+  "tek": [
+    "धरो मन गुरु चरणों का ध्यान ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dharo Man Guru Charnon Kaa Dhyaan (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु चरणों की सेवा कीजे, तन अभिमान सकल हर लीजे ।",
+        "पाओ पूरण ज्ञान ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Charnon Ki Sevaa Kije, Tan Abhimaan Sakal Har Lije.",
+        "Paao Puran Gyaan || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गुरु चरणों पर सीस निवाओ, पापों की सब पोट गिराओ ।",
+        "पावन हो प्रधान ॥२ ॥"
+      ],
+      "romanLines": [
+        "Guru Charnon Par Sis Nivaao, Paapon Ki Sab Pot Giraao.",
+        "Paavan Ho Pradhaan || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भव सागर यह भारी जानो, गुरु के चरण जहाज़ पछानो ।",
+        "तां चढ़ तरो सुजान ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhav Saagar Yah Bhaari Jaano, Guru Ke Charan Jahaaz Pachhaano.",
+        "Taan Charh Taro Sujaan || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जन्म जन्म के पुण्य जिहं जागे, कहे टेऊँ सो गुरु पद लागे ।",
+        "तांका हो कल्यान ॥४ ॥"
+      ],
+      "romanLines": [
+        "Janm Janm Ke Puny Jihan Jaage, Kahe Teun So Guru Pad Laage.",
+        "Taankaa Ho Kalyaan || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "धरो मन गुरु चरनोन का ध्यान (टेक)."
+      "गुरु चरणों की सेवा कीजे, तन अभिमान सकल हर लीजे ।",
+      "पाओ पूरण ज्ञान ॥१ ॥"
     ],
     [
-      "गुरु चरनोन कि सेवा किजे, तन भिमान सकल हर लिजे.",
-      "पाो पुरन ज्ञान || 1 ||."
+      "गुरु चरणों पर सीस निवाओ, पापों की सब पोट गिराओ ।",
+      "पावन हो प्रधान ॥२ ॥"
     ],
     [
-      "गुरु चरनोन पर सिस निवाो, पापोन कि सब पोत गिराो.",
-      "पावन हो परधान || 2 ||"
+      "भव सागर यह भारी जानो, गुरु के चरण जहाज़ पछानो ।",
+      "तां चढ़ तरो सुजान ॥३ ॥"
     ],
     [
-      "न",
-      "भव सागर यह भारि जानो, गुरु के चरण जहाz पचहानो."
-    ],
-    [
-      "तान चरह तरो सुजान ||.3. ||.",
-      "जनम जनम के पुनय जिहन जागे, कहे तेऊँ सो गुरु पद लागे."
-    ],
-    [
-      "तानका हो कलयान || 4 ||"
+      "जन्म जन्म के पुण्य जिहं जागे, कहे टेऊँ सो गुरु पद लागे ।",
+      "तांका हो कल्यान ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dharo Man Guru Charnon Kaa Dhyaan (Tek)."
-    ],
-    [
       "Guru Charnon Ki Sevaa Kije, Tan Abhimaan Sakal Har Lije.",
-      "Paao Puran Jnyaan || 1 ||."
+      "Paao Puran Gyaan || 1 ||"
     ],
     [
       "Guru Charnon Par Sis Nivaao, Paapon Ki Sab Pot Giraao.",
       "Paavan Ho Pradhaan || 2 ||"
     ],
     [
-      "N",
-      "Bhav Saagar Yah Bhaari Jaano, Guru Ke Charan Jahaaz Pachhaano."
+      "Bhav Saagar Yah Bhaari Jaano, Guru Ke Charan Jahaaz Pachhaano.",
+      "Taan Charh Taro Sujaan || 3 ||"
     ],
     [
-      "Taan Charh Taro Sujaan ||.3. ||.",
-      "Janm Janm Ke Puny Jihan Jaage, Kahe Teun So Guru Pad Laage."
-    ],
-    [
+      "Janm Janm Ke Puny Jihan Jaage, Kahe Teun So Guru Pad Laage.",
       "Taankaa Ho Kalyaan || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 12 || 660 ||.",
+    "धरो मन गुरु चरणों का ध्यान",
     "Dharo Man Guru Charnon Kaa Dhyaan",
-    "धरो मन गुरु चरनोन का ध्यान"
+    "राग पहाड़ी भजन 12",
+    "Raag Pahaari Bhajan 12"
   ],
   "tags": [
-    "pahaari",
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
     "bhajan"
   ],
-  "displayOrder": 661,
+  "displayOrder": 12,
+  "overallOrder": 659,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 351",
+  "updatedAt": "2026-10-26"
 }

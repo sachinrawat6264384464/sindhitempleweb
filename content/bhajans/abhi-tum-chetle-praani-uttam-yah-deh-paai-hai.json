@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0560",
+  "id": "bhajan-0558",
   "slug": "abhi-tum-chetle-praani-uttam-yah-deh-paai-hai",
   "categoryId": "raag-khambhaat",
-  "title": "भि तुम चेतले परानि, ुततम यह देह पाि है",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "अभी तुम चेतले प्राणी, उत्तम यह देह पाई है",
   "romanTitle": "Abhi Tum Chetle Praani, Uttam Yah Deh Paai Hai",
-  "firstLine": "Abhi Tum Chetle Praani, Uttam Yah Deh Paai Hai. Karm Naa Nek Ko Kinaa, Umr Vrithaa Ganvaai Hai (Tek).",
+  "firstLine": "Abhi Tum Chetle Praani, Uttam Yah Deh Paai Hai.",
+  "heading": "।। राग खम्भाट भजन ।। १० ।। ५५९॥।",
+  "tek": [
+    "अभी तुम चेतले प्राणी, उत्तम यह देह पाई है ।",
+    "कर्म ना नेक को कीना, उम्र वृथा गँवाई है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Abhi Tum Chetle Praani, Uttam Yah Deh Paai Hai.",
+    "Karm Naa Nek Ko Kinaa, Umr Vrithaa Ganvaai Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "विषय रस भोग में पड़ कर, हर्ष पुनि शोक क्यों करता ।",
+        "तजो रस भोग की प्रीती, इसी में तब भलाई है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Vishay Ras Bhog Men Par Kar, Harsh Puni Shok Kyon Kartaa.",
+        "Tajo Ras Bhog Ki Priti, Isi Men Tab Bhalaai Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जगत के जाल में फस कर, भया मस्तान तूं निशदिन ।",
+        "करो अब संग सन्तों का, सदा जो तव सहाई है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jagat Ke Jaal Men Phas Kar, Bhayaa Mastaan Tu Nishdin.",
+        "Karo Ab Sang Santon Kaa, Sadaa Jo Tav Sahaai Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "समझ कर देखले मन में, नहीं को अन्त है साथी ।",
+        "कुटुम्ब को छोड़ भज हरि जो, करत रक्षा सदाई है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Samajh Kar Dekhle Man Men, Nahin Ko Ant Hai Saathi.",
+        "Kutumb Ko Chhor Bhaj Hari Jo, Karat Rakshaa Sadaai Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ हदे धारो, वचन गुरु सन्त वेदों का ।",
+        "धरो तुम ध्यान इक हरि का, सृष्टि जिसने उपाई है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Hade Dhaaro, Vachan Guru Sant Vedon Kaa.",
+        "Dharo Tum Dhyaan Ik Hari Kaa, Srishti Jisne Upaai Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भि तुम चेतले परानि, ुततम यह देह पाि है.",
-      "करम ना नेक को किना, ुमर वरिथा गनवाि है (टेक)."
+      "विषय रस भोग में पड़ कर, हर्ष पुनि शोक क्यों करता ।",
+      "तजो रस भोग की प्रीती, इसी में तब भलाई है ॥१ ॥"
     ],
     [
-      "विशय रस भोग मेन पर कर, हरश पुनि शोक कयोन करता.",
-      "तजो रस भोग कि परिति, िसि मेन तब भलाि है || $ ||."
+      "जगत के जाल में फस कर, भया मस्तान तूं निशदिन ।",
+      "करो अब संग सन्तों का, सदा जो तव सहाई है ॥२ ॥"
     ],
     [
-      "जगत के जाल मेन फस कर, भया मसतान तु निशदिन.",
-      "करो ब सनग सनतोन का, सदा जो तव सहाि है || 2 ||"
+      "समझ कर देखले मन में, नहीं को अन्त है साथी ।",
+      "कुटुम्ब को छोड़ भज हरि जो, करत रक्षा सदाई है ॥३ ॥"
     ],
     [
-      "समझ कर देखले मन मेन, नहिन को नत है साथि.",
-      "कुतुमब को चहोर भज हरि जो, करत रकशा सदाि है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ हदे धारो, वचन गुरु संत वेदोन का.",
-      "धरो तुम ध्यान िक हरि का, सरिशति जिसने ुपाि है || 4 ||"
+      "कहे टेऊँ हदे धारो, वचन गुरु सन्त वेदों का ।",
+      "धरो तुम ध्यान इक हरि का, सृष्टि जिसने उपाई है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Abhi Tum Chetle Praani, Uttam Yah Deh Paai Hai.",
-      "Karm Naa Nek Ko Kinaa, Umr Vrithaa Ganvaai Hai (Tek)."
-    ],
-    [
       "Vishay Ras Bhog Men Par Kar, Harsh Puni Shok Kyon Kartaa.",
-      "Tajo Ras Bhog Ki Priti, Isi Men Tab Bhalaai Hai || $ ||."
+      "Tajo Ras Bhog Ki Priti, Isi Men Tab Bhalaai Hai || 1 ||"
     ],
     [
       "Jagat Ke Jaal Men Phas Kar, Bhayaa Mastaan Tu Nishdin.",
@@ -42,7 +91,7 @@
     ],
     [
       "Samajh Kar Dekhle Man Men, Nahin Ko Ant Hai Saathi.",
-      "Kutumb Ko Chhor Bhaj Hari Jo, Karat Rakshaa Sadaai Hai || 3 ||."
+      "Kutumb Ko Chhor Bhaj Hari Jo, Karat Rakshaa Sadaai Hai || 3 ||"
     ],
     [
       "Kahe Teun Hade Dhaaro, Vachan Guru Sant Vedon Kaa.",
@@ -50,18 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Khambhaat Bhajan || 10 || 559 ||.",
+    "अभी तुम चेतले प्राणी, उत्तम यह देह पाई है",
     "Abhi Tum Chetle Praani, Uttam Yah Deh Paai Hai",
-    "भि तुम चेतले परानि, ुततम यह देह पाि है"
+    "राग खंभात भजन 10",
+    "Raag Khambhaat Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 560,
+  "displayOrder": 10,
+  "overallOrder": 558,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 305",
+  "updatedAt": "2026-10-26"
 }

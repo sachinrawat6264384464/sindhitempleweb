@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0638",
+  "id": "bhajan-0636",
   "slug": "agar-tum-moksh-ko-chaaho-karo-shubh-kaam-ko-jaldi",
   "categoryId": "raag-kanso",
-  "title": "गर तुम मोक्ष को चाहो, करो शुभ काम को जलदि",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "अगर तुम मोक्ष को चाहो, करो शुभ काम को जल्दी",
   "romanTitle": "Agar Tum Moksh Ko Chaaho, Karo Shubh Kaam Ko Jaldi",
-  "firstLine": "Agar Tum Moksh Ko Chaaho, Karo Shubh Kaam Ko Jaldi. Taje Sab Kaam Duniyaa Ke, Rato Hari Naam Ko Jaldi (Tek).",
+  "firstLine": "Agar Tum Moksh Ko Chaaho, Karo Shubh Kaam Ko Jaldi.",
+  "heading": "।। राग कंसो भजन ॥।। ७ ।। ६३७।।",
+  "tek": [
+    "अगर तुम मोक्ष को चाहो, करो शुभ काम को जल्दी ।",
+    "तजे सब काम दुनिया के, रटो हरि नाम को जल्दी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Agar Tum Moksh Ko Chaaho, Karo Shubh Kaam Ko Jaldi.",
+    "Taje Sab Kaam Duniyaa Ke, Rato Hari Naam Ko Jaldi (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जगत की छोड़ आशा को, ममत की तोड़ पाशा को ।",
+        "गही गुण ज्ञान राशा को, पाओ विश्राम को जल्दी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jagat Ki Chhor Aashaa Ko, Mamat Ki Tor Paashaa Ko.",
+        "Gahi Gun Gyaan Raashaa Ko, Paao Vishraam Ko Jaldi || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कुटुम्ब का छोड़के नाता, रहो हरि रंग में राता ।",
+        "गही गुरुदेव से ज्ञाता, पाओ घनश्याम को जल्दी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kutumb Kaa Chhorke Naataa, Raho Hari Rang Men Raataa.",
+        "Gahi Gurudev Se Jnyaataa, Paao Ghanashyaam Ko Jaldi || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रभू की शरन में जाके, अखण्ड धुनि शब्द की लाके ।",
+        "हरी के गीत नित गाके, पाओ आराम को जल्दी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prabhu Ki Sharan Men Jaake, Akhand Dhuni Shabd Ki Laake.",
+        "Hari Ke Git Nit Gaake, Paao Aaraam Ko Jaldi || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुमर पलपल, हरो कलिकाल की कलकल ।",
+        "बुझाये जीय की जलजल, पाओ सुखधाम को जल्दी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sumar Palpal, Haro Kalikaal Ki Kalkal.",
+        "Bujhaaye Jiy Ki Jaljal, Paao Sukhdhaam Ko Jaldi || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गर तुम मोक्ष को चाहो, करो शुभ काम को जलदि.",
-      "तजे सब काम दुनिया के, रतो हरि नाम को जलदि (टेक)."
+      "जगत की छोड़ आशा को, ममत की तोड़ पाशा को ।",
+      "गही गुण ज्ञान राशा को, पाओ विश्राम को जल्दी ॥१ ॥"
     ],
     [
-      "जगत कि चहोर ाशा को, ममत कि तोर पाशा को.",
-      "गहि गुन ज्ञान राशा को, पाो विशराम को जलदि.1 ||."
+      "कुटुम्ब का छोड़के नाता, रहो हरि रंग में राता ।",
+      "गही गुरुदेव से ज्ञाता, पाओ घनश्याम को जल्दी ॥२ ॥"
     ],
     [
-      "कुतुमब का चहोरके नाता, रहो हरि रनग मेन राता.",
-      "गहि गुरुदेव से जनयाता, पाो घनशयाम को जलदि || 2 ||."
+      "प्रभू की शरन में जाके, अखण्ड धुनि शब्द की लाके ।",
+      "हरी के गीत नित गाके, पाओ आराम को जल्दी ॥३ ॥"
     ],
     [
-      "प्रभु कि शरन मेन जाके, खनद धुनि शबद कि लाके.",
-      "हरि के गित नित गाके, पाो ाराम को जलदि ||.3. ||."
-    ],
-    [
-      "कहे तेऊँ सुमर पलपल, हरो कलिकाल कि कलकल.",
-      "बुझाये जिय कि जलजल, पाो सुखधाम को जलदि || 4. ||."
+      "कहे टेऊँ सुमर पलपल, हरो कलिकाल की कलकल ।",
+      "बुझाये जीय की जलजल, पाओ सुखधाम को जल्दी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Agar Tum Moksh Ko Chaaho, Karo Shubh Kaam Ko Jaldi.",
-      "Taje Sab Kaam Duniyaa Ke, Rato Hari Naam Ko Jaldi (Tek)."
-    ],
-    [
       "Jagat Ki Chhor Aashaa Ko, Mamat Ki Tor Paashaa Ko.",
-      "Gahi Gun Jnyaan Raashaa Ko, Paao Vishraam Ko Jaldi.1 ||."
+      "Gahi Gun Gyaan Raashaa Ko, Paao Vishraam Ko Jaldi || 1 ||"
     ],
     [
       "Kutumb Kaa Chhorke Naataa, Raho Hari Rang Men Raataa.",
-      "Gahi Gurudev Se Jnyaataa, Paao Ghanashyaam Ko Jaldi || 2 ||."
+      "Gahi Gurudev Se Jnyaataa, Paao Ghanashyaam Ko Jaldi || 2 ||"
     ],
     [
       "Prabhu Ki Sharan Men Jaake, Akhand Dhuni Shabd Ki Laake.",
-      "Hari Ke Git Nit Gaake, Paao Aaraam Ko Jaldi ||.3. ||."
+      "Hari Ke Git Nit Gaake, Paao Aaraam Ko Jaldi || 3 ||"
     ],
     [
       "Kahe Teun Sumar Palpal, Haro Kalikaal Ki Kalkal.",
-      "Bujhaaye Jiy Ki Jaljal, Paao Sukhdhaam Ko Jaldi || 4. ||."
+      "Bujhaaye Jiy Ki Jaljal, Paao Sukhdhaam Ko Jaldi || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || || 7 || 637 ||",
+    "अगर तुम मोक्ष को चाहो, करो शुभ काम को जल्दी",
     "Agar Tum Moksh Ko Chaaho, Karo Shubh Kaam Ko Jaldi",
-    "गर तुम मोक्ष को चाहो, करो शुभ काम को जलदि"
+    "राग कंसो भजन 7",
+    "Raag Kanso Bhajan 7"
   ],
   "tags": [
-    "kanso",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 638,
+  "displayOrder": 7,
+  "overallOrder": 636,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 341",
+  "updatedAt": "2026-10-26"
 }

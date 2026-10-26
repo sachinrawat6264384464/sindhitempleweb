@@ -1,87 +1,132 @@
 {
   "id": "bhajan-0361",
   "slug": "ab-basant-ke-din-aaye-re-bahu-aanand-chhaaye-re",
-  "categoryId": "raag-aasaa",
-  "title": "ब बसनत के दीन ाये रे, बहु आनंद चहाये रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "अब बसन्त के दिन आये रे, बहु आनन्द छाये रे",
   "romanTitle": "Ab Basant Ke Din Aaye Re, Bahu Aanand Chhaaye Re",
   "firstLine": "Ab Basant Ke Din Aaye Re, Bahu Aanand Chhaaye Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १८ ।। ३े६१।।",
+  "tek": [
+    "अब बसन्त के दिन आये रे, बहु आनन्द छाये रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Ab Basant Ke Din Aaye Re, Bahu Aanand Chhaaye Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "बन बन में सब तरुवर फूले, फूल रही सब डाली ।",
+        "डार डार में पत्रे फूले, पत्रों में हरियाली ।",
+        "सब देख देख सुख पाये रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ban Ban Men Sab Taruvar Phule, Phul Rahi Sab Daali.",
+        "Daar Daar Men Patre Phule, Patron Men Hariyaali.",
+        "Sab Dekh Dekh Sukh Paaye Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बाग़नि में शुक मैना बुलबुल, कोयल मीठा बोले ।",
+        "भंवरा भंवरी फूल फूल पर, मिलकर करत कलोले ।",
+        "ये सबके मन को भाये रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Baaghni Men Shuk Mainaa Bulbul, Koyal Mithaa Bole.",
+        "Bhanvraa Bhanvri Phul Phul Par, Milkar Karat Kalole.",
+        "Ye Sabke Man Ko Bhaaye Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साध सन्त मिल हरिजन मुनिजन, बसन्त को नित गावहिं ।",
+        "चड् मृदट्ठ सितार तम्बूरा, बाजा ढोल बजावहेिं ।",
+        "सुन श्रोता गन हषयि रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sant Mil Harijan Munijan, Basant Ko Nit Gaavhin.",
+        "Chad Mridatth Sitaar Tamburaa, Baajaa Dhol Bajaavhein.",
+        "Sun Shrotaa Gan Hashyi Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ भया आनन्द सबको, फूली सृष्टी सारी ।",
+        "आपस में मिल रंग लगावहिं, मार प्रेम पिचकारी ।",
+        "सब सुख के माहिं समाये रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Bhayaa Aanand Sabko, Phuli Srishti Saari.",
+        "Aapas Men Mil Rang Lagaavhin, Maar Prem Pichkaari.",
+        "Sab Sukh Ke Maahin Samaaye Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ब बसनत के दीन ाये रे, बहु आनंद चहाये रे (टेक)."
+      "बन बन में सब तरुवर फूले, फूल रही सब डाली ।",
+      "डार डार में पत्रे फूले, पत्रों में हरियाली ।",
+      "सब देख देख सुख पाये रे ॥१ ॥"
     ],
     [
-      "बन बन मेन सब तरुवर फुले, फुल रहि सब दालि.",
-      "दार दार मेन पतरे फुले, पतरोन मेन हरियालि."
+      "बाग़नि में शुक मैना बुलबुल, कोयल मीठा बोले ।",
+      "भंवरा भंवरी फूल फूल पर, मिलकर करत कलोले ।",
+      "ये सबके मन को भाये रे ॥२ ॥"
     ],
     [
-      "सब देख देख सुख पाये रे.1. ||.",
-      "बाघनि मेन शुक मैना बुलबुल, कोयल मिथा बोले."
+      "साध सन्त मिल हरिजन मुनिजन, बसन्त को नित गावहिं ।",
+      "चड् मृदट्ठ सितार तम्बूरा, बाजा ढोल बजावहेिं ।",
+      "सुन श्रोता गन हषयि रे ॥३ ॥"
     ],
     [
-      "भनवरा भनवरि फुल फुल पर, मिलकर करत कलोले.",
-      "ये सबके मन को भाये रे || 2 ||."
-    ],
-    [
-      "हद",
-      "साध संत मिल हरिजन मुनिजन, बसनत को नित गावहिन."
-    ],
-    [
-      "चद मरिदतथ सितार तमबुरा, बाजा धोल बजावहेिन.",
-      "सुन शरोता गन हशयि रे || 3 || ||"
-    ],
-    [
-      "कहे तेऊँ भया आनंद सबको, फुलि सरिशति सारि.",
-      "ापस मेन मिल रनग लगावहिन, मार प्रेम पिचकारि."
-    ],
-    [
-      "सब सुख के माहिन समाये रे || 4 ||"
+      "कहे टेऊँ भया आनन्द सबको, फूली सृष्टी सारी ।",
+      "आपस में मिल रंग लगावहिं, मार प्रेम पिचकारी ।",
+      "सब सुख के माहिं समाये रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Ab Basant Ke Din Aaye Re, Bahu Aanand Chhaaye Re (Tek)."
-    ],
-    [
       "Ban Ban Men Sab Taruvar Phule, Phul Rahi Sab Daali.",
-      "Daar Daar Men Patre Phule, Patron Men Hariyaali."
+      "Daar Daar Men Patre Phule, Patron Men Hariyaali.",
+      "Sab Dekh Dekh Sukh Paaye Re || 1 ||"
     ],
     [
-      "Sab Dekh Dekh Sukh Paaye Re.1. ||.",
-      "Baaghni Men Shuk Mainaa Bulbul, Koyal Mithaa Bole."
-    ],
-    [
+      "Baaghni Men Shuk Mainaa Bulbul, Koyal Mithaa Bole.",
       "Bhanvraa Bhanvri Phul Phul Par, Milkar Karat Kalole.",
-      "Ye Sabke Man Ko Bhaaye Re || 2 ||."
+      "Ye Sabke Man Ko Bhaaye Re || 2 ||"
     ],
     [
-      "Had",
-      "Saadh Sant Mil Harijan Munijan, Basant Ko Nit Gaavhin."
-    ],
-    [
+      "Saadh Sant Mil Harijan Munijan, Basant Ko Nit Gaavhin.",
       "Chad Mridatth Sitaar Tamburaa, Baajaa Dhol Bajaavhein.",
-      "Sun Shrotaa Gan Hashyi Re || 3 || ||"
+      "Sun Shrotaa Gan Hashyi Re || 3 ||"
     ],
     [
       "Kahe Teun Bhayaa Aanand Sabko, Phuli Srishti Saari.",
-      "Aapas Men Mil Rang Lagaavhin, Maar Prem Pichkaari."
-    ],
-    [
+      "Aapas Men Mil Rang Lagaavhin, Maar Prem Pichkaari.",
       "Sab Sukh Ke Maahin Samaaye Re || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 18 || 3E61 ||",
+    "अब बसन्त के दिन आये रे, बहु आनन्द छाये रे",
     "Ab Basant Ke Din Aaye Re, Bahu Aanand Chhaaye Re",
-    "ब बसनत के दीन ाये रे, बहु आनंद चहाये रे"
+    "राग बसंत भजन 18",
+    "Raag Basant Bhajan 18"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 361,
+  "displayOrder": 18,
+  "overallOrder": 361,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 213",
+  "updatedAt": "2026-10-26"
 }

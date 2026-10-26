@@ -1,0 +1,122 @@
+{
+  "id": "bhajan-0069",
+  "slug": "raam-naam-gun-gaao-re-man-der-na-laao",
+  "categoryId": "raag-aasaa",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "राम नाम गुण गाओ, रे मन देर न लाओ,",
+  "romanTitle": "Raam Naam Gun Gaao, Re Man Der Na Laao,",
+  "firstLine": "Raam Naam Gun Gaao, Re Man Der Na Laao,",
+  "heading": "।। राग आसा भजन ।। ७ ।। ६९।।",
+  "tek": [
+    "राम नाम गुण गाओ, रे मन देर न लाओ,",
+    "सहज समाओ, शान्ती पाओ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Raam Naam Gun Gaao, Re Man Der Na Laao,",
+    "Sahaj Samaao, Shaanti Paao (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जागो तुम गफ्लत को छोड़े, गुरु मन्त्र में चित्त को जोड़े ।",
+        "मायिक ख्याल मिटाओ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaago Tum Gaphlat Ko Chhore, Guru Mantr Men Chitt Ko Jore.",
+        "Maayik Khyaal Mitaao || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष जन्म दिया हरि दाते, काहे विषयों माहिं गंवाते ।",
+        "हरि भज सफल बनाओ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Janm Diyaa Hari Daate, Kaahe Vishyon Maahin Ganvaate.",
+        "Hari Bhaj Saphal Banaao || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जग के सब तुम बन्धन तोड़े, मोह कुट्म्ब से मन को मोड़े ।",
+        "भकक्‍्ती माहिं लगाओ । ॥ ।डे ॥",
+        "कहे टेऊँ बेदनि फरमाया, सत्संग में कर सफली काया ।",
+        "गुरु की सेव कमाओ ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jag Ke Sab Tum Bandhan Tore, Moh Kutmb Se Man Ko More.",
+        "Bhakak‍Ti Maahin Lagaao || De ||",
+        "Kahe Teun Bedni Pharmaayaa, Satsang Men Kar Saphli Kaayaa.",
+        "Guru Ki Sev Kamaao || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "ठ्ह"
+      ],
+      "romanLines": [
+        "Thh"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "जागो तुम गफ्लत को छोड़े, गुरु मन्त्र में चित्त को जोड़े ।",
+      "मायिक ख्याल मिटाओ ॥१ ॥"
+    ],
+    [
+      "मानुष जन्म दिया हरि दाते, काहे विषयों माहिं गंवाते ।",
+      "हरि भज सफल बनाओ ॥२ ॥"
+    ],
+    [
+      "जग के सब तुम बन्धन तोड़े, मोह कुट्म्ब से मन को मोड़े ।",
+      "भकक्‍्ती माहिं लगाओ । ॥ ।डे ॥",
+      "कहे टेऊँ बेदनि फरमाया, सत्संग में कर सफली काया ।",
+      "गुरु की सेव कमाओ ॥४ ॥"
+    ],
+    [
+      "ठ्ह"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Jaago Tum Gaphlat Ko Chhore, Guru Mantr Men Chitt Ko Jore.",
+      "Maayik Khyaal Mitaao || 1 ||"
+    ],
+    [
+      "Maanush Janm Diyaa Hari Daate, Kaahe Vishyon Maahin Ganvaate.",
+      "Hari Bhaj Saphal Banaao || 2 ||"
+    ],
+    [
+      "Jag Ke Sab Tum Bandhan Tore, Moh Kutmb Se Man Ko More.",
+      "Bhakak‍Ti Maahin Lagaao || De ||",
+      "Kahe Teun Bedni Pharmaayaa, Satsang Men Kar Saphli Kaayaa.",
+      "Guru Ki Sev Kamaao || 4 ||"
+    ],
+    [
+      "Thh"
+    ]
+  ],
+  "alternateSpellings": [
+    "राम नाम गुण गाओ, रे मन देर न लाओ,",
+    "Raam Naam Gun Gaao, Re Man Der Na Laao,",
+    "राग आसा भजन 7",
+    "Raag Aasaa Bhajan 7"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
+  ],
+  "displayOrder": 7,
+  "overallOrder": 69,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 59",
+  "updatedAt": "2026-10-26"
+}

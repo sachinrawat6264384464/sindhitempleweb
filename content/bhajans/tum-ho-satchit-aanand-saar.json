@@ -1,73 +1,118 @@
 {
-  "id": "bhajan-0555",
+  "id": "bhajan-0553",
   "slug": "tum-ho-satchit-aanand-saar",
   "categoryId": "raag-khambhaat",
-  "title": "तुम हो सतचित‌ आनंद सार",
-  "romanTitle": "Tum Ho Satchit‌ Aanand Saar",
-  "firstLine": "Tum Ho Satchit‌ Aanand Saar, Sabke Saakshi Sirjanhaar (Tek).",
+  "categoryName": "राग खंभात",
+  "romanCategoryName": "Raag Khambhaat",
+  "title": "तुम हो सत्चित्‌ आनन्द सार,",
+  "romanTitle": "Tum Ho Satchit‌ Aanand Saar,",
+  "firstLine": "Tum Ho Satchit‌ Aanand Saar,",
+  "heading": "।। राग खम्भाट भजन ।। ५ ।। ५५४।।",
+  "tek": [
+    "तुम हो सत्चित्‌ आनन्द सार,",
+    "सबके साक्षी सिरजणहार ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Ho Satchit‌ Aanand Saar,",
+    "Sabke Saakshi Sirjanhaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुझमें कबहूँ हार न जीता, हर्ष शोक नहिं बैरी मीता ।",
+        "तीन गुणों से आप अतीता, निर्गुण निरआाकार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tujhmen Kabhun Haar Na Jitaa, Harsh Shok Nahin Bairi Mitaa.",
+        "Tin Gunon Se Aap Atitaa, Nirgun Niraakaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुझमें मन चित्त ना बुद्धि बानी, विश्व न तेजस प्राज्ञ न प्रानी ।",
+        "तीन अवस्था की न निशानी, तुम तुर्या आधार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tujhmen Man Chitt Naa Buddhi Baani, Vishv Na Tejas Praajny Na Praani.",
+        "Tin Avasthaa Ki Na Nishaani, Tum Turyaa Aadhaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुझमें ना है त्रिविध तापा, सूख दूख नहिं पुण्य न पापा ।",
+        "इस्तुति निन्‍दा नहिं वर शापा, है शुद्ध अगम अपार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tujhmen Naa Hai Trividh Taapaa, Sukh Dukh Nahin Puny Na Paapaa.",
+        "Istuti Nin‍Daa Nahin Var Shaapaa, Hai Shuddh Agam Apaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "तुझमें ना को अंग अकारा, खट उमी नहिं पांच विकारा ।",
+        "कहे टेऊँ तूं सबसे न्यारा, ब्रह्म रूप निर्धार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Tujhmen Naa Ko Ang Akaaraa, Khat Umi Nahin Paanch Vikaaraa.",
+        "Kahe Teun Tu Sabse Nyaaraa, Brahm Rup Nirdhaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम हो सतचित‌ आनंद सार,",
-      "सबके साक्षी सिरजनहार (टेक)."
+      "तुझमें कबहूँ हार न जीता, हर्ष शोक नहिं बैरी मीता ।",
+      "तीन गुणों से आप अतीता, निर्गुण निरआाकार ॥१ ॥"
     ],
     [
-      "तुझमेन कभुन हार न जिता, हरश शोक नहिन बैरि मिता.",
-      "तिन गुनोन से ाप तिता, निरगुन निराकार ||.8 ||."
+      "तुझमें मन चित्त ना बुद्धि बानी, विश्व न तेजस प्राज्ञ न प्रानी ।",
+      "तीन अवस्था की न निशानी, तुम तुर्या आधार ॥२ ॥"
     ],
     [
-      "तुझमेन मन चितत ना बुदधि बानी, विशव न तेजस पराजनय न परानि.",
-      "तिन वसथा कि न निशानि, तुम तुरया ाधार || 2 ||"
+      "तुझमें ना है त्रिविध तापा, सूख दूख नहिं पुण्य न पापा ।",
+      "इस्तुति निन्‍दा नहिं वर शापा, है शुद्ध अगम अपार ॥३ ॥"
     ],
     [
-      "तुझमेन ना है तरिविध तापा, सुख दुःख नहिन पुनय न पापा.",
-      "िसतुति निनदा नहिन वर शापा, है शुदध गम पार || 3 ||"
-    ],
-    [
-      "तुझमेन ना को नग कारा, खत ुमि नहिन पानच विकारा.",
-      "कहे तेऊँ तु सबसे नयारा, बरहम रुप निरधार || 4. ||."
-    ],
-    [
-      "तल"
+      "तुझमें ना को अंग अकारा, खट उमी नहिं पांच विकारा ।",
+      "कहे टेऊँ तूं सबसे न्यारा, ब्रह्म रूप निर्धार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Ho Satchit‌ Aanand Saar,",
-      "Sabke Saakshi Sirjanhaar (Tek)."
+      "Tujhmen Kabhun Haar Na Jitaa, Harsh Shok Nahin Bairi Mitaa.",
+      "Tin Gunon Se Aap Atitaa, Nirgun Niraakaar || 1 ||"
     ],
     [
-      "Tujhmen Kabhun Haar N Jitaa, Harsh Shok Nahin Bairi Mitaa.",
-      "Tin Gunon Se Aap Atitaa, Nirgun Niraakaar ||.8 ||."
+      "Tujhmen Man Chitt Naa Buddhi Baani, Vishv Na Tejas Praajny Na Praani.",
+      "Tin Avasthaa Ki Na Nishaani, Tum Turyaa Aadhaar || 2 ||"
     ],
     [
-      "Tujhmen Man Chitt Naa Buddhi Baani, Vishv N Tejas Praajny N Praani.",
-      "Tin Avasthaa Ki N Nishaani, Tum Turyaa Aadhaar || 2 ||"
-    ],
-    [
-      "Tujhmen Naa Hai Trividh Taapaa, Sukh Dukh Nahin Puny N Paapaa.",
+      "Tujhmen Naa Hai Trividh Taapaa, Sukh Dukh Nahin Puny Na Paapaa.",
       "Istuti Nin‍Daa Nahin Var Shaapaa, Hai Shuddh Agam Apaar || 3 ||"
     ],
     [
       "Tujhmen Naa Ko Ang Akaaraa, Khat Umi Nahin Paanch Vikaaraa.",
-      "Kahe Teun Tu Sabse Nyaaraa, Brahm Rup Nirdhaar || 4. ||."
-    ],
-    [
-      "Tal"
+      "Kahe Teun Tu Sabse Nyaaraa, Brahm Rup Nirdhaar || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Khambhaat Bhajan || 5 || 554 ||",
-    "Tum Ho Satchit‌ Aanand Saar",
-    "तुम हो सतचित‌ आनंद सार"
+    "तुम हो सत्चित्‌ आनन्द सार,",
+    "Tum Ho Satchit‌ Aanand Saar,",
+    "राग खंभात भजन 5",
+    "Raag Khambhaat Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "khambhaat"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-khambhaat",
+    "bhajan"
   ],
-  "displayOrder": 555,
+  "displayOrder": 5,
+  "overallOrder": 553,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 302",
+  "updatedAt": "2026-10-26"
 }

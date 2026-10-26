@@ -1,81 +1,154 @@
 {
-  "id": "bhajan-0726",
+  "id": "bhajan-0724",
   "slug": "amarapur-ke-yogi-aayaa-jug-jug-jiv-ubaaraa",
   "categoryId": "raag-pilaa",
-  "title": "अमरापुर के योगि ाया, जुग जुग जिव ुबारा",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "अमरापुर के योगी आया, जुग जुग जीव उबारा",
   "romanTitle": "Amarapur Ke Yogi Aayaa, Jug Jug Jiv Ubaaraa",
   "firstLine": "Amarapur Ke Yogi Aayaa, Jug Jug Jiv Ubaaraa (Tek).",
+  "heading": "।। राग पीला भजन ।। ३ ।। ७२५।।",
+  "tek": [
+    "अमरापुर के योगी आया, जुग जुग जीव उबारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Amarapur Ke Yogi Aayaa, Jug Jug Jiv Ubaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "क्षमा सम संतोष विचारी, परमार्थ से पर उपकारी ।",
+        "प्रेमिन किया पुकारा, तब धार लिया अवतारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kshamaa Sam Santosh Vichaari, Parmaarth Se Par Upkaari.",
+        "Premin Kiyaa Pukaaraa, Tab Dhaar Liyaa Avtaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दानी जत सत धीरजधारी, बाहर भीतर भजन भण्डारी ।",
+        "ज्ञान अमर फल सारा, नित करते सन्त अहारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Daani Jat Sat Dhirjadhaari, Baahar Bhitar Bhajan Bhandaari.",
+        "Gyaan Amar Phal Saaraa, Nit Karte Sant Ahaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बिन भूमी जिन बाग़ लगाया, चारों साधन चिमन बनाया ।",
+        "पुष्प गुणों गुलिज़ारा, उपदेश हुआ हुबकारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bin Bhumi Jin Baagh Lagaayaa, Chaaron Saadhan Chiman Banaayaa.",
+        "Pushp Gunon Gulizaaraa, Updesh Huaa Hubkaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अष्ट कमल पर आसन कीया, अमर देश को देख सु लीया ।",
+        "पाया दिव्य दीदारा, तनि देखा अगम अपारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Asht Kamal Par Aasan Kiyaa, Amar Desh Ko Dekh Su Liyaa.",
+        "Paayaa Divy Didaaraa, Tani Dekhaa Agam Apaaraa || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहे टेऊँ कर जोड़ पुकारे, भाग जगे घर आये हमारे ।",
+        "लेखा जम निवारा, तब होया जय जयकारा ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kar Jor Pukaare, Bhaag Jage Ghar Aaye Hamaare.",
+        "Lekhaa Jam Nivaaraa, Tab Hoyaa Jay Jaykaaraa || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "॥ राग पीला भ",
+        "ठ्हा"
+      ],
+      "romanLines": [
+        "|| Raag Pilaa Bha",
+        "Thhaa"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "अमरापुर के योगि ाया, जुग जुग जिव ुबारा (टेक)."
+      "क्षमा सम संतोष विचारी, परमार्थ से पर उपकारी ।",
+      "प्रेमिन किया पुकारा, तब धार लिया अवतारा ॥१ ॥"
     ],
     [
-      "कशमा सम सनतोश विचारि, परमारथ से पर ुपकारि.",
-      "परेमिन किया पुकारा, तब धार लिया वतारा.1 ||."
+      "दानी जत सत धीरजधारी, बाहर भीतर भजन भण्डारी ।",
+      "ज्ञान अमर फल सारा, नित करते सन्त अहारा ॥२ ॥"
     ],
     [
-      "दानि जत सत धिरजधारि, बाहर भितर भजन भनदारि.",
-      "ज्ञान मर फल सारा, नित करते संत हारा || 2 ||."
+      "बिन भूमी जिन बाग़ लगाया, चारों साधन चिमन बनाया ।",
+      "पुष्प गुणों गुलिज़ारा, उपदेश हुआ हुबकारा ॥३ ॥"
     ],
     [
-      "बिन भुमि जिन बाघ लगाया, चारोन साधन चिमन बनाया.",
-      "पुशप गुनोन गुलिzारा, ुपदेश हुा हुबकारा || 3 ||."
+      "अष्ट कमल पर आसन कीया, अमर देश को देख सु लीया ।",
+      "पाया दिव्य दीदारा, तनि देखा अगम अपारा ॥४ ॥"
     ],
     [
-      "शत कमल पर ासन किया, मर देश को देख सु लिया.",
-      "पाया दिवय दिदारा, तनि देखा गम पारा || 4. ||."
+      "कहे टेऊँ कर जोड़ पुकारे, भाग जगे घर आये हमारे ।",
+      "लेखा जम निवारा, तब होया जय जयकारा ॥५ ॥"
     ],
     [
-      "कहे तेऊँ कर जोर पुकारे, भाग जगे घर ाये हमारे.",
-      "लेखा जम निवारा, तब होया जय जयकारा || 5 ||."
-    ],
-    [
-      "|| राग पिला भ",
-      "थहा"
+      "॥ राग पीला भ",
+      "ठ्हा"
     ]
   ],
   "romanLyrics": [
     [
-      "Amarapur Ke Yogi Aayaa, Jug Jug Jiv Ubaaraa (Tek)."
-    ],
-    [
       "Kshamaa Sam Santosh Vichaari, Parmaarth Se Par Upkaari.",
-      "Premin Kiyaa Pukaaraa, Tab Dhaar Liyaa Avtaaraa.1 ||."
+      "Premin Kiyaa Pukaaraa, Tab Dhaar Liyaa Avtaaraa || 1 ||"
     ],
     [
       "Daani Jat Sat Dhirjadhaari, Baahar Bhitar Bhajan Bhandaari.",
-      "Jnyaan Amar Phal Saaraa, Nit Karte Sant Ahaaraa || 2 ||."
+      "Gyaan Amar Phal Saaraa, Nit Karte Sant Ahaaraa || 2 ||"
     ],
     [
       "Bin Bhumi Jin Baagh Lagaayaa, Chaaron Saadhan Chiman Banaayaa.",
-      "Pushp Gunon Gulizaaraa, Updesh Huaa Hubkaaraa || 3 ||."
+      "Pushp Gunon Gulizaaraa, Updesh Huaa Hubkaaraa || 3 ||"
     ],
     [
       "Asht Kamal Par Aasan Kiyaa, Amar Desh Ko Dekh Su Liyaa.",
-      "Paayaa Divy Didaaraa, Tani Dekhaa Agam Apaaraa || 4. ||."
+      "Paayaa Divy Didaaraa, Tani Dekhaa Agam Apaaraa || 4 ||"
     ],
     [
       "Kahe Teun Kar Jor Pukaare, Bhaag Jage Ghar Aaye Hamaare.",
-      "Lekhaa Jam Nivaaraa, Tab Hoyaa Jay Jaykaaraa || 5 ||."
+      "Lekhaa Jam Nivaaraa, Tab Hoyaa Jay Jaykaaraa || 5 ||"
     ],
     [
-      "|| Raag Pilaa Bh",
+      "|| Raag Pilaa Bha",
       "Thhaa"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 3 || 725 ||",
+    "अमरापुर के योगी आया, जुग जुग जीव उबारा",
     "Amarapur Ke Yogi Aayaa, Jug Jug Jiv Ubaaraa",
-    "अमरापुर के योगि ाया, जुग जुग जिव ुबारा"
+    "राग पीला भजन 3",
+    "Raag Pilaa Bhajan 3"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 726,
+  "displayOrder": 3,
+  "overallOrder": 724,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 385",
+  "updatedAt": "2026-10-26"
 }

@@ -1,73 +1,118 @@
 {
-  "id": "bhajan-0637",
+  "id": "bhajan-0635",
   "slug": "likhaa-jo-lekh-purab-kaa-samajh-so-avashy-hotaa-hai",
   "categoryId": "raag-kanso",
-  "title": "लिखा जो लेख पुरब का, समझ सो वशय होता है",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "लिखा जो लेख पूरब का, समझ सो अवश्य होता है",
   "romanTitle": "Likhaa Jo Lekh Purab Kaa, Samajh So Avashy Hotaa Hai",
-  "firstLine": "Likhaa Jo Lekh Purab Kaa, Samajh So Avashy Hotaa Hai. Mupht Phariyaad Tu Karke, Vrithaa Kyon Vakt Khotaa Hai (Tek).",
+  "firstLine": "Likhaa Jo Lekh Purab Kaa, Samajh So Avashy Hotaa Hai.",
+  "heading": "।। राग कंसो भजन ।। ६ ।। ६३६।।",
+  "tek": [
+    "लिखा जो लेख पूरब का, समझ सो अवश्य होता है ।",
+    "मुफ्त फरियाद तूं करके, वृथा क्यों वक्त खोता है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Likhaa Jo Lekh Purab Kaa, Samajh So Avashy Hotaa Hai.",
+    "Mupht Phariyaad Tu Karke, Vrithaa Kyon Vakt Khotaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देखो रघुनाथ अवतारी, बली रावण महा भारी ।",
+        "कर्म रेखा न किस टारी, धर्म का तात रोता है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dekho Raghunaath Avtaari, Bali Raavan Mahaa Bhaari.",
+        "Karm Rekhaa Na Kis Taari, Dharm Kaa Taat Rotaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सुनो शंकर क्या पाया, भिक्षा मंग मंग टुकर खाया ।",
+        "डेरा श्मशान में लाया, हरी अहि सेज सोता है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Suno Shankar Kyaa Paayaa, Bhikshaa Mang Mang Tukar Khaayaa.",
+        "Deraa Shmashaan Men Laayaa, Hari Ahi Sej Sotaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कर्म ही जीव को प्रेरे, दसों दिस में सदा फेरे ।",
+        "सभी सुर नर मुनी टेरे, कर्म का जगत बोता है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Karm Hi Jiv Ko Prere, Dason Dis Men Sadaa Phere.",
+        "Sabhi Sur Nar Muni Tere, Karm Kaa Jagat Botaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ समझ धारे, सदा प्रसन्न रहो प्यारे ।",
+        "कर्म को भोगते सारे, मिले जो बीज बोता है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Samajh Dhaare, Sadaa Prasann Raho Pyaare.",
+        "Karm Ko Bhogte Saare, Mile Jo Bij Botaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "लिखा जो लेख पुरब का, समझ सो वशय होता है.",
-      "मुफत फरियाद तु करके, वरिथा कयोन वकत खोता है (टेक)."
+      "देखो रघुनाथ अवतारी, बली रावण महा भारी ।",
+      "कर्म रेखा न किस टारी, धर्म का तात रोता है ॥१ ॥"
     ],
     [
-      "देखो रघुनाथ वतारि, बलि रावन महा भारि.",
-      "करम रेखा न किस तारि, धरम का तात रोता है. || 1 ||."
+      "सुनो शंकर क्या पाया, भिक्षा मंग मंग टुकर खाया ।",
+      "डेरा श्मशान में लाया, हरी अहि सेज सोता है ॥२ ॥"
     ],
     [
-      "सुनो शनकर कया पाया, भिकशा मनग मनग तुकर खाया.",
-      "देरा शमशान मेन लाया, हरि हि सेज सोता है || 2 ||."
+      "कर्म ही जीव को प्रेरे, दसों दिस में सदा फेरे ।",
+      "सभी सुर नर मुनी टेरे, कर्म का जगत बोता है ॥३ ॥"
     ],
     [
-      "करम हि जिव को परेरे, दसोन दिस मेन सदा फेरे.",
-      "सभि सुर नर मुनि तेरे, करम का जगत बोता है || 3े ||"
-    ],
-    [
-      "कहे तेऊँ समझ धारे, सदा परसनन रहो पयारे.",
-      "करम को भोगते सारे, मिले जो बिज बोता है || 4 ||"
-    ],
-    [
-      "थग"
+      "कहे टेऊँ समझ धारे, सदा प्रसन्न रहो प्यारे ।",
+      "कर्म को भोगते सारे, मिले जो बीज बोता है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Likhaa Jo Lekh Purab Kaa, Samajh So Avashy Hotaa Hai.",
-      "Mupht Phariyaad Tu Karke, Vrithaa Kyon Vakt Khotaa Hai (Tek)."
-    ],
-    [
       "Dekho Raghunaath Avtaari, Bali Raavan Mahaa Bhaari.",
-      "Karm Rekhaa N Kis Taari, Dharm Kaa Taat Rotaa Hai. || 1 ||."
+      "Karm Rekhaa Na Kis Taari, Dharm Kaa Taat Rotaa Hai || 1 ||"
     ],
     [
       "Suno Shankar Kyaa Paayaa, Bhikshaa Mang Mang Tukar Khaayaa.",
-      "Deraa Shmashaan Men Laayaa, Hari Ahi Sej Sotaa Hai || 2 ||."
+      "Deraa Shmashaan Men Laayaa, Hari Ahi Sej Sotaa Hai || 2 ||"
     ],
     [
       "Karm Hi Jiv Ko Prere, Dason Dis Men Sadaa Phere.",
-      "Sabhi Sur Nar Muni Tere, Karm Kaa Jagat Botaa Hai || 3E ||"
+      "Sabhi Sur Nar Muni Tere, Karm Kaa Jagat Botaa Hai || 3 ||"
     ],
     [
       "Kahe Teun Samajh Dhaare, Sadaa Prasann Raho Pyaare.",
       "Karm Ko Bhogte Saare, Mile Jo Bij Botaa Hai || 4 ||"
-    ],
-    [
-      "Thag"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 6 || 636 ||",
+    "लिखा जो लेख पूरब का, समझ सो अवश्य होता है",
     "Likhaa Jo Lekh Purab Kaa, Samajh So Avashy Hotaa Hai",
-    "लिखा जो लेख पुरब का, समझ सो वशय होता है"
+    "राग कंसो भजन 6",
+    "Raag Kanso Bhajan 6"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 637,
+  "displayOrder": 6,
+  "overallOrder": 635,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 340",
+  "updatedAt": "2026-10-26"
 }

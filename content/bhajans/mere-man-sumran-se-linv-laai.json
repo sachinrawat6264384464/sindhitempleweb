@@ -2,56 +2,79 @@
   "id": "bhajan-0200",
   "slug": "mere-man-sumran-se-linv-laai",
   "categoryId": "raag-tori",
-  "title": "मेरे मन सुमरन से लिनव लाि",
+  "categoryName": "राग तोड़ी",
+  "romanCategoryName": "Raag Tori",
+  "title": "मेरे मन सुमरन से लिंव लाइ",
   "romanTitle": "Mere Man Sumran Se Linv Laai",
-  "firstLine": "Mere Man Sumran Se Linv Laai. Trishnaa Tyaage Thir Kar Aasan It Ut Chit N Dulaai (Tek).",
+  "firstLine": "Mere Man Sumran Se Linv Laai.",
+  "heading": "।। राग टोड़ी भजन ।। ८ ।॥। २००",
+  "tek": [
+    "मेरे मन सुमरन से लिंव लाइ ।",
+    "तृष्णा त्यागे थिर कर आसन इत उत चित न डुलाइ ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Man Sumran Se Linv Laai.",
+    "Trishnaa Tyaage Thir Kar Aasan It Ut Chit Na Dulaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु की मूरत धारे उर में फुरना सर्व हटाइ ।",
+        "श्वास श्वास से सुमरन करले वृथा नाहिं गंवाइ ॥१ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Murat Dhaare Ur Men Phurnaa Sarv Hataai.",
+        "Shvaas Shvaas Se Sumran Karle Vrithaa Naahin Ganvaai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ऊठत बैठत सोवत जागत गुरु का शब्द कमाइ ।",
+        "कहे टेऊँ अन्तर्मुख होके साक्षी माहिं समाइ ॥२ ॥"
+      ],
+      "romanLines": [
+        "Uthat Baithat Sovat Jaagat Guru Kaa Shabd Kamaai.",
+        "Kahe Teun Antarmukh Hoke Saakshi Maahin Samaai || 2 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे मन सुमरन से लिनव लाि.",
-      "तरिशना तयागे थिर कर ासन ित ुत चित न दुलाि (टेक)."
+      "गुरु की मूरत धारे उर में फुरना सर्व हटाइ ।",
+      "श्वास श्वास से सुमरन करले वृथा नाहिं गंवाइ ॥१ ॥"
     ],
     [
-      "गुरु कि मुरत धारे ुर मेन फुरना सर्व हताि.",
-      "शवास शवास से सुमरन करले वरिथा नाहिन गनवाि || 1 ||"
-    ],
-    [
-      "ुथत बैथत सोवत जागत गुरु का शबद कमाि.",
-      "कहे तेऊँ नतरमुख होके साक्षी माहिन समाि || 2 ||."
-    ],
-    [
-      "तय"
+      "ऊठत बैठत सोवत जागत गुरु का शब्द कमाइ ।",
+      "कहे टेऊँ अन्तर्मुख होके साक्षी माहिं समाइ ॥२ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Mere Man Sumran Se Linv Laai.",
-      "Trishnaa Tyaage Thir Kar Aasan It Ut Chit N Dulaai (Tek)."
-    ],
     [
       "Guru Ki Murat Dhaare Ur Men Phurnaa Sarv Hataai.",
       "Shvaas Shvaas Se Sumran Karle Vrithaa Naahin Ganvaai || 1 ||"
     ],
     [
       "Uthat Baithat Sovat Jaagat Guru Kaa Shabd Kamaai.",
-      "Kahe Teun Antarmukh Hoke Saakshi Maahin Samaai || 2 ||."
-    ],
-    [
-      "Tay"
+      "Kahe Teun Antarmukh Hoke Saakshi Maahin Samaai || 2 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tori Bhajan || 8. ||. 200",
+    "मेरे मन सुमरन से लिंव लाइ",
     "Mere Man Sumran Se Linv Laai",
-    "मेरे मन सुमरन से लिनव लाि"
+    "राग तोड़ी भजन 8",
+    "Raag Tori Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "tori"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tori",
+    "bhajan"
   ],
-  "displayOrder": 200,
+  "displayOrder": 8,
+  "overallOrder": 200,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 128",
+  "updatedAt": "2026-10-26"
 }

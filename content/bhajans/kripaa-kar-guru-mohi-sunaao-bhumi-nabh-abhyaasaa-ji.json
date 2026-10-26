@@ -1,50 +1,100 @@
 {
-  "id": "bhajan-0596",
+  "id": "bhajan-0594",
   "slug": "kripaa-kar-guru-mohi-sunaao-bhumi-nabh-abhyaasaa-ji",
   "categoryId": "raag-purab",
-  "title": "कृपा कर गुरु मोहि सुनाो, भुमि नभ भयासा जी",
+  "categoryName": "राग पूरब",
+  "romanCategoryName": "Raag Purab",
+  "title": "कृपा कर गुरु मोहि सुनाओ , भूमी नभ अभ्यासा जी",
   "romanTitle": "Kripaa Kar Guru Mohi Sunaao, Bhumi Nabh Abhyaasaa Ji",
   "firstLine": "Kripaa Kar Guru Mohi Sunaao, Bhumi Nabh Abhyaasaa Ji (Tek).",
+  "heading": "।। राग पूरब भजन ।। ४ ।। ५९५।।",
+  "tek": [
+    "कृपा कर गुरु मोहि सुनाओ , भूमी नभ अभ्यासा जी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kripaa Kar Guru Mohi Sunaao, Bhumi Nabh Abhyaasaa Ji (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भूमी का स्थान कहां है, नभ का कहां निवासा जी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhumi Kaa Sthaan Kahaan Hai, Nabh Kaa Kahaan Nivaasaa Ji || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "भूमी नभ का रूप कौन है, करो सर्व प्रकाशा जी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bhumi Nabh Kaa Rup Kaun Hai, Karo Sarv Prakaashaa Ji || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भूमी नभ अभ्यास करन से, कौन काज हो रासा जी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhumi Nabh Abhyaas Karan Se, Kaun Kaaj Ho Raasaa Ji || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कैसे उठ भूमी, जाय मिले आकासा जी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kaise Uth Bhumi, Jaay Mile Aakaasaa Ji || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कृपा कर गुरु मोहि सुनाो, भुमि नभ भयासा जी (टेक)."
+      "भूमी का स्थान कहां है, नभ का कहां निवासा जी ॥१ ॥"
     ],
     [
-      "भुमि का सथान कहान है, नभ का कहान निवासा जी ||.1 ||.",
-      "भुमि नभ का रुप कौन है, करो सर्व परकाशा जी || 2 ||."
+      "भूमी नभ का रूप कौन है, करो सर्व प्रकाशा जी ॥२ ॥"
     ],
     [
-      "भुमि नभ भयास करन से, कौन काज हो रासा जी ||.3 ||.",
-      "कहे तेऊँ कैसे ुथ भुमि, जाय मिले ाकासा जी ||.4 ||."
+      "भूमी नभ अभ्यास करन से, कौन काज हो रासा जी ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ कैसे उठ भूमी, जाय मिले आकासा जी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Kripaa Kar Guru Mohi Sunaao, Bhumi Nabh Abhyaasaa Ji (Tek)."
+      "Bhumi Kaa Sthaan Kahaan Hai, Nabh Kaa Kahaan Nivaasaa Ji || 1 ||"
     ],
     [
-      "Bhumi Kaa Sthaan Kahaan Hai, Nabh Kaa Kahaan Nivaasaa Ji ||.1 ||.",
-      "Bhumi Nabh Kaa Rup Kaun Hai, Karo Sarv Prakaashaa Ji || 2 ||."
+      "Bhumi Nabh Kaa Rup Kaun Hai, Karo Sarv Prakaashaa Ji || 2 ||"
     ],
     [
-      "Bhumi Nabh Abhyaas Karan Se, Kaun Kaaj Ho Raasaa Ji ||.3 ||.",
-      "Kahe Teun Kaise Uth Bhumi, Jaay Mile Aakaasaa Ji ||.4 ||."
+      "Bhumi Nabh Abhyaas Karan Se, Kaun Kaaj Ho Raasaa Ji || 3 ||"
+    ],
+    [
+      "Kahe Teun Kaise Uth Bhumi, Jaay Mile Aakaasaa Ji || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Purab Bhajan || 4 || 595 ||",
+    "कृपा कर गुरु मोहि सुनाओ , भूमी नभ अभ्यासा जी",
     "Kripaa Kar Guru Mohi Sunaao, Bhumi Nabh Abhyaasaa Ji",
-    "कृपा कर गुरु मोहि सुनाो, भुमि नभ भयासा जी"
+    "राग पूरब भजन 4",
+    "Raag Purab Bhajan 4"
   ],
   "tags": [
-    "teunram",
-    "purab",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-purab",
     "bhajan"
   ],
-  "displayOrder": 596,
+  "displayOrder": 4,
+  "overallOrder": 594,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 323",
+  "updatedAt": "2026-10-26"
 }

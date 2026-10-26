@@ -1,57 +1,148 @@
 {
-  "id": "bhajan-0898",
+  "id": "bhajan-0896",
   "slug": "saaj-le-gaave-re-gaave",
   "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
   "title": "साज ले गावे रे गावे",
   "romanTitle": "Saaj Le Gaave Re Gaave",
   "firstLine": "Saaj Le Gaave Re Gaave (Tek).",
+  "heading": "।। राग जोग भजन ।। ६८ ।। ८९८ ॥।",
+  "tek": [
+    "साज ले गावे रे गावे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saaj Le Gaave Re Gaave (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "लेकर वीणा नारद गावे, शंकर लेकर डमरू ।",
+        "लेकर सितार शारद गावे, विष्णू शंख सुनावे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Lekar Vinaa Naarad Gaave, Shankar Lekar Damru.",
+        "Lekar Sitaar Shaarad Gaave, Vishnu Shankh Sunaave || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दिव्य साज ले सुरपति गावत, ले पुस्तक शुक व्यासा ।",
+        "शेषनाग भी सहसर मुख से, सहस नाम धुनि लावे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Divy Saaj Le Surpati Gaavat, Le Pustak Shuk Vyaasaa.",
+        "Sheshnaag Bhi Sahsar Mukh Se, Sahas Naam Dhuni Laave || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "लेकर मुरली मोहन गाया, गोपी गोप बुलाके ।",
+        "किन्नर गन्धर्व रिलमिल गावत, मृदंग मेघ बजावे ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Lekar Murli Mohan Gaayaa, Gopi Gop Bulaake.",
+        "Kinnar Gandharv Rilmil Gaavat, Mridang Megh Bajaave || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "लेकर खंजरी गोरख गाया, मीरा ले कर्तारा ।",
+        "लेकर तंबूर कबीर गाया, नामा झांझ झुनावे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Lekar Khanjri Gorakh Gaayaa, Miraa Le Kartaaraa.",
+        "Lekar Tambur Kabir Gaayaa, Naamaa Jhaanjh Jhunaave || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "सूरदास ले कंझियां गाया, तुलसी माला फेरी ।",
+        "ले रबाब म्दाने गाया, नानक नाम जपावे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Surdaas Le Kanjhiyaan Gaayaa, Tulsi Maalaa Pheri.",
+        "Le Rabaab Mdaane Gaayaa, Naanak Naam Japaave || 5 ||"
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        "लेकर ढोलक नरसी गाया, जयदेव ले चौतारा ।",
+        "ढोल बजाकर पीपे गाया, नाभा नूपर पावे ॥६ ॥"
+      ],
+      "romanLines": [
+        "Lekar Dholak Narsi Gaayaa, Jaydev Le Chautaaraa.",
+        "Dhol Bajaakar Pipe Gaayaa, Naabhaa Nupar Paave || 6 ||"
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        "ऐसे जिन जिन हरिगुन गाया, तां पर मैं बलिहारी ।",
+        "दास टेऊँ भी ले इकतारा, गावत धूम मचावे ।७ ।+ ।"
+      ],
+      "romanLines": [
+        "Aise Jin Jin Harigun Gaayaa, Taan Par Main Balihaari.",
+        "Daas Teun Bhi Le Iktaaraa, Gaavat Dhum Machaave.7.+."
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "lines": [
+        "गर्ग"
+      ],
+      "romanLines": [
+        "Garg"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साज ले गावे रे गावे (टेक)."
+      "लेकर वीणा नारद गावे, शंकर लेकर डमरू ।",
+      "लेकर सितार शारद गावे, विष्णू शंख सुनावे ॥१ ॥"
     ],
     [
-      "लेकर विना नारद गावे, शनकर लेकर दमरु.",
-      "लेकर सितार शारद गावे, विशनु शनख सुनावे || 1 ||"
+      "दिव्य साज ले सुरपति गावत, ले पुस्तक शुक व्यासा ।",
+      "शेषनाग भी सहसर मुख से, सहस नाम धुनि लावे ॥२ ॥"
     ],
     [
-      "दिवय साज ले सुरपति गावत, ले पुसतक शुक वयासा.",
-      "शेशनाग भि सहसर मुख से, सहस नाम धुनि लावे || 2 ||."
+      "लेकर मुरली मोहन गाया, गोपी गोप बुलाके ।",
+      "किन्नर गन्धर्व रिलमिल गावत, मृदंग मेघ बजावे ॥ ३े ॥"
     ],
     [
-      "लेकर मुरलि मोहन गाया, गोपि गोप बुलाके.",
-      "किननर गनधरव रिलमिल गावत, मरिदनग मेघ बजावे || 3े ||"
+      "लेकर खंजरी गोरख गाया, मीरा ले कर्तारा ।",
+      "लेकर तंबूर कबीर गाया, नामा झांझ झुनावे ॥४ ॥"
     ],
     [
-      "लेकर खनजरि गोरख गाया, मिरा ले करतारा.",
-      "लेकर तमबुर कबिर गाया, नामा झानझ झुनावे || 4 ||"
+      "सूरदास ले कंझियां गाया, तुलसी माला फेरी ।",
+      "ले रबाब म्दाने गाया, नानक नाम जपावे ॥५ ॥"
     ],
     [
-      "सुरदास ले कनझियान गाया, तुलसि माला फेरि.",
-      "ले रबाब मदाने गाया, नानक नाम जपावे || 5 ||."
+      "लेकर ढोलक नरसी गाया, जयदेव ले चौतारा ।",
+      "ढोल बजाकर पीपे गाया, नाभा नूपर पावे ॥६ ॥"
     ],
     [
-      "लेकर धोलक नरसि गाया, जयदेव ले चौतारा.",
-      "धोल बजाकर पिपे गाया, नाभा नुपर पावे ||.6 ||."
+      "ऐसे जिन जिन हरिगुन गाया, तां पर मैं बलिहारी ।",
+      "दास टेऊँ भी ले इकतारा, गावत धूम मचावे ।७ ।+ ।"
     ],
     [
-      "ैसे जिन जिन हरिगुन गाया, तान पर मैं बलिहारि.",
-      "दास तेऊँ भि ले िकतारा, गावत धुम मचावे.7.+."
-    ],
-    [
-      "गरग"
+      "गर्ग"
     ]
   ],
   "romanLyrics": [
-    [
-      "Saaj Le Gaave Re Gaave (Tek)."
-    ],
     [
       "Lekar Vinaa Naarad Gaave, Shankar Lekar Damru.",
       "Lekar Sitaar Shaarad Gaave, Vishnu Shankh Sunaave || 1 ||"
     ],
     [
       "Divy Saaj Le Surpati Gaavat, Le Pustak Shuk Vyaasaa.",
-      "Sheshnaag Bhi Sahsar Mukh Se, Sahas Naam Dhuni Laave || 2 ||."
+      "Sheshnaag Bhi Sahsar Mukh Se, Sahas Naam Dhuni Laave || 2 ||"
     ],
     [
       "Lekar Murli Mohan Gaayaa, Gopi Gop Bulaake.",
@@ -63,11 +154,11 @@
     ],
     [
       "Surdaas Le Kanjhiyaan Gaayaa, Tulsi Maalaa Pheri.",
-      "Le Rabaab Mdaane Gaayaa, Naanak Naam Japaave || 5 ||."
+      "Le Rabaab Mdaane Gaayaa, Naanak Naam Japaave || 5 ||"
     ],
     [
       "Lekar Dholak Narsi Gaayaa, Jaydev Le Chautaaraa.",
-      "Dhol Bajaakar Pipe Gaayaa, Naabhaa Nupar Paave ||.6 ||."
+      "Dhol Bajaakar Pipe Gaayaa, Naabhaa Nupar Paave || 6 ||"
     ],
     [
       "Aise Jin Jin Harigun Gaayaa, Taan Par Main Balihaari.",
@@ -78,18 +169,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 68 || 898 ||.",
+    "साज ले गावे रे गावे",
     "Saaj Le Gaave Re Gaave",
-    "साज ले गावे रे गावे"
+    "राग जोग भजन 68",
+    "Raag Jog Bhajan 68"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 898,
+  "displayOrder": 68,
+  "overallOrder": 896,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 473",
+  "updatedAt": "2026-10-26"
 }

@@ -1,37 +1,86 @@
 {
-  "id": "bhajan-0916",
+  "id": "bhajan-0914",
   "slug": "he-rasnaa-tu-jap-hari-naam",
   "categoryId": "raag-jog",
-  "title": "हे रसना! तु जप हरि नाम",
-  "romanTitle": "He Rasnaa! Tu Jap Hari Naam",
-  "firstLine": "He Rasnaa! Tu Jap Hari Naam, Smaran Se Ho Shobhaa Teri (Tek).",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "हे रसना ! तूं जप हरि नाम,",
+  "romanTitle": "He Rasnaa! Tu Jap Hari Naam,",
+  "firstLine": "He Rasnaa! Tu Jap Hari Naam,",
+  "heading": "।। राग जोग भजन ।। ८६ ।। ९१६ ॥।",
+  "tek": [
+    "हे रसना ! तूं जप हरि नाम,",
+    "स्मरण से हो शोभा तेरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "He Rasnaa! Tu Jap Hari Naam,",
+    "Smaran Se Ho Shobhaa Teri (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि हरि पढ़ले हरि हरि रटले, हरि स्मरे यम फासी कटले ।",
+        "हरि स्मरण का करले काम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hari Hari Parhle Hari Hari Ratle, Hari Smare Yam Phaasi Katle.",
+        "Hari Smaran Kaa Karle Kaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरी नाम की साची बानी, मड़्ल करणी अमृत खानी ।",
+        "हरि वाणी कह आठों याम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Naam Ki Saachi Baani, Marl Karni Amrit Khaani.",
+        "Hari Vaani Kah Aathon Yaam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हरी नाम का भोजन कीजे, जन्म जन्म की भूख हरीजे ।",
+        "हरि रस का भर पीले जाम ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hari Naam Kaa Bhojan Kije, Janm Janm Ki Bhukh Harije.",
+        "Hari Ras Kaa Bhar Pile Jaam || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "सत्‌गुरु से हरि मन्त्र लेके, कहे टेऊँ नित ताहिं स्मरके ।",
+        "पाओ पूर्ण सुख विश्राम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Sat‌Guru Se Hari Mantr Leke, Kahe Teun Nit Taahin Smarke.",
+        "Paao Purn Sukh Vishraam || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हे रसना! तु जप हरि नाम,",
-      "समरन से हो शोभा तेरि (टेक)."
+      "हरि हरि पढ़ले हरि हरि रटले, हरि स्मरे यम फासी कटले ।",
+      "हरि स्मरण का करले काम ॥१ ॥"
     ],
     [
-      "हरि हरि परहले हरि हरि रतले, हरि समरे यम फासि कतले.",
-      "हरि समरन का करले काम || 1 ||"
+      "हरी नाम की साची बानी, मड़्ल करणी अमृत खानी ।",
+      "हरि वाणी कह आठों याम ॥२ ॥"
     ],
     [
-      "हरि नाम कि साचि बानी, मरल करनि अमृत खानि.",
-      "हरि वाणी कह ाथोन याम || 2 ||"
+      "हरी नाम का भोजन कीजे, जन्म जन्म की भूख हरीजे ।",
+      "हरि रस का भर पीले जाम ॥३ ॥"
     ],
     [
-      "हरि नाम का भोजन किजे, जनम जनम कि भुख हरिजे.",
-      "हरि रस का भर पिले जाम || 3"
-    ],
-    [
-      "सतगुरु से हरि मनतर लेके, कहे तेऊँ नित ताहिन समरके.",
-      "पाो पुरन सुख विशराम || 4 ||."
+      "सत्‌गुरु से हरि मन्त्र लेके, कहे टेऊँ नित ताहिं स्मरके ।",
+      "पाओ पूर्ण सुख विश्राम ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "He Rasnaa! Tu Jap Hari Naam,",
-      "Smaran Se Ho Shobhaa Teri (Tek)."
-    ],
     [
       "Hari Hari Parhle Hari Hari Ratle, Hari Smare Yam Phaasi Katle.",
       "Hari Smaran Kaa Karle Kaam || 1 ||"
@@ -42,27 +91,28 @@
     ],
     [
       "Hari Naam Kaa Bhojan Kije, Janm Janm Ki Bhukh Harije.",
-      "Hari Ras Kaa Bhar Pile Jaam || 3"
+      "Hari Ras Kaa Bhar Pile Jaam || 3 ||"
     ],
     [
       "Sat‌Guru Se Hari Mantr Leke, Kahe Teun Nit Taahin Smarke.",
-      "Paao Purn Sukh Vishraam || 4 ||."
+      "Paao Purn Sukh Vishraam || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 86 || 916 ||.",
-    "He Rasnaa! Tu Jap Hari Naam",
-    "हे रसना! तु जप हरि नाम"
+    "हे रसना ! तूं जप हरि नाम,",
+    "He Rasnaa! Tu Jap Hari Naam,",
+    "राग जोग भजन 86",
+    "Raag Jog Bhajan 86"
   ],
   "tags": [
-    "teunram",
-    "jog",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
   ],
-  "displayOrder": 916,
+  "displayOrder": 86,
+  "overallOrder": 914,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 481",
+  "updatedAt": "2026-10-26"
 }

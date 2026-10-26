@@ -2,70 +2,115 @@
   "id": "bhajan-0056",
   "slug": "brahaalok-men-brahm-biraaje-taamen-hoy-praapti-re",
   "categoryId": "raag-prabhaati",
-  "title": "बरहालोक मेन बरहम बिराजे, तामेन होय परापति रे",
+  "categoryName": "राग प्रभाती",
+  "romanCategoryName": "Raag Prabhaati",
+  "title": "ब्रहालोक में ब्रह्म बिराजे, तामें होय प्रापति रे",
   "romanTitle": "Brahaalok Men Brahm Biraaje, Taamen Hoy Praapti Re",
   "firstLine": "Brahaalok Men Brahm Biraaje, Taamen Hoy Praapti Re (Tek).",
+  "heading": "।। राग प्रभाती भजन ।। २४ ।। ५६।।",
+  "tek": [
+    "ब्रहालोक में ब्रह्म बिराजे, तामें होय प्रापति रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Brahaalok Men Brahm Biraaje, Taamen Hoy Praapti Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ब्रह्मालोक यह मानुष तन है, जांकी उपमा वेद कहे ।",
+        "लोक इसी में ब्रह्मा मिलत है, बात कही मैं सत्‌ सत्‌ रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Brahmaalok Yah Maanush Tan Hai, Jaanki Upmaa Ved Kahe.",
+        "Lok Isi Men Brahmaa Milat Hai, Baat Kahi Main Sat‌ Sat‌ Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "चौरासी लख योनियों अन्दर, ब्रह्म दर्श ना होय कहीं ।",
+        "जैसे पुष्प हिमाचल शिल पर, होवे ना कब उत्पति रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Chauraasi Lakh Yoniyon Andar, Brahm Darsh Naa Hoy Kahin.",
+        "Jaise Pushp Himaachal Shil Par, Hove Naa Kab Utpati Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "अं ब्रह्म में ब्रह्मा अहं में, ओत प्रोत यह ज्ञान सही ।",
+        "ऐसे पूर्ण ब्रह्म ज्ञान से, मन की मेटो कल्पित रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "An Brahm Men Brahmaa Ahan Men, Ot Prot Yah Gyaan Sahi.",
+        "Aise Purn Brahm Gyaan Se, Man Ki Meto Kalpit Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जिहं मानुष तन में, ब्रह्मदर्श को पाय लिया ।",
+        "धन धन जन्म उसी का जानो , धन धन उसकी मति गति रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jihan Maanush Tan Men, Brahmadarsh Ko Paay Liyaa.",
+        "Dhan Dhan Janm Usi Kaa Jaano, Dhan Dhan Uski Mati Gati Re || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "बरहालोक मेन बरहम बिराजे, तामेन होय परापति रे (टेक)."
+      "ब्रह्मालोक यह मानुष तन है, जांकी उपमा वेद कहे ।",
+      "लोक इसी में ब्रह्मा मिलत है, बात कही मैं सत्‌ सत्‌ रे ॥१ ॥"
     ],
     [
-      "बरहमालोक यह मानुश तन है, जानकि ुपमा वेद कहे.",
-      "लोक िसि मेन बरहम मिलत है, बात कहि मैं सत‌ सत‌ रे || 1 ||."
+      "चौरासी लख योनियों अन्दर, ब्रह्म दर्श ना होय कहीं ।",
+      "जैसे पुष्प हिमाचल शिल पर, होवे ना कब उत्पति रे ॥२ ॥"
     ],
     [
-      "चौरासि लख योनियोन नदर, बरहम दरश ना होय कहिन.",
-      "जैसे पुशप हिमाचल शिल पर, होवे ना कब ुतपति रे || 2 ||."
+      "अं ब्रह्म में ब्रह्मा अहं में, ओत प्रोत यह ज्ञान सही ।",
+      "ऐसे पूर्ण ब्रह्म ज्ञान से, मन की मेटो कल्पित रे ॥३ ॥"
     ],
     [
-      "न बरहम मेन बरहम हन मेन, ोत परोत यह ज्ञान सहि.",
-      "ैसे पुरन बरहम ज्ञान से, मन कि मेतो कलपित रे || 3 ||."
-    ],
-    [
-      "कहे तेऊँ जिहन मानुश तन मेन, बरहमदरश को पाय लिया.",
-      "धन धन जनम ुसि का जानो, धन धन ुसकि मति गति रे || 4 ||"
-    ],
-    [
-      "द"
+      "कहे टेऊँ जिहं मानुष तन में, ब्रह्मदर्श को पाय लिया ।",
+      "धन धन जन्म उसी का जानो , धन धन उसकी मति गति रे ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Brahaalok Men Brahm Biraaje, Taamen Hoy Praapti Re (Tek)."
-    ],
-    [
       "Brahmaalok Yah Maanush Tan Hai, Jaanki Upmaa Ved Kahe.",
-      "Lok Isi Men Brahma Milat Hai, Baat Kahi Main Sat‌ Sat‌ Re || 1 ||."
+      "Lok Isi Men Brahmaa Milat Hai, Baat Kahi Main Sat‌ Sat‌ Re || 1 ||"
     ],
     [
       "Chauraasi Lakh Yoniyon Andar, Brahm Darsh Naa Hoy Kahin.",
-      "Jaise Pushp Himaachal Shil Par, Hove Naa Kab Utpati Re || 2 ||."
+      "Jaise Pushp Himaachal Shil Par, Hove Naa Kab Utpati Re || 2 ||"
     ],
     [
-      "An Brahm Men Brahma Ahan Men, Ot Prot Yah Jnyaan Sahi.",
-      "Aise Purn Brahm Jnyaan Se, Man Ki Meto Kalpit Re || 3 ||."
+      "An Brahm Men Brahmaa Ahan Men, Ot Prot Yah Gyaan Sahi.",
+      "Aise Purn Brahm Gyaan Se, Man Ki Meto Kalpit Re || 3 ||"
     ],
     [
       "Kahe Teun Jihan Maanush Tan Men, Brahmadarsh Ko Paay Liyaa.",
       "Dhan Dhan Janm Usi Kaa Jaano, Dhan Dhan Uski Mati Gati Re || 4 ||"
-    ],
-    [
-      "D"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Prabhaati Bhajan || 24 || 56 ||",
+    "ब्रहालोक में ब्रह्म बिराजे, तामें होय प्रापति रे",
     "Brahaalok Men Brahm Biraaje, Taamen Hoy Praapti Re",
-    "बरहालोक मेन बरहम बिराजे, तामेन होय परापति रे"
+    "राग प्रभाती भजन 24",
+    "Raag Prabhaati Bhajan 24"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "prabhaati"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-prabhaati",
+    "bhajan"
   ],
-  "displayOrder": 56,
+  "displayOrder": 24,
+  "overallOrder": 56,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 53",
+  "updatedAt": "2026-10-26"
 }

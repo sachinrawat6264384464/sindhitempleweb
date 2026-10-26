@@ -1,0 +1,89 @@
+{
+  "id": "bhajan-0422",
+  "slug": "kaal-ki-naubat-nishdin-baaje-sunte-kyon-na-ajaanaa-re",
+  "categoryId": "raag-tilang",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "काल की नौबत निशदिन बाजे, सुनते क्यों न अजाना रे",
+  "romanTitle": "Kaal Ki Naubat Nishdin Baaje, Sunte Kyon Na Ajaanaa Re",
+  "firstLine": "Kaal Ki Naubat Nishdin Baaje, Sunte Kyon Na Ajaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५९ ।। ४२ ३॥।",
+  "tek": [
+    "काल की नौबत निशदिन बाजे, सुनते क्यों न अजाना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kaal Ki Naubat Nishdin Baaje, Sunte Kyon Na Ajaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पीर पैगम्बर मीर धीर को, मार करे मैदाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Pir Paigambar Mir Dhir Ko, Maar Kare Maidaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जोगी झँगम जप तप धारी, सबको मारत बाना रे ॥? ॥",
+        "मानुष राक्षस जीव चराचर, किसका नाहिं ठिकाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jogi Jhangam Jap Tap Dhaari, Sabko Maarat Baanaa Re || ? ||",
+        "Maanush Raakshas Jiv Charaachar, Kiskaa Naahin Thikaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ थिर नाम हरी का, सुमरो ताहिं सुजाना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Thir Naam Hari Kaa, Sumro Taahin Sujaanaa Re || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "पीर पैगम्बर मीर धीर को, मार करे मैदाना रे ॥१ ॥"
+    ],
+    [
+      "जोगी झँगम जप तप धारी, सबको मारत बाना रे ॥? ॥",
+      "मानुष राक्षस जीव चराचर, किसका नाहिं ठिकाना रे ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ थिर नाम हरी का, सुमरो ताहिं सुजाना रे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Pir Paigambar Mir Dhir Ko, Maar Kare Maidaanaa Re || 1 ||"
+    ],
+    [
+      "Jogi Jhangam Jap Tap Dhaari, Sabko Maarat Baanaa Re || ? ||",
+      "Maanush Raakshas Jiv Charaachar, Kiskaa Naahin Thikaanaa Re || 3 ||"
+    ],
+    [
+      "Kahe Teun Thir Naam Hari Kaa, Sumro Taahin Sujaanaa Re || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "काल की नौबत निशदिन बाजे, सुनते क्यों न अजाना रे",
+    "Kaal Ki Naubat Nishdin Baaje, Sunte Kyon Na Ajaanaa Re",
+    "राग तिलंग भजन 59",
+    "Raag Tilang Bhajan 59"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
+  ],
+  "displayOrder": 59,
+  "overallOrder": 422,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 242",
+  "updatedAt": "2026-10-26"
+}

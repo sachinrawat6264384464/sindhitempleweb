@@ -1,52 +1,102 @@
 {
-  "id": "bhajan-0509",
+  "id": "bhajan-0507",
   "slug": "haath-jor-gurudev-ko-kije",
   "categoryId": "raag-kohiyaari",
-  "title": "हाथ जोर गुरुदेव को किजे",
-  "romanTitle": "Haath Jor Gurudev Ko Kije",
-  "firstLine": "Haath Jor Gurudev Ko Kije, Baarambaar Juhaaraa, Pritam Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "हाथ जोड़ गुरुदेव को कीजे,",
+  "romanTitle": "Haath Jor Gurudev Ko Kije,",
+  "firstLine": "Haath Jor Gurudev Ko Kije,",
+  "heading": "।। राग कोह्मारी भजन ।। २८ ।। ५०८॥।",
+  "tek": [
+    "हाथ जोड़ गुरुदेव को कीजे,",
+    "बारम्बार जुहारा, प्रीतम प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Haath Jor Gurudev Ko Kije,",
+    "Baarambaar Juhaaraa, Pritam Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरु को भेंट धरे तन मन धन, जाओ बलि बलिहारा ॥8 ॥"
+      ],
+      "romanLines": [
+        "Guru Ko Bhent Dhare Tan Man Dhan, Jaao Bali Balihaaraa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हो निष्काम करो गुरु सेवा, मन का तज अहंकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ho Nishkaam Karo Guru Sevaa, Man Kaa Taj Ahankaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरु का नाम जपे निशवासर, पाओ शान्ति भण्डारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Kaa Naam Jape Nishvaasar, Paao Shaanti Bhandaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ गुरु के वचने, पाओ मोक्ष द्वारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Guru Ke Vachne, Paao Moksh Dvaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हाथ जोर गुरुदेव को किजे,",
-      "बारमबार जुहारा, परितम पयारा (टेक)."
+      "गुरु को भेंट धरे तन मन धन, जाओ बलि बलिहारा ॥8 ॥"
     ],
     [
-      "गुरु को भेनत धरे तन मन धन, जाो बलि बलिहारा.8. ||.",
-      "हो निशकाम करो गुरु सेवा, मन का तज हनकारा || 2 ||."
+      "हो निष्काम करो गुरु सेवा, मन का तज अहंकारा ॥२ ॥"
     ],
     [
-      "गुरु का नाम जपे निशवासर, पाो शांति भनदारा.3 ||.",
-      "कहता तेऊँ गुरु के वचने, पाो मोक्ष दवारा || 4 ||."
+      "गुरु का नाम जपे निशवासर, पाओ शान्ति भण्डारा ॥३ ॥"
+    ],
+    [
+      "कहता टेऊँ गुरु के वचने, पाओ मोक्ष द्वारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Haath Jor Gurudev Ko Kije,",
-      "Baarambaar Juhaaraa, Pritam Pyaaraa (Tek)."
+      "Guru Ko Bhent Dhare Tan Man Dhan, Jaao Bali Balihaaraa || 8 ||"
     ],
     [
-      "Guru Ko Bhent Dhare Tan Man Dhan, Jaao Bali Balihaaraa.8. ||.",
-      "Ho Nishkaam Karo Guru Sevaa, Man Kaa Taj Ahankaaraa || 2 ||."
+      "Ho Nishkaam Karo Guru Sevaa, Man Kaa Taj Ahankaaraa || 2 ||"
     ],
     [
-      "Guru Kaa Naam Jape Nishvaasar, Paao Shaanti Bhandaaraa.3 ||.",
-      "Kahtaa Teun Guru Ke Vachne, Paao Moksh Dvaaraa || 4 ||."
+      "Guru Kaa Naam Jape Nishvaasar, Paao Shaanti Bhandaaraa || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Guru Ke Vachne, Paao Moksh Dvaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 28 || 508 ||.",
-    "Haath Jor Gurudev Ko Kije",
-    "हाथ जोर गुरुदेव को किजे"
+    "हाथ जोड़ गुरुदेव को कीजे,",
+    "Haath Jor Gurudev Ko Kije,",
+    "राग कोहियारी भजन 28",
+    "Raag Kohiyaari Bhajan 28"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 509,
+  "displayOrder": 28,
+  "overallOrder": 507,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 282",
+  "updatedAt": "2026-10-26"
 }

@@ -1,62 +1,102 @@
 {
-  "id": "bhajan-0513",
+  "id": "bhajan-0511",
   "slug": "bhav-saagar-se-paar-utaaro",
   "categoryId": "raag-kohiyaari",
-  "title": "भव सागर से पार ुतारो",
-  "romanTitle": "Bhav Saagar Se Paar Utaaro",
-  "firstLine": "Bhav Saagar Se Paar Utaaro, Main Hun Sharan Tumhaari, Guru Avtaari (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "भव सागर से पार उतारो,",
+  "romanTitle": "Bhav Saagar Se Paar Utaaro,",
+  "firstLine": "Bhav Saagar Se Paar Utaaro,",
+  "heading": "।। राग कोह्मारी भजन ।। ३२ ।। ५१२।।",
+  "tek": [
+    "भव सागर से पार उतारो,",
+    "मैं हूं शरन तुम्हारी, गुरु अवतारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhav Saagar Se Paar Utaaro,",
+    "Main Hun Sharan Tumhaari, Guru Avtaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तुम हो पावन पतित उधारन, मैं हूं पापी भारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Paavan Patit Udhaaran, Main Hun Paapi Bhaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तुम हो गोबिन्द सब गुन खानी, मैं अवगुन भण्डारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Gobind Sab Gun Khaani, Main Avgun Bhandaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "तुम हो दाता दीन दयाला, मैं हूं दीन भिखारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Tum Ho Daataa Din Dayaalaa, Main Hun Din Bhikhaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह विनय सुनीजे, राखो लाज हमारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Vinay Sunije, Raakho Laaj Hamaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भव सागर से पार ुतारो,",
-      "मैं हुन शरन तुमहारि, गुरु वतारि (टेक)."
+      "तुम हो पावन पतित उधारन, मैं हूं पापी भारी ॥१ ॥"
     ],
     [
-      "तुम हो पावन पतित ुधारन, मैं हुन पापि भारि || 1. ||."
+      "तुम हो गोबिन्द सब गुन खानी, मैं अवगुन भण्डारी ॥२ ॥"
     ],
     [
-      "तुम हो गोबिनद सब गुन खानि, मैं वगुन भनदारि || 2 ||."
+      "तुम हो दाता दीन दयाला, मैं हूं दीन भिखारी ॥३ ॥"
     ],
     [
-      "तुम हो दाता दीन दयाला, मैं हुन दीन भिखारि ||.3 ||.",
-      "कहे तेऊँ यह विनय सुनिजे, राखो लाज हमारि ||.4 ||."
-    ],
-    [
-      "गन"
+      "कहे टेऊँ यह विनय सुनीजे, राखो लाज हमारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhav Saagar Se Paar Utaaro,",
-      "Main Hun Sharan Tumhaari, Guru Avtaari (Tek)."
+      "Tum Ho Paavan Patit Udhaaran, Main Hun Paapi Bhaari || 1 ||"
     ],
     [
-      "Tum Ho Paavan Patit Udhaaran, Main Hun Paapi Bhaari || 1. ||."
+      "Tum Ho Gobind Sab Gun Khaani, Main Avgun Bhandaari || 2 ||"
     ],
     [
-      "Tum Ho Gobind Sab Gun Khaani, Main Avgun Bhandaari || 2 ||."
+      "Tum Ho Daataa Din Dayaalaa, Main Hun Din Bhikhaari || 3 ||"
     ],
     [
-      "Tum Ho Daataa Din Dayaalaa, Main Hun Din Bhikhaari ||.3 ||.",
-      "Kahe Teun Yah Vinay Sunije, Raakho Laaj Hamaari ||.4 ||."
-    ],
-    [
-      "Gan"
+      "Kahe Teun Yah Vinay Sunije, Raakho Laaj Hamaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kohmaari Bhajan || 32 || 512 ||",
-    "Bhav Saagar Se Paar Utaaro",
-    "भव सागर से पार ुतारो"
+    "भव सागर से पार उतारो,",
+    "Bhav Saagar Se Paar Utaaro,",
+    "राग कोहियारी भजन 32",
+    "Raag Kohiyaari Bhajan 32"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 513,
+  "displayOrder": 32,
+  "overallOrder": 511,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 283",
+  "updatedAt": "2026-10-26"
 }

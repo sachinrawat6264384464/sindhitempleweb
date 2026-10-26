@@ -1,72 +1,116 @@
 {
-  "id": "bhajan-0734",
+  "id": "bhajan-0732",
   "slug": "tum-naam-japo-sukhkaari-yah-jaave-aayu-saari",
   "categoryId": "raag-pilaa",
-  "title": "तुम नाम जपो सुखकारि, यह जावे ायु सारि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "तुम नाम जपो सुखकारी, यह जावे आयू सारी",
   "romanTitle": "Tum Naam Japo Sukhkaari, Yah Jaave Aayu Saari",
   "firstLine": "Tum Naam Japo Sukhkaari, Yah Jaave Aayu Saari (Tek).",
+  "heading": "।। राग पीला भजन ।। १२ ।। ७३४।।",
+  "tek": [
+    "तुम नाम जपो सुखकारी, यह जावे आयू सारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Tum Naam Japo Sukhkaari, Yah Jaave Aayu Saari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गर्भ दुनिया का कभी न करिये, ध्यान हरी का दिल में धरिये ।",
+        "मिले न ऐसी वारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Garbh Duniyaa Kaa Kabhi Na Kariye, Dhyaan Hari Kaa Dil Men Dhariye.",
+        "Mile Na Aisi Vaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "काम क्रोध तो लूट रहा है, श्वास अमोलक खूट रहा है ।",
+        "वेग करो हुशियारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Kaam Krodh To Lut Rahaa Hai, Shvaas Amolak Khut Rahaa Hai.",
+        "Veg Karo Hushiyaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "नाम बिना नर ना को तेरा, जांको कहते मेरा मेरा ।",
+        "झूठी जग की यारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naam Binaa Nar Naa Ko Teraa, Jaanko Kahte Meraa Meraa.",
+        "Jhuthi Jag Ki Yaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्‌ वचन हमारा, भजन बिना नहिं हो निस्तारा ।",
+        "हरि सुमरो हरवारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sat‌ Vachan Hamaaraa, Bhajan Binaa Nahin Ho Nistaaraa.",
+        "Hari Sumro Harvaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "तुम नाम जपो सुखकारि, यह जावे ायु सारि (टेक)."
+      "गर्भ दुनिया का कभी न करिये, ध्यान हरी का दिल में धरिये ।",
+      "मिले न ऐसी वारी ॥१ ॥"
     ],
     [
-      "गरभ दुनिया का कभि न करिये, ध्यान हरि का दिल मेन धरिये.",
-      "मिले न ैसि वारि || 1 ||."
+      "काम क्रोध तो लूट रहा है, श्वास अमोलक खूट रहा है ।",
+      "वेग करो हुशियारी ॥२ ॥"
     ],
     [
-      "काम करोध तो लुत रहा है, शवास मोलक खुत रहा है.",
-      "वेग करो हुशियारि || 2 ||."
+      "नाम बिना नर ना को तेरा, जांको कहते मेरा मेरा ।",
+      "झूठी जग की यारी ॥३ ॥"
     ],
     [
-      "नाम बिना नर ना को तेरा, जानको कहते मेरा मेरा.",
-      "झुथि जग कि यारि ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ सत‌ वचन हमारा, भजन बिना नहिन हो निसतारा.",
-      "हरि सुमरो हरवारि || 4 ||"
-    ],
-    [
-      "हत"
+      "कहे टेऊँ सत्‌ वचन हमारा, भजन बिना नहिं हो निस्तारा ।",
+      "हरि सुमरो हरवारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Tum Naam Japo Sukhkaari, Yah Jaave Aayu Saari (Tek)."
-    ],
-    [
-      "Garbh Duniyaa Kaa Kabhi N Kariye, Dhyaan Hari Kaa Dil Men Dhariye.",
-      "Mile N Aisi Vaari || 1 ||."
+      "Garbh Duniyaa Kaa Kabhi Na Kariye, Dhyaan Hari Kaa Dil Men Dhariye.",
+      "Mile Na Aisi Vaari || 1 ||"
     ],
     [
       "Kaam Krodh To Lut Rahaa Hai, Shvaas Amolak Khut Rahaa Hai.",
-      "Veg Karo Hushiyaari || 2 ||."
+      "Veg Karo Hushiyaari || 2 ||"
     ],
     [
       "Naam Binaa Nar Naa Ko Teraa, Jaanko Kahte Meraa Meraa.",
-      "Jhuthi Jag Ki Yaari ||.3 ||."
+      "Jhuthi Jag Ki Yaari || 3 ||"
     ],
     [
       "Kahe Teun Sat‌ Vachan Hamaaraa, Bhajan Binaa Nahin Ho Nistaaraa.",
       "Hari Sumro Harvaari || 4 ||"
-    ],
-    [
-      "Hat"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 12 || 734 ||",
+    "तुम नाम जपो सुखकारी, यह जावे आयू सारी",
     "Tum Naam Japo Sukhkaari, Yah Jaave Aayu Saari",
-    "तुम नाम जपो सुखकारि, यह जावे ायु सारि"
+    "राग पीला भजन 11",
+    "Raag Pilaa Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 734,
+  "displayOrder": 11,
+  "overallOrder": 732,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 389",
+  "updatedAt": "2026-10-26"
 }

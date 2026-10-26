@@ -1,0 +1,131 @@
+{
+  "id": "bhajan-0841",
+  "slug": "rachnaa-teri-raam-niraali-ant-na-koi-paavat-hai",
+  "categoryId": "raag-jog",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "रचना तेरी राम निराली, अन्त न कोई पावत है",
+  "romanTitle": "Rachnaa Teri Raam Niraali, Ant Na Koi Paavat Hai",
+  "firstLine": "Rachnaa Teri Raam Niraali, Ant Na Koi Paavat Hai (Tek).",
+  "heading": "।। राग जोग भजन ।। १३ ।। ८४३।।",
+  "tek": [
+    "रचना तेरी राम निराली, अन्त न कोई पावत है ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Rachnaa Teri Raam Niraali, Ant Na Koi Paavat Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इक क्षण में बहु जगत पसारा, उपजे बिनसे तोहि मंजझारा ।",
+        "निगमागम बतलावत है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ik Kshan Men Bahu Jagat Pasaaraa, Upje Binse Tohi Manjjhaaraa.",
+        "Nigmaagam Batlaavat Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "कोटी ब्रह्मा कोटी शंकर, कोटी विष्णू कोटी किंकर ।",
+        "महिमा कह हट जावत है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Koti Brahmaa Koti Shankar, Koti Vishnu Koti Kinkar.",
+        "Mahimaa Kah Hat Jaavat Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कोटी सूर्य कोटी चन्द्र, कोटी सुरगण कोटी इन्द्र ।",
+        "नेति नेति सब गावत है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Koti Sury Koti Chandr, Koti Surgan Koti Indr.",
+        "Neti Neti Sab Gaavat Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सब कह कह हारे, लीला तव अदूभुत कर्ता रे ।",
+        "देख सभी विस्मावत है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sab Kah Kah Haare, Lilaa Tav Adubhut Kartaa Re.",
+        "Dekh Sabhi Vismaavat Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ग््द्"
+      ],
+      "romanLines": [
+        "Gd"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "इक क्षण में बहु जगत पसारा, उपजे बिनसे तोहि मंजझारा ।",
+      "निगमागम बतलावत है ॥१ ॥"
+    ],
+    [
+      "कोटी ब्रह्मा कोटी शंकर, कोटी विष्णू कोटी किंकर ।",
+      "महिमा कह हट जावत है ॥२ ॥"
+    ],
+    [
+      "कोटी सूर्य कोटी चन्द्र, कोटी सुरगण कोटी इन्द्र ।",
+      "नेति नेति सब गावत है ॥३ ॥"
+    ],
+    [
+      "कहे टेऊँ सब कह कह हारे, लीला तव अदूभुत कर्ता रे ।",
+      "देख सभी विस्मावत है ॥४ ॥"
+    ],
+    [
+      "ग््द्"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Ik Kshan Men Bahu Jagat Pasaaraa, Upje Binse Tohi Manjjhaaraa.",
+      "Nigmaagam Batlaavat Hai || 1 ||"
+    ],
+    [
+      "Koti Brahmaa Koti Shankar, Koti Vishnu Koti Kinkar.",
+      "Mahimaa Kah Hat Jaavat Hai || 2 ||"
+    ],
+    [
+      "Koti Sury Koti Chandr, Koti Surgan Koti Indr.",
+      "Neti Neti Sab Gaavat Hai || 3 ||"
+    ],
+    [
+      "Kahe Teun Sab Kah Kah Haare, Lilaa Tav Adubhut Kartaa Re.",
+      "Dekh Sabhi Vismaavat Hai || 4 ||"
+    ],
+    [
+      "Gd"
+    ]
+  ],
+  "alternateSpellings": [
+    "रचना तेरी राम निराली, अन्त न कोई पावत है",
+    "Rachnaa Teri Raam Niraali, Ant Na Koi Paavat Hai",
+    "राग जोग भजन 13",
+    "Raag Jog Bhajan 13"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
+    "bhajan"
+  ],
+  "displayOrder": 13,
+  "overallOrder": 841,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 446",
+  "updatedAt": "2026-10-26"
+}

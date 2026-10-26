@@ -1,0 +1,118 @@
+{
+  "id": "bhajan-0827",
+  "slug": "guru-gyaan-ki-gangaa-men-gotaa-bahut-lagaanaa",
+  "categoryId": "raag-maanjh",
+  "categoryName": "राग मांझ",
+  "romanCategoryName": "Raag Maanjh",
+  "title": "गुरु ज्ञान की गंगा में, गोता बहुत लगाना",
+  "romanTitle": "Guru Gyaan Ki Gangaa Men, Gotaa Bahut Lagaanaa",
+  "firstLine": "Guru Gyaan Ki Gangaa Men, Gotaa Bahut Lagaanaa.",
+  "heading": "।। राग मांझ भजन ॥।। १६ ।। ८२९॥।",
+  "tek": [
+    "गुरु ज्ञान की गंगा में, गोता बहुत लगाना ।",
+    "पावन बनाय दिल को, मल ट्वैत की मिटाना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Guru Gyaan Ki Gangaa Men, Gotaa Bahut Lagaanaa.",
+    "Paavan Banaay Dil Ko, Mal Tvait Ki Mitaanaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "तन का गुमान तजना, वस्त्र उतारना ये ।",
+        "निज रूप की स्मृती, जल माहिं पेर पाना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Tan Kaa Gumaan Tajnaa, Vastr Utaarnaa Ye.",
+        "Nij Rup Ki Smriti, Jal Maahin Per Paanaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अहें ब्रह्म याद रखना, घट वांग डूबना ये ।",
+        "जड़ भाव को भुला कर, शुद्ध ब्रह्म होय जाना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Ahen Brahm Yaad Rakhnaa, Ghat Vaang Dubnaa Ye.",
+        "Jar Bhaav Ko Bhulaa Kar, Shuddh Brahm Hoy Jaanaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ऐसे स्नान वाले, फिर लौट के न आते ।",
+        "आवागमन मिटाकर, रह ब्रह्म में समाना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Aise Snaan Vaale, Phir Laut Ke Na Aate.",
+        "Aavaagman Mitaakar, Rah Brahm Men Samaanaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पूर्ण से सन्त ज्ञानी, दुर्लभ अहैं जगत में ।",
+        "कहे टेऊँ हरि दया से, मिल है पुरुष महाना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Purn Se Sant Jnyaani, Durlabh Ahain Jagat Men.",
+        "Kahe Teun Hari Dayaa Se, Mil Hai Purush Mahaanaa || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "तन का गुमान तजना, वस्त्र उतारना ये ।",
+      "निज रूप की स्मृती, जल माहिं पेर पाना ॥१ ॥"
+    ],
+    [
+      "अहें ब्रह्म याद रखना, घट वांग डूबना ये ।",
+      "जड़ भाव को भुला कर, शुद्ध ब्रह्म होय जाना ॥२ ॥"
+    ],
+    [
+      "ऐसे स्नान वाले, फिर लौट के न आते ।",
+      "आवागमन मिटाकर, रह ब्रह्म में समाना ॥३ ॥"
+    ],
+    [
+      "पूर्ण से सन्त ज्ञानी, दुर्लभ अहैं जगत में ।",
+      "कहे टेऊँ हरि दया से, मिल है पुरुष महाना ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Tan Kaa Gumaan Tajnaa, Vastr Utaarnaa Ye.",
+      "Nij Rup Ki Smriti, Jal Maahin Per Paanaa || 1 ||"
+    ],
+    [
+      "Ahen Brahm Yaad Rakhnaa, Ghat Vaang Dubnaa Ye.",
+      "Jar Bhaav Ko Bhulaa Kar, Shuddh Brahm Hoy Jaanaa || 2 ||"
+    ],
+    [
+      "Aise Snaan Vaale, Phir Laut Ke Na Aate.",
+      "Aavaagman Mitaakar, Rah Brahm Men Samaanaa || 3 ||"
+    ],
+    [
+      "Purn Se Sant Jnyaani, Durlabh Ahain Jagat Men.",
+      "Kahe Teun Hari Dayaa Se, Mil Hai Purush Mahaanaa || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "गुरु ज्ञान की गंगा में, गोता बहुत लगाना",
+    "Guru Gyaan Ki Gangaa Men, Gotaa Bahut Lagaanaa",
+    "राग मांझ भजन 16",
+    "Raag Maanjh Bhajan 16"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-maanjh",
+    "bhajan"
+  ],
+  "displayOrder": 16,
+  "overallOrder": 827,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 439",
+  "updatedAt": "2026-10-26"
+}

@@ -1,72 +1,120 @@
 {
   "id": "bhajan-0263",
   "slug": "aavo-aavo-he-sadguru-svaami-raho-hamaare-paas",
-  "categoryId": "raag-bhairav",
-  "title": "ावो ावो हे सद्गुरु स्वामी रहो हमारे पास",
+  "categoryId": "raag-bhairvi",
+  "categoryName": "राग भैरवी",
+  "romanCategoryName": "Raag Bhairvi",
+  "title": "आवो आवो हे सद्‌गुरु स्वामी रहो हमारे पास",
   "romanTitle": "Aavo Aavo He Sad‌Guru Svaami Raho Hamaare Paas",
   "firstLine": "Aavo Aavo He Sad‌Guru Svaami Raho Hamaare Paas (Tek).",
+  "heading": "।। राग भैरवी भजन ।। ४८ ।। २६३।।",
+  "tek": [
+    "आवो आवो हे सद्‌गुरु स्वामी रहो हमारे पास ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Aavo Aavo He Sad‌Guru Svaami Raho Hamaare Paas (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इक क्षण दूर न होवो मुझसे नैनें करो निवास ।",
+        "मन मन्दिर यह अति सुन्दर है तामें करिये वास ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ik Kshan Dur Na Hovo Mujhse Nainen Karo Nivaas.",
+        "Man Mandir Yah Ati Sundar Hai Taamen Kariye Vaas || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "गठ्ढ",
+        "दो कर जोड़ करूँ तुम आगे वन्दन अरु अर्दास ।",
+        "तन मन धन से सेवा करहूं सेवक बन कर ख़ास ॥२ ॥"
+      ],
+      "romanLines": [
+        "Gathdh",
+        "Do Kar Jor Karun Tum Aage Vandan Aru Ardaas.",
+        "Tan Man Dhan Se Sevaa Karhun Sevak Ban Kar Khaas || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रेम भक्ति का पेग पिलाए काटो जम की फास ।",
+        "निर्मल अपना नाम जपाओ सत्गुरु बारह मास ॥३ ॥"
+      ],
+      "romanLines": [
+        "Prem Bhakti Kaa Peg Pilaae Kaato Jam Ki Phaas.",
+        "Nirmal Apnaa Naam Japaao Satguru Baarah Maas || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह विनय सुनीजे पूरन करिये आस ।",
+        "दर्शन दे सब दूख हरो तुम हे सत्गुरु सुखरास ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Vinay Sunije Puran Kariye Aas.",
+        "Darshan De Sab Dukh Haro Tum He Satguru Sukhraas || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ावो ावो हे सद्गुरु स्वामी रहो हमारे पास (टेक)."
+      "इक क्षण दूर न होवो मुझसे नैनें करो निवास ।",
+      "मन मन्दिर यह अति सुन्दर है तामें करिये वास ॥१ ॥"
     ],
     [
-      "िक कशन दुर न होवो मुझसे नैनेन करो निवास.",
-      "मन मनदिर यह ति सुनदर है तामेन करिये वास || 1 ||."
+      "गठ्ढ",
+      "दो कर जोड़ करूँ तुम आगे वन्दन अरु अर्दास ।",
+      "तन मन धन से सेवा करहूं सेवक बन कर ख़ास ॥२ ॥"
     ],
     [
-      "गथध",
-      "दो कर जोर करुन तुम ागे वनदन रु रदास."
+      "प्रेम भक्ति का पेग पिलाए काटो जम की फास ।",
+      "निर्मल अपना नाम जपाओ सत्गुरु बारह मास ॥३ ॥"
     ],
     [
-      "तन मन धन से सेवा करहुन सेवक बन कर खास ||.2 ||",
-      "प्रेम भक्ति का पेग पिलाे कातो जम कि फास."
-    ],
-    [
-      "निर्मल पना नाम जपाो सतगुरु बारह मास ||.3 ||",
-      "कहे तेऊँ यह विनय सुनिजे पुरन करिये ास."
-    ],
-    [
-      "दरशन दे सब दुःख हरो तुम हे सतगुरु सुखरास || 4. ||."
+      "कहे टेऊँ यह विनय सुनीजे पूरन करिये आस ।",
+      "दर्शन दे सब दूख हरो तुम हे सत्गुरु सुखरास ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Aavo Aavo He Sad‌Guru Svaami Raho Hamaare Paas (Tek)."
-    ],
-    [
-      "Ik Kshan Dur N Hovo Mujhse Nainen Karo Nivaas.",
-      "Man Mandir Yah Ati Sundar Hai Taamen Kariye Vaas || 1 ||."
+      "Ik Kshan Dur Na Hovo Mujhse Nainen Karo Nivaas.",
+      "Man Mandir Yah Ati Sundar Hai Taamen Kariye Vaas || 1 ||"
     ],
     [
       "Gathdh",
-      "Do Kar Jor Karun Tum Aage Vandan Aru Ardaas."
+      "Do Kar Jor Karun Tum Aage Vandan Aru Ardaas.",
+      "Tan Man Dhan Se Sevaa Karhun Sevak Ban Kar Khaas || 2 ||"
     ],
     [
-      "Tan Man Dhan Se Sevaa Karhun Sevak Ban Kar Khaas ||.2 ||",
-      "Prem Bhakti Kaa Peg Pilaae Kaato Jam Ki Phaas."
+      "Prem Bhakti Kaa Peg Pilaae Kaato Jam Ki Phaas.",
+      "Nirmal Apnaa Naam Japaao Satguru Baarah Maas || 3 ||"
     ],
     [
-      "Nirmal Apnaa Naam Japaao Satguru Baarah Maas ||.3 ||",
-      "Kahe Teun Yah Vinay Sunije Puran Kariye Aas."
-    ],
-    [
-      "Darshan De Sab Dukh Haro Tum He Satguru Sukhraas || 4. ||."
+      "Kahe Teun Yah Vinay Sunije Puran Kariye Aas.",
+      "Darshan De Sab Dukh Haro Tum He Satguru Sukhraas || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Bhairvi Bhajan || 48 || 263 ||",
+    "आवो आवो हे सद्‌गुरु स्वामी रहो हमारे पास",
     "Aavo Aavo He Sad‌Guru Svaami Raho Hamaare Paas",
-    "ावो ावो हे सद्गुरु स्वामी रहो हमारे पास"
+    "राग भैरवी भजन 48",
+    "Raag Bhairvi Bhajan 48"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "bhairav"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-bhairvi",
+    "bhajan"
   ],
-  "displayOrder": 263,
+  "displayOrder": 48,
+  "overallOrder": 263,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 162",
+  "updatedAt": "2026-10-26"
 }

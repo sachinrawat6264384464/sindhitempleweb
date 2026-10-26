@@ -2,58 +2,98 @@
   "id": "bhajan-0371",
   "slug": "pyaalaa-prem-kaa-chaaho-dharo-tum-sis-ki-dakshinaa",
   "categoryId": "raag-tilang",
-  "title": "पयाला प्रेम का चाहो, धरो तुम सिस कि दकशिना",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "प्याला प्रेम का चाहो, धरो तुम सीस की दक्षिना",
   "romanTitle": "Pyaalaa Prem Kaa Chaaho, Dharo Tum Sis Ki Dakshinaa",
-  "firstLine": "Pyaalaa Prem Kaa Chaaho, Dharo Tum Sis Ki Dakshinaa. Mitaake Maan Tan Man Kaa, Namrataa Bhaav Ko Rakhnaa (Tek).",
+  "firstLine": "Pyaalaa Prem Kaa Chaaho, Dharo Tum Sis Ki Dakshinaa.",
+  "heading": "।। राग तिलंग भजन ।। ८ ।। ३७२",
+  "tek": [
+    "प्याला प्रेम का चाहो, धरो तुम सीस की दक्षिना ।",
+    "मिटाके मान तन मन का, नम्रता भाव को रखना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Pyaalaa Prem Kaa Chaaho, Dharo Tum Sis Ki Dakshinaa.",
+    "Mitaake Maan Tan Man Kaa, Namrataa Bhaav Ko Rakhnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "गुरू की शरण में जाकर, करो तुम सेव श्रद्धा से ।",
+        "सचा उपदेश ले गुरु से, निजातम लाल को लखना ॥8 ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Sharan Men Jaakar, Karo Tum Sev Shraddhaa Se.",
+        "Sachaa Updesh Le Guru Se, Nijaatam Laal Ko Lakhnaa || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हटा मन के सकल फुरने, धरो तुम ध्यान आतम का ।",
+        "शब्द का सार तुम लेकर, अमी रस को सदा चखना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hataa Man Ke Sakal Phurne, Dharo Tum Dhyaan Aatam Kaa.",
+        "Shabd Kaa Saar Tum Lekar, Ami Ras Ko Sadaa Chakhnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ कटे बन्धन, रहो जीवन मुक्ति जग में ।",
+        "लगे ना पाप पुण्य कोई, मिटे जम काल की जखना ॥ । डे ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kate Bandhan, Raho Jivan Mukti Jag Men.",
+        "Lage Naa Paap Puny Koi, Mite Jam Kaal Ki Jakhnaa || De ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "पयाला प्रेम का चाहो, धरो तुम सिस कि दकशिना.",
-      "मिताके मान तन मन का, नमरता भाव को रखना (टेक)."
+      "गुरू की शरण में जाकर, करो तुम सेव श्रद्धा से ।",
+      "सचा उपदेश ले गुरु से, निजातम लाल को लखना ॥8 ॥"
     ],
     [
-      "गुरु कि शरन मेन जाकर, करो तुम सेव शरदधा से.",
-      "सचा ुपदेश ले गुरु से, निजातम लाल को लखना || 8 ||"
+      "हटा मन के सकल फुरने, धरो तुम ध्यान आतम का ।",
+      "शब्द का सार तुम लेकर, अमी रस को सदा चखना ॥२ ॥"
     ],
     [
-      "हता मन के सकल फुरने, धरो तुम ध्यान ातम का.",
-      "शबद का सार तुम लेकर, मि रस को सदा चखना ||.2. ||."
-    ],
-    [
-      "कहे तेऊँ कते बनधन, रहो जिवन मुक्ति जग मेन.",
-      "लगे ना पाप पुनय कोि, मिते जम काल कि जखना ||. दे ||"
+      "कहे टेऊँ कटे बन्धन, रहो जीवन मुक्ति जग में ।",
+      "लगे ना पाप पुण्य कोई, मिटे जम काल की जखना ॥ । डे ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Pyaalaa Prem Kaa Chaaho, Dharo Tum Sis Ki Dakshinaa.",
-      "Mitaake Maan Tan Man Kaa, Namrataa Bhaav Ko Rakhnaa (Tek)."
-    ],
     [
       "Guru Ki Sharan Men Jaakar, Karo Tum Sev Shraddhaa Se.",
       "Sachaa Updesh Le Guru Se, Nijaatam Laal Ko Lakhnaa || 8 ||"
     ],
     [
       "Hataa Man Ke Sakal Phurne, Dharo Tum Dhyaan Aatam Kaa.",
-      "Shabd Kaa Saar Tum Lekar, Ami Ras Ko Sadaa Chakhnaa ||.2. ||."
+      "Shabd Kaa Saar Tum Lekar, Ami Ras Ko Sadaa Chakhnaa || 2 ||"
     ],
     [
       "Kahe Teun Kate Bandhan, Raho Jivan Mukti Jag Men.",
-      "Lage Naa Paap Puny Koi, Mite Jam Kaal Ki Jakhnaa ||. De ||"
+      "Lage Naa Paap Puny Koi, Mite Jam Kaal Ki Jakhnaa || De ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 8 || 372",
+    "प्याला प्रेम का चाहो, धरो तुम सीस की दक्षिना",
     "Pyaalaa Prem Kaa Chaaho, Dharo Tum Sis Ki Dakshinaa",
-    "पयाला प्रेम का चाहो, धरो तुम सिस कि दकशिना"
+    "राग तिलंग भजन 8",
+    "Raag Tilang Bhajan 8"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 371,
+  "displayOrder": 8,
+  "overallOrder": 371,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 220",
+  "updatedAt": "2026-10-26"
 }

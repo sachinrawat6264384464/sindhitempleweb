@@ -1,67 +1,118 @@
 {
-  "id": "bhajan-0473",
+  "id": "bhajan-0472",
   "slug": "saadho-so-hai-raam-hamaaraa",
   "categoryId": "raag-huseni",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
   "title": "साधो सो है राम हमारा",
   "romanTitle": "Saadho So Hai Raam Hamaaraa",
-  "firstLine": "Saadho So Hai Raam Hamaaraa. Sab Ghat Antar Khel Rahaa Jo Sab Se Rahat Nyaaraa (Tek).",
+  "firstLine": "Saadho So Hai Raam Hamaaraa.",
+  "heading": "।। राग हुसेनी भजन ।। ११ ।। ४७३।।",
+  "tek": [
+    "साधो सो है राम हमारा ।",
+    "सब घट अन्तर खेल रहा जो सब से रहत न्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho So Hai Raam Hamaaraa.",
+    "Sab Ghat Antar Khel Rahaa Jo Sab Se Rahat Nyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "अस्ति भाति जो प्रिय स्वरूपा नाम रूप आधारा ।",
+        "सत्चित्‌ आनन्द अखण्ड अनादी अनुभव रूप अपारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Asti Bhaati Jo Priy Svarupaa Naam Rup Aadhaaraa.",
+        "Satchit‌ Aanand Akhand Anaadi Anubhav Rup Apaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "आना जाना जिसमें नाहीं जन्म न मरन विकारा ।",
+        "असंग अलेपा रंग न रेखा ना को अंग अकारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Aanaa Jaanaa Jismen Naahin Janm Na Maran Vikaaraa.",
+        "Asang Alepaa Rang Na Rekhaa Naa Ko Ang Akaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ब्रह्मा विष्णू आदिक देवा जांको करत जुहारा ।",
+        "जिसकी महिमा मुनिवर गाके पावत कबहूँ न पारा ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Brahmaa Vishnu Aadik Devaa Jaanko Karat Juhaaraa.",
+        "Jiski Mahimaa Munivar Gaake Paavat Kabhun Na Paaraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "जांकी ज्योती निशदिन जगती अतिशय कर उजियारा ।",
+        "कहे टेऊँ जिसके प्रकाशे प्रकाशत संसारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Jaanki Jyoti Nishdin Jagti Atishay Kar Ujiyaaraa.",
+        "Kahe Teun Jiske Prakaashe Prakaashat Sansaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधो सो है राम हमारा.",
-      "सब घत नतर खेल रहा जो सब से रहत नयारा (टेक)."
+      "अस्ति भाति जो प्रिय स्वरूपा नाम रूप आधारा ।",
+      "सत्चित्‌ आनन्द अखण्ड अनादी अनुभव रूप अपारा ॥१ ॥"
     ],
     [
-      "सति भाति जो परिय सवरुपा नाम रुप ाधारा.",
-      "सतचित‌ आनंद खनद नादि नुभव रुप पारा || 1 ||."
+      "आना जाना जिसमें नाहीं जन्म न मरन विकारा ।",
+      "असंग अलेपा रंग न रेखा ना को अंग अकारा ॥२ ॥"
     ],
     [
-      "ाना जाना जिसमेन नाहिन जनम न मरन विकारा.",
-      "सनग लेपा रनग न रेखा ना को नग कारा || 2 ||."
+      "ब्रह्मा विष्णू आदिक देवा जांको करत जुहारा ।",
+      "जिसकी महिमा मुनिवर गाके पावत कबहूँ न पारा ॥३े ॥ ।"
     ],
     [
-      "बरहम विशनु ादिक देवा जानको करत जुहारा.",
-      "जिसकि महिमा मुनिवर गाके पावत कभुन न पारा || 3े ||."
-    ],
-    [
-      "जानकि जयोति निशदिन जगति तिशय कर ुजियारा.",
-      "कहे तेऊँ जिसके परकाशे परकाशत सनसारा || 4. ||."
+      "जांकी ज्योती निशदिन जगती अतिशय कर उजियारा ।",
+      "कहे टेऊँ जिसके प्रकाशे प्रकाशत संसारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadho So Hai Raam Hamaaraa.",
-      "Sab Ghat Antar Khel Rahaa Jo Sab Se Rahat Nyaaraa (Tek)."
-    ],
-    [
       "Asti Bhaati Jo Priy Svarupaa Naam Rup Aadhaaraa.",
-      "Satchit‌ Aanand Akhand Anaadi Anubhav Rup Apaaraa || 1 ||."
+      "Satchit‌ Aanand Akhand Anaadi Anubhav Rup Apaaraa || 1 ||"
     ],
     [
-      "Aanaa Jaanaa Jismen Naahin Janm N Maran Vikaaraa.",
-      "Asang Alepaa Rang N Rekhaa Naa Ko Ang Akaaraa || 2 ||."
+      "Aanaa Jaanaa Jismen Naahin Janm Na Maran Vikaaraa.",
+      "Asang Alepaa Rang Na Rekhaa Naa Ko Ang Akaaraa || 2 ||"
     ],
     [
-      "Brahma Vishnu Aadik Devaa Jaanko Karat Juhaaraa.",
-      "Jiski Mahimaa Munivar Gaake Paavat Kabhun N Paaraa || 3E ||."
+      "Brahmaa Vishnu Aadik Devaa Jaanko Karat Juhaaraa.",
+      "Jiski Mahimaa Munivar Gaake Paavat Kabhun Na Paaraa || 3E ||"
     ],
     [
       "Jaanki Jyoti Nishdin Jagti Atishay Kar Ujiyaaraa.",
-      "Kahe Teun Jiske Prakaashe Prakaashat Sansaaraa || 4. ||."
+      "Kahe Teun Jiske Prakaashe Prakaashat Sansaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 11 || 473 ||",
+    "साधो सो है राम हमारा",
     "Saadho So Hai Raam Hamaaraa",
-    "साधो सो है राम हमारा"
+    "राग हुसैनी भजन 11",
+    "Raag Huseni Bhajan 11"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 473,
+  "displayOrder": 11,
+  "overallOrder": 472,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 265",
+  "updatedAt": "2026-10-26"
 }

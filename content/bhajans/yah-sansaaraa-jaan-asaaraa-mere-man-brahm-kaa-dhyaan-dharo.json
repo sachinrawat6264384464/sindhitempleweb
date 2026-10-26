@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0647",
+  "id": "bhajan-0645",
   "slug": "yah-sansaaraa-jaan-asaaraa-mere-man-brahm-kaa-dhyaan-dharo",
   "categoryId": "raag-kanso",
-  "title": "यह सनसारा जान सारा, मेरे मन बरहम का ध्यान धरो",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "यह संसारा जान असारा, मेरे मन ब्रह्म का ध्यान धरो",
   "romanTitle": "Yah Sansaaraa Jaan Asaaraa, Mere Man Brahm Kaa Dhyaan Dharo",
   "firstLine": "Yah Sansaaraa Jaan Asaaraa, Mere Man Brahm Kaa Dhyaan Dharo (Tek).",
+  "heading": "।। राग कंसो भजन ।। १६ ।। ६४६।॥।",
+  "tek": [
+    "यह संसारा जान असारा, मेरे मन ब्रह्म का ध्यान धरो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Sansaaraa Jaan Asaaraa, Mere Man Brahm Kaa Dhyaan Dharo (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "झाग सलिल मारुस्थल पानी, तांसे ना किस प्यास बुझानी ।",
+        "मेरे मन तांकी आस हरो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jhaag Salil Maarusthal Paani, Taanse Naa Kis Pyaas Bujhaani.",
+        "Mere Man Taanki Aas Haro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मर्कट अग्नी बादल छाया, स्वप्न पदार्थ के सम माया ।",
+        "मेरे मन तुरत त्याग करो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Markat Agni Baadal Chhaayaa, Svapn Padaarth Ke Sam Maayaa.",
+        "Mere Man Turat Tyaag Karo || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच विषय रस जान विनाशी, तांसे हरदम होय उदासी ।",
+        "मेरे मन भूल न ताहिं परो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Vishay Ras Jaan Vinaashi, Taanse Hardam Hoy Udaasi.",
+        "Mere Man Bhul Na Taahin Paro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सत्‌ मारग चालो, आदी अपना रूप संभालो ।",
+        "मेरे मन भव सिन्धु पार तरो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sat‌ Maarag Chaalo, Aadi Apnaa Rup Sambhaalo.",
+        "Mere Man Bhav Sindhu Paar Taro || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह सनसारा जान सारा, मेरे मन बरहम का ध्यान धरो (टेक)."
+      "झाग सलिल मारुस्थल पानी, तांसे ना किस प्यास बुझानी ।",
+      "मेरे मन तांकी आस हरो ॥१ ॥"
     ],
     [
-      "झाग सलिल मारुसथल पानि, तानसे ना किस पयास बुझानि.",
-      "मेरे मन तानकि ास हरो.1 ||"
+      "मर्कट अग्नी बादल छाया, स्वप्न पदार्थ के सम माया ।",
+      "मेरे मन तुरत त्याग करो ॥२ ॥"
     ],
     [
-      "मरकत गनि बादल चहाया, सवपन पदारथ के सम माया.",
-      "मेरे मन तुरत तयाग करो ||.2 ||"
+      "पांच विषय रस जान विनाशी, तांसे हरदम होय उदासी ।",
+      "मेरे मन भूल न ताहिं परो ॥३ ॥"
     ],
     [
-      "पानच विशय रस जान विनाशि, तानसे हरदम होय ुदासि.",
-      "मेरे मन भुल न ताहिन परो || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सत‌ मारग चालो, ादि पना रुप समभालो.",
-      "मेरे मन भव सिनधु पार तरो || 4. ||."
+      "कहे टेऊँ सत्‌ मारग चालो, आदी अपना रूप संभालो ।",
+      "मेरे मन भव सिन्धु पार तरो ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Sansaaraa Jaan Asaaraa, Mere Man Brahm Kaa Dhyaan Dharo (Tek)."
-    ],
-    [
       "Jhaag Salil Maarusthal Paani, Taanse Naa Kis Pyaas Bujhaani.",
-      "Mere Man Taanki Aas Haro.1 ||"
+      "Mere Man Taanki Aas Haro || 1 ||"
     ],
     [
       "Markat Agni Baadal Chhaayaa, Svapn Padaarth Ke Sam Maayaa.",
-      "Mere Man Turat Tyaag Karo ||.2 ||"
+      "Mere Man Turat Tyaag Karo || 2 ||"
     ],
     [
       "Paanch Vishay Ras Jaan Vinaashi, Taanse Hardam Hoy Udaasi.",
-      "Mere Man Bhul N Taahin Paro || 3 ||."
+      "Mere Man Bhul Na Taahin Paro || 3 ||"
     ],
     [
       "Kahe Teun Sat‌ Maarag Chaalo, Aadi Apnaa Rup Sambhaalo.",
-      "Mere Man Bhav Sindhu Paar Taro || 4. ||."
+      "Mere Man Bhav Sindhu Paar Taro || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 16 || 646. ||.",
+    "यह संसारा जान असारा, मेरे मन ब्रह्म का ध्यान धरो",
     "Yah Sansaaraa Jaan Asaaraa, Mere Man Brahm Kaa Dhyaan Dharo",
-    "यह सनसारा जान सारा, मेरे मन बरहम का ध्यान धरो"
+    "राग कंसो भजन 16",
+    "Raag Kanso Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 647,
+  "displayOrder": 16,
+  "overallOrder": 645,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 345",
+  "updatedAt": "2026-10-26"
 }

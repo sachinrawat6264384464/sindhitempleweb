@@ -2,45 +2,94 @@
   "id": "bhajan-0179",
   "slug": "agar-chaaho-moksh-ko-tum-prem-guru-se-paavnaa",
   "categoryId": "raag-vihaag",
-  "title": "गर चाहो मोक्ष को तुम प्रेम गुरु से पावना",
+  "categoryName": "राग विहाग",
+  "romanCategoryName": "Raag Vihaag",
+  "title": "अगर चाहो मोक्ष को तुम प्रेम गुरु से पावना",
   "romanTitle": "Agar Chaaho Moksh Ko Tum Prem Guru Se Paavnaa",
   "firstLine": "Agar Chaaho Moksh Ko Tum Prem Guru Se Paavnaa (Tek).",
+  "heading": "।। राग विहाग भजन ।। २१ ।। १७९।।",
+  "tek": [
+    "अगर चाहो मोक्ष को तुम प्रेम गुरु से पावना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Agar Chaaho Moksh Ko Tum Prem Guru Se Paavnaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राख वृत्ति विवेक माहीं श्रुति शब्दे जोड़िये ।",
+        "नृत्ति गुरु मूर्ति में राखो चरण चित्त में ध्यावना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Raakh Vritti Vivek Maahin Shruti Shabde Joriye.",
+        "Nritti Guru Murti Men Raakho Charan Chitt Men Dhyaavnaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मान आज्ञा पग उठाओ हाथ से सेवा करो ।",
+        "ज्ञान गुरु का धार हृदय वाच से गुण गावना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maan Aajnyaa Pag Uthaao Haath Se Sevaa Karo.",
+        "Gyaan Guru Kaa Dhaar Hriday Vaach Se Gun Gaavnaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "श्वास से गुरु नाम लीजे धन लुटाओ सेव में ।",
+        "कान से गुरु बैन सुनिये पकड़ गुरु की दावना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Shvaas Se Guru Naam Lije Dhan Lutaao Sev Men.",
+        "Kaan Se Guru Bain Suniye Pakar Guru Ki Daavnaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहत टेऊँ सकल वस्तू भेट दे गुरुदेव को ।",
+        "मनुष गुरु को नाहिं मानो राख हरि की भावना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahat Teun Sakal Vastu Bhet De Gurudev Ko.",
+        "Manush Guru Ko Naahin Maano Raakh Hari Ki Bhaavnaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "गर चाहो मोक्ष को तुम प्रेम गुरु से पावना (टेक)."
+      "राख वृत्ति विवेक माहीं श्रुति शब्दे जोड़िये ।",
+      "नृत्ति गुरु मूर्ति में राखो चरण चित्त में ध्यावना ॥१ ॥"
     ],
     [
-      "राख वरितति विवेक माहिन शरुति शबदे जोरिये.",
-      "नरितति गुरु मुरति मेन राखो चरण चितत मेन धयावना || 1 ||"
+      "मान आज्ञा पग उठाओ हाथ से सेवा करो ।",
+      "ज्ञान गुरु का धार हृदय वाच से गुण गावना ॥२ ॥"
     ],
     [
-      "मान ाजनया पग ुथाो हाथ से सेवा करो.",
-      "ज्ञान गुरु का धार हरिदय वाच से गुन गावना || 2 ||"
+      "श्वास से गुरु नाम लीजे धन लुटाओ सेव में ।",
+      "कान से गुरु बैन सुनिये पकड़ गुरु की दावना ॥३ ॥"
     ],
     [
-      "शवास से गुरु नाम लिजे धन लुताो सेव मेन.",
-      "कान से गुरु बैन सुनिये पकर गुरु कि दावना ||.3 ||"
-    ],
-    [
-      "कहत तेऊँ सकल वसतु भेत दे गुरुदेव को.",
-      "मनुश गुरु को नाहिन मानो राख हरि कि भावना || 4 ||"
+      "कहत टेऊँ सकल वस्तू भेट दे गुरुदेव को ।",
+      "मनुष गुरु को नाहिं मानो राख हरि की भावना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Agar Chaaho Moksh Ko Tum Prem Guru Se Paavnaa (Tek)."
-    ],
     [
       "Raakh Vritti Vivek Maahin Shruti Shabde Joriye.",
       "Nritti Guru Murti Men Raakho Charan Chitt Men Dhyaavnaa || 1 ||"
     ],
     [
       "Maan Aajnyaa Pag Uthaao Haath Se Sevaa Karo.",
-      "Jnyaan Guru Kaa Dhaar Hriday Vaach Se Gun Gaavnaa || 2 ||"
+      "Gyaan Guru Kaa Dhaar Hriday Vaach Se Gun Gaavnaa || 2 ||"
     ],
     [
       "Shvaas Se Guru Naam Lije Dhan Lutaao Sev Men.",
-      "Kaan Se Guru Bain Suniye Pakar Guru Ki Daavnaa ||.3 ||"
+      "Kaan Se Guru Bain Suniye Pakar Guru Ki Daavnaa || 3 ||"
     ],
     [
       "Kahat Teun Sakal Vastu Bhet De Gurudev Ko.",
@@ -48,19 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Vihaag Bhajan || 21 || 179 ||",
+    "अगर चाहो मोक्ष को तुम प्रेम गुरु से पावना",
     "Agar Chaaho Moksh Ko Tum Prem Guru Se Paavnaa",
-    "गर चाहो मोक्ष को तुम प्रेम गुरु से पावना"
+    "राग विहाग भजन 21",
+    "Raag Vihaag Bhajan 21"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "vihaag",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-vihaag",
     "bhajan"
   ],
-  "displayOrder": 179,
+  "displayOrder": 21,
+  "overallOrder": 179,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 119",
+  "updatedAt": "2026-10-26"
 }

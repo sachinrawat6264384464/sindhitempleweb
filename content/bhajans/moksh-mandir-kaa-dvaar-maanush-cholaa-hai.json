@@ -1,41 +1,99 @@
 {
-  "id": "bhajan-0706",
+  "id": "bhajan-0704",
   "slug": "moksh-mandir-kaa-dvaar-maanush-cholaa-hai",
   "categoryId": "raag-pahaari",
-  "title": "मोक्ष मनदिर का दवार, मानुश चोला है",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मोक्ष मन्दिर का द्वार, मानुष चोला है",
   "romanTitle": "Moksh Mandir Kaa Dvaar, Maanush Cholaa Hai",
   "firstLine": "Moksh Mandir Kaa Dvaar, Maanush Cholaa Hai (Tek).",
+  "heading": "।। राग पहाड़ी भजन ॥। ५७ ।। ७०५॥।",
+  "tek": [
+    "मोक्ष मन्दिर का द्वार, मानुष चोला है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Moksh Mandir Kaa Dvaar, Maanush Cholaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जोनि चुरासी से अधिकाई, मनुष देह भगवत को भाई ।",
+        "सबका ये सरदार, मानुष चोला है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Joni Churaasi Se Adhikaai, Manush Deh Bhagvat Ko Bhaai.",
+        "Sabkaa Ye Sardaar, Maanush Cholaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मानुष तन को सब सुर चाहत, सन्त ग्रन्थ भी महिमा गावत ।",
+        "आनन्द का आगार, मानुष चोला है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Ko Sab Sur Chaahat, Sant Granth Bhi Mahimaa Gaavat.",
+        "Aanand Kaa Aagaar, Maanush Cholaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मानुष कर्म धर्म को करता, सब साधन को हृदय धरता ।",
+        "भक्ती का भण्डार, मानुष चोला है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Maanush Karm Dharm Ko Kartaa, Sab Saadhan Ko Hriday Dhartaa.",
+        "Bhakti Kaa Bhandaar, Maanush Cholaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "मानुष तन में आप पछानो, टेऊँ भेद भ्रम को भानो ।",
+        "ज्ञान ध्यान गुलिज़ार, मानुष चोला है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Men Aap Pachhaano, Teun Bhed Bhram Ko Bhaano.",
+        "Gyaan Dhyaan Gulizaar, Maanush Cholaa Hai || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्ठ्ठ"
+      ],
+      "romanLines": [
+        "Dthth"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मोक्ष मनदिर का दवार, मानुश चोला है (टेक)."
+      "जोनि चुरासी से अधिकाई, मनुष देह भगवत को भाई ।",
+      "सबका ये सरदार, मानुष चोला है ॥१ ॥"
     ],
     [
-      "जोनि चुरासि से धिकाि, मनुश देह भगवत को भाि.",
-      "सबका ये सरदार, मानुश चोला है ||.8 ||."
+      "मानुष तन को सब सुर चाहत, सन्त ग्रन्थ भी महिमा गावत ।",
+      "आनन्द का आगार, मानुष चोला है ॥२ ॥"
     ],
     [
-      "मानुश तन को सब सुर चाहत, संत गरनथ भि महिमा गावत.",
-      "आनंद का ागार, मानुश चोला है || 2 ||"
+      "मानुष कर्म धर्म को करता, सब साधन को हृदय धरता ।",
+      "भक्ती का भण्डार, मानुष चोला है ॥३ ॥"
     ],
     [
-      "मानुश करम धरम को करता, सब साधन को हरिदय धरता.",
-      "भक्ति का भनदार, मानुश चोला है || 3 ||"
+      "मानुष तन में आप पछानो, टेऊँ भेद भ्रम को भानो ।",
+      "ज्ञान ध्यान गुलिज़ार, मानुष चोला है ॥४ ॥"
     ],
     [
-      "मानुश तन मेन ाप पचहानो, तेऊँ भेद भरम को भानो.",
-      "ज्ञान ध्यान गुलिzार, मानुश चोला है || 4 ||"
-    ],
-    [
-      "दथथ"
+      "द्ठ्ठ"
     ]
   ],
   "romanLyrics": [
     [
-      "Moksh Mandir Kaa Dvaar, Maanush Cholaa Hai (Tek)."
-    ],
-    [
       "Joni Churaasi Se Adhikaai, Manush Deh Bhagvat Ko Bhaai.",
-      "Sabkaa Ye Sardaar, Maanush Cholaa Hai ||.8 ||."
+      "Sabkaa Ye Sardaar, Maanush Cholaa Hai || 1 ||"
     ],
     [
       "Maanush Tan Ko Sab Sur Chaahat, Sant Granth Bhi Mahimaa Gaavat.",
@@ -47,25 +105,27 @@
     ],
     [
       "Maanush Tan Men Aap Pachhaano, Teun Bhed Bhram Ko Bhaano.",
-      "Jnyaan Dhyaan Gulizaar, Maanush Cholaa Hai || 4 ||"
+      "Gyaan Dhyaan Gulizaar, Maanush Cholaa Hai || 4 ||"
     ],
     [
       "Dthth"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan ||. 57 || 705 ||.",
+    "मोक्ष मन्दिर का द्वार, मानुष चोला है",
     "Moksh Mandir Kaa Dvaar, Maanush Cholaa Hai",
-    "मोक्ष मनदिर का दवार, मानुश चोला है"
+    "राग पहाड़ी भजन 57",
+    "Raag Pahaari Bhajan 57"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 706,
+  "displayOrder": 57,
+  "overallOrder": 704,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 374",
+  "updatedAt": "2026-10-26"
 }

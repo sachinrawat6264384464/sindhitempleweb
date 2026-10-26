@@ -2,64 +2,115 @@
   "id": "bhajan-0114",
   "slug": "uth-karo-abhyaas-jijnyaasu-uth-karo-abhyaas",
   "categoryId": "raag-aasaa",
-  "title": "ुथ करो भयास जिजनयासु, ुथ करो भयास",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "ऊठ करो अभ्यास जिज्ञासू, ऊठ करो अभ्यास ॥",
   "romanTitle": "Uth Karo Abhyaas Jijnyaasu, Uth Karo Abhyaas",
   "firstLine": "Uth Karo Abhyaas Jijnyaasu, Uth Karo Abhyaas (Tek).",
+  "heading": "।। राग आसा भजन ।। ५२ ।। ११४।।",
+  "tek": [
+    "ऊठ करो अभ्यास जिज्ञासू, ऊठ करो अभ्यास ॥ । टेक ॥"
+  ],
+  "romanTek": [
+    "Uth Karo Abhyaas Jijnyaasu, Uth Karo Abhyaas (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पद्मासन सिद्ध आसन लाए, बैठ अकेला ध्यान लगाए ।",
+        "सार शब्द में सुरति समाए, सफला करले श्वास ॥१ ॥"
+      ],
+      "romanLines": [
+        "Padmaasan Siddh Aasan Laae, Baith Akelaa Dhyaan Lagaae.",
+        "Saar Shabd Men Surti Samaae, Saphlaa Karle Shvaas || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "नाभी से तुम प्रान उठाए, हृदय में तांको ठहराए ।",
+        "ऊपर को फिर ताहिं चलाए, दसमें करिये वास ॥२ ॥"
+      ],
+      "romanLines": [
+        "Naabhi Se Tum Praan Uthaae, Hriday Men Taanko Thahraae.",
+        "Upar Ko Phir Taahin Chalaae, Dasmen Kariye Vaas || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "घट घट में है शब्द उच्चारा, जामें बाजत साज़ अपारा ।",
+        "तहैँ सुनता को गुरुमुख प्यारा, जांके मन विश्वास ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ghat Ghat Men Hai Shabd Uchchaaraa, Jaamen Baajat Saaz Apaaraa.",
+        "Tahain Suntaa Ko Gurumukh Pyaaraa, Jaanke Man Vishvaas || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शिक्षा धारे, सुमरन कर दिन रैन उदारे ।",
+        "आत्म अमृत पीकर प्यारे, मेटो जम का त्रास ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Shikshaa Dhaare, Sumran Kar Din Rain Udaare.",
+        "Aatm Amrit Pikar Pyaare, Meto Jam Kaa Traas || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "ुथ करो भयास जिजनयासु, ुथ करो भयास (टेक)."
+      "पद्मासन सिद्ध आसन लाए, बैठ अकेला ध्यान लगाए ।",
+      "सार शब्द में सुरति समाए, सफला करले श्वास ॥१ ॥"
     ],
     [
-      "पदमासन सिदध ासन लाे, बैथ केला ध्यान लगाे.",
-      "सार शबद मेन सुरति समाे, सफला करले शवास || 1 ||."
+      "नाभी से तुम प्रान उठाए, हृदय में तांको ठहराए ।",
+      "ऊपर को फिर ताहिं चलाए, दसमें करिये वास ॥२ ॥"
     ],
     [
-      "नाभि से तुम परान ुथाे, हरिदय मेन तानको थहराे.",
-      "ुपर को फिर ताहिन चलाे, दसमेन करिये वास ||.2 ||"
+      "घट घट में है शब्द उच्चारा, जामें बाजत साज़ अपारा ।",
+      "तहैँ सुनता को गुरुमुख प्यारा, जांके मन विश्वास ॥३ ॥"
     ],
     [
-      "घत घत मेन है शबद ुचचारा, जामेन बाजत साz पारा.",
-      "तहैन सुनता को गुरुमुख पयारा, जानके मन विशवास || 3 ||."
-    ],
-    [
-      "कहे तेऊँ गुरु शिकशा धारे, सुमरन कर दीन रैन ुदारे.",
-      "ातम अमृत पिकर पयारे, मेतो जम का तरास ||.4. ||."
+      "कहे टेऊँ गुरु शिक्षा धारे, सुमरन कर दिन रैन उदारे ।",
+      "आत्म अमृत पीकर प्यारे, मेटो जम का त्रास ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Uth Karo Abhyaas Jijnyaasu, Uth Karo Abhyaas (Tek)."
-    ],
-    [
       "Padmaasan Siddh Aasan Laae, Baith Akelaa Dhyaan Lagaae.",
-      "Saar Shabd Men Surti Samaae, Saphlaa Karle Shvaas || 1 ||."
+      "Saar Shabd Men Surti Samaae, Saphlaa Karle Shvaas || 1 ||"
     ],
     [
       "Naabhi Se Tum Praan Uthaae, Hriday Men Taanko Thahraae.",
-      "Upar Ko Phir Taahin Chalaae, Dasmen Kariye Vaas ||.2 ||"
+      "Upar Ko Phir Taahin Chalaae, Dasmen Kariye Vaas || 2 ||"
     ],
     [
       "Ghat Ghat Men Hai Shabd Uchchaaraa, Jaamen Baajat Saaz Apaaraa.",
-      "Tahain Suntaa Ko Gurumukh Pyaaraa, Jaanke Man Vishvaas || 3 ||."
+      "Tahain Suntaa Ko Gurumukh Pyaaraa, Jaanke Man Vishvaas || 3 ||"
     ],
     [
       "Kahe Teun Guru Shikshaa Dhaare, Sumran Kar Din Rain Udaare.",
-      "Aatm Amrit Pikar Pyaare, Meto Jam Kaa Traas ||.4. ||."
+      "Aatm Amrit Pikar Pyaare, Meto Jam Kaa Traas || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Aasaa Bhajan || 52 || 114 ||",
+    "ऊठ करो अभ्यास जिज्ञासू, ऊठ करो अभ्यास ॥",
     "Uth Karo Abhyaas Jijnyaasu, Uth Karo Abhyaas",
-    "ुथ करो भयास जिजनयासु, ुथ करो भयास"
+    "राग आसा भजन 52",
+    "Raag Aasaa Bhajan 52"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 114,
+  "displayOrder": 52,
+  "overallOrder": 114,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 83",
+  "updatedAt": "2026-10-26"
 }

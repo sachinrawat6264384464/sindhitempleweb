@@ -1,53 +1,100 @@
 {
-  "id": "bhajan-0909",
+  "id": "bhajan-0907",
   "slug": "is-jag-men-kahu-kin-sukh-paayaa-je-aayaa-se-ro-ro-jaayaa",
   "categoryId": "raag-jog",
-  "title": "िस जग मेन कहु किन सुख पाया, जे ाया से रो रो जाया",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "इस जग में कहु किन सुख पाया, जे आया से रो रो जाया",
   "romanTitle": "Is Jag Men Kahu Kin Sukh Paayaa, Je Aayaa Se Ro Ro Jaayaa",
   "firstLine": "Is Jag Men Kahu Kin Sukh Paayaa, Je Aayaa Se Ro Ro Jaayaa (Tek).",
+  "heading": "।। राग जोग भजन ।। ७९ ।। ९०९ ।।",
+  "tek": [
+    "इस जग में कहु किन सुख पाया, जे आया से रो रो जाया ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Is Jag Men Kahu Kin Sukh Paayaa, Je Aayaa Se Ro Ro Jaayaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "इन्द्र बाली रावण रोया, कुम्भकर्ण भी बहुत चिल्लाया ॥१ ॥"
+      ],
+      "romanLines": [
+        "Indr Baali Raavan Royaa, Kumbhakarn Bhi Bahut Chillaayaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "दशरथ भरत जनक नृप रोया, रोया रघुवर लक्ष्मण घाया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Dashrath Bharat Janak Nrip Royaa, Royaa Raghuvar Lakshman Ghaayaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "केशी कंस दुर्योधन रोया, रोये पाण्डव दास कहाया ॥३ ॥"
+      ],
+      "romanLines": [
+        "Keshi Kans Duryodhan Royaa, Roye Paandav Daas Kahaayaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सबने रोया, ऐसे सन्तनि ग्रन्थनि गाया ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Sabne Royaa, Aise Santani Granthani Gaayaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िस जग मेन कहु किन सुख पाया, जे ाया से रो रो जाया (टेक)."
+      "इन्द्र बाली रावण रोया, कुम्भकर्ण भी बहुत चिल्लाया ॥१ ॥"
     ],
     [
-      "िनदर बालि रावन रोया, कुमभकरन भि बहुत चिललाया || 1 ||."
+      "दशरथ भरत जनक नृप रोया, रोया रघुवर लक्ष्मण घाया ॥२ ॥"
     ],
     [
-      "दशरथ भरत जनक नरिप रोया, रोया रघुवर लकशमन घाया || 2 ||"
+      "केशी कंस दुर्योधन रोया, रोये पाण्डव दास कहाया ॥३ ॥"
     ],
     [
-      "केशि कनस दुरयोधन रोया, रोये पानदव दास कहाया ||.3 ||.",
-      "कहता तेऊँ सबने रोया, ैसे सनतनि गरनथनि गाया || 4 ||."
+      "कहता टेऊँ सबने रोया, ऐसे सन्तनि ग्रन्थनि गाया ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Is Jag Men Kahu Kin Sukh Paayaa, Je Aayaa Se Ro Ro Jaayaa (Tek)."
-    ],
-    [
-      "Indr Baali Raavan Royaa, Kumbhakarn Bhi Bahut Chillaayaa || 1 ||."
+      "Indr Baali Raavan Royaa, Kumbhakarn Bhi Bahut Chillaayaa || 1 ||"
     ],
     [
       "Dashrath Bharat Janak Nrip Royaa, Royaa Raghuvar Lakshman Ghaayaa || 2 ||"
     ],
     [
-      "Keshi Kans Duryodhan Royaa, Roye Paandav Daas Kahaayaa ||.3 ||.",
-      "Kahtaa Teun Sabne Royaa, Aise Santani Granthani Gaayaa || 4 ||."
+      "Keshi Kans Duryodhan Royaa, Roye Paandav Daas Kahaayaa || 3 ||"
+    ],
+    [
+      "Kahtaa Teun Sabne Royaa, Aise Santani Granthani Gaayaa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Jog Bhajan || 79 || 909 ||",
+    "इस जग में कहु किन सुख पाया, जे आया से रो रो जाया",
     "Is Jag Men Kahu Kin Sukh Paayaa, Je Aayaa Se Ro Ro Jaayaa",
-    "िस जग मेन कहु किन सुख पाया, जे ाया से रो रो जाया"
+    "राग जोग भजन 79",
+    "Raag Jog Bhajan 79"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 909,
+  "displayOrder": 79,
+  "overallOrder": 907,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 477",
+  "updatedAt": "2026-10-26"
 }

@@ -1,38 +1,87 @@
 {
-  "id": "bhajan-0648",
+  "id": "bhajan-0646",
   "slug": "sant-padhaare-dhaam-hamaare-pritam-hoyaa-jay-jaykaar",
   "categoryId": "raag-kanso",
-  "title": "संत पधारे धाम हमारे, परितम होया जय जयकार",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "सन्त पधारे धाम हमारे, प्रीतम होया जय जयकार",
   "romanTitle": "Sant Padhaare Dhaam Hamaare, Pritam Hoyaa Jay Jaykaar",
   "firstLine": "Sant Padhaare Dhaam Hamaare, Pritam Hoyaa Jay Jaykaar (Tek).",
+  "heading": "।। राग कंसो भजन ।। १७ ।। द४७।।",
+  "tek": [
+    "सन्त पधारे धाम हमारे, प्रीतम होया जय जयकार ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sant Padhaare Dhaam Hamaare, Pritam Hoyaa Jay Jaykaar (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "निर्मोही नित परम विरागी, राम भजन में अति अनुरागी ।",
+        "प्रीतम आये परम उदार ॥१ ॥"
+      ],
+      "romanLines": [
+        "Nirmohi Nit Param Viraagi, Raam Bhajan Men Ati Anuraagi.",
+        "Pritam Aaye Param Udaar || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "बहुत जन्म के पुण्य विकासा, दर्शन प्रसन्न भया हुलासा ।",
+        "प्रीतम होया अनन्द अपार ॥२ ॥"
+      ],
+      "romanLines": [
+        "Bahut Janm Ke Puny Vikaasaa, Darshan Prasann Bhayaa Hulaasaa.",
+        "Pritam Hoyaa Anand Apaar || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हृदय अन्दर भया प्रकाशा, श्रम अन्धेरा सर्व विनाशा ।",
+        "प्रीतम देखा दिव्य दीदार ॥३ ॥"
+      ],
+      "romanLines": [
+        "Hriday Andar Bhayaa Prakaashaa, Shram Andheraa Sarv Vinaashaa.",
+        "Pritam Dekhaa Divy Didaar || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुन तिनकी बानी, आतम पद में सुरति समानी ।",
+        "प्रीतम पाया शान्ति भण्डार ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Sun Tinki Baani, Aatam Pad Men Surti Samaani.",
+        "Pritam Paayaa Shaanti Bhandaar || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "संत पधारे धाम हमारे, परितम होया जय जयकार (टेक)."
+      "निर्मोही नित परम विरागी, राम भजन में अति अनुरागी ।",
+      "प्रीतम आये परम उदार ॥१ ॥"
     ],
     [
-      "निरमोहि नित परम विरागि, राम भजन मेन ति नुरागि.",
-      "परितम ाये परम ुदार || 1 ||."
+      "बहुत जन्म के पुण्य विकासा, दर्शन प्रसन्न भया हुलासा ।",
+      "प्रीतम होया अनन्द अपार ॥२ ॥"
     ],
     [
-      "बहुत जनम के पुनय विकासा, दरशन परसनन भया हुलासा.",
-      "परितम होया आनंद पार || 2 ||"
+      "हृदय अन्दर भया प्रकाशा, श्रम अन्धेरा सर्व विनाशा ।",
+      "प्रीतम देखा दिव्य दीदार ॥३ ॥"
     ],
     [
-      "हरिदय नदर भया परकाशा, शरम नधेरा सर्व विनाशा.",
-      "परितम देखा दिवय दिदार || 3 ||."
-    ],
-    [
-      "कहे तेऊँ सुन तिनकि बानी, ातम पद मेन सुरति समानि.",
-      "परितम पाया शांति भनदार || 4 ||"
+      "कहे टेऊँ सुन तिनकी बानी, आतम पद में सुरति समानी ।",
+      "प्रीतम पाया शान्ति भण्डार ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sant Padhaare Dhaam Hamaare, Pritam Hoyaa Jay Jaykaar (Tek)."
-    ],
-    [
       "Nirmohi Nit Param Viraagi, Raam Bhajan Men Ati Anuraagi.",
-      "Pritam Aaye Param Udaar || 1 ||."
+      "Pritam Aaye Param Udaar || 1 ||"
     ],
     [
       "Bahut Janm Ke Puny Vikaasaa, Darshan Prasann Bhayaa Hulaasaa.",
@@ -40,7 +89,7 @@
     ],
     [
       "Hriday Andar Bhayaa Prakaashaa, Shram Andheraa Sarv Vinaashaa.",
-      "Pritam Dekhaa Divy Didaar || 3 ||."
+      "Pritam Dekhaa Divy Didaar || 3 ||"
     ],
     [
       "Kahe Teun Sun Tinki Baani, Aatam Pad Men Surti Samaani.",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Kanso Bhajan || 17 || D47 ||",
+    "सन्त पधारे धाम हमारे, प्रीतम होया जय जयकार",
     "Sant Padhaare Dhaam Hamaare, Pritam Hoyaa Jay Jaykaar",
-    "संत पधारे धाम हमारे, परितम होया जय जयकार"
+    "राग कंसो भजन 17",
+    "Raag Kanso Bhajan 17"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 648,
+  "displayOrder": 17,
+  "overallOrder": 646,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 345",
+  "updatedAt": "2026-10-26"
 }

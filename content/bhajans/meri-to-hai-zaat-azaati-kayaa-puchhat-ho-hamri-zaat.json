@@ -2,52 +2,99 @@
   "id": "bhajan-0427",
   "slug": "meri-to-hai-zaat-azaati-kayaa-puchhat-ho-hamri-zaat",
   "categoryId": "raag-tilang",
-  "title": "मेरि तो है zात zाति, कया पुचहत हो हमरि zात",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मेरी तो है ज़ात अज़ाती, कया पूछत हो हमरी ज़ात",
   "romanTitle": "Meri To Hai Zaat Azaati, Kayaa Puchhat Ho Hamri Zaat",
   "firstLine": "Meri To Hai Zaat Azaati, Kayaa Puchhat Ho Hamri Zaat (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ६४ ।। ४२८॥।",
+  "tek": [
+    "मेरी तो है ज़ात अज़ाती, कया पूछत हो हमरी ज़ात ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Meri To Hai Zaat Azaati, Kayaa Puchhat Ho Hamri Zaat (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ना मैं खलकत ना मैं खालिक, नहीं छिपा हूँ नहिं इसबात ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naa Main Khalkat Naa Main Khaalik, Nahin Chhipaa Hun Nahin Isbaat || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ना मैं नरहेँना मैं नारी, ना मैं न्याती नाहिं न्यात ॥२) ।"
+      ],
+      "romanLines": [
+        "Naa Main Narhennaa Main Naari, Naa Main Nyaati Naahin Nyaat || 2)."
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "ना मैं जन्मा ना मैं मरता, नहीं पिता नहिं मेरी मात ॥३ ॥"
+      ],
+      "romanLines": [
+        "Naa Main Janmaa Naa Main Martaa, Nahin Pitaa Nahin Meri Maat || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "टेऊँ भी नहीं नाम हमारा, समझे को यह अदूभुत बात ॥४ ॥"
+      ],
+      "romanLines": [
+        "Teun Bhi Nahin Naam Hamaaraa, Samjhe Ko Yah Adubhut Baat || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरि तो है zात zाति, कया पुचहत हो हमरि zात (टेक)."
+      "ना मैं खलकत ना मैं खालिक, नहीं छिपा हूँ नहिं इसबात ॥१ ॥"
     ],
     [
-      "ना मैं खलकत ना मैं खालिक, नहिन चहिपा हुन नहिन िसबात || 1 ||."
+      "ना मैं नरहेँना मैं नारी, ना मैं न्याती नाहिं न्यात ॥२) ।"
     ],
     [
-      "ना मैं नरहेनना मैं नारि, ना मैं नयाति नाहिन नयात || 2).",
-      "ना मैं जनमा ना मैं मरता, नहिन पिता नहिन मेरि मात || 3 ||."
+      "ना मैं जन्मा ना मैं मरता, नहीं पिता नहिं मेरी मात ॥३ ॥"
     ],
     [
-      "तेऊँ भि नहिन नाम हमारा, समझे को यह दुभुत बात || 4 ||"
+      "टेऊँ भी नहीं नाम हमारा, समझे को यह अदूभुत बात ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Meri To Hai Zaat Azaati, Kayaa Puchhat Ho Hamri Zaat (Tek)."
+      "Naa Main Khalkat Naa Main Khaalik, Nahin Chhipaa Hun Nahin Isbaat || 1 ||"
     ],
     [
-      "Naa Main Khalkat Naa Main Khaalik, Nahin Chhipaa Hun Nahin Isbaat || 1 ||."
+      "Naa Main Narhennaa Main Naari, Naa Main Nyaati Naahin Nyaat || 2)."
     ],
     [
-      "Naa Main Narhennaa Main Naari, Naa Main Nyaati Naahin Nyaat || 2).",
-      "Naa Main Janmaa Naa Main Martaa, Nahin Pitaa Nahin Meri Maat || 3 ||."
+      "Naa Main Janmaa Naa Main Martaa, Nahin Pitaa Nahin Meri Maat || 3 ||"
     ],
     [
       "Teun Bhi Nahin Naam Hamaaraa, Samjhe Ko Yah Adubhut Baat || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 64 || 428 ||.",
+    "मेरी तो है ज़ात अज़ाती, कया पूछत हो हमरी ज़ात",
     "Meri To Hai Zaat Azaati, Kayaa Puchhat Ho Hamri Zaat",
-    "मेरि तो है zात zाति, कया पुचहत हो हमरि zात"
+    "राग तिलंग भजन 64",
+    "Raag Tilang Bhajan 64"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 427,
+  "displayOrder": 64,
+  "overallOrder": 427,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 244",
+  "updatedAt": "2026-10-26"
 }

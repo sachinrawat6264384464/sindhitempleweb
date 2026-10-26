@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Search, X, Music2, ArrowRight, ChevronDown, Sparkles, Loader2 } from "lucide-react";
 import { Category } from "@/lib/types";
+import { normalizePhonetic, normalizeSearchText } from "@/lib/search";
 
 export interface SearchIndexItem {
   id: string;
@@ -103,14 +104,18 @@ export default function HeroBhajanSearch({ categories, totalBhajans }: HeroBhaja
     return map;
   }, [bhajans]);
 
-  // Real-time full-text search across titles, Roman transliterations, and ALL words in lyrics
+  // Real-time full-text search with cross-script phonetic matching (Sindhi, Hindi, Hinglish)
   const searchResults = useMemo(() => {
-    const rawQuery = query.trim().toLowerCase();
+    const rawQuery = query.trim();
     if (!rawQuery && selectedCategory === "all") {
       return [];
     }
 
     const matches: { bhajan: SearchIndexItem; matchedSnippet: string | null; score: number }[] = [];
+    const normQ = normalizeSearchText(rawQuery);
+    const pQ = normalizePhonetic(rawQuery);
+    const qTokens = normQ ? normQ.split(" ").filter(Boolean) : [];
+    const pTokens = pQ ? pQ.split(" ").filter(Boolean) : [];
 
     for (const b of bhajans) {
       // Category filter
@@ -126,45 +131,65 @@ export default function HeroBhajanSearch({ categories, totalBhajans }: HeroBhaja
       let score = 0;
       let matchedSnippet: string | null = null;
 
-      const normTitle = b.title.toLowerCase();
-      const normRomanTitle = b.romanTitle.toLowerCase();
-      const normFirstLine = (b.firstLine || "").toLowerCase();
-      const normLyrics = (b.lyrics || "").toLowerCase();
-      const normRomanLyrics = (b.romanLyrics || "").toLowerCase();
+      const normTitle = normalizeSearchText(b.title);
+      const normRomanTitle = normalizeSearchText(b.romanTitle);
+      const normFirstLine = normalizeSearchText(b.firstLine || "");
+      const normLyrics = normalizeSearchText(b.lyrics || "");
+      const normRomanLyrics = normalizeSearchText(b.romanLyrics || "");
 
-      // Title matches (highest weight)
-      if (normTitle === rawQuery || normRomanTitle === rawQuery) {
+      const pTitle = normalizePhonetic(b.title);
+      const pRomanTitle = normalizePhonetic(b.romanTitle);
+      const pFirstLine = normalizePhonetic(b.firstLine || "");
+      const pLyrics = normalizePhonetic(b.lyrics || "");
+      const pRomanLyrics = normalizePhonetic(b.romanLyrics || "");
+
+      // Title exact or phrase match (highest weight)
+      if (normTitle === normQ || normRomanTitle === normQ || pTitle === pQ || pRomanTitle === pQ) {
         score += 1000;
-      } else if (normTitle.includes(rawQuery) || normRomanTitle.includes(rawQuery)) {
+      } else if (normTitle.includes(normQ) || normRomanTitle.includes(normQ) || pTitle.includes(pQ) || pRomanTitle.includes(pQ)) {
         score += 500;
       }
 
       // First line match
-      if (normFirstLine.includes(rawQuery)) {
+      if (normFirstLine.includes(normQ) || pFirstLine.includes(pQ)) {
         score += 300;
       }
 
       // Tags match
-      if (b.tags && b.tags.some((t) => t.toLowerCase().includes(rawQuery))) {
+      if (b.tags && b.tags.some((t) => normalizeSearchText(t).includes(normQ) || normalizePhonetic(t).includes(pQ))) {
         score += 150;
       }
 
       // Full lyrics match (search across ALL words in lyrics)
-      const lyricsIdx = normLyrics.indexOf(rawQuery);
+      const lyricsIdx = (b.lyrics || "").toLowerCase().indexOf(rawQuery.toLowerCase());
+      const romanIdx = (b.romanLyrics || "").toLowerCase().indexOf(rawQuery.toLowerCase());
+
       if (lyricsIdx !== -1) {
         score += 200;
-        // Extract surrounding sentence snippet
         const start = Math.max(0, lyricsIdx - 35);
         const end = Math.min(b.lyrics.length, lyricsIdx + rawQuery.length + 45);
         matchedSnippet = (start > 0 ? "... " : "") + b.lyrics.substring(start, end).trim() + (end < b.lyrics.length ? " ..." : "");
-      } else {
-        const romanIdx = normRomanLyrics.indexOf(rawQuery);
-        if (romanIdx !== -1) {
-          score += 200;
-          const start = Math.max(0, romanIdx - 35);
-          const end = Math.min(b.romanLyrics.length, romanIdx + rawQuery.length + 45);
-          matchedSnippet = (start > 0 ? "... " : "") + b.romanLyrics.substring(start, end).trim() + (end < b.romanLyrics.length ? " ..." : "");
-        }
+      } else if (romanIdx !== -1) {
+        score += 200;
+        const start = Math.max(0, romanIdx - 35);
+        const end = Math.min(b.romanLyrics.length, romanIdx + rawQuery.length + 45);
+        matchedSnippet = (start > 0 ? "... " : "") + b.romanLyrics.substring(start, end).trim() + (end < b.romanLyrics.length ? " ..." : "");
+      } else if (pLyrics.includes(pQ) || pRomanLyrics.includes(pQ) || normLyrics.includes(normQ) || normRomanLyrics.includes(normQ)) {
+        score += 180;
+        matchedSnippet = (b.firstLine || b.romanTitle);
+      }
+
+      // Query tokens match
+      for (const t of qTokens) {
+        if (normTitle.includes(t) || normRomanTitle.includes(t)) score += 60;
+        if (normFirstLine.includes(t)) score += 40;
+        if (normLyrics.includes(t) || normRomanLyrics.includes(t)) score += 20;
+      }
+
+      for (const pt of pTokens) {
+        if (pTitle.includes(pt) || pRomanTitle.includes(pt)) score += 60;
+        if (pFirstLine.includes(pt)) score += 40;
+        if (pLyrics.includes(pt) || pRomanLyrics.includes(pt)) score += 20;
       }
 
       if (score > 0) {

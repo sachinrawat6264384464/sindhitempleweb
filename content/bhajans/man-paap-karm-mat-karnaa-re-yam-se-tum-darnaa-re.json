@@ -1,91 +1,147 @@
 {
   "id": "bhajan-0359",
   "slug": "man-paap-karm-mat-karnaa-re-yam-se-tum-darnaa-re",
-  "categoryId": "raag-aasaa",
-  "title": "मन पाप करम मत करना रे, यम से तुम दरना रे",
+  "categoryId": "raag-basant",
+  "categoryName": "राग बसंत",
+  "romanCategoryName": "Raag Basant",
+  "title": "मन पाप कर्म मत करना रे, यम से तुम डरना रे",
   "romanTitle": "Man Paap Karm Mat Karnaa Re, Yam Se Tum Darnaa Re",
   "firstLine": "Man Paap Karm Mat Karnaa Re, Yam Se Tum Darnaa Re (Tek).",
+  "heading": "।। राग बसन्त भजन ।। १६ ।। ३५९।।",
+  "tek": [
+    "मन पाप कर्म मत करना रे, यम से तुम डरना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Paap Karm Mat Karnaa Re, Yam Se Tum Darnaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जो जो कर्म जगत में करते, चित्रगुप्त लिख लेते ।",
+        "धर्मराज के आगे वाचे, चौदहेँ साक्षी देते ।",
+        "तहँ तिल तिल लेखा भरना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jo Jo Karm Jagat Men Karte, Chitragupt Likh Lete.",
+        "Dharmaraaj Ke Aage Vaache, Chaudhen Saakshi Dete.",
+        "Tahan Til Til Lekhaa Bharnaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राज नहीं पूपा बाई का, साच न्याय तहँ होता ।",
+        "धर्मी जन तहँ आदर पावे, पापी नर बहु रोता ।",
+        "तुम सोच सोच पग धरना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raaj Nahin Pupaa Baai Kaa, Saach Nyaay Tahan Hotaa.",
+        "Dharmi Jan Tahan Aadar Paave, Paapi Nar Bahu Rotaa.",
+        "Tum Soch Soch Pag Dharnaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "साहब दर ना होय खुशामद, राव रंक जो होई ।",
+        "कर्मों का ही होय निबेरा, ज़ोर न चाले कोई ।",
+        "नहिं पापों पीछे पड़ना रे ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Saahab Dar Naa Hoy Khushaamad, Raav Rank Jo Hoi.",
+        "Karmon Kaa Hi Hoy Niberaa, Zor Na Chaale Koi.",
+        "Nahin Paapon Pichhe Parnaa Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "पापियों के शिर मार पड़त है, शास्त्र यों बतलाते ।",
+        "कहे टेऊँ वे सुख को पावत, जे शुभ कर्म कमाते ।",
+        "सत्‌ कर्म करे भव तरना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Paapiyon Ke Shir Maar Parat Hai, Shaastr Yon Batlaate.",
+        "Kahe Teun Ve Sukh Ko Paavat, Je Shubh Karm Kamaate.",
+        "Sat‌ Karm Kare Bhav Tarnaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "्ह्ह"
+      ],
+      "romanLines": [
+        "Hh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन पाप करम मत करना रे, यम से तुम दरना रे (टेक)."
+      "जो जो कर्म जगत में करते, चित्रगुप्त लिख लेते ।",
+      "धर्मराज के आगे वाचे, चौदहेँ साक्षी देते ।",
+      "तहँ तिल तिल लेखा भरना रे ॥१ ॥"
     ],
     [
-      "जो जो करम जगत मेन करते, चितरगुपत लिख लेते.",
-      "धरमराज के ागे वाचे, चौधेन साक्षी देते."
+      "राज नहीं पूपा बाई का, साच न्याय तहँ होता ।",
+      "धर्मी जन तहँ आदर पावे, पापी नर बहु रोता ।",
+      "तुम सोच सोच पग धरना रे ॥२ ॥"
     ],
     [
-      "तहन तिल तिल लेखा भरना रे || 1 ||."
+      "साहब दर ना होय खुशामद, राव रंक जो होई ।",
+      "कर्मों का ही होय निबेरा, ज़ोर न चाले कोई ।",
+      "नहिं पापों पीछे पड़ना रे ॥३े ॥ ।"
     ],
     [
-      "राज नहिन पुपा बाि का, साच नयाय तहन होता.",
-      "धरमि जन तहन ादर पावे, पापि नर बहु रोता."
+      "पापियों के शिर मार पड़त है, शास्त्र यों बतलाते ।",
+      "कहे टेऊँ वे सुख को पावत, जे शुभ कर्म कमाते ।",
+      "सत्‌ कर्म करे भव तरना रे ॥४ ॥"
     ],
     [
-      "तुम सोच सोच पग धरना रे || 2 ||."
-    ],
-    [
-      "साहब दर ना होय खुशामद, राव रनक जो होि.",
-      "करमोन का हि होय निबेरा, zोर न चाले कोि."
-    ],
-    [
-      "नहिन पापोन पिचहे परना रे || 3े ||.",
-      "पापियोन के शिर मार परत है, शासतर योन बतलाते."
-    ],
-    [
-      "कहे तेऊँ वे सुख को पावत, जे शुभ करम कमाते.",
-      "सत‌ करम करे भव तरना रे || 4. ||."
-    ],
-    [
-      "हह"
+      "्ह्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Man Paap Karm Mat Karnaa Re, Yam Se Tum Darnaa Re (Tek)."
-    ],
-    [
       "Jo Jo Karm Jagat Men Karte, Chitragupt Likh Lete.",
-      "Dharmaraaj Ke Aage Vaache, Chaudhen Saakshi Dete."
-    ],
-    [
-      "Tahan Til Til Lekhaa Bharnaa Re || 1 ||."
+      "Dharmaraaj Ke Aage Vaache, Chaudhen Saakshi Dete.",
+      "Tahan Til Til Lekhaa Bharnaa Re || 1 ||"
     ],
     [
       "Raaj Nahin Pupaa Baai Kaa, Saach Nyaay Tahan Hotaa.",
-      "Dharmi Jan Tahan Aadar Paave, Paapi Nar Bahu Rotaa."
-    ],
-    [
-      "Tum Soch Soch Pag Dharnaa Re || 2 ||."
+      "Dharmi Jan Tahan Aadar Paave, Paapi Nar Bahu Rotaa.",
+      "Tum Soch Soch Pag Dharnaa Re || 2 ||"
     ],
     [
       "Saahab Dar Naa Hoy Khushaamad, Raav Rank Jo Hoi.",
-      "Karmon Kaa Hi Hoy Niberaa, Zor N Chaale Koi."
+      "Karmon Kaa Hi Hoy Niberaa, Zor Na Chaale Koi.",
+      "Nahin Paapon Pichhe Parnaa Re || 3E ||"
     ],
     [
-      "Nahin Paapon Pichhe Parnaa Re || 3E ||.",
-      "Paapiyon Ke Shir Maar Parat Hai, Shaastr Yon Batlaate."
-    ],
-    [
+      "Paapiyon Ke Shir Maar Parat Hai, Shaastr Yon Batlaate.",
       "Kahe Teun Ve Sukh Ko Paavat, Je Shubh Karm Kamaate.",
-      "Sat‌ Karm Kare Bhav Tarnaa Re || 4. ||."
+      "Sat‌ Karm Kare Bhav Tarnaa Re || 4 ||"
     ],
     [
       "Hh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Basant Bhajan || 16 || 359 ||",
+    "मन पाप कर्म मत करना रे, यम से तुम डरना रे",
     "Man Paap Karm Mat Karnaa Re, Yam Se Tum Darnaa Re",
-    "मन पाप करम मत करना रे, यम से तुम दरना रे"
+    "राग बसंत भजन 16",
+    "Raag Basant Bhajan 16"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-basant",
+    "bhajan"
   ],
-  "displayOrder": 359,
+  "displayOrder": 16,
+  "overallOrder": 359,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 212",
+  "updatedAt": "2026-10-26"
 }

@@ -1,67 +1,118 @@
 {
-  "id": "bhajan-0636",
+  "id": "bhajan-0634",
   "slug": "kahe-koi-divaanaa-hai-kahe-koi-sujaanaa-hai",
   "categoryId": "raag-kanso",
-  "title": "कहे कोि दिवाना है, कहे कोि सुजाना है",
+  "categoryName": "राग कंसो",
+  "romanCategoryName": "Raag Kanso",
+  "title": "कहे कोई दीवाना है, कहे कोई सुजाना है",
   "romanTitle": "Kahe Koi Divaanaa Hai, Kahe Koi Sujaanaa Hai",
-  "firstLine": "Kahe Koi Divaanaa Hai, Kahe Koi Sujaanaa Hai. Nahin Hai Kaam Lokon Se, Mujhe Hari Hi Dhyaanaa Hai (Tek).",
+  "firstLine": "Kahe Koi Divaanaa Hai, Kahe Koi Sujaanaa Hai.",
+  "heading": "।। राग कंसो भजन ।। ५ ।। ६३५।॥।",
+  "tek": [
+    "कहे कोई दीवाना है, कहे कोई सुजाना है ।",
+    "नहीं है काम लोकों से, मुझे हरि ही ध्याना है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kahe Koi Divaanaa Hai, Kahe Koi Sujaanaa Hai.",
+    "Nahin Hai Kaam Lokon Se, Mujhe Hari Hi Dhyaanaa Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुना उपदेश गुनियां का, वचन सत्‌ वेद मुनियां का ।",
+        "तजा व्यवहार दुनियां का, अभी हरि गीत गाना है ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sunaa Updesh Guniyaan Kaa, Vachan Sat‌ Ved Muniyaan Kaa.",
+        "Tajaa Vyavhaar Duniyaan Kaa, Abhi Hari Git Gaanaa Hai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मुझे पहले न सुधि होई, उम्र रस भोग में खोई ।",
+        "किया शुभ कर्म ना कोई, अभी करना कल्याना है ॥२ ॥"
+      ],
+      "romanLines": [
+        "Mujhe Pahle Na Sudhi Hoi, Umr Ras Bhog Men Khoi.",
+        "Kiyaa Shubh Karm Naa Koi, Abhi Karnaa Kalyaanaa Hai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जपे सत्‌ नाम सत्‌गुरु का, धरे पुनि ध्यान इक हरि का ।",
+        "पता लेके अमर घर का, परम आनन्द पाना है ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jape Sat‌ Naam Sat‌Guru Kaa, Dhare Puni Dhyaan Ik Hari Kaa.",
+        "Pataa Leke Amar Ghar Kaa, Param Aanand Paanaa Hai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कटे जाली, चलूंगा हंस की चाली ।",
+        "खुदी से दिल करे खाली, ब्रह्म से मन मिलाना है ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kate Jaali, Chalungaa Hans Ki Chaali.",
+        "Khudi Se Dil Kare Khaali, Brahm Se Man Milaanaa Hai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कहे कोि दिवाना है, कहे कोि सुजाना है.",
-      "नहिन है काम लोकोन से, मुझे हरि हि धयाना है (टेक)."
+      "सुना उपदेश गुनियां का, वचन सत्‌ वेद मुनियां का ।",
+      "तजा व्यवहार दुनियां का, अभी हरि गीत गाना है ॥१ ॥"
     ],
     [
-      "सुना ुपदेश गुनियान का, वचन सत‌ वेद मुनियान का.",
-      "तजा वयवहार दुनियान का, भि हरि गित गाना है || 1 ||"
+      "मुझे पहले न सुधि होई, उम्र रस भोग में खोई ।",
+      "किया शुभ कर्म ना कोई, अभी करना कल्याना है ॥२ ॥"
     ],
     [
-      "मुझे पहले न सुधि होि, ुमर रस भोग मेन खोि.",
-      "किया शुभ करम ना कोि, भि करना कलयाना है || 2 ||"
+      "जपे सत्‌ नाम सत्‌गुरु का, धरे पुनि ध्यान इक हरि का ।",
+      "पता लेके अमर घर का, परम आनन्द पाना है ॥३ ॥"
     ],
     [
-      "जपे सत‌ नाम सतगुरु का, धरे पुनि ध्यान िक हरि का.",
-      "पता लेके मर घर का, परम आनंद पाना है || 3 ||."
-    ],
-    [
-      "कहे तेऊँ कते जालि, चलुनगा हनस कि चालि.",
-      "खुदि से दिल करे खालि, बरहम से मन मिलाना है || 4 ||."
+      "कहे टेऊँ कटे जाली, चलूंगा हंस की चाली ।",
+      "खुदी से दिल करे खाली, ब्रह्म से मन मिलाना है ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Kahe Koi Divaanaa Hai, Kahe Koi Sujaanaa Hai.",
-      "Nahin Hai Kaam Lokon Se, Mujhe Hari Hi Dhyaanaa Hai (Tek)."
-    ],
     [
       "Sunaa Updesh Guniyaan Kaa, Vachan Sat‌ Ved Muniyaan Kaa.",
       "Tajaa Vyavhaar Duniyaan Kaa, Abhi Hari Git Gaanaa Hai || 1 ||"
     ],
     [
-      "Mujhe Pahle N Sudhi Hoi, Umr Ras Bhog Men Khoi.",
+      "Mujhe Pahle Na Sudhi Hoi, Umr Ras Bhog Men Khoi.",
       "Kiyaa Shubh Karm Naa Koi, Abhi Karnaa Kalyaanaa Hai || 2 ||"
     ],
     [
       "Jape Sat‌ Naam Sat‌Guru Kaa, Dhare Puni Dhyaan Ik Hari Kaa.",
-      "Pataa Leke Amar Ghar Kaa, Param Aanand Paanaa Hai || 3 ||."
+      "Pataa Leke Amar Ghar Kaa, Param Aanand Paanaa Hai || 3 ||"
     ],
     [
       "Kahe Teun Kate Jaali, Chalungaa Hans Ki Chaali.",
-      "Khudi Se Dil Kare Khaali, Brahm Se Man Milaanaa Hai || 4 ||."
+      "Khudi Se Dil Kare Khaali, Brahm Se Man Milaanaa Hai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kanso Bhajan || 5 || 635. ||.",
+    "कहे कोई दीवाना है, कहे कोई सुजाना है",
     "Kahe Koi Divaanaa Hai, Kahe Koi Sujaanaa Hai",
-    "कहे कोि दिवाना है, कहे कोि सुजाना है"
+    "राग कंसो भजन 5",
+    "Raag Kanso Bhajan 5"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "kanso"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kanso",
+    "bhajan"
   ],
-  "displayOrder": 636,
+  "displayOrder": 5,
+  "overallOrder": 634,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 340",
+  "updatedAt": "2026-10-26"
 }

@@ -1,37 +1,86 @@
 {
-  "id": "bhajan-0550",
+  "id": "bhajan-0548",
   "slug": "japle-hari-kaa-naam-manuvaa-prem-lagaake",
   "categoryId": "raag-sorath",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
   "title": "जपले हरि का नाम, मनुवा प्रेम लगाके",
   "romanTitle": "Japle Hari Kaa Naam, Manuvaa Prem Lagaake",
-  "firstLine": "Japle Hari Kaa Naam, Manuvaa Prem Lagaake. Paao Sukh Vishraam, Manuvaa Prem Lagaake (Tek).",
+  "firstLine": "Japle Hari Kaa Naam, Manuvaa Prem Lagaake.",
+  "heading": "।। राग सोरठ भजन ।। १८ ।। '५४९॥।",
+  "tek": [
+    "जपले हरि का नाम, मनुवा प्रेम लगाके ।",
+    "पाओ सुख विश्राम, मनुवा प्रेम लगाके ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Japle Hari Kaa Naam, Manuvaa Prem Lagaake.",
+    "Paao Sukh Vishraam, Manuvaa Prem Lagaake (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरि सुमरन बिन नहिं निस्तारा, सन्त वेद नित करत पुकारा ।",
+        "छोड़ो झूठे काम, मनुवा प्रेम लगाके ॥8 ॥"
+      ],
+      "romanLines": [
+        "Hari Sumran Bin Nahin Nistaaraa, Sant Ved Nit Karat Pukaaraa.",
+        "Chhoro Jhuthe Kaam, Manuvaa Prem Lagaake || 8 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "हरि सुमरन है अति सुखदाई, माया का संग बहु दुखदाई ।",
+        "लेवो हरि की शाम, मनुवा प्रेम लगाके ॥२ ॥"
+      ],
+      "romanLines": [
+        "Hari Sumran Hai Ati Sukhdaai, Maayaa Kaa Sang Bahu Dukhdaai.",
+        "Levo Hari Ki Shaam, Manuvaa Prem Lagaake || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जिसने प्रेम प्रभू से लाया, आनन्द में वो सहज समाया ।",
+        "पाया मुक्ती धाम, मनुवा प्रेम लगाके ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jisne Prem Prabhu Se Laayaa, Aanand Men Vo Sahaj Samaayaa.",
+        "Paayaa Mukti Dhaam, Manuvaa Prem Lagaake || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ धन्य तांका जीवन, जिसने हरि का कीना सुमरन ।",
+        "तांको कर प्रणाम, मनुवा प्रेम लगाके ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Dhany Taankaa Jivan, Jisne Hari Kaa Kinaa Sumran.",
+        "Taanko Kar Pranaam, Manuvaa Prem Lagaake || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "जपले हरि का नाम, मनुवा प्रेम लगाके.",
-      "पाो सुख विशराम, मनुवा प्रेम लगाके (टेक)."
+      "हरि सुमरन बिन नहिं निस्तारा, सन्त वेद नित करत पुकारा ।",
+      "छोड़ो झूठे काम, मनुवा प्रेम लगाके ॥8 ॥"
     ],
     [
-      "हरि सुमरन बिन नहिन निसतारा, संत वेद नित करत पुकारा.",
-      "चहोरो झुथे काम, मनुवा प्रेम लगाके || 8 ||"
+      "हरि सुमरन है अति सुखदाई, माया का संग बहु दुखदाई ।",
+      "लेवो हरि की शाम, मनुवा प्रेम लगाके ॥२ ॥"
     ],
     [
-      "हरि सुमरन है ति सुखदाि, माया का सनग बहु दुखदाि.",
-      "लेवो हरि कि शाम, मनुवा प्रेम लगाके || 2 ||"
+      "जिसने प्रेम प्रभू से लाया, आनन्द में वो सहज समाया ।",
+      "पाया मुक्ती धाम, मनुवा प्रेम लगाके ॥३ ॥"
     ],
     [
-      "जिसने प्रेम प्रभु से लाया, आनंद मेन वो सहज समाया.",
-      "पाया मुक्ति धाम, मनुवा प्रेम लगाके || 3 ||."
-    ],
-    [
-      "कहे तेऊँ धनय तानका जिवन, जिसने हरि का किना सुमरन.",
-      "तानको कर परनाम, मनुवा प्रेम लगाके || 4. ||."
+      "कहे टेऊँ धन्य तांका जीवन, जिसने हरि का कीना सुमरन ।",
+      "तांको कर प्रणाम, मनुवा प्रेम लगाके ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Japle Hari Kaa Naam, Manuvaa Prem Lagaake.",
-      "Paao Sukh Vishraam, Manuvaa Prem Lagaake (Tek)."
-    ],
     [
       "Hari Sumran Bin Nahin Nistaaraa, Sant Ved Nit Karat Pukaaraa.",
       "Chhoro Jhuthe Kaam, Manuvaa Prem Lagaake || 8 ||"
@@ -42,27 +91,28 @@
     ],
     [
       "Jisne Prem Prabhu Se Laayaa, Aanand Men Vo Sahaj Samaayaa.",
-      "Paayaa Mukti Dhaam, Manuvaa Prem Lagaake || 3 ||."
+      "Paayaa Mukti Dhaam, Manuvaa Prem Lagaake || 3 ||"
     ],
     [
       "Kahe Teun Dhany Taankaa Jivan, Jisne Hari Kaa Kinaa Sumran.",
-      "Taanko Kar Pranaam, Manuvaa Prem Lagaake || 4. ||."
+      "Taanko Kar Pranaam, Manuvaa Prem Lagaake || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Sorath Bhajan || 18 || '549 ||.",
+    "जपले हरि का नाम, मनुवा प्रेम लगाके",
     "Japle Hari Kaa Naam, Manuvaa Prem Lagaake",
-    "जपले हरि का नाम, मनुवा प्रेम लगाके"
+    "राग सोरठ भजन 18",
+    "Raag Sorath Bhajan 18"
   ],
   "tags": [
-    "teunram",
-    "sorath",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
+    "bhajan"
   ],
-  "displayOrder": 550,
+  "displayOrder": 18,
+  "overallOrder": 548,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 300",
+  "updatedAt": "2026-10-26"
 }

@@ -2,54 +2,114 @@
   "id": "bhajan-0415",
   "slug": "indriyon-ko-shubh-maarg-laao-samajh-dhare-tum-syaanaa-re",
   "categoryId": "raag-tilang",
-  "title": "िनदरियोन को शुभ मारग लाो, समझ धरे तुम सयाना रे",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "इन्द्रियों को शुभ मार्ग लाओ, समझ धरे तुम स्याना रे",
   "romanTitle": "Indriyon Ko Shubh Maarg Laao, Samajh Dhare Tum Syaanaa Re",
   "firstLine": "Indriyon Ko Shubh Maarg Laao, Samajh Dhare Tum Syaanaa Re (Tek).",
+  "heading": "।। राग तिलंग भजन ।। ५२ ।। ४१६।।",
+  "tek": [
+    "इन्द्रियों को शुभ मार्ग लाओ, समझ धरे तुम स्याना रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Indriyon Ko Shubh Maarg Laao, Samajh Dhare Tum Syaanaa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पाँवों से चल सत्संग करना, हाथों सेव कमाना रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paanvon Se Chal Satsang Karnaa, Haathon Sev Kamaanaa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "श्रवन से सत्‌ शब्द सुनीजे, रसना हरि गुण गाना रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shravan Se Sat‌ Shabd Sunije, Rasnaa Hari Gun Gaanaa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "घ्राणों से गुरु नाम जपीजे, बुद्धि में धारो ज्ञाना रे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Ghraanon Se Guru Naam Japije, Buddhi Men Dhaaro Jnyaanaa Re || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "नैनों से गुरु दर्शन कीजे, मन में धर हरि ध्याना रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Nainon Se Guru Darshan Kije, Man Men Dhar Hari Dhyaanaa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "कहता टेऊँ इस रहनी से, अपना कर कल्याना रे ॥५ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Is Rahni Se, Apnaa Kar Kalyaanaa Re || 5 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "िनदरियोन को शुभ मारग लाो, समझ धरे तुम सयाना रे (टेक)."
+      "पाँवों से चल सत्संग करना, हाथों सेव कमाना रे ॥१ ॥"
     ],
     [
-      "पानवोन से चल सत्संग करना, हाथोन सेव कमाना रे.1. ||.",
-      "शरवन से सत‌ शबद सुनिजे, रसना हरि गुन गाना रे || 2 ||."
+      "श्रवन से सत्‌ शब्द सुनीजे, रसना हरि गुण गाना रे ॥२ ॥"
     ],
     [
-      "घरानोन से गुरु नाम जपिजे, बुदधि मेन धारो जनयाना रे.3 ||.",
-      "नैनोन से गुरु दरशन किजे, मन मेन धर हरि धयाना रे || 4 ||"
+      "घ्राणों से गुरु नाम जपीजे, बुद्धि में धारो ज्ञाना रे ॥३ ॥"
     ],
     [
-      "कहता तेऊँ िस रहनि से, पना कर कलयाना रे || 5 ||."
+      "नैनों से गुरु दर्शन कीजे, मन में धर हरि ध्याना रे ॥४ ॥"
+    ],
+    [
+      "कहता टेऊँ इस रहनी से, अपना कर कल्याना रे ॥५ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Indriyon Ko Shubh Maarg Laao, Samajh Dhare Tum Syaanaa Re (Tek)."
+      "Paanvon Se Chal Satsang Karnaa, Haathon Sev Kamaanaa Re || 1 ||"
     ],
     [
-      "Paanvon Se Chal Satsang Karnaa, Haathon Sev Kamaanaa Re.1. ||.",
-      "Shravan Se Sat‌ Shabd Sunije, Rasnaa Hari Gun Gaanaa Re || 2 ||."
+      "Shravan Se Sat‌ Shabd Sunije, Rasnaa Hari Gun Gaanaa Re || 2 ||"
     ],
     [
-      "Ghraanon Se Guru Naam Japije, Buddhi Men Dhaaro Jnyaanaa Re.3 ||.",
+      "Ghraanon Se Guru Naam Japije, Buddhi Men Dhaaro Jnyaanaa Re || 3 ||"
+    ],
+    [
       "Nainon Se Guru Darshan Kije, Man Men Dhar Hari Dhyaanaa Re || 4 ||"
     ],
     [
-      "Kahtaa Teun Is Rahni Se, Apnaa Kar Kalyaanaa Re || 5 ||."
+      "Kahtaa Teun Is Rahni Se, Apnaa Kar Kalyaanaa Re || 5 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 52 || 416 ||",
+    "इन्द्रियों को शुभ मार्ग लाओ, समझ धरे तुम स्याना रे",
     "Indriyon Ko Shubh Maarg Laao, Samajh Dhare Tum Syaanaa Re",
-    "िनदरियोन को शुभ मारग लाो, समझ धरे तुम सयाना रे"
+    "राग तिलंग भजन 52",
+    "Raag Tilang Bhajan 52"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 415,
+  "displayOrder": 52,
+  "overallOrder": 415,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 240",
+  "updatedAt": "2026-10-26"
 }

@@ -2,74 +2,117 @@
   "id": "bhajan-0370",
   "slug": "milaa-maanush-janm-tujhko-hari-ke-bhajan-hit-pyaaraa",
   "categoryId": "raag-tilang",
-  "title": "मिला मानुश जनम तुझको, हरि के भजन हित पयारा",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "मिला मानुष जन्म तुझको, हरी के भजन हित प्यारा",
   "romanTitle": "Milaa Maanush Janm Tujhko, Hari Ke Bhajan Hit Pyaaraa",
-  "firstLine": "Milaa Maanush Janm Tujhko, Hari Ke Bhajan Hit Pyaaraa. Jape Nit Naam Prabhu Kaa, Taro Bhavsindhu Se Paaraa (Tek).",
+  "firstLine": "Milaa Maanush Janm Tujhko, Hari Ke Bhajan Hit Pyaaraa.",
+  "heading": "।। राग तिलंग भजन ।। ७ ।। ३७१।।",
+  "tek": [
+    "मिला मानुष जन्म तुझको, हरी के भजन हित प्यारा ।",
+    "जपे नित नाम प्रभू का, तरो भवसिन्धु से पारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Milaa Maanush Janm Tujhko, Hari Ke Bhajan Hit Pyaaraa.",
+    "Jape Nit Naam Prabhu Kaa, Taro Bhavsindhu Se Paaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "कुट्म्ब के मोह को त्यागे, करो नित सड्ट सन्तों का ।",
+        "वचन गुरुदेव का धारे, चलो निज धर्म का चारा ॥8 ॥१ ॥"
+      ],
+      "romanLines": [
+        "Kutmb Ke Moh Ko Tyaage, Karo Nit Sadt Santon Kaa.",
+        "Vachan Gurudev Kaa Dhaare, Chalo Nij Dharm Kaa Chaaraa || 8 || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इन्द्रिय मन को सदा रोको, विषय रस भोग आशा से ।",
+        "करे वश पांच दुश्मन को, रहो नित शोक ते न्यारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Indriy Man Ko Sadaa Roko, Vishay Ras Bhog Aashaa Se.",
+        "Kare Vash Paanch Dushman Ko, Raho Nit Shok Te Nyaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "गुरू की शरण में जाकर, धरो धन सीस की दक्षिणा ।",
+        "ब्रह्म के ज्ञान को लेकर, हरो अज्ञान दुख भारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Guru Ki Sharan Men Jaakar, Dharo Dhan Sis Ki Dakshinaa.",
+        "Brahm Ke Gyaan Ko Lekar, Haro Ajnyaan Dukh Bhaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ सुनो साजन, करो कल्याण अब अपना ।",
+        "मिले ना फेर तन मानुष, इसीमें पा मुक्ति द्वारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Suno Saajan, Karo Kalyaan Ab Apnaa.",
+        "Mile Naa Pher Tan Maanush, Isimen Paa Mukti Dvaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मिला मानुश जनम तुझको, हरि के भजन हित पयारा.",
-      "जपे नित नाम प्रभु का, तरो भवसिनधु से पारा (टेक)."
+      "कुट्म्ब के मोह को त्यागे, करो नित सड्ट सन्तों का ।",
+      "वचन गुरुदेव का धारे, चलो निज धर्म का चारा ॥8 ॥१ ॥"
     ],
     [
-      "कुतमब के मोह को तयागे, करो नित सदत सनतोन का.",
-      "वचन गुरुदेव का धारे, चलो निज धरम का चारा || 8₹ ||."
+      "इन्द्रिय मन को सदा रोको, विषय रस भोग आशा से ।",
+      "करे वश पांच दुश्मन को, रहो नित शोक ते न्यारा ॥२ ॥"
     ],
     [
-      "िनदरिय मन को सदा रोको, विशय रस भोग ाशा से.",
-      "करे वश पानच दुशमन को, रहो नित शोक ते नयारा || 2 ||."
+      "गुरू की शरण में जाकर, धरो धन सीस की दक्षिणा ।",
+      "ब्रह्म के ज्ञान को लेकर, हरो अज्ञान दुख भारा ॥३ ॥"
     ],
     [
-      "गुरु कि शरन मेन जाकर, धरो धन सिस कि दकशिना.",
-      "बरहम के ज्ञान को लेकर, हरो जनयान दुःख भारा ||.3 ||."
-    ],
-    [
-      "कहे तेऊँ सुनो साजन, करो कलयान ब पना.",
-      "मिले ना फेर तन मानुश, िसिमेन पा मुक्ति दवारा || 4 ||."
-    ],
-    [
-      "थ"
+      "कहे टेऊँ सुनो साजन, करो कल्याण अब अपना ।",
+      "मिले ना फेर तन मानुष, इसीमें पा मुक्ति द्वारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Milaa Maanush Janm Tujhko, Hari Ke Bhajan Hit Pyaaraa.",
-      "Jape Nit Naam Prabhu Kaa, Taro Bhavsindhu Se Paaraa (Tek)."
-    ],
-    [
       "Kutmb Ke Moh Ko Tyaage, Karo Nit Sadt Santon Kaa.",
-      "Vachan Gurudev Kaa Dhaare, Chalo Nij Dharm Kaa Chaaraa || 8₹ ||."
+      "Vachan Gurudev Kaa Dhaare, Chalo Nij Dharm Kaa Chaaraa || 8 || 1 ||"
     ],
     [
       "Indriy Man Ko Sadaa Roko, Vishay Ras Bhog Aashaa Se.",
-      "Kare Vash Paanch Dushman Ko, Raho Nit Shok Te Nyaaraa || 2 ||."
+      "Kare Vash Paanch Dushman Ko, Raho Nit Shok Te Nyaaraa || 2 ||"
     ],
     [
       "Guru Ki Sharan Men Jaakar, Dharo Dhan Sis Ki Dakshinaa.",
-      "Brahm Ke Jnyaan Ko Lekar, Haro Ajnyaan Dukh Bhaaraa ||.3 ||."
+      "Brahm Ke Gyaan Ko Lekar, Haro Ajnyaan Dukh Bhaaraa || 3 ||"
     ],
     [
       "Kahe Teun Suno Saajan, Karo Kalyaan Ab Apnaa.",
-      "Mile Naa Pher Tan Maanush, Isimen Paa Mukti Dvaaraa || 4 ||."
-    ],
-    [
-      "Th"
+      "Mile Naa Pher Tan Maanush, Isimen Paa Mukti Dvaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 7 || 371 ||",
+    "मिला मानुष जन्म तुझको, हरी के भजन हित प्यारा",
     "Milaa Maanush Janm Tujhko, Hari Ke Bhajan Hit Pyaaraa",
-    "मिला मानुश जनम तुझको, हरि के भजन हित पयारा"
+    "राग तिलंग भजन 7",
+    "Raag Tilang Bhajan 7"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 370,
+  "displayOrder": 7,
+  "overallOrder": 370,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 219",
+  "updatedAt": "2026-10-26"
 }

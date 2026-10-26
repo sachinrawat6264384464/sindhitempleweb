@@ -6,7 +6,8 @@
     "romanName": "Raag Bhairav",
     "description": "Early morning devotional compositions invoking divine protection, humility, and prayer.",
     "displayOrder": 1,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 12,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-raamkali",
@@ -15,7 +16,8 @@
     "romanName": "Raag Raamkali",
     "description": "Morning meditative compositions centered on Guru kripa, wisdom, and inner awakening.",
     "displayOrder": 2,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 20,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-prabhaati",
@@ -24,7 +26,8 @@
     "romanName": "Raag Prabhaati",
     "description": "Dawn awakening hymns encouraging spiritual seekers to rise for early morning simran.",
     "displayOrder": 3,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 30,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-aasaa",
@@ -33,7 +36,8 @@
     "romanName": "Raag Aasaa",
     "description": "Verses of spiritual hope, longing for the divine presence, and steadfast devotion.",
     "displayOrder": 4,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 96,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-vihaag",
@@ -42,7 +46,8 @@
     "romanName": "Raag Vihaag",
     "description": "Late evening and night contemplative hymns of peace, introspection, and quiet surrender.",
     "displayOrder": 5,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 22,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-dhanaashri",
@@ -51,7 +56,8 @@
     "romanName": "Raag Dhanaashri",
     "description": "Joyful expressions of gratitude, celebration of grace, and peaceful spiritual contentment.",
     "displayOrder": 6,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 12,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-tori",
@@ -60,7 +66,8 @@
     "romanName": "Raag Tori",
     "description": "Earnest supplications expressing deep emotional longing and heartfelt humility.",
     "displayOrder": 7,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 23,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-bhairvi",
@@ -69,7 +76,8 @@
     "romanName": "Raag Bhairvi",
     "description": "Classical devotional adoration, universal prayer, and evening congregational bhajans.",
     "displayOrder": 8,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 98,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-zilaa",
@@ -78,7 +86,8 @@
     "romanName": "Raag Zilaa",
     "description": "Lively folk-flavored devotional songs celebrating the divine name with rhythm and joy.",
     "displayOrder": 9,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 30,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-basant",
@@ -87,7 +96,8 @@
     "romanName": "Raag Basant",
     "description": "Spring hymns celebrating spiritual blossoming, love for the True Master, and inner joy.",
     "displayOrder": 10,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 20,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-tilang",
@@ -96,7 +106,8 @@
     "romanName": "Raag Tilang",
     "description": "Soul-stirring poetry of separation (viraha), love, and deep attachment to the Lord.",
     "displayOrder": 11,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 98,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-huseni",
@@ -105,7 +116,8 @@
     "romanName": "Raag Huseni",
     "description": "Sufi-influenced devotional verses on detachment (vairagya), transience of life, and truth.",
     "displayOrder": 12,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 18,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-kohiyaari",
@@ -114,7 +126,8 @@
     "romanName": "Raag Kohiyaari",
     "description": "Traditional mountain and desert melodies of mystical surrender and spiritual searching.",
     "displayOrder": 13,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 51,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-sorath",
@@ -123,7 +136,8 @@
     "romanName": "Raag Sorath",
     "description": "Heartfelt nighttime praise, humility, and seeking the refuge of the supreme protector.",
     "displayOrder": 14,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 18,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-khambhaat",
@@ -132,7 +146,8 @@
     "romanName": "Raag Khambhaat",
     "description": "Spiritual counsel urging the human soul to awaken from slumber and remember God.",
     "displayOrder": 15,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 22,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-maaru",
@@ -141,7 +156,8 @@
     "romanName": "Raag Maaru",
     "description": "Heroic devotional verses inspiring courage on the spiritual path and truthful living.",
     "displayOrder": 16,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 7,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-saarang",
@@ -150,7 +166,8 @@
     "romanName": "Raag Saarang",
     "description": "Midday hymns offering cooling spiritual relief through the nectar of the holy Name.",
     "displayOrder": 17,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 13,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-purab",
@@ -159,16 +176,18 @@
     "romanName": "Raag Purab",
     "description": "Classic eastern devotional hymns honoring the glory and sanctity of the holy preceptor.",
     "displayOrder": 18,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 7,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-kaamol",
     "slug": "raag-kaamol",
-    "name": "राग कामोद",
+    "name": "राग कामोल",
     "romanName": "Raag Kaamol",
     "description": "Intense devotion, loving surrender, and prayer for divine vision.",
     "displayOrder": 19,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 9,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-kalyaan",
@@ -177,16 +196,18 @@
     "romanName": "Raag Kalyaan",
     "description": "Auspicious evening hymns invoking peace, blessings, and spiritual well-being.",
     "displayOrder": 20,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 23,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-kanso",
     "slug": "raag-kanso",
-    "name": "राग कानसो",
+    "name": "राग कंसो",
     "romanName": "Raag Kanso",
     "description": "Devotional adulations capturing divine sweetness, divine play (leela), and love.",
     "displayOrder": 21,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 18,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-pahaari",
@@ -195,16 +216,18 @@
     "romanName": "Raag Pahaari",
     "description": "Folk hymns inspired by natural beauty, simple devotion, and heartfelt sing-alongs.",
     "displayOrder": 22,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 74,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-pilaa",
     "slug": "raag-pilaa",
-    "name": "राग पीलू",
+    "name": "राग पीला",
     "romanName": "Raag Pilaa",
     "description": "Tender and poignant prayers celebrating unconditional divine mercy and sweet refuge.",
     "displayOrder": 23,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 90,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-maanjh",
@@ -213,7 +236,8 @@
     "romanName": "Raag Maanjh",
     "description": "Authentic Sindhi Maanjh verses of profound love and yearning for the divine presence.",
     "displayOrder": 24,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 17,
+    "updatedAt": "2026-10-26"
   },
   {
     "id": "raag-jog",
@@ -222,6 +246,7 @@
     "romanName": "Raag Jog",
     "description": "High yogic realization, oneness with the Supreme Soul, and liberation from illusion.",
     "displayOrder": 25,
-    "updatedAt": "2026-10-25"
+    "bhajanCount": 91,
+    "updatedAt": "2026-10-26"
   }
 ]

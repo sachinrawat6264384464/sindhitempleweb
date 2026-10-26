@@ -1,51 +1,109 @@
 {
-  "id": "bhajan-0543",
+  "id": "bhajan-0541",
   "slug": "satguru-mujh-par-kripaa-dhaaro",
   "categoryId": "raag-sorath",
-  "title": "सतगुरु मुझ पर कृपा धारो",
-  "romanTitle": "Sat‌Guru Mujh Par Kripaa Dhaaro",
-  "firstLine": "Sat‌Guru Mujh Par Kripaa Dhaaro, Is Vidhi Hove Man Hamaaro (Tek).",
+  "categoryName": "राग सोरठ",
+  "romanCategoryName": "Raag Sorath",
+  "title": "सत्‌गुरु मुझ पर कृपा धारो,",
+  "romanTitle": "Sat‌Guru Mujh Par Kripaa Dhaaro,",
+  "firstLine": "Sat‌Guru Mujh Par Kripaa Dhaaro,",
+  "heading": "।। राग सोरठ भजन ।। ११ ।। ५४२",
+  "tek": [
+    "सत्‌गुरु मुझ पर कृपा धारो,",
+    "इस विधि होवे मन हमारो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Mujh Par Kripaa Dhaaro,",
+    "Is Vidhi Hove Man Hamaaro (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "माटी कंचन एक समाना, नारी नर का रहे न भाना ।",
+        "होय न कब मन माहिं, रंचक मारो थारो ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maati Kanchan Ek Samaanaa, Naari Nar Kaa Rahe Na Bhaanaa.",
+        "Hoy Na Kab Man Maahin, Ranchak Maaro Thaaro || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इस्तुति निन्‍्दा सम हो जावे, वैरी मीत नज़र ना आवे ।",
+        "नीच ऊँच के माहिं, देखूं प्रभू प्यारो ॥२ ॥"
+      ],
+      "romanLines": [
+        "Istuti Nin‍Daa Sam Ho Jaave, Vairi Mit Nazar Naa Aave.",
+        "Nich Unch Ke Maahin, Dekhun Prabhu Pyaaro || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "हर्ष शोक पुनि मैं तूं नासे, मान अमान न सुख दुख भासे ।",
+        "होवे मुख के माहिं, हरदम ओड१म्‌ उच्चारो ॥३ ॥"
+      ],
+      "romanLines": [
+        "Harsh Shok Puni Main Tu Naase, Maan Amaan Na Sukh Dukh Bhaase.",
+        "Hove Mukh Ke Maahin, Hardam Od1M‌ Uchchaaro || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ कब वे दिन होंगे, सुख से सम की शैया सोंगे ।",
+        "भासे सब जग मोहि, पूरण ब्रह्म पसारो ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Kab Ve Din Honge, Sukh Se Sam Ki Shaiyaa Songe.",
+        "Bhaase Sab Jag Mohi, Puran Brahm Pasaaro || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्त्द"
+      ],
+      "romanLines": [
+        "Dtd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु मुझ पर कृपा धारो,",
-      "िस विधि होवे मन हमारो (टेक)."
+      "माटी कंचन एक समाना, नारी नर का रहे न भाना ।",
+      "होय न कब मन माहिं, रंचक मारो थारो ॥१ ॥"
     ],
     [
-      "माति कनचन ेक समाना, नारि नर का रहे न भाना.",
-      "होय न कब मन माहिन, रनचक मारो थारो.1. ||."
+      "इस्तुति निन्‍्दा सम हो जावे, वैरी मीत नज़र ना आवे ।",
+      "नीच ऊँच के माहिं, देखूं प्रभू प्यारो ॥२ ॥"
     ],
     [
-      "िसतुति निनदा सम हो जावे, वैरि मित नzर ना ावे.",
-      "निच ुनच के माहिन, देखुन प्रभु पयारो || 2 ||."
+      "हर्ष शोक पुनि मैं तूं नासे, मान अमान न सुख दुख भासे ।",
+      "होवे मुख के माहिं, हरदम ओड१म्‌ उच्चारो ॥३ ॥"
     ],
     [
-      "हरश शोक पुनि मैं तु नासे, मान मान न सुख दुःख भासे.",
-      "होवे मुख के माहिन, हरदम ोदम‌ ुचचारो.3 ||."
+      "कहे टेऊँ कब वे दिन होंगे, सुख से सम की शैया सोंगे ।",
+      "भासे सब जग मोहि, पूरण ब्रह्म पसारो ॥४ ॥"
     ],
     [
-      "कहे तेऊँ कब वे दीन होनगे, सुख से सम कि शैया सोनगे.",
-      "भासे सब जग मोहि, पुरन बरहम पसारो || 4 ||"
-    ],
-    [
-      "दतद"
+      "द्त्द"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Mujh Par Kripaa Dhaaro,",
-      "Is Vidhi Hove Man Hamaaro (Tek)."
-    ],
-    [
-      "Maati Kanchan Ek Samaanaa, Naari Nar Kaa Rahe N Bhaanaa.",
-      "Hoy N Kab Man Maahin, Ranchak Maaro Thaaro.1. ||."
+      "Maati Kanchan Ek Samaanaa, Naari Nar Kaa Rahe Na Bhaanaa.",
+      "Hoy Na Kab Man Maahin, Ranchak Maaro Thaaro || 1 ||"
     ],
     [
       "Istuti Nin‍Daa Sam Ho Jaave, Vairi Mit Nazar Naa Aave.",
-      "Nich Unch Ke Maahin, Dekhun Prabhu Pyaaro || 2 ||."
+      "Nich Unch Ke Maahin, Dekhun Prabhu Pyaaro || 2 ||"
     ],
     [
-      "Harsh Shok Puni Main Tu Naase, Maan Amaan N Sukh Dukh Bhaase.",
-      "Hove Mukh Ke Maahin, Hardam Od$M‌ Uchchaaro.3 ||."
+      "Harsh Shok Puni Main Tu Naase, Maan Amaan Na Sukh Dukh Bhaase.",
+      "Hove Mukh Ke Maahin, Hardam Od1M‌ Uchchaaro || 3 ||"
     ],
     [
       "Kahe Teun Kab Ve Din Honge, Sukh Se Sam Ki Shaiyaa Songe.",
@@ -56,19 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Sorath Bhajan || 11 || 542",
-    "Sat‌Guru Mujh Par Kripaa Dhaaro",
-    "सतगुरु मुझ पर कृपा धारो"
+    "सत्‌गुरु मुझ पर कृपा धारो,",
+    "Sat‌Guru Mujh Par Kripaa Dhaaro,",
+    "राग सोरठ भजन 11",
+    "Raag Sorath Bhajan 11"
   ],
   "tags": [
-    "teunram",
-    "guru-bhakti",
-    "sorath",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-sorath",
     "bhajan"
   ],
-  "displayOrder": 543,
+  "displayOrder": 11,
+  "overallOrder": 541,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 296",
+  "updatedAt": "2026-10-26"
 }

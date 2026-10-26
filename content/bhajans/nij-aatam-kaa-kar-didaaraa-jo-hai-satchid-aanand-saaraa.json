@@ -1,53 +1,100 @@
 {
-  "id": "bhajan-0905",
+  "id": "bhajan-0903",
   "slug": "nij-aatam-kaa-kar-didaaraa-jo-hai-satchid-aanand-saaraa",
   "categoryId": "raag-jog",
-  "title": "निज ातम का कर दिदारा, जो है सतचिद आनंद सारा",
+  "categoryName": "राग जोग",
+  "romanCategoryName": "Raag Jog",
+  "title": "निज आतम का कर दीदारा, जो है सत्चिद आनन्द सारा",
   "romanTitle": "Nij Aatam Kaa Kar Didaaraa, Jo Hai Satchid Aanand Saaraa",
   "firstLine": "Nij Aatam Kaa Kar Didaaraa, Jo Hai Satchid Aanand Saaraa (Tek).",
+  "heading": "।। राग जोग भजन ।। ७५ ।। ९०५ ॥।",
+  "tek": [
+    "निज आतम का कर दीदारा, जो है सत्चिद आनन्द सारा ॥ टेक ॥ ।"
+  ],
+  "romanTek": [
+    "Nij Aatam Kaa Kar Didaaraa, Jo Hai Satchid Aanand Saaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "जाग्रत स्वप्न सुषोषति का जो, साक्षी चेतन है आधारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Jaagrat Svapn Sushoshti Kaa Jo, Saakshi Chetan Hai Aadhaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जांके तेज अंश को पाके, प्रकाशत शशि सूर्य तारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jaanke Tej Ansh Ko Paake, Prakaashat Shashi Sury Taaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बाहर भीतर है भरपूरा, निर्गुण निर्मल नभ ज्यों न्यारा ॥३े ॥ ।"
+      ],
+      "romanLines": [
+        "Baahar Bhitar Hai Bharpuraa, Nirgun Nirmal Nabh Jyon Nyaaraa || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ यह कर विश्वासा, सो है आनन्द रूप तुम्हारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Yah Kar Vishvaasaa, So Hai Aanand Rup Tumhaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "निज ातम का कर दिदारा, जो है सतचिद आनंद सारा (टेक)."
+      "जाग्रत स्वप्न सुषोषति का जो, साक्षी चेतन है आधारा ॥१ ॥"
     ],
     [
-      "जागरत सवपन सुशोशति का जो, साक्षी चेतन है ाधारा || 1 ||."
+      "जांके तेज अंश को पाके, प्रकाशत शशि सूर्य तारा ॥२ ॥"
     ],
     [
-      "जानके तेज नश को पाके, परकाशत शशि सुरय तारा ||.2 ||.",
-      "बाहर भितर है भरपुरा, निरगुन निर्मल नभ जयोन नयारा || 3े ||."
+      "बाहर भीतर है भरपूरा, निर्गुण निर्मल नभ ज्यों न्यारा ॥३े ॥ ।"
     ],
     [
-      "कहे तेऊँ यह कर विशवासा, सो है आनंद रुप तुमहारा || 4 ||"
+      "कहे टेऊँ यह कर विश्वासा, सो है आनन्द रूप तुम्हारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Nij Aatam Kaa Kar Didaaraa, Jo Hai Satchid Aanand Saaraa (Tek)."
+      "Jaagrat Svapn Sushoshti Kaa Jo, Saakshi Chetan Hai Aadhaaraa || 1 ||"
     ],
     [
-      "Jaagrat Svapn Sushoshti Kaa Jo, Saakshi Chetan Hai Aadhaaraa || 1 ||."
+      "Jaanke Tej Ansh Ko Paake, Prakaashat Shashi Sury Taaraa || 2 ||"
     ],
     [
-      "Jaanke Tej Ansh Ko Paake, Prakaashat Shashi Sury Taaraa ||.2 ||.",
-      "Baahar Bhitar Hai Bharpuraa, Nirgun Nirmal Nabh Jyon Nyaaraa || 3E ||."
+      "Baahar Bhitar Hai Bharpuraa, Nirgun Nirmal Nabh Jyon Nyaaraa || 3E ||"
     ],
     [
       "Kahe Teun Yah Kar Vishvaasaa, So Hai Aanand Rup Tumhaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Jog Bhajan || 75 || 905 ||.",
+    "निज आतम का कर दीदारा, जो है सत्चिद आनन्द सारा",
     "Nij Aatam Kaa Kar Didaaraa, Jo Hai Satchid Aanand Saaraa",
-    "निज ातम का कर दिदारा, जो है सतचिद आनंद सारा"
+    "राग जोग भजन 75",
+    "Raag Jog Bhajan 75"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "jog",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-jog",
     "bhajan"
   ],
-  "displayOrder": 905,
+  "displayOrder": 75,
+  "overallOrder": 903,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 476",
+  "updatedAt": "2026-10-26"
 }

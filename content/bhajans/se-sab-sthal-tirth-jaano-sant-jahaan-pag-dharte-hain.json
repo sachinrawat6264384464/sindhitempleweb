@@ -1,33 +1,74 @@
 {
-  "id": "bhajan-0444",
+  "id": "bhajan-0443",
   "slug": "se-sab-sthal-tirth-jaano-sant-jahaan-pag-dharte-hain",
   "categoryId": "raag-tilang",
-  "title": "से सब सथल तिरथ जानो, संत जहान पग धरते हैन",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "से सब स्थल तीर्थ जानो, सन्त जहाँ पग धरते हैं",
   "romanTitle": "Se Sab Sthal Tirth Jaano, Sant Jahaan Pag Dharte Hain",
   "firstLine": "Se Sab Sthal Tirth Jaano, Sant Jahaan Pag Dharte Hain (Tek).",
+  "heading": "।। राग तिलंग भजन ॥।। ८० ।। उं४४।।",
+  "tek": [
+    "से सब स्थल तीर्थ जानो, सन्त जहाँ पग धरते हैं ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Se Sab Sthal Tirth Jaano, Sant Jahaan Pag Dharte Hain (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शुभ भूमी वह सन्त मुनी जहं, भजन राम का करते हैं ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shubh Bhumi Vah Sant Muni Jahan, Bhajan Raam Kaa Karte Hain || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "देश नगर से पावत होते, जिन्हों में सन्त विचरते हैं ॥२ ॥"
+      ],
+      "romanLines": [
+        "Desh Nagar Se Paavat Hote, Jinhon Men Sant Vichrate Hain || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "सन्त दया कर दीन जनों के, अभर भण्डारा भरते हैं ॥३ ॥"
+      ],
+      "romanLines": [
+        "Sant Dayaa Kar Din Janon Ke, Abhar Bhandaaraa Bharte Hain || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ से करुणा सागर, दुखियों का दुख हरते हैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Se Karunaa Saagar, Dukhiyon Kaa Dukh Harte Hain || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "से सब सथल तिरथ जानो, संत जहान पग धरते हैन (टेक)."
+      "शुभ भूमी वह सन्त मुनी जहं, भजन राम का करते हैं ॥१ ॥"
     ],
     [
-      "शुभ भुमि वह संत मुनि जहन, भजन राम का करते हैन || 1 ||."
+      "देश नगर से पावत होते, जिन्हों में सन्त विचरते हैं ॥२ ॥"
     ],
     [
-      "देश नगर से पावत होते, जिनहोन मेन संत विचरते हैन || 2 ||"
+      "सन्त दया कर दीन जनों के, अभर भण्डारा भरते हैं ॥३ ॥"
     ],
     [
-      "संत दया कर दीन जनोन के, भर भनदारा भरते हैन || 3 ||"
-    ],
-    [
-      "कहे तेऊँ से करुना सागर, दुखियोन का दुःख हरते हैन || 4 ||"
+      "कहे टेऊँ से करुणा सागर, दुखियों का दुख हरते हैं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Se Sab Sthal Tirth Jaano, Sant Jahaan Pag Dharte Hain (Tek)."
-    ],
-    [
-      "Shubh Bhumi Vah Sant Muni Jahan, Bhajan Raam Kaa Karte Hain || 1 ||."
+      "Shubh Bhumi Vah Sant Muni Jahan, Bhajan Raam Kaa Karte Hain || 1 ||"
     ],
     [
       "Desh Nagar Se Paavat Hote, Jinhon Men Sant Vichrate Hain || 2 ||"
@@ -40,18 +81,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || || 80 || Un44 ||",
+    "से सब स्थल तीर्थ जानो, सन्त जहाँ पग धरते हैं",
     "Se Sab Sthal Tirth Jaano, Sant Jahaan Pag Dharte Hain",
-    "से सब सथल तिरथ जानो, संत जहान पग धरते हैन"
+    "राग तिलंग भजन 80",
+    "Raag Tilang Bhajan 80"
   ],
   "tags": [
-    "amarapur-vaani",
-    "tilang",
-    "bhajan",
-    "teunram"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 444,
+  "displayOrder": 80,
+  "overallOrder": 443,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 251",
+  "updatedAt": "2026-10-26"
 }

@@ -1,43 +1,101 @@
 {
-  "id": "bhajan-0800",
+  "id": "bhajan-0798",
   "slug": "yah-panth-prem-kaa-nyaaraa-re",
   "categoryId": "raag-pilaa",
-  "title": "यह पनथ प्रेम का नयारा रे",
-  "romanTitle": "Yah Panth Prem Kaa Nyaaraa Re",
-  "firstLine": "Yah Panth Prem Kaa Nyaaraa Re, Ko Jaanat Hari Kaa Pyaaraa Re (Tek).",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "यह पन्थ प्रेम का न्यारा रे,",
+  "romanTitle": "Yah Panth Prem Kaa Nyaaraa Re,",
+  "firstLine": "Yah Panth Prem Kaa Nyaaraa Re,",
+  "heading": "।। राग पीला भजन ।। ७८ ।। ८००।॥।",
+  "tek": [
+    "यह पन्थ प्रेम का न्यारा रे,",
+    "को जानत हरि का प्यारा रे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Yah Panth Prem Kaa Nyaaraa Re,",
+    "Ko Jaanat Hari Kaa Pyaaraa Re (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सो प्रेम पन्‍्थ पग धरता है, जो तीन लजा को हरता है ।",
+        "कर सुख दुख का जु सहारा रे ॥१ ॥"
+      ],
+      "romanLines": [
+        "So Prem Pan‍Tha Pag Dhartaa Hai, Jo Tin Lajaa Ko Hartaa Hai.",
+        "Kar Sukh Dukh Kaa Ju Sahaaraa Re || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "इस प्रेम को मूरख क्या जाने, जो माया के हैं मस्ताने ।",
+        "वह भोगों में मतवारा रे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Is Prem Ko Murakh Kyaa Jaane, Jo Maayaa Ke Hain Mastaane.",
+        "Vah Bhogon Men Matvaaraa Re || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जो गुरु का शब्द कमाता है, सो प्रेम सचे को पाता है ।",
+        "वह देखत हरि दीदारा रे ॥ ।३े ॥ ।"
+      ],
+      "romanLines": [
+        "Jo Guru Kaa Shabd Kamaataa Hai, So Prem Sache Ko Paataa Hai.",
+        "Vah Dekhat Hari Didaaraa Re || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ जो विश्वास धरे, तिस हृदय प्रेम प्रकाश करे ।",
+        "सो पावत मोक्ष द्वारा रे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Jo Vishvaas Dhare, Tis Hriday Prem Prakaash Kare.",
+        "So Paavat Moksh Dvaaraa Re || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "यह पनथ प्रेम का नयारा रे,",
-      "को जानत हरि का पयारा रे (टेक)."
+      "सो प्रेम पन्‍्थ पग धरता है, जो तीन लजा को हरता है ।",
+      "कर सुख दुख का जु सहारा रे ॥१ ॥"
     ],
     [
-      "सो प्रेम पनथ पग धरता है, जो तिन लजा को हरता है.",
-      "कर सुख दुःख का जु सहारा रे ||.1. ||."
+      "इस प्रेम को मूरख क्या जाने, जो माया के हैं मस्ताने ।",
+      "वह भोगों में मतवारा रे ॥२ ॥"
     ],
     [
-      "िस प्रेम को मुरख कया जाने, जो माया के हैन मसताने.",
-      "वह भोगोन मेन मतवारा रे || 2 ||"
+      "जो गुरु का शब्द कमाता है, सो प्रेम सचे को पाता है ।",
+      "वह देखत हरि दीदारा रे ॥ ।३े ॥ ।"
     ],
     [
-      "जो गुरु का शबद कमाता है, सो प्रेम सचे को पाता है.",
-      "वह देखत हरि दिदारा रे ||.3े ||."
+      "कहे टेऊँ जो विश्वास धरे, तिस हृदय प्रेम प्रकाश करे ।",
+      "सो पावत मोक्ष द्वारा रे ॥४ ॥"
     ],
     [
-      "कहे तेऊँ जो विशवास धरे, तिस हरिदय प्रेम प्रकाश करे.",
-      "सो पावत मोक्ष दवारा रे. || 4. ||."
-    ],
-    [
-      "दद"
+      "द्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Yah Panth Prem Kaa Nyaaraa Re,",
-      "Ko Jaanat Hari Kaa Pyaaraa Re (Tek)."
-    ],
-    [
-      "So Prem Pan‍Th Pag Dhartaa Hai, Jo Tin Lajaa Ko Hartaa Hai.",
-      "Kar Sukh Dukh Kaa Ju Sahaaraa Re ||.1. ||."
+      "So Prem Pan‍Tha Pag Dhartaa Hai, Jo Tin Lajaa Ko Hartaa Hai.",
+      "Kar Sukh Dukh Kaa Ju Sahaaraa Re || 1 ||"
     ],
     [
       "Is Prem Ko Murakh Kyaa Jaane, Jo Maayaa Ke Hain Mastaane.",
@@ -45,29 +103,31 @@
     ],
     [
       "Jo Guru Kaa Shabd Kamaataa Hai, So Prem Sache Ko Paataa Hai.",
-      "Vah Dekhat Hari Didaaraa Re ||.3E ||."
+      "Vah Dekhat Hari Didaaraa Re || 3E ||"
     ],
     [
-      "Kahe Teun Jo Vishvaas Dhare, Tis Hriday Prem Prakash Kare.",
-      "So Paavat Moksh Dvaaraa Re. || 4. ||."
+      "Kahe Teun Jo Vishvaas Dhare, Tis Hriday Prem Prakaash Kare.",
+      "So Paavat Moksh Dvaaraa Re || 4 ||"
     ],
     [
       "Dd"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pilaa Bhajan || 78 || 800. ||.",
-    "Yah Panth Prem Kaa Nyaaraa Re",
-    "यह पनथ प्रेम का नयारा रे"
+    "यह पन्थ प्रेम का न्यारा रे,",
+    "Yah Panth Prem Kaa Nyaaraa Re,",
+    "राग पीला भजन 77",
+    "Raag Pilaa Bhajan 77"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 800,
+  "displayOrder": 77,
+  "overallOrder": 798,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 423",
+  "updatedAt": "2026-10-26"
 }

@@ -2,68 +2,106 @@
   "id": "bhajan-0382",
   "slug": "sadaa-sukhdhaam-hai-prabhuji-kaa-naam-hai",
   "categoryId": "raag-tilang",
-  "title": "सदा सुखधाम है, परभुजि का नाम है",
-  "romanTitle": "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai",
-  "firstLine": "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai, Bolo Premi Prem Se Kartaa Puran Kaam Hai (Tek).",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सदा सुखधाम है, प्रभूजी का नाम है,",
+  "romanTitle": "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai,",
+  "firstLine": "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai,",
+  "heading": "।। राग तिलंग भजन ।। १९ ।। ३८ ३।।",
+  "tek": [
+    "सदा सुखधाम है, प्रभूजी का नाम है,",
+    "बोलो प्रेमी प्रेम से करता पूरण काम है ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai,",
+    "Bolo Premi Prem Se Kartaa Puran Kaam Hai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "राम नाम के कहने से बहु पापियों का निस्तार हुआ ।",
+        "अजामेल अरु गीध व्याध गज गनिका का छुटकार हुआ ॥ रै ॥",
+        "रोम रोम में राम को रटके हनूमान वश राम किया ।",
+        "देखो पाहन को बन्दरों ने राम नाम से तार दिया ॥२ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ke Kahne Se Bahu Paapiyon Kaa Nistaar Huaa.",
+        "Ajaamel Aru Gidh Vyaadh Gaj Ganikaa Kaa Chhutkaar Huaa || Rai ||",
+        "Rom Rom Men Raam Ko Ratke Hanumaan Vash Raam Kiyaa.",
+        "Dekho Paahan Ko Bandaron Ne Raam Naam Se Taar Diyaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "राम नाम को उल्टा कहके वाल्मीक बुद्धिमान भये ।",
+        "राम नाम रट रावण कुम्भकर्ण हरि के दर दरबान भये ॥३ ॥"
+      ],
+      "romanLines": [
+        "Raam Naam Ko Ultaa Kahke Vaalmik Buddhimaan Bhaye.",
+        "Raam Naam Rat Raavan Kumbhakarn Hari Ke Dar Darbaan Bhaye || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहता टेऊँ राम नाम की महिमा कहूँ तक गाऊँ मैं ।",
+        "शेष शारदा पार न पावे क्या कह उसे सुनाऊँ मैं ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Raam Naam Ki Mahimaa Kahun Tak Gaaun Main.",
+        "Shesh Shaardaa Paar Na Paave Kyaa Kah Use Sunaaun Main || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सदा सुखधाम है, परभुजि का नाम है,",
-      "बोलो परेमि प्रेम से करता पुरन काम है (टेक)."
+      "राम नाम के कहने से बहु पापियों का निस्तार हुआ ।",
+      "अजामेल अरु गीध व्याध गज गनिका का छुटकार हुआ ॥ रै ॥",
+      "रोम रोम में राम को रटके हनूमान वश राम किया ।",
+      "देखो पाहन को बन्दरों ने राम नाम से तार दिया ॥२ ॥"
     ],
     [
-      "राम नाम के कहने से बहु पापियोन का निसतार हुा.",
-      "जामेल रु गिध वयाध गज गनिका का चहुतकार हुा || रै ||"
+      "राम नाम को उल्टा कहके वाल्मीक बुद्धिमान भये ।",
+      "राम नाम रट रावण कुम्भकर्ण हरि के दर दरबान भये ॥३ ॥"
     ],
     [
-      "रोम रोम मेन राम को रतके हनुमान वश राम किया.",
-      "देखो पाहन को बनदरोन ने राम नाम से तार दिया || 2 ||."
-    ],
-    [
-      "राम नाम को ुलता कहके वालमिक बुदधिमान भये.",
-      "राम नाम रत रावन कुमभकरन हरि के दर दरबान भये || 3 ||."
-    ],
-    [
-      "कहता तेऊँ राम नाम कि महिमा कहुन तक गाुन मैं.",
-      "शेश शारदा पार न पावे कया कह ुसे सुनाुन मैं || 4 ||"
+      "कहता टेऊँ राम नाम की महिमा कहूँ तक गाऊँ मैं ।",
+      "शेष शारदा पार न पावे क्या कह उसे सुनाऊँ मैं ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai,",
-      "Bolo Premi Prem Se Kartaa Puran Kaam Hai (Tek)."
-    ],
-    [
       "Raam Naam Ke Kahne Se Bahu Paapiyon Kaa Nistaar Huaa.",
-      "Ajaamel Aru Gidh Vyaadh Gaj Ganikaa Kaa Chhutkaar Huaa || Rai ||"
-    ],
-    [
+      "Ajaamel Aru Gidh Vyaadh Gaj Ganikaa Kaa Chhutkaar Huaa || Rai ||",
       "Rom Rom Men Raam Ko Ratke Hanumaan Vash Raam Kiyaa.",
-      "Dekho Paahan Ko Bandaron Ne Raam Naam Se Taar Diyaa || 2 ||."
+      "Dekho Paahan Ko Bandaron Ne Raam Naam Se Taar Diyaa || 2 ||"
     ],
     [
       "Raam Naam Ko Ultaa Kahke Vaalmik Buddhimaan Bhaye.",
-      "Raam Naam Rat Raavan Kumbhakarn Hari Ke Dar Darbaan Bhaye || 3 ||."
+      "Raam Naam Rat Raavan Kumbhakarn Hari Ke Dar Darbaan Bhaye || 3 ||"
     ],
     [
       "Kahtaa Teun Raam Naam Ki Mahimaa Kahun Tak Gaaun Main.",
-      "Shesh Shaardaa Paar N Paave Kyaa Kah Use Sunaaun Main || 4 ||"
+      "Shesh Shaardaa Paar Na Paave Kyaa Kah Use Sunaaun Main || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Tilang Bhajan || 19 || 38 3 ||",
-    "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai",
-    "सदा सुखधाम है, परभुजि का नाम है"
+    "सदा सुखधाम है, प्रभूजी का नाम है,",
+    "Sadaa Sukhdhaam Hai, Prabhuji Kaa Naam Hai,",
+    "राग तिलंग भजन 19",
+    "Raag Tilang Bhajan 19"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
+    "bhajan"
   ],
-  "displayOrder": 382,
+  "displayOrder": 19,
+  "overallOrder": 382,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 224",
+  "updatedAt": "2026-10-26"
 }

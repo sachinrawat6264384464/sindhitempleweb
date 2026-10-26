@@ -1,65 +1,116 @@
 {
-  "id": "bhajan-0735",
+  "id": "bhajan-0733",
   "slug": "bhog-vishay-men-bhaai-kyon-vrithaa-umr-ganvaai",
   "categoryId": "raag-pilaa",
-  "title": "भोग विशय मेन भाि, कयोन वरिथा ुमर गनवाि",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "भोग विषय में भाई, क्यों वृथा उम्र गंवाई",
   "romanTitle": "Bhog Vishay Men Bhaai, Kyon Vrithaa Umr Ganvaai",
   "firstLine": "Bhog Vishay Men Bhaai, Kyon Vrithaa Umr Ganvaai (Tek).",
+  "heading": "।। राग पीला भजन ।। १३ ।। ७३५॥।",
+  "tek": [
+    "भोग विषय में भाई, क्यों वृथा उम्र गंवाई ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhog Vishay Men Bhaai, Kyon Vrithaa Umr Ganvaai (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मानुष तन का कदर न कीना, पांचों विषयों में मन दीना ।",
+        "तुमको लाज न आई ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maanush Tan Kaa Kadar Na Kinaa, Paanchon Vishyon Men Man Dinaa.",
+        "Tumko Laaj Na Aai || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "पूरब पुण्य ते नर तन पाया, काम क्रोध मद माहिं गंवाया ।",
+        "हरि से प्रीति न पाई ॥२ ॥"
+      ],
+      "romanLines": [
+        "Purab Puny Te Nar Tan Paayaa, Kaam Krodh Mad Maahin Ganvaayaa.",
+        "Hari Se Priti Na Paai || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बिना विचारे मूण्ठ अज्ञानी, पाप कर्म बहु कीना प्रानी ।",
+        "करी न नेक कमाई ॥३ ॥"
+      ],
+      "romanLines": [
+        "Binaa Vichaare Munth Ajnyaani, Paap Karm Bahu Kinaa Praani.",
+        "Kari Na Nek Kamaai || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ अब कर वीचारा, हरी भजन बिन नहिं निस्तारा ।",
+        "सुमर सदा रघुराई ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Ab Kar Vichaaraa, Hari Bhajan Bin Nahin Nistaaraa.",
+        "Sumar Sadaa Raghuraai || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भोग विशय मेन भाि, कयोन वरिथा ुमर गनवाि (टेक)."
+      "मानुष तन का कदर न कीना, पांचों विषयों में मन दीना ।",
+      "तुमको लाज न आई ॥१ ॥"
     ],
     [
-      "मानुश तन का कदर न किना, पानचोन विशयोन मेन मन दिना.",
-      "तुमको लाज न ाि || 1 ||."
+      "पूरब पुण्य ते नर तन पाया, काम क्रोध मद माहिं गंवाया ।",
+      "हरि से प्रीति न पाई ॥२ ॥"
     ],
     [
-      "पुरब पुनय ते नर तन पाया, काम करोध मद माहिन गनवाया.",
-      "हरि से परिति न पाि || 2 ||."
+      "बिना विचारे मूण्ठ अज्ञानी, पाप कर्म बहु कीना प्रानी ।",
+      "करी न नेक कमाई ॥३ ॥"
     ],
     [
-      "बिना विचारे मुनथ जनयानि, पाप करम बहु किना परानि.",
-      "करि न नेक कमाि || 3 ||."
-    ],
-    [
-      "कहे तेऊँ ब कर विचारा, हरि भजन बिन नहिन निसतारा.",
-      "सुमर सदा रघुराि || 4 ||."
+      "कहे टेऊँ अब कर वीचारा, हरी भजन बिन नहिं निस्तारा ।",
+      "सुमर सदा रघुराई ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhog Vishay Men Bhaai, Kyon Vrithaa Umr Ganvaai (Tek)."
-    ],
-    [
-      "Maanush Tan Kaa Kadar N Kinaa, Paanchon Vishyon Men Man Dinaa.",
-      "Tumko Laaj N Aai || 1 ||."
+      "Maanush Tan Kaa Kadar Na Kinaa, Paanchon Vishyon Men Man Dinaa.",
+      "Tumko Laaj Na Aai || 1 ||"
     ],
     [
       "Purab Puny Te Nar Tan Paayaa, Kaam Krodh Mad Maahin Ganvaayaa.",
-      "Hari Se Priti N Paai || 2 ||."
+      "Hari Se Priti Na Paai || 2 ||"
     ],
     [
       "Binaa Vichaare Munth Ajnyaani, Paap Karm Bahu Kinaa Praani.",
-      "Kari N Nek Kamaai || 3 ||."
+      "Kari Na Nek Kamaai || 3 ||"
     ],
     [
       "Kahe Teun Ab Kar Vichaaraa, Hari Bhajan Bin Nahin Nistaaraa.",
-      "Sumar Sadaa Raghuraai || 4 ||."
+      "Sumar Sadaa Raghuraai || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 13 || 735 ||.",
+    "भोग विषय में भाई, क्यों वृथा उम्र गंवाई",
     "Bhog Vishay Men Bhaai, Kyon Vrithaa Umr Ganvaai",
-    "भोग विशय मेन भाि, कयोन वरिथा ुमर गनवाि"
+    "राग पीला भजन 12",
+    "Raag Pilaa Bhajan 12"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pilaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
   ],
-  "displayOrder": 735,
+  "displayOrder": 12,
+  "overallOrder": 733,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 390",
+  "updatedAt": "2026-10-26"
 }

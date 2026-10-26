@@ -2,30 +2,71 @@
   "id": "bhajan-0181",
   "slug": "man-mohan-ki-murli-upar-jaaun-main-balihaar-sakhiri",
   "categoryId": "raag-dhanaashri",
-  "title": "मन मोहन कि मुरलि ुपर, जाुन मैं बलिहार सखिरि",
+  "categoryName": "राग धनाश्री",
+  "romanCategoryName": "Raag Dhanaashri",
+  "title": "मन मोहन की मुरली ऊपर, जाऊँ मैं बलिहार सखीरी",
   "romanTitle": "Man Mohan Ki Murli Upar, Jaaun Main Balihaar Sakhiri",
   "firstLine": "Man Mohan Ki Murli Upar, Jaaun Main Balihaar Sakhiri (Tek).",
+  "heading": "।। राग धनाश्री भजन ।। १ ।। १८१।।",
+  "tek": [
+    "मन मोहन की मुरली ऊपर, जाऊँ मैं बलिहार सखीरी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Man Mohan Ki Murli Upar, Jaaun Main Balihaar Sakhiri (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सुन सुन सुरतां भयी सुहागिन, पाया अनन्द अपार सखीरी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sun Sun Surtaan Bhayi Suhaagin, Paayaa Anand Apaar Sakhiri || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मात पिता धन धाम कुटुम्ब की , भूल गयी सब सार सखीरी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Dhan Dhaam Kutumb Ki, Bhul Gayi Sab Saar Sakhiri || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "देवी देव सब सेव करत हैं, सन्तों का आधार सखीरी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Devi Dev Sab Sev Karat Hain, Santon Kaa Aadhaar Sakhiri || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ मन मोहन मुरली, बाज रही निर्धार सखीरी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Man Mohan Murli, Baaj Rahi Nirdhaar Sakhiri || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मन मोहन कि मुरलि ुपर, जाुन मैं बलिहार सखिरि (टेक)."
+      "सुन सुन सुरतां भयी सुहागिन, पाया अनन्द अपार सखीरी ॥१ ॥"
     ],
     [
-      "सुन सुन सुरतान भयि सुहागिन, पाया आनंद पार सखिरि || 1 ||"
+      "मात पिता धन धाम कुटुम्ब की , भूल गयी सब सार सखीरी ॥२ ॥"
     ],
     [
-      "मात पिता धन धाम कुतुमब कि, भुल गयि सब सार सखिरि || 2 ||"
+      "देवी देव सब सेव करत हैं, सन्तों का आधार सखीरी ॥३ ॥"
     ],
     [
-      "देवि देव सब सेव करत हैन, सनतोन का ाधार सखिरि || 3 ||"
-    ],
-    [
-      "कहे तेऊँ मन मोहन मुरलि, बाज रहि निरधार सखिरि || 4 ||"
+      "कहे टेऊँ मन मोहन मुरली, बाज रही निर्धार सखीरी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Man Mohan Ki Murli Upar, Jaaun Main Balihaar Sakhiri (Tek)."
-    ],
     [
       "Sun Sun Surtaan Bhayi Suhaagin, Paayaa Anand Apaar Sakhiri || 1 ||"
     ],
@@ -40,18 +81,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Dhanaashri Bhajan || 1 || 181 ||",
+    "मन मोहन की मुरली ऊपर, जाऊँ मैं बलिहार सखीरी",
     "Man Mohan Ki Murli Upar, Jaaun Main Balihaar Sakhiri",
-    "मन मोहन कि मुरलि ुपर, जाुन मैं बलिहार सखिरि"
+    "राग धनाश्री भजन 1",
+    "Raag Dhanaashri Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "dhanaashri",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-dhanaashri",
     "bhajan"
   ],
-  "displayOrder": 181,
+  "displayOrder": 1,
+  "overallOrder": 181,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 120",
+  "updatedAt": "2026-10-26"
 }

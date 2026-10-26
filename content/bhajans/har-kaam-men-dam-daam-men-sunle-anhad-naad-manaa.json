@@ -1,46 +1,95 @@
 {
-  "id": "bhajan-0701",
+  "id": "bhajan-0699",
   "slug": "har-kaam-men-dam-daam-men-sunle-anhad-naad-manaa",
   "categoryId": "raag-pahaari",
-  "title": "हर काम मेन दम दाम मेन, सुनले नहद नाद मना",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "हर काम में दम दाम में, सुनले अनहद नाद मना",
   "romanTitle": "Har Kaam Men Dam Daam Men, Sunle Anhad Naad Manaa",
   "firstLine": "Har Kaam Men Dam Daam Men, Sunle Anhad Naad Manaa (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ५२ ।। ७००।॥।",
+  "tek": [
+    "हर काम में दम दाम में, सुनले अनहद नाद मना ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Har Kaam Men Dam Daam Men, Sunle Anhad Naad Manaa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "श्रवण में दो अंगुली पाके, सुनले धुनि को ध्यान लगाके,",
+        "झीने स्वर से सुरति मिलाके, मगन रहो तुम रैन दिना ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shravan Men Do Anguli Paake, Sunle Dhuni Ko Dhyaan Lagaake,",
+        "Jhine Svar Se Surti Milaake, Magan Raho Tum Rain Dinaa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "शब्द रसी को दृढ़ पकड़ के, क्रम क्रम से ऊपर चढ़के,",
+        "मेघ नाद में सुरती धरके, जीव भाव को छोड़ जना ॥२ ॥"
+      ],
+      "romanLines": [
+        "Shabd Rasi Ko Drirh Pakar Ke, Kram Kram Se Upar Charhke,",
+        "Megh Naad Men Surti Dharke, Jiv Bhaav Ko Chhor Janaa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जैसे मृग नाद रति लागी, तैसे दसों नाद हो रागी,",
+        "अनल पंछी ज्यों अहनिश जागी, गाफिल होय न एक छिना ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jaise Mrig Naad Rati Laagi, Taise Dason Naad Ho Raagi,",
+        "Anal Panchhi Jyon Ahnish Jaagi, Gaaphil Hoy Na Ek Chhinaa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु शरन गहीजे, दश नादों को परचा लीजे,",
+        "तिनका नित अभ्यास करीजे, मधुर सुधा रस पीउ घना ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Sharan Gahije, Dash Naadon Ko Parchaa Lije,",
+        "Tinkaa Nit Abhyaas Karije, Madhur Sudhaa Ras Piu Ghanaa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "हर काम मेन दम दाम मेन, सुनले नहद नाद मना (टेक)."
+      "श्रवण में दो अंगुली पाके, सुनले धुनि को ध्यान लगाके,",
+      "झीने स्वर से सुरति मिलाके, मगन रहो तुम रैन दिना ॥१ ॥"
     ],
     [
-      "शरवन मेन दो नगुलि पाके, सुनले धुनि को ध्यान लगाके,",
-      "झिने सवर से सुरति मिलाके, मगन रहो तुम रैन दिना || $ ||."
+      "शब्द रसी को दृढ़ पकड़ के, क्रम क्रम से ऊपर चढ़के,",
+      "मेघ नाद में सुरती धरके, जीव भाव को छोड़ जना ॥२ ॥"
     ],
     [
-      "शबद रसि को दरिरह पकर के, करम करम से ुपर चरहके,",
-      "मेघ नाद मेन सुरति धरके, जिव भाव को चहोर जना || 2 ||."
+      "जैसे मृग नाद रति लागी, तैसे दसों नाद हो रागी,",
+      "अनल पंछी ज्यों अहनिश जागी, गाफिल होय न एक छिना ॥३ ॥"
     ],
     [
-      "जैसे मरिग नाद रति लागि, तैसे दसोन नाद हो रागि,",
-      "नल पनचहि जयोन हनिश जागि, गाफिल होय न ेक चहिना || 3. ||."
-    ],
-    [
-      "कहे तेऊँ गुरु शरन गहिजे, दश नादोन को परचा लिजे,",
-      "तिनका नित भयास करिजे, मधुर सुधा रस पिु घना || 4 ||"
+      "कहे टेऊँ गुरु शरन गहीजे, दश नादों को परचा लीजे,",
+      "तिनका नित अभ्यास करीजे, मधुर सुधा रस पीउ घना ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Har Kaam Men Dam Daam Men, Sunle Anhad Naad Manaa (Tek)."
-    ],
-    [
       "Shravan Men Do Anguli Paake, Sunle Dhuni Ko Dhyaan Lagaake,",
-      "Jhine Svar Se Surti Milaake, Magan Raho Tum Rain Dinaa || $ ||."
+      "Jhine Svar Se Surti Milaake, Magan Raho Tum Rain Dinaa || 1 ||"
     ],
     [
       "Shabd Rasi Ko Drirh Pakar Ke, Kram Kram Se Upar Charhke,",
-      "Megh Naad Men Surti Dharke, Jiv Bhaav Ko Chhor Janaa || 2 ||."
+      "Megh Naad Men Surti Dharke, Jiv Bhaav Ko Chhor Janaa || 2 ||"
     ],
     [
       "Jaise Mrig Naad Rati Laagi, Taise Dason Naad Ho Raagi,",
-      "Anal Panchhi Jyon Ahnish Jaagi, Gaaphil Hoy N Ek Chhinaa || 3. ||."
+      "Anal Panchhi Jyon Ahnish Jaagi, Gaaphil Hoy Na Ek Chhinaa || 3 ||"
     ],
     [
       "Kahe Teun Guru Sharan Gahije, Dash Naadon Ko Parchaa Lije,",
@@ -48,18 +97,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pahaari Bhajan || 52 || 700. ||.",
+    "हर काम में दम दाम में, सुनले अनहद नाद मना",
     "Har Kaam Men Dam Daam Men, Sunle Anhad Naad Manaa",
-    "हर काम मेन दम दाम मेन, सुनले नहद नाद मना"
+    "राग पहाड़ी भजन 52",
+    "Raag Pahaari Bhajan 52"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 701,
+  "displayOrder": 52,
+  "overallOrder": 699,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 372",
+  "updatedAt": "2026-10-26"
 }

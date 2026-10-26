@@ -2,50 +2,108 @@
   "id": "bhajan-0124",
   "slug": "kar-kaaj-kaaj-kaaj-guru",
   "categoryId": "raag-aasaa",
-  "title": "कर काज काज काज गुरु",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "कर काज काज काज गुरू",
   "romanTitle": "Kar Kaaj Kaaj Kaaj Guru",
-  "firstLine": "Kar Kaaj Kaaj Kaaj Guru. Mujhko Apnaa Naam Daan De, Kar Le Puran Kaaj Guru (Tek).",
+  "firstLine": "Kar Kaaj Kaaj Kaaj Guru.",
+  "heading": "।। राग आसा भजन ।। ६२ ।। १२४॥।",
+  "tek": [
+    "कर काज काज काज गुरू ।",
+    "मुझको अपना नाम दान दे, कर ले पूरण काज गुरू ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Kar Kaaj Kaaj Kaaj Guru.",
+    "Mujhko Apnaa Naam Daan De, Kar Le Puran Kaaj Guru (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "हरदम मुझको ऊँची मति दे, राम नाम में पूरण रति दे ।",
+        "निर्मल सन्तों की संगति दे, मया करे महाराज गुरू ॥१ ॥"
+      ],
+      "romanLines": [
+        "Hardam Mujhko Unchi Mati De, Raam Naam Men Puran Rati De.",
+        "Nirmal Santon Ki Sangti De, Mayaa Kare Mahaaraaj Guru || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "मन मेरा हरि नाम ध्यावे, मुख मेरा हरि के गुन गावे ।",
+        "बुद्धि में हरि का भाणा भावे, कर कृपा यह आज गुरू ॥२ ॥"
+      ],
+      "romanLines": [
+        "Man Meraa Hari Naam Dhyaave, Mukh Meraa Hari Ke Gun Gaave.",
+        "Buddhi Men Hari Kaa Bhaanaa Bhaave, Kar Kripaa Yah Aaj Guru || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "भोग विषय से करे निराला, सत्गुरु देवो प्रेम प्याला ।",
+        "हृदय में कर ज्ञान उजाला, दे आत्म स्वराज गुरू ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bhog Vishay Se Kare Niraalaa, Satguru Devo Prem Pyaalaa.",
+        "Hriday Men Kar Gyaan Ujaalaa, De Aatm Svaraaj Guru || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु करुणा धारी, सुन लीजे यह विनय हमारी ।",
+        "आदि अन्त मध्य कर रखवारी, राखो मेरी लाज गुरू ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Karunaa Dhaari, Sun Lije Yah Vinay Hamaari.",
+        "Aadi Ant Madhy Kar Rakhvaari, Raakho Meri Laaj Guru || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "ठ्य"
+      ],
+      "romanLines": [
+        "Thy"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "कर काज काज काज गुरु.",
-      "मुझको पना नाम दान दे, कर ले पुरन काज गुरु (टेक)."
+      "हरदम मुझको ऊँची मति दे, राम नाम में पूरण रति दे ।",
+      "निर्मल सन्तों की संगति दे, मया करे महाराज गुरू ॥१ ॥"
     ],
     [
-      "हरदम मुझको ुनचि मति दे, राम नाम मेन पुरन रति दे.",
-      "निर्मल सनतोन कि सनगति दे, मया करे महाराज गुरु || 1. ||."
+      "मन मेरा हरि नाम ध्यावे, मुख मेरा हरि के गुन गावे ।",
+      "बुद्धि में हरि का भाणा भावे, कर कृपा यह आज गुरू ॥२ ॥"
     ],
     [
-      "मन मेरा हरि नाम धयावे, मुख मेरा हरि के गुन गावे.",
-      "बुदधि मेन हरि का भाना भावे, कर कृपा यह ाज गुरु || 2 ||."
+      "भोग विषय से करे निराला, सत्गुरु देवो प्रेम प्याला ।",
+      "हृदय में कर ज्ञान उजाला, दे आत्म स्वराज गुरू ॥३ ॥"
     ],
     [
-      "भोग विशय से करे निराला, सतगुरु देवो प्रेम पयाला.",
-      "हरिदय मेन कर ज्ञान ुजाला, दे ातम सवराज गुरु.3. ||."
+      "कहे टेऊँ गुरु करुणा धारी, सुन लीजे यह विनय हमारी ।",
+      "आदि अन्त मध्य कर रखवारी, राखो मेरी लाज गुरू ॥४ ॥"
     ],
     [
-      "कहे तेऊँ गुरु करुना धारि, सुन लिजे यह विनय हमारि.",
-      "ादि नत मधय कर रखवारि, राखो मेरि लाज गुरु || 4 ||"
-    ],
-    [
-      "थय"
+      "ठ्य"
     ]
   ],
   "romanLyrics": [
     [
-      "Kar Kaaj Kaaj Kaaj Guru.",
-      "Mujhko Apnaa Naam Daan De, Kar Le Puran Kaaj Guru (Tek)."
-    ],
-    [
       "Hardam Mujhko Unchi Mati De, Raam Naam Men Puran Rati De.",
-      "Nirmal Santon Ki Sangti De, Mayaa Kare Mahaaraaj Guru || 1. ||."
+      "Nirmal Santon Ki Sangti De, Mayaa Kare Mahaaraaj Guru || 1 ||"
     ],
     [
       "Man Meraa Hari Naam Dhyaave, Mukh Meraa Hari Ke Gun Gaave.",
-      "Buddhi Men Hari Kaa Bhaanaa Bhaave, Kar Kripaa Yah Aaj Guru || 2 ||."
+      "Buddhi Men Hari Kaa Bhaanaa Bhaave, Kar Kripaa Yah Aaj Guru || 2 ||"
     ],
     [
       "Bhog Vishay Se Kare Niraalaa, Satguru Devo Prem Pyaalaa.",
-      "Hriday Men Kar Jnyaan Ujaalaa, De Aatm Svaraaj Guru.3. ||."
+      "Hriday Men Kar Gyaan Ujaalaa, De Aatm Svaraaj Guru || 3 ||"
     ],
     [
       "Kahe Teun Guru Karunaa Dhaari, Sun Lije Yah Vinay Hamaari.",
@@ -56,20 +114,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 62 || 124 ||.",
+    "कर काज काज काज गुरू",
     "Kar Kaaj Kaaj Kaaj Guru",
-    "कर काज काज काज गुरु"
+    "राग आसा भजन 62",
+    "Raag Aasaa Bhajan 62"
   ],
   "tags": [
-    "teunram",
-    "aasaa",
-    "guru-bhakti",
-    "amarapur-vaani",
-    "bhajan",
-    "naam-simran"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 124,
+  "displayOrder": 62,
+  "overallOrder": 124,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 88",
+  "updatedAt": "2026-10-26"
 }

@@ -1,44 +1,94 @@
 {
-  "id": "bhajan-0663",
+  "id": "bhajan-0661",
   "slug": "bhaag-bhale-bhaag-bhale-hain-taanke-jag-men-bhaag-bhale",
   "categoryId": "raag-pahaari",
-  "title": "भाग भले भाग भले, हैन तानके जग मेन, भाग भले",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "भाग भले भाग भले, हैं तांके जग में, भाग भले",
   "romanTitle": "Bhaag Bhale Bhaag Bhale, Hain Taanke Jag Men, Bhaag Bhale",
-  "firstLine": "Bhaag Bhale Bhaag Bhale, Hain Taanke Jag Men, Bhaag Bhale. Paapon Se Jo Man Ko Pate (Tek).",
+  "firstLine": "Bhaag Bhale Bhaag Bhale, Hain Taanke Jag Men, Bhaag Bhale.",
+  "heading": "।। राग पहाड़ी भजन ।। १४ ।। ६६२।।",
+  "tek": [
+    "भाग भले भाग भले, हैं तांके जग में, भाग भले ।",
+    "पापों से जो मन को पते ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Bhaag Bhale Bhaag Bhale, Hain Taanke Jag Men, Bhaag Bhale.",
+    "Paapon Se Jo Man Ko Pate (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "मात पिता गुरु सन्त वेद की, आज्ञा में नित जोई चले ॥१ ॥"
+      ],
+      "romanLines": [
+        "Maat Pitaa Guru Sant Ved Ki, Aajnyaa Men Nit Joi Chale || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "साध संगति मिल हरि गुण गावे, देते दान न जोई टले ॥२ ॥"
+      ],
+      "romanLines": [
+        "Saadh Sangti Mil Hari Gun Gaave, Dete Daan Na Joi Tale || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "पांच विषय से इन्द्रिय रोके, माया छल में न जोई छले ॥३ ॥"
+      ],
+      "romanLines": [
+        "Paanch Vishay Se Indriy Roke, Maayaa Chhal Men Na Joi Chhale || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ निज आतम जाने, मन दुश्मन को जोई दले ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nij Aatam Jaane, Man Dushman Ko Joi Dale || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्द्"
+      ],
+      "romanLines": [
+        "Dd"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "भाग भले भाग भले, हैन तानके जग मेन, भाग भले.",
-      "पापोन से जो मन को पते (टेक)."
+      "मात पिता गुरु सन्त वेद की, आज्ञा में नित जोई चले ॥१ ॥"
     ],
     [
-      "मात पिता गुरु संत वेद कि, ाजनया मेन नित जोि चले || 1 ||"
+      "साध संगति मिल हरि गुण गावे, देते दान न जोई टले ॥२ ॥"
     ],
     [
-      "साध सनगति मिल हरि गुन गावे, देते दान न जोि तले || 2 ||."
+      "पांच विषय से इन्द्रिय रोके, माया छल में न जोई छले ॥३ ॥"
     ],
     [
-      "पानच विशय से िनदरिय रोके, माया चहल मेन न जोि चहले || 3 ||"
+      "कहे टेऊँ निज आतम जाने, मन दुश्मन को जोई दले ॥४ ॥"
     ],
     [
-      "कहे तेऊँ निज ातम जाने, मन दुशमन को जोि दले || 4 ||"
-    ],
-    [
-      "दद"
+      "द्द्"
     ]
   ],
   "romanLyrics": [
     [
-      "Bhaag Bhale Bhaag Bhale, Hain Taanke Jag Men, Bhaag Bhale.",
-      "Paapon Se Jo Man Ko Pate (Tek)."
-    ],
-    [
       "Maat Pitaa Guru Sant Ved Ki, Aajnyaa Men Nit Joi Chale || 1 ||"
     ],
     [
-      "Saadh Sangti Mil Hari Gun Gaave, Dete Daan N Joi Tale || 2 ||."
+      "Saadh Sangti Mil Hari Gun Gaave, Dete Daan Na Joi Tale || 2 ||"
     ],
     [
-      "Paanch Vishay Se Indriy Roke, Maayaa Chhal Men N Joi Chhale || 3 ||"
+      "Paanch Vishay Se Indriy Roke, Maayaa Chhal Men Na Joi Chhale || 3 ||"
     ],
     [
       "Kahe Teun Nij Aatam Jaane, Man Dushman Ko Joi Dale || 4 ||"
@@ -48,18 +98,20 @@
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 14 || 662 ||",
+    "भाग भले भाग भले, हैं तांके जग में, भाग भले",
     "Bhaag Bhale Bhaag Bhale, Hain Taanke Jag Men, Bhaag Bhale",
-    "भाग भले भाग भले, हैन तानके जग मेन, भाग भले"
+    "राग पहाड़ी भजन 14",
+    "Raag Pahaari Bhajan 14"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 663,
+  "displayOrder": 14,
+  "overallOrder": 661,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 352",
+  "updatedAt": "2026-10-26"
 }

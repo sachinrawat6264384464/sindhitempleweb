@@ -2,70 +2,130 @@
   "id": "bhajan-0113",
   "slug": "santon-men-vishraam-hai-nit-santon-men-vishraam",
   "categoryId": "raag-aasaa",
-  "title": "सनतोन मेन विशराम है नित, सनतोन मेन विशराम",
+  "categoryName": "राग आसा",
+  "romanCategoryName": "Raag Aasaa",
+  "title": "सन्तों में विश्राम है नित, सन्तों में विश्राम",
   "romanTitle": "Santon Men Vishraam Hai Nit, Santon Men Vishraam",
   "firstLine": "Santon Men Vishraam Hai Nit, Santon Men Vishraam (Tek).",
+  "heading": "।। राग आसा भजन ।। ५१ ।। ११३।॥।",
+  "tek": [
+    "सन्तों में विश्राम है नित, सन्तों में विश्राम ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Santon Men Vishraam Hai Nit, Santon Men Vishraam (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "सनतों के संग में सुख जैसा, वैकुण्ठ में भी सुख ना तैसा ।",
+        "आनन्ददायी धाम न ऐसा, तांकी ले तुम शाम ॥१ ॥"
+      ],
+      "romanLines": [
+        "Santon Ke Sang Men Sukh Jaisaa, Vaikunth Men Bhi Sukh Naa Taisaa.",
+        "Aanandadaayi Dhaam Na Aisaa, Taanki Le Tum Shaam || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "सनतों में नित प्रेम बिराजे, प्रेम जहां तहँ राम बिराजे ।",
+        "राम जहां तहँ शान्ति बिराजे, शान्ती तहँ आराम ॥२ ॥"
+      ],
+      "romanLines": [
+        "Santon Men Nit Prem Biraaje, Prem Jahaan Tahan Raam Biraaje.",
+        "Raam Jahaan Tahan Shaanti Biraaje, Shaanti Tahan Aaraam || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "दुनिया की है जलनि न जामें, भोग विषय की अयि न वामें ।",
+        "तापों की पुनि तपति न तामें, आनन्द आठों याम ॥ ३े ॥"
+      ],
+      "romanLines": [
+        "Duniyaa Ki Hai Jalni Na Jaamen, Bhog Vishay Ki Ayi Na Vaamen.",
+        "Taapon Ki Puni Tapti Na Taamen, Aanand Aathon Yaam || 3E ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ सत्संग कीजे, सन्तजनों की शरनी लीजे ।",
+        "जन्म मरन का सब दुख छीजे, पाओ पूरन धाम ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Satsang Kije, Santajnon Ki Sharni Lije.",
+        "Janm Maran Kaa Sab Dukh Chhije, Paao Puran Dhaam || 4 ||"
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        "द्ह"
+      ],
+      "romanLines": [
+        "Dh"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सनतोन मेन विशराम है नित, सनतोन मेन विशराम (टेक)."
+      "सनतों के संग में सुख जैसा, वैकुण्ठ में भी सुख ना तैसा ।",
+      "आनन्ददायी धाम न ऐसा, तांकी ले तुम शाम ॥१ ॥"
     ],
     [
-      "सनतोन के सनग मेन सुख जैसा, वैकुनथ मेन भि सुख ना तैसा.",
-      "ाननददायि धाम न ैसा, तानकि ले तुम शाम || 1 ||"
+      "सनतों में नित प्रेम बिराजे, प्रेम जहां तहँ राम बिराजे ।",
+      "राम जहां तहँ शान्ति बिराजे, शान्ती तहँ आराम ॥२ ॥"
     ],
     [
-      "सनतोन मेन नित प्रेम बिराजे, प्रेम जहान तहन राम बिराजे.",
-      "राम जहान तहन शांति बिराजे, शांति तहन ाराम || 2 ||"
+      "दुनिया की है जलनि न जामें, भोग विषय की अयि न वामें ।",
+      "तापों की पुनि तपति न तामें, आनन्द आठों याम ॥ ३े ॥"
     ],
     [
-      "दुनिया कि है जलनि न जामेन, भोग विशय कि यि न वामेन.",
-      "तापोन कि पुनि तपति न तामेन, आनंद ाथोन याम || 3े ||"
+      "कहता टेऊँ सत्संग कीजे, सन्तजनों की शरनी लीजे ।",
+      "जन्म मरन का सब दुख छीजे, पाओ पूरन धाम ॥४ ॥"
     ],
     [
-      "कहता तेऊँ सत्संग किजे, सनतजनोन कि शरनि लिजे.",
-      "जनम मरन का सब दुःख चहिजे, पाो पुरन धाम || 4 ||."
-    ],
-    [
-      "ध"
+      "द्ह"
     ]
   ],
   "romanLyrics": [
     [
-      "Santon Men Vishraam Hai Nit, Santon Men Vishraam (Tek)."
-    ],
-    [
       "Santon Ke Sang Men Sukh Jaisaa, Vaikunth Men Bhi Sukh Naa Taisaa.",
-      "Aanandadaayi Dhaam N Aisaa, Taanki Le Tum Shaam || 1 ||"
+      "Aanandadaayi Dhaam Na Aisaa, Taanki Le Tum Shaam || 1 ||"
     ],
     [
       "Santon Men Nit Prem Biraaje, Prem Jahaan Tahan Raam Biraaje.",
       "Raam Jahaan Tahan Shaanti Biraaje, Shaanti Tahan Aaraam || 2 ||"
     ],
     [
-      "Duniyaa Ki Hai Jalni N Jaamen, Bhog Vishay Ki Ayi N Vaamen.",
-      "Taapon Ki Puni Tapti N Taamen, Aanand Aathon Yaam || 3E ||"
+      "Duniyaa Ki Hai Jalni Na Jaamen, Bhog Vishay Ki Ayi Na Vaamen.",
+      "Taapon Ki Puni Tapti Na Taamen, Aanand Aathon Yaam || 3E ||"
     ],
     [
       "Kahtaa Teun Satsang Kije, Santajnon Ki Sharni Lije.",
-      "Janm Maran Kaa Sab Dukh Chhije, Paao Puran Dhaam || 4 ||."
+      "Janm Maran Kaa Sab Dukh Chhije, Paao Puran Dhaam || 4 ||"
     ],
     [
       "Dh"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Aasaa Bhajan || 51 || 113. ||.",
+    "सन्तों में विश्राम है नित, सन्तों में विश्राम",
     "Santon Men Vishraam Hai Nit, Santon Men Vishraam",
-    "सनतोन मेन विशराम है नित, सनतोन मेन विशराम"
+    "राग आसा भजन 51",
+    "Raag Aasaa Bhajan 51"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "aasaa"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-aasaa",
+    "bhajan"
   ],
-  "displayOrder": 113,
+  "displayOrder": 51,
+  "overallOrder": 113,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 82",
+  "updatedAt": "2026-10-26"
 }

@@ -1,59 +1,99 @@
 {
-  "id": "bhajan-0463",
+  "id": "bhajan-0462",
   "slug": "saadho-adbhut-rup-hamaaraa",
   "categoryId": "raag-huseni",
-  "title": "साधो दभुत रुप हमारा",
+  "categoryName": "राग हुसैनी",
+  "romanCategoryName": "Raag Huseni",
+  "title": "साधो अद्भुत रूप हमारा",
   "romanTitle": "Saadho Adbhut Rup Hamaaraa",
-  "firstLine": "Saadho Adbhut Rup Hamaaraa. Kyaa Kahun Kachhu Kahat Bane Nahin, Anant Rup Apaaraa (Tek).",
+  "firstLine": "Saadho Adbhut Rup Hamaaraa.",
+  "heading": "।। राग हुसेनी भजन ।। १ ।। ४६३।।",
+  "tek": [
+    "साधो अद्भुत रूप हमारा ।",
+    "क्या कहूं कछु कहत बने नहिं, अनन्त रूप अपारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Saadho Adbhut Rup Hamaaraa.",
+    "Kyaa Kahun Kachhu Kahat Bane Nahin, Anant Rup Apaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "ना मैं तन मन इन्द्रिय प्राना, ना मैं चित्त अहड्ारा ।",
+        "विश्व न तेजस प्राज्ञ न कारण, सूक्ष्म थूल अकारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Naa Main Tan Man Indriy Praanaa, Naa Main Chitt Ahadaaraa.",
+        "Vishv Na Tejas Praajny Na Kaaran, Sukshm Thul Akaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "विराट न हिरण्यगर्भ अव्याकृत, इईंश नहीं अवतारा ।",
+        "निर्गुण सगुण न सत्‌ असत्‌ है, तिमिर नहीं उजियारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Viraat Na Hiranyagarbh Avyaakrit, Iinsh Nahin Avtaaraa.",
+        "Nirgun Sagun Na Sat‌ Asat‌ Hai, Timir Nahin Ujiyaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "कहे टेऊँ नहिं आदि अन्त मध्य, नहीं दृश्य संसारा ।",
+        "सत्‌्चित्‌ आनन्द अनुभव रूपा, सर्व द्वन्द्ठ ते न्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Nahin Aadi Ant Madhy, Nahin Drishy Sansaaraa.",
+        "Sat‌Chit‌ Aanand Anubhav Rupaa, Sarv Dvandth Te Nyaaraa || 3 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "साधो दभुत रुप हमारा.",
-      "कया कहुन कचहु कहत बने नहिन, ननत रुप पारा (टेक)."
+      "ना मैं तन मन इन्द्रिय प्राना, ना मैं चित्त अहड्ारा ।",
+      "विश्व न तेजस प्राज्ञ न कारण, सूक्ष्म थूल अकारा ॥१ ॥"
     ],
     [
-      "ना मैं तन मन िनदरिय पराना, ना मैं चितत हदारा.",
-      "विशव न तेजस पराजनय न कारन, सुकशम थुल कारा || 1 ||."
+      "विराट न हिरण्यगर्भ अव्याकृत, इईंश नहीं अवतारा ।",
+      "निर्गुण सगुण न सत्‌ असत्‌ है, तिमिर नहीं उजियारा ॥२ ॥"
     ],
     [
-      "विरात न हिरनयगरभ वयाकरित, ीनश नहिन वतारा.",
-      "निरगुन सगुन न सत‌ सत‌ है, तिमिर नहिन ुजियारा || 2 ||."
-    ],
-    [
-      "कहे तेऊँ नहिन ादि नत मधय, नहिन दरिशय सनसारा.",
-      "सतचित‌ आनंद नुभव रुपा, सर्व दवनदथ ते नयारा || 3 ||."
+      "कहे टेऊँ नहिं आदि अन्त मध्य, नहीं दृश्य संसारा ।",
+      "सत्‌्चित्‌ आनन्द अनुभव रूपा, सर्व द्वन्द्ठ ते न्यारा ॥३ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Saadho Adbhut Rup Hamaaraa.",
-      "Kyaa Kahun Kachhu Kahat Bane Nahin, Anant Rup Apaaraa (Tek)."
-    ],
-    [
       "Naa Main Tan Man Indriy Praanaa, Naa Main Chitt Ahadaaraa.",
-      "Vishv N Tejas Praajny N Kaaran, Sukshm Thul Akaaraa || 1 ||."
+      "Vishv Na Tejas Praajny Na Kaaran, Sukshm Thul Akaaraa || 1 ||"
     ],
     [
-      "Viraat N Hiranyagarbh Avyaakrit, Iinsh Nahin Avtaaraa.",
-      "Nirgun Sagun N Sat‌ Asat‌ Hai, Timir Nahin Ujiyaaraa || 2 ||."
+      "Viraat Na Hiranyagarbh Avyaakrit, Iinsh Nahin Avtaaraa.",
+      "Nirgun Sagun Na Sat‌ Asat‌ Hai, Timir Nahin Ujiyaaraa || 2 ||"
     ],
     [
       "Kahe Teun Nahin Aadi Ant Madhy, Nahin Drishy Sansaaraa.",
-      "Sat‌Chit‌ Aanand Anubhav Rupaa, Sarv Dvandth Te Nyaaraa || 3 ||."
+      "Sat‌Chit‌ Aanand Anubhav Rupaa, Sarv Dvandth Te Nyaaraa || 3 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Huseni Bhajan || 1 || 463 ||",
+    "साधो अद्भुत रूप हमारा",
     "Saadho Adbhut Rup Hamaaraa",
-    "साधो दभुत रुप हमारा"
+    "राग हुसैनी भजन 1",
+    "Raag Huseni Bhajan 1"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "huseni"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-huseni",
+    "bhajan"
   ],
-  "displayOrder": 463,
+  "displayOrder": 1,
+  "overallOrder": 462,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 260",
+  "updatedAt": "2026-10-26"
 }

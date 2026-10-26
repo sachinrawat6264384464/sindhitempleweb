@@ -1,40 +1,89 @@
 {
-  "id": "bhajan-0724",
+  "id": "bhajan-0722",
   "slug": "dil-ko-milaao-tum-din-dayal-se",
   "categoryId": "raag-pilaa",
-  "title": "दिल को मिलाो तुम, दीन दयाल से",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "दिल को मिलाओ तुम, दीन दयाल से",
   "romanTitle": "Dil Ko Milaao Tum, Din Dayal Se",
-  "firstLine": "Dil Ko Milaao Tum, Din Dayal Se. Din Dayal Se, Govind Gopal Se (Tek).",
+  "firstLine": "Dil Ko Milaao Tum, Din Dayal Se.",
+  "heading": "।। राग पीला भजन ।। १ ।। ७२३।।",
+  "tek": [
+    "दिल को मिलाओ तुम, दीन दयाल से ।",
+    "दीन दयाल से, गोविन्द गोपाल से ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Dil Ko Milaao Tum, Din Dayal Se.",
+    "Din Dayal Se, Govind Gopal Se (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "संग न करना कब, भोग कराल से ।",
+        "प्रीति लगाओ गुरु, सन्त मराल से ॥१ ॥"
+      ],
+      "romanLines": [
+        "Sang Na Karnaa Kab, Bhog Karaal Se.",
+        "Priti Lagaao Guru, Sant Maraal Se || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "जीते जुदाई करो, जगत जंजाल से ।",
+        "नेह निभाओ नित, हरि प्रतिपाल से ॥२ ॥"
+      ],
+      "romanLines": [
+        "Jite Judaai Karo, Jagat Janjaal Se.",
+        "Neh Nibhaao Nit, Hari Pratipal Se || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "जीत करो जन, मन बैताल से ।",
+        "सहज समा ओ निज, स्वरूप विशाल से ॥३ ॥"
+      ],
+      "romanLines": [
+        "Jit Karo Jan, Man Baitaal Se.",
+        "Sahaj Samaa O Nij, Svarup Vishaal Se || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहता टेऊँ तोड़ो, लेखा जम काल से ।",
+        "वृत्ति लगाओ तुम, ब्रह्मा अकाल से ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahtaa Teun Toro, Lekhaa Jam Kaal Se.",
+        "Vritti Lagaao Tum, Brahmaa Akaal Se || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "दिल को मिलाो तुम, दीन दयाल से.",
-      "दीन दयाल से, गोविंद गोपाल से (टेक)."
+      "संग न करना कब, भोग कराल से ।",
+      "प्रीति लगाओ गुरु, सन्त मराल से ॥१ ॥"
     ],
     [
-      "सनग न करना कब, भोग कराल से.",
-      "परिति लगाो गुरु, संत मराल से.1. ||."
+      "जीते जुदाई करो, जगत जंजाल से ।",
+      "नेह निभाओ नित, हरि प्रतिपाल से ॥२ ॥"
     ],
     [
-      "जिते जुदाि करो, जगत जनजाल से.",
-      "नेह निभाो नित, हरि प्रतिपाल से || 2 ||"
+      "जीत करो जन, मन बैताल से ।",
+      "सहज समा ओ निज, स्वरूप विशाल से ॥३ ॥"
     ],
     [
-      "जित करो जन, मन बैताल से.",
-      "सहज समा ो निज, सवरुप विशाल से || 3 ||"
-    ],
-    [
-      "कहता तेऊँ तोरो, लेखा जम काल से.",
-      "वरितति लगाो तुम, बरहम अकाल से || 4 ||."
+      "कहता टेऊँ तोड़ो, लेखा जम काल से ।",
+      "वृत्ति लगाओ तुम, ब्रह्मा अकाल से ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Dil Ko Milaao Tum, Din Dayal Se.",
-      "Din Dayal Se, Govind Gopal Se (Tek)."
-    ],
-    [
-      "Sang N Karnaa Kab, Bhog Karaal Se.",
-      "Priti Lagaao Guru, Sant Maraal Se.1. ||."
+      "Sang Na Karnaa Kab, Bhog Karaal Se.",
+      "Priti Lagaao Guru, Sant Maraal Se || 1 ||"
     ],
     [
       "Jite Judaai Karo, Jagat Janjaal Se.",
@@ -46,23 +95,24 @@
     ],
     [
       "Kahtaa Teun Toro, Lekhaa Jam Kaal Se.",
-      "Vritti Lagaao Tum, Brahma Akaal Se || 4 ||."
+      "Vritti Lagaao Tum, Brahmaa Akaal Se || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Pilaa Bhajan || 1 || 723 ||",
+    "दिल को मिलाओ तुम, दीन दयाल से",
     "Dil Ko Milaao Tum, Din Dayal Se",
-    "दिल को मिलाो तुम, दीन दयाल से"
+    "राग पीला भजन 1",
+    "Raag Pilaa Bhajan 1"
   ],
   "tags": [
-    "prarthana",
-    "teunram",
-    "pilaa",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
     "bhajan"
   ],
-  "displayOrder": 724,
+  "displayOrder": 1,
+  "overallOrder": 722,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 384",
+  "updatedAt": "2026-10-26"
 }

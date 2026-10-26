@@ -2,39 +2,88 @@
   "id": "bhajan-0392",
   "slug": "sunle-prabhu-pyaare-yah-hai-vinay-hamaari",
   "categoryId": "raag-tilang",
-  "title": "सुनले प्रभु पयारे, यह है विनय हमारि",
+  "categoryName": "राग तिलंग",
+  "romanCategoryName": "Raag Tilang",
+  "title": "सुनले प्रभू प्यारे, यह है विनय हमारी",
   "romanTitle": "Sunle Prabhu Pyaare, Yah Hai Vinay Hamaari",
-  "firstLine": "Sunle Prabhu Pyaare, Yah Hai Vinay Hamaari. Dhar Naath Haath Mujh Par, Main Hun Sharan Tumhaari (Tek).",
+  "firstLine": "Sunle Prabhu Pyaare, Yah Hai Vinay Hamaari.",
+  "heading": "।। राग तिलंग भजन ।। २९ ।। ३९३।।",
+  "tek": [
+    "सुनले प्रभू प्यारे, यह है विनय हमारी ।",
+    "धर नाथ हाथ मुझ पर, मैं हूं शरण तुम्हारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sunle Prabhu Pyaare, Yah Hai Vinay Hamaari.",
+    "Dhar Naath Haath Mujh Par, Main Hun Sharan Tumhaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "भव सिन्धु बहा जाता, कोई नहीं बचाता ।",
+        "करले तूं पार सागर, पकड़े भुजा बिहारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Bhav Sindhu Bahaa Jaataa, Koi Nahin Bachaataa.",
+        "Karle Tu Paar Saagar, Pakre Bhujaa Bihaari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ताकत नहीं है तन में, नहिं भाव भक्ति मन में ।",
+        "होगा उधार कैसे, चिन्ता मुझे है भारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Taakat Nahin Hai Tan Men, Nahin Bhaav Bhakti Man Men.",
+        "Hogaa Udhaar Kaise, Chintaa Mujhe Hai Bhaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बचपन गया खेलन में, यौवन विषय रसन में ।",
+        "कीना न शुभ कर्म को , वृथा उम्र गुज़ारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bachpan Gayaa Khelan Men, Yauvan Vishay Rasan Men.",
+        "Kinaa Na Shubh Karm Ko, Vrithaa Umr Guzaari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "बहु पतित तुम उधारे, अवगुण नहीं निहारे ।",
+        "कहे टेऊँ तार मुझको, कृपा करे मुरारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Bahu Patit Tum Udhaare, Avgun Nahin Nihaare.",
+        "Kahe Teun Taar Mujhko, Kripaa Kare Muraari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सुनले प्रभु पयारे, यह है विनय हमारि.",
-      "धर नाथ हाथ मुझ पर, मैं हुन शरन तुमहारि (टेक)."
+      "भव सिन्धु बहा जाता, कोई नहीं बचाता ।",
+      "करले तूं पार सागर, पकड़े भुजा बिहारी ॥१ ॥"
     ],
     [
-      "भव सिनधु बहा जाता, कोि नहिन बचाता.",
-      "करले तु पार सागर, पकरे भुजा बिहारि.1 ||"
+      "ताकत नहीं है तन में, नहिं भाव भक्ति मन में ।",
+      "होगा उधार कैसे, चिन्ता मुझे है भारी ॥२ ॥"
     ],
     [
-      "ताकत नहिन है तन मेन, नहिन भाव भक्ति मन मेन.",
-      "होगा ुधार कैसे, चिनता मुझे है भारि || 2 ||"
+      "बचपन गया खेलन में, यौवन विषय रसन में ।",
+      "कीना न शुभ कर्म को , वृथा उम्र गुज़ारी ॥३ ॥"
     ],
     [
-      "बचपन गया खेलन मेन, यौवन विशय रसन मेन.",
-      "किना न शुभ करम को, वरिथा ुमर गुzारि || 3 ||"
-    ],
-    [
-      "बहु पतित तुम ुधारे, वगुन नहिन निहारे.",
-      "कहे तेऊँ तार मुझको, कृपा करे मुरारि || 4 ||"
+      "बहु पतित तुम उधारे, अवगुण नहीं निहारे ।",
+      "कहे टेऊँ तार मुझको, कृपा करे मुरारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sunle Prabhu Pyaare, Yah Hai Vinay Hamaari.",
-      "Dhar Naath Haath Mujh Par, Main Hun Sharan Tumhaari (Tek)."
-    ],
-    [
       "Bhav Sindhu Bahaa Jaataa, Koi Nahin Bachaataa.",
-      "Karle Tu Paar Saagar, Pakre Bhujaa Bihaari.1 ||"
+      "Karle Tu Paar Saagar, Pakre Bhujaa Bihaari || 1 ||"
     ],
     [
       "Taakat Nahin Hai Tan Men, Nahin Bhaav Bhakti Man Men.",
@@ -42,7 +91,7 @@
     ],
     [
       "Bachpan Gayaa Khelan Men, Yauvan Vishay Rasan Men.",
-      "Kinaa N Shubh Karm Ko, Vrithaa Umr Guzaari || 3 ||"
+      "Kinaa Na Shubh Karm Ko, Vrithaa Umr Guzaari || 3 ||"
     ],
     [
       "Bahu Patit Tum Udhaare, Avgun Nahin Nihaare.",
@@ -50,19 +99,20 @@
     ]
   ],
   "alternateSpellings": [
-    "| Raag Tilang Bhajan || 29 || 393 ||",
+    "सुनले प्रभू प्यारे, यह है विनय हमारी",
     "Sunle Prabhu Pyaare, Yah Hai Vinay Hamaari",
-    "सुनले प्रभु पयारे, यह है विनय हमारि"
+    "राग तिलंग भजन 29",
+    "Raag Tilang Bhajan 29"
   ],
   "tags": [
-    "tilang",
-    "prarthana",
-    "teunram",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-tilang",
     "bhajan"
   ],
-  "displayOrder": 392,
+  "displayOrder": 29,
+  "overallOrder": 392,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 230",
+  "updatedAt": "2026-10-26"
 }

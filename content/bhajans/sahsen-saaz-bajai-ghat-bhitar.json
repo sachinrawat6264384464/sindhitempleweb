@@ -1,44 +1,93 @@
 {
-  "id": "bhajan-0490",
+  "id": "bhajan-0489",
   "slug": "sahsen-saaz-bajai-ghat-bhitar",
   "categoryId": "raag-kohiyaari",
-  "title": "सहसेन साz बजै घत भितर",
-  "romanTitle": "Sahsen Saaz Bajai Ghat Bhitar",
-  "firstLine": "Sahsen Saaz Bajai Ghat Bhitar, Madhur Madhur Jhankaaraa, Sunle Pyaaraa (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सहसें साज़ बजै घट भीतर,",
+  "romanTitle": "Sahsen Saaz Bajai Ghat Bhitar,",
+  "firstLine": "Sahsen Saaz Bajai Ghat Bhitar,",
+  "heading": "।। राग कोह्मारी भजन ।। १० ।। ४९०।।",
+  "tek": [
+    "सहसें साज़ बजै घट भीतर,",
+    "मधुर मधुर झनकारा, सुनले प्यारा ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sahsen Saaz Bajai Ghat Bhitar,",
+    "Madhur Madhur Jhankaaraa, Sunle Pyaaraa (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "घिण्ड घड़ियाला नरसिंह भेरी,",
+        "बाजत नाद नगारा, सुनले प्यारा ॥१ ॥"
+      ],
+      "romanLines": [
+        "Ghind Ghariyaalaa Narsinh Bheri,",
+        "Baajat Naad Nagaaraa, Sunle Pyaaraa || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "तबल सारंगी सुरन्दा बाजे,",
+        "चंग उपंग चौतारा, सुनले प्यारा ॥२ ॥"
+      ],
+      "romanLines": [
+        "Tabal Saarangi Surandaa Baaje,",
+        "Chang Upang Chautaaraa, Sunle Pyaaraa || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "बीन सुरीली बेहद बाजे,",
+        "अनहद का धुनिकारा, सुनले प्यारा ॥३ ॥"
+      ],
+      "romanLines": [
+        "Bin Surili Behad Baaje,",
+        "Anhad Kaa Dhunikaaraa, Sunle Pyaaraa || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ ले गुरु से युकती,",
+        "साज़ सुरीले सारा, सुनले प्यारा ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Le Guru Se Yukti,",
+        "Saaz Surile Saaraa, Sunle Pyaaraa || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सहसेन साz बजै घत भितर,",
-      "मधुर मधुर झनकारा, सुनले पयारा (टेक)."
+      "घिण्ड घड़ियाला नरसिंह भेरी,",
+      "बाजत नाद नगारा, सुनले प्यारा ॥१ ॥"
     ],
     [
-      "घिनद घरियाला नरसिनह भेरि,",
-      "बाजत नाद नगारा, सुनले पयारा || 1 ||"
+      "तबल सारंगी सुरन्दा बाजे,",
+      "चंग उपंग चौतारा, सुनले प्यारा ॥२ ॥"
     ],
     [
-      "तबल सारनगि सुरनदा बाजे,",
-      "चनग ुपनग चौतारा, सुनले पयारा || 2. ||."
+      "बीन सुरीली बेहद बाजे,",
+      "अनहद का धुनिकारा, सुनले प्यारा ॥३ ॥"
     ],
     [
-      "बिन सुरिलि बेहद बाजे,",
-      "नहद का धुनिकारा, सुनले पयारा || 3 ||"
-    ],
-    [
-      "कहे तेऊँ ले गुरु से युकति,",
-      "साz सुरिले सारा, सुनले पयारा ||.4. ||."
+      "कहे टेऊँ ले गुरु से युकती,",
+      "साज़ सुरीले सारा, सुनले प्यारा ॥४ ॥"
     ]
   ],
   "romanLyrics": [
-    [
-      "Sahsen Saaz Bajai Ghat Bhitar,",
-      "Madhur Madhur Jhankaaraa, Sunle Pyaaraa (Tek)."
-    ],
     [
       "Ghind Ghariyaalaa Narsinh Bheri,",
       "Baajat Naad Nagaaraa, Sunle Pyaaraa || 1 ||"
     ],
     [
       "Tabal Saarangi Surandaa Baaje,",
-      "Chang Upang Chautaaraa, Sunle Pyaaraa || 2. ||."
+      "Chang Upang Chautaaraa, Sunle Pyaaraa || 2 ||"
     ],
     [
       "Bin Surili Behad Baaje,",
@@ -46,22 +95,24 @@
     ],
     [
       "Kahe Teun Le Guru Se Yukti,",
-      "Saaz Surile Saaraa, Sunle Pyaaraa ||.4. ||."
+      "Saaz Surile Saaraa, Sunle Pyaaraa || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kohmaari Bhajan || 10 || 490 ||",
-    "Sahsen Saaz Bajai Ghat Bhitar",
-    "सहसेन साz बजै घत भितर"
+    "सहसें साज़ बजै घट भीतर,",
+    "Sahsen Saaz Bajai Ghat Bhitar,",
+    "राग कोहियारी भजन 10",
+    "Raag Kohiyaari Bhajan 10"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "kohiyaari",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 490,
+  "displayOrder": 10,
+  "overallOrder": 489,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 274",
+  "updatedAt": "2026-10-26"
 }

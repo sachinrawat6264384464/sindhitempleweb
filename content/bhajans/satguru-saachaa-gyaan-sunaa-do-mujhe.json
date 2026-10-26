@@ -1,0 +1,134 @@
+{
+  "id": "bhajan-0791",
+  "slug": "satguru-saachaa-gyaan-sunaa-do-mujhe",
+  "categoryId": "raag-pilaa",
+  "categoryName": "राग पीला",
+  "romanCategoryName": "Raag Pilaa",
+  "title": "सत्‌गुरु साचा ज्ञान सुना दो मुझे,",
+  "romanTitle": "Sat‌Guru Saachaa Gyaan Sunaa Do Mujhe,",
+  "firstLine": "Sat‌Guru Saachaa Gyaan Sunaa Do Mujhe,",
+  "heading": "।। राग पीला भजन ।। ७१ ।। ७९३।।",
+  "tek": [
+    "सत्‌गुरु साचा ज्ञान सुना दो मुझे,",
+    "सब भिन्न भिन्न कर समझा दो मुझे ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Saachaa Gyaan Sunaa Do Mujhe,",
+    "Sab Bhinn Bhinn Kar Samjhaa Do Mujhe (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "शोक सिन्धु में डूबता हूं, सूझता ना धर्म है ।",
+        "काम क्या करना मुझे है, क्या कर्म अकर्म है ।",
+        "यह मर्म सर्व ही लखा दो मुझे ॥१ ॥"
+      ],
+      "romanLines": [
+        "Shok Sindhu Men Dubtaa Hun, Sujhtaa Naa Dharm Hai.",
+        "Kaam Kyaa Karnaa Mujhe Hai, Kyaa Karm Akarm Hai.",
+        "Yah Marm Sarv Hi Lakhaa Do Mujhe || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "योग के हैं अंग कितने, योग किसको कहत हैं ।",
+        "योग साधन साध योगी, रहन कैसी रहत हैं ।",
+        "वह योग कला सिखला दो मुझे ॥२ ॥"
+      ],
+      "romanLines": [
+        "Yog Ke Hain Ang Kitne, Yog Kisko Kahat Hain.",
+        "Yog Saadhan Saadh Yogi, Rahan Kaisi Rahat Hain.",
+        "Vah Yog Kalaa Sikhlaa Do Mujhe || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "मन बड़ा चंचल बली है, ठौर कहं पाता नहीं ।",
+        "रोकना है कठिन इसका, हाथ यह आता नहीं ।",
+        "मन जीतन युक्ति जना दो मुझे ॥३ ॥"
+      ],
+      "romanLines": [
+        "Man Baraa Chanchal Bali Hai, Thaur Kahan Paataa Nahin.",
+        "Roknaa Hai Kathin Iskaa, Haath Yah Aataa Nahin.",
+        "Man Jitan Yukti Janaa Do Mujhe || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "आतमा परमातमा का, क्या कहो वीचार है ।",
+        "कहत टेऊँ क्यों भया, कैसे बना संसार है ।",
+        "यह सगले भेद बता दो मुझे ॥४ ॥"
+      ],
+      "romanLines": [
+        "Aatmaa Parmaatmaa Kaa, Kyaa Kaho Vichaar Hai.",
+        "Kahat Teun Kyon Bhayaa, Kaise Banaa Sansaar Hai.",
+        "Yah Sagle Bhed Bataa Do Mujhe || 4 ||"
+      ]
+    }
+  ],
+  "lyrics": [
+    [
+      "शोक सिन्धु में डूबता हूं, सूझता ना धर्म है ।",
+      "काम क्या करना मुझे है, क्या कर्म अकर्म है ।",
+      "यह मर्म सर्व ही लखा दो मुझे ॥१ ॥"
+    ],
+    [
+      "योग के हैं अंग कितने, योग किसको कहत हैं ।",
+      "योग साधन साध योगी, रहन कैसी रहत हैं ।",
+      "वह योग कला सिखला दो मुझे ॥२ ॥"
+    ],
+    [
+      "मन बड़ा चंचल बली है, ठौर कहं पाता नहीं ।",
+      "रोकना है कठिन इसका, हाथ यह आता नहीं ।",
+      "मन जीतन युक्ति जना दो मुझे ॥३ ॥"
+    ],
+    [
+      "आतमा परमातमा का, क्या कहो वीचार है ।",
+      "कहत टेऊँ क्यों भया, कैसे बना संसार है ।",
+      "यह सगले भेद बता दो मुझे ॥४ ॥"
+    ]
+  ],
+  "romanLyrics": [
+    [
+      "Shok Sindhu Men Dubtaa Hun, Sujhtaa Naa Dharm Hai.",
+      "Kaam Kyaa Karnaa Mujhe Hai, Kyaa Karm Akarm Hai.",
+      "Yah Marm Sarv Hi Lakhaa Do Mujhe || 1 ||"
+    ],
+    [
+      "Yog Ke Hain Ang Kitne, Yog Kisko Kahat Hain.",
+      "Yog Saadhan Saadh Yogi, Rahan Kaisi Rahat Hain.",
+      "Vah Yog Kalaa Sikhlaa Do Mujhe || 2 ||"
+    ],
+    [
+      "Man Baraa Chanchal Bali Hai, Thaur Kahan Paataa Nahin.",
+      "Roknaa Hai Kathin Iskaa, Haath Yah Aataa Nahin.",
+      "Man Jitan Yukti Janaa Do Mujhe || 3 ||"
+    ],
+    [
+      "Aatmaa Parmaatmaa Kaa, Kyaa Kaho Vichaar Hai.",
+      "Kahat Teun Kyon Bhayaa, Kaise Banaa Sansaar Hai.",
+      "Yah Sagle Bhed Bataa Do Mujhe || 4 ||"
+    ]
+  ],
+  "alternateSpellings": [
+    "सत्‌गुरु साचा ज्ञान सुना दो मुझे,",
+    "Sat‌Guru Saachaa Gyaan Sunaa Do Mujhe,",
+    "राग पीला भजन 70",
+    "Raag Pilaa Bhajan 70"
+  ],
+  "tags": [
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pilaa",
+    "bhajan"
+  ],
+  "displayOrder": 70,
+  "overallOrder": 791,
+  "isDemo": false,
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 419",
+  "updatedAt": "2026-10-26"
+}

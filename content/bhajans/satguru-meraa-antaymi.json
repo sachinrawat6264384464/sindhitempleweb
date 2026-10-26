@@ -1,68 +1,118 @@
 {
-  "id": "bhajan-0488",
+  "id": "bhajan-0487",
   "slug": "satguru-meraa-antaymi",
   "categoryId": "raag-kohiyaari",
-  "title": "सतगुरु मेरा नतयमि",
-  "romanTitle": "Sat‌Guru Meraa Antaymi",
-  "firstLine": "Sat‌Guru Meraa Antaymi, Puran Par Upkaari, Nit Avtaari (Tek).",
+  "categoryName": "राग कोहियारी",
+  "romanCategoryName": "Raag Kohiyaari",
+  "title": "सत्‌गुरु मेरा अन्तयमि,",
+  "romanTitle": "Sat‌Guru Meraa Antaymi,",
+  "firstLine": "Sat‌Guru Meraa Antaymi,",
+  "heading": "।। राग कोदह्यारी भजन ।। ८ ।। ४८८ ।।",
+  "tek": [
+    "सत्‌गुरु मेरा अन्तयमि,",
+    "पूरन पर उपकारी, नित अवतारी ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Sat‌Guru Meraa Antaymi,",
+    "Puran Par Upkaari, Nit Avtaari (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "पाप ताप हर पांच क्लेशा,",
+        "मन की ममता मारी, दुर्मति टारी ॥१ ॥"
+      ],
+      "romanLines": [
+        "Paap Taap Har Paanch Kleshaa,",
+        "Man Ki Mamtaa Maari, Durmati Taari || 1 ||"
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "अनुभव ज्योति जगाए उर में,",
+        "अविद्या रैन निवारी, कर उजियारी ॥२ ॥"
+      ],
+      "romanLines": [
+        "Anubhav Jyoti Jagaae Ur Men,",
+        "Avidyaa Rain Nivaari, Kar Ujiyaari || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "योग अभ्यास की युक्ती देके,",
+        "खोली सुषुम्न नाड़ी , भयी सुध सारी ॥३ ॥"
+      ],
+      "romanLines": [
+        "Yog Abhyaas Ki Yukti Deke,",
+        "Kholi Sushumn Naari, Bhayi Sudh Saari || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "कहे टेऊँ गुरु ज्ञान बताया,",
+        "पाया पद निर्धारी, अति सुखकारी ॥४ ॥"
+      ],
+      "romanLines": [
+        "Kahe Teun Guru Gyaan Bataayaa,",
+        "Paayaa Pad Nirdhaari, Ati Sukhkaari || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "सतगुरु मेरा नतयमि,",
-      "पुरन पर ुपकारि, नित वतारि (टेक)."
+      "पाप ताप हर पांच क्लेशा,",
+      "मन की ममता मारी, दुर्मति टारी ॥१ ॥"
     ],
     [
-      "पाप ताप हर पानच कलेशा,",
-      "मन कि ममता मारि, दुरमति तारि. || 1. ||."
+      "अनुभव ज्योति जगाए उर में,",
+      "अविद्या रैन निवारी, कर उजियारी ॥२ ॥"
     ],
     [
-      "नुभव जयोति जगाे ुर मेन,",
-      "विदया रैन निवारि, कर ुजियारि || 2 ||."
+      "योग अभ्यास की युक्ती देके,",
+      "खोली सुषुम्न नाड़ी , भयी सुध सारी ॥३ ॥"
     ],
     [
-      "योग भयास कि युकति देके,",
-      "खोलि सुशुमन नारि, भयि सुध सारि ||.3 ||"
-    ],
-    [
-      "कहे तेऊँ गुरु ज्ञान बताया,",
-      "पाया पद निरधारि, ति सुखकारि ||.4 ||"
+      "कहे टेऊँ गुरु ज्ञान बताया,",
+      "पाया पद निर्धारी, अति सुखकारी ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Sat‌Guru Meraa Antaymi,",
-      "Puran Par Upkaari, Nit Avtaari (Tek)."
-    ],
-    [
       "Paap Taap Har Paanch Kleshaa,",
-      "Man Ki Mamtaa Maari, Durmati Taari. || 1. ||."
+      "Man Ki Mamtaa Maari, Durmati Taari || 1 ||"
     ],
     [
       "Anubhav Jyoti Jagaae Ur Men,",
-      "Avidyaa Rain Nivaari, Kar Ujiyaari || 2 ||."
+      "Avidyaa Rain Nivaari, Kar Ujiyaari || 2 ||"
     ],
     [
       "Yog Abhyaas Ki Yukti Deke,",
-      "Kholi Sushumn Naari, Bhayi Sudh Saari ||.3 ||"
+      "Kholi Sushumn Naari, Bhayi Sudh Saari || 3 ||"
     ],
     [
-      "Kahe Teun Guru Jnyaan Bataayaa,",
-      "Paayaa Pad Nirdhaari, Ati Sukhkaari ||.4 ||"
+      "Kahe Teun Guru Gyaan Bataayaa,",
+      "Paayaa Pad Nirdhaari, Ati Sukhkaari || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "| Raag Kodahyaari Bhajan || 8 || 488 ||",
-    "Sat‌Guru Meraa Antaymi",
-    "सतगुरु मेरा नतयमि"
+    "सत्‌गुरु मेरा अन्तयमि,",
+    "Sat‌Guru Meraa Antaymi,",
+    "राग कोहियारी भजन 8",
+    "Raag Kohiyaari Bhajan 8"
   ],
   "tags": [
-    "teunram",
-    "kohiyaari",
-    "guru-bhakti",
-    "amarapur-vaani",
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-kohiyaari",
     "bhajan"
   ],
-  "displayOrder": 488,
+  "displayOrder": 8,
+  "overallOrder": 487,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 273",
+  "updatedAt": "2026-10-26"
 }

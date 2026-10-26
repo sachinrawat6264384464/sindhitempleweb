@@ -1,91 +1,132 @@
 {
-  "id": "bhajan-0721",
+  "id": "bhajan-0719",
   "slug": "mere-param-snehi-nek-kathaa-sodham-ki-suno",
   "categoryId": "raag-pahaari",
-  "title": "मेरे परम सनेहि नेक, कथा सोधम‌ कि सुनो",
+  "categoryName": "राग पहाड़ी",
+  "romanCategoryName": "Raag Pahaari",
+  "title": "मेरे परम स्नेही नेक, कथा सोडहम्‌ की सुनो",
   "romanTitle": "Mere Param Snehi Nek, Kathaa Sodham‌ Ki Suno",
   "firstLine": "Mere Param Snehi Nek, Kathaa Sodham‌ Ki Suno (Tek).",
+  "heading": "।। राग पहाड़ी भजन ।। ७२ ।। ७२०॥।",
+  "tek": [
+    "मेरे परम स्नेही नेक, कथा सोडहम्‌ की सुनो ॥ टेक ॥"
+  ],
+  "romanTek": [
+    "Mere Param Snehi Nek, Kathaa Sodham‌ Ki Suno (Tek)."
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        "देव सकल मिल खोजन चाले, जग का कर्त्ता कौन जी ।",
+        "नभ से सोडहम्‌ बानी होई, आप रहो सब मौन जी ।",
+        "मैं सब जग की हूं टेक ॥१ ॥"
+      ],
+      "romanLines": [
+        "Dev Sakal Mil Khojan Chaale, Jag Kaa Karttaa Kaun Ji.",
+        "Nabh Se Sodham‌ Baani Hoi, Aap Raho Sab Maun Ji.",
+        "Main Sab Jag Ki Hun1 (Tek)."
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        "ब्रह्मा आत्मा देह विश्व में, वायू रसना मान ले ।",
+        "सोडहम्‌ सोडहम्‌ू केवल तांकी, सहजे भाषा जान ले ।",
+        "मन चित्त को करके एक ॥२ ॥"
+      ],
+      "romanLines": [
+        "Brahmaa Aatmaa Deh Vishv Men, Vaayu Rasnaa Maan Le.",
+        "Sodham‌ Sodham‌U Keval Taanki, Sahje Bhaashaa Jaan Le.",
+        "Man Chitt Ko Karke Ek || 2 ||"
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        "प्रान अपान के घोड़े चढ़ कर, सैर करे ब्रह्माण्ड में ।",
+        "सोडहम्‌ बिन घट को ना खाली, सारे इस वरभाण्ड में ।",
+        "निज बुद्धि से करो विवेक ॥३ ॥"
+      ],
+      "romanLines": [
+        "Praan Apaan Ke Ghore Charh Kar, Sair Kare Brahmaand Men.",
+        "Sodham‌ Bin Ghat Ko Naa Khaali, Saare Is Varbhaand Men.",
+        "Nij Buddhi Se Karo Vivek || 3 ||"
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        "अनुभव रूपी भावना मात्र, सबके रहता मूल में ।",
+        "कहे टेऊँ थिर रहो मूल में, भूल पड़ो ना थूल में ।",
+        "सुख इस बिन और अलेक ॥४ ॥"
+      ],
+      "romanLines": [
+        "Anubhav Rupi Bhaavnaa Maatr, Sabke Rahtaa Mul Men.",
+        "Kahe Teun Thir Raho Mul Men, Bhul Paro Naa Thul Men.",
+        "Sukh Is Bin Aur Alek || 4 ||"
+      ]
+    }
+  ],
   "lyrics": [
     [
-      "मेरे परम सनेहि नेक, कथा सोधम‌ कि सुनो (टेक)."
+      "देव सकल मिल खोजन चाले, जग का कर्त्ता कौन जी ।",
+      "नभ से सोडहम्‌ बानी होई, आप रहो सब मौन जी ।",
+      "मैं सब जग की हूं टेक ॥१ ॥"
     ],
     [
-      "देव सकल मिल खोजन चाले, जग का करतता कौन जी.",
-      "नभ से सोधम‌ बानी होि, ाप रहो सब मौन जी."
+      "ब्रह्मा आत्मा देह विश्व में, वायू रसना मान ले ।",
+      "सोडहम्‌ सोडहम्‌ू केवल तांकी, सहजे भाषा जान ले ।",
+      "मन चित्त को करके एक ॥२ ॥"
     ],
     [
-      "मैं सब जग कि हुन1 (टेक)."
+      "प्रान अपान के घोड़े चढ़ कर, सैर करे ब्रह्माण्ड में ।",
+      "सोडहम्‌ बिन घट को ना खाली, सारे इस वरभाण्ड में ।",
+      "निज बुद्धि से करो विवेक ॥३ ॥"
     ],
     [
-      "बरहम ातमा देह विशव मेन, वायु रसना मान ले.",
-      "सोधम‌ सोधमु केवल तानकि, सहजे भाशा जान ले."
-    ],
-    [
-      "मन चितत को करके ेक || 2 ||."
-    ],
-    [
-      "द",
-      "परान पान के घोरे चरह कर, सैर करे बरहमानद मेन."
-    ],
-    [
-      "सोधम‌ बिन घत को ना खालि, सारे िस वरभानद मेन.",
-      "निज बुदधि से करो विवेक || 3 ||."
-    ],
-    [
-      "नुभव रुपि भावना मातर, सबके रहता मुल मेन.",
-      "कहे तेऊँ थिर रहो मुल मेन, भुल परो ना थुल मेन."
-    ],
-    [
-      "सुख िस बिन ौर लेक ||.4 ||"
+      "अनुभव रूपी भावना मात्र, सबके रहता मूल में ।",
+      "कहे टेऊँ थिर रहो मूल में, भूल पड़ो ना थूल में ।",
+      "सुख इस बिन और अलेक ॥४ ॥"
     ]
   ],
   "romanLyrics": [
     [
-      "Mere Param Snehi Nek, Kathaa Sodham‌ Ki Suno (Tek)."
-    ],
-    [
       "Dev Sakal Mil Khojan Chaale, Jag Kaa Karttaa Kaun Ji.",
-      "Nabh Se Sodham‌ Baani Hoi, Aap Raho Sab Maun Ji."
-    ],
-    [
+      "Nabh Se Sodham‌ Baani Hoi, Aap Raho Sab Maun Ji.",
       "Main Sab Jag Ki Hun1 (Tek)."
     ],
     [
-      "Brahma Aatmaa Deh Vishv Men, Vaayu Rasnaa Maan Le.",
-      "Sodham‌ Sodham‌U Keval Taanki, Sahje Bhaashaa Jaan Le."
+      "Brahmaa Aatmaa Deh Vishv Men, Vaayu Rasnaa Maan Le.",
+      "Sodham‌ Sodham‌U Keval Taanki, Sahje Bhaashaa Jaan Le.",
+      "Man Chitt Ko Karke Ek || 2 ||"
     ],
     [
-      "Man Chitt Ko Karke Ek || 2 ||."
-    ],
-    [
-      "D",
-      "Praan Apaan Ke Ghore Charh Kar, Sair Kare Brahmaand Men."
-    ],
-    [
+      "Praan Apaan Ke Ghore Charh Kar, Sair Kare Brahmaand Men.",
       "Sodham‌ Bin Ghat Ko Naa Khaali, Saare Is Varbhaand Men.",
-      "Nij Buddhi Se Karo Vivek || 3 ||."
+      "Nij Buddhi Se Karo Vivek || 3 ||"
     ],
     [
       "Anubhav Rupi Bhaavnaa Maatr, Sabke Rahtaa Mul Men.",
-      "Kahe Teun Thir Raho Mul Men, Bhul Paro Naa Thul Men."
-    ],
-    [
-      "Sukh Is Bin Aur Alek ||.4 ||"
+      "Kahe Teun Thir Raho Mul Men, Bhul Paro Naa Thul Men.",
+      "Sukh Is Bin Aur Alek || 4 ||"
     ]
   ],
   "alternateSpellings": [
-    "|| Raag Pahaari Bhajan || 72 || 720 ||.",
+    "मेरे परम स्नेही नेक, कथा सोडहम्‌ की सुनो",
     "Mere Param Snehi Nek, Kathaa Sodham‌ Ki Suno",
-    "मेरे परम सनेहि नेक, कथा सोधम‌ कि सुनो"
+    "राग पहाड़ी भजन 72",
+    "Raag Pahaari Bhajan 72"
   ],
   "tags": [
-    "amarapur-vaani",
-    "teunram",
-    "bhajan",
-    "pahaari"
+    "shri-amarapur-vaani",
+    "sadguru-swami-teunram",
+    "raag-pahaari",
+    "bhajan"
   ],
-  "displayOrder": 721,
+  "displayOrder": 72,
+  "overallOrder": 719,
   "isDemo": false,
-  "source": "Shri Amarapur Vaani — Sadguru Swami Teunram Ji Maharaj",
-  "updatedAt": "2026-10-25"
+  "source": "Shri Amarapur Vaani (Hindi Edition), Page 381",
+  "updatedAt": "2026-10-26"
 }
